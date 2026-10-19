@@ -18,7 +18,7 @@
 [00:02:16.580 --> 00:02:21.100] par des politiques de taux d'intérêt, qu'elle monte ou qu'elle baisse en fonction de ce qu'elle veut faire.
 [00:02:21.100 --> 00:02:30.220] Et pour être sûr de pouvoir à chaque instant retirer de la monnaie du système, elle suit des règles strictes pour sa mise à disposition.
 [00:02:30.220 --> 00:02:36.340] Elle n'est octroyée que par des prêts, de préférence à court terme et toujours solidement garantie.
-[00:02:36.340 --> 00:02:43.380] Comme on l'a vu dans l'épisode 2 et 3, les banques commerciales doivent déposer à la Bundesbank des actifs qualifiés déligibles
+[00:02:36.340 --> 00:02:43.380] Comme on l'a vu dans l'épisode 2 et 3, les banques commerciales doivent déposer à la Bundesbank des actifs qualifiés d'éligibles
 [00:02:43.380 --> 00:02:49.380] du même montant que leur emprunt. Pour rappel, il s'agit bien souvent d'obligations d'État ou d'entreprise.
 [00:02:49.380 --> 00:02:56.020] Les actions sont aussi acceptées, mais avec une décode de 20 à 30%. En cas de faillite de la banque commerciale,
 [00:02:56.020 --> 00:03:01.740] la banque centrale se remboursera en vendant les actifs qu'elle a pris en garantie. L'objectif de la Bundesbank,
@@ -28,7 +28,7 @@
 [00:03:21.460 --> 00:03:26.780] Craignant le retour d'une Allemagne forte après la réunification, Mitterrand avait poussé à la création de l'euro,
 [00:03:26.780 --> 00:03:32.220] espérant contraindre les Allemands à la solidarité européenne. Les Allemands, d'abord réticents,
 [00:03:32.220 --> 00:03:40.300] ont fini par accepter à la seule condition que ce soit un euro marque, aligné sur les considérations idéologiques allemandes.
-[00:03:40.300 --> 00:03:46.460] Du coup, l'ABCE est indépendante du pouvoir politique, et elle se situe à Frankfurt, la ville de la Bundesbank.
+[00:03:40.300 --> 00:03:46.460] Du coup, l'BCE est indépendante du pouvoir politique, et elle se situe à Francfort, la ville de la Bundesbank.
 [00:03:46.460 --> 00:03:50.740] Elle a interdiction de recourir à la planche à billets et de financer les États. L'inflation ne doit pas
 [00:03:50.740 --> 00:03:59.100] dépasser 2%. Le déficit budgétaire des États doit être inférieur à 3% du PIB, etc., etc. C'est aussi l'Allemagne
 [00:03:59.100 --> 00:04:04.980] qui a choisi d'utiliser ce système compliqué de monnaie centrale qui ne se mélange pas, justement pour que l'euro
@@ -40,7 +40,7 @@
 [00:04:41.390 --> 00:04:48.310] Sortant de la réunion, préparant le traité de Maastricht, Mitterrand s'exclama au contraire « J'ai cloué la main de l'Allemagne
 [00:04:48.310 --> 00:04:57.500] sur la table de l'euro ». Finalement, c'est bien Thatcher qui avait raison. Il avait cloué la zone euro sur la table de l'Allemagne.
 [00:04:57.500 --> 00:05:18.270] Et maintenant, une allégorie du couple franco-allemand. Mais les Allemands ont laissé passer un petit détail.
-[00:05:18.270 --> 00:05:24.150] Ils y étaient bien obligés pour permettre la circulation des euros entre les pays. Au sein du système Target 2,
+[00:05:18.270 --> 00:05:24.150] Ils y étaient bien obligés pour permettre la circulation des euros entre les pays. Au sein du système Target2,
 [00:05:24.150 --> 00:05:30.830] en échange de sa monnaie centrale, la Bundesbank ne reçoit pas de beaux actifs, bien sûr, qui vont garder leur valeur.
 [00:05:30.830 --> 00:05:36.230] Elle ne reçoit que la monnaie centrale en provenance des autres pays de la zone euro, qui s'est accumulée
 [00:05:36.230 --> 00:05:43.230] pour atteindre un montant avoisinant les 1 000 milliards d'euros. Ces actifs ne rapportent rien, sont invendables
@@ -101,22 +101,22 @@
 [00:10:13.990 --> 00:10:18.910] Pour qu'une banque centrale ne fasse jamais de pertes, les Allemands ont adopté un raisonnement très simple.
 [00:10:18.910 --> 00:10:23.950] Ils estiment qu'elle doit obéir aux mêmes règles de bonne gestion qu'une entreprise lambda.
 [00:10:23.950 --> 00:10:30.230] Et quand une entreprise lambda fait une perte supérieure à ses fonds propres, il faut que ses actionnaires la recapitalisent
-[00:10:30.230 --> 00:10:36.750] s'ils veulent l'avoir continué à fonctionner. En d'autres termes, si la Bundesbank fait une grosse perte sur les targets,
+[00:10:30.230 --> 00:10:36.750] s'ils veulent l'avoir continué à fonctionner. En d'autres termes, si la Bundesbank fait une grosse perte sur les Target,
 [00:10:36.750 --> 00:10:43.630] l'État allemand verrait sa dette augmenter du même montant que cette perte. Si vous voulez, ils prennent le problème
 [00:10:43.630 --> 00:10:49.630] par l'autre bout. Au lieu de monétiser la perte, ce qui a un impact minime sur l'économie mais déprécie la monnaie,
 [00:10:49.630 --> 00:10:55.870] ils vont chercher à retirer de la monnaie du système, comme si c'était une espèce de trou perçu. Ça permet de conserver
 [00:10:55.870 --> 00:11:01.510] la valeur de la monnaie. Par contre, ça contracte l'économie. Et quand vous contractez une économie qui est déjà
 [00:11:01.510 --> 00:11:08.510] au bord de la récession, comme c'est le cas en ce moment, eh ben ça fait très mal. C'est pour ça que les Allemands sont inquiets
-[00:11:08.510 --> 00:11:13.990] de l'augmentation des soldes target. Ils considèrent qu'ils sont en train d'offrir des Mercedes au pays du Sud
+[00:11:08.510 --> 00:11:13.990] de l'augmentation des soldes Target. Ils considèrent qu'ils sont en train d'offrir des Mercedes au pays du Sud
 [00:11:13.990 --> 00:11:21.710] sans contrepartie valable, et qu'à la fin, leurs contribuables payeront la note via des impôts. On est d'accord que les deux solutions
 [00:11:21.710 --> 00:11:28.470] pour gérer une perte ont des avantages et des inconvénients. Et selon les cas, on peut très bien choisir l'une ou l'autre des solutions.
-[00:11:28.470 --> 00:11:35.810] Mais justement, dans le cas des targets, l'idéologie dominante et les traités poussent à une politique monétaire restrictive,
+[00:11:28.470 --> 00:11:35.810] Mais justement, dans le cas des Target, l'idéologie dominante et les traités poussent à une politique monétaire restrictive,
 [00:11:35.810 --> 00:11:41.910] alors que monétiser la perte me semble être une solution plus intelligente, plus juste et plus logique
 [00:11:41.910 --> 00:11:48.390] d'un point de vue politique et social. C'est simplement la conséquence négative de l'euro pour l'Allemagne.
 [00:11:48.390 --> 00:11:53.390] J'intégrerai un peu mieux ce point de vue dans la prochaine vidéo sur l'Italie, où on verra aussi les solutions
-[00:11:53.390 --> 00:11:58.870] qui s'offrent à l'Italie pour régler cette question des targets, autre que le défaut pur et simple.
-[00:11:58.870 --> 00:12:07.780] Ça me permet d'éviter les redites, et ça servira de conclusion sur le sujet des targets.
-[00:12:07.780 --> 00:12:13.660] Il n'y a pas que l'augmentation des soldes target qui irritent les Allemands et leur donne envie de quitter système.
+[00:11:53.390 --> 00:11:58.870] qui s'offrent à l'Italie pour régler cette question des Target, autre que le défaut pur et simple.
+[00:11:58.870 --> 00:12:07.780] Ça me permet d'éviter les redites, et ça servira de conclusion sur le sujet des Target.
+[00:12:07.780 --> 00:12:13.660] Il n'y a pas que l'augmentation des soldes Target qui irritent les Allemands et leur donne envie de quitter système.
 [00:12:13.660 --> 00:12:20.980] Suite à la crise de l'euro, la BCE a dû s'écarter des dogmes monétaires en ayant recours à des politiques non conventionnelles
 [00:12:20.980 --> 00:12:29.220] pour sauver l'euro. En gros, ils font tourner la planche à billets. Et ils la font tourner pour financer des bêtises et des déficits.
 [00:12:29.220 --> 00:12:35.700] Normalement, l'article 123 du TFUE interdit à la BCE de financer directement les États.
@@ -213,10 +213,10 @@
 [00:22:45.830 --> 00:23:11.560] une Europe allemande, une sorte de quatrième Reich. C'était bien la pète de s'être cassé le cul à les foutre dehors en 1945.
 [00:23:11.560 --> 00:23:17.120] Il s'agit donc pour l'Allemagne de conserver les avantages qu'elle tire de l'UE tout en se dégageant de l'euro,
 [00:23:17.120 --> 00:23:23.760] qui est devenu une menace pour elle depuis la crise de 2010, avec l'explosion des soldes Target et l'apparition des mesures
-[00:23:23.760 --> 00:23:33.120] monétaires non conventionnelles de la BCE. Alors, James Weinman, le président de la Bundesbank à l'époque, a eu une idée.
+[00:23:23.760 --> 00:23:33.120] monétaires non conventionnelles de la BCE. Alors, Jens Weidmann, le président de la Bundesbank à l'époque, a eu une idée.
 [00:23:33.120 --> 00:23:39.640] Une idée qui peut mettre fin à l'euro de manière imperceptible et sans que les coupables puissent être clairement identifiés.
 [00:23:39.640 --> 00:23:46.200] En 2012, il a envoyé une lettre à Mario Draghi, alors président de la BCE, pour lui faire une proposition toute bête.
-[00:23:46.200 --> 00:23:53.200] « N'en tire les dettes Target II avec un collatéral ». Vous ne comprenez pas ce que ça signifie. C'est normal.
+[00:23:46.200 --> 00:23:53.200] « Nantir les dettes Target2 avec un collatéral ». Vous ne comprenez pas ce que ça signifie. C'est normal.
 [00:23:53.200 --> 00:24:01.480] En utilisant des termes jargonneux, on évite que des gens non autorisés à penser, comme vous, se mettent à penser.
 [00:24:01.480 --> 00:24:06.680] Le collatéral, c'est le nom qu'on donne à la garantie d'un prêt. Si vous ne payez pas votre emprunt immobilier,
 [00:24:06.680 --> 00:24:14.320] la banque se payera en vendant votre maison. Votre maison est le collatéral du prêt. L'idée est donc toute bête.

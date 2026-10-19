@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "video_id": "f9_i3mYLFpA",
   "resume_general": "Entretien de Thinkerview avec l'économiste Thomas Grjebine et l'ingénieur Nicolas Meilhan consacré à la fragilisation industrielle de la France, de l'Allemagne et de l'Union européenne. Les intervenants relient la crise du modèle européen à la monnaie forte, aux déséquilibres internes de la zone euro, au coût de l'énergie, au retard d'anticipation face à la stratégie industrielle chinoise et à l'insuffisance d'instruments protectionnistes. Ils discutent aussi de dette, de protection sociale, d'immobilier, de compétitivité, d'automobile électrique, de taxe carbone aux frontières, de métaux critiques et de pistes de réindustrialisation. Les propos sont argumentatifs et parfois contradictoires; l'index restitue leurs analyses sans les valider extérieurement.",
   "themes_principaux": [
@@ -584,6 +584,188 @@
     {
       "citation": "et je pense que l'Europe est bientôt morte",
       "horodatage": "02:50:09"
+    }
+  ],
+  "arguments_positions": [
+    {
+      "position": "Euro, monnaie forte et divergences européennes",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:04:16",
+        "00:06:01",
+        "01:05:00",
+        "02:39:30"
+      ]
+    },
+    {
+      "position": "Désindustrialisation française et crise du modèle allemand",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:10:36",
+        "00:20:02",
+        "00:40:13",
+        "01:39:30",
+        "02:00:00"
+      ]
+    },
+    {
+      "position": "Stratégie industrielle chinoise et concurrence commerciale",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:10:05",
+        "00:20:51",
+        "01:19:30",
+        "01:40:01",
+        "02:30:01"
+      ]
+    },
+    {
+      "position": "Énergie, gaz, nucléaire et compétitivité",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:28:00",
+        "00:30:06",
+        "00:40:36",
+        "01:43:00"
+      ]
+    },
+    {
+      "position": "Protectionnisme, droits de douane et politique industrielle",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "01:42:00",
+        "01:49:30",
+        "02:20:08",
+        "02:30:22"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "element": "politique du franc fort",
+      "horodatages": [
+        "00:05:40",
+        "02:39:30"
+      ]
+    },
+    {
+      "element": "chocs pétroliers des années 1970",
+      "horodatages": [
+        "00:41:00"
+      ]
+    },
+    {
+      "element": "crise financière et immobilière de 2008",
+      "horodatages": [
+        "01:20:27",
+        "01:30:03"
+      ]
+    },
+    {
+      "element": "crise des dettes souveraines européennes",
+      "horodatages": [
+        "01:07:30",
+        "02:41:02"
+      ]
+    },
+    {
+      "element": "crise sanitaire du Covid-19",
+      "horodatages": [
+        "00:20:39"
+      ]
+    },
+    {
+      "element": "Nord Stream",
+      "horodatages": [
+        "00:30:06"
+      ]
+    },
+    {
+      "element": "Mécanisme d'ajustement carbone aux frontières",
+      "horodatages": [
+        "02:20:16"
+      ]
+    },
+    {
+      "element": "droits de douane européens sur les véhicules électriques chinois",
+      "horodatages": [
+        "01:50:29"
+      ]
+    },
+    {
+      "element": "chute du mur de Berlin et réunification allemande",
+      "horodatages": [
+        "02:40:08"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "dévaluation interne",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "ajustement par les salaires, l'emploi et l'austérité lorsqu'une dévaluation monétaire nationale n'est plus possible",
+      "horodatages": [
+        "01:08:00",
+        "02:41:04"
+      ]
+    },
+    {
+      "source": "modèle exportateur allemand",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "production industrielle allemande, modération salariale, sous-traitance à l'Est et débouchés extérieurs",
+      "horodatages": [
+        "00:20:02",
+        "02:00:00"
+      ]
+    },
+    {
+      "source": "surcapacités chinoises",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "capacité industrielle et investissements chinois considérés comme supérieurs à la demande intérieure",
+      "horodatages": [
+        "01:19:30",
+        "01:40:01"
+      ]
+    },
+    {
+      "source": "souveraineté industrielle",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "capacité à produire les biens stratégiques et à maintenir emplois, savoir-faire et autonomie",
+      "horodatages": [
+        "00:01:23",
+        "01:49:30"
+      ]
+    },
+    {
+      "source": "allocation dirigée du crédit",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "réorientation rapide de l'investissement chinois de l'immobilier vers le manufacturier",
+      "horodatages": [
+        "01:20:00"
+      ]
+    },
+    {
+      "source": "coût complet de production",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "écart allégué de 30 à 40 % entre productions européenne et chinoise",
+      "horodatages": [
+        "01:40:21",
+        "02:00:16"
+      ]
+    },
+    {
+      "source": "monnaie forte",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "orientation monétaire associée au franc fort, au deutsche mark puis à l'euro",
+      "horodatages": [
+        "00:05:40",
+        "02:40:42"
+      ]
     }
   ]
 }

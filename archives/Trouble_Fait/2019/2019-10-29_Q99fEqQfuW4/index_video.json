@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "video_id": "Q99fEqQfuW4",
   "resume_general": "Suite de l'explication de Target2. L'auteur attribue l'apparition de soldes importants à la rupture de confiance interbancaire après la crise des subprimes, au retrait des capitaux du Sud et à l'intervention des banques centrales. Il soutient que les soldes ne sont pas des dettes ordinaires tant que tous les euros nationaux restent à parité, mais qu'ils deviennent un enjeu de règlement lors de la sortie d'un État. Il examine les cas français et italien, le risque de dévaluation ou de défaut et défend une négociation entre banques centrales plutôt qu'une ponction des contribuables.",
   "themes_principaux": [
@@ -234,6 +234,86 @@
     {
       "citation": "C'est aux Banques centrales de s'entendre entre elles",
       "horodatage": "00:11:05"
+    }
+  ],
+  "arguments_positions": [
+    {
+      "position": "Crise de 2008 et apparition des soldes Target2",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:00:59",
+        "00:01:47",
+        "00:03:06"
+      ]
+    },
+    {
+      "position": "Nature comptable des soldes Target",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:04:37",
+        "00:08:05"
+      ]
+    },
+    {
+      "position": "Sortie de l'euro, paiement et défaut",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:05:23",
+        "00:06:28",
+        "00:07:18"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "element": "crise des subprimes de 2008",
+      "horodatages": [
+        "00:01:40"
+      ]
+    },
+    {
+      "element": "règles de règlement lors d'une sortie de l'euro",
+      "horodatages": [
+        "00:05:23"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "solde Target",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "trace comptable de monnaie créée dans un pays et transférée dans un autre",
+      "horodatages": [
+        "00:04:37",
+        "00:05:10"
+      ]
+    },
+    {
+      "source": "redénomination",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "conversion d'actifs en nouvelle monnaie nationale lors d'une sortie",
+      "horodatages": [
+        "00:05:36"
+      ]
+    },
+    {
+      "source": "défaut",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "non-paiement envisagé lorsque le solde est trop élevé",
+      "horodatages": [
+        "00:07:18"
+      ]
+    },
+    {
+      "source": "monnaie centrale",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "instrument de règlement en circuit bancaire fermé selon l'auteur",
+      "horodatages": [
+        "00:08:31"
+      ]
     }
   ]
 }

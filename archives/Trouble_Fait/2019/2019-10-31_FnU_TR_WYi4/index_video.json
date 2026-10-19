@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.1",
+  "video_id": "FnU_TR_WYi4",
+  "resume_general": "Trouble Fait relie les déséquilibres Target2 à la fixation des changes, à la dévaluation interne et au défaut de mécanismes d'une zone monétaire optimale. Il expose le fédéralisme budgétaire comme solution théorique, puis le juge politiquement impraticable en raison de la diversité des États.",
+  "themes_principaux": [
+    {
+      "theme": "Dévaluation interne et modèle allemand",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:01:26",
+        "00:02:38"
+      ]
+    },
+    {
+      "theme": "Crise, capitaux et Target2",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:04:35"
+      ]
+    },
+    {
+      "theme": "Zone monétaire optimale",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:05:40"
+      ]
+    },
+    {
+      "theme": "Fédéralisme et harmonisation",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:07:45",
+        "00:08:36"
+      ]
+    },
+    {
+      "theme": "Contradiction entre concurrence et convergence",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:18:02"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Objet et position",
+      "description": "L’auteur poursuit sa série critique sur l’euro. Il interprète la hausse des soldes Target comme la trace d’une fuite durable de monnaie de l’Italie, de l’Espagne, du Portugal et de la Grèce vers l’Allemagne et d’autres créanciers. Sa thèse est que la parité fixe empêche l’ajustement normal entre économies divergentes et que l’euro ne peut durer sans transformation fédérale profonde (00:00:00).",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "sujet": "Du change à la dévaluation interne",
+      "description": "Avant la monnaie unique, un déficit extérieur tendait, selon son modèle, à déprécier la monnaie du pays déficitaire : importations plus chères et exportations plus compétitives contribuaient au rééquilibrage. Avec des parités figées, l’ajustement se reporte sur le travail, la fiscalité et les normes sociales ou environnementales. L’auteur appelle ce mécanisme « dévaluation interne » et soutient que l’euro n’a pas supprimé la concurrence entre États, mais l’a déplacée vers leurs systèmes socio-économiques (00:01:26). Les réformes Hartz allemandes sont présentées comme une baisse organisée du coût du travail qui gagne des parts de marché sans a",
+      "horodatages": [
+        "00:01:26",
+        "00:02:38"
+      ]
+    },
+    {
+      "sujet": "Capitaux, crise et Target",
+      "description": "Les premières années auraient été soutenues par des taux faibles et des investissements du Nord vers le Sud. Tant que ces flux compensaient les achats du Sud, le système fonctionnait. Après 2008, la défiance et le rapatriement des capitaux auraient bloqué le marché interbancaire ; Target rendrait alors visible l’asymétrie. L’auteur relie cette situation au chômage, à la faible croissance et à l’endettement public des pays déficitaires (00:04:35).",
+      "horodatages": [
+        "00:04:35"
+      ]
+    },
+    {
+      "sujet": "Pourquoi le dollar fonctionnerait mieux",
+      "description": "Les États-Unis servent de comparaison. L’auteur invoque le règlement périodique des positions entre banques fédérales régionales et surtout l’existence de mécanismes politiques communs. Il définit un choc asymétrique comme une difficulté frappant une région davantage que les autres et énumère trois correctifs possibles : harmonisation sociale et fiscale, mobilité du travail et transferts budgétaires ou investissements publics (00:05:40). Une fédération européenne dotée d’un budget et de pouvoirs d’harmonisation pourrait donc, dans son raisonnement, rendre la zone plus viable. Cette solution technique est aussitôt distinguée de sa faisabilité",
+      "horodatages": [
+        "00:05:40",
+        "00:07:45"
+      ]
+    },
+    {
+      "sujet": "Obstacle fédéral et diversité des États",
+      "description": "Les différences d’histoire, de culture, de géographie, de régime politique et de spécialisation économique rendent une harmonisation profonde très difficile. Un salaire, une fiscalité, une retraite ou une protection sociale communs supposeraient un accord et un transfert budgétaire que plusieurs États hors euro refuseraient. L’auteur interprète aussi certaines crises comme des occasions recherchées par des fédéralistes pour obtenir de nouveaux transferts de souveraineté, en citant Jean Monnet et Jacques Attali ; cette intention est son interprétation politique (00:08:36). Le changement d’heure sert d’exemple polémique de lenteur : si l’Union",
+      "horodatages": [
+        "00:08:36",
+        "00:14:26"
+      ]
+    },
+    {
+      "sujet": "Contradiction finale",
+      "description": "L’auteur voit une contradiction entre un marché unique fondé sur concurrence, libre-échange et spécialisation, et une monnaie unique qui exigerait convergence et harmonisation pour survivre. L’épisode s’arrête avant d’examiner en détail mobilité et transferts, annoncés pour la suite (00:18:02).",
+      "horodatages": [
+        "00:18:02"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "euro",
+    "Target2",
+    "dévaluation interne",
+    "zone monétaire optimale",
+    "réformes Hartz",
+    "fédéralisme",
+    "harmonisation",
+    "choc asymétrique"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "Target2",
+      "variantes": [
+        "Target",
+        "soldes Target",
+        "créances Target"
+      ]
+    },
+    {
+      "forme": "sortie de l'euro",
+      "variantes": [
+        "retour au franc",
+        "Italexit",
+        "redénomination"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Jacques Sapir",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jean Monnet",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jacques Attali",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Charles de Gaulle",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Union européenne",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "BCE",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Bundesbank",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Dévaluation interne et modèle allemand",
+      "explication": "L’auteur poursuit sa série critique sur l’euro. Il interprète la hausse des soldes Target comme la trace d’une fuite durable de monnaie de l’Italie, de l’Espagne, du Portugal et de la Grèce vers l’Allemagne et d’autres créanciers. Sa thèse est que la parité fixe empêche l’ajustement normal entre économies divergentes et que l’euro ne peut durer sans transformation fédérale profonde (00:00:00).",
+      "horodatages": [
+        "00:01:26",
+        "00:02:38"
+      ]
+    },
+    {
+      "nom": "Crise, capitaux et Target2",
+      "explication": "Avant la monnaie unique, un déficit extérieur tendait, selon son modèle, à déprécier la monnaie du pays déficitaire : importations plus chères et exportations plus compétitives contribuaient au rééquilibrage. Avec des parités figées, l’ajustement se reporte sur le travail, la fiscalité et les normes sociales ou environnementales. L’auteur appelle ce mécanisme « dévaluation interne » et soutient que l’euro n’a pas supprimé la concurrence entre États, mais l’a déplacée vers leurs systèmes socio-économiques (00:01:26). Les réformes Hartz allemandes sont présentées comme une baisse organisée du coût du travail qui gagne des parts de marché sans a",
+      "horodatages": [
+        "00:04:35"
+      ]
+    },
+    {
+      "nom": "Zone monétaire optimale",
+      "explication": "Les premières années auraient été soutenues par des taux faibles et des investissements du Nord vers le Sud. Tant que ces flux compensaient les achats du Sud, le système fonctionnait. Après 2008, la défiance et le rapatriement des capitaux auraient bloqué le marché interbancaire ; Target rendrait alors visible l’asymétrie. L’auteur relie cette situation au chômage, à la faible croissance et à l’endettement public des pays déficitaires (00:04:35).",
+      "horodatages": [
+        "00:05:40"
+      ]
+    },
+    {
+      "nom": "Fédéralisme et harmonisation",
+      "explication": "Les États-Unis servent de comparaison. L’auteur invoque le règlement périodique des positions entre banques fédérales régionales et surtout l’existence de mécanismes politiques communs. Il définit un choc asymétrique comme une difficulté frappant une région davantage que les autres et énumère trois correctifs possibles : harmonisation sociale et fiscale, mobilité du travail et transferts budgétaires ou investissements publics (00:05:40). Une fédération européenne dotée d’un budget et de pouvoirs d’harmonisation pourrait donc, dans son raisonnement, rendre la zone plus viable. Cette solution technique est aussitôt distinguée de sa faisabilité",
+      "horodatages": [
+        "00:07:45",
+        "00:08:36"
+      ]
+    },
+    {
+      "nom": "Contradiction entre concurrence et convergence",
+      "explication": "Les différences d’histoire, de culture, de géographie, de régime politique et de spécialisation économique rendent une harmonisation profonde très difficile. Un salaire, une fiscalité, une retraite ou une protection sociale communs supposeraient un accord et un transfert budgétaire que plusieurs États hors euro refuseraient. L’auteur interprète aussi certaines crises comme des occasions recherchées par des fédéralistes pour obtenir de nouveaux transferts de souveraineté, en citant Jean Monnet et Jacques Attali ; cette intention est son interprétation politique (00:08:36). Le changement d’heure sert d’exemple polémique de lenteur : si l’Union",
+      "horodatages": [
+        "00:18:02"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:05:40",
+      "contenu": "déséquilibres, change et dévaluation interne"
+    },
+    {
+      "debut": "00:05:40",
+      "fin": "00:08:36",
+      "contenu": "zone monétaire optimale et correctifs"
+    },
+    {
+      "debut": "00:08:36",
+      "fin": "00:18:31",
+      "contenu": "obstacles à l'harmonisation et contradiction institutionnelle"
+    }
+  ],
+  "expressions_representatives": [
+    "Objet et position",
+    "Du change à la dévaluation interne",
+    "Capitaux, crise et Target",
+    "Pourquoi le dollar fonctionnerait mieux",
+    "Obstacle fédéral et diversité des États",
+    "Contradiction finale"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "L’auteur poursuit sa série critique sur l’euro. Il interprète la hausse des soldes Target comme la trace d’une fuite durable de monnaie de l’Italie, de l’Espagne, du Portugal et de la Grèce vers l’Allemagne et d’autres créanciers. Sa thèse est que la parité fixe empêche l’ajustement normal entre économies divergentes et que l’euro ne peut durer sans transformation fédérale profonde (00:00:00).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "position": "Avant la monnaie unique, un déficit extérieur tendait, selon son modèle, à déprécier la monnaie du pays déficitaire : importations plus chères et exportations plus compétitives contribuaient au rééquilibrage. Avec des parités figées, l’ajustement se reporte sur le travail, la fiscalité et les normes sociales ou environnementales. L’auteur appelle ce mécanisme « dévaluation interne » et soutient que l’euro n’a pas supprimé la concurrence entre États, mais l’a déplacée vers leurs systèmes socio-économiques (00:01:26). Les réformes Hartz allemandes sont présentées comme une baisse organisée du coût du travail qui gagne des parts de marché sans a",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:01:26",
+        "00:02:38"
+      ]
+    },
+    {
+      "position": "Les premières années auraient été soutenues par des taux faibles et des investissements du Nord vers le Sud. Tant que ces flux compensaient les achats du Sud, le système fonctionnait. Après 2008, la défiance et le rapatriement des capitaux auraient bloqué le marché interbancaire ; Target rendrait alors visible l’asymétrie. L’auteur relie cette situation au chômage, à la faible croissance et à l’endettement public des pays déficitaires (00:04:35).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:04:35"
+      ]
+    },
+    {
+      "position": "Les États-Unis servent de comparaison. L’auteur invoque le règlement périodique des positions entre banques fédérales régionales et surtout l’existence de mécanismes politiques communs. Il définit un choc asymétrique comme une difficulté frappant une région davantage que les autres et énumère trois correctifs possibles : harmonisation sociale et fiscale, mobilité du travail et transferts budgétaires ou investissements publics (00:05:40). Une fédération européenne dotée d’un budget et de pouvoirs d’harmonisation pourrait donc, dans son raisonnement, rendre la zone plus viable. Cette solution technique est aussitôt distinguée de sa faisabilité",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:05:40",
+        "00:07:45"
+      ]
+    },
+    {
+      "position": "Les différences d’histoire, de culture, de géographie, de régime politique et de spécialisation économique rendent une harmonisation profonde très difficile. Un salaire, une fiscalité, une retraite ou une protection sociale communs supposeraient un accord et un transfert budgétaire que plusieurs États hors euro refuseraient. L’auteur interprète aussi certaines crises comme des occasions recherchées par des fédéralistes pour obtenir de nouveaux transferts de souveraineté, en citant Jean Monnet et Jacques Attali ; cette intention est son interprétation politique (00:08:36). Le changement d’heure sert d’exemple polémique de lenteur : si l’Union",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:08:36",
+        "00:14:26"
+      ]
+    },
+    {
+      "position": "L’auteur voit une contradiction entre un marché unique fondé sur concurrence, libre-échange et spécialisation, et une monnaie unique qui exigerait convergence et harmonisation pour survivre. L’épisode s’arrête avant d’examiner en détail mobilité et transferts, annoncés pour la suite (00:18:02).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:18:02"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "déséquilibres, change et dévaluation interne",
+      "contexte": "De 00:00:00 à 00:05:40",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "lieu_ou_periode": "zone monétaire optimale et correctifs",
+      "contexte": "De 00:05:40 à 00:08:36",
+      "horodatages": [
+        "00:05:40"
+      ]
+    },
+    {
+      "lieu_ou_periode": "obstacles à l'harmonisation et contradiction institutionnelle",
+      "contexte": "De 00:08:36 à 00:18:31",
+      "horodatages": [
+        "00:08:36"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Dévaluation interne et modèle allemand",
+      "relation": "contribue au raisonnement",
+      "cible": "Crise, capitaux et Target2",
+      "horodatages": [
+        "00:01:26",
+        "00:02:38"
+      ]
+    },
+    {
+      "source": "Crise, capitaux et Target2",
+      "relation": "contribue au raisonnement",
+      "cible": "Zone monétaire optimale",
+      "horodatages": [
+        "00:04:35"
+      ]
+    },
+    {
+      "source": "Zone monétaire optimale",
+      "relation": "contribue au raisonnement",
+      "cible": "Fédéralisme et harmonisation",
+      "horodatages": [
+        "00:05:40"
+      ]
+    },
+    {
+      "source": "Fédéralisme et harmonisation",
+      "relation": "contribue au raisonnement",
+      "cible": "Contradiction entre concurrence et convergence",
+      "horodatages": [
+        "00:07:45",
+        "00:08:36"
+      ]
+    }
+  ]
+}

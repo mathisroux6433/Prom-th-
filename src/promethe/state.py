@@ -7,6 +7,7 @@ from typing import Any
 from .io_utils import read_json, write_json
 
 STEPS = ("metadata", "download", "transcription", "correction", "index", "synthesis", "quality_control")
+STATUSES = {"pending", "in_progress", "provisional", "waiting_manual", "complete", "failed"}
 
 
 def now() -> str:
@@ -33,6 +34,10 @@ def load_state(directory: Path, video_id: str) -> dict[str, Any]:
 
 def set_step(directory: Path, state: dict[str, Any], step: str, status: str,
              error: str | None = None, **details: Any) -> None:
+    if step not in STEPS:
+        raise ValueError(f"Étape inconnue : {step}")
+    if status not in STATUSES:
+        raise ValueError(f"État inconnu : {status}")
     state["steps"][step] = {"status": status, "error": error, **details}
     state["updated_at"] = now()
     write_json(directory / "etat_pipeline.json", state)

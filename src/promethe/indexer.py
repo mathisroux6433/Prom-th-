@@ -12,7 +12,8 @@ INDEX_KEYS = {
     "schema_version", "video_id", "resume_general", "themes_principaux",
     "sujets_secondaires", "mots_cles", "variantes_lexicales", "personnes",
     "organismes", "concepts", "evenements_lois_reglementations", "reperes_temporels",
-    "expressions_representatives", "citations_exactes",
+    "expressions_representatives", "citations_exactes", "arguments_positions",
+    "lieux_periodes", "relations_documentaires",
 }
 
 
@@ -20,7 +21,7 @@ def prompt_for(directory: Path) -> str:
     metadata = read_json(directory / "metadata.json")
     transcript = (directory / "transcription_corrigee.txt").read_text(encoding="utf-8")
     template = {key: ([] if key not in {"schema_version", "video_id", "resume_general"} else "") for key in sorted(INDEX_KEYS)}
-    template["schema_version"] = "1.0"
+    template["schema_version"] = "1.1"
     template["video_id"] = metadata["id"]
     return f"""Crée un index documentaire fidèle en JSON strict. Ne juge pas la véracité. Distingue pour personnes, organismes et événements le niveau 'mention' ou 'developpe'. N'invente rien. Les citations_exactes doivent être verbatim ; les expressions_representatives ne sont pas des citations. Chaque élément thématique utile porte si possible des horodatages. Retourne uniquement un objet suivant cette structure :\n{json.dumps(template, ensure_ascii=False, indent=2)}\n\nMÉTADONNÉES :\n{json.dumps(metadata, ensure_ascii=False, indent=2)}\n\nTRANSCRIPTION :\n{transcript}"""
 
@@ -40,7 +41,7 @@ def import_index(directory: Path, source: Path) -> dict[str, Any]:
     if missing:
         raise PrometheError("Champs d'index manquants : " + ", ".join(sorted(missing)))
     video_id = read_json(directory / "metadata.json")["id"]
-    if data["video_id"] != video_id or data["schema_version"] != "1.0":
+    if data["video_id"] != video_id or data["schema_version"] != "1.1":
         raise PrometheError("Identifiant vidéo ou version de schéma incorrect.")
     write_json(directory / "index_video.json", data)
     return data

@@ -8,7 +8,7 @@
 [00:00:46.200 --> 00:01:05.380] car dans la réalité, l'euro nous coûte un pognon de dingue. C'est un boulet qui est en train de nous entraîner vers le tiers-monde.
 [00:01:05.380 --> 00:01:12.500] On va commencer par les avantages de l'euro. Alors c'est vrai que Marie-Charlotte n'a pas soucié de la monnaie pour ses week-ends dans la zone euro.
 [00:01:12.500 --> 00:01:19.580] C'est pratique. Et c'est sûr que le risque de change disparaît forcément dans les transactions quand vous figez les parités des monnaies.
-[00:01:19.580 --> 00:01:27.430] Quoi qu'on a vu qu'avec le système Target 2, ce risque est simplement décalé dans le temps au moins pour une partie des transactions.
+[00:01:19.580 --> 00:01:27.430] Quoi qu'on a vu qu'avec le système Target2, ce risque est simplement décalé dans le temps au moins pour une partie des transactions.
 [00:01:27.430 --> 00:01:37.830] Quoi, la suite ? Ah non, mais c'est tout ? Non, non, c'est pas une blague. Sur tous les autres sujets, l'euro est un putain de cancer.
 [00:01:37.830 --> 00:01:44.190] Alors vous pensez peut-être que j'exagère et que c'est mon parti pris anti-euro qui s'exprime. Mais vous savez, moi, si l'euro fonctionnait
 [00:01:44.190 --> 00:01:49.910] et avait tous les avantages qu'on lui prête, ça m'irait très bien. Je suis pas contre par principe ou par idéologie.
@@ -124,7 +124,7 @@
 [00:10:48.500 --> 00:10:55.060] Lors de la crise de l'euro, les dirigeants européens ont créé le MES, le mécanisme européen de stabilité.
 [00:10:55.060 --> 00:11:01.100] Si un État de la zone euro perd son accès au marché pour financer sa dette, à cause de taux d'intérêt trop élevé par exemple,
 [00:11:01.100 --> 00:11:08.140] c'est le MES qui prendra le relais. Doté initialement de 80 milliards d'euros de fonds propres, il pourra prêter au maximum
-[00:11:08.140 --> 00:11:14.900] plus de 700 milliards d'euros fournis par les autres États de la zone. La France insumant 20% de ce merdier, nous avons été taxés
+[00:11:08.140 --> 00:11:14.900] plus de 700 milliards d'euros fournis par les autres États de la zone. La la France assumant 20% de ce merdier, nous avons été taxés
 [00:11:14.900 --> 00:11:21.820] à hauteur de 16 milliards d'euros pour abonder les fonds propres. C'est plus que le prix des concessions des autoroutes.
 [00:11:21.820 --> 00:11:30.620] Et en cas de pépin, le MES pourra nous réclamer jusqu'à 142 milliards d'euros que l'État devra emprunter pour les donner aux autres États dans la mouise.
 [00:11:30.620 --> 00:11:36.620] Tout ça pour maintenir la stabilité et la cohésion de la zone euro. Ça n'a aucun autre but.
@@ -155,7 +155,7 @@
 [00:14:20.690 --> 00:14:26.030] les prix baissent de 1% par an, bah vous gagnez de l'argent. En tout cas, vous gagnez du pouvoir d'achat.
 [00:14:26.030 --> 00:14:32.510] Ensuite, la spéculation sur la fin de l'euro joue aussi un rôle. Si l'Allemagne sort de l'euro et qu'elle vous rend des marques qui valent
 [00:14:32.510 --> 00:14:39.310] 20, 30, peut-être 40 % de plus que l'euro, bah vous gagnez de l'argent, même en lui en ayant prêté à taux négatifs.
-[00:14:39.310 --> 00:14:46.690] Et enfin, certaines institutions financières ont l'obligation légale de détenir dans leur compte un certain pourcentage de bon du trésor
+[00:14:39.310 --> 00:14:46.690] Et enfin, certaines institutions financières ont l'obligation légale de détenir dans leur compte un certain pourcentage de bons du Trésor
 [00:14:46.690 --> 00:14:53.950] de leur état de référence. Donc ça les oblige à remplacer d'anciennes obligations d'État à taux positif qui arrivent à échéance
 [00:14:53.950 --> 00:14:59.830] par des nouvelles qui sont à taux négatif, et même s'ils voudraient peut-être pas en acheter autant. Donc ça maintient une demande
 [00:14:59.830 --> 00:15:05.890] qui devrait disparaître en temps normal, ce qui fait baisser les taux. C'est pour toutes ces raisons que les taux négatifs
@@ -335,11 +335,11 @@
 [00:34:23.240 --> 00:34:31.000] sans déclencher de guerre civile. Ah oui, ça aurait été dommage de rester en dehors de cette grande aventure.
 [00:34:31.000 --> 00:34:35.600] Et si on n'attendait pas la catastrophe pour sortir de l'euro, justement ? Hein ?
 [00:34:35.600 --> 00:34:43.880] Une idée parmi d'autres qui aurait pu être ajoutée dans le rapport. Mais j'imagine que c'est pas politiquement correct.
-[00:34:43.880 --> 00:34:49.680] Et pour finir, l'euro nous fait courir un dernier risque avec les targets, dans le cas où un pays débiteur choisirait quand même
-[00:34:49.680 --> 00:34:55.800] de sortir de l'euro en catastrophe. S'il fait défaut sur les targets et qu'on suit toutes les règles en vigueur,
+[00:34:43.880 --> 00:34:49.680] Et pour finir, l'euro nous fait courir un dernier risque avec les Target, dans le cas où un pays débiteur choisirait quand même
+[00:34:49.680 --> 00:34:55.800] de sortir de l'euro en catastrophe. S'il fait défaut sur les Target et qu'on suit toutes les règles en vigueur,
 [00:34:55.800 --> 00:35:01.560] ces dettes pourraient nous retomber sur la tronche par l'intermédiaire de la BCE. J'en ai déjà longuement parlé
 [00:35:01.560 --> 00:35:07.320] dans les épisodes précédents, mais un petit rappel vite fait en 30 secondes ne fera de mal à personne.
-[00:35:07.320 --> 00:35:12.400] Si l'Italie fait défaut sur les targets en sortant de l'euro, par exemple, la Banque de France ayant environ
+[00:35:07.320 --> 00:35:12.400] Si l'Italie fait défaut sur les Target en sortant de l'euro, par exemple, la Banque de France ayant environ
 [00:35:12.400 --> 00:35:20.560] 21% du capital de la BCE, elle se ramassera 21% de la perte, soit environ 100 à 120 milliards d'euros.
 [00:35:20.560 --> 00:35:25.920] Comme le cas italien aura créé un précédent, le jour où la France voudra sortir de l'euro, le paiement de cette somme
 [00:35:25.920 --> 00:35:32.000] sera exigé de la même façon, nous poussant à la ruine ou au défaut, avec toutes les complications diplomatiques
@@ -382,7 +382,7 @@
 [00:39:28.880 --> 00:39:35.740] — Je refuse le terme de « sortir de l'UE », vous savez pourquoi. Parce qu'on n'a pas à sortir du continent où on est.
 [00:39:35.740 --> 00:39:43.120] En revanche, je veux renégocier tous les traités pour qu'on refonde une Europe des coopérations respectant les nations.
 [00:39:43.120 --> 00:39:48.820] Le jour où ces gens arrivent au pouvoir, ils auront aucune légitimité pour agir vite et bien. Donc à partir de là,
-[00:39:48.820 --> 00:39:55.580] vous avez 3 options. Ils trahissent comme eutsipras, ils se font virer comme Salvini, ou bien ils pataugent dans les intrigues
+[00:39:48.820 --> 00:39:55.580] vous avez 3 options. Ils trahissent comme Tsipras, ils se font virer comme Salvini, ou bien ils pataugent dans les intrigues
 [00:39:55.580 --> 00:40:01.060] des européistes pendant des années comme les Brexiteurs anglais. Mais de toute façon, la question ne se pose pas,
 [00:40:01.060 --> 00:40:07.660] parce qu'on peut douter de l'efficacité de la démarche. Est-ce que toutes ces ambiguïtés savantes leur ont permis d'être élues ? Non.
 [00:40:07.660 --> 00:40:15.260] Est-ce que ça permet de canaliser le vote contestataire qui est majoritaire aujourd'hui vers l'impasse des promesses d'autre Europe ? Oui.

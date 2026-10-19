@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "video_id": "yLEmwlm6VS8",
   "resume_general": "Premier épisode d'une série critique sur les vingt ans de l'euro. L'auteur confronte les promesses françaises de choix, prix bas, investissement, emploi, stabilité et puissance aux estimations d'études qu'il présente comme montrant une forte perte de croissance. Il annonce que la série expliquera Target2, les déséquilibres internes de la zone euro, les scénarios de sortie et les coûts qu'il attribue à la monnaie unique. Il expose explicitement son opinion favorable à une sortie de l'Union européenne et de l'euro et reconnaît employer des raccourcis pédagogiques.",
   "themes_principaux": [
@@ -221,6 +221,82 @@
     {
       "citation": "cette série doit donc être considérée comme un défrichage",
       "horodatage": "00:09:06"
+    }
+  ],
+  "arguments_positions": [
+    {
+      "position": "Bilan critique de vingt ans d'euro",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:01:47",
+        "00:02:11"
+      ]
+    },
+    {
+      "position": "Promesses initiales et coûts allégués",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:00:02",
+        "00:02:11"
+      ]
+    },
+    {
+      "position": "Fragilité de l'euro et soldes Target2",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:05:51",
+        "00:06:44"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "element": "introduction de l'euro",
+      "horodatages": [
+        "00:00:02",
+        "00:01:47"
+      ]
+    },
+    {
+      "element": "crise de l'euro de 2011",
+      "horodatages": [
+        "00:06:03"
+      ]
+    },
+    {
+      "element": "mouvement des Gilets jaunes",
+      "horodatages": [
+        "00:03:59"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "coût contrefactuel",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "écart entre PIB réel et PIB estimé sans euro dans les études citées",
+      "horodatages": [
+        "00:02:21"
+      ]
+    },
+    {
+      "source": "convergence économique",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "rapprochement attendu des économies de la zone euro",
+      "horodatages": [
+        "00:06:32"
+      ]
+    },
+    {
+      "source": "zone monétaire optimale",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "cadre annoncé pour expliquer les déséquilibres",
+      "horodatages": [
+        "00:08:03"
+      ]
     }
   ]
 }

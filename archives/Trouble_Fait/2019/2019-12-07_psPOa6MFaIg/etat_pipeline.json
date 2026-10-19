@@ -1,11 +1,12 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "video_id": "psPOa6MFaIg",
-  "updated_at": "2026-10-18T09:17:24.031023+00:00",
+  "updated_at": "2026-10-19T04:32:04.950577+00:00",
   "steps": {
     "metadata": {
       "status": "complete",
-      "error": null
+      "error": null,
+      "source": "metadata.json"
     },
     "download": {
       "status": "complete",
@@ -15,26 +16,32 @@
     "transcription": {
       "status": "complete",
       "error": null,
-      "model": "medium",
-      "device": "cuda"
+      "source": "segments.json",
+      "segments": 287
     },
     "correction": {
       "status": "complete",
       "error": null,
-      "mode": "copie_identique_non_corrigee"
+      "mode": "correction_contextuelle_validee",
+      "timestamps_preserved": true,
+      "changed": true
     },
     "index": {
-      "status": "waiting_manual",
-      "error": "Aucun fournisseur IA automatisé configuré",
-      "prompt": "requete_indexation.txt"
+      "status": "complete",
+      "error": null,
+      "source": "index_video.json",
+      "schema": "1.1"
     },
     "synthesis": {
-      "status": "pending",
-      "error": null
+      "status": "complete",
+      "error": null,
+      "source": "synthese_video.md"
     },
     "quality_control": {
-      "status": "pending",
-      "error": null
+      "status": "complete",
+      "error": null,
+      "report": "rapport_controle_qualite.md",
+      "verdict": "conforme"
     }
   }
 }

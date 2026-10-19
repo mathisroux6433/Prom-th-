@@ -6,10 +6,11 @@ import sys
 from pathlib import Path
 
 from .archive import find_video, verify_archive
+from .corrector import export_prompt as export_correction_prompt, import_correction
 from .layout import migrate_archive_layout
 from .errors import PrometheError
 from .indexer import export_prompt, import_index
-from .pipeline import process, process_file
+from .pipeline import process, process_file, process_playlist
 from .quality import export_prompt as export_quality_prompt, import_review
 from .state import load_state, set_step
 from .synthesizer import export_prompt as export_synthesis_prompt, import_synthesis
@@ -27,21 +28,10 @@ def offer_quality_review(directory: Path) -> None:
     state = load_state(directory, metadata["id"])
     if not (directory / "synthese_video.md").exists() or state["steps"]["quality_control"]["status"] != "pending":
         return
-    try:
-        answer = input("Voulez-vous effectuer une relecture IA pour affiner la synthèse ? [Oui / Plus tard / Non] ").strip().lower()
-    except EOFError:
-        answer = "plus tard"
-    if answer in {"oui", "o", "yes", "y"}:
-        prompt = export_quality_prompt(directory)
-        set_step(directory, state, "quality_control", "waiting_manual", prompt=prompt.name, optional=True)
-        print(f"Requête de relecture prête : {prompt}")
-    elif answer in {"non", "n", "no"}:
-        set_step(directory, state, "quality_control", "declined", optional=True)
-        print("Relecture IA facultative refusée.")
-    else:
-        set_step(directory, state, "quality_control", "pending", optional=True,
-                 note="Relecture reportée")
-        print("Relecture IA laissée en attente.")
+    prompt = export_quality_prompt(directory)
+    set_step(directory, state, "quality_control", "waiting_manual", prompt=prompt.name,
+             note="Contrôle qualité obligatoire")
+    print(f"Requête de contrôle qualité prête : {prompt}")
 
 
 def parser() -> argparse.ArgumentParser:
@@ -50,8 +40,11 @@ def parser() -> argparse.ArgumentParser:
     sub = p.add_subparsers(dest="command", required=True)
     one = sub.add_parser("traiter"); one.add_argument("url"); one.add_argument("--modele", default="medium")
     batch = sub.add_parser("lot"); batch.add_argument("fichier", type=Path); batch.add_argument("--modele", default="medium")
+    playlist = sub.add_parser("playlist"); playlist.add_argument("url"); playlist.add_argument("--modele", default="medium")
     resume = sub.add_parser("reprendre"); resume.add_argument("url"); resume.add_argument("--modele", default="medium")
     status = sub.add_parser("verifier"); status.add_argument("video_id", nargs="?")
+    correction = sub.add_parser("exporter-correction"); correction.add_argument("video_id"); correction.add_argument("--sortie", type=Path)
+    rebuild_correction = sub.add_parser("corriger-transcription"); rebuild_correction.add_argument("video_id"); rebuild_correction.add_argument("--importer", type=Path)
     export = sub.add_parser("exporter-index"); export.add_argument("video_id"); export.add_argument("--sortie", type=Path)
     rebuild = sub.add_parser("regenerer-index"); rebuild.add_argument("video_id"); rebuild.add_argument("--importer", type=Path)
     synthesis = sub.add_parser("exporter-synthese"); synthesis.add_argument("video_id"); synthesis.add_argument("--sortie", type=Path)
@@ -73,6 +66,9 @@ def main(argv: list[str] | None = None) -> int:
         if args.command == "lot":
             for url, result in process_file(args.fichier, args.archives, args.modele): print(f"{url}\t{result}")
             return 0
+        if args.command == "playlist":
+            for url, result in process_playlist(args.url, args.archives, args.modele): print(f"{url}\t{result}")
+            return 0
         if args.command == "verifier":
             dirs = [directory_for(args.archives, args.video_id)] if args.video_id else list(args.archives.glob("*/*/*_*"))
             reports = [verify_archive(path) for path in dirs]
@@ -81,6 +77,18 @@ def main(argv: list[str] | None = None) -> int:
         if args.command == "migrer-archive":
             operations = migrate_archive_layout(directory)
             print(json.dumps(operations, ensure_ascii=False, indent=2)); return 0
+        if args.command == "exporter-correction" or (args.command == "corriger-transcription" and not args.importer):
+            prompt = export_correction_prompt(directory, getattr(args, "sortie", None))
+            state = load_state(directory, args.video_id)
+            set_step(directory, state, "correction", "waiting_manual", prompt=prompt.name)
+            print(prompt); return 0
+        if args.command == "corriger-transcription":
+            import_correction(directory, args.importer)
+            state = load_state(directory, args.video_id)
+            raw = directory / "transcription_brute.txt"; corrected = directory / "transcription_corrigee.txt"
+            set_step(directory, state, "correction", "complete", source=str(args.importer),
+                     mode="correction_contextuelle_validee", changed=raw.read_bytes() != corrected.read_bytes())
+            print(corrected); return 0
         if args.command == "exporter-index" or (args.command == "regenerer-index" and not args.importer):
             print(export_prompt(directory, getattr(args, "sortie", None))); return 0
         if args.command == "regenerer-index":
@@ -96,18 +104,18 @@ def main(argv: list[str] | None = None) -> int:
         if args.command == "exporter-controle" or (args.command == "relire-synthese" and not args.importer):
             prompt = export_quality_prompt(directory, getattr(args, "sortie", None))
             state = load_state(directory, args.video_id)
-            set_step(directory, state, "quality_control", "waiting_manual", prompt=prompt.name, optional=True)
+            set_step(directory, state, "quality_control", "waiting_manual", prompt=prompt.name)
             print(prompt); return 0
         try:
             result = import_review(directory, args.importer)
         except PrometheError as exc:
             state = load_state(directory, args.video_id)
             set_step(directory, state, "quality_control", "failed", error=str(exc),
-                     source=str(args.importer), optional=True)
+                     source=str(args.importer))
             raise
         state = load_state(directory, args.video_id)
         set_step(directory, state, "quality_control", "complete", source=str(args.importer),
-                 report="rapport_controle_qualite.md", synthesis_changed=result["changed"], backup=result["backup"])
+                 report="rapport_controle_qualite.md", synthesis_changed=result["changed"])
         print(directory / "rapport_controle_qualite.md"); return 0
     except PrometheError as exc:
         print(f"Erreur : {exc}", file=sys.stderr); return 2

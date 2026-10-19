@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "video_id": "2yaMBOGNjKs",
   "resume_general": "Épisode pédagogique expliquant, selon l'auteur, comment les bilans comptables, la création monétaire bancaire, la monnaie centrale, la compensation et le marché interbancaire permettent les paiements. Le raisonnement progresse d'un virement dans une même banque à un paiement entre banques, puis entre la France et l'Allemagne. L'auteur présente l'euro comme l'agrégation de monnaies centrales nationales échangeables à parité et annonce que l'arrêt du marché interbancaire après 2008 explique la hausse des soldes Target2.",
   "themes_principaux": [
@@ -231,6 +231,83 @@
     {
       "citation": "le même schéma se répète à l'échelon supérieur entre les banques centrales de la zone euro et la BCE",
       "horodatage": "00:11:06"
+    }
+  ],
+  "arguments_positions": [
+    {
+      "position": "Comptabilité bancaire et création monétaire",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:01:17",
+        "00:04:38"
+      ]
+    },
+    {
+      "position": "Monnaie centrale et paiements interbancaires",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:07:23",
+        "00:09:15"
+      ]
+    },
+    {
+      "position": "Architecture de l'eurosystème et Target2",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:11:06",
+        "00:12:43"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "element": "crise des subprimes de 2008",
+      "horodatages": [
+        "00:06:36"
+      ]
+    },
+    {
+      "element": "baisse des taux directeurs de la BCE",
+      "horodatages": [
+        "00:10:41"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "création monétaire par le crédit",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "création simultanée d'un dépôt au passif et d'une créance à l'actif",
+      "horodatages": [
+        "00:04:48"
+      ]
+    },
+    {
+      "source": "compensation",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "règlement des seuls soldes nets entre banques",
+      "horodatages": [
+        "00:09:46"
+      ]
+    },
+    {
+      "source": "monnaie centrale",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "actif de règlement entre banques commerciales",
+      "horodatages": [
+        "00:07:23"
+      ]
+    },
+    {
+      "source": "marché interbancaire",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "prêts et promesses de paiement entre banques",
+      "horodatages": [
+        "00:10:04"
+      ]
     }
   ]
 }

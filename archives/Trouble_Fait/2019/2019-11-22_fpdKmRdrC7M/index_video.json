@@ -1,0 +1,349 @@
+{
+  "schema_version": "1.1",
+  "video_id": "fpdKmRdrC7M",
+  "resume_general": "Trouble Fait examine la doctrine monétaire allemande, les gains exportateurs et risques Target, les politiques non conventionnelles de la BCE et un scénario Target3 où l'exigence de collatéral fragmenterait furtivement l'euro.",
+  "themes_principaux": [
+    {
+      "theme": "Doctrine de la Bundesbank",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:01:00"
+      ]
+    },
+    {
+      "theme": "Exportations et créances Target",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:05:18"
+      ]
+    },
+    {
+      "theme": "Monétisation ou recapitalisation",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:08:04"
+      ]
+    },
+    {
+      "theme": "Politiques non conventionnelles de la BCE",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:12:07"
+      ]
+    },
+    {
+      "theme": "Scénario Target3",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:23:11",
+        "00:27:05"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Doctrine monétaire allemande",
+      "description": "L’auteur relie la préférence allemande pour une monnaie forte au traumatisme de l’hyperinflation et aux retraites capitalisées. Il décrit une Bundesbank indépendante, hostile au financement monétaire, exigeant des actifs solides et orientée vers la stabilité des prix. L’euro aurait été accepté comme un « euro-mark » reprenant ces règles : BCE indépendante, inflation basse, discipline budgétaire et monnaie réversible (00:01:00). Mitterrand aurait voulu arrimer l’Allemagne ; l’auteur, citant Margaret Thatcher, soutient que l’Europe s’est plutôt arrimée au modèle allemand (00:03:21).",
+      "horodatages": [
+        "00:01:00",
+        "00:03:21"
+      ]
+    },
+    {
+      "sujet": "Exportations allemandes et créances Target",
+      "description": "L’euro avantage les exportateurs allemands, mais la Bundesbank accumule en contrepartie des créances Target jugées peu liquides et exposées à une redénomination ou un défaut. Un vendeur allemand est payé, mais le pays reçoit au niveau agrégé une créance sur l’eurosystème. L’auteur en conclut que le gain privé peut devenir un risque collectif (00:05:18). Une banque centrale pourrait comptablement absorber une perte Target ou la monétiser, puisque la monnaie circule déjà. L’auteur juge cette option économiquement moins douloureuse qu’une recapitalisation fiscale, mais contraire au dogme allemand de préservation de la valeur. Il reconnaît ainsi",
+      "horodatages": [
+        "00:05:18",
+        "00:08:04"
+      ]
+    },
+    {
+      "sujet": "BCE et politiques non conventionnelles",
+      "description": "Après la crise, SMP/OMT, LTRO/TLTRO et QE auraient été indispensables pour empêcher la désintégration de l’euro, rétablir la liquidité et combattre la déflation. Ils s’écartent cependant des préférences de la Bundesbank et soulèvent risques de bulles et d’inflation. Des contestations allemandes et le bilan de Mario Draghi sont rapportés pour montrer la fracture doctrinale (00:12:07).",
+      "horodatages": [
+        "00:12:07"
+      ]
+    },
+    {
+      "sujet": "Europe et intérêts allemands",
+      "description": "Une longue partie interprète l’intégration européenne, les nominations institutionnelles, la défense et le traité d’Aix-la-Chapelle comme des instruments d’influence allemande. Les termes historiques provocateurs et les intentions prêtées à l’Allemagne relèvent de la position polémique de Trouble Fait. L’auteur oppose notamment les appels français à mutualiser dettes et protection sociale au refus allemand de ces transferts (00:17:15).",
+      "horodatages": [
+        "00:17:15"
+      ]
+    },
+    {
+      "sujet": "Target3 : sortie furtive",
+      "description": "À partir d’une proposition attribuée à Jens Weidmann et d’analyses de Vincent Brousseau, l’auteur décrit un nantissement des transferts Target : une banque centrale déficitaire devrait fournir à la Bundesbank un collatéral de même valeur. Un pays qui épuiserait ses actifs éligibles ne pourrait plus transférer à parité ; ses paiements passeraient alors par le marché des changes (00:23:11). Si un euro italien devait s’échanger contre plus d’un euro localisé en Allemagne, la monnaie unique serait de fait morte, même si billets et comptes conservaient le mot « euro ». L’auteur présente la réforme comme un moyen pour l’Allemagne de conserver ses d",
+      "horodatages": [
+        "00:23:11",
+        "00:27:05"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "Bundesbank",
+    "inflation",
+    "Target2",
+    "Target3",
+    "collatéral",
+    "BCE",
+    "QE",
+    "LTRO",
+    "OMT",
+    "Allemagne"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "Target2",
+      "variantes": [
+        "Target",
+        "soldes Target",
+        "créances Target"
+      ]
+    },
+    {
+      "forme": "sortie de l'euro",
+      "variantes": [
+        "retour au franc",
+        "Italexit",
+        "redénomination"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "François Mitterrand",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Margaret Thatcher",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Mario Draghi",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jens Weidmann",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Vincent Brousseau",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Angela Merkel",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Bundesbank",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "BCE",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Commission européenne",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Doctrine de la Bundesbank",
+      "explication": "L’auteur relie la préférence allemande pour une monnaie forte au traumatisme de l’hyperinflation et aux retraites capitalisées. Il décrit une Bundesbank indépendante, hostile au financement monétaire, exigeant des actifs solides et orientée vers la stabilité des prix. L’euro aurait été accepté comme un « euro-mark » reprenant ces règles : BCE indépendante, inflation basse, discipline budgétaire et monnaie réversible (00:01:00). Mitterrand aurait voulu arrimer l’Allemagne ; l’auteur, citant Margaret Thatcher, soutient que l’Europe s’est plutôt arrimée au modèle allemand (00:03:21).",
+      "horodatages": [
+        "00:01:00"
+      ]
+    },
+    {
+      "nom": "Exportations et créances Target",
+      "explication": "L’euro avantage les exportateurs allemands, mais la Bundesbank accumule en contrepartie des créances Target jugées peu liquides et exposées à une redénomination ou un défaut. Un vendeur allemand est payé, mais le pays reçoit au niveau agrégé une créance sur l’eurosystème. L’auteur en conclut que le gain privé peut devenir un risque collectif (00:05:18). Une banque centrale pourrait comptablement absorber une perte Target ou la monétiser, puisque la monnaie circule déjà. L’auteur juge cette option économiquement moins douloureuse qu’une recapitalisation fiscale, mais contraire au dogme allemand de préservation de la valeur. Il reconnaît ainsi",
+      "horodatages": [
+        "00:05:18"
+      ]
+    },
+    {
+      "nom": "Monétisation ou recapitalisation",
+      "explication": "Après la crise, SMP/OMT, LTRO/TLTRO et QE auraient été indispensables pour empêcher la désintégration de l’euro, rétablir la liquidité et combattre la déflation. Ils s’écartent cependant des préférences de la Bundesbank et soulèvent risques de bulles et d’inflation. Des contestations allemandes et le bilan de Mario Draghi sont rapportés pour montrer la fracture doctrinale (00:12:07).",
+      "horodatages": [
+        "00:08:04"
+      ]
+    },
+    {
+      "nom": "Politiques non conventionnelles de la BCE",
+      "explication": "Une longue partie interprète l’intégration européenne, les nominations institutionnelles, la défense et le traité d’Aix-la-Chapelle comme des instruments d’influence allemande. Les termes historiques provocateurs et les intentions prêtées à l’Allemagne relèvent de la position polémique de Trouble Fait. L’auteur oppose notamment les appels français à mutualiser dettes et protection sociale au refus allemand de ces transferts (00:17:15).",
+      "horodatages": [
+        "00:12:07"
+      ]
+    },
+    {
+      "nom": "Scénario Target3",
+      "explication": "À partir d’une proposition attribuée à Jens Weidmann et d’analyses de Vincent Brousseau, l’auteur décrit un nantissement des transferts Target : une banque centrale déficitaire devrait fournir à la Bundesbank un collatéral de même valeur. Un pays qui épuiserait ses actifs éligibles ne pourrait plus transférer à parité ; ses paiements passeraient alors par le marché des changes (00:23:11). Si un euro italien devait s’échanger contre plus d’un euro localisé en Allemagne, la monnaie unique serait de fait morte, même si billets et comptes conservaient le mot « euro ». L’auteur présente la réforme comme un moyen pour l’Allemagne de conserver ses d",
+      "horodatages": [
+        "00:23:11",
+        "00:27:05"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [],
+  "reperes_temporels": [
+    {
+      "debut": "00:01:00",
+      "fin": "00:12:07",
+      "contenu": "doctrine allemande et Target"
+    },
+    {
+      "debut": "00:12:07",
+      "fin": "00:17:15",
+      "contenu": "réponse de la BCE à la crise"
+    },
+    {
+      "debut": "00:17:15",
+      "fin": "00:23:11",
+      "contenu": "intérêts allemands et intégration"
+    },
+    {
+      "debut": "00:23:11",
+      "fin": "00:32:27",
+      "contenu": "Target3 et sortie furtive"
+    }
+  ],
+  "expressions_representatives": [
+    "Doctrine monétaire allemande",
+    "Exportations allemandes et créances Target",
+    "BCE et politiques non conventionnelles",
+    "Europe et intérêts allemands",
+    "Target3 : sortie furtive"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "L’auteur relie la préférence allemande pour une monnaie forte au traumatisme de l’hyperinflation et aux retraites capitalisées. Il décrit une Bundesbank indépendante, hostile au financement monétaire, exigeant des actifs solides et orientée vers la stabilité des prix. L’euro aurait été accepté comme un « euro-mark » reprenant ces règles : BCE indépendante, inflation basse, discipline budgétaire et monnaie réversible (00:01:00). Mitterrand aurait voulu arrimer l’Allemagne ; l’auteur, citant Margaret Thatcher, soutient que l’Europe s’est plutôt arrimée au modèle allemand (00:03:21).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:01:00",
+        "00:03:21"
+      ]
+    },
+    {
+      "position": "L’euro avantage les exportateurs allemands, mais la Bundesbank accumule en contrepartie des créances Target jugées peu liquides et exposées à une redénomination ou un défaut. Un vendeur allemand est payé, mais le pays reçoit au niveau agrégé une créance sur l’eurosystème. L’auteur en conclut que le gain privé peut devenir un risque collectif (00:05:18). Une banque centrale pourrait comptablement absorber une perte Target ou la monétiser, puisque la monnaie circule déjà. L’auteur juge cette option économiquement moins douloureuse qu’une recapitalisation fiscale, mais contraire au dogme allemand de préservation de la valeur. Il reconnaît ainsi",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:05:18",
+        "00:08:04"
+      ]
+    },
+    {
+      "position": "Après la crise, SMP/OMT, LTRO/TLTRO et QE auraient été indispensables pour empêcher la désintégration de l’euro, rétablir la liquidité et combattre la déflation. Ils s’écartent cependant des préférences de la Bundesbank et soulèvent risques de bulles et d’inflation. Des contestations allemandes et le bilan de Mario Draghi sont rapportés pour montrer la fracture doctrinale (00:12:07).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:12:07"
+      ]
+    },
+    {
+      "position": "Une longue partie interprète l’intégration européenne, les nominations institutionnelles, la défense et le traité d’Aix-la-Chapelle comme des instruments d’influence allemande. Les termes historiques provocateurs et les intentions prêtées à l’Allemagne relèvent de la position polémique de Trouble Fait. L’auteur oppose notamment les appels français à mutualiser dettes et protection sociale au refus allemand de ces transferts (00:17:15).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:17:15"
+      ]
+    },
+    {
+      "position": "À partir d’une proposition attribuée à Jens Weidmann et d’analyses de Vincent Brousseau, l’auteur décrit un nantissement des transferts Target : une banque centrale déficitaire devrait fournir à la Bundesbank un collatéral de même valeur. Un pays qui épuiserait ses actifs éligibles ne pourrait plus transférer à parité ; ses paiements passeraient alors par le marché des changes (00:23:11). Si un euro italien devait s’échanger contre plus d’un euro localisé en Allemagne, la monnaie unique serait de fait morte, même si billets et comptes conservaient le mot « euro ». L’auteur présente la réforme comme un moyen pour l’Allemagne de conserver ses d",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:23:11",
+        "00:27:05"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "doctrine allemande et Target",
+      "contexte": "De 00:01:00 à 00:12:07",
+      "horodatages": [
+        "00:01:00"
+      ]
+    },
+    {
+      "lieu_ou_periode": "réponse de la BCE à la crise",
+      "contexte": "De 00:12:07 à 00:17:15",
+      "horodatages": [
+        "00:12:07"
+      ]
+    },
+    {
+      "lieu_ou_periode": "intérêts allemands et intégration",
+      "contexte": "De 00:17:15 à 00:23:11",
+      "horodatages": [
+        "00:17:15"
+      ]
+    },
+    {
+      "lieu_ou_periode": "Target3 et sortie furtive",
+      "contexte": "De 00:23:11 à 00:32:27",
+      "horodatages": [
+        "00:23:11"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Doctrine de la Bundesbank",
+      "relation": "contribue au raisonnement",
+      "cible": "Exportations et créances Target",
+      "horodatages": [
+        "00:01:00"
+      ]
+    },
+    {
+      "source": "Exportations et créances Target",
+      "relation": "contribue au raisonnement",
+      "cible": "Monétisation ou recapitalisation",
+      "horodatages": [
+        "00:05:18"
+      ]
+    },
+    {
+      "source": "Monétisation ou recapitalisation",
+      "relation": "contribue au raisonnement",
+      "cible": "Politiques non conventionnelles de la BCE",
+      "horodatages": [
+        "00:08:04"
+      ]
+    },
+    {
+      "source": "Politiques non conventionnelles de la BCE",
+      "relation": "contribue au raisonnement",
+      "cible": "Scénario Target3",
+      "horodatages": [
+        "00:12:07"
+      ]
+    }
+  ]
+}

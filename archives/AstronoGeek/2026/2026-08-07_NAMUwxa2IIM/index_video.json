@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "video_id": "NAMUwxa2IIM",
   "resume_general": "AstronoGeek décrit plusieurs techniques des premières sondes lunaires soviétiques Luna et américaines Ranger : stabilisation par rotation, orientation par jets de gaz froid et gyroscopes, automatismes embarqués à relais, choix des transistors et régulation thermique. La vidéo insiste sur le caractère rudimentaire mais fonctionnel de ces engins, replace certains échecs dans les contraintes techniques et institutionnelles de la course à l'espace, puis explique pourquoi le vide spatial impose surtout de gérer les transferts radiatifs de chaleur.",
   "themes_principaux": [
@@ -340,6 +340,165 @@
     {
       "citation": "La vraie contrainte thermique dans l'espace était là. C'était pas la chaleur, mais le refroidissement le problème.",
       "horodatage": "00:27:57"
+    }
+  ],
+  "arguments_positions": [
+    {
+      "position": "Stabilisation et orientation des premières sondes lunaires",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:03:56",
+        "00:06:27",
+        "00:08:04"
+      ]
+    },
+    {
+      "position": "Gyroscopes, centrales inertielles et commande par gaz froid",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:09:04",
+        "00:10:01",
+        "00:11:43"
+      ]
+    },
+    {
+      "position": "Automates embarqués, relais et transistors",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:15:27",
+        "00:17:03",
+        "00:18:34"
+      ]
+    },
+    {
+      "position": "Stérilisation des sondes Ranger et fragilité des transistors",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:20:41",
+        "00:21:20",
+        "00:23:13"
+      ]
+    },
+    {
+      "position": "Contrôle thermique dans le vide spatial",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:25:03",
+        "00:27:00",
+        "00:28:53",
+        "00:29:25"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "element": "troisième loi de Newton",
+      "horodatages": [
+        "00:04:47"
+      ]
+    },
+    {
+      "element": "missions Luna 1 et Luna 2",
+      "horodatages": [
+        "00:06:27",
+        "00:07:20"
+      ]
+    },
+    {
+      "element": "mission Luna 3",
+      "horodatages": [
+        "00:08:04",
+        "00:18:34",
+        "00:29:25"
+      ]
+    },
+    {
+      "element": "mission Ranger 3",
+      "horodatages": [
+        "00:19:39",
+        "00:21:35"
+      ]
+    },
+    {
+      "element": "adoption par la NASA d'une politique de protection planétaire en 1959",
+      "horodatages": [
+        "00:23:35"
+      ]
+    },
+    {
+      "element": "quarantaines Apollo 11, 12 et 14",
+      "horodatages": [
+        "00:22:51"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "action-réaction",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "deux corps exercent des forces égales et opposées, principe utilisé par les hélices et les jets de gaz",
+      "horodatages": [
+        "00:04:47",
+        "00:09:04"
+      ]
+    },
+    {
+      "source": "stabilisation gyroscopique",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "la rotation stabilise l'orientation d'un projectile ou d'une sonde et limite les perturbations",
+      "horodatages": [
+        "00:06:48"
+      ]
+    },
+    {
+      "source": "gyroscope",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "rotor conservant son axe grâce au moment angulaire et fournissant un repère d'orientation",
+      "horodatages": [
+        "00:10:01",
+        "00:10:47"
+      ]
+    },
+    {
+      "source": "logique booléenne à relais",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "combinaison de relais en série, parallèle ou normalement fermés pour former des fonctions ET, OU et NON",
+      "horodatages": [
+        "00:15:54",
+        "00:16:32"
+      ]
+    },
+    {
+      "source": "protection planétaire",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "précautions destinées à éviter la contamination biologique des astres et de la Terre",
+      "horodatages": [
+        "00:20:41",
+        "00:22:27"
+      ]
+    },
+    {
+      "source": "transfert thermique par rayonnement",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "seul mode d'échange thermique avec le vide, en plus des transferts internes à la sonde",
+      "horodatages": [
+        "00:26:36",
+        "00:27:25"
+      ]
+    },
+    {
+      "source": "émissivité",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "aptitude d'une surface à absorber et émettre le rayonnement infrarouge",
+      "horodatages": [
+        "00:28:11",
+        "00:28:37"
+      ]
     }
   ]
 }

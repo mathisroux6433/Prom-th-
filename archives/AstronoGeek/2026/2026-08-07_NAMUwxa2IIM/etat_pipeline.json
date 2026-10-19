@@ -1,11 +1,12 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "video_id": "NAMUwxa2IIM",
-  "updated_at": "2026-10-19T03:07:34.796397+00:00",
+  "updated_at": "2026-10-19T04:32:04.881205+00:00",
   "steps": {
     "metadata": {
       "status": "complete",
-      "error": null
+      "error": null,
+      "source": "metadata.json"
     },
     "download": {
       "status": "complete",
@@ -15,31 +16,32 @@
     "transcription": {
       "status": "complete",
       "error": null,
-      "model": "medium",
-      "device": "cuda"
+      "source": "segments.json",
+      "segments": 382
     },
     "correction": {
       "status": "complete",
       "error": null,
-      "mode": "copie_identique_non_corrigee"
+      "mode": "correction_contextuelle_validee",
+      "timestamps_preserved": true,
+      "changed": true
     },
     "index": {
       "status": "complete",
       "error": null,
-      "source": "archives\\AstronoGeek\\2026\\2026-08-07_NAMUwxa2IIM\\travail\\reponses\\reponse_indexation.json"
+      "source": "index_video.json",
+      "schema": "1.1"
     },
     "synthesis": {
       "status": "complete",
       "error": null,
-      "source": "archives\\AstronoGeek\\2026\\2026-08-07_NAMUwxa2IIM\\travail\\reponses\\reponse_synthese.md"
+      "source": "synthese_video.md"
     },
     "quality_control": {
       "status": "complete",
       "error": null,
-      "source": "archives\\AstronoGeek\\2026\\2026-08-07_NAMUwxa2IIM\\travail\\reponses\\reponse_controle_qualite.json",
       "report": "rapport_controle_qualite.md",
-      "synthesis_changed": false,
-      "backup": null
+      "verdict": "conforme"
     }
   }
 }

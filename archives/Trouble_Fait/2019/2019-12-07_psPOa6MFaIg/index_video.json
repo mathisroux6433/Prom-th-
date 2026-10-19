@@ -1,0 +1,364 @@
+{
+  "schema_version": "1.1",
+  "video_id": "psPOa6MFaIg",
+  "resume_general": "L'auteur étudie une sortie italienne directe ou graduelle via les mini-BOTs, distingue les soldes Target d'une dette privée, compare plusieurs porteurs possibles de la perte et attribue la crise à une union monétaire sans union politique.",
+  "themes_principaux": [
+    {
+      "theme": "Obstacles à l'Italexit",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:01:52"
+      ]
+    },
+    {
+      "theme": "Mini-BOTs et monnaie fiscale",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:06:05"
+      ]
+    },
+    {
+      "theme": "Nature des soldes Target",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:14:02"
+      ]
+    },
+    {
+      "theme": "Répartition des pertes",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:19:12",
+        "00:23:47"
+      ]
+    },
+    {
+      "theme": "Responsabilités de la construction monétaire",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:26:36",
+        "00:30:47"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Sortie directe et obstacles politiques",
+      "description": "L’auteur prend l’Italie comme exemple d’un grand débiteur Target. Techniquement, il décrit une sortie rapide : fin de la parité, nouveaux billets, redénomination des comptes, remboursement de la quote-part des billets et traitement du solde Target. Politiquement, l’absence de procédure, la taille du solde, la légitimité électorale et la recherche d’un responsable extérieur rendent cette voie risquée (00:01:52). Il interprète les conflits budgétaires entre Rome et la Commission en 2018-2019 comme une occasion de présenter l’Italie en victime d’un traitement inégal. Cette lecture et les intentions attribuées à Matteo Salvini sont celles de l’au",
+      "horodatages": [
+        "00:01:52",
+        "00:04:13"
+      ]
+    },
+    {
+      "sujet": "Mini-BOTs : monnaie fiscale parallèle",
+      "description": "Les mini-BOTs seraient des titres du Trésor de petite coupure, utilisables pour payer des impôts à une valeur fixe. Sans cours légal ni création bancaire, ils pourraient d’abord régler les arriérés de l’État envers les entreprises, puis circuler entre entreprises et ménages. Un extrait de Jacques Sapir explique que cette circulation remettrait environ 50 milliards d’euros en mouvement et pourrait, si elle était élargie, préparer une lire parallèle (00:06:05). L’auteur distingue plusieurs fonctions possibles : relance, moyen de pression dans une renégociation, protection contre une coupure de liquidités par la BCE, ou marche vers une sortie. I",
+      "horodatages": [
+        "00:06:05",
+        "00:11:41"
+      ]
+    },
+    {
+      "sujet": "Nature particulière des soldes Target",
+      "description": "Le cœur normatif refuse de traiter Target comme une dette privée ordinaire. Un défaut italien ne ferait pas directement disparaître le dépôt d’un épargnant ni la créance d’une entreprise : il laisserait une perte entre banques centrales. La « dette » résulte mécaniquement de la création d’un euro allemand contre un transfert italien dans une zone déséquilibrée (00:14:02). Deux choix sont distingués : conserver le solde en euros ou le redénominer ; laisser la monnaie/banque centrale absorber la perte ou recapitaliser avec l’impôt. L’auteur préfère redénomination et absorption monétaire, jugeant injuste de faire payer contribuables allemands, i",
+      "horodatages": [
+        "00:14:02",
+        "00:19:12"
+      ]
+    },
+    {
+      "sujet": "Qui porterait la perte ?",
+      "description": "Faire payer l’Allemagne contracterait une économie déjà fragile ; faire payer l’Italie appliquerait rétroactivement un change à un achat achevé. Si l’Italie faisait défaut envers la BCE et si l’euro survivait, la perte serait répartie selon les parts des banques centrales ; la vidéo avance une exposition française d’un peu plus de 100 milliards d’euros. Ce chiffre et l’interprétation juridique ne sont pas vérifiés ici (00:20:21).",
+      "horodatages": [
+        "00:20:21"
+      ]
+    },
+    {
+      "sujet": "Responsabilités attribuées",
+      "description": "Helmut Kohl est cité disant avoir imposé l’euro malgré l’opposition attendue d’un référendum, au nom de l’Europe et de la paix. Les réformes Hartz, le refus allemand des transferts, les choix français de Mitterrand et l’entrée de la Grèce sont ensuite mobilisés pour répartir les responsabilités. Des extraits sur Giscard d’Estaing nuancent : celui-ci regrette l’adoption de l’euro par la Grèce, pas son entrée dans la Communauté (00:26:36). La conclusion met en cause la création d’une union monétaire sans union politique, alors même que ses concepteurs connaissaient ce défaut. L’auteur interprète le pari d’une crise menant au fédéralisme comme a",
+      "horodatages": [
+        "00:26:36",
+        "00:30:47"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "Italexit",
+    "mini-BOTs",
+    "Target2",
+    "redénomination",
+    "défaut",
+    "BCE",
+    "Italie",
+    "union politique"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "Target2",
+      "variantes": [
+        "Target",
+        "soldes Target",
+        "créances Target"
+      ]
+    },
+    {
+      "forme": "sortie de l'euro",
+      "variantes": [
+        "retour au franc",
+        "Italexit",
+        "redénomination"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Matteo Salvini",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jacques Sapir",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Mario Draghi",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Helmut Kohl",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Gerhard Schröder",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "François Mitterrand",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Valéry Giscard d'Estaing",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "BCE",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Commission européenne",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Banque d'Italie",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Bundesbank",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Obstacles à l'Italexit",
+      "explication": "L’auteur prend l’Italie comme exemple d’un grand débiteur Target. Techniquement, il décrit une sortie rapide : fin de la parité, nouveaux billets, redénomination des comptes, remboursement de la quote-part des billets et traitement du solde Target. Politiquement, l’absence de procédure, la taille du solde, la légitimité électorale et la recherche d’un responsable extérieur rendent cette voie risquée (00:01:52). Il interprète les conflits budgétaires entre Rome et la Commission en 2018-2019 comme une occasion de présenter l’Italie en victime d’un traitement inégal. Cette lecture et les intentions attribuées à Matteo Salvini sont celles de l’au",
+      "horodatages": [
+        "00:01:52"
+      ]
+    },
+    {
+      "nom": "Mini-BOTs et monnaie fiscale",
+      "explication": "Les mini-BOTs seraient des titres du Trésor de petite coupure, utilisables pour payer des impôts à une valeur fixe. Sans cours légal ni création bancaire, ils pourraient d’abord régler les arriérés de l’État envers les entreprises, puis circuler entre entreprises et ménages. Un extrait de Jacques Sapir explique que cette circulation remettrait environ 50 milliards d’euros en mouvement et pourrait, si elle était élargie, préparer une lire parallèle (00:06:05). L’auteur distingue plusieurs fonctions possibles : relance, moyen de pression dans une renégociation, protection contre une coupure de liquidités par la BCE, ou marche vers une sortie. I",
+      "horodatages": [
+        "00:06:05"
+      ]
+    },
+    {
+      "nom": "Nature des soldes Target",
+      "explication": "Le cœur normatif refuse de traiter Target comme une dette privée ordinaire. Un défaut italien ne ferait pas directement disparaître le dépôt d’un épargnant ni la créance d’une entreprise : il laisserait une perte entre banques centrales. La « dette » résulte mécaniquement de la création d’un euro allemand contre un transfert italien dans une zone déséquilibrée (00:14:02). Deux choix sont distingués : conserver le solde en euros ou le redénominer ; laisser la monnaie/banque centrale absorber la perte ou recapitaliser avec l’impôt. L’auteur préfère redénomination et absorption monétaire, jugeant injuste de faire payer contribuables allemands, i",
+      "horodatages": [
+        "00:14:02"
+      ]
+    },
+    {
+      "nom": "Répartition des pertes",
+      "explication": "Faire payer l’Allemagne contracterait une économie déjà fragile ; faire payer l’Italie appliquerait rétroactivement un change à un achat achevé. Si l’Italie faisait défaut envers la BCE et si l’euro survivait, la perte serait répartie selon les parts des banques centrales ; la vidéo avance une exposition française d’un peu plus de 100 milliards d’euros. Ce chiffre et l’interprétation juridique ne sont pas vérifiés ici (00:20:21).",
+      "horodatages": [
+        "00:19:12",
+        "00:23:47"
+      ]
+    },
+    {
+      "nom": "Responsabilités de la construction monétaire",
+      "explication": "Helmut Kohl est cité disant avoir imposé l’euro malgré l’opposition attendue d’un référendum, au nom de l’Europe et de la paix. Les réformes Hartz, le refus allemand des transferts, les choix français de Mitterrand et l’entrée de la Grèce sont ensuite mobilisés pour répartir les responsabilités. Des extraits sur Giscard d’Estaing nuancent : celui-ci regrette l’adoption de l’euro par la Grèce, pas son entrée dans la Communauté (00:26:36). La conclusion met en cause la création d’une union monétaire sans union politique, alors même que ses concepteurs connaissaient ce défaut. L’auteur interprète le pari d’une crise menant au fédéralisme comme a",
+      "horodatages": [
+        "00:26:36",
+        "00:30:47"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [],
+  "reperes_temporels": [
+    {
+      "debut": "00:01:52",
+      "fin": "00:06:05",
+      "contenu": "sortie directe et conflits budgétaires"
+    },
+    {
+      "debut": "00:06:05",
+      "fin": "00:13:54",
+      "contenu": "fonctionnement des mini-BOTs"
+    },
+    {
+      "debut": "00:14:02",
+      "fin": "00:26:05",
+      "contenu": "Target et porteurs de pertes"
+    },
+    {
+      "debut": "00:26:05",
+      "fin": "00:32:15",
+      "contenu": "responsabilités politiques"
+    }
+  ],
+  "expressions_representatives": [
+    "Sortie directe et obstacles politiques",
+    "Mini-BOTs : monnaie fiscale parallèle",
+    "Nature particulière des soldes Target",
+    "Qui porterait la perte ?",
+    "Responsabilités attribuées"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "L’auteur prend l’Italie comme exemple d’un grand débiteur Target. Techniquement, il décrit une sortie rapide : fin de la parité, nouveaux billets, redénomination des comptes, remboursement de la quote-part des billets et traitement du solde Target. Politiquement, l’absence de procédure, la taille du solde, la légitimité électorale et la recherche d’un responsable extérieur rendent cette voie risquée (00:01:52). Il interprète les conflits budgétaires entre Rome et la Commission en 2018-2019 comme une occasion de présenter l’Italie en victime d’un traitement inégal. Cette lecture et les intentions attribuées à Matteo Salvini sont celles de l’au",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:01:52",
+        "00:04:13"
+      ]
+    },
+    {
+      "position": "Les mini-BOTs seraient des titres du Trésor de petite coupure, utilisables pour payer des impôts à une valeur fixe. Sans cours légal ni création bancaire, ils pourraient d’abord régler les arriérés de l’État envers les entreprises, puis circuler entre entreprises et ménages. Un extrait de Jacques Sapir explique que cette circulation remettrait environ 50 milliards d’euros en mouvement et pourrait, si elle était élargie, préparer une lire parallèle (00:06:05). L’auteur distingue plusieurs fonctions possibles : relance, moyen de pression dans une renégociation, protection contre une coupure de liquidités par la BCE, ou marche vers une sortie. I",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:06:05",
+        "00:11:41"
+      ]
+    },
+    {
+      "position": "Le cœur normatif refuse de traiter Target comme une dette privée ordinaire. Un défaut italien ne ferait pas directement disparaître le dépôt d’un épargnant ni la créance d’une entreprise : il laisserait une perte entre banques centrales. La « dette » résulte mécaniquement de la création d’un euro allemand contre un transfert italien dans une zone déséquilibrée (00:14:02). Deux choix sont distingués : conserver le solde en euros ou le redénominer ; laisser la monnaie/banque centrale absorber la perte ou recapitaliser avec l’impôt. L’auteur préfère redénomination et absorption monétaire, jugeant injuste de faire payer contribuables allemands, i",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:14:02",
+        "00:19:12"
+      ]
+    },
+    {
+      "position": "Faire payer l’Allemagne contracterait une économie déjà fragile ; faire payer l’Italie appliquerait rétroactivement un change à un achat achevé. Si l’Italie faisait défaut envers la BCE et si l’euro survivait, la perte serait répartie selon les parts des banques centrales ; la vidéo avance une exposition française d’un peu plus de 100 milliards d’euros. Ce chiffre et l’interprétation juridique ne sont pas vérifiés ici (00:20:21).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:20:21"
+      ]
+    },
+    {
+      "position": "Helmut Kohl est cité disant avoir imposé l’euro malgré l’opposition attendue d’un référendum, au nom de l’Europe et de la paix. Les réformes Hartz, le refus allemand des transferts, les choix français de Mitterrand et l’entrée de la Grèce sont ensuite mobilisés pour répartir les responsabilités. Des extraits sur Giscard d’Estaing nuancent : celui-ci regrette l’adoption de l’euro par la Grèce, pas son entrée dans la Communauté (00:26:36). La conclusion met en cause la création d’une union monétaire sans union politique, alors même que ses concepteurs connaissaient ce défaut. L’auteur interprète le pari d’une crise menant au fédéralisme comme a",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:26:36",
+        "00:30:47"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "sortie directe et conflits budgétaires",
+      "contexte": "De 00:01:52 à 00:06:05",
+      "horodatages": [
+        "00:01:52"
+      ]
+    },
+    {
+      "lieu_ou_periode": "fonctionnement des mini-BOTs",
+      "contexte": "De 00:06:05 à 00:13:54",
+      "horodatages": [
+        "00:06:05"
+      ]
+    },
+    {
+      "lieu_ou_periode": "Target et porteurs de pertes",
+      "contexte": "De 00:14:02 à 00:26:05",
+      "horodatages": [
+        "00:14:02"
+      ]
+    },
+    {
+      "lieu_ou_periode": "responsabilités politiques",
+      "contexte": "De 00:26:05 à 00:32:15",
+      "horodatages": [
+        "00:26:05"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Obstacles à l'Italexit",
+      "relation": "contribue au raisonnement",
+      "cible": "Mini-BOTs et monnaie fiscale",
+      "horodatages": [
+        "00:01:52"
+      ]
+    },
+    {
+      "source": "Mini-BOTs et monnaie fiscale",
+      "relation": "contribue au raisonnement",
+      "cible": "Nature des soldes Target",
+      "horodatages": [
+        "00:06:05"
+      ]
+    },
+    {
+      "source": "Nature des soldes Target",
+      "relation": "contribue au raisonnement",
+      "cible": "Répartition des pertes",
+      "horodatages": [
+        "00:14:02"
+      ]
+    },
+    {
+      "source": "Répartition des pertes",
+      "relation": "contribue au raisonnement",
+      "cible": "Responsabilités de la construction monétaire",
+      "horodatages": [
+        "00:19:12",
+        "00:23:47"
+      ]
+    }
+  ]
+}

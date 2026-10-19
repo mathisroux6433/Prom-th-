@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "video_id": "v-cnZWboyrY",
   "resume_general": "À l'approche des élections européennes de juin 2024, l'auteur examine et conteste une série d'arguments gouvernementaux et médiatiques présentés comme des bénéfices concrets de l'Union européenne. Son fil directeur est que ces communications — plan de relance, apprentissage, réglementation environnementale, chargeur USB-C, marché de l'électricité, protection industrielle, modèle sportif, rénovation des bâtiments et sécurité alimentaire — seraient soit anecdotiques, soit trompeuses, soit contredites par les effets des politiques européennes. Il développe d'abord une critique de NextGenerationEU et du plan « 1 jeune, 1 solution », décrits comme coûteux pour la France et générateurs d'effets d'aubaine pour les employeurs et les centres de formation. Il discute ensuite plusieurs réglementations sur les plastiques, emballages, bouchons attachés, paillettes et chargeurs, qu'il présente comme lentes, complexes et parfois contournées. Une longue partie traite du marché européen de l'électricité, de la loi NOME, d'EDF, des barrages et de la formation des prix, puis de la désindustrialisation et des délocalisations intra-européennes illustrées par Whirlpool, Bridgestone et Comatelec, ainsi que du FEDER. L'auteur élargit cette critique à la dépendance énergétique et industrielle envers les États-Unis et la Chine. Il examine ensuite, sur un mode polémique, une communication d'Amélie Oudéa-Castéra sur le « modèle sportif européen », l'UEFA et le financement d'événements caritatifs, puis une communication de Christophe Béchu sur la rénovation énergétique, rapprochée des ventes du patrimoine immobilier de l'État et des contraintes budgétaires européennes. La séquence agricole et alimentaire rassemble des scandales sanitaires, l'huile de tournesol frelatée, les importations ukrainiennes, les labels bio, AOC/AOP/IGP et le CETA pour soutenir que la protection annoncée serait incomplète ou incohérente. Enfin, l'auteur décrit la composition et les pouvoirs du Parlement européen, critique les promesses des listes françaises comme étrangères aux compétences réelles des eurodéputés et appelle néanmoins à voter pour de petites listes souverainistes afin de freiner, selon lui, le fédéralisme européen et l'engagement dans la guerre en Ukraine. L'index restitue ces positions comme les affirmations et interprétations de l'auteur, sans les valider.",
   "themes_principaux": [
@@ -1175,6 +1175,354 @@
       "citation": "Donc n'hésitez pas à aller voter quand même.",
       "locuteur": "auteur",
       "horodatage": "01:22:12"
+    }
+  ],
+  "arguments_positions": [
+    {
+      "position": "Critique des arguments en faveur de l'Union européenne",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:00:00",
+        "01:09:21"
+      ]
+    },
+    {
+      "position": "Plan de relance européen et conditionnalité économique",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:00:48",
+        "00:06:34"
+      ]
+    },
+    {
+      "position": "Apprentissage, subventions et enseignement privé",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:06:34",
+        "00:16:05"
+      ]
+    },
+    {
+      "position": "Réglementations européennes et innovation",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:17:38",
+        "00:29:40"
+      ]
+    },
+    {
+      "position": "Marché européen de l'électricité et politique énergétique",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:29:40",
+        "00:33:36"
+      ]
+    },
+    {
+      "position": "Industrie, délocalisations et concurrence intra-européenne",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:33:36",
+        "00:46:42"
+      ]
+    },
+    {
+      "position": "Sécurité alimentaire, agriculture et commerce extérieur",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "00:59:32",
+        "01:09:21"
+      ]
+    },
+    {
+      "position": "Institutions et élections européennes de 2024",
+      "statut": "développé ou discuté",
+      "attribution": "voir synthèse pour l'attribution précise",
+      "horodatages": [
+        "01:10:38",
+        "01:22:54"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "element": "NextGenerationEU",
+      "horodatages": [
+        "00:01:24",
+        "00:06:34"
+      ]
+    },
+    {
+      "element": "Plan « 1 jeune, 1 solution »",
+      "horodatages": [
+        "00:06:34",
+        "00:16:05"
+      ]
+    },
+    {
+      "element": "Réforme française de la formation professionnelle de 2018",
+      "horodatages": [
+        "00:09:23",
+        "00:12:54"
+      ]
+    },
+    {
+      "element": "Directive sur les plastiques à usage unique",
+      "horodatages": [
+        "00:18:29",
+        "00:20:53"
+      ]
+    },
+    {
+      "element": "Révision du règlement européen sur les emballages",
+      "horodatages": [
+        "00:20:53",
+        "00:22:18"
+      ]
+    },
+    {
+      "element": "Chargeur universel USB-C",
+      "horodatages": [
+        "00:22:22",
+        "00:27:23"
+      ]
+    },
+    {
+      "element": "Réglementation des microplastiques et paillettes",
+      "horodatages": [
+        "00:22:55",
+        "00:23:10"
+      ]
+    },
+    {
+      "element": "Directive de 2019 sur les bouchons attachés",
+      "horodatages": [
+        "00:28:46",
+        "00:29:37"
+      ]
+    },
+    {
+      "element": "Loi NOME de 2010-2011",
+      "horodatages": [
+        "00:29:59",
+        "00:31:49"
+      ]
+    },
+    {
+      "element": "Réforme du marché européen de l'électricité",
+      "horodatages": [
+        "00:30:29",
+        "00:32:02"
+      ]
+    },
+    {
+      "element": "Bouclier tarifaire français",
+      "horodatages": [
+        "00:31:30",
+        "00:31:49"
+      ]
+    },
+    {
+      "element": "Fermeture de Whirlpool Amiens",
+      "horodatages": [
+        "00:35:05",
+        "00:36:12"
+      ]
+    },
+    {
+      "element": "Fermeture de Bridgestone Béthune",
+      "horodatages": [
+        "00:37:30",
+        "00:41:53"
+      ]
+    },
+    {
+      "element": "Explosion des gazoducs Nord Stream",
+      "horodatages": [
+        "00:44:01",
+        "00:44:18"
+      ]
+    },
+    {
+      "element": "Inflation Reduction Act américain",
+      "horodatages": [
+        "00:43:55",
+        "00:46:38"
+      ]
+    },
+    {
+      "element": "Loi Malraux",
+      "horodatages": [
+        "00:56:41",
+        "00:57:45"
+      ]
+    },
+    {
+      "element": "Règles de Maastricht sur le déficit",
+      "horodatages": [
+        "00:58:30",
+        "00:59:21"
+      ]
+    },
+    {
+      "element": "Affaire des œufs au fipronil",
+      "horodatages": [
+        "01:00:13",
+        "01:00:28"
+      ]
+    },
+    {
+      "element": "Affaire de la viande de cheval",
+      "horodatages": [
+        "01:00:26",
+        "01:00:50"
+      ]
+    },
+    {
+      "element": "Affaire de l'huile de tournesol frelatée de 2008",
+      "horodatages": [
+        "01:01:30",
+        "01:03:54"
+      ]
+    },
+    {
+      "element": "Suspension des droits de douane sur les importations ukrainiennes",
+      "horodatages": [
+        "01:03:54",
+        "01:05:41"
+      ]
+    },
+    {
+      "element": "CETA",
+      "horodatages": [
+        "01:07:16",
+        "01:09:07"
+      ]
+    },
+    {
+      "element": "Élections européennes de juin 2024",
+      "horodatages": [
+        "00:00:38",
+        "01:10:47",
+        "01:22:33"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Conditionnalité macroéconomique",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "00:02:49",
+        "00:03:22"
+      ]
+    },
+    {
+      "source": "Effet d'aubaine",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "00:08:48",
+        "00:15:47"
+      ]
+    },
+    {
+      "source": "Marché unique et libre circulation des capitaux",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "00:36:48",
+        "00:43:48"
+      ]
+    },
+    {
+      "source": "Concurrence déloyale et dumping social",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "00:33:39",
+        "00:46:40"
+      ]
+    },
+    {
+      "source": "Prix marginal de l'électricité",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "00:31:12",
+        "00:31:35"
+      ]
+    },
+    {
+      "source": "Souveraineté énergétique",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "00:29:40",
+        "00:46:40"
+      ]
+    },
+    {
+      "source": "Préférence nationale dans les marchés publics",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "00:42:12",
+        "00:42:57"
+      ]
+    },
+    {
+      "source": "Dépendance stratégique",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "00:43:48",
+        "00:46:40"
+      ]
+    },
+    {
+      "source": "Subsidiarité",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "L'auteur soutient que les mesures pourraient être prises plus efficacement au niveau national.",
+      "horodatages": [
+        "01:10:06",
+        "01:10:38"
+      ]
+    },
+    {
+      "source": "Souveraineté nationale et fédéralisme européen",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "01:15:48",
+        "01:22:33"
+      ]
+    },
+    {
+      "source": "Initiative législative européenne",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "01:14:18",
+        "01:15:00"
+      ]
+    },
+    {
+      "source": "Majorité qualifiée",
+      "relation": "concept expliqué dans la vidéo",
+      "cible": "",
+      "horodatages": [
+        "01:14:33",
+        "01:14:54"
+      ]
     }
   ]
 }

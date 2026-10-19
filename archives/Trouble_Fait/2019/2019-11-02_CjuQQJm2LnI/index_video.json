@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.1",
+  "video_id": "CjuQQJm2LnI",
+  "resume_general": "Suite de la critique de la zone euro consacrée à la mobilité du travail, aux transferts budgétaires, à l'aléa moral, au TSCG et au MES. L'auteur oppose la solution fédérale théorique à ses obstacles politiques et démocratiques.",
+  "themes_principaux": [
+    {
+      "theme": "Mobilité du travail",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:10",
+        "00:02:50"
+      ]
+    },
+    {
+      "theme": "Transferts budgétaires",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:05:01"
+      ]
+    },
+    {
+      "theme": "Aléa moral et solidarité",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:08:00"
+      ]
+    },
+    {
+      "theme": "TSCG, réformes et MES",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:10:12",
+        "00:13:59"
+      ]
+    },
+    {
+      "theme": "Viabilité et démocratie",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:15:12"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Mobilité du travail : correctif théorique jugé insuffisant",
+      "description": "Après avoir écarté l’harmonisation, l’auteur examine la libre circulation. En théorie, les travailleurs quittent une région sinistrée pour une région dynamique. Il objecte que cette adaptation prend dix à quinze ans, contre quelques instants pour un taux de change, et que langues, administrations, familles et modes de vie limitent fortement les déplacements entre États (00:00:10). Les écarts de salaire feraient fonctionner la mobilité « à l’envers » : les chômeurs des pays riches ne se déplacent pas vers des emplois beaucoup moins payés, tandis que des salariés de pays pauvres acceptent des missions dans les pays riches. La directive sur les",
+      "horodatages": [
+        "00:00:10",
+        "00:02:50"
+      ]
+    },
+    {
+      "sujet": "Transferts permanents et objections politiques",
+      "description": "Le dernier correctif serait une redistribution des régions gagnantes vers les perdantes. L’Italie illustre le principe : le Nord industriel finance durablement le Sud. Étendre ce modèle à la zone euro poserait, selon l’auteur, un problème de légitimité : un salarié roumain ou allemand pourrait refuser de financer des ménages étrangers parfois mieux protégés ou davantage propriétaires. L’estimation d’un transfert allemand de 8 à 10 % du PIB est citée sans vérification dans la vidéo (00:05:01). Sans harmonisation, une garantie commune créerait un aléa moral : un gouvernement pourrait mener une politique dont les coûts seraient supportés ailleur",
+      "horodatages": [
+        "00:05:01",
+        "00:08:00"
+      ]
+    },
+    {
+      "sujet": "Pacte budgétaire, réformes et MES",
+      "description": "Une prédiction de Milton Friedman est citée : l’euro transformerait des chocs économiques corrigibles par le change en conflits politiques entre nations. Le TSCG est présenté comme la condition allemande de l’aide : budgets surveillés, austérité et « réformes structurelles ». En France, lois du travail et CICE sont interprétés comme des instruments de compétitivité destinés à préserver l’euro plutôt que comme politiques autonomes d’emploi (00:10:12). L’auteur pose alors une question normative : le peuple doit-il s’adapter à la monnaie ou l’outil monétaire au peuple ? Il conteste l’idée que le coût estimé de l’euro proviendrait seulement d’un",
+      "horodatages": [
+        "00:10:12",
+        "00:12:50"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "mobilité",
+    "travailleurs détachés",
+    "transferts",
+    "aléa moral",
+    "TSCG",
+    "MES",
+    "austérité",
+    "démocratie",
+    "euro"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "Target2",
+      "variantes": [
+        "Target",
+        "soldes Target",
+        "créances Target"
+      ]
+    },
+    {
+      "forme": "sortie de l'euro",
+      "variantes": [
+        "retour au franc",
+        "Italexit",
+        "redénomination"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Jacques Attali",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Milton Friedman",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Wolfgang Schäuble",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Union européenne",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Commission européenne",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "MES",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Mobilité du travail",
+      "explication": "Après avoir écarté l’harmonisation, l’auteur examine la libre circulation. En théorie, les travailleurs quittent une région sinistrée pour une région dynamique. Il objecte que cette adaptation prend dix à quinze ans, contre quelques instants pour un taux de change, et que langues, administrations, familles et modes de vie limitent fortement les déplacements entre États (00:00:10). Les écarts de salaire feraient fonctionner la mobilité « à l’envers » : les chômeurs des pays riches ne se déplacent pas vers des emplois beaucoup moins payés, tandis que des salariés de pays pauvres acceptent des missions dans les pays riches. La directive sur les",
+      "horodatages": [
+        "00:00:10",
+        "00:02:50"
+      ]
+    },
+    {
+      "nom": "Transferts budgétaires",
+      "explication": "Le dernier correctif serait une redistribution des régions gagnantes vers les perdantes. L’Italie illustre le principe : le Nord industriel finance durablement le Sud. Étendre ce modèle à la zone euro poserait, selon l’auteur, un problème de légitimité : un salarié roumain ou allemand pourrait refuser de financer des ménages étrangers parfois mieux protégés ou davantage propriétaires. L’estimation d’un transfert allemand de 8 à 10 % du PIB est citée sans vérification dans la vidéo (00:05:01). Sans harmonisation, une garantie commune créerait un aléa moral : un gouvernement pourrait mener une politique dont les coûts seraient supportés ailleur",
+      "horodatages": [
+        "00:05:01"
+      ]
+    },
+    {
+      "nom": "Aléa moral et solidarité",
+      "explication": "Une prédiction de Milton Friedman est citée : l’euro transformerait des chocs économiques corrigibles par le change en conflits politiques entre nations. Le TSCG est présenté comme la condition allemande de l’aide : budgets surveillés, austérité et « réformes structurelles ». En France, lois du travail et CICE sont interprétés comme des instruments de compétitivité destinés à préserver l’euro plutôt que comme politiques autonomes d’emploi (00:10:12). L’auteur pose alors une question normative : le peuple doit-il s’adapter à la monnaie ou l’outil monétaire au peuple ? Il conteste l’idée que le coût estimé de l’euro proviendrait seulement d’un",
+      "horodatages": [
+        "00:08:00"
+      ]
+    },
+    {
+      "nom": "TSCG, réformes et MES",
+      "explication": "concept développé dans l'argumentation ; voir la synthèse",
+      "horodatages": [
+        "00:10:12",
+        "00:13:59"
+      ]
+    },
+    {
+      "nom": "Viabilité et démocratie",
+      "explication": "concept développé dans l'argumentation ; voir la synthèse",
+      "horodatages": [
+        "00:15:12"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:10",
+      "fin": "00:05:01",
+      "contenu": "mobilité et marché du travail"
+    },
+    {
+      "debut": "00:05:01",
+      "fin": "00:10:12",
+      "contenu": "redistribution et aléa moral"
+    },
+    {
+      "debut": "00:10:12",
+      "fin": "00:15:12",
+      "contenu": "TSCG, réformes et MES"
+    },
+    {
+      "debut": "00:15:12",
+      "fin": "00:19:05",
+      "contenu": "bilan de viabilité"
+    }
+  ],
+  "expressions_representatives": [
+    "Mobilité du travail : correctif théorique jugé insuffisant",
+    "Transferts permanents et objections politiques",
+    "Pacte budgétaire, réformes et MES"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "Après avoir écarté l’harmonisation, l’auteur examine la libre circulation. En théorie, les travailleurs quittent une région sinistrée pour une région dynamique. Il objecte que cette adaptation prend dix à quinze ans, contre quelques instants pour un taux de change, et que langues, administrations, familles et modes de vie limitent fortement les déplacements entre États (00:00:10). Les écarts de salaire feraient fonctionner la mobilité « à l’envers » : les chômeurs des pays riches ne se déplacent pas vers des emplois beaucoup moins payés, tandis que des salariés de pays pauvres acceptent des missions dans les pays riches. La directive sur les",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:00:10",
+        "00:02:50"
+      ]
+    },
+    {
+      "position": "Le dernier correctif serait une redistribution des régions gagnantes vers les perdantes. L’Italie illustre le principe : le Nord industriel finance durablement le Sud. Étendre ce modèle à la zone euro poserait, selon l’auteur, un problème de légitimité : un salarié roumain ou allemand pourrait refuser de financer des ménages étrangers parfois mieux protégés ou davantage propriétaires. L’estimation d’un transfert allemand de 8 à 10 % du PIB est citée sans vérification dans la vidéo (00:05:01). Sans harmonisation, une garantie commune créerait un aléa moral : un gouvernement pourrait mener une politique dont les coûts seraient supportés ailleur",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:05:01",
+        "00:08:00"
+      ]
+    },
+    {
+      "position": "Une prédiction de Milton Friedman est citée : l’euro transformerait des chocs économiques corrigibles par le change en conflits politiques entre nations. Le TSCG est présenté comme la condition allemande de l’aide : budgets surveillés, austérité et « réformes structurelles ». En France, lois du travail et CICE sont interprétés comme des instruments de compétitivité destinés à préserver l’euro plutôt que comme politiques autonomes d’emploi (00:10:12). L’auteur pose alors une question normative : le peuple doit-il s’adapter à la monnaie ou l’outil monétaire au peuple ? Il conteste l’idée que le coût estimé de l’euro proviendrait seulement d’un",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:10:12",
+        "00:12:50"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "mobilité et marché du travail",
+      "contexte": "De 00:00:10 à 00:05:01",
+      "horodatages": [
+        "00:00:10"
+      ]
+    },
+    {
+      "lieu_ou_periode": "redistribution et aléa moral",
+      "contexte": "De 00:05:01 à 00:10:12",
+      "horodatages": [
+        "00:05:01"
+      ]
+    },
+    {
+      "lieu_ou_periode": "TSCG, réformes et MES",
+      "contexte": "De 00:10:12 à 00:15:12",
+      "horodatages": [
+        "00:10:12"
+      ]
+    },
+    {
+      "lieu_ou_periode": "bilan de viabilité",
+      "contexte": "De 00:15:12 à 00:19:05",
+      "horodatages": [
+        "00:15:12"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Mobilité du travail",
+      "relation": "contribue au raisonnement",
+      "cible": "Transferts budgétaires",
+      "horodatages": [
+        "00:00:10",
+        "00:02:50"
+      ]
+    },
+    {
+      "source": "Transferts budgétaires",
+      "relation": "contribue au raisonnement",
+      "cible": "Aléa moral et solidarité",
+      "horodatages": [
+        "00:05:01"
+      ]
+    },
+    {
+      "source": "Aléa moral et solidarité",
+      "relation": "contribue au raisonnement",
+      "cible": "TSCG, réformes et MES",
+      "horodatages": [
+        "00:08:00"
+      ]
+    },
+    {
+      "source": "TSCG, réformes et MES",
+      "relation": "contribue au raisonnement",
+      "cible": "Viabilité et démocratie",
+      "horodatages": [
+        "00:10:12",
+        "00:13:59"
+      ]
+    }
+  ]
+}

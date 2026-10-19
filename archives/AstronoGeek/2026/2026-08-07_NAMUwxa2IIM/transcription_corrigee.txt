@@ -231,7 +231,7 @@
 [00:20:16.300 --> 00:20:22.180] des transistors à base de germanium. Et eux aussi ont des soucis. On a vu que,
 [00:20:22.180 --> 00:20:27.060] côté russe, le problème c'est le process de fabrication peu fiable. Côté américain,
 [00:20:27.060 --> 00:20:32.460] les transistors sont fiables, mais endommagés avant le lancement. Mais comment ce fesse me
-[00:20:32.460 --> 00:20:41.270] demanderez-vous ? Et bien, à collade. L'un des objectifs des sondes rangers était de s'écraser
+[00:20:32.460 --> 00:20:41.270] demanderez-vous ? Et bien, à cause de cela. L'un des objectifs des sondes rangers était de s'écraser
 [00:20:41.270 --> 00:20:46.710] sur la lune. Mais ça devait être fait proprement. Je vais dire littéralement. Il ne fallait pas
 [00:20:46.710 --> 00:20:50.950] contaminer le sol lunaire avec des organismes terrestres. Donc pour éviter autant que possible
 [00:20:50.950 --> 00:20:56.790] que des bactéries ou un virus se fassent un road trip spatial, les sondes devaient être désinfectées.

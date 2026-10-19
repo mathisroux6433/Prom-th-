@@ -1,4 +1,4 @@
-[00:00:09.650 --> 00:00:14.650] Salut à tous et bienvenue dans cette série sur les Targets. Pour commencer, on va voir comment se forment
+[00:00:09.650 --> 00:00:14.650] Salut à tous et bienvenue dans cette série sur les Target. Pour commencer, on va voir comment se forment
 [00:00:14.650 --> 00:00:20.450] techniquement les dettes Target et pourquoi ce ne sont pas vraiment des dettes. Je vous préviens que l'épisode du jour va être
 [00:00:20.450 --> 00:00:26.850] un peu technique. Mais vous allez pouvoir apprendre quelque chose qui est totalement inconnu de 95% de la population,
 [00:00:26.850 --> 00:00:34.370] si c'est pas 99%, ce qui vous permettra de briller dans les diners en ville. Le mot Target est l'acronyme du nom
@@ -100,7 +100,7 @@
 [00:10:47.400 --> 00:10:54.440] va tomber à 0%, pour que les banques n'aient aucune difficulté d'accès à cette monnaie centrale, afin que la circulation
 [00:10:54.440 --> 00:11:00.560] de la monnaie ne se bloque pas dans l'économie. Vous imaginez un peu le bordel si vous ne pouvez faire vos achats qu'auprès
 [00:11:00.560 --> 00:11:06.720] d'entreprises qui ont un compte dans la même banque que vous. Bon, à ce stade, vous vous demandez sans doute
-[00:11:06.720 --> 00:11:13.000] quel est le lien avec l'euro et les Targets. Eh bien si vous avez compris tout ça, vous avez compris le fonctionnement de l'euro,
+[00:11:06.720 --> 00:11:13.000] quel est le lien avec l'euro et les Target. Eh bien si vous avez compris tout ça, vous avez compris le fonctionnement de l'euro,
 [00:11:13.000 --> 00:11:20.120] parce que le même schéma se répète à l'échelon supérieur entre les banques centrales de la zone euro et la BCE.
 [00:11:20.120 --> 00:11:26.360] En effet, l'euro n'est pas une monnaie unique avec une seule banque centrale. Sinon, nous serions dans le cas que je viens de vous présenter,
 [00:11:26.360 --> 00:11:32.200] et les banques commerciales seraient directement connectées à la BCE, ce qui n'est pas le cas.
@@ -127,5 +127,5 @@
 [00:13:51.440 --> 00:13:57.200] Il ne peut fonctionner durablement que si les euros qui traversent une frontière passent aussi en sens inverse,
 [00:13:57.200 --> 00:14:02.880] en quantités à peu près égales. On peut légitimement penser que c'est ce qui s'est passé durant les premières années de l'euro,
 [00:14:02.880 --> 00:14:09.880] puisque le marché interbancaire a fonctionné et que les soldes Target sont restés faibles. Mais après la crise de 2008,
-[00:14:09.920 --> 00:14:16.840] le marché interbancaire va cesser de fonctionner, entraînant l'augmentation des dettes et des créances Target 2 pour des raisons
+[00:14:09.920 --> 00:14:16.840] le marché interbancaire va cesser de fonctionner, entraînant l'augmentation des dettes et des créances Target2 pour des raisons
 [00:14:16.840 --> 00:14:20.080] et des conséquences qu'on verra au prochain épisode.

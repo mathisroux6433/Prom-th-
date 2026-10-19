@@ -6,7 +6,8 @@ from unittest.mock import patch
 
 from promethe.archive import archive_path, verify_archive
 from promethe.cli import offer_quality_review
-from promethe.downloader import ffmpeg_location
+from promethe.corrector import import_correction
+from promethe.downloader import ffmpeg_location, inspect_playlist
 from promethe.indexer import INDEX_KEYS, export_prompt, import_index
 from promethe.io_utils import timestamp, write_json, write_text
 from promethe.layout import ensure_archive_layout, migrate_archive_layout
@@ -50,7 +51,7 @@ class CoreTests(unittest.TestCase):
             prompt = export_prompt(directory)
             self.assertIn("Bonjour", prompt.read_text(encoding="utf-8"))
             data = {key: [] for key in INDEX_KEYS}
-            data.update(schema_version="1.0", video_id="vid", resume_general="Résumé")
+            data.update(schema_version="1.1", video_id="vid", resume_general="Résumé")
             source = directory / "response.json"
             write_json(source, data)
             import_index(directory, source)
@@ -79,7 +80,7 @@ class CoreTests(unittest.TestCase):
             self.assertEqual(state["steps"]["synthesis"]["status"], "pending")
             self.assertEqual(state["steps"]["quality_control"]["status"], "pending")
 
-    def test_quality_review_exports_imports_reports_and_backs_up(self):
+    def test_quality_review_exports_imports_and_reports(self):
         with tempfile.TemporaryDirectory() as temporary:
             directory = Path(temporary)
             write_json(directory / "metadata.json", {"id": "vid", "title": "Titre"})
@@ -102,8 +103,6 @@ class CoreTests(unittest.TestCase):
             })
             result = import_review(directory, response)
             self.assertTrue(result["changed"])
-            backup = directory / "historique" / "anciennes_versions" / "synthese_video_avant_relecture.md"
-            self.assertEqual(backup.read_text(encoding="utf-8"), original)
             self.assertIn("Le chiffre est 42", (directory / "synthese_video.md").read_text(encoding="utf-8"))
             self.assertIn("Valeur incorrecte", (directory / "rapport_controle_qualite.md").read_text(encoding="utf-8"))
 
@@ -141,6 +140,25 @@ class CoreTests(unittest.TestCase):
             report = verify_archive(directory)
             self.assertTrue(all(report["layout"].values()))
 
+    def test_correction_import_preserves_all_timestamps(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            directory = Path(temporary)
+            raw = "[00:00:00.000 --> 00:00:01.000] Bonjor\n[00:00:01.000 --> 00:00:02.000] Paris\n"
+            write_text(directory / "transcription_brute.txt", raw)
+            candidate = directory / "candidate.txt"
+            write_text(candidate, raw.replace("Bonjor", "Bonjour"))
+            import_correction(directory, candidate)
+            self.assertIn("Bonjour", (directory / "transcription_corrigee.txt").read_text(encoding="utf-8"))
+
+    def test_correction_import_rejects_changed_timestamps(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            directory = Path(temporary)
+            write_text(directory / "transcription_brute.txt", "[00:00:00.000 --> 00:00:01.000] Bonjour\n")
+            candidate = directory / "candidate.txt"
+            write_text(candidate, "[00:00:00.000 --> 00:00:02.000] Bonjour\n")
+            with self.assertRaises(Exception):
+                import_correction(directory, candidate)
+
     def test_migration_validates_and_rehomes_temporary_files(self):
         with tempfile.TemporaryDirectory() as temporary:
             directory = Path(temporary)
@@ -165,16 +183,16 @@ class CoreTests(unittest.TestCase):
                 "historique/anciennes_versions/synthese_video_avant_relecture.md",
             )
 
-    @patch("builtins.input", return_value="Plus tard")
-    def test_interactive_quality_review_can_be_deferred(self, _input):
+    def test_quality_review_is_mandatory(self):
         with tempfile.TemporaryDirectory() as temporary:
             directory = Path(temporary)
             write_json(directory / "metadata.json", {"id": "vid"})
+            write_text(directory / "transcription_corrigee.txt", "[00:00:00.000 --> 00:00:01.000] Bonjour\n")
+            write_json(directory / "index_video.json", {"video_id": "vid"})
             write_text(directory / "synthese_video.md", "# Synthèse\n")
             offer_quality_review(directory)
             state = load_state(directory, "vid")
-            self.assertEqual(state["steps"]["quality_control"]["status"], "pending")
-            self.assertEqual(state["steps"]["quality_control"]["note"], "Relecture reportée")
+            self.assertEqual(state["steps"]["quality_control"]["status"], "waiting_manual")
 
     @patch("promethe.pipeline.inspect_url")
     def test_resume_stops_before_completed_work(self, inspect):
@@ -186,6 +204,29 @@ class CoreTests(unittest.TestCase):
             second = process("u", root, stop_after="metadata")
             self.assertEqual(first, second)
             self.assertEqual((second / "metadata.json").read_text(encoding="utf-8"), original)
+
+    @patch("promethe.downloader._ydl_class")
+    def test_playlist_is_expanded_without_download(self, ydl_class):
+        manager = ydl_class.return_value.return_value.__enter__.return_value
+        manager.extract_info.return_value = {
+            "_type": "playlist", "entries": [{"id": "a"}, {"id": "b", "webpage_url": "https://x/b"}]
+        }
+        self.assertEqual(inspect_playlist("playlist"), [
+            "https://www.youtube.com/watch?v=a", "https://x/b",
+        ])
+
+    @patch("promethe.pipeline.download_audio", side_effect=RuntimeError("interruption"))
+    @patch("promethe.pipeline.inspect_url")
+    def test_interrupted_step_is_marked_failed_and_resumable(self, inspect, _download):
+        inspect.return_value = {"id": "v2", "title": "T", "channel": "C", "upload_date": "20230101"}
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            with self.assertRaises(RuntimeError):
+                process("u", root)
+            directory = next(root.glob("*/*/*_*"))
+            state = load_state(directory, "v2")
+            self.assertEqual(state["steps"]["metadata"]["status"], "complete")
+            self.assertEqual(state["steps"]["download"]["status"], "failed")
 
 
 

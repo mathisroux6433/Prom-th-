@@ -1,6 +1,6 @@
 # Prométhé
 
-Prométhé crée des archives documentaires autonomes à partir de vidéos YouTube. La V1 télécharge l'audio, transcrit en français sur GPU NVIDIA, conserve les segments horodatés et prépare une requête d'indexation. Elle ne fabrique jamais d'index si aucun modèle d'IA n'est configuré.
+Prométhé crée des archives documentaires autonomes à partir de vidéos YouTube. Après téléchargement et transcription GPU, la correction contextuelle, l'index descriptif, la synthèse approfondie et le contrôle qualité sont obligatoires. Une archive n'est complète qu'après validation de toutes ces étapes.
 
 ## Choix et environnement constaté
 
@@ -40,6 +40,9 @@ promethe reprendre "URL_YOUTUBE"
 # Plusieurs URL, une par ligne (# autorise les commentaires)
 promethe lot urls.txt
 
+# Toutes les vidéos d'une playlist, avec reprise indépendante par vidéo
+promethe playlist "URL_PLAYLIST"
+
 # État d'une archive ou de toutes les archives
 promethe verifier ID_YOUTUBE
 promethe verifier
@@ -51,7 +54,7 @@ promethe regenerer-index ID_YOUTUBE
 promethe regenerer-index ID_YOUTUBE --importer reponse_index.json
 ```
 
-La synthèse documentaire se génère ou se remplace indépendamment selon le même principe :
+Après correction, la synthèse documentaire est produite avant l'index et se génère ou se remplace indépendamment selon le même principe :
 
 ```powershell
 promethe exporter-synthese ID_YOUTUBE
@@ -61,9 +64,18 @@ promethe regenerer-synthese ID_YOUTUBE --importer reponse_synthese.md
 
 Ces commandes utilisent `requete_synthese.txt` et valident une réponse Markdown structurée avant d'écrire `synthese_video.md`. Une archive antérieure reste lisible ; son état reçoit simplement une étape `synthesis` en attente lors du prochain chargement.
 
-## Contrôle qualité facultatif
+La correction contextuelle est une étape distincte. Une copie brute ne peut pas être déclarée corrigée :
 
-Après une synthèse terminée, `traiter` et `reprendre` proposent une relecture IA. Le choix `Oui` prépare la requête, `Plus tard` laisse l'étape en attente et `Non` la marque comme refusée. La commande `lot` ne pose jamais cette question et conserve simplement l'état facultatif `pending`.
+```powershell
+promethe exporter-correction ID_YOUTUBE
+promethe corriger-transcription ID_YOUTUBE --importer transcription_corrigee.txt
+```
+
+L'import vérifie le nombre, l'ordre et la valeur de tous les horodatages avant de remplacer atomiquement le fichier de référence.
+
+## Contrôle qualité obligatoire
+
+Après une synthèse terminée, `traiter` et `reprendre` préparent une relecture IA. Tant que sa réponse n'a pas été importée et validée, l'archive reste incomplète.
 
 La relecture peut être réalisée dans une autre session sans téléchargement ni transcription :
 
@@ -73,7 +85,7 @@ promethe relire-synthese ID_YOUTUBE
 promethe relire-synthese ID_YOUTUBE --importer reponse_controle.json
 ```
 
-Les deux premières commandes écrivent `requete_controle_qualite.txt`. La réponse attendue est un JSON conforme au schéma indiqué dans cette requête. Après validation, Prométhé écrit `rapport_controle_qualite.md`, remplace la synthèse seulement si elle a changé et conserve sa version précédente sous `synthese_video_avant_relecture.md` (puis avec un suffixe numérique pour les relectures suivantes). Le contrôle compare uniquement les sources archivées et n'effectue aucun fact-checking externe.
+Les deux premières commandes écrivent `requete_controle_qualite.txt`. La réponse attendue est un JSON conforme au schéma indiqué dans cette requête. Après validation, Prométhé écrit `rapport_controle_qualite.md` et remplace atomiquement la synthèse seulement si elle a changé. Git assure l'historique : aucune copie documentaire concurrente n'est créée. Le contrôle compare uniquement les sources archivées et n'effectue aucun fact-checking externe.
 
 La commande de régénération sans `--importer` écrit `requete_indexation.txt`. Fournir ce texte à Cursor Agent ou à un modèle autorisé, enregistrer sa réponse JSON seule, puis l'importer. Le programme contrôle le schéma, la version et l'identifiant avant de remplacer `index_video.json`.
 
@@ -81,13 +93,13 @@ La commande de régénération sans `--importer` écrit `requete_indexation.txt`
 
 Le nouveau document dérivé attendu est `synthese_video.md`, aux côtés de l'index et des transcriptions. Son absence dans une ancienne archive n'empêche pas la lecture des autres documents, mais la vérification la signale comme incomplète.
 
-`archives/Nom_de_chaine/Année/Date_ID_YouTube/` contient `metadata.json`, `segments.json`, `transcription_brute.txt`, `transcription_corrigee.txt`, `index_video.json` et `etat_pipeline.json`. Tant que l'IA n'a pas répondu, `index_video.json` est légitimement absent et l'état indique `waiting_manual`. La correction est initialement une copie intégrale et horodatée, marquée `copie_identique_non_corrigee` ; aucune correction incertaine n'est inventée.
+`archives/Nom_de_chaine/Année/Date_ID_YouTube/` contient les sources et un seul fichier de référence pour chaque étape documentaire. Tant qu'un agent IA n'a pas répondu, le document correspondant est absent ou provisoire et l'état indique `waiting_manual`. Une expression incertaine est signalée au lieu d'être inventée.
 
 Les écritures JSON critiques sont atomiques. Les étapes achevées, l'audio existant et l'identifiant YouTube empêchent téléchargements et calculs répétés. Les transcriptions restent la source permanente ; l'index est remplaçable.
 
 ## Organisation des archives V1
 
-Les documents définitifs restent à la racine de chaque archive : métadonnées, audio, segments, transcriptions, index, synthèse, état du pipeline et rapport de contrôle qualité. Les artefacts intermédiaires sont rangés sous `travail/requetes`, `travail/reponses` et `travail/candidates`. Les versions remplacées sont conservées sous `historique/anciennes_versions`.
+Les documents définitifs restent à la racine de chaque archive : métadonnées, audio, segments, transcriptions, index, synthèse, état et rapport qualité. Les artefacts intermédiaires sont rangés sous `travail/` et ne constituent jamais des références. Les remplacements sont atomiques et l'historique relève de Git, pas de copies parallèles dans les archives.
 
 Les exports sans `--sortie` utilisent automatiquement `travail/requetes`. Pour une réponse JSON contenant `@file:nom.md`, le JSON et le fichier Markdown référencé doivent impérativement se trouver dans le même dossier, normalement `travail/reponses`. Une ancienne archive reste lisible et sa reprise crée les sous-dossiers manquants sans retélécharger ni retranscrire les étapes déjà achevées.
 
@@ -103,4 +115,4 @@ promethe migrer-archive ID_YOUTUBE
 python -m unittest discover -s tests -v
 ```
 
-Ils couvrent le chemin d'archive, les horodatages, la vérification des fichiers, l'export/import validé de l'index et la reprise sans doublon.
+Ils couvrent le chemin d'archive, les horodatages, la vérification des fichiers, les imports validés, l'expansion des playlists et la reprise après interruption sans doublon.

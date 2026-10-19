@@ -33,6 +33,28 @@ def inspect_url(url: str) -> dict[str, Any]:
     return info
 
 
+def inspect_playlist(url: str) -> list[str]:
+    """Retourne les URL canoniques d'une playlist sans télécharger de média."""
+    options = {"quiet": True, "no_warnings": True, "skip_download": True, "extract_flat": True}
+    with _ydl_class()(options) as ydl:
+        info = ydl.extract_info(url, download=False)
+    if info.get("_type") != "playlist":
+        raise PrometheError("Une URL de playlist est requise.")
+    urls = []
+    for entry in info.get("entries") or []:
+        if not entry:
+            continue
+        video_id = entry.get("id")
+        webpage_url = entry.get("webpage_url") or entry.get("url")
+        if webpage_url and str(webpage_url).startswith("http"):
+            urls.append(str(webpage_url))
+        elif video_id:
+            urls.append(f"https://www.youtube.com/watch?v={video_id}")
+    if not urls:
+        raise PrometheError("La playlist ne contient aucune vidéo exploitable.")
+    return urls
+
+
 def normalized_metadata(info: dict[str, Any]) -> dict[str, Any]:
     return {
         "schema_version": "1.0", "id": info["id"], "title": info.get("title"),

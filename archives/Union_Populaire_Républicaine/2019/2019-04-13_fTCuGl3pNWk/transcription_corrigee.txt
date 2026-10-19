@@ -1020,9 +1020,9 @@
 [01:06:44.660 --> 01:06:46.660] On le voit mieux en zoom.
 [01:06:46.660 --> 01:06:52.660] Et il y a une autre chose qui est embêtante, quand vous avez mis mon manétaire,
 [01:06:52.660 --> 01:06:57.660] et qui va aussi créer de la dette ou de la créance de banque centrale.
-[01:06:57.660 --> 01:07:00.660] Et ça s'appelle les Target Balances.
-[01:07:00.660 --> 01:07:03.660] Alors, qu'est-ce que les Target Balances ?
-[01:07:03.660 --> 01:07:08.660] Target Balances, c'est que par exemple, vous pouvez très bien envoyer 100 euros bancairement
+[01:06:57.660 --> 01:07:00.660] Et ça s'appelle les soldes Target.
+[01:07:00.660 --> 01:07:03.660] Alors, qu'est-ce que les soldes Target ?
+[01:07:03.660 --> 01:07:08.660] soldes Target, c'est que par exemple, vous pouvez très bien envoyer 100 euros bancairement
 [01:07:08.660 --> 01:07:11.660] de mon compte en France à mon compte en Allemagne.
 [01:07:11.660 --> 01:07:14.660] Je fais un virement et voilà.
 [01:07:14.660 --> 01:07:18.650] Et alors, ça se décompose en plusieurs mouvements.
@@ -1046,11 +1046,11 @@
 [01:08:22.180 --> 01:08:25.580] Et maintenant, il est étroité.
 [01:08:25.580 --> 01:08:27.580] Il est plus étroit parce qu'il y a les 100 euros qui sont partis.
 [01:08:27.580 --> 01:08:29.580] Qu'est-ce qu'il compense ?
-[01:08:29.580 --> 01:08:31.580] C'est une dette target.
-[01:08:31.580 --> 01:08:33.580] Qu'est-ce que c'est que cette dette target ?
+[01:08:29.580 --> 01:08:31.580] C'est une dette Target.
+[01:08:31.580 --> 01:08:33.580] Qu'est-ce que c'est que cette dette Target ?
 [01:08:33.580 --> 01:08:36.580] C'est une dette que la Banque de France a au départ envers la BDF.
 [01:08:36.580 --> 01:08:41.580] Et en fin de journée, ça sera transformé en une dette envers la BCE.
-[01:08:41.580 --> 01:08:49.580] Qui fait que la BDF, qui obtient une créance target sur la Banque de France,
+[01:08:41.580 --> 01:08:49.580] Qui fait que la BDF, qui obtient une créance Target sur la Banque de France,
 [01:08:49.580 --> 01:08:54.580] va devoir augmenter le compte de la Commerzbank à la BDF de 100 euros.
 [01:08:54.580 --> 01:08:59.580] C'est pourquoi vous voyez que le compte de la Commerzbank devient plus gros.
 [01:08:59.580 --> 01:09:05.400] Et la Commerzbank elle-même a de la responsabilité.
@@ -1092,9 +1092,9 @@
 [01:11:14.990 --> 01:11:15.990] Parce que ce n'est pas des dettes du pays,
 [01:11:15.990 --> 01:11:18.990] c'est des dettes de la Banque centrale de ce pays.
 [01:11:18.990 --> 01:11:22.820] Et ça, c'est très ennuyeux pour ce qui reste.
-[01:11:22.820 --> 01:11:25.820] Et donc, ces Target Balance, quand la crise fut venue,
+[01:11:22.820 --> 01:11:25.820] Et donc, ces soldes Target, quand la crise fut venue,
 [01:11:25.820 --> 01:11:27.820] elles ont pris un comportement bizarre.
-[01:11:27.820 --> 01:11:30.820] Avant la crise, vous voyez les Target Balance qui sont petites
+[01:11:27.820 --> 01:11:30.820] Avant la crise, vous voyez les soldes Target qui sont petites
 [01:11:30.820 --> 01:11:33.820] et qui aussi autour de zéro.
 [01:11:33.820 --> 01:11:35.820] Et dans le monde merveilleux d'avant la crise,
 [01:11:35.820 --> 01:11:39.450] c'était censé durer toujours.
@@ -1210,7 +1210,7 @@
 [01:17:25.830 --> 01:17:28.830] la BCE doit ouvrir dans ses boucles un compte,
 [01:17:28.830 --> 01:17:31.830] enfin, d'abord que chaque BCE...
 [01:17:31.830 --> 01:17:34.830] Bon, d'abord, il y a marqué que c'est une obligation.
-[01:17:34.830 --> 01:17:39.530] Chaque fois que vous avez un mouvement Target 2,
+[01:17:34.830 --> 01:17:39.530] Chaque fois que vous avez un mouvement Target2,
 [01:17:39.530 --> 01:17:42.530] ça donne automatiquement naissance à une obligation.
 [01:17:42.530 --> 01:17:45.530] Et obligation, ça veut dire dette. C'est même moque en français.
 [01:17:45.530 --> 01:17:48.530] Vous êtes obligé. Il n'y a pas à sortir de là.
@@ -1452,13 +1452,13 @@
 [01:30:50.500 --> 01:30:53.500] Il est là parce qu'il y a des obligations entre banques centrales.
 [01:30:54.500 --> 01:30:57.500] Essentiellement parce que chaque banque centrale doit racheter
 [01:30:57.500 --> 01:31:00.500] contre ses propres euros toute quantité d'euros d'une banque centrale
-[01:31:00.500 --> 01:31:03.500] qui lui serait proposé que ça arrive par le mécanisme des Targets
+[01:31:00.500 --> 01:31:03.500] qui lui serait proposé que ça arrive par le mécanisme des Target
 [01:31:03.500 --> 01:31:06.500] ou que ça arrive à cause des transferts de billets.
 [01:31:06.500 --> 01:31:11.710] Les mécanismes qui font fonctionner le PEG
 [01:31:11.710 --> 01:31:14.710] sont différents selon les billets par rapport au N plus d'une autre
 [01:31:14.710 --> 01:31:17.710] ou les N plus d'une espèce entre elles.
 [01:31:17.710 --> 01:31:20.710] Dans le premier cas, excusez-moi.
-[01:31:20.710 --> 01:31:23.710] Dans le mécanisme des Targets, dans le deuxième cas,
+[01:31:20.710 --> 01:31:23.710] Dans le mécanisme des Target, dans le deuxième cas,
 [01:31:23.710 --> 01:31:26.710] on a les textes de loi qui régissent la validité des billets
 [01:31:26.710 --> 01:31:29.710] et qui obligent, si vous vous en rappelez,
 [01:31:29.710 --> 01:31:32.710] la Banque centrale à reprendre
@@ -1806,7 +1806,7 @@
 [01:49:25.020 --> 01:49:28.020] vous regardez si vos spreads ont quelque chose à voir
 [01:49:28.020 --> 01:49:31.020] avec le facteur principal des...
 [01:49:31.020 --> 01:49:34.020] avec les...
-[01:49:34.020 --> 01:49:37.020] avec le disquip target, enfin, la largeur de ce beau graph target
+[01:49:34.020 --> 01:49:37.020] avec le disquip Target, enfin, la largeur de ce beau graph Target
 [01:49:37.020 --> 01:49:40.020] qu'on avait vu tout à l'heure.
 [01:49:40.020 --> 01:49:43.020] Donc, une variable, c'est la hauteur de ça.
 [01:49:43.020 --> 01:49:46.020] L'autre variable, c'est
@@ -1820,7 +1820,7 @@
 [01:50:13.720 --> 01:50:16.720] qui séparent
 [01:50:16.720 --> 01:50:19.720] les taux italien, français, allemand
 [01:50:19.720 --> 01:50:24.640] et espagnol
-[01:50:24.640 --> 01:50:27.640] et le disquip target,
+[01:50:24.640 --> 01:50:27.640] et le disquip Target,
 [01:50:27.640 --> 01:50:30.640] donc la largeur du graph que je vous ai remontré,
 [01:50:30.640 --> 01:50:35.050] beaucoup de dettes entre non centrales ou pas,
 [01:50:35.050 --> 01:50:38.050] ont une cause qui est la même.
@@ -1829,10 +1829,10 @@
 [01:50:44.050 --> 01:50:47.050] le fait que le...
 [01:50:47.050 --> 01:50:50.050] le spread de taux augmente
 [01:50:50.050 --> 01:50:53.050] et le fait que les...
-[01:50:53.050 --> 01:50:56.050] les déséquilibres target augmentent.
+[01:50:53.050 --> 01:50:56.050] les déséquilibres Target augmentent.
 [01:50:56.050 --> 01:50:59.050] Dans les deux cas, vous voyez apparaître le risque d'eurodynamisation.
 [01:50:59.050 --> 01:51:02.050] C'est-à-dire que
-[01:51:02.050 --> 01:51:05.050] plus les targets sont élevés, plus c'est probable
+[01:51:02.050 --> 01:51:05.050] plus les Target sont élevés, plus c'est probable
 [01:51:05.050 --> 01:51:09.580] qu'il y aura de l'élimination de quelqu'un.
 [01:51:09.580 --> 01:51:12.580] Et plus les... plus c'est probable
 [01:51:12.580 --> 01:51:15.580] qu'il y aura de l'élimination de quelqu'un, plus le taux...
@@ -1842,8 +1842,8 @@
 [01:51:26.890 --> 01:51:29.890] mais le fait que vous puissiez le faire apparaître, ce graphique,
 [01:51:29.890 --> 01:51:32.890] est très significatif parce que dans le premier ensemble de données
 [01:51:32.890 --> 01:51:35.890] où vous avez les spreads, vous avez uniquement des données de taux d'intérêt
-[01:51:35.890 --> 01:51:38.890] et rien de targetien. Dans le deuxième ensemble
-[01:51:38.890 --> 01:51:41.890] où vous avez les données target, vous avez uniquement des données de target
+[01:51:35.890 --> 01:51:38.890] et rien de Targetien. Dans le deuxième ensemble
+[01:51:38.890 --> 01:51:41.890] où vous avez les données Target, vous avez uniquement des données de Target
 [01:51:41.890 --> 01:51:44.890] et rien de taux d'intérêt. Donc le fait qu'elles puissent retrouver
 [01:51:44.890 --> 01:51:47.890] et qu'elles aient en commun un motif caché est une sorte de preuve.
 [01:51:47.890 --> 01:51:50.890] Et ce que sa preuve prouve,
@@ -1863,7 +1863,7 @@
 [01:52:32.640 --> 01:52:35.640] vous aurez eu le quantitative easing qui évidemment détruit
 [01:52:35.640 --> 01:52:38.640] la belle régularité empirique étant donné que
 [01:52:38.640 --> 01:52:41.640] le quantitative easing, vous allez acheter des titres et donc concluer les spreads,
-[01:52:41.640 --> 01:52:44.640] mais ça va en soit avoir aucun effet direct sur les targets.
+[01:52:41.640 --> 01:52:44.640] mais ça va en soit avoir aucun effet direct sur les Target.
 [01:52:44.640 --> 01:52:47.640] Ou en tout cas il sera différent de ce qu'il y avait avant.
 [01:52:47.640 --> 01:52:50.640] Donc je pense que si on continuait l'expérience
 [01:52:50.640 --> 01:52:53.640] avec des données vis-à-vis jusqu'à maintenant, ça ne marcherait plus.
@@ -1878,7 +1878,7 @@
 [01:53:20.360 --> 01:53:23.360] Cette perte est égale, ou au pire, à l'intégralité
 [01:53:23.360 --> 01:53:26.360] de la somme de la prime de sortie, laquelle est égale, je vous rappelle,
 [01:53:26.360 --> 01:53:29.360] aux biais physiques qui ont toujours une lettre,
-[01:53:29.360 --> 01:53:32.360] plus votre target, c'est-à-dire compter en négatif
+[01:53:29.360 --> 01:53:32.360] plus votre Target, c'est-à-dire compter en négatif
 [01:53:32.360 --> 01:53:35.360] si vous êtes créancier, compter en positif si vous êtes débiteur.
 [01:53:35.360 --> 01:53:38.360] Elle répartit ces pertes entre les copropriétaires, ça je l'avais dit.
 [01:53:39.360 --> 01:53:42.360] Si l'Italie sort, la note pour la France dépasse 100 milliards.
@@ -1911,7 +1911,7 @@
 [01:55:08.370 --> 01:55:13.770] a écrit une lettre à Draghi,
 [01:55:13.770 --> 01:55:16.770] ou plutôt cette lettre a été liquée il y a sept ans,
 [01:55:16.770 --> 01:55:19.770] il l'avait écrit quelques jours avant.
-[01:55:19.770 --> 01:55:22.770] Elle a été liquée par le Frankfurter Allgemein Zeitung
+[01:55:19.770 --> 01:55:22.770] Elle a été liquée par le Francforter Allgemein Zeitung
 [01:55:22.770 --> 01:55:25.770] qui utilise la formule Brief des Zehnenthalte der Fzbkantist
 [01:55:25.770 --> 01:55:28.770] qui veut dire
 [01:55:28.770 --> 01:55:31.770] lettre dont le contenu s'est trouvée
@@ -2003,7 +2003,7 @@
 [01:59:54.460 --> 01:59:57.460] bon, mais Draghi, naturellement, ne s'y est pas laissé prendre,
 [01:59:57.460 --> 02:00:03.820] mais ça a été repris.
 [02:00:03.820 --> 02:00:06.820] Donc en 2018, comme je vous le disais,
-[02:00:06.820 --> 02:00:09.820] les seuls targets de l'Allemagne ont oscillé entre 900 et 1000 milliards.
+[02:00:06.820 --> 02:00:09.820] les seuls Target de l'Allemagne ont oscillé entre 900 et 1000 milliards.
 [02:00:09.820 --> 02:00:12.820] Donc divers économistes ont commencé à se poser des questions
 [02:00:12.820 --> 02:00:15.820] et l'ancienne idée de Weimann a en fait spontanément surface.
 [02:00:16.820 --> 02:00:19.820] Je ne sais pas dans quelle mesure cette spontanéité
@@ -2057,7 +2057,7 @@
 [02:02:44.500 --> 02:02:47.500] l'activation de la clause de sortie se ferait sur une base volontaire
 [02:02:47.500 --> 02:02:50.500] mais serait fortement procéduralisée
 [02:02:50.500 --> 02:02:53.500] quant aux étapes et aux modélités de négociation.
-[02:02:53.500 --> 02:02:56.500] Un point clé semble être que le règlement des sols de Target 2
+[02:02:53.500 --> 02:02:56.500] Un point clé semble être que le règlement des sols de Target2
 [02:02:56.500 --> 02:02:59.500] ne serait peut-être pas à faire dans l'immédiat
 [02:02:59.500 --> 02:03:02.500] mais serait consécutif à une négociation laborieuse
 [02:03:03.500 --> 02:03:06.500] C'est normal qu'un italien souligne ça
@@ -2073,7 +2073,7 @@
 [02:03:35.610 --> 02:03:38.610] des meilleurs économistes de pays
 [02:03:38.610 --> 02:03:42.860] qui est votre voisin, sur la frontière est.
 [02:03:42.860 --> 02:03:49.410] Dans cet appel on note
-[02:03:49.410 --> 02:03:52.410] « The target seldom sends a regular message to the glation »
+[02:03:49.410 --> 02:03:52.410] « The Target seldom sends a regular message to the glation »
 [02:03:52.410 --> 02:03:56.980] ça veut dire
 [02:03:56.980 --> 02:03:59.980] les soldes doivent être repayés sur une base régulière
 [02:03:59.980 --> 02:04:02.980] ce qui revient en fait à demander leur nantisme
@@ -2126,16 +2126,16 @@
 [02:06:34.010 --> 02:06:37.010] et ils écrivent des choses comme
 [02:06:37.010 --> 02:06:40.010] en outre
 [02:06:40.010 --> 02:06:43.010] il est urgent de limiter ou de disposer d'un lentissement
-[02:06:43.010 --> 02:06:46.010] sur les soldes target en hausse
+[02:06:43.010 --> 02:06:46.010] sur les soldes Target en hausse
 [02:06:46.010 --> 02:06:49.010] il n'invente pas
 [02:06:49.010 --> 02:06:52.010] il écrit ça, alors que je vous ai expliqué
 [02:06:52.010 --> 02:06:55.010] que faire ça était exactement le moyen de casser le PEG
 [02:06:55.010 --> 02:06:58.010] et casser le PEG était exactement
 [02:06:58.010 --> 02:07:03.980] le moyen de casser l'euro
 [02:07:03.980 --> 02:07:06.980] et c'est un optimiste de Natixis qui va dire
-[02:07:06.980 --> 02:07:09.980] qu'une autre augmentation significative des targets
+[02:07:06.980 --> 02:07:09.980] qu'une autre augmentation significative des Target
 [02:07:09.980 --> 02:07:12.980] pourrait accroître la pression politique pour apporter des modifications
-[02:07:12.980 --> 02:07:15.980] au système target de bas
+[02:07:12.980 --> 02:07:15.980] au système Target de bas
 [02:07:15.980 --> 02:07:18.980] en effet, et puis par exemple
 [02:07:18.980 --> 02:07:21.980] ou un exemple comme ça au hasard, pris par plein d'autres exemples
 [02:07:21.980 --> 02:07:27.860] en fournissant des garanties pour les peuples
@@ -2261,8 +2261,8 @@
 [02:14:13.850 --> 02:14:16.850] de sorte que leur beau projet d'euro
 [02:14:16.850 --> 02:14:19.850] quelqu'un a mis un verre dans le fruit
 [02:14:19.850 --> 02:14:28.060] et quand ils se sont rendu compte, c'est-à-dire maintenant il était trop tard
-[02:14:28.060 --> 02:14:31.060] qui peut modifier le système Target 2 ?
-[02:14:31.060 --> 02:14:34.060] les gens qui reconnaissent la vérification du système Target 2
+[02:14:28.060 --> 02:14:31.060] qui peut modifier le système Target2 ?
+[02:14:31.060 --> 02:14:34.060] les gens qui reconnaissent la vérification du système Target2
 [02:14:34.060 --> 02:14:37.060] sont des allemands
 [02:14:37.060 --> 02:14:40.060] et ils ne la reconnaissent en réalité que pour la seule manière
 [02:14:41.060 --> 02:14:44.060] que ça soit modifié ou pas modifié entre la France et l'Italie
@@ -2274,11 +2274,11 @@
 [02:14:59.060 --> 02:15:05.490] mais certains vont juste envisager
 [02:15:05.490 --> 02:15:08.490] effectivement un nouveau système informatique
 [02:15:08.490 --> 02:15:11.490] qui remplacerait au moins pour le cas de l'Allemagne
-[02:15:11.490 --> 02:15:14.490] le Target 2 et ils l'appellent Target 3
+[02:15:11.490 --> 02:15:14.490] le Target2 et ils l'appellent Target 3
 [02:15:14.490 --> 02:15:17.490] donc si dans la presse vous disiez des choses qui sont écrites en allemand
 [02:15:17.490 --> 02:15:20.490] et que c'est marqué Target 3, c'est de ça qu'il est question
 [02:15:20.490 --> 02:15:23.490] et ce système Target 3
-[02:15:23.490 --> 02:15:26.490] serait comme le Target 2
+[02:15:23.490 --> 02:15:26.490] serait comme le Target2
 [02:15:26.490 --> 02:15:29.490] sauf qu'il gèverait la prise en pension
 [02:15:29.490 --> 02:15:32.490] des gages
 [02:15:32.490 --> 02:15:36.860] que vous devez donner pour que le transfert
@@ -2341,7 +2341,7 @@
 [02:18:50.140 --> 02:18:53.140] pas centrale par mon trésor, mais ça aura le même effet
 [02:18:53.140 --> 02:18:56.140] ce sera exactement la même chose que pièce et billes
 [02:18:56.140 --> 02:18:59.140] c'est à dire que vers les chiffons
-[02:18:59.140 --> 02:19:02.140] je ne veux pas dire par là que les mini-bottes
+[02:18:59.140 --> 02:19:02.140] je ne veux pas dire par là que les mini-BOTs
 [02:19:02.140 --> 02:19:05.140] seront en métal et sous le fond de petits disques
 [02:19:05.140 --> 02:19:08.140] mais c'est la même différence au sens où les pièces sont des créances
 [02:19:08.140 --> 02:19:11.140] sur le trésor et les billets sont des créances
@@ -2409,9 +2409,9 @@
 [02:23:01.810 --> 02:23:04.810] donc c'est eux qui peuvent imposer
 [02:23:04.810 --> 02:23:07.810] la chose en force
 [02:23:07.810 --> 02:23:10.810] si la France dit je n'essaye qu'il me fasse du collatéral
-[02:23:10.810 --> 02:23:13.810] sinon je ne fais pas les targets
+[02:23:10.810 --> 02:23:13.810] sinon je ne fais pas les Target
 [02:23:13.810 --> 02:23:16.810] et bien l'effet sera moindre
-[02:23:16.810 --> 02:23:21.250] d'autant plus que les targets débitrices
+[02:23:16.810 --> 02:23:21.250] d'autant plus que les Target débitrices
 [02:23:21.250 --> 02:23:24.250] donc ce n'est pas un truc qu'on pourrait faire mais en plus j'aime pas l'idée
 [02:23:24.250 --> 02:23:27.250] je trouve qu'il faut y aller franchement
 [02:23:27.250 --> 02:23:30.250] mais là vous me faites parler normalement cette conférence doit éviter
@@ -2433,7 +2433,7 @@
 [02:24:17.040 --> 02:24:20.040] si si, on est dans une course contre la montre effectivement
 [02:24:20.040 --> 02:24:23.040] et on l'a perdue en fait lorsque l'élection présidentielle le 2017 a été gagnée par Macron
 [02:24:23.040 --> 02:24:28.570] dans l'hypothèse où rien ne serait fait
-[02:24:28.570 --> 02:24:33.100] est-ce qu'on s'insulerait vers une liquidation des targets
+[02:24:28.570 --> 02:24:33.100] est-ce qu'on s'insulerait vers une liquidation des Target
 [02:24:33.100 --> 02:24:36.100] qui serait très progressive ?
 [02:24:36.100 --> 02:24:39.100] ça prendrait énormément de temps
 [02:24:39.100 --> 02:24:43.420] progressif je veux bien mais vu les sommes en ju
@@ -2461,9 +2461,9 @@
 [02:25:49.070 --> 02:25:52.070] de réadopter la solution française
 [02:25:52.070 --> 02:25:55.070] c'est très bien comme question
 [02:25:55.070 --> 02:25:58.070] il est trop tard
-[02:25:58.070 --> 02:26:01.070] parce que maintenant les targets sont là
+[02:25:58.070 --> 02:26:01.070] parce que maintenant les Target sont là
 [02:26:01.070 --> 02:26:04.070] ça marchait au départ
-[02:26:04.070 --> 02:26:07.070] mais là pour le coup vous devriez avoir une liquidation immédiate des targets
+[02:26:04.070 --> 02:26:07.070] mais là pour le coup vous devriez avoir une liquidation immédiate des Target
 [02:26:07.070 --> 02:26:10.070] sauf si on supprime toutes les banques
 [02:26:10.070 --> 02:26:13.070] non
 [02:26:13.070 --> 02:26:16.070] il y aura de toute façon quelqu'un qui reprendra la dette à ça

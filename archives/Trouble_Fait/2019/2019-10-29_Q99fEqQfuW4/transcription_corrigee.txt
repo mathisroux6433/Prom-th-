@@ -36,18 +36,18 @@
 [00:04:08.500 --> 00:04:15.540] qui va pouvoir créer 100 € de monnaie centrale allemande crédité sur le compte de la Deutsche Bank. Avec cette nouvelle monnaie centrale,
 [00:04:15.540 --> 00:04:25.370] la Deutsche Bank va pouvoir créditer le compte de son fournisseur de 100 € tamponnés Deutsche Bank. Et celui-ci va pouvoir livrer son client.
 [00:04:25.370 --> 00:04:30.050] Gardez en tête que la BCE sert d'intermédiaire entre les banques centrales. Mais je l'ai pas mis dans le schéma pour ne pas
-[00:04:30.050 --> 00:04:37.730] complexifier inutilement la suite des explications. On y reviendra un peu plus tard. Ce qu'on appelle « debt target »,
+[00:04:30.050 --> 00:04:37.730] complexifier inutilement la suite des explications. On y reviendra un peu plus tard. Ce qu'on appelle « debt Target »,
 [00:04:37.730 --> 00:04:44.930] en fait, c'est juste la monnaie centrale française qui atterrit à l'actif de la Bundesbank pour qu'elle crée la monnaie centrale allemande
 [00:04:44.930 --> 00:04:51.130] dans le cadre d'un transfert de monnaie secondaire d'un système bancaire à un autre au sein de la zone euro.
 [00:04:51.130 --> 00:04:56.970] Pourtant, on voit pas bien pourquoi on parle de « debt », parce que l'échange est équilibré. La Bundesbank a reçu un actif
 [00:04:56.970 --> 00:05:04.610] d'une certaine valeur, puis elle en a créé un autre de même valeur à destination des banques commerciales de son système bancaire.
 [00:05:04.610 --> 00:05:10.830] Et c'est tout à fait vrai, il n'y a pas de « debt ». Tant qu'un euro français égale un euro allemand égale un euro finlandais, etc.,
-[00:05:10.830 --> 00:05:17.550] personne ne doit rien à personne. Le solde target négatif de la France ne signifie pas qu'elle doit cette somme à un autre pays.
+[00:05:10.830 --> 00:05:17.550] personne ne doit rien à personne. Le solde Target négatif de la France ne signifie pas qu'elle doit cette somme à un autre pays.
 [00:05:17.550 --> 00:05:23.590] Ça signifie que de l'argent créé en France par les banques commerciales a quitté le pays et se balade dans la zone euro
 [00:05:23.590 --> 00:05:29.710] sans avoir fait le chemin inverse. C'est seulement en cas de sortie d'un état de la zone euro que les soldes Target deviennent des dettes,
 [00:05:29.710 --> 00:05:36.350] qui doivent être payés entièrement en euros le jour même de la sortie. C'est une règle inscrite dans les traités européens
 [00:05:36.350 --> 00:05:42.230] et qui a été confirmée par Mario Draghi, l'ancien président de la BCE. Il y a quand même un petit flou juridique sur tout ça,
-[00:05:42.230 --> 00:05:47.830] mais c'est vrai qu'il est pas illogique que les soldes target échappent à leur redénomination en monnaie nationale
+[00:05:42.230 --> 00:05:47.830] mais c'est vrai qu'il est pas illogique que les soldes Target échappent à leur redénomination en monnaie nationale
 [00:05:47.830 --> 00:05:54.030] pour éviter de déséquilibrer le bilan des banques créditrices. On va prendre un exemple. Imaginons que la France sorte de l'euro
 [00:05:54.030 --> 00:06:01.670] et que le nouveau franc se déprécie de 10% par rapport à l'euro. La monnaie centrale française présente sur le compte de la Bundesbank
 [00:06:01.670 --> 00:06:09.470] deviendrait 100 francs, qui vaudrait 90 €. La Bundesbank constaterait alors une perte de 10 €, qui serait sûrement absorbée

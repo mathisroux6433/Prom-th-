@@ -1,0 +1,491 @@
+{
+  "schema_version": "1.1",
+  "video_id": "lWbsWPYyCvQ",
+  "resume_general": "Bilan militant des coûts attribués à l'euro pour la France : compétitivité, dévaluation interne, MES, QE, taux négatifs, assurance-vie, bail-in, propriété, Target et blocage du débat sur la sortie.",
+  "themes_principaux": [
+    {
+      "theme": "Avantages officiels et coûts allégués",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00",
+        "00:02:03"
+      ]
+    },
+    {
+      "theme": "Dévaluation interne et demande",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:03:17"
+      ]
+    },
+    {
+      "theme": "MES et QE",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:10:48",
+        "00:11:36"
+      ]
+    },
+    {
+      "theme": "Taux négatifs et épargne",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:16:26"
+      ]
+    },
+    {
+      "theme": "Bail-in et dépôts",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:21:07"
+      ]
+    },
+    {
+      "theme": "Dette et propriété",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:26:18"
+      ]
+    },
+    {
+      "theme": "Target et sortie",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:34:43",
+        "00:37:08"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Avantages officiels et concessions de l’auteur",
+      "description": "La Commission est citée : choix et prix stables, débouchés, disparition du change, croissance, marchés efficaces, poids mondial et identité européenne. L’auteur reconnaît la commodité des voyages et la suppression du risque de change immédiat, tout en disant que Target en reporte une partie. Il affirme ensuite que les autres promesses sont démenties (00:00:00).",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "sujet": "1. Compétitivité, chômage et coût allégué",
+      "description": "L’euro cher, les capitaux libres et les marchandises libres auraient favorisé délocalisations et chômage. Une étude du CEP est citée pour une perte contrefactuelle de 56 000 euros par Français ; l’auteur conteste sa conclusion selon laquelle le problème serait le manque de réformes plutôt que la monnaie (00:02:03).",
+      "horodatages": [
+        "00:02:03"
+      ]
+    },
+    {
+      "sujet": "2. Dévaluation interne et demande comprimée",
+      "description": "Baisser dépenses, services publics, droits du travail et salaires peut soutenir les exportations d’un pays isolé. Appliquée partout, cette stratégie réduit le revenu des clients et déclenche une course à l’appauvrissement. L’auteur illustre comment une baisse salariale supérieure à la baisse possible des prix réduit les ventes, l’investissement et l’emploi ; il relie ce cycle à la déflation (00:03:17).",
+      "horodatages": [
+        "00:03:17"
+      ]
+    },
+    {
+      "sujet": "3. Coût des mécanismes de sauvetage",
+      "description": "Le MES prête aux États privés de marché contre ajustement budgétaire. La vidéo cite une contribution française initiale de 16 milliards et une exposition potentielle bien supérieure. Elle considère ce coût comme destiné d’abord à préserver la zone monétaire (00:10:48).",
+      "horodatages": [
+        "00:10:48"
+      ]
+    },
+    {
+      "sujet": "4. QE, bulles et inégalités",
+      "description": "Les rachats de titres cherchent à relancer crédit, investissement et consommation. Selon l’auteur, des ménages appauvris ne peuvent emprunter et des entreprises sans demande n’investissent pas ; les liquidités vont donc aux actifs financiers et immobiliers, enrichissant leurs détenteurs. Les taux négatifs résultent aussi de la rareté des obligations et de la recherche de sécurité (00:11:36).",
+      "horodatages": [
+        "00:11:36"
+      ]
+    },
+    {
+      "sujet": "5. Épargne et assurance-vie",
+      "description": "Les taux négatifs réduisent la charge de la dette, bénéfice explicitement admis, mais fragilisent retraites capitalisées, assureurs et fonds en euros. Des recapitalisations et emprunts d’assureurs sont cités. La loi Sapin 2 est présentée comme permettant de limiter temporairement retraits et rendements ; l’auteur extrapole un risque pour l’accès à l’épargne (00:16:26).",
+      "horodatages": [
+        "00:16:26"
+      ]
+    },
+    {
+      "sujet": "6. Renflouement interne et dépôts",
+      "description": "La directive BRRD autorise un bail-in mobilisant notamment certains dépôts supérieurs à 100 000 euros ; Chypre est cité. La vidéo imagine qu’une crise extrême pourrait dépasser les garanties et souligne l’asymétrie d’information des déposants. Elle relie aussi les taux négatifs à des frais ou taxes de dépôts et évoque une note du FMI sur les espèces. Plusieurs conclusions sont hypothétiques (00:21:07).",
+      "horodatages": [
+        "00:21:07"
+      ]
+    },
+    {
+      "sujet": "7. Dette publique et propriété",
+      "description": "Un rapport de France Stratégie est cité parmi les options de réduction des dettes : l’État pourrait acquérir une fraction du foncier résidentiel et percevoir une redevance différée. L’auteur assimile cette proposition à une expropriation destinée à préserver compétitivité et euro. Il rapproche ensuite, de façon contestable et explicitement spéculative, ce projet de dispositifs séparant foncier public et bâti privé (00:26:18).",
+      "horodatages": [
+        "00:26:18"
+      ]
+    },
+    {
+      "sujet": "8. Target et prochaine crise",
+      "description": "Un défaut italien pourrait, selon la répartition décrite, exposer la Banque de France à 100–120 milliards. Ce précédent compliquerait ensuite une sortie française. L’auteur récapitule ses critiques sur économie, niveau de vie, services publics, épargne et propriété (00:34:43).",
+      "horodatages": [
+        "00:34:43"
+      ]
+    },
+    {
+      "sujet": "Sortie et blocage politique",
+      "description": "La dernière partie reproche aux oppositions de promettre une « autre Europe » sans assumer l’article 50. Mélenchon, Marine Le Pen, Asselineau, François Boulo, Jacques Sapir, Étienne Chouard, Emmanuel Todd et d’autres sont cités ou commentés. L’auteur admet qu’une sortie serait coûteuse et exigerait préparation monétaire, financière et commerciale, mais soutient que rester l’est aussi. Il attribue une réforme des retraites à l’harmonisation exigée par la Commission et conclut que l’absence de débat entretient la peur de l’inconnu (00:37:08).",
+      "horodatages": [
+        "00:37:08"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "euro",
+    "dévaluation interne",
+    "MES",
+    "QE",
+    "taux négatifs",
+    "assurance-vie",
+    "BRRD",
+    "bail-in",
+    "Target2",
+    "Frexit"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "Target2",
+      "variantes": [
+        "Target",
+        "soldes Target",
+        "créances Target"
+      ]
+    },
+    {
+      "forme": "sortie de l'euro",
+      "variantes": [
+        "retour au franc",
+        "Italexit",
+        "redénomination"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Christine Lagarde",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Marine Le Pen",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jean-Luc Mélenchon",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "François Asselineau",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jacques Sapir",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Étienne Chouard",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Commission européenne",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "BCE",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "MES",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "France Stratégie",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "FMI",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Avantages officiels et coûts allégués",
+      "explication": "La Commission est citée : choix et prix stables, débouchés, disparition du change, croissance, marchés efficaces, poids mondial et identité européenne. L’auteur reconnaît la commodité des voyages et la suppression du risque de change immédiat, tout en disant que Target en reporte une partie. Il affirme ensuite que les autres promesses sont démenties (00:00:00).",
+      "horodatages": [
+        "00:00:00",
+        "00:02:03"
+      ]
+    },
+    {
+      "nom": "Dévaluation interne et demande",
+      "explication": "L’euro cher, les capitaux libres et les marchandises libres auraient favorisé délocalisations et chômage. Une étude du CEP est citée pour une perte contrefactuelle de 56 000 euros par Français ; l’auteur conteste sa conclusion selon laquelle le problème serait le manque de réformes plutôt que la monnaie (00:02:03).",
+      "horodatages": [
+        "00:03:17"
+      ]
+    },
+    {
+      "nom": "MES et QE",
+      "explication": "Baisser dépenses, services publics, droits du travail et salaires peut soutenir les exportations d’un pays isolé. Appliquée partout, cette stratégie réduit le revenu des clients et déclenche une course à l’appauvrissement. L’auteur illustre comment une baisse salariale supérieure à la baisse possible des prix réduit les ventes, l’investissement et l’emploi ; il relie ce cycle à la déflation (00:03:17).",
+      "horodatages": [
+        "00:10:48",
+        "00:11:36"
+      ]
+    },
+    {
+      "nom": "Taux négatifs et épargne",
+      "explication": "Le MES prête aux États privés de marché contre ajustement budgétaire. La vidéo cite une contribution française initiale de 16 milliards et une exposition potentielle bien supérieure. Elle considère ce coût comme destiné d’abord à préserver la zone monétaire (00:10:48).",
+      "horodatages": [
+        "00:16:26"
+      ]
+    },
+    {
+      "nom": "Bail-in et dépôts",
+      "explication": "Les rachats de titres cherchent à relancer crédit, investissement et consommation. Selon l’auteur, des ménages appauvris ne peuvent emprunter et des entreprises sans demande n’investissent pas ; les liquidités vont donc aux actifs financiers et immobiliers, enrichissant leurs détenteurs. Les taux négatifs résultent aussi de la rareté des obligations et de la recherche de sécurité (00:11:36).",
+      "horodatages": [
+        "00:21:07"
+      ]
+    },
+    {
+      "nom": "Dette et propriété",
+      "explication": "Les taux négatifs réduisent la charge de la dette, bénéfice explicitement admis, mais fragilisent retraites capitalisées, assureurs et fonds en euros. Des recapitalisations et emprunts d’assureurs sont cités. La loi Sapin 2 est présentée comme permettant de limiter temporairement retraits et rendements ; l’auteur extrapole un risque pour l’accès à l’épargne (00:16:26).",
+      "horodatages": [
+        "00:26:18"
+      ]
+    },
+    {
+      "nom": "Target et sortie",
+      "explication": "La directive BRRD autorise un bail-in mobilisant notamment certains dépôts supérieurs à 100 000 euros ; Chypre est cité. La vidéo imagine qu’une crise extrême pourrait dépasser les garanties et souligne l’asymétrie d’information des déposants. Elle relie aussi les taux négatifs à des frais ou taxes de dépôts et évoque une note du FMI sur les espèces. Plusieurs conclusions sont hypothétiques (00:21:07).",
+      "horodatages": [
+        "00:34:43",
+        "00:37:08"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:10:48",
+      "contenu": "promesses, compétitivité et déflation"
+    },
+    {
+      "debut": "00:10:48",
+      "fin": "00:21:07",
+      "contenu": "MES, QE, taux et assurance-vie"
+    },
+    {
+      "debut": "00:21:07",
+      "fin": "00:34:43",
+      "contenu": "dépôts, espèces, dette et foncier"
+    },
+    {
+      "debut": "00:34:43",
+      "fin": "00:52:10",
+      "contenu": "Target et débat sur la sortie"
+    }
+  ],
+  "expressions_representatives": [
+    "Avantages officiels et concessions de l’auteur",
+    "1. Compétitivité, chômage et coût allégué",
+    "2. Dévaluation interne et demande comprimée",
+    "3. Coût des mécanismes de sauvetage",
+    "4. QE, bulles et inégalités",
+    "5. Épargne et assurance-vie",
+    "6. Renflouement interne et dépôts",
+    "7. Dette publique et propriété",
+    "8. Target et prochaine crise",
+    "Sortie et blocage politique"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "La Commission est citée : choix et prix stables, débouchés, disparition du change, croissance, marchés efficaces, poids mondial et identité européenne. L’auteur reconnaît la commodité des voyages et la suppression du risque de change immédiat, tout en disant que Target en reporte une partie. Il affirme ensuite que les autres promesses sont démenties (00:00:00).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "position": "L’euro cher, les capitaux libres et les marchandises libres auraient favorisé délocalisations et chômage. Une étude du CEP est citée pour une perte contrefactuelle de 56 000 euros par Français ; l’auteur conteste sa conclusion selon laquelle le problème serait le manque de réformes plutôt que la monnaie (00:02:03).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:02:03"
+      ]
+    },
+    {
+      "position": "Baisser dépenses, services publics, droits du travail et salaires peut soutenir les exportations d’un pays isolé. Appliquée partout, cette stratégie réduit le revenu des clients et déclenche une course à l’appauvrissement. L’auteur illustre comment une baisse salariale supérieure à la baisse possible des prix réduit les ventes, l’investissement et l’emploi ; il relie ce cycle à la déflation (00:03:17).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:03:17"
+      ]
+    },
+    {
+      "position": "Le MES prête aux États privés de marché contre ajustement budgétaire. La vidéo cite une contribution française initiale de 16 milliards et une exposition potentielle bien supérieure. Elle considère ce coût comme destiné d’abord à préserver la zone monétaire (00:10:48).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:10:48"
+      ]
+    },
+    {
+      "position": "Les rachats de titres cherchent à relancer crédit, investissement et consommation. Selon l’auteur, des ménages appauvris ne peuvent emprunter et des entreprises sans demande n’investissent pas ; les liquidités vont donc aux actifs financiers et immobiliers, enrichissant leurs détenteurs. Les taux négatifs résultent aussi de la rareté des obligations et de la recherche de sécurité (00:11:36).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:11:36"
+      ]
+    },
+    {
+      "position": "Les taux négatifs réduisent la charge de la dette, bénéfice explicitement admis, mais fragilisent retraites capitalisées, assureurs et fonds en euros. Des recapitalisations et emprunts d’assureurs sont cités. La loi Sapin 2 est présentée comme permettant de limiter temporairement retraits et rendements ; l’auteur extrapole un risque pour l’accès à l’épargne (00:16:26).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:16:26"
+      ]
+    },
+    {
+      "position": "La directive BRRD autorise un bail-in mobilisant notamment certains dépôts supérieurs à 100 000 euros ; Chypre est cité. La vidéo imagine qu’une crise extrême pourrait dépasser les garanties et souligne l’asymétrie d’information des déposants. Elle relie aussi les taux négatifs à des frais ou taxes de dépôts et évoque une note du FMI sur les espèces. Plusieurs conclusions sont hypothétiques (00:21:07).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:21:07"
+      ]
+    },
+    {
+      "position": "Un rapport de France Stratégie est cité parmi les options de réduction des dettes : l’État pourrait acquérir une fraction du foncier résidentiel et percevoir une redevance différée. L’auteur assimile cette proposition à une expropriation destinée à préserver compétitivité et euro. Il rapproche ensuite, de façon contestable et explicitement spéculative, ce projet de dispositifs séparant foncier public et bâti privé (00:26:18).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:26:18"
+      ]
+    },
+    {
+      "position": "Un défaut italien pourrait, selon la répartition décrite, exposer la Banque de France à 100–120 milliards. Ce précédent compliquerait ensuite une sortie française. L’auteur récapitule ses critiques sur économie, niveau de vie, services publics, épargne et propriété (00:34:43).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:34:43"
+      ]
+    },
+    {
+      "position": "La dernière partie reproche aux oppositions de promettre une « autre Europe » sans assumer l’article 50. Mélenchon, Marine Le Pen, Asselineau, François Boulo, Jacques Sapir, Étienne Chouard, Emmanuel Todd et d’autres sont cités ou commentés. L’auteur admet qu’une sortie serait coûteuse et exigerait préparation monétaire, financière et commerciale, mais soutient que rester l’est aussi. Il attribue une réforme des retraites à l’harmonisation exigée par la Commission et conclut que l’absence de débat entretient la peur de l’inconnu (00:37:08).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Trouble Fait (narrateur)",
+      "horodatages": [
+        "00:37:08"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "promesses, compétitivité et déflation",
+      "contexte": "De 00:00:00 à 00:10:48",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "lieu_ou_periode": "MES, QE, taux et assurance-vie",
+      "contexte": "De 00:10:48 à 00:21:07",
+      "horodatages": [
+        "00:10:48"
+      ]
+    },
+    {
+      "lieu_ou_periode": "dépôts, espèces, dette et foncier",
+      "contexte": "De 00:21:07 à 00:34:43",
+      "horodatages": [
+        "00:21:07"
+      ]
+    },
+    {
+      "lieu_ou_periode": "Target et débat sur la sortie",
+      "contexte": "De 00:34:43 à 00:52:10",
+      "horodatages": [
+        "00:34:43"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Avantages officiels et coûts allégués",
+      "relation": "contribue au raisonnement",
+      "cible": "Dévaluation interne et demande",
+      "horodatages": [
+        "00:00:00",
+        "00:02:03"
+      ]
+    },
+    {
+      "source": "Dévaluation interne et demande",
+      "relation": "contribue au raisonnement",
+      "cible": "MES et QE",
+      "horodatages": [
+        "00:03:17"
+      ]
+    },
+    {
+      "source": "MES et QE",
+      "relation": "contribue au raisonnement",
+      "cible": "Taux négatifs et épargne",
+      "horodatages": [
+        "00:10:48",
+        "00:11:36"
+      ]
+    },
+    {
+      "source": "Taux négatifs et épargne",
+      "relation": "contribue au raisonnement",
+      "cible": "Bail-in et dépôts",
+      "horodatages": [
+        "00:16:26"
+      ]
+    },
+    {
+      "source": "Bail-in et dépôts",
+      "relation": "contribue au raisonnement",
+      "cible": "Dette et propriété",
+      "horodatages": [
+        "00:21:07"
+      ]
+    },
+    {
+      "source": "Dette et propriété",
+      "relation": "contribue au raisonnement",
+      "cible": "Target et sortie",
+      "horodatages": [
+        "00:26:18"
+      ]
+    }
+  ]
+}

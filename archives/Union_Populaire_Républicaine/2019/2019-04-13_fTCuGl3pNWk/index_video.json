@@ -1,0 +1,434 @@
+{
+  "schema_version": "1.1",
+  "video_id": "fTCuGl3pNWk",
+  "resume_general": "Conférence technique de Vincent Brousseau sur l'histoire monétaire, les bilans des banques centrales, l'architecture décentralisée de l'euro, Target, la réponse à la crise financière et les scénarios de fragmentation ou de sortie.",
+  "themes_principaux": [
+    {
+      "theme": "Histoire et fonctions de la monnaie",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:03:00"
+      ]
+    },
+    {
+      "theme": "Banques centrales et euro",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:40:00"
+      ]
+    },
+    {
+      "theme": "Billets et Target",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:06:57"
+      ]
+    },
+    {
+      "theme": "Réponse à la crise",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:29:50"
+      ]
+    },
+    {
+      "theme": "Coût d'une sortie",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:53:02"
+      ]
+    },
+    {
+      "theme": "Target3 et fragmentation",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:55:02"
+      ]
+    },
+    {
+      "theme": "Scénarios italien et français",
+      "niveau": "developpe",
+      "horodatages": [
+        "02:02:20"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Objet",
+      "description": "Brousseau annonce une conférence destinée à des étudiants et professeurs, moins électorale que ses interventions habituelles. Il cherche à expliquer la monnaie, les bilans des banques centrales, la réaction de l’eurosystème à la crise et les risques spécifiques créés par Target (00:00:05).",
+      "horodatages": [
+        "00:00:05"
+      ]
+    },
+    {
+      "sujet": "De l’or à la monnaie de banque centrale",
+      "description": "La première partie retrace le passage de la monnaie métallique aux billets, puis aux dépôts et réserves. Elle distingue pièces, billets, monnaie bancaire et créances sur une banque centrale. La confiance, le cours légal et la possibilité de règlement sont plus importants que la couverture intégrale en or. Des exemples britanniques, suisses et historiques servent à expliquer actif, passif et pouvoir de création monétaire (00:03:00).",
+      "horodatages": [
+        "00:03:00"
+      ]
+    },
+    {
+      "sujet": "Types de banques centrales et architecture de l’euro",
+      "description": "L’intervenant compare une banque centrale restrictive, associée à la Bundesbank, et des modèles plus accommodants. Il explique que les billets en euros sont répartis comptablement entre banques centrales nationales et BCE, avec des mécanismes de réallocation distincts de leur circulation physique. L’euro est défini comme un faisceau de monnaies portant le même nom et maintenues à parité par l’obligation réciproque de les accepter (00:40:00).",
+      "horodatages": [
+        "00:40:00"
+      ]
+    },
+    {
+      "sujet": "Billets, soldes et Target",
+      "description": "Les flux de billets physiques et les virements bancaires ne coïncident pas. Target enregistre les créances et dettes entre banques centrales lorsqu’un paiement transfrontalier n’est pas compensé par un flux inverse. Avant la crise, les positions restent faibles ; après le blocage interbancaire, elles augmentent fortement. Brousseau insiste sur la symétrie comptable : toute dette a une créance correspondante (01:06:57). Il discute l’idée selon laquelle ces soldes ne seraient pas de vraies dettes. Son point est qu’ils sont des créances juridiques de l’eurosystème, mais d’une nature particulière puisque les banques centrales créent l’instrument",
+      "horodatages": [
+        "01:06:57",
+        "01:17:13"
+      ]
+    },
+    {
+      "sujet": "Réponse à la crise",
+      "description": "La crise élargit les bilans : refinancements, achats de titres et autres mesures remplacent un marché privé défaillant. Brousseau compare le bilan d’avant-crise à celui d’un organisme sain et celui d’après-crise à un organisme devenu très lourd. Il analyse la divergence des taux souverains comme une prime de risque de redénomination : un créancier craint de recevoir une nouvelle monnaie moins forte (01:29:50).",
+      "horodatages": [
+        "01:29:50"
+      ]
+    },
+    {
+      "sujet": "Coût d’une sortie pour les autres membres",
+      "description": "Selon ses calculs, la sortie d’un débiteur crée une perte à la BCE, répartie entre membres restants. Il avance plus de 100 milliards pour la France si l’Italie sort, et environ 200 milliards pour une sortie groupée de plusieurs pays du Sud. Ces montants dépendent de conventions comptables et hypothèses exposées oralement et ne sont pas vérifiés ici (01:53:02).",
+      "horodatages": [
+        "01:53:02"
+      ]
+    },
+    {
+      "sujet": "Collatéral et « Target3 »",
+      "description": "La Bundesbank pourrait exiger des garanties sur les transferts futurs. Limiter la quantité échangée à parité forcerait les paiements excédentaires vers le marché des changes ; un euro localisé en Espagne ou en Italie ne vaudrait alors plus exactement un euro allemand. L’euro serait mort économiquement avant l’annonce politique. Brousseau rattache cette idée à des économistes et responsables allemands et la nomme Target3 (01:55:02).",
+      "horodatages": [
+        "01:55:02"
+      ]
+    },
+    {
+      "sujet": "Scénarios italien et français",
+      "description": "La conférence examine une clause de sortie, le règlement des soldes, les mini-BOTs italiens et une sortie graduelle ou furtive. Pour la France, Brousseau préfère une décision explicite plutôt qu’un mécanisme discret ; son argument stratégique est de sortir avant l’Italie pour ne pas porter sa quote-part de perte (02:02:20).",
+      "horodatages": [
+        "02:02:20"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "monnaie centrale",
+    "billets",
+    "BCE",
+    "banques centrales nationales",
+    "Target2",
+    "Target3",
+    "redénomination",
+    "collatéral",
+    "crise financière"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "Target2",
+      "variantes": [
+        "Target",
+        "soldes Target",
+        "créances Target"
+      ]
+    },
+    {
+      "forme": "sortie de l'euro",
+      "variantes": [
+        "retour au franc",
+        "Italexit",
+        "redénomination"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Vincent Brousseau",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Mario Draghi",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jens Weidmann",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "BCE",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Banque de France",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Bundesbank",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Banque d'Italie",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Histoire et fonctions de la monnaie",
+      "explication": "Brousseau annonce une conférence destinée à des étudiants et professeurs, moins électorale que ses interventions habituelles. Il cherche à expliquer la monnaie, les bilans des banques centrales, la réaction de l’eurosystème à la crise et les risques spécifiques créés par Target (00:00:05).",
+      "horodatages": [
+        "00:03:00"
+      ]
+    },
+    {
+      "nom": "Banques centrales et euro",
+      "explication": "La première partie retrace le passage de la monnaie métallique aux billets, puis aux dépôts et réserves. Elle distingue pièces, billets, monnaie bancaire et créances sur une banque centrale. La confiance, le cours légal et la possibilité de règlement sont plus importants que la couverture intégrale en or. Des exemples britanniques, suisses et historiques servent à expliquer actif, passif et pouvoir de création monétaire (00:03:00).",
+      "horodatages": [
+        "00:40:00"
+      ]
+    },
+    {
+      "nom": "Billets et Target",
+      "explication": "L’intervenant compare une banque centrale restrictive, associée à la Bundesbank, et des modèles plus accommodants. Il explique que les billets en euros sont répartis comptablement entre banques centrales nationales et BCE, avec des mécanismes de réallocation distincts de leur circulation physique. L’euro est défini comme un faisceau de monnaies portant le même nom et maintenues à parité par l’obligation réciproque de les accepter (00:40:00).",
+      "horodatages": [
+        "01:06:57"
+      ]
+    },
+    {
+      "nom": "Réponse à la crise",
+      "explication": "Les flux de billets physiques et les virements bancaires ne coïncident pas. Target enregistre les créances et dettes entre banques centrales lorsqu’un paiement transfrontalier n’est pas compensé par un flux inverse. Avant la crise, les positions restent faibles ; après le blocage interbancaire, elles augmentent fortement. Brousseau insiste sur la symétrie comptable : toute dette a une créance correspondante (01:06:57). Il discute l’idée selon laquelle ces soldes ne seraient pas de vraies dettes. Son point est qu’ils sont des créances juridiques de l’eurosystème, mais d’une nature particulière puisque les banques centrales créent l’instrument",
+      "horodatages": [
+        "01:29:50"
+      ]
+    },
+    {
+      "nom": "Coût d'une sortie",
+      "explication": "La crise élargit les bilans : refinancements, achats de titres et autres mesures remplacent un marché privé défaillant. Brousseau compare le bilan d’avant-crise à celui d’un organisme sain et celui d’après-crise à un organisme devenu très lourd. Il analyse la divergence des taux souverains comme une prime de risque de redénomination : un créancier craint de recevoir une nouvelle monnaie moins forte (01:29:50).",
+      "horodatages": [
+        "01:53:02"
+      ]
+    },
+    {
+      "nom": "Target3 et fragmentation",
+      "explication": "Selon ses calculs, la sortie d’un débiteur crée une perte à la BCE, répartie entre membres restants. Il avance plus de 100 milliards pour la France si l’Italie sort, et environ 200 milliards pour une sortie groupée de plusieurs pays du Sud. Ces montants dépendent de conventions comptables et hypothèses exposées oralement et ne sont pas vérifiés ici (01:53:02).",
+      "horodatages": [
+        "01:55:02"
+      ]
+    },
+    {
+      "nom": "Scénarios italien et français",
+      "explication": "La Bundesbank pourrait exiger des garanties sur les transferts futurs. Limiter la quantité échangée à parité forcerait les paiements excédentaires vers le marché des changes ; un euro localisé en Espagne ou en Italie ne vaudrait alors plus exactement un euro allemand. L’euro serait mort économiquement avant l’annonce politique. Brousseau rattache cette idée à des économistes et responsables allemands et la nomme Target3 (01:55:02).",
+      "horodatages": [
+        "02:02:20"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:05",
+      "fin": "00:40:00",
+      "contenu": "histoire et nature de la monnaie"
+    },
+    {
+      "debut": "00:40:00",
+      "fin": "01:06:57",
+      "contenu": "architecture des banques centrales"
+    },
+    {
+      "debut": "01:06:57",
+      "fin": "01:29:50",
+      "contenu": "billets, Target et sortie"
+    },
+    {
+      "debut": "01:29:50",
+      "fin": "01:55:02",
+      "contenu": "crise et coût d'une sortie"
+    },
+    {
+      "debut": "01:55:02",
+      "fin": "02:33:00",
+      "contenu": "Target3 et scénarios"
+    }
+  ],
+  "expressions_representatives": [
+    "Objet",
+    "De l’or à la monnaie de banque centrale",
+    "Types de banques centrales et architecture de l’euro",
+    "Billets, soldes et Target",
+    "Réponse à la crise",
+    "Coût d’une sortie pour les autres membres",
+    "Collatéral et « Target3 »",
+    "Scénarios italien et français"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "Brousseau annonce une conférence destinée à des étudiants et professeurs, moins électorale que ses interventions habituelles. Il cherche à expliquer la monnaie, les bilans des banques centrales, la réaction de l’eurosystème à la crise et les risques spécifiques créés par Target (00:00:05).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "00:00:05"
+      ]
+    },
+    {
+      "position": "La première partie retrace le passage de la monnaie métallique aux billets, puis aux dépôts et réserves. Elle distingue pièces, billets, monnaie bancaire et créances sur une banque centrale. La confiance, le cours légal et la possibilité de règlement sont plus importants que la couverture intégrale en or. Des exemples britanniques, suisses et historiques servent à expliquer actif, passif et pouvoir de création monétaire (00:03:00).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "00:03:00"
+      ]
+    },
+    {
+      "position": "L’intervenant compare une banque centrale restrictive, associée à la Bundesbank, et des modèles plus accommodants. Il explique que les billets en euros sont répartis comptablement entre banques centrales nationales et BCE, avec des mécanismes de réallocation distincts de leur circulation physique. L’euro est défini comme un faisceau de monnaies portant le même nom et maintenues à parité par l’obligation réciproque de les accepter (00:40:00).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "00:40:00"
+      ]
+    },
+    {
+      "position": "Les flux de billets physiques et les virements bancaires ne coïncident pas. Target enregistre les créances et dettes entre banques centrales lorsqu’un paiement transfrontalier n’est pas compensé par un flux inverse. Avant la crise, les positions restent faibles ; après le blocage interbancaire, elles augmentent fortement. Brousseau insiste sur la symétrie comptable : toute dette a une créance correspondante (01:06:57). Il discute l’idée selon laquelle ces soldes ne seraient pas de vraies dettes. Son point est qu’ils sont des créances juridiques de l’eurosystème, mais d’une nature particulière puisque les banques centrales créent l’instrument",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "01:06:57",
+        "01:17:13"
+      ]
+    },
+    {
+      "position": "La crise élargit les bilans : refinancements, achats de titres et autres mesures remplacent un marché privé défaillant. Brousseau compare le bilan d’avant-crise à celui d’un organisme sain et celui d’après-crise à un organisme devenu très lourd. Il analyse la divergence des taux souverains comme une prime de risque de redénomination : un créancier craint de recevoir une nouvelle monnaie moins forte (01:29:50).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "01:29:50"
+      ]
+    },
+    {
+      "position": "Selon ses calculs, la sortie d’un débiteur crée une perte à la BCE, répartie entre membres restants. Il avance plus de 100 milliards pour la France si l’Italie sort, et environ 200 milliards pour une sortie groupée de plusieurs pays du Sud. Ces montants dépendent de conventions comptables et hypothèses exposées oralement et ne sont pas vérifiés ici (01:53:02).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "01:53:02"
+      ]
+    },
+    {
+      "position": "La Bundesbank pourrait exiger des garanties sur les transferts futurs. Limiter la quantité échangée à parité forcerait les paiements excédentaires vers le marché des changes ; un euro localisé en Espagne ou en Italie ne vaudrait alors plus exactement un euro allemand. L’euro serait mort économiquement avant l’annonce politique. Brousseau rattache cette idée à des économistes et responsables allemands et la nomme Target3 (01:55:02).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "01:55:02"
+      ]
+    },
+    {
+      "position": "La conférence examine une clause de sortie, le règlement des soldes, les mini-BOTs italiens et une sortie graduelle ou furtive. Pour la France, Brousseau préfère une décision explicite plutôt qu’un mécanisme discret ; son argument stratégique est de sortir avant l’Italie pour ne pas porter sa quote-part de perte (02:02:20).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "02:02:20"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "histoire et nature de la monnaie",
+      "contexte": "De 00:00:05 à 00:40:00",
+      "horodatages": [
+        "00:00:05"
+      ]
+    },
+    {
+      "lieu_ou_periode": "architecture des banques centrales",
+      "contexte": "De 00:40:00 à 01:06:57",
+      "horodatages": [
+        "00:40:00"
+      ]
+    },
+    {
+      "lieu_ou_periode": "billets, Target et sortie",
+      "contexte": "De 01:06:57 à 01:29:50",
+      "horodatages": [
+        "01:06:57"
+      ]
+    },
+    {
+      "lieu_ou_periode": "crise et coût d'une sortie",
+      "contexte": "De 01:29:50 à 01:55:02",
+      "horodatages": [
+        "01:29:50"
+      ]
+    },
+    {
+      "lieu_ou_periode": "Target3 et scénarios",
+      "contexte": "De 01:55:02 à 02:33:00",
+      "horodatages": [
+        "01:55:02"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Histoire et fonctions de la monnaie",
+      "relation": "contribue au raisonnement",
+      "cible": "Banques centrales et euro",
+      "horodatages": [
+        "00:03:00"
+      ]
+    },
+    {
+      "source": "Banques centrales et euro",
+      "relation": "contribue au raisonnement",
+      "cible": "Billets et Target",
+      "horodatages": [
+        "00:40:00"
+      ]
+    },
+    {
+      "source": "Billets et Target",
+      "relation": "contribue au raisonnement",
+      "cible": "Réponse à la crise",
+      "horodatages": [
+        "01:06:57"
+      ]
+    },
+    {
+      "source": "Réponse à la crise",
+      "relation": "contribue au raisonnement",
+      "cible": "Coût d'une sortie",
+      "horodatages": [
+        "01:29:50"
+      ]
+    },
+    {
+      "source": "Coût d'une sortie",
+      "relation": "contribue au raisonnement",
+      "cible": "Target3 et fragmentation",
+      "horodatages": [
+        "01:53:02"
+      ]
+    },
+    {
+      "source": "Target3 et fragmentation",
+      "relation": "contribue au raisonnement",
+      "cible": "Scénarios italien et français",
+      "horodatages": [
+        "01:55:02"
+      ]
+    }
+  ]
+}

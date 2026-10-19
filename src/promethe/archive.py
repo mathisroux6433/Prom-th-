@@ -8,7 +8,7 @@ from .io_utils import safe_component
 from .layout import WORK_SUBDIRECTORIES
 
 EXPECTED = (
-    "metadata.json", "audio.webm", "segments.json", "transcription_brute.txt",
+    "metadata.json", "segments.json", "transcription_brute.txt",
     "transcription_corrigee.txt", "index_video.json", "synthese_video.md",
     "etat_pipeline.json", "rapport_controle_qualite.md",
 )
@@ -35,13 +35,23 @@ def find_video(root: Path, video_id: str) -> Path | None:
 
 def verify_archive(directory: Path) -> dict[str, Any]:
     present = {name: (directory / name).is_file() for name in EXPECTED}
+    audio = any(p.is_file() and p.suffix not in {".part", ".ytdl"} for p in directory.glob("audio.*"))
     layout = {
         **{f"travail/{name}": (directory / "travail" / name).is_dir() for name in WORK_SUBDIRECTORIES},
         "historique/anciennes_versions": (directory / "historique" / "anciennes_versions").is_dir(),
     }
+    try:
+        from .state import STEPS, load_state
+        video_id = __import__("json").loads((directory / "metadata.json").read_text(encoding="utf-8"))["id"]
+        state = load_state(directory, video_id)
+        validated = all(state["steps"][name]["status"] == "complete" for name in STEPS)
+    except Exception:
+        validated = False
     return {
         "archive": str(directory),
-        "complete": all(present.values()) and all(layout.values()),
+        "complete": all(present.values()) and audio and all(layout.values()) and validated,
+        "audio": audio,
+        "validated_steps": validated,
         "files": present,
         "layout": layout,
     }

@@ -1,0 +1,124 @@
+MÉTHODE DE RECHERCHE DOCUMENTAIRE
+
+1. Périmètre, date et règles
+
+Recherche effectuée le 19 octobre 2026 exclusivement dans C:\Prométhé\archives, sans Internet, sans connaissance extérieure et sans modification d’une archive. L’unité d’inventaire est un dossier vidéo contenant metadata.json. Le parcours appliqué est : index final -> synthèse finale des documents retenus ou incertains -> transcription corrigée seulement en secours ou pour vérification utile.
+
+Critères de pertinence : présence observable de « Union européenne », « UE », « Europe » au sens institutionnel, « euro », « zone euro », BCE, Target2, marché unique, institutions/politiques européennes, ou d’un argument identifiable sur leurs bénéfices, coûts, fonctionnement ou sortie. Une simple occurrence géographique de l’Europe n’aurait pas suffi. Les positions citées pour être réfutées ont été conservées, car la demande porte sur tous les arguments retrouvables. Les doublons ont été regroupés sans effacer les différences d’auteur, de statut ou de raisonnement.
+
+2. Inventaire exhaustif
+
+Total : 14 archives vidéo, quatre chaînes.
+
+- AstronoGeek : 1 archive.
+- Le Précepteur : 1 archive.
+- Thinkerview : 1 archive.
+- Trouble Fait : 9 archives.
+- Union Populaire Républicaine : 2 archives.
+
+État documentaire : 7 archives avec index_video.json final et synthese_video.md finale ; 7 archives sans l’un ni l’autre mais avec metadata.json, segments.json et transcription_corrigee.txt. Les 14 archives ont une transcription corrigée. Le premier comptage oral de travail (« 13 », puis « six sans index ») a été corrigé après l’inventaire automatisé : les nombres vérifiés et utilisés ici sont 14, 7 et 7.
+
+3. Phase 1 — index effectivement examinés
+
+Les sept fichiers index_video.json finals ont été lus. Pour chacun ont été examinés : résumé général, thèmes principaux, sujets secondaires, mots-clés, variantes lexicales, personnes, organismes, concepts et repères temporels.
+
+A. Retenus dès l’index (5)
+
+1) Thinkerview — ID f9_i3mYLFpA — « L’Euro et l’UE sont bientôt morts ? Préparez-vous ! Thomas Grjebine et Nicolas Meilhan [EN DIRECT] ».
+Raison : euro, UE, monnaie forte, dévaluation interne, désindustrialisation, énergie, stratégie chinoise, protectionnisme, MACF et souveraineté sont des thèmes explicites et développés.
+
+2) Trouble Fait — ID yLEmwlm6VS8 — « [20ans de l’€] -1- Une chance pour la France. »
+Raison : promesses favorables initiales, bilan critique, croissance, pouvoir d’achat, convergence, Target2 et sortie de l’euro.
+
+3) Trouble Fait — ID 2yaMBOGNjKs — « [20ans de l’€] -2- Le fonctionnement de l’euro et de Target2 ».
+Raison : architecture de l’eurosystème, paiements interbancaires, BCE et Target2 ; pertinent pour comprendre un argument technique même si l’épisode est surtout pédagogique.
+
+4) Trouble Fait — ID Q99fEqQfuW4 — « [20ans de l’€] -3- L’origine des “fausses” dettes Target2 ».
+Raison : crise de 2008, soldes Target, fuite des capitaux, sortie, redénomination, défaut et charge éventuelle pour les contribuables.
+
+5) Trouble Fait — ID v-cnZWboyrY — « Reste-t-il des arguments valables en faveur de l’UE ? (Emploi, énergie, alimentation, sport…) ».
+Raison : objet central exactement transversal ; plan de relance, apprentissage, normes, USB-C, électricité, industrie, alimentation, institutions et élections.
+
+B. Potentiellement pertinents à l’issue de l’inventaire, faute d’index (7), tous retenus après recherche de secours
+
+6) Trouble Fait — ID FnU_TR_WYi4 — « [20ans de l’€] -4- La mort clinique de l’Euro (1/2) ».
+Raison initiale : titre et appartenance à la série ; confirmé par la transcription : change, dévaluation interne, modèle allemand, zone monétaire optimale, fédéralisme et harmonisation.
+
+7) Trouble Fait — ID CjuQQJm2LnI — « [20ans de l’€] -5- La mort clinique de l’Euro (2/2) ».
+Raison initiale : suite directe ; confirmé : mobilité, transferts, aléa moral, TSCG, MES, démocratie et viabilité de l’euro.
+
+8) Trouble Fait — ID fpdKmRdrC7M — « [20ans de l’€] -6- L’euro va-t-il tuer l’Allemagne ? (Avant que ce ne soit l’inverse ?) ».
+Raison initiale : euro et Allemagne ; confirmé : stabilité monétaire, Target, BCE, politiques non conventionnelles et scénario Target3.
+
+9) Trouble Fait — ID psPOa6MFaIg — « [20ans de l’€] -7- L’Italexit, le faux problème Target et les vrais coupables de l’Euro. »
+Raison initiale : sortie de l’euro et Target ; confirmé : mini-BOTs, sortie graduelle, pertes Target, contribuables, responsabilité politique et union monétaire sans union politique.
+
+10) Trouble Fait — ID lWbsWPYyCvQ — « [20ans de l’€] -8- Comment l’Euro ruine la France de 8 façons ».
+Raison initiale : bilan explicite ; confirmé : avantages officiels, demande, austérité, MES, QE, taux négatifs, épargne, BRRD, propriété, risques de crise et débats sur le Frexit.
+
+11) Union Populaire Républicaine — ID kP6IxvjnBNI — « Le retour au Franc - Vincent Brousseau ».
+Raison initiale : sortie de l’euro ; confirmé : souveraineté, promesses pro-UE/euro, croissance, chômage, dollar, subventions, dette et redénomination.
+
+12) Union Populaire Républicaine — ID fTCuGl3pNWk — « L’euro et la crise financière - Vincent Brousseau ».
+Raison initiale : euro et crise ; confirmé : monnaie centrale, euros nationaux, BCE, crise, Target, risque de sortie, coût pour la France et Target3.
+
+À l’issue de la vérification, aucune de ces sept archives n’est restée « incertaine » : toutes contiennent des développements directement pertinents.
+
+C. Écartés après examen complet de leur index (2)
+
+13) AstronoGeek — ID NAMUwxa2IIM — « 🪐Les premiers vaisseaux étaient plus archaïques que vous ne le pensez. »
+Raison : résumé, thèmes, sujets secondaires, mots-clés, personnes, organismes, concepts et repères portent sur sondes Luna/Ranger, gyroscopes, logique à relais, transistors, protection planétaire et thermique spatiale. Le contexte géopolitique de la course à la Lune n’apporte aucun argument sur l’UE ou l’euro. Aucun signal lexical ou conceptuel pertinent dans l’index.
+
+14) Le Précepteur — ID bAKGBamfaIo — « L’ÉPICURISME - La recette du bonheur ».
+Raison : résumé et champs d’index portent sur Épicure, désir, plaisir, modération, hybris, consommation, utilitarisme et loi. La critique du capitalisme et des désirs ne formule aucun argument attribuable sur l’UE ou l’euro. Aucun organisme européen, mécanisme monétaire ou repère pertinent.
+
+4. Phase 2 — synthèses consultées
+
+Cinq synthèses finales ont été consultées, exactement celles des cinq vidéos retenues parmi les sept indexées :
+
+- f9_i3mYLFpA, synthese_video.md : intégralement ; euro, industrie, Chine, énergie, dette, protectionnisme, MACF, responsabilités et nuances entre invités.
+- yLEmwlm6VS8, synthese_video.md : intégralement ; promesses, estimations contrefactuelles, débat politique, Target2 et limites méthodologiques déclarées.
+- 2yaMBOGNjKs, synthese_video.md : intégralement ; modèle comptable, création monétaire, banque centrale, compensation et Target2.
+- Q99fEqQfuW4, synthese_video.md : intégralement ; crise interbancaire, nature des soldes, sortie, défaut, contribuables et négociation.
+- v-cnZWboyrY, synthese_video.md : intégralement ; tous les chapitres du plan de relance aux institutions, ainsi que les incertitudes documentaires finales.
+
+Les synthèses de NAMUwxa2IIM et bAKGBamfaIo n’ont pas été consultées : leurs index finals suffisamment riches les classaient sans ambiguïté comme non pertinents. Cela respecte l’objectif d’éviter des lectures inutiles à l’échelle d’une grande bibliothèque.
+
+Évaluation : les cinq synthèses étaient suffisantes pour identifier les arguments et leurs horodatages dans les vidéos indexées. Aucune ambiguïté décisive n’a imposé de relire leur transcription. Les formulations ont été attribuées comme opinions, citations ou contestations selon les avertissements des synthèses.
+
+5. Phase 3 — transcriptions consultées et recherche de secours
+
+Sept transcriptions corrigées ont été consultées parce que les archives correspondantes n’avaient ni index final ni synthèse finale. La recherche a combiné lecture par séquences horodatées, repérage lexical et retour au contexte autour des occurrences. Les termes de repérage couvraient notamment : euro, UE, BCE, Target, dette, taux, change/dévaluation, inflation, croissance, emploi/chômage, industrie, commerce/import/export, salaire, compétitivité, épargne, démocratie, souveraineté, sortie/franc, Allemagne, France, Italie et Grèce.
+
+- FnU_TR_WYi4 : transcription intégrale (00:00:00–00:18:31). Passages particulièrement utilisés : 00:01:26–00:08:03 ; 00:08:36–00:18:31.
+- CjuQQJm2LnI : transcription intégrale (00:00:10–00:19:05). Passages particulièrement utilisés : 00:00:10–00:10:12 ; 00:11:19–00:18:54.
+- fpdKmRdrC7M : transcription parcourue par grandes séquences et recherche ciblée. Passages utilisés : 00:01:00–00:14:42 ; 00:23:11–00:32:27. La partie géopolitique intermédiaire a été repérée mais n’a été retenue que lorsqu’elle formulait un argument direct sur l’UE.
+- psPOa6MFaIg : transcription parcourue par grandes séquences et recherche ciblée. Passages utilisés : 00:01:52–00:15:05 ; 00:17:38–00:32:15.
+- lWbsWPYyCvQ : transcription intégrale (00:00:00–00:52:59), lue en deux blocs. Passages utilisés dans la réponse : 00:00:13–00:25:52 ; 00:34:43–00:52:10. L’exemple immobilier 00:26:48–00:34:43 a été examiné mais fortement condensé, car il mêle proposition hypothétique, analogie et extrapolation.
+- kP6IxvjnBNI : repérage exhaustif des occurrences thématiques, échantillonnage temporel sur toute la transcription et lecture contextuelle des séquences utilisées. Passages principaux : 00:05:02–00:08:50 ; 00:16:32–00:27:58 ; 00:28:10–00:59:49. La longue partie d’histoire monétaire/technique a été utilisée seulement lorsque nécessaire à la redénomination et à Target.
+- fTCuGl3pNWk : repérage exhaustif des occurrences thématiques, échantillonnage temporel sur toute la transcription et lecture contextuelle des séquences Target/crise/sortie. Passages principaux : 01:29:50–01:59:43 ; 02:14:28–02:25:29. Les développements généraux sur la nature de la monnaie ont servi de contexte mais n’ont pas été transformés en arguments autonomes sur l’UE.
+
+Aucune transcription brute n’a été utilisée, la version corrigée étant disponible partout. Aucun fichier d’archive n’a été modifié.
+
+6. Décisions de rédaction et contrôle des attributions
+
+- Les arguments proches ont été regroupés : par exemple monnaie forte, dévaluation interne et concurrence salariale restent trois mécanismes distincts mais reliés ; Target2 est traité à la fois comme infrastructure utile et risque de sortie.
+- Les arguments favorables cités par des critiques ont été conservés et marqués « cités puis contestés ». Cela évite de transformer une citation de Jacques Chirac, de la Commission ou d’un ministre en opinion de Trouble Fait.
+- L’auteur à l’écran de Trouble Fait n’étant pas nommé dans les métadonnées consultées, l’attribution prudente est « auteur de Trouble Fait ».
+- Les deux invités de Thinkerview ont été distingués quand la synthèse permettait l’attribution ; les convergences ont été attribuées aux deux.
+- Les chiffres, scénarios juridiques, causalités et documents visuels non vérifiés hors corpus sont présentés comme affirmations des intervenants. Aucun lien YouTube n’a été ouvert : les identifiants et métadonnées proviennent des archives.
+- Les passages polémiques ont été reformulés sans reprendre les insultes ; leur nature de jugement a été conservée.
+- Les horodatages sont ceux des index, synthèses ou transcriptions corrigées. Les plages synthétisent parfois plusieurs lignes contiguës ; elles ne prétendent pas être des chapitres officiels.
+
+7. Limites et omissions possibles
+
+- Biais du corpus : 11 des 12 vidéos pertinentes proviennent de Trouble Fait ou de l’Union Populaire Républicaine ; la quasi-absence de défenseurs autonomes de l’UE et de l’euro explique l’asymétrie du résultat.
+- Sept archives importantes n’ont pas d’index ni de synthèse finals. La recherche de secours est traçable et proportionnée, mais moins robuste qu’un index structuré : un exemple secondaire exprimé sans vocabulaire attendu peut avoir été omis dans les deux conférences longues.
+- Les transcriptions contiennent des erreurs de reconnaissance de noms et termes (« BCE », « Target », noms propres). Les arguments n’ont été retenus que lorsque le contexte levait l’ambiguïté ; aucune citation verbatim fragile n’a été nécessaire.
+- Les vidéos utilisent parfois des documents montrés à l’écran dont la bibliographie n’est pas intégralement transcrite. Ils sont rapportés comme documents cités, non validés.
+- Les chiffres historiques et économiques n’ont pas été contrôlés extérieurement, conformément à l’interdiction d’Internet et de connaissances externes.
+- « Tous les arguments » signifie tous les arguments substantiels identifiés dans les documents disponibles avec cette architecture. Les répétitions rhétoriques, attaques personnelles, apartés électoraux sans raisonnement sur l’UE/euro et détails monétaires sans conséquence argumentative ont été écartés.
+
+8. Méthode réutilisable à grande échelle
+
+Pour plusieurs centaines de vidéos, le même protocole reste applicable : (1) inventaire par metadata.json ; (2) lecture automatisable de tous les champs sémantiques des index, sans filtre préalable par chaîne ; (3) classement pertinent/potentiel/non pertinent avec justification observable ; (4) lecture des seules synthèses pertinentes ou incertaines ; (5) transcription ciblée par repères et lexique, ou recherche de secours si les dérivés documentaires manquent ; (6) registre des consultations et exclusions ; (7) réponse avec statut de chaque propos et horodatages ; (8) déclaration du biais et des manques. La principale amélioration de l’architecture actuelle serait de terminer index et synthèses des sept archives anciennes, sans créer un nouveau moteur ni une base parallèle.

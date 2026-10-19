@@ -1,0 +1,434 @@
+{
+  "schema_version": "1.1",
+  "video_id": "kP6IxvjnBNI",
+  "resume_general": "Vincent Brousseau défend le retour à une monnaie nationale. Il critique l'influence américaine, la méthode Monnet et les promesses de Maastricht, répond aux scénarios catastrophistes de sortie, puis explique monnaie centrale et Target.",
+  "themes_principaux": [
+    {
+      "theme": "Programme de retour au franc",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:02:03"
+      ]
+    },
+    {
+      "theme": "Influence américaine et UE",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:16:32"
+      ]
+    },
+    {
+      "theme": "Méthode Monnet et souveraineté",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:28:10"
+      ]
+    },
+    {
+      "theme": "Promesses de Maastricht",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:41:00"
+      ]
+    },
+    {
+      "theme": "Réponses aux risques de sortie",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:47:10"
+      ]
+    },
+    {
+      "theme": "Nature de la monnaie",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:59:13"
+      ]
+    },
+    {
+      "theme": "Target",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:19:09"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Cadre politique",
+      "description": "Présenté comme ancien employé de la BCE, Vincent Brousseau défend le programme de l’UPR : rétablir une monnaie nationale sans euro commun, bandes de fluctuation ni système parallèle. Il soutient qu’une sortie est souhaitable et urgente avant celle d’un grand débiteur Target (00:02:03).",
+      "horodatages": [
+        "00:02:03"
+      ]
+    },
+    {
+      "sujet": "Construction européenne et influence américaine",
+      "description": "Brousseau reprend une critique gaullienne du fédéralisme : les nations européennes auraient des intérêts, histoires et peuples politiques distincts ; un fédérateur ne pourrait qu’être extérieur. Il lit les interventions de Timothy Geithner pendant la crise grecque, puis de John Kerry et Barack Obama pendant le Brexit, comme la preuve que les États-Unis soutiennent l’intégration européenne. Il en déduit que l’UE n’est pas leur contrepoids ; il s’agit d’une inférence politique tirée de déclarations citées (00:10:25).",
+      "horodatages": [
+        "00:10:25"
+      ]
+    },
+    {
+      "sujet": "Méthode Monnet et transfert de souveraineté",
+      "description": "La « méthode Monnet » est décrite comme une succession de concessions : une intégration partielle ne fonctionnerait pas sans la suivante, ce qui conduit progressivement à l’union politique. Des textes de Benoît Cœuré et des déclarations politiques sont utilisés pour montrer que la monnaie commune appelle une souveraineté budgétaire commune. Brousseau conteste l’idée qu’un contrôle « démocratique européen » remplace le choix du Parlement national (00:28:10).",
+      "horodatages": [
+        "00:28:10"
+      ]
+    },
+    {
+      "sujet": "Promesses favorables et bilan invoqué",
+      "description": "Il rassemble des propos favorables de Giscard d’Estaing, Attali, Chirac, Sapin, Rocard et Bérégovoy : croissance, emploi, pouvoir d’achat, solidarité, sécurité, démocratie et force internationale. Des graphiques opposent ensuite, selon sa présentation, croissance et chômage de la zone euro à ceux de pays européens hors euro, des États-Unis, du Royaume-Uni et du Japon. La transcription ne contient pas les données détaillées nécessaires pour reproduire ce contrôle (00:41:00).",
+      "horodatages": [
+        "00:41:00"
+      ]
+    },
+    {
+      "sujet": "Arguments contre la sortie et réponses",
+      "description": "Brousseau classe les réponses pro-européennes en arguments d’autorité, disqualification personnelle et prophéties catastrophistes. Il répond à quatre craintes : perte des subventions, importations devenues inabordables, contrats privés bouleversés et dette publique alourdie. Les subventions proviendraient des contributions nationales ; Suisse et Royaume-Uni montrent qu’une monnaie nationale n’interdit pas d’importer ; contrats et hypothèques seraient redénominés selon leur droit ; la dette française de droit domestique passerait automatiquement en francs. Il affirme tenir ce dernier point de son travail à la BCE sur des procédures de sortie (",
+      "horodatages": [
+        "00:47:10"
+      ]
+    },
+    {
+      "sujet": "Histoire et nature de la monnaie",
+      "description": "Une longue section explique monnaie métallique, billets comme créances sur la banque centrale, pouvoir libératoire, réserves et création monétaire. Son objectif est de montrer que les euros restent juridiquement liés à différentes banques centrales nationales et que la monnaie unique est un ensemble de monnaies homonymes maintenues à parité (00:59:13).",
+      "horodatages": [
+        "00:59:13"
+      ]
+    },
+    {
+      "sujet": "Target par une métaphore comptable",
+      "description": "Une dette entre amis sert à expliquer Target : lorsqu’une banque italienne envoie un paiement vers l’Allemagne, la Bundesbank paie localement et acquiert une créance. Les soldes croissent avec les flux non compensés. Leur montant et leur éventuelle redénomination inquiéteraient la Bundesbank, surtout si un débiteur sortait (01:19:09).",
+      "horodatages": [
+        "01:19:09"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "franc",
+    "euro",
+    "Union européenne",
+    "souveraineté",
+    "méthode Monnet",
+    "Maastricht",
+    "redénomination",
+    "Target2",
+    "BCE"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "Target2",
+      "variantes": [
+        "Target",
+        "soldes Target",
+        "créances Target"
+      ]
+    },
+    {
+      "forme": "sortie de l'euro",
+      "variantes": [
+        "retour au franc",
+        "Italexit",
+        "redénomination"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Vincent Brousseau",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Timothy Geithner",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Wolfgang Schäuble",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Barack Obama",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "John Kerry",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jean Monnet",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Benoît Cœuré",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jacques Chirac",
+      "niveau": "developpe ou mention",
+      "role": "intervenant, auteur ou personne citée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "UPR",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "BCE",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Union européenne",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    },
+    {
+      "nom": "Bundesbank",
+      "niveau": "developpe",
+      "type": "institution ou organisation citée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Programme de retour au franc",
+      "explication": "Présenté comme ancien employé de la BCE, Vincent Brousseau défend le programme de l’UPR : rétablir une monnaie nationale sans euro commun, bandes de fluctuation ni système parallèle. Il soutient qu’une sortie est souhaitable et urgente avant celle d’un grand débiteur Target (00:02:03).",
+      "horodatages": [
+        "00:02:03"
+      ]
+    },
+    {
+      "nom": "Influence américaine et UE",
+      "explication": "Brousseau reprend une critique gaullienne du fédéralisme : les nations européennes auraient des intérêts, histoires et peuples politiques distincts ; un fédérateur ne pourrait qu’être extérieur. Il lit les interventions de Timothy Geithner pendant la crise grecque, puis de John Kerry et Barack Obama pendant le Brexit, comme la preuve que les États-Unis soutiennent l’intégration européenne. Il en déduit que l’UE n’est pas leur contrepoids ; il s’agit d’une inférence politique tirée de déclarations citées (00:10:25).",
+      "horodatages": [
+        "00:16:32"
+      ]
+    },
+    {
+      "nom": "Méthode Monnet et souveraineté",
+      "explication": "La « méthode Monnet » est décrite comme une succession de concessions : une intégration partielle ne fonctionnerait pas sans la suivante, ce qui conduit progressivement à l’union politique. Des textes de Benoît Cœuré et des déclarations politiques sont utilisés pour montrer que la monnaie commune appelle une souveraineté budgétaire commune. Brousseau conteste l’idée qu’un contrôle « démocratique européen » remplace le choix du Parlement national (00:28:10).",
+      "horodatages": [
+        "00:28:10"
+      ]
+    },
+    {
+      "nom": "Promesses de Maastricht",
+      "explication": "Il rassemble des propos favorables de Giscard d’Estaing, Attali, Chirac, Sapin, Rocard et Bérégovoy : croissance, emploi, pouvoir d’achat, solidarité, sécurité, démocratie et force internationale. Des graphiques opposent ensuite, selon sa présentation, croissance et chômage de la zone euro à ceux de pays européens hors euro, des États-Unis, du Royaume-Uni et du Japon. La transcription ne contient pas les données détaillées nécessaires pour reproduire ce contrôle (00:41:00).",
+      "horodatages": [
+        "00:41:00"
+      ]
+    },
+    {
+      "nom": "Réponses aux risques de sortie",
+      "explication": "Brousseau classe les réponses pro-européennes en arguments d’autorité, disqualification personnelle et prophéties catastrophistes. Il répond à quatre craintes : perte des subventions, importations devenues inabordables, contrats privés bouleversés et dette publique alourdie. Les subventions proviendraient des contributions nationales ; Suisse et Royaume-Uni montrent qu’une monnaie nationale n’interdit pas d’importer ; contrats et hypothèques seraient redénominés selon leur droit ; la dette française de droit domestique passerait automatiquement en francs. Il affirme tenir ce dernier point de son travail à la BCE sur des procédures de sortie (",
+      "horodatages": [
+        "00:47:10"
+      ]
+    },
+    {
+      "nom": "Nature de la monnaie",
+      "explication": "Une longue section explique monnaie métallique, billets comme créances sur la banque centrale, pouvoir libératoire, réserves et création monétaire. Son objectif est de montrer que les euros restent juridiquement liés à différentes banques centrales nationales et que la monnaie unique est un ensemble de monnaies homonymes maintenues à parité (00:59:13).",
+      "horodatages": [
+        "00:59:13"
+      ]
+    },
+    {
+      "nom": "Target",
+      "explication": "Une dette entre amis sert à expliquer Target : lorsqu’une banque italienne envoie un paiement vers l’Allemagne, la Bundesbank paie localement et acquiert une créance. Les soldes croissent avec les flux non compensés. Leur montant et leur éventuelle redénomination inquiéteraient la Bundesbank, surtout si un débiteur sortait (01:19:09).",
+      "horodatages": [
+        "01:19:09"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [],
+  "reperes_temporels": [
+    {
+      "debut": "00:02:03",
+      "fin": "00:28:10",
+      "contenu": "sortie et géopolitique de l'intégration"
+    },
+    {
+      "debut": "00:28:10",
+      "fin": "00:59:13",
+      "contenu": "souveraineté, promesses et arguments de sortie"
+    },
+    {
+      "debut": "00:59:13",
+      "fin": "01:19:09",
+      "contenu": "histoire et définition de la monnaie"
+    },
+    {
+      "debut": "01:19:09",
+      "fin": "01:46:00",
+      "contenu": "Target et risque de sortie"
+    }
+  ],
+  "expressions_representatives": [
+    "Cadre politique",
+    "Construction européenne et influence américaine",
+    "Méthode Monnet et transfert de souveraineté",
+    "Promesses favorables et bilan invoqué",
+    "Arguments contre la sortie et réponses",
+    "Histoire et nature de la monnaie",
+    "Target par une métaphore comptable"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "Présenté comme ancien employé de la BCE, Vincent Brousseau défend le programme de l’UPR : rétablir une monnaie nationale sans euro commun, bandes de fluctuation ni système parallèle. Il soutient qu’une sortie est souhaitable et urgente avant celle d’un grand débiteur Target (00:02:03).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "00:02:03"
+      ]
+    },
+    {
+      "position": "Brousseau reprend une critique gaullienne du fédéralisme : les nations européennes auraient des intérêts, histoires et peuples politiques distincts ; un fédérateur ne pourrait qu’être extérieur. Il lit les interventions de Timothy Geithner pendant la crise grecque, puis de John Kerry et Barack Obama pendant le Brexit, comme la preuve que les États-Unis soutiennent l’intégration européenne. Il en déduit que l’UE n’est pas leur contrepoids ; il s’agit d’une inférence politique tirée de déclarations citées (00:10:25).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "00:10:25"
+      ]
+    },
+    {
+      "position": "La « méthode Monnet » est décrite comme une succession de concessions : une intégration partielle ne fonctionnerait pas sans la suivante, ce qui conduit progressivement à l’union politique. Des textes de Benoît Cœuré et des déclarations politiques sont utilisés pour montrer que la monnaie commune appelle une souveraineté budgétaire commune. Brousseau conteste l’idée qu’un contrôle « démocratique européen » remplace le choix du Parlement national (00:28:10).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "00:28:10"
+      ]
+    },
+    {
+      "position": "Il rassemble des propos favorables de Giscard d’Estaing, Attali, Chirac, Sapin, Rocard et Bérégovoy : croissance, emploi, pouvoir d’achat, solidarité, sécurité, démocratie et force internationale. Des graphiques opposent ensuite, selon sa présentation, croissance et chômage de la zone euro à ceux de pays européens hors euro, des États-Unis, du Royaume-Uni et du Japon. La transcription ne contient pas les données détaillées nécessaires pour reproduire ce contrôle (00:41:00).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "00:41:00"
+      ]
+    },
+    {
+      "position": "Brousseau classe les réponses pro-européennes en arguments d’autorité, disqualification personnelle et prophéties catastrophistes. Il répond à quatre craintes : perte des subventions, importations devenues inabordables, contrats privés bouleversés et dette publique alourdie. Les subventions proviendraient des contributions nationales ; Suisse et Royaume-Uni montrent qu’une monnaie nationale n’interdit pas d’importer ; contrats et hypothèques seraient redénominés selon leur droit ; la dette française de droit domestique passerait automatiquement en francs. Il affirme tenir ce dernier point de son travail à la BCE sur des procédures de sortie (",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "00:47:10"
+      ]
+    },
+    {
+      "position": "Une longue section explique monnaie métallique, billets comme créances sur la banque centrale, pouvoir libératoire, réserves et création monétaire. Son objectif est de montrer que les euros restent juridiquement liés à différentes banques centrales nationales et que la monnaie unique est un ensemble de monnaies homonymes maintenues à parité (00:59:13).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "00:59:13"
+      ]
+    },
+    {
+      "position": "Une dette entre amis sert à expliquer Target : lorsqu’une banque italienne envoie un paiement vers l’Allemagne, la Bundesbank paie localement et acquiert une créance. Les soldes croissent avec les flux non compensés. Leur montant et leur éventuelle redénomination inquiéteraient la Bundesbank, surtout si un débiteur sortait (01:19:09).",
+      "statut": "thèse défendue ou analyse attribuée dans la synthèse",
+      "attribution": "Vincent Brousseau",
+      "horodatages": [
+        "01:19:09"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "sortie et géopolitique de l'intégration",
+      "contexte": "De 00:02:03 à 00:28:10",
+      "horodatages": [
+        "00:02:03"
+      ]
+    },
+    {
+      "lieu_ou_periode": "souveraineté, promesses et arguments de sortie",
+      "contexte": "De 00:28:10 à 00:59:13",
+      "horodatages": [
+        "00:28:10"
+      ]
+    },
+    {
+      "lieu_ou_periode": "histoire et définition de la monnaie",
+      "contexte": "De 00:59:13 à 01:19:09",
+      "horodatages": [
+        "00:59:13"
+      ]
+    },
+    {
+      "lieu_ou_periode": "Target et risque de sortie",
+      "contexte": "De 01:19:09 à 01:46:00",
+      "horodatages": [
+        "01:19:09"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Programme de retour au franc",
+      "relation": "contribue au raisonnement",
+      "cible": "Influence américaine et UE",
+      "horodatages": [
+        "00:02:03"
+      ]
+    },
+    {
+      "source": "Influence américaine et UE",
+      "relation": "contribue au raisonnement",
+      "cible": "Méthode Monnet et souveraineté",
+      "horodatages": [
+        "00:16:32"
+      ]
+    },
+    {
+      "source": "Méthode Monnet et souveraineté",
+      "relation": "contribue au raisonnement",
+      "cible": "Promesses de Maastricht",
+      "horodatages": [
+        "00:28:10"
+      ]
+    },
+    {
+      "source": "Promesses de Maastricht",
+      "relation": "contribue au raisonnement",
+      "cible": "Réponses aux risques de sortie",
+      "horodatages": [
+        "00:41:00"
+      ]
+    },
+    {
+      "source": "Réponses aux risques de sortie",
+      "relation": "contribue au raisonnement",
+      "cible": "Nature de la monnaie",
+      "horodatages": [
+        "00:47:10"
+      ]
+    },
+    {
+      "source": "Nature de la monnaie",
+      "relation": "contribue au raisonnement",
+      "cible": "Target",
+      "horodatages": [
+        "00:59:13"
+      ]
+    }
+  ]
+}

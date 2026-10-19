@@ -1,13 +1,12 @@
 from __future__ import annotations
 
 import json
-import shutil
 from pathlib import Path
 from typing import Any
 
 from .errors import PrometheError
 from .io_utils import read_json, write_text
-from .layout import history_path, request_path
+from .layout import request_path
 
 REPORT_KEYS = {"schema_version", "video_id", "verdict", "problems", "revised_synthesis"}
 PROBLEM_KEYS = {"category", "severity", "description", "source_evidence", "timestamp", "correction"}
@@ -64,18 +63,7 @@ def export_prompt(directory: Path, output: Path | None = None) -> Path:
     return destination
 
 
-def _backup_path(directory: Path) -> Path:
-    history = history_path(directory, "synthese_video_avant_relecture.md").parent
-    base = history / "synthese_video_avant_relecture.md"
-    if not base.exists():
-        return base
-    number = 2
-    while (candidate := history / f"synthese_video_avant_relecture_{number}.md").exists():
-        number += 1
-    return candidate
-
-
-def _report_markdown(data: dict[str, Any], changed: bool, backup: Path | None) -> str:
+def _report_markdown(data: dict[str, Any], changed: bool) -> str:
     lines = [
         "# Rapport de contrôle qualité de la synthèse",
         "",
@@ -84,8 +72,6 @@ def _report_markdown(data: dict[str, Any], changed: bool, backup: Path | None) -
         f"- **Problèmes signalés :** {len(data['problems'])}",
         f"- **Synthèse modifiée :** {'oui' if changed else 'non'}",
     ]
-    if backup:
-        lines.append(f"- **Copie précédente :** `{backup.name}`")
     lines.extend(["", "## Problèmes et corrections", ""])
     if not data["problems"]:
         lines.append("Aucun problème confirmé dans les sources archivées.")
@@ -132,10 +118,7 @@ def import_review(directory: Path, source: Path) -> dict[str, Any]:
     previous = synthesis_path.read_text(encoding="utf-8")
     normalized = revised.strip() + "\n"
     changed = normalized != previous
-    backup = None
     if changed:
-        backup = _backup_path(directory)
-        shutil.copyfile(synthesis_path, backup)
         write_text(synthesis_path, normalized)
-    write_text(directory / "rapport_controle_qualite.md", _report_markdown(data, changed, backup))
-    return {"data": data, "changed": changed, "backup": str(backup) if backup else None}
+    write_text(directory / "rapport_controle_qualite.md", _report_markdown(data, changed))
+    return {"data": data, "changed": changed}

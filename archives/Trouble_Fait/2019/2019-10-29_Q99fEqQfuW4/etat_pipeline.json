@@ -1,11 +1,12 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "video_id": "Q99fEqQfuW4",
-  "updated_at": "2026-10-18T07:52:35.871332+00:00",
+  "updated_at": "2026-10-19T04:32:04.924793+00:00",
   "steps": {
     "metadata": {
       "status": "complete",
-      "error": null
+      "error": null,
+      "source": "metadata.json"
     },
     "download": {
       "status": "complete",
@@ -15,34 +16,32 @@
     "transcription": {
       "status": "complete",
       "error": null,
-      "model": "medium",
-      "device": "cuda"
+      "source": "segments.json",
+      "segments": 107
     },
     "correction": {
       "status": "complete",
       "error": null,
-      "mode": "correction_agent_prudente",
-      "lignes_modifiees": 9,
-      "integrite_horodatages": "verifiee",
-      "note": "Corrections certaines uniquement; formulations ambiguës conservées."
+      "mode": "correction_contextuelle_validee",
+      "timestamps_preserved": true,
+      "changed": true
     },
     "index": {
       "status": "complete",
       "error": null,
-      "source": "archives\\Trouble_Fait\\2019\\2019-10-29_Q99fEqQfuW4\\travail\\reponses\\reponse_indexation.json"
+      "source": "index_video.json",
+      "schema": "1.1"
     },
     "synthesis": {
       "status": "complete",
       "error": null,
-      "source": "archives\\Trouble_Fait\\2019\\2019-10-29_Q99fEqQfuW4\\travail\\reponses\\reponse_synthese.md"
+      "source": "synthese_video.md"
     },
     "quality_control": {
       "status": "complete",
       "error": null,
-      "source": "archives\\Trouble_Fait\\2019\\2019-10-29_Q99fEqQfuW4\\travail\\reponses\\reponse_controle_qualite.json",
       "report": "rapport_controle_qualite.md",
-      "synthesis_changed": false,
-      "backup": null
+      "verdict": "conforme"
     }
   }
 }
