@@ -7,7 +7,10 @@ from unittest.mock import patch
 from promethe.archive import archive_path, verify_archive
 from promethe.cli import offer_quality_review
 from promethe.corrector import import_correction
-from promethe.downloader import ffmpeg_location, inspect_playlist
+from promethe.downloader import (
+    YoutubeAccess, _authenticated_options, _with_fallback, ffmpeg_location,
+    inspect_playlist, youtube_video_id,
+)
 from promethe.indexer import INDEX_KEYS, export_prompt, import_index
 from promethe.io_utils import timestamp, write_json, write_text
 from promethe.layout import ensure_archive_layout, migrate_archive_layout
@@ -19,6 +22,36 @@ from promethe.synthesizer import export_prompt as export_synthesis_prompt, impor
 
 
 class CoreTests(unittest.TestCase):
+    def test_youtube_id_is_extracted_without_network(self):
+        self.assertEqual(youtube_video_id("https://youtu.be/8F90IfUcW3w?si=x"), "8F90IfUcW3w")
+        self.assertEqual(
+            youtube_video_id("https://www.youtube.com/watch?v=tMkNyXpws_0&list=x"),
+            "tMkNyXpws_0",
+        )
+        self.assertEqual(youtube_video_id("https://example.org/watch?v=tMkNyXpws_0"), None)
+
+    @patch("promethe.downloader.ensure_javascript_runtime", return_value=Path("C:/runtime/deno.exe"))
+    def test_authenticated_options_keep_cookies_in_firefox(self, runtime):
+        options = _authenticated_options(YoutubeAccess())
+        self.assertEqual(options["cookiesfrombrowser"], ("firefox",))
+        self.assertEqual(options["js_runtimes"]["deno"]["path"], "C:\\runtime\\deno.exe")
+        self.assertEqual(options["extractor_args"]["youtube"]["player_client"], ["web_safari"])
+        runtime.assert_called_once_with(None)
+
+    @patch("promethe.downloader.ensure_javascript_runtime", return_value=Path("C:/runtime/deno.exe"))
+    def test_antibot_failure_triggers_one_authenticated_retry(self, _runtime):
+        attempts = []
+
+        def operation(options):
+            attempts.append(options)
+            if len(attempts) == 1:
+                raise RuntimeError("Sign in to confirm you're not a bot")
+            return "ok"
+
+        self.assertEqual(_with_fallback(operation, YoutubeAccess()), "ok")
+        self.assertEqual(attempts[0], {})
+        self.assertEqual(attempts[1]["cookiesfrombrowser"], ("firefox",))
+
     def test_nvidia_runtime_configuration_is_idempotent(self):
         first = configure_nvidia_dlls()
         second = configure_nvidia_dlls()
@@ -204,6 +237,22 @@ class CoreTests(unittest.TestCase):
             second = process("u", root, stop_after="metadata")
             self.assertEqual(first, second)
             self.assertEqual((second / "metadata.json").read_text(encoding="utf-8"), original)
+
+    @patch("promethe.pipeline.inspect_url")
+    def test_standard_url_resume_uses_local_metadata_without_network(self, inspect):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            directory = root / "C" / "2023" / "2023-01-01_8F90IfUcW3w"
+            directory.mkdir(parents=True)
+            write_json(directory / "metadata.json", {
+                "schema_version": "1.0", "id": "8F90IfUcW3w", "title": "T",
+                "channel": "C", "upload_date": "20230101",
+            })
+            result = process(
+                "https://youtu.be/8F90IfUcW3w?si=x", root, stop_after="metadata",
+            )
+            self.assertEqual(result, directory)
+            inspect.assert_not_called()
 
     @patch("promethe.downloader._ydl_class")
     def test_playlist_is_expanded_without_download(self, ydl_class):

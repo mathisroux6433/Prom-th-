@@ -1,0 +1,738 @@
+[00:00:00.000 --> 00:00:03.320] Le marché européen d'électricité, c'est un scandale d'État.
+[00:00:03.320 --> 00:00:06.600] On nous avait dit que la concurrence ferait baisser les prix, c'est faux.
+[00:00:06.600 --> 00:00:09.920] On nous avait dit que le marché, ce serait le progrès et l'innovation.
+[00:00:09.920 --> 00:00:11.680] Là encore, raté.
+[00:00:11.680 --> 00:00:15.600] En réalité, on a payé plus cher, EDF a frôlé la faillite
+[00:00:15.600 --> 00:00:19.480] et des fournisseurs privés s'en sont mis plein les poches sans rien produire du tout.
+[00:00:19.480 --> 00:00:25.780] Pour bien comprendre ce qui s'est passé, il faut tout reprendre depuis le début.
+[00:00:25.780 --> 00:00:29.620] Si on remonte trente ans en arrière, l'électricité en France était produite,
+[00:00:29.660 --> 00:00:33.580] transportée et vendue par un seul et même opérateur, EDF.
+[00:00:33.580 --> 00:00:36.140] L'État détenait le monopole de toute la chaîne de valeurs
+[00:00:36.140 --> 00:00:37.860] et régulait les tarifs lui-même.
+[00:00:37.860 --> 00:00:40.180] Et c'était comme ça un peu partout en Europe.
+[00:00:40.180 --> 00:00:44.660] Mais à partir des années 1990, on commence à douter de l'efficacité des États.
+[00:00:50.500 --> 00:00:52.580] On est en plein moment de la construction européenne
+[00:00:52.580 --> 00:00:57.580] et on croit alors, dur comme fer, qu'il faut créer un système qui dépasse les frontières nationales.
+[00:00:57.580 --> 00:01:01.740] De là, naît dans la tête de nos dirigeants l'idée d'un marché européen de l'électricité.
+[00:01:01.740 --> 00:01:04.540] Le principe est simple, il faut fusionner les marchés nationaux
+[00:01:04.540 --> 00:01:06.820] en un marché unique à l'échelle du continent.
+[00:01:06.820 --> 00:01:09.900] L'argument avancé, l'interconnectivité du réseau
+[00:01:09.900 --> 00:01:12.620] va permettre de limiter les risques d'approvisionnement.
+[00:01:12.620 --> 00:01:15.540] Grâce aux marchés uniques, les pays pourront beaucoup plus facilement
+[00:01:15.540 --> 00:01:18.660] importer de l'électricité auprès de leurs voisins en cas de pénurie.
+[00:01:18.660 --> 00:01:21.340] Et c'est pas une petite affaire cette question de l'approvisionnement.
+[00:01:21.340 --> 00:01:24.860] Parce que l'électricité présente une spécificité très particulière.
+[00:01:24.860 --> 00:01:26.460] Elle ne se stocke pas.
+[00:01:26.460 --> 00:01:30.380] Ça veut dire qu'elle doit être produite exactement au moment où elle est consommée.
+[00:01:30.380 --> 00:01:33.300] Car si à un moment donné, la demande dépasse l'offre,
+[00:01:33.300 --> 00:01:36.860] ne serait-ce que d'un gigaWatt, c'est le blackout complet.
+[00:01:36.860 --> 00:01:40.340] Et comme l'électricité est un bien de première nécessité qu'on utilise partout,
+[00:01:40.340 --> 00:01:42.980] dans l'industrie, dans les hôpitaux, dans les entreprises,
+[00:01:42.980 --> 00:01:45.300] c'est un risque qu'on ne peut pas du tout se permettre.
+[00:01:45.300 --> 00:01:48.660] Avec une production d'électricité basée sur le charbon ou le nucléaire,
+[00:01:48.660 --> 00:01:51.020] les risques de coupure de courant sont assez faibles.
+[00:01:51.020 --> 00:01:53.860] Le problème, c'est qu'avec le développement des énergies renouvelables,
+[00:01:53.860 --> 00:01:57.660] la sécurité de l'approvisionnement est devenue beaucoup plus incertaine.
+[00:01:57.660 --> 00:02:01.020] Un panneau solaire a besoin de soleil et une éolienne de vent
+[00:02:01.020 --> 00:02:02.740] pour produire de l'électricité.
+[00:02:02.740 --> 00:02:05.820] Et du soleil et du vent, on n'en a pas tout le temps.
+[00:02:05.820 --> 00:02:08.020] Donc, pour qu'un pays comme l'Allemagne, par exemple,
+[00:02:08.020 --> 00:02:11.500] produise presque 60% de son électricité avec du renouvelable,
+[00:02:11.500 --> 00:02:14.620] il faut qu'elle puisse facilement apporter auprès de ses voisins,
+[00:02:14.620 --> 00:02:16.420] et en particulier de la France.
+[00:02:16.420 --> 00:02:21.060] Elle a besoin d'un nucléaire français pour s'assurer une sécurité d'approvisionnement.
+[00:02:21.060 --> 00:02:24.460] Grâce à l'électricité que la France produit avec ses centrales nucléaires,
+[00:02:24.460 --> 00:02:28.300] c'est elle qui assure une bonne partie de la sécurité du marché européen.
+[00:02:28.300 --> 00:02:31.020] Et c'est pour ça aussi que l'Union européenne tenait tant
+[00:02:31.020 --> 00:02:32.900] à ce que la France joue le jeu du marché.
+[00:02:32.900 --> 00:02:35.900] Bref, sur le papier, on nous promettait un beau marché
+[00:02:35.900 --> 00:02:37.660] où on aurait tous été solidaires,
+[00:02:37.660 --> 00:02:40.660] où on aurait protégé notre environnement avec des énergies vertes
+[00:02:40.660 --> 00:02:42.780] et où tout le monde aurait été gagnant.
+[00:02:42.780 --> 00:02:49.360] Mais malheureusement, ça s'est pas tout à fait passé comme prévu.
+[00:02:49.360 --> 00:02:50.640] On aurait pu s'en tenir là.
+[00:02:50.640 --> 00:02:53.400] On aurait pu mettre en place un marché commun et c'est tout.
+[00:02:53.400 --> 00:02:56.720] Mais non, on nous a expliqué qu'il fallait aussi changer les règles du jeu.
+[00:02:56.720 --> 00:03:01.080] Parce que les monopoles publiques allaient à l'encontre du dogme fondateur de l'Union européenne,
+[00:03:01.080 --> 00:03:02.680] la libre concurrence.
+[00:03:02.680 --> 00:03:07.000] À partir de 1996, on a donc décidé de briser tous les monopoles publiques
+[00:03:07.000 --> 00:03:08.920] pour confier la gestion de l'électricité
+[00:03:08.920 --> 00:03:12.640] à plusieurs agents économiques en concurrence les uns avec les autres.
+[00:03:12.640 --> 00:03:14.960] On nous assurait à l'époque qu'avec la concurrence,
+[00:03:14.960 --> 00:03:17.920] on aurait plus d'innovations et que les prix allaient baisser.
+[00:03:17.920 --> 00:03:20.840] Et le résultat, bah, le voilà.
+[00:03:20.840 --> 00:03:22.760] Sacrée réussite, hein ?
+[00:03:22.800 --> 00:03:25.440] Alors, c'est vrai qu'à l'époque, on ne connaissait pas ces chiffres.
+[00:03:25.440 --> 00:03:26.920] On n'avait pas encore beaucoup de recul,
+[00:03:26.920 --> 00:03:32.720] mais il y avait déjà des indices qui montraient que cette idée de marché concurrentiel était bancale.
+[00:03:32.720 --> 00:03:35.000] En fait, un problème s'est tout de suite posé.
+[00:03:35.000 --> 00:03:37.680] Comment ouvrir à la concurrence des lignes électriques ?
+[00:03:37.680 --> 00:03:39.560] Parce que si on regarde les choses concrètement,
+[00:03:39.560 --> 00:03:43.080] on a affaire à un monopole naturel, comme les routes ou les trains.
+[00:03:43.080 --> 00:03:46.640] Ça aurait été complètement absurde que chaque fournisseur d'électricité
+[00:03:46.640 --> 00:03:49.800] construise ses propres câbles, ses propres lignes électriques.
+[00:03:49.800 --> 00:03:52.360] Donc, il a fallu bricoler un peu le système.
+[00:03:52.360 --> 00:03:55.000] On a dû diviser le marché en trois activités distinctes.
+[00:03:55.000 --> 00:03:58.040] La production, le transport et la fourniture.
+[00:03:58.040 --> 00:04:00.720] Le transport, c'est tout le réseau des lignes qui permet d'acheminer
+[00:04:00.720 --> 00:04:03.640] l'électricité de la centrale vers le consommateur.
+[00:04:03.640 --> 00:04:07.280] Comme c'est un monopole naturel, on n'a pas pu l'ouvrir à la concurrence.
+[00:04:07.280 --> 00:04:10.120] Donc, on a laissé sa gestion à la puissance publique.
+[00:04:10.120 --> 00:04:13.360] En France, c'est RTE et Enedis qui s'en occupent.
+[00:04:13.360 --> 00:04:16.840] Mais pour ce qui est des deux autres activités, la production et la fourniture,
+[00:04:16.840 --> 00:04:19.800] elles, on a décidé de les ouvrir à la concurrence.
+[00:04:19.800 --> 00:04:23.080] Les producteurs étaient chargés d'exploiter les installations électriques
+[00:04:23.080 --> 00:04:26.480] et les fournisseurs de commercialiser l'électricité produite.
+[00:04:26.480 --> 00:04:28.520] Et là, il faut qu'on s'attarde sur un point.
+[00:04:28.520 --> 00:04:32.040] Les fournisseurs n'ont aucune obligation de produire l'électricité.
+[00:04:32.040 --> 00:04:36.080] L'activité fourniture, elle consiste uniquement à acheter l'électricité
+[00:04:36.080 --> 00:04:38.920] sur le marché pour la revendre au consommateur.
+[00:04:38.920 --> 00:04:42.280] Ça veut dire qu'on a déconnecté la fourniture de la production
+[00:04:42.280 --> 00:04:44.720] uniquement pour pouvoir créer un marché.
+[00:04:44.720 --> 00:04:46.680] Mais c'est totalement artificiel.
+[00:04:46.680 --> 00:04:51.000] C'est une pure construction juridique qui ne répond à aucun besoin économique.
+[00:04:51.000 --> 00:04:53.360] Là, on est dans le dogmatisme pur et simple.
+[00:05:02.680 --> 00:05:06.280] Vous commencez peut-être à comprendre que ça partait mal depuis le début.
+[00:05:06.280 --> 00:05:10.920] Eh bien oui, comme EDF était quasiment le seul propriétaire du parc électrique français,
+[00:05:10.920 --> 00:05:14.440] il était impossible pour les autres fournisseurs de lui faire concurrence.
+[00:05:14.440 --> 00:05:17.520] Donc, pour permettre à des concurrents de s'installer,
+[00:05:17.520 --> 00:05:21.880] on a appliqué entre 2011 et 2026 ce qu'on appelle l'ARENH,
+[00:05:21.880 --> 00:05:24.920] l'accès régulé à l'électricité nucléaire historique.
+[00:05:24.920 --> 00:05:28.720] Derrière cet acronyme un peu barbare se cache en fait un énorme scandale.
+[00:05:28.720 --> 00:05:34.120] Pendant 15 ans, l'État a obligé EDF à vendre environ 25% de son électricité nucléaire
+[00:05:34.120 --> 00:05:37.800] à ses concurrents à un prix fixe et très avantageux.
+[00:05:37.800 --> 00:05:42.080] Seulement 42 euros le MW alors que le coût de production du nucléaire
+[00:05:42.080 --> 00:05:44.040] s'élève au moins à 60 euros.
+[00:05:44.040 --> 00:05:46.520] C'est un suicide économique pour EDF.
+[00:05:46.520 --> 00:05:50.160] J'ai toujours dit non, l'ARENH est une monstruosité, monstruosité.
+[00:05:50.160 --> 00:05:53.200] Je l'ai dit et répété pendant 8 ans, l'ARENH est un poison.
+[00:05:53.200 --> 00:05:55.760] Toujours qualifié l'ARENH de dispositif à bout de souffle.
+[00:05:55.760 --> 00:05:58.920] Alors en théorie, il y avait quand même une contrepartie à tout ça.
+[00:05:58.920 --> 00:06:02.520] L'idée était de permettre aux fournisseurs d'investir dans la production.
+[00:06:02.520 --> 00:06:06.280] Grâce à l'ARENH, les fournisseurs allaient pouvoir réaliser des grosses marges,
+[00:06:06.280 --> 00:06:10.000] puis utiliser cet argent pour développer leur propre production,
+[00:06:10.000 --> 00:06:12.000] notamment via les énergies renouvelables.
+[00:06:12.000 --> 00:06:14.200] Mais comme on leur a posé aucune obligation,
+[00:06:14.200 --> 00:06:16.400] qu'ont fait la plupart des fournisseurs à votre avis ?
+[00:06:16.400 --> 00:06:19.720] Ben oui, rien, c'était pas du tout dans leur intérêt.
+[00:06:19.720 --> 00:06:24.040] Regardez, aucun de ceux qui ont bénéficié de la rente n'a investi
+[00:06:24.040 --> 00:06:26.480] ni dans le nucléaire, ni même dans la production.
+[00:06:26.480 --> 00:06:29.880] Donc on a fait de la fortune de traders, pas d'industrières.
+[00:06:29.880 --> 00:06:33.120] Soit ils investissaient des coûts colossaux dans des moyens de production,
+[00:06:33.120 --> 00:06:36.440] certes pour en tirer des bénéfices, mais des années plus tard.
+[00:06:36.440 --> 00:06:39.240] Soit ils profitaient de l'ARENH au maximum
+[00:06:39.280 --> 00:06:41.880] en achetant leur électricité pas chère à EDF
+[00:06:41.880 --> 00:06:44.120] pour la revendre ensuite au prix du marché.
+[00:06:44.120 --> 00:06:45.480] Le choix était vite fait.
+[00:06:45.480 --> 00:06:46.760] Pas besoin de produire.
+[00:06:46.760 --> 00:06:49.320] Acheter pour revendre, c'était très rentable.
+[00:06:49.320 --> 00:06:51.280] Et très rentable immédiatement.
+[00:06:51.280 --> 00:06:55.320] Vous avez créé ce système abscon
+[00:06:55.320 --> 00:06:58.560] qui dépasse EDF
+[00:06:58.560 --> 00:07:04.760] et qui lui demande de donner une partie de son énergie produite par le nucléaire.
+[00:07:04.760 --> 00:07:05.960] 25%.
+[00:07:05.960 --> 00:07:07.840] À ses concurrentes directs.
+[00:07:07.840 --> 00:07:10.280] Il y avait un contrat qui était passé.
+[00:07:10.280 --> 00:07:13.680] Et à la fin, ils devaient produire.
+[00:07:13.680 --> 00:07:15.560] Qu'est-ce qui se passe 12 ans après ?
+[00:07:15.560 --> 00:07:17.760] Ils n'ont pas investi un seul euro.
+[00:07:17.760 --> 00:07:23.280] Et vous nous dites que ça protège les consommateurs ?
+[00:07:23.280 --> 00:07:26.880] Mais non, c'est une spoliation organisée.
+[00:07:26.880 --> 00:07:30.360] De fait, une bonne partie des fournisseurs ont préféré augmenter les dividendes
+[00:07:30.360 --> 00:07:33.200] de leurs actionnaires plutôt que de sérieusement investir
+[00:07:33.200 --> 00:07:34.480] dans des moyens de production.
+[00:07:34.480 --> 00:07:36.920] En 2021, par exemple, sur un résultat net
+[00:07:36.920 --> 00:07:38.480] de plus de 5 milliards d'euros,
+[00:07:38.480 --> 00:07:42.000] Engie en a versé 65% à ses actionnaires.
+[00:07:42.000 --> 00:07:44.480] Aujourd'hui, on se retrouve avec tout un tas de fournisseurs
+[00:07:44.480 --> 00:07:46.840] qui sont en fait des purs spéculateurs.
+[00:07:46.840 --> 00:07:48.640] Ils ne produisent pas d'électricité.
+[00:07:48.640 --> 00:07:50.160] Ils ne la transportent pas non plus.
+[00:07:50.160 --> 00:07:51.680] Mais ils gagnent de l'argent.
+[00:07:51.680 --> 00:07:52.760] Beaucoup d'argent.
+[00:07:52.760 --> 00:07:55.480] Sur le dos d'EDF, mais aussi des consommateurs.
+[00:07:55.480 --> 00:07:57.720] Et pas toujours de manière très légale.
+[00:07:57.720 --> 00:07:58.960] Pour attirer leurs clients,
+[00:07:58.960 --> 00:08:02.840] les fournisseurs ont pris l'habitude de pratiquer des démarchages ultra agressifs.
+[00:08:02.840 --> 00:08:05.080] Et parfois même totalement frauduleux.
+[00:08:05.120 --> 00:08:06.280] Rien qu'en 2018,
+[00:08:06.280 --> 00:08:08.080] Engie s'est fait condamner à deux reprises
+[00:08:08.080 --> 00:08:11.160] pour concurrence déloyale et démarchage abusif.
+[00:08:11.160 --> 00:08:15.160] Des vendeurs ont par exemple inventé l'existence d'une pseudo loi Hulot
+[00:08:15.160 --> 00:08:17.360] pour promettre des bonus à leurs clients.
+[00:08:17.360 --> 00:08:20.920] Certains fournisseurs se sont même fait passer pour des vendeurs EDF.
+[00:08:20.920 --> 00:08:23.200] Pour ces gens-là, aucun scrupule.
+[00:08:23.200 --> 00:08:25.560] Toutes les techniques sont bonnes pour abuser le chalent.
+[00:08:25.560 --> 00:08:27.160] Dernier point important.
+[00:08:27.160 --> 00:08:29.200] La grosse différence entre le modèle d'hier,
+[00:08:29.200 --> 00:08:31.160] basé sur le monopole public d'EDF
+[00:08:31.160 --> 00:08:34.560] et celui d'aujourd'hui, un grand marché avec plein de fournisseurs,
+[00:08:34.560 --> 00:08:36.040] c'est le profit.
+[00:08:36.040 --> 00:08:39.000] Quand l'activité était gérée exclusivement par le public,
+[00:08:39.000 --> 00:08:43.240] tout l'argent payé par les utilisateurs était réinvesti dans l'activité.
+[00:08:43.240 --> 00:08:45.160] Personne ne gagnait de l'argent.
+[00:08:45.160 --> 00:08:48.680] On fournissait un service, un service public. Point.
+[00:08:48.680 --> 00:08:50.400] Avec l'ouverture à la concurrence,
+[00:08:50.400 --> 00:08:53.240] la fourniture d'électricité devient lucrative.
+[00:08:53.240 --> 00:08:55.600] C'est un nouveau marché pour les acteurs privés,
+[00:08:55.600 --> 00:08:57.600] c'est-à-dire une nouvelle source de profit,
+[00:08:57.600 --> 00:08:59.880] un nouveau moyen de faire du business.
+[00:08:59.880 --> 00:09:02.920] La conséquence, c'est qu'une partie du prix d'électricité qu'on paye
+[00:09:02.960 --> 00:09:05.640] ne sert plus à investir dans nos infrastructures,
+[00:09:05.640 --> 00:09:07.720] mais part dans la poche d'actionnaires privés.
+[00:09:07.720 --> 00:09:09.760] Est-ce que le service est mieux rendu pour autant ?
+[00:09:09.760 --> 00:09:12.960] Non, EDF avait toujours parfaitement rempli sa mission.
+[00:09:12.960 --> 00:09:17.600] Au temps où EDF était en monopole malgré les énormes salaires en retraite,
+[00:09:17.600 --> 00:09:21.280] les factures étaient quand même parmi les moins chères d'Europe.
+[00:09:21.280 --> 00:09:23.760] Ça fonctionnait bien, encore une fois, c'était reconnu.
+[00:09:23.760 --> 00:09:28.400] Donc aujourd'hui, on a fait monter la facture des consommateurs pour rien du tout,
+[00:09:28.400 --> 00:09:31.120] si ce n'est enrichir quelques acteurs privés.
+[00:09:31.160 --> 00:09:32.800] Ce sont des requins,
+[00:09:32.800 --> 00:09:36.080] et dès qu'ils peuvent se gonfler, ils le font sur l'autre dos.
+[00:09:36.080 --> 00:09:39.480] Voilà, tout ça, on le doit au marché européen de l'électricité.
+[00:09:39.480 --> 00:09:40.680] Mais c'est pas fini,
+[00:09:40.680 --> 00:09:43.760] parce que quand l'Union européenne décide de faire les choses bien,
+[00:09:43.760 --> 00:09:48.210] elle ne le fait pas qu'à moitié.
+[00:09:48.210 --> 00:09:49.730] Pour les fournisseurs d'électricité,
+[00:09:49.730 --> 00:09:52.090] le marché européen repose sur une règle stricte,
+[00:09:52.090 --> 00:09:54.290] un prix unique à l'échelle du continent.
+[00:09:54.290 --> 00:09:58.050] Et à cause de ce principe, on a créé une véritable usine à gaz.
+[00:09:58.050 --> 00:10:00.530] Mais pour bien comprendre, revenons en arrière un instant.
+[00:10:00.530 --> 00:10:02.650] Au temps du monopole, c'était très simple.
+[00:10:02.650 --> 00:10:05.290] On prenait l'ensemble des coûts du système électrique national
+[00:10:05.290 --> 00:10:06.890] pour déterminer le prix de vente.
+[00:10:06.890 --> 00:10:09.330] C'est une approche par le coût complet de production.
+[00:10:09.330 --> 00:10:11.370] Il y a essentiellement trois types de coûts.
+[00:10:11.370 --> 00:10:12.490] Les coûts de capital,
+[00:10:12.490 --> 00:10:15.770] c'est-à-dire la construction et l'amortissement des infrastructures,
+[00:10:15.770 --> 00:10:17.850] le parc nucléaire, les barrages hydrauliques,
+[00:10:17.850 --> 00:10:19.650] les milliers de kilomètres de lignes électriques.
+[00:10:19.650 --> 00:10:20.810] Les coûts d'exploitation,
+[00:10:20.810 --> 00:10:23.010] c'est-à-dire la maintenance, la gestion du réseau,
+[00:10:23.010 --> 00:10:24.770] les salaires des agents d'EDF,
+[00:10:24.770 --> 00:10:26.290] et les coûts des combustibles,
+[00:10:26.290 --> 00:10:29.090] l'achat de l'uranium, du charbon, du fioul.
+[00:10:29.090 --> 00:10:30.570] On faisait la somme de tout ça,
+[00:10:30.570 --> 00:10:34.090] et on le divisait par le volume total d'électricité consommée dans le pays.
+[00:10:34.090 --> 00:10:36.090] Au final, le prix de vente de l'électricité
+[00:10:36.090 --> 00:10:38.850] reflétait le coût moyen du mix énergétique français.
+[00:10:38.850 --> 00:10:40.050] Pour le dire plus simplement,
+[00:10:40.050 --> 00:10:42.490] on payait ce qu'il fallait pour produire suffisamment
+[00:10:42.490 --> 00:10:44.170] et répondre aux besoins du pays.
+[00:10:44.170 --> 00:10:45.530] Ni plus, ni moins.
+[00:10:45.530 --> 00:10:48.130] Avec le marché européen, on a tout complexifié.
+[00:10:48.130 --> 00:10:49.650] On a créé un grand marché
+[00:10:49.650 --> 00:10:52.490] réunissant tous les acteurs européens de l'électricité.
+[00:10:52.490 --> 00:10:56.010] Sur ce marché, les producteurs vendent l'énergie qu'ils viennent de générer,
+[00:10:56.010 --> 00:10:58.050] les fournisseurs y achètent l'électricité
+[00:10:58.050 --> 00:10:59.930] pour la revendre ensuite aux consommateurs,
+[00:10:59.930 --> 00:11:01.610] et les négociants font du trading.
+[00:11:01.610 --> 00:11:05.610] Ils achètent et revendent pour apporter de la liquidité au marché.
+[00:11:05.610 --> 00:11:08.930] C'est sur ce marché de gros que s'applique la règle du prix unique.
+[00:11:08.930 --> 00:11:11.970] Ce prix varie d'une heure à l'autre en fonction de l'offre et la demande,
+[00:11:11.970 --> 00:11:14.730] mais selon un système très particulier,
+[00:11:14.730 --> 00:11:16.930] la tarification au coût marginal.
+[00:11:16.930 --> 00:11:19.050] Alors, ça peut paraître un peu technique dit comme ça,
+[00:11:19.050 --> 00:11:22.210] mais vous allez voir, c'est pas si compliqué à comprendre.
+[00:11:22.210 --> 00:11:23.010] Explication.
+[00:11:23.010 --> 00:11:25.010] Comme l'électricité ne se stocke pas,
+[00:11:25.010 --> 00:11:27.130] il faut que la quantité d'électricité produite
+[00:11:27.130 --> 00:11:29.250] corresponde exactement à la demande
+[00:11:29.250 --> 00:11:30.970] au moment où elle est consommée.
+[00:11:30.970 --> 00:11:34.210] Or, la demande varie beaucoup en fonction de la saison
+[00:11:34.210 --> 00:11:35.690] ou du moment de la journée.
+[00:11:35.690 --> 00:11:39.050] Vous consommerez plus en journée que pendant la nuit par exemple.
+[00:11:39.050 --> 00:11:42.610] C'est pour ça que toutes les centrales ne sont pas allumées en permanence,
+[00:11:42.610 --> 00:11:44.450] surtout quand la demande est faible.
+[00:11:44.450 --> 00:11:47.690] Donc ce qu'on fait, c'est qu'on appelle les centrales une à une,
+[00:11:47.690 --> 00:11:49.210] de la moins chère à la plus chère
+[00:11:49.210 --> 00:11:52.130] jusqu'à atteindre la quantité d'électricité demandée.
+[00:11:52.130 --> 00:11:54.410] Petit point important pour que vous compreniez bien.
+[00:11:54.410 --> 00:11:56.770] Le calcul ne prend en compte que les coûts variables,
+[00:11:56.770 --> 00:11:59.730] c'est-à-dire le prix du carburant ou des taxes carbone.
+[00:11:59.730 --> 00:12:01.890] On ignore complètement le coût fixe.
+[00:12:01.890 --> 00:12:04.250] Ça veut dire qu'on met de côté toutes les dépenses liées
+[00:12:04.250 --> 00:12:06.970] à la construction de la centrale et à son entretien.
+[00:12:06.970 --> 00:12:09.290] En pratique, on se retrouve donc avec cet ordre.
+[00:12:09.290 --> 00:12:11.530] On fait d'abord appel aux énergies renouvelables.
+[00:12:11.530 --> 00:12:13.490] Comme elles n'utilisent aucun combustible,
+[00:12:13.490 --> 00:12:15.530] leur coût de production est très faible.
+[00:12:15.530 --> 00:12:17.690] Ensuite, on appelle les centrales nucléaires,
+[00:12:17.690 --> 00:12:21.210] le combustible qu'elles utilisent, l'uranium, à un prix assez bas.
+[00:12:21.210 --> 00:12:25.250] Et enfin, on utilise le gaz, le charbon et le fioul en dernier ressort,
+[00:12:25.250 --> 00:12:28.250] parce que leur coût de production dépend du cours des combustibles
+[00:12:28.250 --> 00:12:30.850] et il est donc généralement beaucoup plus élevé.
+[00:12:30.850 --> 00:12:33.450] Ce système, on l'appelle le mérite-order.
+[00:12:33.450 --> 00:12:35.890] Il permet de faire appel aux centrales les moins chères
+[00:12:35.890 --> 00:12:37.850] et les moins polluantes en premier.
+[00:12:37.850 --> 00:12:39.690] Comme ça, on baisse les coûts de production
+[00:12:39.690 --> 00:12:42.170] et on privilégie les énergies décarbonées.
+[00:12:42.170 --> 00:12:45.210] Le problème, c'est que l'Union européenne a décidé de fixer le prix
+[00:12:45.210 --> 00:12:47.330] sur la dernière centrale appelée.
+[00:12:47.330 --> 00:12:51.130] C'est donc la centrale la plus chère qui détermine le prix de tout le marché.
+[00:12:51.130 --> 00:12:54.010] Et bien souvent, ça correspond au prix du gaz.
+[00:12:54.010 --> 00:12:55.490] Et c'est sur la base de ce prix
+[00:12:55.490 --> 00:12:58.050] que les fournisseurs s'approvisionnent en électricité
+[00:12:58.050 --> 00:13:00.290] pour ensuite la revendre aux consommateurs.
+[00:13:00.290 --> 00:13:02.650] Est-ce que vous commencez un peu à comprendre le problème ?
+[00:13:02.650 --> 00:13:05.930] En France, on produit plus de 60% de notre électricité
+[00:13:05.930 --> 00:13:07.490] avec nos centrales nucléaires.
+[00:13:07.490 --> 00:13:10.810] Le gaz, en revanche, représente moins de 10% de notre production.
+[00:13:10.810 --> 00:13:13.930] Donc les Français sont dépendants des variations du prix du gaz,
+[00:13:13.930 --> 00:13:17.450] alors que leur production, elle, vient essentiellement du nucléaire,
+[00:13:17.450 --> 00:13:19.290] une énergie beaucoup moins chère.
+[00:13:19.290 --> 00:13:21.250] Ça veut dire que les consommateurs français
+[00:13:21.250 --> 00:13:24.090] peuvent être amenés à payer leur électricité beaucoup plus cher
+[00:13:24.090 --> 00:13:26.530] que le véritable coût de production en France.
+[00:13:26.530 --> 00:13:28.570] C'est complètement absurde.
+[00:13:28.570 --> 00:13:30.450] Allez, petit verre d'eau pour rester calme.
+[00:13:30.450 --> 00:13:33.530] Vu ce qui va suivre, on va en avoir besoin.
+[00:13:33.530 --> 00:13:35.690] On en vient à la question des tarifs réglementés.
+[00:13:35.690 --> 00:13:39.170] L'État, via EDF, peut fixer son propre prix de l'électricité
+[00:13:39.170 --> 00:13:40.570] vendu aux consommateurs.
+[00:13:40.570 --> 00:13:42.250] C'est quoi le tarif réglementé ?
+[00:13:42.250 --> 00:13:44.250] Ou que vous habitiez sur le territoire ?
+[00:13:44.250 --> 00:13:47.890] Vous aurez accès à l'énergie au même prix
+[00:13:47.890 --> 00:13:51.610] et tout le monde aura accès à un prix qui sera fixé par l'État
+[00:13:51.610 --> 00:13:55.490] avec une commission indépendante et qui sera du coup régulé, réglementé.
+[00:13:57.250 --> 00:13:59.570] Sur le papier, on se dit, c'est super,
+[00:13:59.570 --> 00:14:01.970] on va pouvoir s'affranchir du prix européen
+[00:14:01.970 --> 00:14:04.490] pour se baser sur notre vrai coût de production.
+[00:14:04.490 --> 00:14:06.450] Et donc, baisser la facture.
+[00:14:06.450 --> 00:14:09.810] Oui, mais non, ce serait trop beau.
+[00:14:09.810 --> 00:14:14.250] Non, l'Union européenne interdit à EDF de fixer des prix trop bas.
+[00:14:14.250 --> 00:14:15.650] Et vous savez pourquoi ?
+[00:14:15.650 --> 00:14:18.490] Ben, pour ne pas couler les fournisseurs alternatifs.
+[00:14:18.490 --> 00:14:20.210] Et oui, encore eux.
+[00:14:20.210 --> 00:14:22.290] En fait, l'Union européenne ne veut pas que EDF
+[00:14:22.290 --> 00:14:24.690] profite de sa position dominante historique
+[00:14:24.690 --> 00:14:27.010] pour baisser la facture d'électricité.
+[00:14:27.010 --> 00:14:29.850] Sinon, ça risquerait d'asphyxier la concurrence.
+[00:14:29.850 --> 00:14:31.890] Vous comprenez, il faudrait quand même pas que EDF
+[00:14:31.890 --> 00:14:34.890] puisse vendre son électricité pas chère aux consommateurs.
+[00:14:34.890 --> 00:14:37.250] Sinon, les pauvres fournisseurs alternatifs
+[00:14:37.250 --> 00:14:41.090] vont perdre leurs clients et ne vont plus pouvoir faire de bénéfices.
+[00:14:41.090 --> 00:14:43.250] Et pour l'Europe, ça, c'est très très grave.
+[00:14:43.250 --> 00:14:45.810] C'est une entrave illégale à la concurrence.
+[00:14:45.810 --> 00:14:49.170] Oui, le marché européen protège les fournisseurs alternatifs,
+[00:14:49.170 --> 00:14:51.810] même ceux qui font uniquement de la spéculation
+[00:14:51.810 --> 00:14:53.450] plutôt que les consommateurs.
+[00:14:53.450 --> 00:14:54.770] C'est du délire.
+[00:14:54.770 --> 00:14:58.450] On a un tarif réglementé qui est basé sur les prix de marché.
+[00:14:58.450 --> 00:14:59.410] C'est complètement ridicule.
+[00:14:59.410 --> 00:15:01.410] Même l'autorité de la concurrence avait dit quand même
+[00:15:01.410 --> 00:15:02.370] on n'a jamais vu ça.
+[00:15:02.370 --> 00:15:04.010] Donc, si vous voulez la concurrence maintenant,
+[00:15:04.010 --> 00:15:05.930] c'est plus la concurrence va faire baisser les prix,
+[00:15:05.930 --> 00:15:08.010] c'est il faut mettre les prix suffisamment hauts
+[00:15:08.010 --> 00:15:09.290] pour permettre la concurrence.
+[00:15:09.290 --> 00:15:11.770] Donc même avec les tarifs réglementés d'EDF,
+[00:15:11.770 --> 00:15:14.090] le marché européen pose un énorme problème
+[00:15:14.090 --> 00:15:15.570] pour le consommateur français.
+[00:15:15.570 --> 00:15:17.930] Dernier point à savoir sur les tarifs réglementés,
+[00:15:17.930 --> 00:15:20.370] ils sont de toute façon réservés aux particuliers
+[00:15:20.370 --> 00:15:21.490] et aux petites entreprises.
+[00:15:21.490 --> 00:15:24.170] Seules les entreprises employant moins de 10 personnes
+[00:15:24.170 --> 00:15:26.370] et dont le chiffre d'affaires ou le total de bilans
+[00:15:26.370 --> 00:15:28.250] sont inférieurs à 2 millions d'euros
+[00:15:28.250 --> 00:15:29.850] peuvent en bénéficier.
+[00:15:29.850 --> 00:15:32.490] Tous les autres professionnels du petit restaurateur
+[00:15:32.490 --> 00:15:34.410] à la grande entreprise en sont exclus.
+[00:15:34.410 --> 00:15:36.770] Les entreprises françaises sont donc largement dépendantes
+[00:15:36.770 --> 00:15:39.650] du prix du gaz alors que notre pays produit de l'énergie
+[00:15:39.650 --> 00:15:41.130] à bas coût grâce au nucléaire.
+[00:15:41.170 --> 00:15:43.650] Déjà que l'industrie française ne se porte pas très bien,
+[00:15:43.650 --> 00:15:45.690] là, on enfonce le clou.
+[00:15:45.690 --> 00:15:47.370] Et c'est pour ça qu'en 2022,
+[00:15:47.370 --> 00:15:53.140] tout ça a abouti à une crise historique.
+[00:15:53.140 --> 00:15:56.460] À l'été 2021, l'épidémie de Covid était derrière nous.
+[00:15:56.460 --> 00:15:58.980] L'économie mondiale revenait tranquillement à la normale,
+[00:15:58.980 --> 00:16:01.020] la consommation reprenait de plus belle.
+[00:16:01.020 --> 00:16:03.300] Bref, on allait pouvoir respirer un peu.
+[00:16:03.300 --> 00:16:06.700] Mais finalement, 2022 aura été un véritable cauchemar
+[00:16:06.700 --> 00:16:09.020] pour la production d'électricité française.
+[00:16:09.020 --> 00:16:10.660] C'est comme si toutes les circonstances
+[00:16:10.660 --> 00:16:13.900] étaient réunies au même moment pour faire couler le navire.
+[00:16:13.900 --> 00:16:16.860] En février 2022, c'est le début de la guerre en Ukraine.
+[00:16:16.860 --> 00:16:19.300] La Russie coupe une partie de ses exportations de gaz,
+[00:16:19.300 --> 00:16:22.340] ce qui fait flamber les prix à des niveaux stratosphériques.
+[00:16:22.340 --> 00:16:24.860] Sur le marché, le MW d'électricité,
+[00:16:24.860 --> 00:16:27.500] qui se négociait historiquement autour de 50 euros,
+[00:16:27.500 --> 00:16:30.020] franchit la barre délirante des 1000 euros.
+[00:16:30.020 --> 00:16:32.700] Dans toute l'Europe, l'électricité est vendue sur le marché
+[00:16:32.700 --> 00:16:34.580] au prix exorbitant du gaz,
+[00:16:34.580 --> 00:16:36.740] alors que les coûts de production des autres centrales
+[00:16:36.740 --> 00:16:38.340] n'ont pas augmenté d'un IOTA.
+[00:16:38.380 --> 00:16:40.180] En France, on produit notre électricité
+[00:16:40.180 --> 00:16:41.900] essentiellement grâce au nucléaire,
+[00:16:41.900 --> 00:16:43.900] et on n'avait donc aucune raison d'être touché
+[00:16:43.900 --> 00:16:45.820] par l'explosion des prix du gaz.
+[00:16:45.820 --> 00:16:47.740] Du moins, c'est ce qu'on croyait.
+[00:16:47.740 --> 00:16:48.820] Mais pas de chance.
+[00:16:48.820 --> 00:16:50.940] Au même moment, EDF a dû mettre à l'arrêt
+[00:16:50.940 --> 00:16:52.900] une partie de ses réacteurs nucléaires
+[00:16:52.900 --> 00:16:54.620] qui présentaient des défauts de corrosion.
+[00:16:54.620 --> 00:16:56.300] Et comme si ça ne suffisait pas,
+[00:16:56.300 --> 00:16:58.300] la sécheresse historique de 2022
+[00:16:58.300 --> 00:17:00.780] a réduit la production des barrages hydroélectriques.
+[00:17:00.780 --> 00:17:02.380] Plus de la moitié des centrales nucléaires
+[00:17:02.380 --> 00:17:03.980] sont à l'arrêt pour cause de maintenance.
+[00:17:03.980 --> 00:17:06.580] Les centrales hydroélectriques tournent elles au ralenti
+[00:17:06.580 --> 00:17:07.780] à cause du manque d'eau,
+[00:17:07.780 --> 00:17:09.660] moins 25% de production
+[00:17:09.660 --> 00:17:12.060] par rapport à l'année dernière en Alsace par exemple.
+[00:17:12.060 --> 00:17:12.940] Résultat ?
+[00:17:12.940 --> 00:17:14.580] La production d'électricité française
+[00:17:14.580 --> 00:17:16.860] est tombée au plus bas niveau depuis 30 ans.
+[00:17:16.860 --> 00:17:18.500] La France a dû pour la première fois
+[00:17:18.500 --> 00:17:20.180] importer de l'électricité
+[00:17:20.180 --> 00:17:21.700] alors qu'elle était historiquement
+[00:17:21.700 --> 00:17:23.740] l'une des plus grosses exportatrices en Europe.
+[00:17:23.740 --> 00:17:24.700] Et dans cette histoire,
+[00:17:24.700 --> 00:17:26.620] vous allez voir que le marché européen
+[00:17:26.620 --> 00:17:28.340] n'a pas seulement été inutile,
+[00:17:28.340 --> 00:17:31.260] il a tout simplement aggravé l'endettement de la France.
+[00:17:31.260 --> 00:17:33.740] À ce moment-là, EDF est toujours soumis à l'arène.
+[00:17:33.740 --> 00:17:34.740] Vous vous rappelez ?
+[00:17:34.740 --> 00:17:36.780] EDF doit vendre une partie de son électricité
+[00:17:36.780 --> 00:17:38.660] aux fournisseurs alternatifs pour
+[00:17:38.660 --> 00:17:40.500] 42 € le MW.
+[00:17:40.500 --> 00:17:43.460] Déjà, en temps normal, l'arène était complètement absurde.
+[00:17:43.460 --> 00:17:45.940] Mais imaginez ce que ça a donné pendant la crise.
+[00:17:45.940 --> 00:17:47.420] EDF ne produisait plus assez
+[00:17:47.420 --> 00:17:49.580] pour répondre à la demande de ses consommateurs.
+[00:17:49.580 --> 00:17:51.260] Il a donc dû acheter de l'électricité
+[00:17:51.260 --> 00:17:54.060] sur le marché européen à des prix démentiels.
+[00:17:54.060 --> 00:17:56.780] Pour ensuite revendre cette électricité
+[00:17:56.780 --> 00:17:58.380] aux fournisseurs alternatifs
+[00:17:58.380 --> 00:18:01.060] pour la modique somme de 42 € le MW.
+[00:18:01.100 --> 00:18:05.020] EDF a acheté à 300, 400, voire 600 € le MW
+[00:18:05.020 --> 00:18:07.100] pour le revendre à 42 €.
+[00:18:07.100 --> 00:18:09.380] Vous voyez un peu l'ampleur du problème.
+[00:18:09.380 --> 00:18:11.580] Et pendant qu'EDF était en train de se ruiner,
+[00:18:11.580 --> 00:18:12.700] littéralement,
+[00:18:12.700 --> 00:18:15.460] que se sont empressés de faire certains fournisseurs alternatifs,
+[00:18:15.460 --> 00:18:18.060] ils ont forcé leurs clients à résilier leurs contrats
+[00:18:18.060 --> 00:18:20.260] pour vendre immédiatement, au prix fort,
+[00:18:20.260 --> 00:18:22.420] toute cette électricité sur le marché de gros.
+[00:18:22.420 --> 00:18:25.300] Client chez le fournisseur alternatif Planète Oui Romain
+[00:18:25.300 --> 00:18:28.060] a eu une très mauvaise surprise début mars en recevant sa facture.
+[00:18:28.060 --> 00:18:30.500] 1887 € pour une période de 4 mois,
+[00:18:30.500 --> 00:18:34.460] donc de début novembre 2021 à fin février 2022.
+[00:18:34.460 --> 00:18:37.100] Je tombe des nues en fait, je me dis qu'il y a eu une erreur quelque part
+[00:18:37.100 --> 00:18:38.580] et qu'ils ont dû se tromper en fait.
+[00:18:38.580 --> 00:18:41.740] 50 % d'augmentation par kWh de gaz en 4 mois.
+[00:18:41.740 --> 00:18:44.180] En fait, le fournisseur fait payer le prix du marché
+[00:18:44.180 --> 00:18:47.060] et plus le prix réglementé bloqué par le gouvernement.
+[00:18:47.060 --> 00:18:48.460] Romain a monté un collectif,
+[00:18:48.460 --> 00:18:50.220] des centaines de personnes sont dans son cas.
+[00:18:50.220 --> 00:18:52.900] Ben oui, ils n'allaient quand même pas laisser passer l'opportunité
+[00:18:52.900 --> 00:18:57.100] de profiter de la crise et de réaliser des bénéfices historiques.
+[00:18:57.140 --> 00:18:58.260] Grâce à ces montages,
+[00:18:58.260 --> 00:19:01.700] Home Energy a réalisé 44 millions d'euros de marge brute
+[00:19:01.700 --> 00:19:05.540] et Mint a fait un résultat de 20 millions rien qu'en 2022.
+[00:19:05.540 --> 00:19:07.500] C'est quand même sympa l'Union européenne.
+[00:19:07.500 --> 00:19:08.540] Mais c'est pas tout.
+[00:19:08.540 --> 00:19:11.500] Pendant que ces fournisseurs alternatifs s'engraissaient allègrement,
+[00:19:11.500 --> 00:19:13.100] l'État a dû sortir le chéquier.
+[00:19:13.100 --> 00:19:16.500] Pour protéger les ménages, les petites entreprises et les collectivités,
+[00:19:16.500 --> 00:19:19.580] le gouvernement a mis en place le fameux bouclier tarifaire.
+[00:19:19.580 --> 00:19:21.900] Il a gelé l'augmentation des prix de l'énergie.
+[00:19:21.900 --> 00:19:24.380] Nous allons bloquer, bloquer.
+[00:19:24.380 --> 00:19:27.460] Il n'y aura plus d'augmentation du prix du gaz,
+[00:19:27.460 --> 00:19:29.060] c'est-à-dire ceux qui sont envisagés.
+[00:19:29.060 --> 00:19:31.700] J'ai ce pouvoir de par les textes.
+[00:19:31.700 --> 00:19:35.460] Et le tout, c'est que pour les consommateurs de gaz,
+[00:19:35.460 --> 00:19:38.820] il n'y a pas cette hausse extrêmement forte qui est prévue.
+[00:19:38.820 --> 00:19:41.820] Aujourd'hui, sans action du gouvernement,
+[00:19:41.820 --> 00:19:45.420] les tarifs du gaz et de l'électricité pour les ménages
+[00:19:45.420 --> 00:19:49.380] seraient multipliés par 2,2 au début de l'année prochaine.
+[00:19:50.620 --> 00:19:54.100] Pour éviter ces augmentations qui ne seraient pas soutenables,
+[00:19:54.100 --> 00:19:59.140] nous allons prolonger en 2023 le mécanisme de bouclier tarifaire
+[00:19:59.140 --> 00:20:04.020] pour tous les ménages, pour les copropriétés, les logements sociaux,
+[00:20:04.020 --> 00:20:07.020] les petites entreprises et les plus petites communes.
+[00:20:07.020 --> 00:20:08.900] Et ça, ça lui a coûté très cher.
+[00:20:08.900 --> 00:20:11.740] Si cher qu'aujourd'hui encore, on en paye le prix.
+[00:20:11.740 --> 00:20:16.100] Au total, cette petite opération a coûté 72 milliards d'euros à l'État.
+[00:20:16.100 --> 00:20:18.460] Et à cela s'ajoute encore 9 milliards d'euros
+[00:20:18.460 --> 00:20:21.940] que l'État a dû débourser pour racheter les parts des actionnaires de DF
+[00:20:21.980 --> 00:20:24.500] qui étaient littéralement au bord de l'Asphyxie,
+[00:20:24.500 --> 00:20:27.420] le groupe étant dété à près de 50 milliards d'euros.
+[00:20:27.420 --> 00:20:31.620] Au final, on nous a expliqué que le consommateur avait été épargné pendant la crise.
+[00:20:31.620 --> 00:20:34.860] Oui, parce que c'est le contribuable qui l'a payé à crédit,
+[00:20:34.860 --> 00:20:35.980] par la dette publique.
+[00:20:35.980 --> 00:20:39.300] Tous ces dysfonctionnements du marché européen ont été tellement flagrants
+[00:20:39.300 --> 00:20:42.900] pendant la crise de 2022 que même Ursula van der Leyen,
+[00:20:42.900 --> 00:20:46.700] Bruno Le Maire et Emmanuel Macron ont reconnu qu'il était absurde
+[00:20:46.700 --> 00:20:48.420] et qu'il fallait le réformer.
+[00:20:48.500 --> 00:20:54.780] Mon diagnostic est que la conception actuelle du marché de l'électricité
+[00:20:54.780 --> 00:20:55.780] est obsolète.
+[00:20:58.220 --> 00:21:03.020] Il faut que les Français payent le prix de l'électricité décarbonée
+[00:21:03.020 --> 00:21:04.820] à son coût de production
+[00:21:04.820 --> 00:21:10.660] et qu'on n'aligne pas le coût du MW d'électricité décarbonée
+[00:21:10.660 --> 00:21:14.300] produit par nos centrales nucléaires sur le prix du gaz.
+[00:21:14.300 --> 00:21:16.300] C'est aberrant du point de vue économique,
+[00:21:16.300 --> 00:21:18.980] c'est aberrant du point de vue écologique.
+[00:21:18.980 --> 00:21:21.820] Aujourd'hui, le prix de l'électricité sur le marché européen
+[00:21:21.820 --> 00:21:25.340] est beaucoup trop dépendant des contributions marginales
+[00:21:25.340 --> 00:21:29.380] et en particulier celles du gaz, en particulier en moment de pique.
+[00:21:29.380 --> 00:21:32.740] Ce qui, pour des pays comme le nôtre et certains autres, est aberrant
+[00:21:32.740 --> 00:21:35.300] et fait que vous avez un prix de l'électricité qui est déconnecté
+[00:21:35.300 --> 00:21:38.140] des prix de la réalité des coûts de production.
+[00:21:38.140 --> 00:21:40.060] C'est ce qui fait d'ailleurs que vous avez certains opérateurs
+[00:21:40.060 --> 00:21:42.140] qui, du coup, font des bénéfices excessifs.
+[00:21:42.140 --> 00:21:44.420] Ce que la Commission européenne, je l'espère,
+[00:21:44.420 --> 00:21:45.940] s'apprête à corriger à court terme.
+[00:21:45.940 --> 00:21:47.940] Mais avec l'Union européenne,
+[00:21:47.940 --> 00:21:52.860] le mieux est souvent l'ennemi du bien.
+[00:21:52.860 --> 00:21:54.700] Après la catastrophe de 2022,
+[00:21:54.700 --> 00:21:57.060] nos dirigeants ont fini par se dire qu'il fallait réformer
+[00:21:57.060 --> 00:21:58.700] le marché de l'électricité.
+[00:21:58.700 --> 00:22:01.140] Bruno Le Maire, qui était alors ministre de l'économie,
+[00:22:01.140 --> 00:22:03.020] était plus déterminé que jamais
+[00:22:03.020 --> 00:22:05.340] et comptait bien taper du point sur la table.
+[00:22:05.340 --> 00:22:08.180] Nous refusons, disait-il, le 12 juin 2023,
+[00:22:08.180 --> 00:22:11.020] que le prix d'électricité soit dicté par le prix du gaz.
+[00:22:11.020 --> 00:22:13.940] Nous mettrons tout notre poids politique dans la balance.
+[00:22:13.940 --> 00:22:15.700] Ça, c'était son discours.
+[00:22:15.700 --> 00:22:17.980] Et le gouvernement n'a pas manqué de se féliciter
+[00:22:18.020 --> 00:22:19.820] de l'accord qu'il avait arraché à l'Europe.
+[00:22:19.820 --> 00:22:23.620] Nous avons engagé cette bataille avec le président de la République
+[00:22:23.620 --> 00:22:24.860] depuis des mois.
+[00:22:24.860 --> 00:22:27.820] Et avec Agnès Pellier-Renachet, nous ne passons pas une semaine,
+[00:22:27.820 --> 00:22:31.180] voire un jour, sans discuter avec nos partenaires européens
+[00:22:31.180 --> 00:22:33.340] pour obtenir exactement ce que vous souhaitez
+[00:22:33.340 --> 00:22:34.820] et qui est juste,
+[00:22:34.820 --> 00:22:37.140] que le prix de l'énergie en France
+[00:22:37.140 --> 00:22:39.820] soit payé au coût de production
+[00:22:39.820 --> 00:22:43.300] et pas au coût marginal d'ouverture de la dernière centrale à gaz.
+[00:22:43.300 --> 00:22:46.100] Car nous avons tenu nos promesses.
+[00:22:46.180 --> 00:22:51.140] Nous avons déconnecté le prix d'électricité du prix du gaz.
+[00:22:51.140 --> 00:22:55.460] Nous avons obtenu la reconnaissance du nucléaire
+[00:22:55.460 --> 00:22:59.180] et nous reprenons le contrôle des prix d'électricité.
+[00:22:59.180 --> 00:23:02.300] Cet accord marque donc un tournant pour la France.
+[00:23:02.300 --> 00:23:06.180] Il est le résultat du volontarisme du président de la République
+[00:23:06.180 --> 00:23:08.140] et de l'ensemble des équipes qui l'ont négocié.
+[00:23:08.140 --> 00:23:11.900] C'est la meilleure réponse à l'extrême droite
+[00:23:11.900 --> 00:23:13.540] et à l'extrême gauche
+[00:23:13.540 --> 00:23:16.260] qui n'ont cessé de prendre le repli sur soi
+[00:23:16.260 --> 00:23:18.620] avec la sortie du marché européen.
+[00:23:18.620 --> 00:23:20.260] Mais quand on connaît nos dirigeants français
+[00:23:20.260 --> 00:23:22.540] et leur capacité à raconter ce qui les arrange,
+[00:23:22.540 --> 00:23:23.780] il y a de quoi se méfier.
+[00:23:23.780 --> 00:23:27.060] De fait, il n'y a eu aucune remise en question du marché européen
+[00:23:27.060 --> 00:23:30.180] ni du principe de la tarification au coût marginal.
+[00:23:30.180 --> 00:23:32.420] De même, l'existence des fournisseurs alternatifs
+[00:23:32.420 --> 00:23:34.340] n'a pas du tout été remise en cause.
+[00:23:34.340 --> 00:23:36.340] Tout ça a accouché du VNU,
+[00:23:36.340 --> 00:23:38.460] le Versement Nucléaire Universel.
+[00:23:38.460 --> 00:23:40.860] Applicable depuis le 1er janvier 2026,
+[00:23:40.860 --> 00:23:42.820] le VNU remplace l'arène.
+[00:23:42.860 --> 00:23:44.900] Sur le papier, le VNU doit permettre à EDF
+[00:23:44.900 --> 00:23:47.620] de retrouver des marches pour financer ses investissements
+[00:23:47.620 --> 00:23:49.620] et baisser la facture des consommateurs.
+[00:23:49.620 --> 00:23:52.180] Concrètement, finit l'obligation pour EDF
+[00:23:52.180 --> 00:23:54.060] de revendre une partie de sa production
+[00:23:54.060 --> 00:23:56.860] à 42 € le MW aux autres fournisseurs.
+[00:23:56.860 --> 00:23:58.180] Bon, c'est déjà ça.
+[00:23:58.180 --> 00:24:01.300] Désormais, EDF va pouvoir vendre la totalité de sa production
+[00:24:01.300 --> 00:24:02.380] au prix du marché.
+[00:24:02.380 --> 00:24:03.060] OK.
+[00:24:03.060 --> 00:24:05.500] Mais maintenant, accrochez-vous pour ce qui va suivre.
+[00:24:05.500 --> 00:24:08.940] Lorsque le prix dépassera les 78 € le MW,
+[00:24:08.940 --> 00:24:12.580] l'État taxera les revenus excédentaires à hauteur de 50%
+[00:24:12.580 --> 00:24:15.620] et même 90% au-delà de 110 €.
+[00:24:15.620 --> 00:24:16.940] L'objectif affiché,
+[00:24:16.940 --> 00:24:19.420] permettre à l'État de redistribuer le fruit de cette taxe
+[00:24:19.420 --> 00:24:20.620] à tous les consommateurs.
+[00:24:20.620 --> 00:24:23.100] Soyons clairs, pour la plupart des acteurs du secteur,
+[00:24:23.100 --> 00:24:26.900] on a surtout créé une usine à gaz dans une usine à gaz.
+[00:24:26.900 --> 00:24:28.900] Et pour l'instant, il reste encore beaucoup de flou
+[00:24:28.900 --> 00:24:30.820] sur l'application du dispositif,
+[00:24:30.820 --> 00:24:33.220] donc difficile de se faire une idée précise.
+[00:24:33.220 --> 00:24:35.380] Le dispositif est tellement compliqué,
+[00:24:35.380 --> 00:24:38.500] qui plus est avec un dispositif de remboursement
+[00:24:38.500 --> 00:24:39.900] qui peut se mettre en place,
+[00:24:39.900 --> 00:24:42.540] que les consommateurs n'y comprendront rien.
+[00:24:42.620 --> 00:24:46.340] Et donc ils viendront vraisemblablement vers le médiateur
+[00:24:46.340 --> 00:24:49.220] et nous pouvons nous attendre effectivement à des difficultés
+[00:24:49.220 --> 00:24:51.500] pour la mise en place de ce dispositif.
+[00:24:51.500 --> 00:24:54.780] En plus, on ne devrait pas y voir beaucoup plus clair en 2026,
+[00:24:54.780 --> 00:24:56.580] puisque selon les prévisions actuelles,
+[00:24:56.580 --> 00:24:59.820] le prix ne dépassera pas le seuil de 78 €.
+[00:24:59.820 --> 00:25:02.860] Donc le mécanisme de taxation-redistribution
+[00:25:02.860 --> 00:25:04.580] ne devrait pas se déclencher.
+[00:25:04.580 --> 00:25:06.980] Pas de baisse en vue pour la facture des consommateurs.
+[00:25:06.980 --> 00:25:08.300] Autre point important.
+[00:25:08.300 --> 00:25:11.140] Avec le VNU, on ne sort pas de la logique du marché,
+[00:25:11.140 --> 00:25:14.180] qui est par définition court-termiste et volatile.
+[00:25:14.180 --> 00:25:17.180] Comme EDF est obligé de s'aligner sur les prix de la concurrence,
+[00:25:17.180 --> 00:25:20.980] il ne peut pas anticiper ses rentrées d'argent sur le moyen-long terme.
+[00:25:20.980 --> 00:25:23.180] D'ailleurs, dans un rapport de septembre 2025,
+[00:25:23.180 --> 00:25:24.860] la Cour des comptes énonce ceci.
+[00:25:24.860 --> 00:25:26.220] Le dispositif de régulation
+[00:25:26.220 --> 00:25:28.620] devant prendre la suite de l'arène en 2026
+[00:25:28.620 --> 00:25:31.820] n'apporte pas de prévisibilité sur les niveaux de revenus qu'EDF
+[00:25:31.820 --> 00:25:34.100] pourra tirer du parc nucléaire existant
+[00:25:34.100 --> 00:25:37.660] et plus généralement de son parc de production hors ENR
+[00:25:37.660 --> 00:25:39.500] sur ces 15 prochaines années.
+[00:25:40.260 --> 00:25:42.620] Et contrairement à la communication du gouvernement,
+[00:25:42.620 --> 00:25:46.660] le VNU ne permet pas de sécuriser les capacités d'investissement d'EDF.
+[00:25:46.660 --> 00:25:50.060] Au final, les dirigeants français se contorsionnent dans tous les sens
+[00:25:50.060 --> 00:25:52.780] pour essayer de rester dans les clous du cadre européen
+[00:25:52.780 --> 00:25:56.620] pour un résultat au mieux incertain, au pire catastrophique.
+[00:25:56.620 --> 00:25:59.300] Mais le plus beau, c'est que pendant qu'on fait tout ça,
+[00:25:59.300 --> 00:26:01.860] l'Union européenne met aussi des bâtons dans les roues de la France
+[00:26:01.860 --> 00:26:04.860] pour la construction des nouveaux réacteurs EPR2.
+[00:26:04.860 --> 00:26:06.900] Pour donner de la visibilité aux industriels,
+[00:26:06.900 --> 00:26:10.660] la France veut pouvoir vendre 30% de la production des futurs EPR2
+[00:26:10.660 --> 00:26:12.100] via des contrats de long terme,
+[00:26:12.100 --> 00:26:15.420] c'est-à-dire dérogés au prix unique du marché européen.
+[00:26:15.420 --> 00:26:18.460] Et bien juste pour ça, l'Union européenne montre les dents
+[00:26:18.460 --> 00:26:21.700] car cela porterait atteinte à sa fameuse logique idéologique
+[00:26:21.700 --> 00:26:23.740] de concurrence pure et parfaite.
+[00:26:23.740 --> 00:26:27.020] Ah, la fameuse libre concurrence de l'Union européenne.
+[00:26:27.020 --> 00:26:28.380] C'est un peu à la carte.
+[00:26:28.380 --> 00:26:30.940] D'un côté, quand ça concerne l'électricité et la France,
+[00:26:30.940 --> 00:26:34.500] il ne faut pas des prix trop bas, parce que ça fausserait la concurrence.
+[00:26:34.500 --> 00:26:37.140] Mais quand certains pays proposent des fiscalités déloyales
+[00:26:37.140 --> 00:26:38.580] comme l'Irlande ou les Pays-Bas
+[00:26:38.580 --> 00:26:40.700] pour piquer les investissements de ses voisins,
+[00:26:40.700 --> 00:26:42.940] là, bizarrement, ça n'a pas l'air de déranger.
+[00:26:42.940 --> 00:26:44.620] Et c'est le problème avec l'Union européenne.
+[00:26:44.620 --> 00:26:46.660] Il faut toujours batailler sur tout.
+[00:26:46.660 --> 00:26:52.630] Et à la fin, c'est quand même la France qui perd.
+[00:26:52.630 --> 00:26:54.350] Alors, voilà où on en est.
+[00:26:54.350 --> 00:26:58.430] Oui, le marché européen a généralisé le mérite-order à l'échelle du continent,
+[00:26:58.430 --> 00:27:02.630] ce qui nous permet d'utiliser en priorité les centrales moins chères et décarbonées.
+[00:27:02.630 --> 00:27:04.150] Ça, on ne peut pas le nier.
+[00:27:04.150 --> 00:27:07.790] Mais en France, est-ce que ça a fait baisser notre facture d'électricité ?
+[00:27:07.790 --> 00:27:08.550] Non.
+[00:27:08.550 --> 00:27:11.830] Est-ce que ça a favorisé l'innovation comme on nous l'avait promis ?
+[00:27:11.830 --> 00:27:12.750] Non plus.
+[00:27:12.750 --> 00:27:16.030] En fait, la concurrence a surtout fait émerger des fournisseurs alternatifs
+[00:27:16.030 --> 00:27:18.990] qui ont ruiné EDF, et l'État au passage.
+[00:27:18.990 --> 00:27:23.990] Résultat, on paye notre électricité à un prix totalement déconnecté de son coût de production.
+[00:27:23.990 --> 00:27:26.470] On se retrouve avec un producteur surendetté
+[00:27:26.470 --> 00:27:29.630] et on a créé une usine à gaz qu'on n'arrive plus à contrôler.
+[00:27:29.630 --> 00:27:30.910] Et pour couronner le tout,
+[00:27:30.910 --> 00:27:34.710] dès que l'État essaie de réguler et planifier sa politique énergétique,
+[00:27:34.710 --> 00:27:37.670] il se retrouve à devoir batailler avec l'Union européenne.
+[00:27:37.670 --> 00:27:40.870] Or, tant qu'on restera accrochés au prix du gaz,
+[00:27:40.870 --> 00:27:43.750] qui font le yo-yo de façon totalement imprévisible,
+[00:27:43.750 --> 00:27:47.150] planifier quoi que ce soit sur le long terme est impossible.
+[00:27:47.150 --> 00:27:49.790] Alors maintenant qu'on sait tout ça, qu'est-ce qu'on fait ?
+[00:27:49.790 --> 00:27:53.870] Une chose est sûre, on n'a absolument pas besoin de tous ces fournisseurs alternatifs.
+[00:27:53.870 --> 00:27:56.470] En ouvrant artificiellement l'électricité à la concurrence,
+[00:27:56.470 --> 00:27:59.270] nos dirigeants ont clairement été aveuglés par leur idéologie.
+[00:27:59.310 --> 00:28:01.830] Ils ont voulu l'appliquer à tous les pans de l'économie.
+[00:28:01.830 --> 00:28:05.030] Seulement voilà, l'électricité, c'est pas un bien comme les autres,
+[00:28:05.030 --> 00:28:07.270] c'est ce qu'on appelle un monopole naturel.
+[00:28:07.270 --> 00:28:09.390] Et ça ne devrait pas être ouvert à la concurrence.
+[00:28:09.390 --> 00:28:12.270] Deuxième certitude, il faut que le prix de notre électricité
+[00:28:12.270 --> 00:28:14.750] corresponde au coût réel et complet de production.
+[00:28:14.750 --> 00:28:16.150] Ni plus, ni moins.
+[00:28:16.150 --> 00:28:19.190] Ça, même Bruno Le Maire est d'accord, c'est tout dire.
+[00:28:19.190 --> 00:28:21.870] Donc ce qu'on propose sur Praxis, c'est deux mesures.
+[00:28:21.870 --> 00:28:24.590] Premièrement, restaurer le monopole d'EDF.
+[00:28:24.590 --> 00:28:28.750] Deuxièmement, sortir du système de tarification au coût marginal.
+[00:28:28.750 --> 00:28:31.230] Ça veut dire qu'on aurait en France un système public
+[00:28:31.230 --> 00:28:33.310] qui détiendrait tous les moyens de production
+[00:28:33.310 --> 00:28:35.550] et qui facturait l'ensemble des consommateurs
+[00:28:35.550 --> 00:28:37.950] sur la base des coûts réels et complets de production.
+[00:28:37.950 --> 00:28:40.110] Mais attention, ça ne veut pas dire qu'on s'isole
+[00:28:40.110 --> 00:28:42.870] et qu'on arrête d'échanger avec nos voisins européens.
+[00:28:42.870 --> 00:28:45.150] Contrairement à ce que certains essayent de nous faire croire,
+[00:28:45.150 --> 00:28:49.150] on n'est pas obligé de sortir totalement du marché européen pour faire ça.
+[00:28:49.150 --> 00:28:51.830] Nous sommes un marché global, un marché unique
+[00:28:51.830 --> 00:28:53.750] et qu'il faut qu'il y ait la libre circulation
+[00:28:53.750 --> 00:28:56.230] parce que ça bénéficie effectivement aux producteurs.
+[00:28:56.230 --> 00:28:58.110] L'électricité, la France est un producteur net
+[00:28:58.110 --> 00:28:59.190] et notamment grâce au nucléaire.
+[00:28:59.190 --> 00:29:00.950] La France n'est ni l'Espagne ni le Portugal.
+[00:29:00.950 --> 00:29:02.190] Ce n'est pas une péninsule.
+[00:29:02.190 --> 00:29:05.470] Elle est connectée à d'autres nations qui lui fournissent de l'énergie
+[00:29:05.470 --> 00:29:08.790] quand par malheur, ce qui est arrivé, nos centrales nucléaires ne fonctionnent pas.
+[00:29:08.790 --> 00:29:11.470] Douze d'entre elles ont dû être fermées pour des accidents
+[00:29:11.470 --> 00:29:14.270] qui d'ailleurs ont été corrigés grâce à EDF.
+[00:29:14.270 --> 00:29:18.630] Je dis simplement que si nous étions sortis du marché européen de l'énergie aujourd'hui,
+[00:29:18.630 --> 00:29:20.590] la solidarité européenne n'aurait pas joué
+[00:29:20.590 --> 00:29:23.030] et il n'y aurait pas eu d'électricité dans les fours des boulangers.
+[00:29:23.030 --> 00:29:25.430] On serait bien avancés, on serait gros gens comme devant.
+[00:29:25.430 --> 00:29:31.590] Il faut quand même savoir qu'en France, on importe 40 jours par an de l'électricité.
+[00:29:31.590 --> 00:29:33.350] Donc ça, ce n'est pas nouveau.
+[00:29:33.350 --> 00:29:35.310] Et c'est pour ça qu'on a un marché européen.
+[00:29:35.310 --> 00:29:37.310] Et c'est pour ça qu'on a des interconnections.
+[00:29:37.310 --> 00:29:39.990] Et c'est pour ça que les personnes qui vous disent
+[00:29:39.990 --> 00:29:42.510] qu'il faut sortir du marché européen de l'énergie
+[00:29:42.510 --> 00:29:44.950] sont eux grands et responsables.
+[00:29:44.950 --> 00:29:47.150] Le marché de l'électricité est indispensable
+[00:29:47.150 --> 00:29:49.590] pour que les boulangers puissent chauffer leurs fours.
+[00:29:49.590 --> 00:29:51.790] Ça, c'est un mensonge total.
+[00:29:51.790 --> 00:29:54.750] On a commencé à importer et exporter de l'électricité
+[00:29:54.790 --> 00:29:57.430] bien avant que le marché européen existe.
+[00:29:57.430 --> 00:30:00.190] Et les premières interconnections,
+[00:30:00.190 --> 00:30:04.790] celles qui a vu la France, l'Allemagne et la Suisse
+[00:30:04.790 --> 00:30:09.670] créer des interconnections, c'est 1967.
+[00:30:09.670 --> 00:30:12.950] Je propose donc que nous arrêtions de répéter,
+[00:30:12.950 --> 00:30:14.830] d'annonner cette contre-vérité
+[00:30:14.830 --> 00:30:19.430] et que nous les laissions aux experts des plateaux de télévision de BFM Business
+[00:30:19.430 --> 00:30:22.190] et que nous nous concentrons sur les faits.
+[00:30:22.190 --> 00:30:24.390] Tout comme nous pouvons faire du commerce
+[00:30:24.390 --> 00:30:27.190] sans traiter de libre-échange climaticides
+[00:30:27.190 --> 00:30:29.150] puisqu'on commerce depuis l'Antiquité,
+[00:30:29.150 --> 00:30:31.910] nous pouvons maintenir les interconnections
+[00:30:31.910 --> 00:30:33.630] et les échanges solidaires
+[00:30:33.630 --> 00:30:37.030] plutôt que de laisser les traders faire du profit.
+[00:30:37.030 --> 00:30:38.790] La seule différence, c'est qu'avant,
+[00:30:38.790 --> 00:30:40.510] on importait de l'électricité
+[00:30:40.510 --> 00:30:43.190] uniquement quand on était en situation de pénurie.
+[00:30:43.190 --> 00:30:44.910] Aujourd'hui, on achète notre électricité
+[00:30:44.910 --> 00:30:46.790] là où le coût de production est le plus faible.
+[00:30:46.790 --> 00:30:48.950] Et ça, on peut tout à fait continuer à le faire
+[00:30:48.950 --> 00:30:52.430] avec un monopole public et avec des tarifs réglementés.
+[00:30:52.510 --> 00:30:53.950] Il suffit que le marché européen
+[00:30:53.950 --> 00:30:56.270] devienne uniquement un marché d'import-export.
+[00:30:56.270 --> 00:30:59.310] Et pour le reste, on gère les choses comme on veut.
+[00:30:59.310 --> 00:31:02.590] Cette architecture, elle est portée notamment par Anne de Brejas,
+[00:31:02.590 --> 00:31:04.270] ingénieure de recherche à EDF
+[00:31:04.270 --> 00:31:06.950] et porte-parole de la Fédération Sud-Energie.
+[00:31:06.950 --> 00:31:10.350] Finalement, le principal problème qui se pose avec cette solution,
+[00:31:10.350 --> 00:31:11.470] c'est l'Union européenne.
+[00:31:11.470 --> 00:31:14.590] Ce qui est quand même délirant, c'est qu'il existe une solution simple.
+[00:31:14.590 --> 00:31:18.070] On revient à un système public en France
+[00:31:18.070 --> 00:31:20.670] et dans tous les pays qui le souhaitent.
+[00:31:20.670 --> 00:31:26.510] Donc, système public qui détiendrait progressivement
+[00:31:26.510 --> 00:31:28.590] tous les moyens de production
+[00:31:28.590 --> 00:31:33.550] et qui facturera l'ensemble des consommateurs
+[00:31:33.550 --> 00:31:36.470] sur la base du coût moyen de production français
+[00:31:36.470 --> 00:31:39.350] en incluant le coût ou les recettes des imports-exports.
+[00:31:39.350 --> 00:31:41.270] Sur le plan purement juridique, évidemment,
+[00:31:41.270 --> 00:31:44.230] on serait obligé de désobéir aux traités européens
+[00:31:44.230 --> 00:31:45.990] ou alors de les modifier.
+[00:31:45.990 --> 00:31:47.110] Mais au-delà du droit,
+[00:31:47.110 --> 00:31:49.870] est-ce qu'on risque de porter préjudice à nos voisins ?
+[00:31:49.870 --> 00:31:51.750] Est-ce qu'il pourrait nous imposer des représailles
+[00:31:51.750 --> 00:31:53.870] si la France resterait son monopole public
+[00:31:53.870 --> 00:31:55.350] et appliquait ses propres prix ?
+[00:31:55.350 --> 00:31:56.870] Bah, c'est pas évident.
+[00:31:56.870 --> 00:31:59.910] Et au pire, ce serait l'objet d'une négociation.
+[00:31:59.910 --> 00:32:01.470] On a l'habitude avec l'Europe.
+[00:32:01.470 --> 00:32:03.990] Mais pour une fois, nos dirigeants défendraient vraiment
+[00:32:03.990 --> 00:32:05.190] les intérêts de la France.
+[00:32:05.190 --> 00:32:07.390] Alors, dès aujourd'hui, c'est à vous de trancher.
+[00:32:07.390 --> 00:32:09.150] Êtes-vous d'accord pour confier l'exploitation
+[00:32:09.150 --> 00:32:12.630] du système électrique français à un acteur public centralisé ?
+[00:32:12.630 --> 00:32:15.630] Et la semaine prochaine, vous pourrez voter en faveur de la sortie
+[00:32:15.630 --> 00:32:17.950] du système de tarification marginale.
+[00:32:17.990 --> 00:32:21.390] Pour voter, rendez-vous sur notre plateforme praxismedia.fr.
+[00:32:21.390 --> 00:32:23.990] Le lien est en commentaire et dans la description.
+[00:32:23.990 --> 00:32:26.390] Je vous rappelle que Praxis est un média indépendant
+[00:32:26.390 --> 00:32:29.030] qui dépend entièrement de vos contributions financières.
+[00:32:29.030 --> 00:32:30.950] Si vous pensez que notre travail est utile
+[00:32:30.950 --> 00:32:33.070] et qu'il faut redonner le pouvoir aux citoyens,
+[00:32:33.070 --> 00:32:35.630] abonnez-vous sur notre site pour faire vivre le projet.
+[00:32:35.630 --> 00:32:38.390] Et bien sûr, vous pouvez liker, partager cette vidéo
+[00:32:38.390 --> 00:32:40.110] et vous abonner à la chaîne.
+[00:32:40.110 --> 00:32:42.110] Prenez soin de vous et n'oubliez pas,
+[00:32:42.110 --> 00:32:44.190] maintenant, on reprend la main.

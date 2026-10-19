@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "video_id": "dT1ZHCA4DLU",
+  "updated_at": "2026-10-19T09:00:46.554859+00:00",
+  "steps": {
+    "metadata": {
+      "status": "complete",
+      "error": null
+    },
+    "download": {
+      "status": "complete",
+      "error": null,
+      "file": "audio.m4a",
+      "authenticated_source": true
+    },
+    "transcription": {
+      "status": "complete",
+      "error": null,
+      "model": "medium",
+      "device": "cuda"
+    },
+    "correction": {
+      "status": "complete",
+      "error": null,
+      "source": "C:\\Prométhé\\archives\\Le_Fil_d'Actu_-_Officiel\\2026\\2026-07-09_dT1ZHCA4DLU\\travail\\reponses\\transcription_corrigee_candidate.txt",
+      "mode": "correction_contextuelle_validee",
+      "changed": true
+    },
+    "index": {
+      "status": "complete",
+      "error": null,
+      "source": "C:\\Prométhé\\archives\\Le_Fil_d'Actu_-_Officiel\\2026\\2026-07-09_dT1ZHCA4DLU\\travail\\reponses\\reponse_indexation.json"
+    },
+    "synthesis": {
+      "status": "complete",
+      "error": null,
+      "source": "C:\\Prométhé\\archives\\Le_Fil_d'Actu_-_Officiel\\2026\\2026-07-09_dT1ZHCA4DLU\\travail\\reponses\\reponse_synthese.md"
+    },
+    "quality_control": {
+      "status": "complete",
+      "error": null,
+      "source": "C:\\Prométhé\\archives\\Le_Fil_d'Actu_-_Officiel\\2026\\2026-07-09_dT1ZHCA4DLU\\travail\\reponses\\reponse_controle_qualite.json",
+      "report": "rapport_controle_qualite.md",
+      "synthesis_changed": false
+    }
+  }
+}

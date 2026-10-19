@@ -10,6 +10,7 @@ from .corrector import export_prompt as export_correction_prompt, import_correct
 from .layout import migrate_archive_layout
 from .errors import PrometheError
 from .indexer import export_prompt, import_index
+from .downloader import YoutubeAccess
 from .pipeline import process, process_file, process_playlist
 from .quality import export_prompt as export_quality_prompt, import_review
 from .state import load_state, set_step
@@ -38,10 +39,20 @@ def parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(prog="promethe", description="Archives documentaires YouTube")
     p.add_argument("--archives", type=Path, default=Path("archives"))
     sub = p.add_subparsers(dest="command", required=True)
-    one = sub.add_parser("traiter"); one.add_argument("url"); one.add_argument("--modele", default="medium")
-    batch = sub.add_parser("lot"); batch.add_argument("fichier", type=Path); batch.add_argument("--modele", default="medium")
-    playlist = sub.add_parser("playlist"); playlist.add_argument("url"); playlist.add_argument("--modele", default="medium")
-    resume = sub.add_parser("reprendre"); resume.add_argument("url"); resume.add_argument("--modele", default="medium")
+    def add_access_options(command: argparse.ArgumentParser) -> None:
+        command.add_argument(
+            "--sans-repli-firefox", action="store_true",
+            help="désactive le second essai automatique avec les cookies Firefox",
+        )
+        command.add_argument(
+            "--runtime-js", type=Path,
+            help="chemin explicite vers deno.exe (sinon installation portable automatique)",
+        )
+
+    one = sub.add_parser("traiter"); one.add_argument("url"); one.add_argument("--modele", default="medium"); add_access_options(one)
+    batch = sub.add_parser("lot"); batch.add_argument("fichier", type=Path); batch.add_argument("--modele", default="medium"); add_access_options(batch)
+    playlist = sub.add_parser("playlist"); playlist.add_argument("url"); playlist.add_argument("--modele", default="medium"); add_access_options(playlist)
+    resume = sub.add_parser("reprendre"); resume.add_argument("url"); resume.add_argument("--modele", default="medium"); add_access_options(resume)
     status = sub.add_parser("verifier"); status.add_argument("video_id", nargs="?")
     correction = sub.add_parser("exporter-correction"); correction.add_argument("video_id"); correction.add_argument("--sortie", type=Path)
     rebuild_correction = sub.add_parser("corriger-transcription"); rebuild_correction.add_argument("video_id"); rebuild_correction.add_argument("--importer", type=Path)
@@ -58,16 +69,20 @@ def parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     args = parser().parse_args(argv)
     try:
+        access = YoutubeAccess(
+            browser=None if getattr(args, "sans_repli_firefox", False) else "firefox",
+            javascript_runtime=getattr(args, "runtime_js", None),
+        )
         if args.command in {"traiter", "reprendre"}:
-            directory = process(args.url, args.archives, args.modele)
+            directory = process(args.url, args.archives, args.modele, access=access)
             print(directory)
             offer_quality_review(directory)
             return 0
         if args.command == "lot":
-            for url, result in process_file(args.fichier, args.archives, args.modele): print(f"{url}\t{result}")
+            for url, result in process_file(args.fichier, args.archives, args.modele, access): print(f"{url}\t{result}")
             return 0
         if args.command == "playlist":
-            for url, result in process_playlist(args.url, args.archives, args.modele): print(f"{url}\t{result}")
+            for url, result in process_playlist(args.url, args.archives, args.modele, access): print(f"{url}\t{result}")
             return 0
         if args.command == "verifier":
             dirs = [directory_for(args.archives, args.video_id)] if args.video_id else list(args.archives.glob("*/*/*_*"))

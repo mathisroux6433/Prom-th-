@@ -54,6 +54,21 @@ promethe regenerer-index ID_YOUTUBE
 promethe regenerer-index ID_YOUTUBE --importer reponse_index.json
 ```
 
+### Repli automatique lorsque YouTube bloque le téléchargement
+
+Les commandes `traiter`, `reprendre`, `lot` et `playlist` essaient d'abord l'accès normal. Si YouTube
+renvoie son contrôle anti-robot ou masque les formats, Prométhé recommence automatiquement avec
+les cookies de la session Firefox locale et le client `web_safari`. Les cookies restent dans le profil
+Firefox : ils ne sont ni copiés dans le projet ni affichés.
+
+Au premier repli seulement, si Deno n'est pas déjà disponible, sa distribution Windows officielle est
+téléchargée dans `.runtime/deno/` et contrôlée par SHA-256. Ce dossier persistant est ignoré par Git,
+ce qui évite de réinstaller le moteur JavaScript lors des vidéos suivantes. Il est possible de fournir un
+autre exécutable avec `--runtime-js CHEMIN` ou de désactiver ce repli avec `--sans-repli-firefox`.
+
+Lors d'une reprise avec une URL YouTube standard, Prométhé retrouve d'abord l'identifiant dans les
+archives locales. Si `metadata.json` existe, il ne sollicite plus YouTube pour refaire cette inspection.
+
 Après correction, la synthèse documentaire est produite avant l'index et se génère ou se remplace indépendamment selon le même principe :
 
 ```powershell

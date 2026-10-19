@@ -1,0 +1,2977 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 6.88,
+      "start_timestamp": "00:00:00.000",
+      "end_timestamp": "00:00:06.880",
+      "text": "Il y a quelques semaines, un certain Geoffroy Lejeune a eu une petite sortie qui est quasiment passée inaperçue."
+    },
+    {
+      "id": 1,
+      "start": 6.88,
+      "end": 11.12,
+      "start_timestamp": "00:00:06.880",
+      "end_timestamp": "00:00:11.120",
+      "text": "Et pourtant, ce qu'il dit est à la fois essentiel et glaçant."
+    },
+    {
+      "id": 2,
+      "start": 11.12,
+      "end": 14.08,
+      "start_timestamp": "00:00:11.120",
+      "end_timestamp": "00:00:14.080",
+      "text": "L'islamophobie, c'est un concept de frères musulmans à l'origine."
+    },
+    {
+      "id": 3,
+      "start": 14.08,
+      "end": 23.6,
+      "start_timestamp": "00:00:14.080",
+      "end_timestamp": "00:00:23.600",
+      "text": "C'est importé par les frères musulmans pour faire naître le sentiment de victimisation au sein des populations immigrées en Europe, en Occident plus généralement."
+    },
+    {
+      "id": 4,
+      "start": 23.6,
+      "end": 28.2,
+      "start_timestamp": "00:00:23.600",
+      "end_timestamp": "00:00:28.200",
+      "text": "L'islamophobie serait une invention des frères musulmans."
+    },
+    {
+      "id": 5,
+      "start": 28.2,
+      "end": 29.72,
+      "start_timestamp": "00:00:28.200",
+      "end_timestamp": "00:00:29.720",
+      "text": "Oh my god !"
+    },
+    {
+      "id": 6,
+      "start": 29.72,
+      "end": 35.6,
+      "start_timestamp": "00:00:29.720",
+      "end_timestamp": "00:00:35.600",
+      "text": "Cette information balancée comme ça, entre deux autres, c'est ni plus ni moins qu'une bombe."
+    },
+    {
+      "id": 7,
+      "start": 35.6,
+      "end": 39.32,
+      "start_timestamp": "00:00:35.600",
+      "end_timestamp": "00:00:39.320",
+      "text": "Et je suis très étonné que ça n'ait pas fait plus de bruit que ça."
+    },
+    {
+      "id": 8,
+      "start": 40.88,
+      "end": 46.92,
+      "start_timestamp": "00:00:40.880",
+      "end_timestamp": "00:00:46.920",
+      "text": "Alors nous voilà de nouveau devant un sujet bien casse-gueule que l'on pourrait formuler ainsi."
+    },
+    {
+      "id": 9,
+      "start": 46.92,
+      "end": 50.6,
+      "start_timestamp": "00:00:46.920",
+      "end_timestamp": "00:00:50.600",
+      "text": "L'islamophobie est le cheval de trois de l'islamisme."
+    },
+    {
+      "id": 10,
+      "start": 50.6,
+      "end": 57.44,
+      "start_timestamp": "00:00:50.600",
+      "end_timestamp": "00:00:57.440",
+      "text": "Et la France, tout comme une grande partie du monde occidental, est comme paralysée par cette peur de l'accusation d'islamophobie."
+    },
+    {
+      "id": 11,
+      "start": 57.48,
+      "end": 61.52,
+      "start_timestamp": "00:00:57.480",
+      "end_timestamp": "00:01:01.520",
+      "text": "Voici ce qu'en dit par exemple le dessinateur de BD, Enki Bilal."
+    },
+    {
+      "id": 12,
+      "start": 61.52,
+      "end": 67.72,
+      "start_timestamp": "00:01:01.520",
+      "end_timestamp": "00:01:07.720",
+      "text": "Il y a eu un problème de, ce qu'on peut appeler une forme de bien-pensance et d'inconscience, je ne sais pas pourquoi on met ça sous le tapis,"
+    },
+    {
+      "id": 13,
+      "start": 67.72,
+      "end": 72.88,
+      "start_timestamp": "00:01:07.720",
+      "end_timestamp": "00:01:12.880",
+      "text": "pourquoi on a inventé, on a laissé un mot comme islamophobie apparaître et qui est un mot complètement absurde."
+    },
+    {
+      "id": 14,
+      "start": 72.88,
+      "end": 77.04,
+      "start_timestamp": "00:01:12.880",
+      "end_timestamp": "00:01:17.040",
+      "text": "On m'a dit qu'il avait été inventé par Ayatollah Khamenei lui-même, est-ce que c'est vrai, je n'en sais rien."
+    },
+    {
+      "id": 15,
+      "start": 77.04,
+      "end": 81.04,
+      "start_timestamp": "00:01:17.040",
+      "end_timestamp": "00:01:21.040",
+      "text": "Mais donc il y avait une espèce de, comment dire, la critique était impossible."
+    },
+    {
+      "id": 16,
+      "start": 81.04,
+      "end": 85.16,
+      "start_timestamp": "00:01:21.040",
+      "end_timestamp": "00:01:25.160",
+      "text": "Et donc ça, je pense que ça a tétanisé les hommes politiques pendant des décennies."
+    },
+    {
+      "id": 17,
+      "start": 85.2,
+      "end": 86.88,
+      "start_timestamp": "00:01:25.200",
+      "end_timestamp": "00:01:26.880",
+      "text": "Alors l'islamophobie, c'est quoi ?"
+    },
+    {
+      "id": 18,
+      "start": 86.88,
+      "end": 90.96,
+      "start_timestamp": "00:01:26.880",
+      "end_timestamp": "00:01:30.960",
+      "text": "À première vue, on aurait tendance à penser que c'est le fait de détester l'islam."
+    },
+    {
+      "id": 19,
+      "start": 90.96,
+      "end": 93.52,
+      "start_timestamp": "00:01:30.960",
+      "end_timestamp": "00:01:33.520",
+      "text": "Et si c'était bien le cas, ça ne poserait aucun problème."
+    },
+    {
+      "id": 20,
+      "start": 93.52,
+      "end": 96.56,
+      "start_timestamp": "00:01:33.520",
+      "end_timestamp": "00:01:36.560",
+      "text": "Même Jean-Luc Mélenchon le disait en 2015."
+    },
+    {
+      "id": 21,
+      "start": 96.56,
+      "end": 102.4,
+      "start_timestamp": "00:01:36.560",
+      "end_timestamp": "00:01:42.400",
+      "text": "Et effectivement, dans un pays laïque, ne pas aimer une religion, qu'on le veuille ou non, c'est un droit."
+    },
+    {
+      "id": 22,
+      "start": 102.4,
+      "end": 109.12,
+      "start_timestamp": "00:01:42.400",
+      "end_timestamp": "00:01:49.120",
+      "text": "Or, pour beaucoup de musulmans, la laïcité elle-même est perçue comme une discrimination envers leur religion."
+    },
+    {
+      "id": 23,
+      "start": 109.12,
+      "end": 111.08,
+      "start_timestamp": "00:01:49.120",
+      "end_timestamp": "00:01:51.080",
+      "text": "Quel rapport ont-ils avec la laïcité ?"
+    },
+    {
+      "id": 24,
+      "start": 111.08,
+      "end": 113.92,
+      "start_timestamp": "00:01:51.080",
+      "end_timestamp": "00:01:53.920",
+      "text": "Elle est à la fois mal comprise, mal acceptée, mal vécue."
+    },
+    {
+      "id": 25,
+      "start": 113.92,
+      "end": 115.56,
+      "start_timestamp": "00:01:53.920",
+      "end_timestamp": "00:01:55.560",
+      "text": "J'ai envie de dire, il y a un chiffre qui est frappant."
+    },
+    {
+      "id": 26,
+      "start": 115.56,
+      "end": 122.92,
+      "start_timestamp": "00:01:55.560",
+      "end_timestamp": "00:02:02.920",
+      "text": "78% des musulmans interrogés jugent la laïcité discriminatoire pour les musulmans, en particulier chez les jeunes."
+    },
+    {
+      "id": 27,
+      "start": 122.92,
+      "end": 127.4,
+      "start_timestamp": "00:02:02.920",
+      "end_timestamp": "00:02:07.400",
+      "text": "Alors, comprenons-nous bien, si l'islamophobie, c'est le fait de détester une religion,"
+    },
+    {
+      "id": 28,
+      "start": 127.4,
+      "end": 132.08,
+      "start_timestamp": "00:02:07.400",
+      "end_timestamp": "00:02:12.080",
+      "text": "dans ce cas-là, c'est un droit, qu'on soit d'accord avec le principe ou non."
+    },
+    {
+      "id": 29,
+      "start": 132.08,
+      "end": 137.24,
+      "start_timestamp": "00:02:12.080",
+      "end_timestamp": "00:02:17.240",
+      "text": "Si l'islamophobie consiste à détester les musulmans en revanche, donc des personnes,"
+    },
+    {
+      "id": 30,
+      "start": 137.24,
+      "end": 140.6,
+      "start_timestamp": "00:02:17.240",
+      "end_timestamp": "00:02:20.600",
+      "text": "là effectivement, on peut comprendre que ce soit problématique."
+    },
+    {
+      "id": 31,
+      "start": 140.64,
+      "end": 144.52,
+      "start_timestamp": "00:02:20.640",
+      "end_timestamp": "00:02:24.520",
+      "text": "Maintenant, si on observe les faits, ce qui est dénoncé comme de l'islamophobie,"
+    },
+    {
+      "id": 32,
+      "start": 144.52,
+      "end": 151.04,
+      "start_timestamp": "00:02:24.520",
+      "end_timestamp": "00:02:31.040",
+      "text": "ça ne concerne quasiment jamais des atteintes des personnes, mais bien à des idées religieuses."
+    },
+    {
+      "id": 33,
+      "start": 151.04,
+      "end": 156.04,
+      "start_timestamp": "00:02:31.040",
+      "end_timestamp": "00:02:36.040",
+      "text": "Et ce qui est intéressant, c'est de voir comment les intéressés eux-mêmes définissent la chose."
+    },
+    {
+      "id": 34,
+      "start": 156.04,
+      "end": 161.48,
+      "start_timestamp": "00:02:36.040",
+      "end_timestamp": "00:02:41.480",
+      "text": "L'islamophobie, pour nous, c'est tout ce qui entrave la construction et le développement de la communauté,"
+    },
+    {
+      "id": 35,
+      "start": 161.48,
+      "end": 166.2,
+      "start_timestamp": "00:02:41.480",
+      "end_timestamp": "00:02:46.200",
+      "text": "son expression visible et politique, que ce soit en France et dans le monde."
+    },
+    {
+      "id": 36,
+      "start": 166.76,
+      "end": 169.36,
+      "start_timestamp": "00:02:46.760",
+      "end_timestamp": "00:02:49.360",
+      "text": "Là, on comprend bien qu'il y a une dérive."
+    },
+    {
+      "id": 37,
+      "start": 169.36,
+      "end": 174.56,
+      "start_timestamp": "00:02:49.360",
+      "end_timestamp": "00:02:54.560",
+      "text": "L'islamophobie serait ce qui entrave le développement de l'islam."
+    },
+    {
+      "id": 38,
+      "start": 174.56,
+      "end": 177.12,
+      "start_timestamp": "00:02:54.560",
+      "end_timestamp": "00:02:57.120",
+      "text": "C'est un peu chercher la bagarre, ça, quand même."
+    },
+    {
+      "id": 39,
+      "start": 177.64,
+      "end": 179.16,
+      "start_timestamp": "00:02:57.640",
+      "end_timestamp": "00:02:59.160",
+      "text": "Il y a quelque chose qui cloche."
+    },
+    {
+      "id": 40,
+      "start": 179.16,
+      "end": 181.56,
+      "start_timestamp": "00:02:59.160",
+      "end_timestamp": "00:03:01.560",
+      "text": "On est clairement sur une notion piège."
+    },
+    {
+      "id": 41,
+      "start": 181.56,
+      "end": 184.44,
+      "start_timestamp": "00:03:01.560",
+      "end_timestamp": "00:03:04.440",
+      "text": "Et si maintenant, je vous disais que Geoffroy Lejeune disait vrai ?"
+    },
+    {
+      "id": 42,
+      "start": 184.44,
+      "end": 189.4,
+      "start_timestamp": "00:03:04.440",
+      "end_timestamp": "00:03:09.400",
+      "text": "Et si l'islamophobie était bel et bien une invention des frères musulmans ?"
+    },
+    {
+      "id": 43,
+      "start": 189.4,
+      "end": 195.0,
+      "start_timestamp": "00:03:09.400",
+      "end_timestamp": "00:03:15.000",
+      "text": "Et si la victimisation était le fruit d'une stratégie réfléchie depuis bien longtemps ?"
+    },
+    {
+      "id": 44,
+      "start": 195.0,
+      "end": 198.16,
+      "start_timestamp": "00:03:15.000",
+      "end_timestamp": "00:03:18.160",
+      "text": "C'est en tout cas l'une des conclusions de l'enquête exceptionnelle"
+    },
+    {
+      "id": 45,
+      "start": 198.16,
+      "end": 204.04,
+      "start_timestamp": "00:03:18.160",
+      "end_timestamp": "00:03:24.040",
+      "text": "menée par Florence Bergeau-Blackler dans son livre Le Frérisme et ses réseaux."
+    },
+    {
+      "id": 46,
+      "start": 204.04,
+      "end": 207.04,
+      "start_timestamp": "00:03:24.040",
+      "end_timestamp": "00:03:27.040",
+      "text": "Un livre dont je vous ai déjà parlé dans une précédente vidéo"
+    },
+    {
+      "id": 47,
+      "start": 207.04,
+      "end": 210.8,
+      "start_timestamp": "00:03:27.040",
+      "end_timestamp": "00:03:30.800",
+      "text": "dans laquelle je détaillais l'historique de l'organisation des frères musulmans,"
+    },
+    {
+      "id": 48,
+      "start": 210.8,
+      "end": 216.2,
+      "start_timestamp": "00:03:30.800",
+      "end_timestamp": "00:03:36.200",
+      "text": "mais aussi son projet, ses méthodes et la manière dont elle s'est infiltrée partout en Occident."
+    },
+    {
+      "id": 49,
+      "start": 216.2,
+      "end": 220.6,
+      "start_timestamp": "00:03:36.200",
+      "end_timestamp": "00:03:40.600",
+      "text": "Je vous invite donc à aller voir cette vidéo avant ou après celle-ci en complément"
+    },
+    {
+      "id": 50,
+      "start": 220.6,
+      "end": 222.04,
+      "start_timestamp": "00:03:40.600",
+      "end_timestamp": "00:03:42.040",
+      "text": "si vous ne l'avez pas déjà vue."
+    },
+    {
+      "id": 51,
+      "start": 222.04,
+      "end": 225.16,
+      "start_timestamp": "00:03:42.040",
+      "end_timestamp": "00:03:45.160",
+      "text": "Alors avant de commencer, n'hésitez pas à vous abonner si ce n'est pas déjà fait,"
+    },
+    {
+      "id": 52,
+      "start": 225.2,
+      "end": 229.08,
+      "start_timestamp": "00:03:45.200",
+      "end_timestamp": "00:03:49.080",
+      "text": "à mettre un pouce et pourquoi pas à laisser un petit commentaire pour le référencement."
+    },
+    {
+      "id": 53,
+      "start": 229.08,
+      "end": 231.96,
+      "start_timestamp": "00:03:49.080",
+      "end_timestamp": "00:03:51.960",
+      "text": "De même si vous aimez mon travail et que vous voulez me soutenir,"
+    },
+    {
+      "id": 54,
+      "start": 231.96,
+      "end": 234.44,
+      "start_timestamp": "00:03:51.960",
+      "end_timestamp": "00:03:54.440",
+      "text": "je vous invite à me faire un don sur Tipeee."
+    },
+    {
+      "id": 55,
+      "start": 234.44,
+      "end": 238.48,
+      "start_timestamp": "00:03:54.440",
+      "end_timestamp": "00:03:58.480",
+      "text": "En échange de quoi vous aurez accès à de nombreuses vidéos exclusives."
+    },
+    {
+      "id": 56,
+      "start": 238.48,
+      "end": 243.68,
+      "start_timestamp": "00:03:58.480",
+      "end_timestamp": "00:04:03.680",
+      "text": "Alors comment est-ce que l'islamophobie sert un projet à la fois politique et religieux ?"
+    },
+    {
+      "id": 57,
+      "start": 243.68,
+      "end": 244.92,
+      "start_timestamp": "00:04:03.680",
+      "end_timestamp": "00:04:04.920",
+      "text": "C'est ce qu'on va voir maintenant."
+    },
+    {
+      "id": 58,
+      "start": 244.92,
+      "end": 250.8,
+      "start_timestamp": "00:04:04.920",
+      "end_timestamp": "00:04:10.800",
+      "text": "Je me demande si vous faites vraiment encore une différence entre islam modéré et islam radical ?"
+    },
+    {
+      "id": 59,
+      "start": 251.8,
+      "end": 255.12,
+      "start_timestamp": "00:04:11.800",
+      "end_timestamp": "00:04:15.120",
+      "text": "Elle est très mince maintenant, elle a tendance à disparaître,"
+    },
+    {
+      "id": 60,
+      "start": 255.12,
+      "end": 257.8,
+      "start_timestamp": "00:04:15.120",
+      "end_timestamp": "00:04:17.800",
+      "text": "je dirais peut-être même que maintenant elle a totalement disparu."
+    },
+    {
+      "id": 61,
+      "start": 257.8,
+      "end": 261.24,
+      "start_timestamp": "00:04:17.800",
+      "end_timestamp": "00:04:21.240",
+      "text": "Pas alo quand tu décroches au téléphone, mais dis plutôt as-salamu alaykum."
+    },
+    {
+      "id": 62,
+      "start": 261.24,
+      "end": 265.28,
+      "start_timestamp": "00:04:21.240",
+      "end_timestamp": "00:04:25.280",
+      "text": "Les musulmans de France disent attention ne faites pas d'amalgame,"
+    },
+    {
+      "id": 63,
+      "start": 265.28,
+      "end": 266.84,
+      "start_timestamp": "00:04:25.280",
+      "end_timestamp": "00:04:26.840",
+      "text": "mais l'amalgame c'est ça."
+    },
+    {
+      "id": 64,
+      "start": 266.84,
+      "end": 268.88,
+      "start_timestamp": "00:04:26.840",
+      "end_timestamp": "00:04:28.880",
+      "text": "L'amalgame c'est eux-mêmes qui l'ont fait."
+    },
+    {
+      "id": 65,
+      "start": 268.88,
+      "end": 271.88,
+      "start_timestamp": "00:04:28.880",
+      "end_timestamp": "00:04:31.880",
+      "text": "L'islam c'est une religion de paix, point barre."
+    },
+    {
+      "id": 66,
+      "start": 271.88,
+      "end": 274.24,
+      "start_timestamp": "00:04:31.880",
+      "end_timestamp": "00:04:34.240",
+      "text": "Tant qu'ils sont racistes, il n'y aura pas de justice."
+    },
+    {
+      "id": 67,
+      "start": 274.24,
+      "end": 277.8,
+      "start_timestamp": "00:04:34.240",
+      "end_timestamp": "00:04:37.800",
+      "text": "Il faut respecter les religions, il faut respecter surtout les musulmans."
+    },
+    {
+      "id": 68,
+      "start": 278.16,
+      "end": 285.44,
+      "start_timestamp": "00:04:38.160",
+      "end_timestamp": "00:04:45.440",
+      "text": "La lutte contre l'islamophobie, ça sert bien sûr à empêcher toute critique de l'islam et de l'islamisme,"
+    },
+    {
+      "id": 69,
+      "start": 285.44,
+      "end": 290.76,
+      "start_timestamp": "00:04:45.440",
+      "end_timestamp": "00:04:50.760",
+      "text": "mais ça sert aussi à rééduquer une société qui serait structurellement islamophobe."
+    },
+    {
+      "id": 70,
+      "start": 295.06,
+      "end": 298.5,
+      "start_timestamp": "00:04:55.060",
+      "end_timestamp": "00:04:58.500",
+      "text": "Avant de rentrer dans le vif du sujet, je vais vous donner un peu de contexte,"
+    },
+    {
+      "id": 71,
+      "start": 298.5,
+      "end": 301.94,
+      "start_timestamp": "00:04:58.500",
+      "end_timestamp": "00:05:01.940",
+      "text": "pour que vous compreniez bien comment les idées des frères musulmans"
+    },
+    {
+      "id": 72,
+      "start": 301.94,
+      "end": 304.9,
+      "start_timestamp": "00:05:01.940",
+      "end_timestamp": "00:05:04.900",
+      "text": "ont pu se diffuser à ce point en Occident."
+    },
+    {
+      "id": 73,
+      "start": 304.9,
+      "end": 309.94,
+      "start_timestamp": "00:05:04.900",
+      "end_timestamp": "00:05:09.940",
+      "text": "Dans les années 70, l'élite des frères musulmans s'est exilée et disséminée"
+    },
+    {
+      "id": 74,
+      "start": 309.94,
+      "end": 313.66,
+      "start_timestamp": "00:05:09.940",
+      "end_timestamp": "00:05:13.660",
+      "text": "sur les campus européens, américains et australiens."
+    },
+    {
+      "id": 75,
+      "start": 313.66,
+      "end": 317.62,
+      "start_timestamp": "00:05:13.660",
+      "end_timestamp": "00:05:17.620",
+      "text": "Là-bas, ils vont apporter une critique du matérialisme occidental."
+    },
+    {
+      "id": 76,
+      "start": 317.62,
+      "end": 320.7,
+      "start_timestamp": "00:05:17.620",
+      "end_timestamp": "00:05:20.700",
+      "text": "On est à une période où l'anticapitalisme est en vogue,"
+    },
+    {
+      "id": 77,
+      "start": 320.7,
+      "end": 326.3,
+      "start_timestamp": "00:05:20.700",
+      "end_timestamp": "00:05:26.300",
+      "text": "et donc cette critique du monde occidental apportée par l'islam est la bienvenue."
+    },
+    {
+      "id": 78,
+      "start": 326.3,
+      "end": 329.98,
+      "start_timestamp": "00:05:26.300",
+      "end_timestamp": "00:05:29.980",
+      "text": "Parce que tout ce qui permet de repenser l'Occident est accueilli à bras ouverts,"
+    },
+    {
+      "id": 79,
+      "start": 329.98,
+      "end": 334.26,
+      "start_timestamp": "00:05:29.980",
+      "end_timestamp": "00:05:34.260",
+      "text": "et les idées des frères musulmans ne rencontreront quasiment aucun obstacle."
+    },
+    {
+      "id": 80,
+      "start": 334.26,
+      "end": 338.3,
+      "start_timestamp": "00:05:34.260",
+      "end_timestamp": "00:05:38.300",
+      "text": "Le projet des frères consiste en une islamisation de la connaissance,"
+    },
+    {
+      "id": 81,
+      "start": 338.3,
+      "end": 342.78,
+      "start_timestamp": "00:05:38.300",
+      "end_timestamp": "00:05:42.780",
+      "text": "une discipline qui est même enseignée dans les universités de certains pays musulmans."
+    },
+    {
+      "id": 82,
+      "start": 342.78,
+      "end": 346.78,
+      "start_timestamp": "00:05:42.780",
+      "end_timestamp": "00:05:46.780",
+      "text": "L'idée pour eux, c'est de se réapproprier les sciences au nom de l'islam."
+    },
+    {
+      "id": 83,
+      "start": 346.78,
+      "end": 351.82,
+      "start_timestamp": "00:05:46.780",
+      "end_timestamp": "00:05:51.820",
+      "text": "L'islamisation de la connaissance veut déconstruire et retraduire la philosophie des Lumières,"
+    },
+    {
+      "id": 84,
+      "start": 351.82,
+      "end": 357.14,
+      "start_timestamp": "00:05:51.820",
+      "end_timestamp": "00:05:57.140",
+      "text": "qui a permis la supériorité intellectuelle et technologique de l'Occident en terre d'Islam."
+    },
+    {
+      "id": 85,
+      "start": 357.14,
+      "end": 361.3,
+      "start_timestamp": "00:05:57.140",
+      "end_timestamp": "00:06:01.300",
+      "text": "Ainsi, la modernité islamique échappera à la dérive matérialiste,"
+    },
+    {
+      "id": 86,
+      "start": 361.3,
+      "end": 365.02,
+      "start_timestamp": "00:06:01.300",
+      "end_timestamp": "00:06:05.020",
+      "text": "au nihilisme, à l'immoralité et à l'absence de sens"
+    },
+    {
+      "id": 87,
+      "start": 365.02,
+      "end": 368.62,
+      "start_timestamp": "00:06:05.020",
+      "end_timestamp": "00:06:08.620",
+      "text": "par lesquelles s'explique le déclin que connaît l'Occident."
+    },
+    {
+      "id": 88,
+      "start": 368.62,
+      "end": 374.62,
+      "start_timestamp": "00:06:08.620",
+      "end_timestamp": "00:06:14.620",
+      "text": "Le but est donc non seulement de désoccidentaliser les sciences, mais aussi de les islamiser."
+    },
+    {
+      "id": 89,
+      "start": 374.62,
+      "end": 379.94,
+      "start_timestamp": "00:06:14.620",
+      "end_timestamp": "00:06:19.940",
+      "text": "Mais les frères comprennent rapidement que le combat contre les sciences dures sera très difficile."
+    },
+    {
+      "id": 90,
+      "start": 379.94,
+      "end": 385.94,
+      "start_timestamp": "00:06:19.940",
+      "end_timestamp": "00:06:25.940",
+      "text": "Voilà pourquoi ils préfèrent s'attaquer aux sciences humaines qui, contrairement aux sciences dures, sont relatives."
+    },
+    {
+      "id": 91,
+      "start": 385.94,
+      "end": 389.74,
+      "start_timestamp": "00:06:25.940",
+      "end_timestamp": "00:06:29.740",
+      "text": "Et si l'islam condamne les sciences occidentales, c'est pour trois raisons."
+    },
+    {
+      "id": 92,
+      "start": 389.74,
+      "end": 392.58,
+      "start_timestamp": "00:06:29.740",
+      "end_timestamp": "00:06:32.580",
+      "text": "Déjà parce qu'elles excluent la dimension spirituelle."
+    },
+    {
+      "id": 93,
+      "start": 392.62,
+      "end": 398.1,
+      "start_timestamp": "00:06:32.620",
+      "end_timestamp": "00:06:38.100",
+      "text": "La science telle qu'elle est conçue par l'Occident se fonde exclusivement sur l'essence et la raison humaine"
+    },
+    {
+      "id": 94,
+      "start": 398.1,
+      "end": 403.34,
+      "start_timestamp": "00:06:38.100",
+      "end_timestamp": "00:06:43.340",
+      "text": "et rejette l'idée de se baser sur l'hypothèse d'une réalité au-delà de l'existence terrestre."
+    },
+    {
+      "id": 95,
+      "start": 403.34,
+      "end": 408.78,
+      "start_timestamp": "00:06:43.340",
+      "end_timestamp": "00:06:48.780",
+      "text": "Ensuite parce que le système éducatif occidental représente un danger énorme pour les musulmans."
+    },
+    {
+      "id": 96,
+      "start": 408.78,
+      "end": 411.94,
+      "start_timestamp": "00:06:48.780",
+      "end_timestamp": "00:06:51.940",
+      "text": "Beaucoup de musulmans ont grandi dans les pays occidentaux"
+    },
+    {
+      "id": 97,
+      "start": 411.94,
+      "end": 415.86,
+      "start_timestamp": "00:06:51.940",
+      "end_timestamp": "00:06:55.860",
+      "text": "et ont été élevés avec l'idée que les sciences et les connaissances laïques"
+    },
+    {
+      "id": 98,
+      "start": 415.86,
+      "end": 418.86,
+      "start_timestamp": "00:06:55.860",
+      "end_timestamp": "00:06:58.860",
+      "text": "sont supérieures à celles qui ont des sources religieuses."
+    },
+    {
+      "id": 99,
+      "start": 418.86,
+      "end": 422.3,
+      "start_timestamp": "00:06:58.860",
+      "end_timestamp": "00:07:02.300",
+      "text": "Et enfin parce que la science occidentale est amorale"
+    },
+    {
+      "id": 100,
+      "start": 422.3,
+      "end": 426.34,
+      "start_timestamp": "00:07:02.300",
+      "end_timestamp": "00:07:06.340",
+      "text": "et qu'elle n'a pas de finalité alors que dans l'islam la connaissance a une finalité"
+    },
+    {
+      "id": 101,
+      "start": 426.34,
+      "end": 428.66,
+      "start_timestamp": "00:07:06.340",
+      "end_timestamp": "00:07:08.660",
+      "text": "et c'est de plaire à Dieu."
+    },
+    {
+      "id": 102,
+      "start": 428.66,
+      "end": 433.46,
+      "start_timestamp": "00:07:08.660",
+      "end_timestamp": "00:07:13.460",
+      "text": "L'idée de l'islamisation de la connaissance c'est de tout passer à travers le filtre de l'islam."
+    },
+    {
+      "id": 103,
+      "start": 433.46,
+      "end": 439.94,
+      "start_timestamp": "00:07:13.460",
+      "end_timestamp": "00:07:19.940",
+      "text": "Alors évidemment cette obligation de tout conformer à l'islam ce n'est pas la meilleure des manières de pratiquer la science."
+    },
+    {
+      "id": 104,
+      "start": 439.94,
+      "end": 445.86,
+      "start_timestamp": "00:07:19.940",
+      "end_timestamp": "00:07:25.860",
+      "text": "Et en réalité cette islamisation des connaissances nuit énormément à la recherche dans les pays musulmans."
+    },
+    {
+      "id": 105,
+      "start": 445.86,
+      "end": 448.46,
+      "start_timestamp": "00:07:25.860",
+      "end_timestamp": "00:07:28.460",
+      "text": "Là-bas les chercheurs ne se sentent pas en sécurité"
+    },
+    {
+      "id": 106,
+      "start": 448.46,
+      "end": 451.62,
+      "start_timestamp": "00:07:28.460",
+      "end_timestamp": "00:07:31.620",
+      "text": "parce que faire une erreur peut donner l'impression de critiquer l'islam"
+    },
+    {
+      "id": 107,
+      "start": 451.62,
+      "end": 453.98,
+      "start_timestamp": "00:07:31.620",
+      "end_timestamp": "00:07:33.980",
+      "text": "voire d'être carrément un hérétique."
+    },
+    {
+      "id": 108,
+      "start": 453.98,
+      "end": 459.42,
+      "start_timestamp": "00:07:33.980",
+      "end_timestamp": "00:07:39.420",
+      "text": "De plus le manque de liberté d'expression ne permet pas aux chercheurs d'être créatifs."
+    },
+    {
+      "id": 109,
+      "start": 459.42,
+      "end": 464.22,
+      "start_timestamp": "00:07:39.420",
+      "end_timestamp": "00:07:44.220",
+      "text": "Si un chercheur musulman veut travailler sérieusement il est obligé d'aller en occident."
+    },
+    {
+      "id": 110,
+      "start": 464.22,
+      "end": 468.06,
+      "start_timestamp": "00:07:44.220",
+      "end_timestamp": "00:07:48.060",
+      "text": "Bref on l'a compris les frères musulmans s'attaquent aux sciences sociales"
+    },
+    {
+      "id": 111,
+      "start": 468.06,
+      "end": 471.1,
+      "start_timestamp": "00:07:48.060",
+      "end_timestamp": "00:07:51.100",
+      "text": "parce qu'ils sont incapables de s'attaquer aux sciences dures"
+    },
+    {
+      "id": 112,
+      "start": 471.1,
+      "end": 473.74,
+      "start_timestamp": "00:07:51.100",
+      "end_timestamp": "00:07:53.740",
+      "text": "et l'occident leur ouvre grand ses portes."
+    },
+    {
+      "id": 113,
+      "start": 473.74,
+      "end": 478.74,
+      "start_timestamp": "00:07:53.740",
+      "end_timestamp": "00:07:58.740",
+      "text": "Et ces sciences sociales vont être un outil de choix pour mener leur combat."
+    },
+    {
+      "id": 114,
+      "start": 478.82,
+      "end": 484.38,
+      "start_timestamp": "00:07:58.820",
+      "end_timestamp": "00:08:04.380",
+      "text": "Ce qu'il faut bien comprendre c'est que le mouvement frériste ne cherche pas à se propager militairement."
+    },
+    {
+      "id": 115,
+      "start": 484.38,
+      "end": 489.9,
+      "start_timestamp": "00:08:04.380",
+      "end_timestamp": "00:08:09.900",
+      "text": "Et ce n'est pas par pacifisme mais uniquement parce qu'il n'est pas dans un rapport de force qui lui est favorable."
+    },
+    {
+      "id": 116,
+      "start": 489.9,
+      "end": 494.34,
+      "start_timestamp": "00:08:09.900",
+      "end_timestamp": "00:08:14.340",
+      "text": "Et en réalité les frères peuvent même désapprouver les attaques djihadistes meurtrières."
+    },
+    {
+      "id": 117,
+      "start": 494.34,
+      "end": 496.98,
+      "start_timestamp": "00:08:14.340",
+      "end_timestamp": "00:08:16.980",
+      "text": "Non pas qu'ils condamnent la violence en elle-même"
+    },
+    {
+      "id": 118,
+      "start": 496.98,
+      "end": 500.5,
+      "start_timestamp": "00:08:16.980",
+      "end_timestamp": "00:08:20.500",
+      "text": "mais simplement parce qu'ils estiment que ces actions sont contre-productives"
+    },
+    {
+      "id": 119,
+      "start": 500.5,
+      "end": 506.42,
+      "start_timestamp": "00:08:20.500",
+      "end_timestamp": "00:08:26.420",
+      "text": "puisqu'elles nuisent à leur objectif qui est, pour rappel, l'instauration d'une société islamique."
+    },
+    {
+      "id": 120,
+      "start": 506.42,
+      "end": 511.78,
+      "start_timestamp": "00:08:26.420",
+      "end_timestamp": "00:08:31.780",
+      "text": "Mais pour mesurer toute l'hypocrisie de la chose, il faut savoir que les frères considèrent que le djihad violent"
+    },
+    {
+      "id": 121,
+      "start": 511.78,
+      "end": 516.14,
+      "start_timestamp": "00:08:31.780",
+      "end_timestamp": "00:08:36.140",
+      "text": "peut être justifié en cas de légitime défense et l'arnaque, elle est là."
+    },
+    {
+      "id": 122,
+      "start": 516.14,
+      "end": 522.34,
+      "start_timestamp": "00:08:36.140",
+      "end_timestamp": "00:08:42.340",
+      "text": "Pour rendre le monde chariocompatible, le système d'action crée les conditions pour se trouver en légitime défense,"
+    },
+    {
+      "id": 123,
+      "start": 522.34,
+      "end": 524.82,
+      "start_timestamp": "00:08:42.340",
+      "end_timestamp": "00:08:44.820",
+      "text": "provoque la violence pour pouvoir y répondre."
+    },
+    {
+      "id": 124,
+      "start": 524.82,
+      "end": 527.1,
+      "start_timestamp": "00:08:44.820",
+      "end_timestamp": "00:08:47.100",
+      "text": "Et ça, c'est très important à comprendre."
+    },
+    {
+      "id": 125,
+      "start": 527.1,
+      "end": 531.62,
+      "start_timestamp": "00:08:47.100",
+      "end_timestamp": "00:08:51.620",
+      "text": "Le meilleur moyen pour les frères de légitimer la violence par la légitime défense"
+    },
+    {
+      "id": 126,
+      "start": 531.62,
+      "end": 535.62,
+      "start_timestamp": "00:08:51.620",
+      "end_timestamp": "00:08:55.620",
+      "text": "c'est de jouer à fond la carte de la victimisation."
+    },
+    {
+      "id": 127,
+      "start": 535.62,
+      "end": 538.46,
+      "start_timestamp": "00:08:55.620",
+      "end_timestamp": "00:08:58.460",
+      "text": "Et pour ça, ils ont mis en place des outils très efficaces,"
+    },
+    {
+      "id": 128,
+      "start": 538.46,
+      "end": 544.54,
+      "start_timestamp": "00:08:58.460",
+      "end_timestamp": "00:09:04.540",
+      "text": "à commencer par la relativisation du principe d'universalité de la déclaration universelle des droits de l'homme."
+    },
+    {
+      "id": 129,
+      "start": 544.54,
+      "end": 549.02,
+      "start_timestamp": "00:09:04.540",
+      "end_timestamp": "00:09:09.020",
+      "text": "D'ailleurs, dans les années 2000, l'Organisation de la coopération islamique ou OCI,"
+    },
+    {
+      "id": 130,
+      "start": 549.02,
+      "end": 553.74,
+      "start_timestamp": "00:09:09.020",
+      "end_timestamp": "00:09:13.740",
+      "text": "sous l'influence des frères musulmans, ont créé une sorte de copie des droits de l'homme,"
+    },
+    {
+      "id": 131,
+      "start": 553.74,
+      "end": 557.22,
+      "start_timestamp": "00:09:13.740",
+      "end_timestamp": "00:09:17.220",
+      "text": "la déclaration des droits de l'homme en islam."
+    },
+    {
+      "id": 132,
+      "start": 557.22,
+      "end": 562.66,
+      "start_timestamp": "00:09:17.220",
+      "end_timestamp": "00:09:22.660",
+      "text": "Et ce n'est pas la première fois que les frères musulmans, à travers l'OCI, pratiquent cette division"
+    },
+    {
+      "id": 133,
+      "start": 562.66,
+      "end": 565.54,
+      "start_timestamp": "00:09:22.660",
+      "end_timestamp": "00:09:25.540",
+      "text": "entre les musulmans et le reste des hommes."
+    },
+    {
+      "id": 134,
+      "start": 565.58,
+      "end": 573.46,
+      "start_timestamp": "00:09:25.580",
+      "end_timestamp": "00:09:33.460",
+      "text": "L'OCI, c'est une organisation intergouvernementale fondée en 1969 et qui réunit 57 pays membres."
+    },
+    {
+      "id": 135,
+      "start": 573.46,
+      "end": 575.82,
+      "start_timestamp": "00:09:33.460",
+      "end_timestamp": "00:09:35.820",
+      "text": "Elle se veut être la voix du monde musulman."
+    },
+    {
+      "id": 136,
+      "start": 575.82,
+      "end": 580.7,
+      "start_timestamp": "00:09:35.820",
+      "end_timestamp": "00:09:40.700",
+      "text": "Et vous allez le voir, cette organisation peut avoir beaucoup d'influence quand elle le veut."
+    },
+    {
+      "id": 137,
+      "start": 580.7,
+      "end": 586.14,
+      "start_timestamp": "00:09:40.700",
+      "end_timestamp": "00:09:46.140",
+      "text": "En 1989 sortait le livre Les Versets Sataniques de Salman Rushdie."
+    },
+    {
+      "id": 138,
+      "start": 586.14,
+      "end": 590.86,
+      "start_timestamp": "00:09:46.140",
+      "end_timestamp": "00:09:50.860",
+      "text": "Dans un chapitre du livre, il est dit que le diable aurait dicté des versets à Mahomet"
+    },
+    {
+      "id": 139,
+      "start": 590.86,
+      "end": 594.5,
+      "start_timestamp": "00:09:50.860",
+      "end_timestamp": "00:09:54.500",
+      "text": "et que ce dernier les copiera puis finira par s'en débarrasser."
+    },
+    {
+      "id": 140,
+      "start": 594.5,
+      "end": 599.18,
+      "start_timestamp": "00:09:54.500",
+      "end_timestamp": "00:09:59.180",
+      "text": "Le livre est considéré comme blasphématoire et une fatwa est lancée contre Salman Rushdie."
+    },
+    {
+      "id": 141,
+      "start": 599.18,
+      "end": 602.78,
+      "start_timestamp": "00:09:59.180",
+      "end_timestamp": "00:10:02.780",
+      "text": "D'ailleurs, on parle souvent de ce que Salman Rushdie a subi,"
+    },
+    {
+      "id": 142,
+      "start": 602.78,
+      "end": 606.38,
+      "start_timestamp": "00:10:02.780",
+      "end_timestamp": "00:10:06.380",
+      "text": "mais on oublie souvent de mentionner qu'il n'était pas le seul visé dans cette affaire."
+    },
+    {
+      "id": 143,
+      "start": 606.38,
+      "end": 609.98,
+      "start_timestamp": "00:10:06.380",
+      "end_timestamp": "00:10:09.980",
+      "text": "Tous ceux qui ont contribué à la diffusion du livre ont été visés."
+    },
+    {
+      "id": 144,
+      "start": 609.98,
+      "end": 613.82,
+      "start_timestamp": "00:10:09.980",
+      "end_timestamp": "00:10:13.820",
+      "text": "En fait, Rushdie s'en est même sorti beaucoup mieux que certains autres,"
+    },
+    {
+      "id": 145,
+      "start": 613.82,
+      "end": 617.38,
+      "start_timestamp": "00:10:13.820",
+      "end_timestamp": "00:10:17.380",
+      "text": "parce que le traducteur japonais du livre a par exemple été tué."
+    },
+    {
+      "id": 146,
+      "start": 617.38,
+      "end": 622.14,
+      "start_timestamp": "00:10:17.380",
+      "end_timestamp": "00:10:22.140",
+      "text": "Le traducteur italien poignardé, l'éditeur norvégien a échappé à des coups de feu"
+    },
+    {
+      "id": 147,
+      "start": 622.14,
+      "end": 625.26,
+      "start_timestamp": "00:10:22.140",
+      "end_timestamp": "00:10:25.260",
+      "text": "et un traducteur turc a vu sa chambre d'hôtel incendier."
+    },
+    {
+      "id": 148,
+      "start": 625.26,
+      "end": 630.66,
+      "start_timestamp": "00:10:25.260",
+      "end_timestamp": "00:10:30.660",
+      "text": "En 2022, Salman Rushdie subira une nouvelle tentative de meurtre qui lui fera perdre un œil."
+    },
+    {
+      "id": 149,
+      "start": 630.66,
+      "end": 635.98,
+      "start_timestamp": "00:10:30.660",
+      "end_timestamp": "00:10:35.980",
+      "text": "Et il faut savoir qu'en plus d'avoir blasphémé, Salman Rushdie c'est aussi un apostate."
+    },
+    {
+      "id": 150,
+      "start": 636.02,
+      "end": 639.34,
+      "start_timestamp": "00:10:36.020",
+      "end_timestamp": "00:10:39.340",
+      "text": "La sortie de l'islam reste passible de punition."
+    },
+    {
+      "id": 151,
+      "start": 639.34,
+      "end": 640.94,
+      "start_timestamp": "00:10:39.340",
+      "end_timestamp": "00:10:40.940",
+      "text": "Le débat s'est déplacé."
+    },
+    {
+      "id": 152,
+      "start": 640.94,
+      "end": 647.22,
+      "start_timestamp": "00:10:40.940",
+      "end_timestamp": "00:10:47.220",
+      "text": "Il ne s'agit plus de savoir si l'islam punit, mais où le croyant sera puni, ici bas ou dans l'au-delà."
+    },
+    {
+      "id": 153,
+      "start": 647.22,
+      "end": 653.74,
+      "start_timestamp": "00:10:47.220",
+      "end_timestamp": "00:10:53.740",
+      "text": "Et cette affaire, Rushdie va aider à la consolidation de l'OCI qui va se liguer contre lui."
+    },
+    {
+      "id": 154,
+      "start": 653.74,
+      "end": 658.62,
+      "start_timestamp": "00:10:53.740",
+      "end_timestamp": "00:10:58.620",
+      "text": "En mars 89, les ministres des affaires étrangères de 40 pays membres"
+    },
+    {
+      "id": 155,
+      "start": 658.62,
+      "end": 662.78,
+      "start_timestamp": "00:10:58.620",
+      "end_timestamp": "00:11:02.780",
+      "text": "vont condamner les versets sataniques en qualifiant son auteur d'hérétique."
+    },
+    {
+      "id": 156,
+      "start": 662.78,
+      "end": 666.9,
+      "start_timestamp": "00:11:02.780",
+      "end_timestamp": "00:11:06.900",
+      "text": "L'OCI a donc officiellement joué un rôle dans la poursuite de l'écrivain."
+    },
+    {
+      "id": 157,
+      "start": 666.9,
+      "end": 672.22,
+      "start_timestamp": "00:11:06.900",
+      "end_timestamp": "00:11:12.220",
+      "text": "Même si elle n'a pas appelé directement à son assassinat, elle a largement contribué à la fatwa contre lui."
+    },
+    {
+      "id": 158,
+      "start": 672.22,
+      "end": 678.66,
+      "start_timestamp": "00:11:12.220",
+      "end_timestamp": "00:11:18.660",
+      "text": "L'objectif de l'OCI, c'est de promouvoir une souveraineté de l'UMA, donc de la communauté musulmane internationale."
+    },
+    {
+      "id": 159,
+      "start": 678.66,
+      "end": 685.3,
+      "start_timestamp": "00:11:18.660",
+      "end_timestamp": "00:11:25.300",
+      "text": "Et un de leurs outils pour ça, c'est l'ISESCO, qui fournit un véritable travail de subversion du droit international."
+    },
+    {
+      "id": 160,
+      "start": 685.3,
+      "end": 690.26,
+      "start_timestamp": "00:11:25.300",
+      "end_timestamp": "00:11:30.260",
+      "text": "Dans un document de l'ISESCO, les frères expliquent que les musulmans ne sont pas assimilables"
+    },
+    {
+      "id": 161,
+      "start": 690.26,
+      "end": 697.22,
+      "start_timestamp": "00:11:30.260",
+      "end_timestamp": "00:11:37.220",
+      "text": "et qu'ils n'apporteront que des problèmes à l'Europe si celle-ci ne prend pas en compte leurs besoins particuliers dus à l'islam."
+    },
+    {
+      "id": 162,
+      "start": 697.22,
+      "end": 699.38,
+      "start_timestamp": "00:11:37.220",
+      "end_timestamp": "00:11:39.380",
+      "text": "Et clairement, une forme de menace."
+    },
+    {
+      "id": 163,
+      "start": 699.38,
+      "end": 706.18,
+      "start_timestamp": "00:11:39.380",
+      "end_timestamp": "00:11:46.180",
+      "text": "Ce que les frères exigent, c'est le respect de la sacralité de l'islam par les musulmans, bien entendu, mais aussi par les non-musulmans."
+    },
+    {
+      "id": 164,
+      "start": 706.18,
+      "end": 712.38,
+      "start_timestamp": "00:11:46.180",
+      "end_timestamp": "00:11:52.380",
+      "text": "Et c'est à partir de là que va commencer la promotion de ce concept flou qu'est l'islamophobie."
+    },
+    {
+      "id": 165,
+      "start": 712.38,
+      "end": 716.18,
+      "start_timestamp": "00:11:52.380",
+      "end_timestamp": "00:11:56.180",
+      "text": "En 2007, l'OCI va créer un observatoire de l'islamophobie"
+    },
+    {
+      "id": 166,
+      "start": 716.18,
+      "end": 722.54,
+      "start_timestamp": "00:11:56.180",
+      "end_timestamp": "00:12:02.540",
+      "text": "et la création de cet observatoire va être justifiée par quatre facteurs qui semblent assez lunaires."
+    },
+    {
+      "id": 167,
+      "start": 722.54,
+      "end": 730.42,
+      "start_timestamp": "00:12:02.540",
+      "end_timestamp": "00:12:10.420",
+      "text": "La victoire de Trump, le refus de l'immigration, la poussée du populisme et de l'extrême droite et la tendance à proscrire le voile."
+    },
+    {
+      "id": 168,
+      "start": 730.42,
+      "end": 738.34,
+      "start_timestamp": "00:12:10.420",
+      "end_timestamp": "00:12:18.340",
+      "text": "Ce qui se développe à travers l'OCI, mais aussi à travers d'autres organisations que l'on va voir juste après, c'est le concept d'euro-islam."
+    },
+    {
+      "id": 169,
+      "start": 738.34,
+      "end": 744.62,
+      "start_timestamp": "00:12:18.340",
+      "end_timestamp": "00:12:24.620",
+      "text": "L'idée des frères musulmans, c'est de réformer non pas l'islam, mais le regard des européens sur l'islam."
+    },
+    {
+      "id": 170,
+      "start": 744.62,
+      "end": 750.5,
+      "start_timestamp": "00:12:24.620",
+      "end_timestamp": "00:12:30.500",
+      "text": "En clair, ce n'est pas l'islam qui doit s'adapter à l'Europe, mais l'Europe qui doit s'adapter à l'islam."
+    },
+    {
+      "id": 171,
+      "start": 750.5,
+      "end": 754.7,
+      "start_timestamp": "00:12:30.500",
+      "end_timestamp": "00:12:34.700",
+      "text": "C'est un concept porté notamment par un certain Tariq Ramadan."
+    },
+    {
+      "id": 172,
+      "start": 754.7,
+      "end": 760.42,
+      "start_timestamp": "00:12:34.700",
+      "end_timestamp": "00:12:40.420",
+      "text": "Et si je vous ai longuement parlé de l'OCI, sachez que ce n'est pas la seule organisation islamique en Europe."
+    },
+    {
+      "id": 173,
+      "start": 760.42,
+      "end": 766.02,
+      "start_timestamp": "00:12:40.420",
+      "end_timestamp": "00:12:46.020",
+      "text": "Parmi les plus importantes, il y a la FOI, Fédération des organisations islamiques en Europe,"
+    },
+    {
+      "id": 174,
+      "start": 766.02,
+      "end": 772.78,
+      "start_timestamp": "00:12:46.020",
+      "end_timestamp": "00:12:52.780",
+      "text": "fondée en 1989, au moment de l'affaire Salman Rushdie, justement, mais aussi des foulards de craie."
+    },
+    {
+      "id": 175,
+      "start": 772.78,
+      "end": 780.42,
+      "start_timestamp": "00:12:52.780",
+      "end_timestamp": "00:13:00.420",
+      "text": "Ou donc, pour vous la faire courte, cette année-là, dans un collège, trois élèves refusent d'enlever leur voile et finissent par se faire exclure,"
+    },
+    {
+      "id": 176,
+      "start": 780.42,
+      "end": 782.54,
+      "start_timestamp": "00:13:00.420",
+      "end_timestamp": "00:13:02.540",
+      "text": "qui va déclencher un énorme scandale."
+    },
+    {
+      "id": 177,
+      "start": 782.54,
+      "end": 792.02,
+      "start_timestamp": "00:13:02.540",
+      "end_timestamp": "00:13:12.020",
+      "text": "Bref, le but de la FOI est officiellement de préserver l'identité musulmane et préparer les musulmans à jouer un rôle civilisateur dans les patries européennes."
+    },
+    {
+      "id": 178,
+      "start": 792.02,
+      "end": 798.42,
+      "start_timestamp": "00:13:12.020",
+      "end_timestamp": "00:13:18.420",
+      "text": "Et l'organisation est toujours restée très évasive sur ses origines, parce qu'à la base, elle vient des frères musulmans,"
+    },
+    {
+      "id": 179,
+      "start": 798.42,
+      "end": 803.5,
+      "start_timestamp": "00:13:18.420",
+      "end_timestamp": "00:13:23.500",
+      "text": "mais elle va mettre un point d'honneur à brouiller les pistes, jusqu'au 29 janvier 2017,"
+    },
+    {
+      "id": 180,
+      "start": 803.5,
+      "end": 810.86,
+      "start_timestamp": "00:13:23.500",
+      "end_timestamp": "00:13:30.860",
+      "text": "date à laquelle un journal égyptien a rapporté que les membres de la FOI avaient voté la séparation officielle avec les frères musulmans."
+    },
+    {
+      "id": 181,
+      "start": 810.86,
+      "end": 818.82,
+      "start_timestamp": "00:13:30.860",
+      "end_timestamp": "00:13:38.820",
+      "text": "En 1996, la FOI crée le FEMIZO, une organisation qui, pour le coup, nie catégoriquement ses liens avec les frères musulmans,"
+    },
+    {
+      "id": 182,
+      "start": 818.82,
+      "end": 822.02,
+      "start_timestamp": "00:13:38.820",
+      "end_timestamp": "00:13:42.020",
+      "text": "bien qu'elle en partage à la fois l'idéologie et le vocabulaire."
+    },
+    {
+      "id": 183,
+      "start": 822.02,
+      "end": 826.58,
+      "start_timestamp": "00:13:42.020",
+      "end_timestamp": "00:13:46.580",
+      "text": "Et le FEMIZO va faire de la lutte contre l'islamophobie son cheval de bataille."
+    },
+    {
+      "id": 184,
+      "start": 826.58,
+      "end": 830.46,
+      "start_timestamp": "00:13:46.580",
+      "end_timestamp": "00:13:50.460",
+      "text": "La lutte contre l'islamophobie est le prétexte de son activisme politique."
+    },
+    {
+      "id": 185,
+      "start": 830.46,
+      "end": 835.26,
+      "start_timestamp": "00:13:50.460",
+      "end_timestamp": "00:13:55.260",
+      "text": "Elle sert à justifier ses actions du point de vue des valeurs et sert de bouclier victimaire,"
+    },
+    {
+      "id": 186,
+      "start": 835.26,
+      "end": 838.82,
+      "start_timestamp": "00:13:55.260",
+      "end_timestamp": "00:13:58.820",
+      "text": "chaque fois que ses activités politiques religieuses sont dénoncées."
+    },
+    {
+      "id": 187,
+      "start": 838.82,
+      "end": 845.7,
+      "start_timestamp": "00:13:58.820",
+      "end_timestamp": "00:14:05.700",
+      "text": "En fait, les frères musulmans ont compris assez vite le pouvoir du victimisme pour faire plier les démocraties occidentales."
+    },
+    {
+      "id": 188,
+      "start": 845.7,
+      "end": 852.46,
+      "start_timestamp": "00:14:05.700",
+      "end_timestamp": "00:14:12.460",
+      "text": "Je définis ici le victimisme comme l'art de susciter une émotion collective de soutien d'un groupe désigné comme victime"
+    },
+    {
+      "id": 189,
+      "start": 852.46,
+      "end": 859.74,
+      "start_timestamp": "00:14:12.460",
+      "end_timestamp": "00:14:19.740",
+      "text": "pour obtenir de son prédateur, réel ou supposé, davantage unilatéral, souvent au prétexte de réparation."
+    },
+    {
+      "id": 190,
+      "start": 859.74,
+      "end": 865.74,
+      "start_timestamp": "00:14:19.740",
+      "end_timestamp": "00:14:25.740",
+      "text": "A noter que le FEMIZO est soutenu financièrement par l'Union européenne."
+    },
+    {
+      "id": 191,
+      "start": 865.74,
+      "end": 870.06,
+      "start_timestamp": "00:14:25.740",
+      "end_timestamp": "00:14:30.060",
+      "text": "L'islamophobie, c'est une notion extrêmement floue et imprécise."
+    },
+    {
+      "id": 192,
+      "start": 870.06,
+      "end": 872.94,
+      "start_timestamp": "00:14:30.060",
+      "end_timestamp": "00:14:32.940",
+      "text": "Et si elle est fréquemment utilisée, c'est pour deux raisons."
+    },
+    {
+      "id": 193,
+      "start": 872.94,
+      "end": 879.74,
+      "start_timestamp": "00:14:32.940",
+      "end_timestamp": "00:14:39.740",
+      "text": "D'une part, l'instauration d'un délit de blasphème et d'autre part, l'affirmation de l'identité musulmane à travers la Houma."
+    },
+    {
+      "id": 194,
+      "start": 879.74,
+      "end": 885.1,
+      "start_timestamp": "00:14:39.740",
+      "end_timestamp": "00:14:45.100",
+      "text": "Après l'affaire à Salman Rushdie, on a considéré que l'offense avait été faite aux musulmans."
+    },
+    {
+      "id": 195,
+      "start": 885.1,
+      "end": 887.66,
+      "start_timestamp": "00:14:45.100",
+      "end_timestamp": "00:14:47.660",
+      "text": "Il n'était pas question de race ou de groupes ethniques."
+    },
+    {
+      "id": 196,
+      "start": 887.66,
+      "end": 895.1,
+      "start_timestamp": "00:14:47.660",
+      "end_timestamp": "00:14:55.100",
+      "text": "On n'a pas dit que des asiatiques ou des arabes ou des maghrébins avaient été offensés, mais bien que ce sont les musulmans qui avaient été offensés."
+    },
+    {
+      "id": 197,
+      "start": 895.1,
+      "end": 899.66,
+      "start_timestamp": "00:14:55.100",
+      "end_timestamp": "00:14:59.660",
+      "text": "De là est née l'idée qu'il existerait une discrimination spécifique aux musulmans."
+    },
+    {
+      "id": 198,
+      "start": 899.66,
+      "end": 904.3,
+      "start_timestamp": "00:14:59.660",
+      "end_timestamp": "00:15:04.300",
+      "text": "Jusque-là n'était considéré comme base de discrimination que la couleur de la peau ou la race."
+    },
+    {
+      "id": 199,
+      "start": 904.3,
+      "end": 910.78,
+      "start_timestamp": "00:15:04.300",
+      "end_timestamp": "00:15:10.780",
+      "text": "Depuis, la culture, la langue, les coutumes ou la religion peuvent également être considérés comme base de discrimination."
+    },
+    {
+      "id": 200,
+      "start": 910.78,
+      "end": 918.3,
+      "start_timestamp": "00:15:10.780",
+      "end_timestamp": "00:15:18.300",
+      "text": "Progressivement, on commence à considérer que le problème de la discrimination ne peut pas être résolu par une participation démocratique de masse,"
+    },
+    {
+      "id": 201,
+      "start": 918.3,
+      "end": 922.78,
+      "start_timestamp": "00:15:18.300",
+      "end_timestamp": "00:15:22.780",
+      "text": "mais plutôt par l'intervention ciblée de leaders d'opinion, d'influenceurs et de médias."
+    },
+    {
+      "id": 202,
+      "start": 922.78,
+      "end": 928.94,
+      "start_timestamp": "00:15:22.780",
+      "end_timestamp": "00:15:28.940",
+      "text": "L'idée, c'est de changer le regard que l'on pose sur l'islam, plutôt que de toucher aux pratiques de l'islam elle-même."
+    },
+    {
+      "id": 203,
+      "start": 928.94,
+      "end": 934.14,
+      "start_timestamp": "00:15:28.940",
+      "end_timestamp": "00:15:34.140",
+      "text": "Ce n'est pas à l'islam de s'adapter à l'Europe, mais bien à l'Europe de s'adapter à l'islam."
+    },
+    {
+      "id": 204,
+      "start": 934.14,
+      "end": 938.06,
+      "start_timestamp": "00:15:34.140",
+      "end_timestamp": "00:15:38.060",
+      "text": "Mais penchons-nous du côté de la définition officielle de l'islamophobie."
+    },
+    {
+      "id": 205,
+      "start": 938.06,
+      "end": 941.74,
+      "start_timestamp": "00:15:38.060",
+      "end_timestamp": "00:15:41.740",
+      "text": "Selon l'ONU, qui a repris en 2008 la définition de la CBMI."
+    },
+    {
+      "id": 206,
+      "start": 941.74,
+      "end": 946.7,
+      "start_timestamp": "00:15:41.740",
+      "end_timestamp": "00:15:46.700",
+      "text": "L'islamophobie désigne une hostilité et une crainte sans fondement envers l'islam,"
+    },
+    {
+      "id": 207,
+      "start": 946.7,
+      "end": 951.98,
+      "start_timestamp": "00:15:46.700",
+      "end_timestamp": "00:15:51.980",
+      "text": "et par conséquent, une crainte et une inversion envers tous les musulmans ou la majorité d'entre eux."
+    },
+    {
+      "id": 208,
+      "start": 951.98,
+      "end": 957.42,
+      "start_timestamp": "00:15:51.980",
+      "end_timestamp": "00:15:57.420",
+      "text": "Et ça en réalité, c'est extrêmement problématique et flou, notamment parce que c'est une vision totalisante."
+    },
+    {
+      "id": 209,
+      "start": 957.42,
+      "end": 959.9,
+      "start_timestamp": "00:15:57.420",
+      "end_timestamp": "00:15:59.900",
+      "text": "Tout peut être considéré comme islamophobe."
+    },
+    {
+      "id": 210,
+      "start": 959.9,
+      "end": 964.62,
+      "start_timestamp": "00:15:59.900",
+      "end_timestamp": "00:16:04.620",
+      "text": "Le musulman est susceptible de connaître l'islamophobie dans tous les gestes de sa vie."
+    },
+    {
+      "id": 211,
+      "start": 964.62,
+      "end": 968.14,
+      "start_timestamp": "00:16:04.620",
+      "end_timestamp": "00:16:08.140",
+      "text": "Et ça, pour les musulmans, ça crée un rapport au monde très anxiogène."
+    },
+    {
+      "id": 212,
+      "start": 968.14,
+      "end": 975.98,
+      "start_timestamp": "00:16:08.140",
+      "end_timestamp": "00:16:15.980",
+      "text": "Parce que ça veut dire que celui qui n'aime pas une partie ou une proposition de l'islam est, si on en suit cette définition, islamophobe."
+    },
+    {
+      "id": 213,
+      "start": 975.98,
+      "end": 984.62,
+      "start_timestamp": "00:16:15.980",
+      "end_timestamp": "00:16:24.620",
+      "text": "Ce qu'une telle définition de l'islamophobie pousse à faire, c'est d'accepter l'islam dans son intégralité, sous menace d'être accusé d'islamophobie."
+    },
+    {
+      "id": 214,
+      "start": 984.62,
+      "end": 994.7,
+      "start_timestamp": "00:16:24.620",
+      "end_timestamp": "00:16:34.700",
+      "text": "Voyez un peu comme c'est vicieux le glissement qui s'opère entre la protection d'une communauté et l'imposition forcée de la vision du monde, de cette communauté, au reste du monde."
+    },
+    {
+      "id": 215,
+      "start": 994.7,
+      "end": 1001.9,
+      "start_timestamp": "00:16:34.700",
+      "end_timestamp": "00:16:41.900",
+      "text": "Et si ce concept d'islamophobie fonctionne aussi bien, c'est parce qu'il amalgame le rejet de l'islam et le rejet des musulmans."
+    },
+    {
+      "id": 216,
+      "start": 1001.9,
+      "end": 1005.9,
+      "start_timestamp": "00:16:41.900",
+      "end_timestamp": "00:16:45.900",
+      "text": "Donc d'un côté le rejet d'une idée et de l'autre le rejet d'individus."
+    },
+    {
+      "id": 217,
+      "start": 1005.9,
+      "end": 1008.86,
+      "start_timestamp": "00:16:45.900",
+      "end_timestamp": "00:16:48.860",
+      "text": "Et ça, c'est un tour de passe-passe assez exceptionnel."
+    },
+    {
+      "id": 218,
+      "start": 1008.94,
+      "end": 1017.42,
+      "start_timestamp": "00:16:48.940",
+      "end_timestamp": "00:16:57.420",
+      "text": "Le sentiment anti-islam se confond avec le sentiment anti-musulman, parce que les musulmans se sentent offensés quand on critique l'islam."
+    },
+    {
+      "id": 219,
+      "start": 1017.42,
+      "end": 1022.14,
+      "start_timestamp": "00:16:57.420",
+      "end_timestamp": "00:17:02.140",
+      "text": "Et grâce à cette logique fallacieuse, l'islam devient incriticable."
+    },
+    {
+      "id": 220,
+      "start": 1022.14,
+      "end": 1027.26,
+      "start_timestamp": "00:17:02.140",
+      "end_timestamp": "00:17:07.260",
+      "text": "Et rappelez-vous, quand le musulman est offensé, il est dans une situation de légitime défense."
+    },
+    {
+      "id": 221,
+      "start": 1027.26,
+      "end": 1030.06,
+      "start_timestamp": "00:17:07.260",
+      "end_timestamp": "00:17:10.060",
+      "text": "À partir de là, on peut donc justifier la violence."
+    },
+    {
+      "id": 222,
+      "start": 1030.06,
+      "end": 1035.82,
+      "start_timestamp": "00:17:10.060",
+      "end_timestamp": "00:17:15.820",
+      "text": "C'est donc à l'occident de s'adapter pour éviter que les musulmans offensés ne deviennent violents."
+    },
+    {
+      "id": 223,
+      "start": 1035.82,
+      "end": 1040.06,
+      "start_timestamp": "00:17:15.820",
+      "end_timestamp": "00:17:20.060",
+      "text": "Alors si ce sont bien les frères musulmans qui ont imposé le concept d'islamophobie,"
+    },
+    {
+      "id": 224,
+      "start": 1040.06,
+      "end": 1043.42,
+      "start_timestamp": "00:17:20.060",
+      "end_timestamp": "00:17:23.420",
+      "text": "ce ne sont pas eux qui ont été les plus efficaces pour le propager."
+    },
+    {
+      "id": 225,
+      "start": 1043.42,
+      "end": 1051.9,
+      "start_timestamp": "00:17:23.420",
+      "end_timestamp": "00:17:31.900",
+      "text": "Au début des années 2000, l'open society du milliardaire Georges Soros va jouer un rôle très important dans la diffusion du terme d'islamophobie."
+    },
+    {
+      "id": 226,
+      "start": 1051.9,
+      "end": 1055.18,
+      "start_timestamp": "00:17:31.900",
+      "end_timestamp": "00:17:35.180",
+      "text": "Il va financer de nombreuses études sur le problème musulman."
+    },
+    {
+      "id": 227,
+      "start": 1055.18,
+      "end": 1061.82,
+      "start_timestamp": "00:17:35.180",
+      "end_timestamp": "00:17:41.820",
+      "text": "Et ces études étaient destinées aux politiques européennes pour créer une société plus inclusive."
+    },
+    {
+      "id": 228,
+      "start": 1061.82,
+      "end": 1067.1,
+      "start_timestamp": "00:17:41.820",
+      "end_timestamp": "00:17:47.100",
+      "text": "Or, le rapport de Tufial Shandouri a tout d'un manuel des frères musulmans."
+    },
+    {
+      "id": 229,
+      "start": 1067.1,
+      "end": 1072.14,
+      "start_timestamp": "00:17:47.100",
+      "end_timestamp": "00:17:52.140",
+      "text": "À la base, Shandouri s'intéresse à la question de la lutte contre la radicalisation."
+    },
+    {
+      "id": 230,
+      "start": 1072.14,
+      "end": 1078.7,
+      "start_timestamp": "00:17:52.140",
+      "end_timestamp": "00:17:58.700",
+      "text": "Et l'idée qu'il va promouvoir via l'open society, c'est que si les musulmans ne coopèrent pas plus contre l'islamisme,"
+    },
+    {
+      "id": 231,
+      "start": 1078.7,
+      "end": 1083.82,
+      "start_timestamp": "00:17:58.700",
+      "end_timestamp": "00:18:03.820",
+      "text": "c'est parce que les forces de police antiterroristes ne seraient pas dignes de confiance."
+    },
+    {
+      "id": 232,
+      "start": 1083.82,
+      "end": 1088.62,
+      "start_timestamp": "00:18:03.820",
+      "end_timestamp": "00:18:08.620",
+      "text": "Sa solution va donc consister à donner plus d'autonomie politique aux musulmans."
+    },
+    {
+      "id": 233,
+      "start": 1088.62,
+      "end": 1091.66,
+      "start_timestamp": "00:18:08.620",
+      "end_timestamp": "00:18:11.660",
+      "text": "En clair, c'est exactement ce que veulent les frères musulmans."
+    },
+    {
+      "id": 234,
+      "start": 1091.66,
+      "end": 1097.5,
+      "start_timestamp": "00:18:11.660",
+      "end_timestamp": "00:18:17.500",
+      "text": "Donc sous prétexte de lutte contre la radicalisation, on va promouvoir l'éducation non mixte,"
+    },
+    {
+      "id": 235,
+      "start": 1097.5,
+      "end": 1102.54,
+      "start_timestamp": "00:18:17.500",
+      "end_timestamp": "00:18:22.540",
+      "text": "faciliter les pratiques islamiques dans l'espace public, autoriser le port de vêtements religieux,"
+    },
+    {
+      "id": 236,
+      "start": 1102.54,
+      "end": 1110.62,
+      "start_timestamp": "00:18:22.540",
+      "end_timestamp": "00:18:30.620",
+      "text": "et surtout favoriser les autorités religieuses qui seraient les seules à même d'encourager les musulmans à affronter les groupes extrémistes."
+    },
+    {
+      "id": 237,
+      "start": 1110.62,
+      "end": 1114.46,
+      "start_timestamp": "00:18:30.620",
+      "end_timestamp": "00:18:34.460",
+      "text": "Et ça, c'est la révélation la plus terrible qui soit."
+    },
+    {
+      "id": 238,
+      "start": 1114.46,
+      "end": 1121.58,
+      "start_timestamp": "00:18:34.460",
+      "end_timestamp": "00:18:41.580",
+      "text": "Parce que ça veut dire que le terrorisme et la violence font bel et bien avancer l'agenda islamiste."
+    },
+    {
+      "id": 239,
+      "start": 1122.06,
+      "end": 1127.02,
+      "start_timestamp": "00:18:42.060",
+      "end_timestamp": "00:18:47.020",
+      "text": "Donc l'islamophobie est un instrument de promotion de l'islam fondamentaliste, c'est un fait."
+    },
+    {
+      "id": 240,
+      "start": 1127.02,
+      "end": 1134.38,
+      "start_timestamp": "00:18:47.020",
+      "end_timestamp": "00:18:54.380",
+      "text": "Or, ce concept empêche de réellement se pencher sur les discriminations qui seraient subies spécifiquement par les personnes musulmanes."
+    },
+    {
+      "id": 241,
+      "start": 1134.38,
+      "end": 1141.58,
+      "start_timestamp": "00:18:54.380",
+      "end_timestamp": "00:19:01.580",
+      "text": "Or, méthodologiquement, cela implique d'isoler la caractéristique musulman de toutes les autres de l'individu étudié."
+    },
+    {
+      "id": 242,
+      "start": 1141.58,
+      "end": 1148.38,
+      "start_timestamp": "00:19:01.580",
+      "end_timestamp": "00:19:08.380",
+      "text": "Pour éviter d'avoir à enquêter sérieusement sur cette question complexe, les promoteurs du concept emploient un subterfuge."
+    },
+    {
+      "id": 243,
+      "start": 1148.38,
+      "end": 1156.46,
+      "start_timestamp": "00:19:08.380",
+      "end_timestamp": "00:19:16.460",
+      "text": "Ils définissent l'islamophobie ou la haine anti-musulmane comme une discrimination envers les musulmans ou ceux supposés tels."
+    },
+    {
+      "id": 244,
+      "start": 1156.46,
+      "end": 1161.1,
+      "start_timestamp": "00:19:16.460",
+      "end_timestamp": "00:19:21.100",
+      "text": "Ainsi, désapprouver une pratique devient immédiatement un acte islamophobe."
+    },
+    {
+      "id": 245,
+      "start": 1161.1,
+      "end": 1169.34,
+      "start_timestamp": "00:19:21.100",
+      "end_timestamp": "00:19:29.340",
+      "text": "Typiquement, refuser le voile dans certains endroits ou refuser de construire une mosquée revient à rejeter l'islam dans son intégralité."
+    },
+    {
+      "id": 246,
+      "start": 1169.34,
+      "end": 1177.02,
+      "start_timestamp": "00:19:29.340",
+      "end_timestamp": "00:19:37.020",
+      "text": "Aujourd'hui, l'accusation d'islamophobie s'est quasiment devenue un réflexe pour certains, une parole non réfléchie, automatique."
+    },
+    {
+      "id": 247,
+      "start": 1177.1,
+      "end": 1182.38,
+      "start_timestamp": "00:19:37.100",
+      "end_timestamp": "00:19:42.380",
+      "text": "Et dans son enquête, Florence Bergeau-Blaquelaire mentionne aussi un point assez peu souvent évoqué."
+    },
+    {
+      "id": 248,
+      "start": 1182.38,
+      "end": 1187.26,
+      "start_timestamp": "00:19:42.380",
+      "end_timestamp": "00:19:47.260",
+      "text": "C'est le fait que la recherche sur l'islamophobie, donc ce concept extrêmement vague,"
+    },
+    {
+      "id": 249,
+      "start": 1187.26,
+      "end": 1193.5,
+      "start_timestamp": "00:19:47.260",
+      "end_timestamp": "00:19:53.500",
+      "text": "prend énormément de ressources aux études sur l'islam en tant que fait social, religieux et politique."
+    },
+    {
+      "id": 250,
+      "start": 1193.5,
+      "end": 1201.58,
+      "start_timestamp": "00:19:53.500",
+      "end_timestamp": "00:20:01.580",
+      "text": "Donc, en plus de créer la terreur, le concept de l'islamophobie empêche d'étudier sérieusement la question de l'islam."
+    },
+    {
+      "id": 251,
+      "start": 1201.58,
+      "end": 1205.9,
+      "start_timestamp": "00:20:01.580",
+      "end_timestamp": "00:20:05.900",
+      "text": "Et plus le temps passe, moins les chercheurs osent travailler sur l'islam."
+    },
+    {
+      "id": 252,
+      "start": 1205.9,
+      "end": 1209.98,
+      "start_timestamp": "00:20:05.900",
+      "end_timestamp": "00:20:09.980",
+      "text": "À cause justement de cette crainte d'être traité d'islamophobe."
+    },
+    {
+      "id": 253,
+      "start": 1209.98,
+      "end": 1217.58,
+      "start_timestamp": "00:20:09.980",
+      "end_timestamp": "00:20:17.580",
+      "text": "C'est dans le monde académique que ceux qui refusent d'utiliser ce terme imprécis d'islamophobie sont les plus violemment attaqués,"
+    },
+    {
+      "id": 254,
+      "start": 1217.58,
+      "end": 1223.18,
+      "start_timestamp": "00:20:17.580",
+      "end_timestamp": "00:20:23.180",
+      "text": "accusés d'être racistes, islamophobes, à tout le moins de faire le jeu de l'extrême droite."
+    },
+    {
+      "id": 255,
+      "start": 1223.18,
+      "end": 1231.74,
+      "start_timestamp": "00:20:23.180",
+      "end_timestamp": "00:20:31.740",
+      "text": "En 2005, le journal danois Jillian Posten a demandé aux membres du syndicat des illustrateurs de presse de dessiner Mahomet comme il le voyait."
+    },
+    {
+      "id": 256,
+      "start": 1231.82,
+      "end": 1234.46,
+      "start_timestamp": "00:20:31.820",
+      "end_timestamp": "00:20:34.460",
+      "text": "Les 12 dessinateurs ont envoyé leurs dessins."
+    },
+    {
+      "id": 257,
+      "start": 1234.46,
+      "end": 1237.74,
+      "start_timestamp": "00:20:34.460",
+      "end_timestamp": "00:20:37.740",
+      "text": "Résultat, le Danemark a subi un boycott mondial."
+    },
+    {
+      "id": 258,
+      "start": 1237.74,
+      "end": 1243.34,
+      "start_timestamp": "00:20:37.740",
+      "end_timestamp": "00:20:43.340",
+      "text": "Il y a eu des morts dans des manifestations de foules et de nombreuses menaces ont été proférées."
+    },
+    {
+      "id": 259,
+      "start": 1243.34,
+      "end": 1253.02,
+      "start_timestamp": "00:20:43.340",
+      "end_timestamp": "00:20:53.020",
+      "text": "La crainte d'offenser les croyants crée une forme de censure individuelle qui se trouve être beaucoup plus durable et beaucoup plus efficace que la censure officielle."
+    },
+    {
+      "id": 260,
+      "start": 1253.02,
+      "end": 1260.14,
+      "start_timestamp": "00:20:53.020",
+      "end_timestamp": "00:21:00.140",
+      "text": "Et est donc tout à fait logique que les frères musulmans usent et abusent de ce concept tant il est efficace pour faire taire ses opposants"
+    },
+    {
+      "id": 261,
+      "start": 1260.14,
+      "end": 1262.54,
+      "start_timestamp": "00:21:00.140",
+      "end_timestamp": "00:21:02.540",
+      "text": "ou même la simple critique."
+    },
+    {
+      "id": 262,
+      "start": 1262.54,
+      "end": 1269.5,
+      "start_timestamp": "00:21:02.540",
+      "end_timestamp": "00:21:09.500",
+      "text": "Et si ce genre de compromis est fait de plus en plus souvent, c'est en bonne partie parce que le vote musulman est extrêmement important."
+    },
+    {
+      "id": 263,
+      "start": 1269.5,
+      "end": 1274.06,
+      "start_timestamp": "00:21:09.500",
+      "end_timestamp": "00:21:14.060",
+      "text": "À Bruxelles par exemple, on ne peut pas gagner une élection sans le vote musulman."
+    },
+    {
+      "id": 264,
+      "start": 1274.06,
+      "end": 1280.46,
+      "start_timestamp": "00:21:14.060",
+      "end_timestamp": "00:21:20.460",
+      "text": "Mais le Conseil de l'Europe a lui aussi joué un rôle important dans la propagation du concept d'islamophobie,"
+    },
+    {
+      "id": 265,
+      "start": 1280.46,
+      "end": 1288.7,
+      "start_timestamp": "00:21:20.460",
+      "end_timestamp": "00:21:28.700",
+      "text": "et notamment à travers des recommandations, ne pas offenser les religieux et leurs fidèles et lutter contre les discours de haine sur les réseaux sociaux."
+    },
+    {
+      "id": 266,
+      "start": 1288.7,
+      "end": 1293.5,
+      "start_timestamp": "00:21:28.700",
+      "end_timestamp": "00:21:33.500",
+      "text": "Le Conseil de l'Europe encourage notamment les pays à s'adresser aux communautés religieuses,"
+    },
+    {
+      "id": 267,
+      "start": 1293.5,
+      "end": 1299.26,
+      "start_timestamp": "00:21:33.500",
+      "end_timestamp": "00:21:39.260",
+      "text": "en leur disant notamment que les musulmans sont chez eux en Europe puisqu'ils y sont présents depuis des siècles."
+    },
+    {
+      "id": 268,
+      "start": 1299.26,
+      "end": 1303.66,
+      "start_timestamp": "00:21:39.260",
+      "end_timestamp": "00:21:43.660",
+      "text": "Bon, c'est une affirmation que l'on retrouve dans une recommandation du Conseil de 2010."
+    },
+    {
+      "id": 269,
+      "start": 1303.66,
+      "end": 1309.9,
+      "start_timestamp": "00:21:43.660",
+      "end_timestamp": "00:21:49.900",
+      "text": "Et ce qu'il y a d'incroyable, c'est qu'à chaque attaque faite au nom de l'islam, on multiplie ce genre de déclaration."
+    },
+    {
+      "id": 270,
+      "start": 1309.9,
+      "end": 1315.5,
+      "start_timestamp": "00:21:49.900",
+      "end_timestamp": "00:21:55.500",
+      "text": "En fait, plus l'islam est meurtrier et plus on appelle à être tolérant envers lui."
+    },
+    {
+      "id": 271,
+      "start": 1315.5,
+      "end": 1321.74,
+      "start_timestamp": "00:21:55.500",
+      "end_timestamp": "00:22:01.740",
+      "text": "Pour ce qui est du discours de haine sur les réseaux sociaux, en 2013 est lancé le No Hate Speech Movement."
+    },
+    {
+      "id": 272,
+      "start": 1321.74,
+      "end": 1329.18,
+      "start_timestamp": "00:22:01.740",
+      "end_timestamp": "00:22:09.180",
+      "text": "Parmi les organismes qui luttent contre la haine en ligne, on retrouve le FEMISO, une association dont je vous ai parlé en début de vidéo."
+    },
+    {
+      "id": 273,
+      "start": 1329.18,
+      "end": 1332.62,
+      "start_timestamp": "00:22:09.180",
+      "end_timestamp": "00:22:12.620",
+      "text": "Voici ce que le Conseil de l'Europe définit comme le discours de haine."
+    },
+    {
+      "id": 274,
+      "start": 1345.9,
+      "end": 1351.18,
+      "start_timestamp": "00:22:25.900",
+      "end_timestamp": "00:22:31.180",
+      "text": "Depuis 2014, l'islamophobie est même officiellement reconnue comme une forme de racisme,"
+    },
+    {
+      "id": 275,
+      "start": 1351.18,
+      "end": 1355.5,
+      "start_timestamp": "00:22:31.180",
+      "end_timestamp": "00:22:35.500",
+      "text": "ce qui oblige donc l'Union Européenne à prendre des mesures à son encontre."
+    },
+    {
+      "id": 276,
+      "start": 1355.5,
+      "end": 1360.7,
+      "start_timestamp": "00:22:35.500",
+      "end_timestamp": "00:22:40.700",
+      "text": "Le 21 septembre est même la journée d'action contre l'islamophobie et l'intolérance religieuse."
+    },
+    {
+      "id": 277,
+      "start": 1360.7,
+      "end": 1366.3,
+      "start_timestamp": "00:22:40.700",
+      "end_timestamp": "00:22:46.300",
+      "text": "Le 28 octobre 2021 a d'ailleurs été lancé une campagne anti-discrimination sur Twitter."
+    },
+    {
+      "id": 278,
+      "start": 1366.3,
+      "end": 1371.9,
+      "start_timestamp": "00:22:46.300",
+      "end_timestamp": "00:22:51.900",
+      "text": "L'idée c'était de banaliser le port du pays, de ne pas faire de bataille, de ne pas faire de bataille."
+    },
+    {
+      "id": 279,
+      "start": 1371.9,
+      "end": 1379.98,
+      "start_timestamp": "00:22:51.900",
+      "end_timestamp": "00:22:59.980",
+      "text": "L'idée c'était de banaliser le port du hijab, de lutter pour qu'il soit considéré comme un simple vêtement."
+    },
+    {
+      "id": 280,
+      "start": 1379.98,
+      "end": 1384.62,
+      "start_timestamp": "00:22:59.980",
+      "end_timestamp": "00:23:04.620",
+      "text": "Évidemment, beaucoup ont relevé déjà à l'époque que dans certains pays musulmans,"
+    },
+    {
+      "id": 281,
+      "start": 1384.62,
+      "end": 1389.58,
+      "start_timestamp": "00:23:04.620",
+      "end_timestamp": "00:23:09.580",
+      "text": "ne pas porter le hijab pouvait conduire une femme à être violée, brûlée ou tuée."
+    },
+    {
+      "id": 282,
+      "start": 1389.58,
+      "end": 1394.94,
+      "start_timestamp": "00:23:09.580",
+      "end_timestamp": "00:23:14.940",
+      "text": "La campagne disait reposer sur les conclusions d'un rapport de l'ONU qui s'appelait"
+    },
+    {
+      "id": 283,
+      "start": 1394.94,
+      "end": 1400.62,
+      "start_timestamp": "00:23:14.940",
+      "end_timestamp": "00:23:20.620",
+      "text": "« La liberté de religion et de conviction sur la haine anti-musulmane et l'islamophobie »."
+    },
+    {
+      "id": 284,
+      "start": 1400.7,
+      "end": 1406.46,
+      "start_timestamp": "00:23:20.700",
+      "end_timestamp": "00:23:26.460",
+      "text": "Ce rapport parlait d'une augmentation des actes anti-musulmans et tout particulièrement à l'encontre des femmes."
+    },
+    {
+      "id": 285,
+      "start": 1406.46,
+      "end": 1411.02,
+      "start_timestamp": "00:23:26.460",
+      "end_timestamp": "00:23:31.020",
+      "text": "Mais en y regardant de plus près, Bergeau-Blackler s'est aperçu que ces recommandations de l'ONU"
+    },
+    {
+      "id": 286,
+      "start": 1411.02,
+      "end": 1414.46,
+      "start_timestamp": "00:23:31.020",
+      "end_timestamp": "00:23:34.460",
+      "text": "venaient en fait du conseil de l'Europe lui-même."
+    },
+    {
+      "id": 287,
+      "start": 1414.46,
+      "end": 1420.7,
+      "start_timestamp": "00:23:34.460",
+      "end_timestamp": "00:23:40.700",
+      "text": "C'est-à-dire des rapports produits par des organisations de lutte contre l'islamophobie elle-même."
+    },
+    {
+      "id": 288,
+      "start": 1420.7,
+      "end": 1425.98,
+      "start_timestamp": "00:23:40.700",
+      "end_timestamp": "00:23:45.980",
+      "text": "Il s'agissait en fait de diffuser la propagande frériste sous les couleurs de l'Europe."
+    },
+    {
+      "id": 289,
+      "start": 1425.98,
+      "end": 1430.86,
+      "start_timestamp": "00:23:45.980",
+      "end_timestamp": "00:23:50.860",
+      "text": "Alors vous vous dites peut-être, bon mais c'était quand même dans le but d'empêcher des actes anti-musulmans"
+    },
+    {
+      "id": 290,
+      "start": 1430.86,
+      "end": 1432.62,
+      "start_timestamp": "00:23:50.860",
+      "end_timestamp": "00:23:52.620",
+      "text": "et contre des femmes en plus."
+    },
+    {
+      "id": 291,
+      "start": 1432.62,
+      "end": 1437.42,
+      "start_timestamp": "00:23:52.620",
+      "end_timestamp": "00:23:57.420",
+      "text": "Et quand on entend « acte anti-musulmane », on pense immédiatement à des actes de violence."
+    },
+    {
+      "id": 292,
+      "start": 1437.42,
+      "end": 1441.34,
+      "start_timestamp": "00:23:57.420",
+      "end_timestamp": "00:24:01.340",
+      "text": "On imagine forcément des femmes voilées qui se font attaquer, agresser, etc."
+    },
+    {
+      "id": 293,
+      "start": 1441.34,
+      "end": 1443.18,
+      "start_timestamp": "00:24:01.340",
+      "end_timestamp": "00:24:03.180",
+      "text": "Mais ce n'est pas le cas."
+    },
+    {
+      "id": 294,
+      "start": 1443.18,
+      "end": 1448.22,
+      "start_timestamp": "00:24:03.180",
+      "end_timestamp": "00:24:08.220",
+      "text": "L'agression islamophobe dont il était question ici, c'était les restrictions"
+    },
+    {
+      "id": 295,
+      "start": 1448.22,
+      "end": 1453.57,
+      "start_timestamp": "00:24:08.220",
+      "end_timestamp": "00:24:13.570",
+      "text": "aux couvre-chefs musulmans au nom de la laïcité."
+    },
+    {
+      "id": 296,
+      "start": 1453.57,
+      "end": 1458.69,
+      "start_timestamp": "00:24:13.570",
+      "end_timestamp": "00:24:18.690",
+      "text": "En clair, la laïcité elle-même devient une agression islamophobe."
+    },
+    {
+      "id": 297,
+      "start": 1458.69,
+      "end": 1462.69,
+      "start_timestamp": "00:24:18.690",
+      "end_timestamp": "00:24:22.690",
+      "text": "Le respect des lois d'un pays devient islamophobe."
+    },
+    {
+      "id": 298,
+      "start": 1462.69,
+      "end": 1465.01,
+      "start_timestamp": "00:24:22.690",
+      "end_timestamp": "00:24:25.010",
+      "text": "Est-ce que vous saisissez l'arnaque ?"
+    },
+    {
+      "id": 299,
+      "start": 1465.01,
+      "end": 1470.85,
+      "start_timestamp": "00:24:25.010",
+      "end_timestamp": "00:24:30.850",
+      "text": "Ce rapport produit par des organisations puissantes ou prestigieuses comme l'ONU ou le conseil de l'Europe"
+    },
+    {
+      "id": 300,
+      "start": 1470.85,
+      "end": 1474.61,
+      "start_timestamp": "00:24:30.850",
+      "end_timestamp": "00:24:34.610",
+      "text": "donne à la notion d'islamophobie une résonance toujours plus large"
+    },
+    {
+      "id": 301,
+      "start": 1474.61,
+      "end": 1478.69,
+      "start_timestamp": "00:24:34.610",
+      "end_timestamp": "00:24:38.690",
+      "text": "et contribue à l'idée qu'elle correspond à une réalité incontestable."
+    },
+    {
+      "id": 302,
+      "start": 1480.21,
+      "end": 1483.25,
+      "start_timestamp": "00:24:40.210",
+      "end_timestamp": "00:24:43.250",
+      "text": "Ce qui caractérise le mieux la stratégie des frères musulmans,"
+    },
+    {
+      "id": 303,
+      "start": 1483.25,
+      "end": 1485.09,
+      "start_timestamp": "00:24:43.250",
+      "end_timestamp": "00:24:45.090",
+      "text": "c'est qu'ils ne prennent jamais de décision."
+    },
+    {
+      "id": 304,
+      "start": 1485.09,
+      "end": 1488.13,
+      "start_timestamp": "00:24:45.090",
+      "end_timestamp": "00:24:48.130",
+      "text": "Cependant, ils savent saisir les opportunités qui s'offrent à eux."
+    },
+    {
+      "id": 305,
+      "start": 1488.13,
+      "end": 1490.13,
+      "start_timestamp": "00:24:48.130",
+      "end_timestamp": "00:24:50.130",
+      "text": "Et c'est ainsi que dans les années 90,"
+    },
+    {
+      "id": 306,
+      "start": 1490.13,
+      "end": 1495.73,
+      "start_timestamp": "00:24:50.130",
+      "end_timestamp": "00:24:55.730",
+      "text": "alors que le parti socialiste perd son électorat ouvrier qui se réfugie vers la droite populiste,"
+    },
+    {
+      "id": 307,
+      "start": 1495.73,
+      "end": 1501.33,
+      "start_timestamp": "00:24:55.730",
+      "end_timestamp": "00:25:01.330",
+      "text": "la gauche va combler ce vide avec les minorités sexuelles et les immigrés et descendants d'immigrés."
+    },
+    {
+      "id": 308,
+      "start": 1501.33,
+      "end": 1507.09,
+      "start_timestamp": "00:25:01.330",
+      "end_timestamp": "00:25:07.090",
+      "text": "C'est une stratégie qui a d'ailleurs été officialisée par le rapport du think tank Terra Nova en 2011."
+    },
+    {
+      "id": 309,
+      "start": 1507.09,
+      "end": 1509.33,
+      "start_timestamp": "00:25:07.090",
+      "end_timestamp": "00:25:09.330",
+      "text": "Les frères musulmans vont s'engouffrer dans la brèche."
+    },
+    {
+      "id": 310,
+      "start": 1509.33,
+      "end": 1512.85,
+      "start_timestamp": "00:25:09.330",
+      "end_timestamp": "00:25:12.850",
+      "text": "Ils vont donc accueillir à bras ouvert l'opportunisme de la gauche"
+    },
+    {
+      "id": 311,
+      "start": 1512.85,
+      "end": 1516.45,
+      "start_timestamp": "00:25:12.850",
+      "end_timestamp": "00:25:16.450",
+      "text": "et jouer à fond, encore une fois, la carte de l'islamophobie."
+    },
+    {
+      "id": 312,
+      "start": 1516.45,
+      "end": 1519.17,
+      "start_timestamp": "00:25:16.450",
+      "end_timestamp": "00:25:19.170",
+      "text": "Ce qu'une partie de la gauche et les frères musulmans partagent,"
+    },
+    {
+      "id": 313,
+      "start": 1519.17,
+      "end": 1520.93,
+      "start_timestamp": "00:25:19.170",
+      "end_timestamp": "00:25:20.930",
+      "text": "c'est la haine de l'Occident."
+    },
+    {
+      "id": 314,
+      "start": 1520.93,
+      "end": 1523.81,
+      "start_timestamp": "00:25:20.930",
+      "end_timestamp": "00:25:23.810",
+      "text": "Et ils vont capitaliser à fond là-dessus."
+    },
+    {
+      "id": 315,
+      "start": 1523.81,
+      "end": 1526.85,
+      "start_timestamp": "00:25:23.810",
+      "end_timestamp": "00:25:26.850",
+      "text": "Dans son ouvrage « Pourquoi j'ai cessé d'être islamiste ? »,"
+    },
+    {
+      "id": 316,
+      "start": 1526.85,
+      "end": 1529.33,
+      "start_timestamp": "00:25:26.850",
+      "end_timestamp": "00:25:29.330",
+      "text": "Farid Abdelkarim dit ceci."
+    },
+    {
+      "id": 317,
+      "start": 1539.33,
+      "end": 1543.17,
+      "start_timestamp": "00:25:39.330",
+      "end_timestamp": "00:25:43.170",
+      "text": "Son matérialisme et sa permissivité, notamment à l'égard des femmes,"
+    },
+    {
+      "id": 318,
+      "start": 1543.17,
+      "end": 1547.09,
+      "start_timestamp": "00:25:43.170",
+      "end_timestamp": "00:25:47.090",
+      "text": "coupables d'avoir démantelé le califat et colonisé les terres de l'islam,"
+    },
+    {
+      "id": 319,
+      "start": 1547.09,
+      "end": 1550.37,
+      "start_timestamp": "00:25:47.090",
+      "end_timestamp": "00:25:50.370",
+      "text": "un discours par conséquent revanchard à l'égard de la France,"
+    },
+    {
+      "id": 320,
+      "start": 1550.37,
+      "end": 1553.09,
+      "start_timestamp": "00:25:50.370",
+      "end_timestamp": "00:25:53.090",
+      "text": "condamnant un néocolonialisme en banlieue,"
+    },
+    {
+      "id": 321,
+      "start": 1553.09,
+      "end": 1559.41,
+      "start_timestamp": "00:25:53.090",
+      "end_timestamp": "00:25:59.410",
+      "text": "convoquant racisme, discrimination et stigmatisation à l'appui de la victimisation des musulmans."
+    },
+    {
+      "id": 322,
+      "start": 1559.41,
+      "end": 1563.89,
+      "start_timestamp": "00:25:59.410",
+      "end_timestamp": "00:26:03.890",
+      "text": "Un discours, enfin, daignant toute responsabilité aux musulmans eux-mêmes,"
+    },
+    {
+      "id": 323,
+      "start": 1563.89,
+      "end": 1568.61,
+      "start_timestamp": "00:26:03.890",
+      "end_timestamp": "00:26:08.610",
+      "text": "mais faisant la part belle hôtesse complotiste et conspirationniste et accablant les juifs."
+    },
+    {
+      "id": 324,
+      "start": 1568.61,
+      "end": 1571.25,
+      "start_timestamp": "00:26:08.610",
+      "end_timestamp": "00:26:11.250",
+      "text": "Les frères musulmans ont instrumentalisé la gauche,"
+    },
+    {
+      "id": 325,
+      "start": 1571.25,
+      "end": 1575.41,
+      "start_timestamp": "00:26:11.250",
+      "end_timestamp": "00:26:15.410",
+      "text": "et leurs outils pour faire ça, ça a été l'altère mondialisme,"
+    },
+    {
+      "id": 326,
+      "start": 1575.41,
+      "end": 1577.81,
+      "start_timestamp": "00:26:15.410",
+      "end_timestamp": "00:26:17.810",
+      "text": "et puis plus tard le mouvement décolonial."
+    },
+    {
+      "id": 327,
+      "start": 1577.81,
+      "end": 1583.65,
+      "start_timestamp": "00:26:17.810",
+      "end_timestamp": "00:26:23.650",
+      "text": "Tariq Ramadan a d'ailleurs été l'une des personnalités les plus actives et les plus influentes"
+    },
+    {
+      "id": 328,
+      "start": 1583.65,
+      "end": 1587.97,
+      "start_timestamp": "00:26:23.650",
+      "end_timestamp": "00:26:27.970",
+      "text": "dans l'infiltration du mouvement altère mondialiste de la fin des années 90."
+    },
+    {
+      "id": 329,
+      "start": 1587.97,
+      "end": 1591.89,
+      "start_timestamp": "00:26:27.970",
+      "end_timestamp": "00:26:31.890",
+      "text": "Le mouvement rassemblait des syndicats de paysans, des écolos féministes,"
+    },
+    {
+      "id": 330,
+      "start": 1591.89,
+      "end": 1595.33,
+      "start_timestamp": "00:26:31.890",
+      "end_timestamp": "00:26:35.330",
+      "text": "et tout s'était rassemblé derrière la grande cause des droits humains"
+    },
+    {
+      "id": 331,
+      "start": 1595.33,
+      "end": 1597.49,
+      "start_timestamp": "00:26:35.330",
+      "end_timestamp": "00:26:37.490",
+      "text": "et de l'universalisme de la solidarité."
+    },
+    {
+      "id": 332,
+      "start": 1597.57,
+      "end": 1601.33,
+      "start_timestamp": "00:26:37.570",
+      "end_timestamp": "00:26:41.330",
+      "text": "Tariq Ramadan va reprendre tous les éléments de langage de l'altère mondialisme,"
+    },
+    {
+      "id": 333,
+      "start": 1601.33,
+      "end": 1606.93,
+      "start_timestamp": "00:26:41.330",
+      "end_timestamp": "00:26:46.930",
+      "text": "mais plus tard il s'en prendra aux intellectuels juifs et ça marquera sa rupture avec le mouvement."
+    },
+    {
+      "id": 334,
+      "start": 1606.93,
+      "end": 1609.41,
+      "start_timestamp": "00:26:46.930",
+      "end_timestamp": "00:26:49.410",
+      "text": "Mais pas avec le décolonialisme."
+    },
+    {
+      "id": 335,
+      "start": 1609.41,
+      "end": 1613.97,
+      "start_timestamp": "00:26:49.410",
+      "end_timestamp": "00:26:53.970",
+      "text": "En 97, un collectif créera la commission Islam et laïcité,"
+    },
+    {
+      "id": 336,
+      "start": 1613.97,
+      "end": 1620.05,
+      "start_timestamp": "00:26:53.970",
+      "end_timestamp": "00:27:00.050",
+      "text": "intellectuels et universitaires vont s'opposer à une gestion directe de l'islam par l'État"
+    },
+    {
+      "id": 337,
+      "start": 1620.05,
+      "end": 1626.53,
+      "start_timestamp": "00:27:00.050",
+      "end_timestamp": "00:27:06.530",
+      "text": "et ils vont dénoncer une forme de laïcité extrémiste qui serait une stratégie du Front National."
+    },
+    {
+      "id": 338,
+      "start": 1626.53,
+      "end": 1630.53,
+      "start_timestamp": "00:27:06.530",
+      "end_timestamp": "00:27:10.530",
+      "text": "Et ces universitaires vont donc prôner une sorte de laïcité ouverte."
+    },
+    {
+      "id": 339,
+      "start": 1630.53,
+      "end": 1633.81,
+      "start_timestamp": "00:27:10.530",
+      "end_timestamp": "00:27:13.810",
+      "text": "C'est le cas notamment d'une certaine Uriah Boutelja"
+    },
+    {
+      "id": 340,
+      "start": 1633.81,
+      "end": 1637.25,
+      "start_timestamp": "00:27:13.810",
+      "end_timestamp": "00:27:17.250",
+      "text": "qui finira par fonder le Parti des Indigènes de la République"
+    },
+    {
+      "id": 341,
+      "start": 1637.25,
+      "end": 1639.97,
+      "start_timestamp": "00:27:17.250",
+      "end_timestamp": "00:27:19.970",
+      "text": "dont le message politique peut être résumé en trois points."
+    },
+    {
+      "id": 342,
+      "start": 1639.97,
+      "end": 1643.89,
+      "start_timestamp": "00:27:19.970",
+      "end_timestamp": "00:27:23.890",
+      "text": "La France a été un État colonial et reste un État colonial,"
+    },
+    {
+      "id": 343,
+      "start": 1643.89,
+      "end": 1647.41,
+      "start_timestamp": "00:27:23.890",
+      "end_timestamp": "00:27:27.410",
+      "text": "l'accusation d'antisémitisme est un complot anti-indigène"
+    },
+    {
+      "id": 344,
+      "start": 1647.41,
+      "end": 1649.89,
+      "start_timestamp": "00:27:27.410",
+      "end_timestamp": "00:27:29.890",
+      "text": "et la lutte contre l'islamisme est un complot."
+    },
+    {
+      "id": 345,
+      "start": 1649.89,
+      "end": 1653.01,
+      "start_timestamp": "00:27:29.890",
+      "end_timestamp": "00:27:33.010",
+      "text": "Si ça vous intéresse, j'ai fait une vidéo sur un de ces livres."
+    },
+    {
+      "id": 346,
+      "start": 1653.09,
+      "end": 1659.33,
+      "start_timestamp": "00:27:33.090",
+      "end_timestamp": "00:27:39.330",
+      "text": "Plus que n'importe quel autre, ils vont jouer à fond, mais vraiment à fond, la carte de la victimisation."
+    },
+    {
+      "id": 347,
+      "start": 1659.33,
+      "end": 1663.41,
+      "start_timestamp": "00:27:39.330",
+      "end_timestamp": "00:27:43.410",
+      "text": "Nos grands-parents étaient des esclaves, colonisés, animalisés, etc."
+    },
+    {
+      "id": 348,
+      "start": 1663.41,
+      "end": 1669.09,
+      "start_timestamp": "00:27:43.410",
+      "end_timestamp": "00:27:49.090",
+      "text": "Le mouvement des coloniales ne parle d'ailleurs absolument jamais de la traite arabo-musulmane"
+    },
+    {
+      "id": 349,
+      "start": 1669.09,
+      "end": 1672.13,
+      "start_timestamp": "00:27:49.090",
+      "end_timestamp": "00:27:52.130",
+      "text": "ni des conquêtes de l'islam. Allez savoir pourquoi."
+    },
+    {
+      "id": 350,
+      "start": 1672.13,
+      "end": 1675.49,
+      "start_timestamp": "00:27:52.130",
+      "end_timestamp": "00:27:55.490",
+      "text": "Uriah Boutelja, c'est un prolongement des idées de Tariq Ramadan"
+    },
+    {
+      "id": 351,
+      "start": 1675.49,
+      "end": 1678.05,
+      "start_timestamp": "00:27:55.490",
+      "end_timestamp": "00:27:58.050",
+      "text": "mais en beaucoup plus offensif et agressif."
+    },
+    {
+      "id": 352,
+      "start": 1678.05,
+      "end": 1682.13,
+      "start_timestamp": "00:27:58.050",
+      "end_timestamp": "00:28:02.130",
+      "text": "Et si elle n'est pas liée directement aux frères musulmans, elle en partage en tout cas beaucoup d'idées."
+    },
+    {
+      "id": 353,
+      "start": 1682.13,
+      "end": 1686.85,
+      "start_timestamp": "00:28:02.130",
+      "end_timestamp": "00:28:06.850",
+      "text": "À partir des années 2010, le mouvement indigéniste devient le mouvement des coloniales."
+    },
+    {
+      "id": 354,
+      "start": 1686.85,
+      "end": 1690.93,
+      "start_timestamp": "00:28:06.850",
+      "end_timestamp": "00:28:10.930",
+      "text": "Ce changement vient des post-colonial studies américaines,"
+    },
+    {
+      "id": 355,
+      "start": 1690.93,
+      "end": 1695.17,
+      "start_timestamp": "00:28:10.930",
+      "end_timestamp": "00:28:15.170",
+      "text": "des études qui sont d'ailleurs financées par l'Open Society de George Soros,"
+    },
+    {
+      "id": 356,
+      "start": 1695.17,
+      "end": 1699.73,
+      "start_timestamp": "00:28:15.170",
+      "end_timestamp": "00:28:19.730",
+      "text": "mais aussi par la Commission européenne via des subventions aux associations."
+    },
+    {
+      "id": 357,
+      "start": 1699.73,
+      "end": 1701.73,
+      "start_timestamp": "00:28:19.730",
+      "end_timestamp": "00:28:21.730",
+      "text": "Bref, de la rébellion subventionnée."
+    },
+    {
+      "id": 358,
+      "start": 1701.73,
+      "end": 1707.49,
+      "start_timestamp": "00:28:21.730",
+      "end_timestamp": "00:28:27.490",
+      "text": "Et d'une manière générale, l'idéologie des coloniales des États-Unis s'impose de plus en plus en France et en Europe."
+    },
+    {
+      "id": 359,
+      "start": 1707.49,
+      "end": 1711.17,
+      "start_timestamp": "00:28:27.490",
+      "end_timestamp": "00:28:31.170",
+      "text": "C'est l'Occident lui-même qui fait rentrer le loup dans la bergerie."
+    },
+    {
+      "id": 360,
+      "start": 1711.89,
+      "end": 1714.29,
+      "start_timestamp": "00:28:31.890",
+      "end_timestamp": "00:28:34.290",
+      "text": "L'idéologie des frères musulmans est présente partout."
+    },
+    {
+      "id": 361,
+      "start": 1714.29,
+      "end": 1720.53,
+      "start_timestamp": "00:28:34.290",
+      "end_timestamp": "00:28:40.530",
+      "text": "C'est un ennemi insaisissable, rusé et dangereux qui parvient à mettre à genoux tout l'Occident"
+    },
+    {
+      "id": 362,
+      "start": 1720.53,
+      "end": 1727.65,
+      "start_timestamp": "00:28:40.530",
+      "end_timestamp": "00:28:47.650",
+      "text": "en jouant sur ce qui est à la fois une de ses plus belles qualités et sa plus grande faiblesse, la tolérance."
+    },
+    {
+      "id": 363,
+      "start": 1727.65,
+      "end": 1734.45,
+      "start_timestamp": "00:28:47.650",
+      "end_timestamp": "00:28:54.450",
+      "text": "Le concept d'islamophobie vient des frères musulmans et ça c'est une information qui me semble absolument essentielle."
+    },
+    {
+      "id": 364,
+      "start": 1734.45,
+      "end": 1738.53,
+      "start_timestamp": "00:28:54.450",
+      "end_timestamp": "00:28:58.530",
+      "text": "Aujourd'hui, l'islamophobie est l'arme la plus puissante de l'islam radical"
+    },
+    {
+      "id": 365,
+      "start": 1738.61,
+      "end": 1743.09,
+      "start_timestamp": "00:28:58.610",
+      "end_timestamp": "00:29:03.090",
+      "text": "pour s'imposer non seulement en Europe, mais aussi dans tout l'Occident."
+    },
+    {
+      "id": 366,
+      "start": 1743.09,
+      "end": 1749.65,
+      "start_timestamp": "00:29:03.090",
+      "end_timestamp": "00:29:09.650",
+      "text": "Ce livre, « Le Frérisme et ses réseaux » de Florence Bergeau-Blaquaire, c'est vraiment un livre indispensable."
+    },
+    {
+      "id": 367,
+      "start": 1749.65,
+      "end": 1755.25,
+      "start_timestamp": "00:29:09.650",
+      "end_timestamp": "00:29:15.250",
+      "text": "J'ai fait deux vidéos assez longues à son sujet et pourtant je suis loin d'avoir tout dit."
+    },
+    {
+      "id": 368,
+      "start": 1755.25,
+      "end": 1761.97,
+      "start_timestamp": "00:29:15.250",
+      "end_timestamp": "00:29:21.970",
+      "text": "Je vous invite donc à aller voir mon autre vidéo sur ce livre si vous voulez explorer plus en profondeur le sujet du frérisme."
+    },
+    {
+      "id": 369,
+      "start": 1761.97,
+      "end": 1768.45,
+      "start_timestamp": "00:29:21.970",
+      "end_timestamp": "00:29:28.450",
+      "text": "Je vous mets le lien en description, alors abonnez-vous, mettez un pouce, faites un don sur Tipeee et je vous dis à très bientôt."
+    },
+    {
+      "id": 370,
+      "start": 1768.53,
+      "end": 1771.61,
+      "start_timestamp": "00:29:28.530",
+      "end_timestamp": "00:29:31.610",
+      "text": "Sous-titres réalisés para la communauté d'Amara.org"
+    }
+  ]
+}

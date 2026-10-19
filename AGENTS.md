@@ -64,6 +64,8 @@ Utilise le pipeline existant et ses mécanismes de reprise. Respecte la distinct
 
 Ne retélécharge pas un audio valide, ne relance pas Whisper lorsque la transcription brute est complète et ne refais pas une étape documentaire déjà validée sans raison explicite. Après une interruption, reprends à partir du dernier état validé.
 
+Pour l'accès YouTube, laisse le pipeline effectuer d'abord sa tentative normale. Si YouTube renvoie son contrôle anti-robot ou masque les formats, le repli permanent autorisé utilise automatiquement la session Firefox locale, Deno et le client `web_safari`. Les cookies ne doivent jamais être copiés, affichés ni archivés. Le runtime portable validé est conservé dans `.runtime/` afin de ne pas recommencer sa préparation à chaque intervention. N'emploie `--sans-repli-firefox` que sur demande explicite ou pour diagnostiquer ce mécanisme.
+
 Tu peux produire ou remplacer les documents dérivés dans leurs fichiers de référence habituels. Ne crée jamais de fichier concurrent portant un suffixe comme `V2`, `nouveau`, `copie`, `backup` ou `sauvegarde`. Git assure l'historique.
 
 Pendant une simple demande d'archivage, ne modifie pas spontanément l'architecture ou le code du programme. Ne réinstalle aucune dépendance et ne change pas de modèle sans nécessité démontrée et expliquée.

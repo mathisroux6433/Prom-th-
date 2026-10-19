@@ -10,6 +10,7 @@ __pycache__/
 
 # Fichiers temporaires
 .cache/
+.runtime/
 *.tmp
 *.log
 *.part

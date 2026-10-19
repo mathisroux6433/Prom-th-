@@ -1,0 +1,666 @@
+{
+  "schema_version": "1.1",
+  "video_id": "889I60By4Xc",
+  "resume_general": "Lecture critique et engagée du livre Le Frérisme et ses réseaux de Florence Bergeaud-Blackler. Maudin Malin soutient que la notion d'islamophobie a été diffusée par des réseaux liés aux Frères musulmans puis reprise par des institutions européennes, internationales, philanthropiques et universitaires. Il distingue critique d'une religion et hostilité envers les musulmans, décrit la victimisation comme stratégie politique et examine l'OCI, la FIOE, le FEMYSO, l'Open Society, le Conseil de l'Europe, l'affaire Rushdie, les caricatures danoises et des convergences avec l'altermondialisme et le courant décolonial. Ces thèses sont celles du narrateur et de ses sources, sans contradiction ni vérification externe dans la vidéo.",
+  "themes_principaux": [
+    {
+      "theme": "Islamophobie comme concept politique",
+      "niveau": "développé",
+      "horodatages": [
+        "00:00:00",
+        "00:14:30",
+        "00:15:38"
+      ]
+    },
+    {
+      "theme": "Frères musulmans et stratégie de victimisation",
+      "niveau": "développé",
+      "horodatages": [
+        "00:03:04",
+        "00:07:58",
+        "00:13:46"
+      ]
+    },
+    {
+      "theme": "Diffusion institutionnelle en Europe",
+      "niveau": "développé",
+      "horodatages": [
+        "00:11:52",
+        "00:17:23",
+        "00:21:14"
+      ]
+    },
+    {
+      "theme": "Liberté de critique, blasphème et autocensure",
+      "niveau": "développé",
+      "horodatages": [
+        "00:01:25",
+        "00:09:40",
+        "00:20:23"
+      ]
+    },
+    {
+      "theme": "Convergence avec la gauche et le courant décolonial",
+      "niveau": "développé",
+      "horodatages": [
+        "00:24:40",
+        "00:26:11"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Islamisation de la connaissance",
+      "description": "Projet attribué aux Frères musulmans consistant à relire les sciences et les Lumières à travers un cadre islamique.",
+      "horodatages": [
+        "00:05:34"
+      ]
+    },
+    {
+      "sujet": "Déclaration des droits de l'homme en islam",
+      "description": "Présentée comme une relativisation de l'universalité des droits de l'homme.",
+      "horodatages": [
+        "00:08:55"
+      ]
+    },
+    {
+      "sujet": "Affaire Salman Rushdie",
+      "description": "Fatwa, violences contre les acteurs de l'édition et rôle attribué à l'OCI.",
+      "horodatages": [
+        "00:09:40"
+      ]
+    },
+    {
+      "sujet": "Euro-islam",
+      "description": "Orientation présentée comme demandant à l'Europe de s'adapter à l'islam plutôt que l'inverse.",
+      "horodatages": [
+        "00:12:10"
+      ]
+    },
+    {
+      "sujet": "Mesure des discriminations",
+      "description": "Le narrateur estime que la catégorie islamophobie empêche d'isoler précisément les discriminations visant les personnes musulmanes.",
+      "horodatages": [
+        "00:18:42"
+      ]
+    },
+    {
+      "sujet": "Caricatures du Jyllands-Posten",
+      "description": "Exemple mobilisé pour illustrer menaces, boycott et autocensure.",
+      "horodatages": [
+        "00:20:23"
+      ]
+    },
+    {
+      "sujet": "Campagne européenne sur le hijab",
+      "description": "Critique d'une campagne de 2021 et de la qualification de restrictions légales comme agressions islamophobes.",
+      "horodatages": [
+        "00:22:40"
+      ]
+    },
+    {
+      "sujet": "Vote musulman à Bruxelles",
+      "description": "Facteur électoral invoqué pour expliquer certains compromis politiques.",
+      "horodatages": [
+        "00:21:02"
+      ]
+    },
+    {
+      "sujet": "Parti des Indigènes de la République",
+      "description": "Houria Bouteldja et le courant décolonial sont présentés comme partageant des thèmes sans lien organisationnel direct affirmé.",
+      "horodatages": [
+        "00:26:49"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "islamophobie",
+    "Frères musulmans",
+    "frérisme",
+    "victimisation",
+    "blasphème",
+    "laïcité",
+    "islamisme",
+    "islam radical",
+    "Oumma",
+    "euro-islam",
+    "discours de haine",
+    "autocensure",
+    "hijab",
+    "décolonialisme",
+    "altermondialisme",
+    "discrimination anti-musulmane",
+    "liberté d'expression"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "islamophobie",
+      "variantes": [
+        "haine anti-musulmane",
+        "actes anti-musulmans",
+        "sentiment anti-islam",
+        "sentiment anti-musulman"
+      ]
+    },
+    {
+      "forme": "Frères musulmans",
+      "variantes": [
+        "frères",
+        "frérisme",
+        "mouvement frériste",
+        "réseaux fréristes"
+      ]
+    },
+    {
+      "forme": "Organisation de la coopération islamique",
+      "variantes": [
+        "OCI"
+      ]
+    },
+    {
+      "forme": "Fédération des organisations islamiques en Europe",
+      "variantes": [
+        "FIOE"
+      ]
+    },
+    {
+      "forme": "Forum of European Muslim Youth and Student Organisations",
+      "variantes": [
+        "FEMYSO"
+      ]
+    },
+    {
+      "forme": "communauté musulmane internationale",
+      "variantes": [
+        "Oumma",
+        "Umma"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Florence Bergeaud-Blackler",
+      "niveau": "développé",
+      "role": "anthropologue et autrice dont l'enquête structure la vidéo",
+      "horodatages": [
+        "00:03:18",
+        "00:19:37",
+        "00:29:03"
+      ]
+    },
+    {
+      "nom": "Geoffroy Lejeune",
+      "niveau": "mention",
+      "role": "auteur de la déclaration d'ouverture sur l'origine du concept",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "nom": "Enki Bilal",
+      "niveau": "cité",
+      "role": "dessinateur critiquant le terme et rapportant une origine incertaine",
+      "horodatages": [
+        "00:00:57"
+      ]
+    },
+    {
+      "nom": "Jean-Luc Mélenchon",
+      "niveau": "cité",
+      "role": "cité sur le droit de ne pas aimer une religion",
+      "horodatages": [
+        "00:01:33"
+      ]
+    },
+    {
+      "nom": "Salman Rushdie",
+      "niveau": "développé",
+      "role": "écrivain au centre de l'affaire des Versets sataniques",
+      "horodatages": [
+        "00:09:40"
+      ]
+    },
+    {
+      "nom": "Tariq Ramadan",
+      "niveau": "développé",
+      "role": "présenté comme promoteur de l'euro-islam et acteur de l'altermondialisme",
+      "horodatages": [
+        "00:12:30",
+        "00:26:17"
+      ]
+    },
+    {
+      "nom": "George Soros",
+      "niveau": "mention",
+      "role": "fondateur de l'Open Society",
+      "horodatages": [
+        "00:17:23"
+      ]
+    },
+    {
+      "nom": "Tufyal Choudhury",
+      "niveau": "développé",
+      "role": "auteur d'un rapport sur inclusion et lutte contre la radicalisation",
+      "horodatages": [
+        "00:17:41"
+      ]
+    },
+    {
+      "nom": "Farid Abdelkrim",
+      "niveau": "cité",
+      "role": "ancien islamiste cité sur le discours frériste",
+      "horodatages": [
+        "00:25:23"
+      ]
+    },
+    {
+      "nom": "Houria Bouteldja",
+      "niveau": "développé",
+      "role": "figure du Parti des Indigènes de la République",
+      "horodatages": [
+        "00:27:10"
+      ]
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Frères musulmans",
+      "niveau": "développé",
+      "type": "mouvement politico-religieux",
+      "horodatages": [
+        "00:03:04",
+        "00:07:58"
+      ]
+    },
+    {
+      "nom": "Organisation de la coopération islamique",
+      "niveau": "développé",
+      "type": "organisation intergouvernementale",
+      "horodatages": [
+        "00:09:04"
+      ]
+    },
+    {
+      "nom": "ICESCO",
+      "niveau": "mention",
+      "type": "organisation spécialisée citée avec l'OCI",
+      "horodatages": [
+        "00:11:18"
+      ]
+    },
+    {
+      "nom": "FIOE",
+      "niveau": "développé",
+      "type": "fédération islamique européenne",
+      "horodatages": [
+        "00:12:40"
+      ]
+    },
+    {
+      "nom": "FEMYSO",
+      "niveau": "développé",
+      "type": "organisation européenne de jeunesse musulmane",
+      "horodatages": [
+        "00:13:30",
+        "00:22:01"
+      ]
+    },
+    {
+      "nom": "Open Society Foundations",
+      "niveau": "développé",
+      "type": "fondation philanthropique",
+      "horodatages": [
+        "00:17:23"
+      ]
+    },
+    {
+      "nom": "ONU",
+      "niveau": "développé",
+      "type": "organisation internationale",
+      "horodatages": [
+        "00:15:38",
+        "00:23:14"
+      ]
+    },
+    {
+      "nom": "Conseil de l'Europe",
+      "niveau": "développé",
+      "type": "organisation européenne",
+      "horodatages": [
+        "00:21:14"
+      ]
+    },
+    {
+      "nom": "Union européenne",
+      "niveau": "mention",
+      "type": "organisation politique et bailleur allégué",
+      "horodatages": [
+        "00:14:19",
+        "00:22:31"
+      ]
+    },
+    {
+      "nom": "Terra Nova",
+      "niveau": "mention",
+      "type": "groupe de réflexion",
+      "horodatages": [
+        "00:25:01"
+      ]
+    },
+    {
+      "nom": "Parti des Indigènes de la République",
+      "niveau": "développé",
+      "type": "mouvement politique",
+      "horodatages": [
+        "00:27:13"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Amalgame entre critique d'une idée et haine des personnes",
+      "explication": "Mécanisme central dénoncé : la critique de l'islam serait assimilée au rejet des musulmans.",
+      "horodatages": [
+        "00:16:34"
+      ]
+    },
+    {
+      "nom": "Victimisme",
+      "explication": "Stratégie consistant, selon la définition citée, à susciter le soutien d'un groupe désigné victime pour obtenir réparation ou avantage.",
+      "horodatages": [
+        "00:14:05"
+      ]
+    },
+    {
+      "nom": "Islamisation de la connaissance",
+      "explication": "Réinterprétation des savoirs et des sciences à travers un cadre islamique.",
+      "horodatages": [
+        "00:05:34"
+      ]
+    },
+    {
+      "nom": "Euro-islam",
+      "explication": "Projet présenté comme une adaptation de l'Europe aux normes et besoins islamiques.",
+      "horodatages": [
+        "00:12:10"
+      ]
+    },
+    {
+      "nom": "Autocensure",
+      "explication": "Renoncement individuel à critiquer ou représenter l'islam par crainte de sanctions, menaces ou accusations.",
+      "horodatages": [
+        "00:20:31"
+      ]
+    },
+    {
+      "nom": "Laïcité ouverte",
+      "explication": "Conception opposée dans la vidéo à une gestion étatique ou restrictive des manifestations religieuses.",
+      "horodatages": [
+        "00:26:49"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "Affaire des Versets sataniques",
+      "date_ou_periode": "1989-2022",
+      "description": "Fatwa, condamnations, violences et nouvelle attaque contre Salman Rushdie.",
+      "horodatages": [
+        "00:09:40"
+      ]
+    },
+    {
+      "nom": "Affaire des foulards de Creil",
+      "date_ou_periode": "1989",
+      "description": "Exclusion de trois collégiennes refusant d'enlever leur voile, citée dans le contexte de la FIOE.",
+      "horodatages": [
+        "00:12:46"
+      ]
+    },
+    {
+      "nom": "Caricatures du Jyllands-Posten",
+      "date_ou_periode": "2005",
+      "description": "Publication de caricatures de Mahomet suivie de boycott, manifestations et menaces.",
+      "horodatages": [
+        "00:20:23"
+      ]
+    },
+    {
+      "nom": "Création de l'observatoire de l'islamophobie de l'OCI",
+      "date_ou_periode": "2007",
+      "description": "Institutionnalisation de la surveillance de l'islamophobie selon la vidéo.",
+      "horodatages": [
+        "00:11:52"
+      ]
+    },
+    {
+      "nom": "No Hate Speech Movement",
+      "date_ou_periode": "2013",
+      "description": "Campagne du Conseil de l'Europe contre les discours de haine en ligne.",
+      "horodatages": [
+        "00:21:55"
+      ]
+    },
+    {
+      "nom": "Campagne européenne sur le hijab",
+      "date_ou_periode": "28 octobre 2021",
+      "description": "Campagne antidiscrimination critiquée par le narrateur.",
+      "horodatages": [
+        "00:22:40"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:04:55",
+      "contenu": "Définition du problème, distinction religion/personnes et présentation du livre"
+    },
+    {
+      "debut": "00:04:55",
+      "fin": "00:09:40",
+      "contenu": "Islamisation de la connaissance et stratégie de victimisation"
+    },
+    {
+      "debut": "00:09:40",
+      "fin": "00:14:30",
+      "contenu": "Affaire Rushdie, OCI, euro-islam, FIOE et FEMYSO"
+    },
+    {
+      "debut": "00:14:30",
+      "fin": "00:18:42",
+      "contenu": "Définition de l'islamophobie, amalgame et Open Society"
+    },
+    {
+      "debut": "00:18:42",
+      "fin": "00:24:40",
+      "contenu": "Recherche, autocensure, Conseil de l'Europe et hijab"
+    },
+    {
+      "debut": "00:24:40",
+      "fin": "00:29:31",
+      "contenu": "Convergence avec la gauche, altermondialisme, décolonialisme et conclusion"
+    }
+  ],
+  "expressions_representatives": [
+    "cheval de Troie de l'islamisme",
+    "bouclier victimaire",
+    "islamisation de la connaissance",
+    "ce n'est pas à l'islam de s'adapter à l'Europe, mais à l'Europe de s'adapter à l'islam",
+    "amalgame entre le rejet de l'islam et le rejet des musulmans",
+    "autocensure plus durable que la censure officielle"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "Critiquer ou ne pas aimer une religion relève de la liberté d'opinion, contrairement à la haine visant des personnes musulmanes.",
+      "statut": "défendu",
+      "attribution": "Maudin Malin",
+      "horodatages": [
+        "00:01:25"
+      ]
+    },
+    {
+      "position": "Le concept d'islamophobie amalgame volontairement critique de l'islam et haine des musulmans, ce qui neutralise la critique.",
+      "statut": "défendu",
+      "attribution": "Maudin Malin, à partir de Florence Bergeaud-Blackler",
+      "horodatages": [
+        "00:15:38",
+        "00:16:34"
+      ]
+    },
+    {
+      "position": "La victimisation fournirait aux réseaux fréristes une justification politique et, par la légitime défense, potentiellement violente.",
+      "statut": "défendu",
+      "attribution": "Maudin Malin",
+      "horodatages": [
+        "00:07:58"
+      ]
+    },
+    {
+      "position": "L'OCI, la FIOE et le FEMYSO auraient contribué à institutionnaliser le concept en Europe.",
+      "statut": "défendu",
+      "attribution": "Maudin Malin, d'après le livre commenté",
+      "horodatages": [
+        "00:11:52",
+        "00:12:40",
+        "00:13:30"
+      ]
+    },
+    {
+      "position": "Des politiques d'inclusion et de lutte contre la radicalisation renforceraient paradoxalement l'autorité d'acteurs religieux proches des objectifs fréristes.",
+      "statut": "défendu",
+      "attribution": "Maudin Malin, commentant un rapport de Tufyal Choudhury",
+      "horodatages": [
+        "00:17:41"
+      ]
+    },
+    {
+      "position": "La catégorie islamophobie empêcherait de mesurer rigoureusement les discriminations réellement subies par les personnes musulmanes.",
+      "statut": "nuance défendue",
+      "attribution": "Maudin Malin",
+      "horodatages": [
+        "00:18:42"
+      ]
+    },
+    {
+      "position": "Les accusations d'islamophobie produiraient une autocensure académique, artistique et politique.",
+      "statut": "défendu",
+      "attribution": "Maudin Malin",
+      "horodatages": [
+        "00:19:37",
+        "00:20:23"
+      ]
+    },
+    {
+      "position": "Une partie de la gauche, l'altermondialisme et le courant décolonial auraient offert des relais idéologiques au frérisme.",
+      "statut": "défendu avec distinction entre convergence et lien organisationnel",
+      "attribution": "Maudin Malin",
+      "horodatages": [
+        "00:24:40",
+        "00:26:11"
+      ]
+    },
+    {
+      "position": "L'islamophobie désigne une hostilité et une crainte sans fondement envers l'islam et, par conséquent, envers les musulmans.",
+      "statut": "cité puis contesté",
+      "attribution": "définition attribuée à l'ONU",
+      "horodatages": [
+        "00:15:38"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "Europe, États-Unis et Australie — années 1970",
+      "contexte": "Diffusion universitaire alléguée des cadres et idées fréristes.",
+      "horodatages": [
+        "00:04:55"
+      ]
+    },
+    {
+      "lieu_ou_periode": "Europe — années 1989-2017",
+      "contexte": "Affaire Rushdie, foulards de Creil et structuration d'organisations islamiques européennes.",
+      "horodatages": [
+        "00:09:40",
+        "00:12:40"
+      ]
+    },
+    {
+      "lieu_ou_periode": "Bruxelles",
+      "contexte": "Poids électoral du vote musulman invoqué par le narrateur.",
+      "horodatages": [
+        "00:21:09"
+      ]
+    },
+    {
+      "lieu_ou_periode": "France — années 1990-2010",
+      "contexte": "Altermondialisme, commission Islam et laïcité, indigénisme puis courant décolonial.",
+      "horodatages": [
+        "00:24:40",
+        "00:26:49"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Islamisation de la connaissance",
+      "relation": "fournit selon le narrateur un cadre intellectuel à",
+      "cible": "diffusion du frérisme dans les sciences sociales",
+      "horodatages": [
+        "00:05:34"
+      ]
+    },
+    {
+      "source": "Victimisation",
+      "relation": "permettrait de transformer l'offense en",
+      "cible": "légitime défense",
+      "horodatages": [
+        "00:08:36"
+      ]
+    },
+    {
+      "source": "Affaire Rushdie",
+      "relation": "sert de précédent historique à",
+      "cible": "institutionnalisation de la lutte contre l'islamophobie",
+      "horodatages": [
+        "00:09:40",
+        "00:14:39"
+      ]
+    },
+    {
+      "source": "FIOE",
+      "relation": "est présentée comme organisation mère de",
+      "cible": "FEMYSO",
+      "horodatages": [
+        "00:13:30"
+      ]
+    },
+    {
+      "source": "Open Society",
+      "relation": "finance et diffuse des études influençant",
+      "cible": "politiques européennes d'inclusion",
+      "horodatages": [
+        "00:17:23"
+      ]
+    },
+    {
+      "source": "Conseil de l'Europe",
+      "relation": "porte des recommandations et campagnes relayées par",
+      "cible": "FEMYSO et autres associations",
+      "horodatages": [
+        "00:21:14",
+        "00:22:01"
+      ]
+    },
+    {
+      "source": "Frérisme",
+      "relation": "convergerait idéologiquement avec",
+      "cible": "altermondialisme et courant décolonial",
+      "horodatages": [
+        "00:24:40",
+        "00:26:11"
+      ]
+    }
+  ]
+}

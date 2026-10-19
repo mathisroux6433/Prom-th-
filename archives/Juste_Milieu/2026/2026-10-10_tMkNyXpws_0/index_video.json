@@ -1,0 +1,373 @@
+{
+  "schema_version": "1.1",
+  "video_id": "tMkNyXpws_0",
+  "resume_general": "Enquête satirique et critique sur l'Industrial Accelerator Act et le label Made in Europe. Juste Milieu soutient que l'inclusion de pays partenaires extérieurs vide le label de son sens, trompe les consommateurs et impose directement des choix industriels et budgétaires aux États.",
+  "themes_principaux": [
+    {
+      "theme": "Label Made in Europe",
+      "niveau": "développé",
+      "horodatages": [
+        "00:00:24"
+      ]
+    },
+    {
+      "theme": "Industrial Accelerator Act",
+      "niveau": "développé",
+      "horodatages": [
+        "00:04:03"
+      ]
+    },
+    {
+      "theme": "Extension aux pays partenaires",
+      "niveau": "développé",
+      "horodatages": [
+        "00:05:10"
+      ]
+    },
+    {
+      "theme": "Objectif industriel 2035",
+      "niveau": "développé",
+      "horodatages": [
+        "00:04:19"
+      ]
+    },
+    {
+      "theme": "Règlement européen et application directe",
+      "niveau": "développé",
+      "horodatages": [
+        "00:11:22"
+      ]
+    },
+    {
+      "theme": "Souveraineté européenne",
+      "niveau": "développé",
+      "horodatages": [
+        "00:12:10"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Industrial Accelerator Act",
+      "description": "Dimension secondaire significative reliée au sujet principal : Industrial Accelerator Act.",
+      "horodatages": [
+        "00:04:03"
+      ]
+    },
+    {
+      "sujet": "Extension aux pays partenaires",
+      "description": "Dimension secondaire significative reliée au sujet principal : Extension aux pays partenaires.",
+      "horodatages": [
+        "00:05:10"
+      ]
+    },
+    {
+      "sujet": "Objectif industriel 2035",
+      "description": "Dimension secondaire significative reliée au sujet principal : Objectif industriel 2035.",
+      "horodatages": [
+        "00:04:19"
+      ]
+    },
+    {
+      "sujet": "Règlement européen et application directe",
+      "description": "Dimension secondaire significative reliée au sujet principal : Règlement européen et application directe.",
+      "horodatages": [
+        "00:11:22"
+      ]
+    },
+    {
+      "sujet": "Souveraineté européenne",
+      "description": "Dimension secondaire significative reliée au sujet principal : Souveraineté européenne.",
+      "horodatages": [
+        "00:12:10"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "Made in Europe",
+    "Industrial Accelerator Act",
+    "préférence européenne",
+    "libre-échange",
+    "marchés publics",
+    "règlement européen",
+    "article 8",
+    "article 12",
+    "fléchage budgétaire",
+    "Mercosur",
+    "réindustrialisation"
+  ],
+  "variantes_lexicales": [],
+  "personnes": [
+    {
+      "nom": "Ursula von der Leyen",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "Stéphane Séjourné",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "François Ruffin",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Commission européenne",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Parlement européen",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Reuters",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Boursorama",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Club des juristes",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "GreenUnivers",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "ministère de l'Économie",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Label Made in Europe",
+      "explication": "Concept expliqué dans la séquence consacrée à label made in europe.",
+      "horodatages": [
+        "00:00:24"
+      ]
+    },
+    {
+      "nom": "Industrial Accelerator Act",
+      "explication": "Concept expliqué dans la séquence consacrée à industrial accelerator act.",
+      "horodatages": [
+        "00:04:03"
+      ]
+    },
+    {
+      "nom": "Extension aux pays partenaires",
+      "explication": "Concept expliqué dans la séquence consacrée à extension aux pays partenaires.",
+      "horodatages": [
+        "00:05:10"
+      ]
+    },
+    {
+      "nom": "Objectif industriel 2035",
+      "explication": "Concept expliqué dans la séquence consacrée à objectif industriel 2035.",
+      "horodatages": [
+        "00:04:19"
+      ]
+    },
+    {
+      "nom": "Règlement européen et application directe",
+      "explication": "Concept expliqué dans la séquence consacrée à règlement européen et application directe.",
+      "horodatages": [
+        "00:11:22"
+      ]
+    },
+    {
+      "nom": "Souveraineté européenne",
+      "explication": "Concept expliqué dans la séquence consacrée à souveraineté européenne.",
+      "horodatages": [
+        "00:12:10"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "Premières annonces du label",
+      "date_ou_periode": "janvier 2026",
+      "description": "Premières annonces du label",
+      "horodatages": [
+        "00:00:33"
+      ]
+    },
+    {
+      "nom": "Précisions relayées par Reuters",
+      "date_ou_periode": "19 février 2026",
+      "description": "Précisions relayées par Reuters",
+      "horodatages": [
+        "00:02:29"
+      ]
+    },
+    {
+      "nom": "Officialisation de l'Industrial Accelerator Act",
+      "date_ou_periode": "4 mars 2026",
+      "description": "Officialisation de l'Industrial Accelerator Act",
+      "horodatages": [
+        "00:04:03"
+      ]
+    },
+    {
+      "nom": "Annonce de 80 pays éligibles",
+      "date_ou_periode": "12 mai 2026",
+      "description": "Annonce de 80 pays éligibles",
+      "horodatages": [
+        "00:07:15"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:04:03",
+      "contenu": "genèse et chronologie"
+    },
+    {
+      "debut": "00:04:03",
+      "fin": "00:07:15",
+      "contenu": "texte et extension géographique"
+    },
+    {
+      "debut": "00:07:15",
+      "fin": "00:09:22",
+      "contenu": "80 pays et responsabilité politique"
+    },
+    {
+      "debut": "00:09:22",
+      "fin": "00:14:17",
+      "contenu": "critiques juridiques et souveraineté"
+    }
+  ],
+  "expressions_representatives": [
+    "Label Made in Europe",
+    "Industrial Accelerator Act",
+    "Extension aux pays partenaires",
+    "Objectif industriel 2035",
+    "Règlement européen et application directe",
+    "Souveraineté européenne"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "Un label européen ouvert aux pays partenaires n'est pas une préférence géographique réelle.",
+      "attribution": "Juste Milieu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:05:10"
+      ]
+    },
+    {
+      "position": "L'article 8 assimilerait des composants partenaires à une origine européenne.",
+      "attribution": "Juste Milieu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:09:22"
+      ]
+    },
+    {
+      "position": "Le dispositif pourrait tromper les consommateurs sur l'origine.",
+      "attribution": "Juste Milieu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:10:07"
+      ]
+    },
+    {
+      "position": "Un règlement s'applique sans transposition par les parlements nationaux.",
+      "attribution": "Juste Milieu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:11:22"
+      ]
+    },
+    {
+      "position": "L'objectif officiel est de porter l'industrie à 20 % du PIB européen en 2035.",
+      "attribution": "Commission européenne",
+      "statut": "rapporté",
+      "horodatages": [
+        "00:04:19"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "Espace économique européen",
+      "contexte": "premier périmètre annoncé",
+      "horodatages": [
+        "00:03:05"
+      ]
+    },
+    {
+      "lieu_ou_periode": "Canada, Turquie, Japon, Maroc et partenaires",
+      "contexte": "périmètre extérieur discuté",
+      "horodatages": [
+        "00:09:45"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Label Made in Europe",
+      "relation": "éclaire ou conduit à",
+      "cible": "Industrial Accelerator Act",
+      "horodatages": [
+        "00:00:24"
+      ]
+    },
+    {
+      "source": "Industrial Accelerator Act",
+      "relation": "éclaire ou conduit à",
+      "cible": "Extension aux pays partenaires",
+      "horodatages": [
+        "00:04:03"
+      ]
+    },
+    {
+      "source": "Extension aux pays partenaires",
+      "relation": "éclaire ou conduit à",
+      "cible": "Objectif industriel 2035",
+      "horodatages": [
+        "00:05:10"
+      ]
+    },
+    {
+      "source": "Objectif industriel 2035",
+      "relation": "éclaire ou conduit à",
+      "cible": "Règlement européen et application directe",
+      "horodatages": [
+        "00:04:19"
+      ]
+    },
+    {
+      "source": "Règlement européen et application directe",
+      "relation": "éclaire ou conduit à",
+      "cible": "Souveraineté européenne",
+      "horodatages": [
+        "00:11:22"
+      ]
+    }
+  ]
+}

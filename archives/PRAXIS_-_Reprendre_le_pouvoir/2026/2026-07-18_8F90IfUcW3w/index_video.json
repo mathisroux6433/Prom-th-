@@ -1,0 +1,429 @@
+{
+  "schema_version": "1.1",
+  "video_id": "8F90IfUcW3w",
+  "resume_general": "Analyse critique du marché européen de l'électricité : séparation des activités d'EDF, ARENH, fournisseurs alternatifs, prix marginal indexé sur le gaz, crise de 2022, bouclier tarifaire et VNU. PRAXIS défend un monopole public, des prix liés aux coûts français et le maintien des seuls échanges transfrontaliers utiles.",
+  "themes_principaux": [
+    {
+      "theme": "Marché européen de l'électricité",
+      "niveau": "développé",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "theme": "Séparation production-réseau-fourniture",
+      "niveau": "développé",
+      "horodatages": [
+        "00:03:26"
+      ]
+    },
+    {
+      "theme": "ARENH et fournisseurs alternatifs",
+      "niveau": "développé",
+      "horodatages": [
+        "00:05:06"
+      ]
+    },
+    {
+      "theme": "Merit order et coût marginal",
+      "niveau": "développé",
+      "horodatages": [
+        "00:09:48"
+      ]
+    },
+    {
+      "theme": "Crise énergétique de 2022",
+      "niveau": "développé",
+      "horodatages": [
+        "00:15:56"
+      ]
+    },
+    {
+      "theme": "Bouclier tarifaire",
+      "niveau": "développé",
+      "horodatages": [
+        "00:19:08"
+      ]
+    },
+    {
+      "theme": "VNU et réforme",
+      "niveau": "développé",
+      "horodatages": [
+        "00:23:23"
+      ]
+    },
+    {
+      "theme": "Retour au monopole public",
+      "niveau": "développé",
+      "horodatages": [
+        "00:27:49"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Séparation production-réseau-fourniture",
+      "description": "Dimension secondaire significative reliée au sujet principal : Séparation production-réseau-fourniture.",
+      "horodatages": [
+        "00:03:26"
+      ]
+    },
+    {
+      "sujet": "ARENH et fournisseurs alternatifs",
+      "description": "Dimension secondaire significative reliée au sujet principal : ARENH et fournisseurs alternatifs.",
+      "horodatages": [
+        "00:05:06"
+      ]
+    },
+    {
+      "sujet": "Merit order et coût marginal",
+      "description": "Dimension secondaire significative reliée au sujet principal : Merit order et coût marginal.",
+      "horodatages": [
+        "00:09:48"
+      ]
+    },
+    {
+      "sujet": "Crise énergétique de 2022",
+      "description": "Dimension secondaire significative reliée au sujet principal : Crise énergétique de 2022.",
+      "horodatages": [
+        "00:15:56"
+      ]
+    },
+    {
+      "sujet": "Bouclier tarifaire",
+      "description": "Dimension secondaire significative reliée au sujet principal : Bouclier tarifaire.",
+      "horodatages": [
+        "00:19:08"
+      ]
+    },
+    {
+      "sujet": "VNU et réforme",
+      "description": "Dimension secondaire significative reliée au sujet principal : VNU et réforme.",
+      "horodatages": [
+        "00:23:23"
+      ]
+    },
+    {
+      "sujet": "Retour au monopole public",
+      "description": "Dimension secondaire significative reliée au sujet principal : Retour au monopole public.",
+      "horodatages": [
+        "00:27:49"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "EDF",
+    "ARENH",
+    "VNU",
+    "RTE",
+    "Enedis",
+    "merit order",
+    "coût marginal",
+    "gaz",
+    "nucléaire",
+    "tarif réglementé",
+    "bouclier tarifaire",
+    "fournisseur alternatif",
+    "marché de gros",
+    "interconnexion"
+  ],
+  "variantes_lexicales": [],
+  "personnes": [
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "Bruno Le Maire",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "EDF",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "RTE",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Enedis",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Commission européenne",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "SUD Énergie",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Planète Oui",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Marché européen de l'électricité",
+      "explication": "Concept expliqué dans la séquence consacrée à marché européen de l'électricité.",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "nom": "Séparation production-réseau-fourniture",
+      "explication": "Concept expliqué dans la séquence consacrée à séparation production-réseau-fourniture.",
+      "horodatages": [
+        "00:03:26"
+      ]
+    },
+    {
+      "nom": "ARENH et fournisseurs alternatifs",
+      "explication": "Concept expliqué dans la séquence consacrée à arenh et fournisseurs alternatifs.",
+      "horodatages": [
+        "00:05:06"
+      ]
+    },
+    {
+      "nom": "Merit order et coût marginal",
+      "explication": "Concept expliqué dans la séquence consacrée à merit order et coût marginal.",
+      "horodatages": [
+        "00:09:48"
+      ]
+    },
+    {
+      "nom": "Crise énergétique de 2022",
+      "explication": "Concept expliqué dans la séquence consacrée à crise énergétique de 2022.",
+      "horodatages": [
+        "00:15:56"
+      ]
+    },
+    {
+      "nom": "Bouclier tarifaire",
+      "explication": "Concept expliqué dans la séquence consacrée à bouclier tarifaire.",
+      "horodatages": [
+        "00:19:08"
+      ]
+    },
+    {
+      "nom": "VNU et réforme",
+      "explication": "Concept expliqué dans la séquence consacrée à vnu et réforme.",
+      "horodatages": [
+        "00:23:23"
+      ]
+    },
+    {
+      "nom": "Retour au monopole public",
+      "explication": "Concept expliqué dans la séquence consacrée à retour au monopole public.",
+      "horodatages": [
+        "00:27:49"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "Mise en œuvre de l'ARENH",
+      "date_ou_periode": "2011-2026",
+      "description": "Mise en œuvre de l'ARENH",
+      "horodatages": [
+        "00:05:17"
+      ]
+    },
+    {
+      "nom": "Crise européenne de l'énergie",
+      "date_ou_periode": "2022",
+      "description": "Crise européenne de l'énergie",
+      "horodatages": [
+        "00:15:56"
+      ]
+    },
+    {
+      "nom": "Remplacement de l'ARENH par le VNU",
+      "date_ou_periode": "2026",
+      "description": "Remplacement de l'ARENH par le VNU",
+      "horodatages": [
+        "00:23:36"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:05:06",
+      "contenu": "genèse et organisation du marché"
+    },
+    {
+      "debut": "00:05:06",
+      "fin": "00:09:48",
+      "contenu": "ARENH et fournisseurs alternatifs"
+    },
+    {
+      "debut": "00:09:48",
+      "fin": "00:15:56",
+      "contenu": "prix marginal et tarifs réglementés"
+    },
+    {
+      "debut": "00:15:56",
+      "fin": "00:23:23",
+      "contenu": "crise, bouclier et promesses de réforme"
+    },
+    {
+      "debut": "00:23:23",
+      "fin": "00:32:54",
+      "contenu": "VNU et solution défendue"
+    }
+  ],
+  "expressions_representatives": [
+    "Marché européen de l'électricité",
+    "Séparation production-réseau-fourniture",
+    "ARENH et fournisseurs alternatifs",
+    "Merit order et coût marginal",
+    "Crise énergétique de 2022",
+    "Bouclier tarifaire",
+    "VNU et réforme",
+    "Retour au monopole public"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "La concurrence a créé des intermédiaires rentiers sans production propre.",
+      "attribution": "PRAXIS",
+      "statut": "défendu",
+      "horodatages": [
+        "00:05:06"
+      ]
+    },
+    {
+      "position": "L'ARENH a obligé EDF à subventionner ses concurrents et l'a fragilisé.",
+      "attribution": "PRAXIS",
+      "statut": "défendu",
+      "horodatages": [
+        "00:05:17"
+      ]
+    },
+    {
+      "position": "Le coût marginal expose les Français au gaz malgré un parc surtout nucléaire.",
+      "attribution": "PRAXIS",
+      "statut": "défendu",
+      "horodatages": [
+        "00:09:48"
+      ]
+    },
+    {
+      "position": "Le bouclier tarifaire reporte le coût sur le contribuable.",
+      "attribution": "PRAXIS",
+      "statut": "défendu",
+      "horodatages": [
+        "00:19:08"
+      ]
+    },
+    {
+      "position": "Le VNU ne sécurise pas les investissements d'EDF.",
+      "attribution": "PRAXIS",
+      "statut": "défendu",
+      "horodatages": [
+        "00:23:23"
+      ]
+    },
+    {
+      "position": "Les interconnexions peuvent subsister sans le système actuel de prix.",
+      "attribution": "PRAXIS",
+      "statut": "réponse à une objection",
+      "horodatages": [
+        "00:28:45"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "France et Union européenne",
+      "contexte": "construction du marché européen de l'électricité",
+      "horodatages": [
+        "00:00:25"
+      ]
+    },
+    {
+      "lieu_ou_periode": "France",
+      "contexte": "crise énergétique et arrêts nucléaires",
+      "horodatages": [
+        "00:15:56"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Marché européen de l'électricité",
+      "relation": "éclaire ou conduit à",
+      "cible": "Séparation production-réseau-fourniture",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "source": "Séparation production-réseau-fourniture",
+      "relation": "éclaire ou conduit à",
+      "cible": "ARENH et fournisseurs alternatifs",
+      "horodatages": [
+        "00:03:26"
+      ]
+    },
+    {
+      "source": "ARENH et fournisseurs alternatifs",
+      "relation": "éclaire ou conduit à",
+      "cible": "Merit order et coût marginal",
+      "horodatages": [
+        "00:05:06"
+      ]
+    },
+    {
+      "source": "Merit order et coût marginal",
+      "relation": "éclaire ou conduit à",
+      "cible": "Crise énergétique de 2022",
+      "horodatages": [
+        "00:09:48"
+      ]
+    },
+    {
+      "source": "Crise énergétique de 2022",
+      "relation": "éclaire ou conduit à",
+      "cible": "Bouclier tarifaire",
+      "horodatages": [
+        "00:15:56"
+      ]
+    },
+    {
+      "source": "Bouclier tarifaire",
+      "relation": "éclaire ou conduit à",
+      "cible": "VNU et réforme",
+      "horodatages": [
+        "00:19:08"
+      ]
+    },
+    {
+      "source": "VNU et réforme",
+      "relation": "éclaire ou conduit à",
+      "cible": "Retour au monopole public",
+      "horodatages": [
+        "00:23:23"
+      ]
+    }
+  ]
+}

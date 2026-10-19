@@ -1,0 +1,368 @@
+[00:00:00.000 --> 00:00:03.800] Bonjour et bienvenue dans le FIIL D'ACTU, l'émission qui donne du sens à l'information.
+[00:00:06.610 --> 00:00:09.810] Une très bonne nouvelle pour les fonctionnaires européens,
+[00:00:09.810 --> 00:00:14.970] mais sans doute nettement moins bonne pour la France, ses producteurs et ses consommateurs.
+[00:00:14.970 --> 00:00:19.490] Lundi 15 juin, le processus d'intégration de l'Ukraine à l'Union européenne
+[00:00:19.490 --> 00:00:23.250] entrait dans une nouvelle phase avec le lancement officiel des négociations
+[00:00:23.250 --> 00:00:28.290] visant à mettre le pays en conformité sur un ensemble de sujets avec le droit européen.
+[00:00:28.290 --> 00:00:31.450] Même si la procédure pourrait encore durer un certain nombre d'années,
+[00:00:31.490 --> 00:00:36.290] la Commission européenne n'a pas hésité à qualifier d'historique cette nouvelle étape,
+[00:00:36.290 --> 00:00:39.890] prélude à un élargissement de l'Union qui, dans les prochaines années,
+[00:00:39.890 --> 00:00:44.690] pourrait également intégrer des pays comme la Moldavie, l'Albanie ou le Monténégro.
+[00:00:44.690 --> 00:00:48.170] Un élargissement de l'UE qui, d'après ce qui nous dirige,
+[00:00:48.170 --> 00:00:50.610] le président du Conseil européen Antonio Costa,
+[00:00:50.610 --> 00:00:54.210] la présidente de la Commission européenne Ursula von der Leyen,
+[00:00:54.210 --> 00:00:57.450] serait dans l'intérêt commun des 27 États membres,
+[00:00:57.450 --> 00:01:03.690] puisqu'il permettrait à l'UE d'être plus forte dans un monde marqué par une incertitude croissante,
+[00:01:03.690 --> 00:01:06.730] une affirmation, hélas, qu'il convient de questionner.
+[00:01:06.730 --> 00:01:10.410] D'une part, parce que les élargissements précédents de l'UE à l'Est
+[00:01:10.410 --> 00:01:14.930] sont loin de n'avoir eu que des conséquences positives pour nos nations,
+[00:01:14.930 --> 00:01:18.250] et d'autre part, parce que dans le cas particulier de l'Ukraine,
+[00:01:18.250 --> 00:01:22.730] les caractéristiques propres au pays font que son intégration au marché unique européen
+[00:01:22.730 --> 00:01:26.490] pourrait s'avérer particulièrement dévastatrice pour la France,
+[00:01:26.490 --> 00:01:30.330] dont on peut se demander tout simplement si elle n'aurait pas intérêt,
+[00:01:30.330 --> 00:01:32.450] comme les règles européennes les autorisent,
+[00:01:32.450 --> 00:01:37.610] à user de son droit de veto pour mettre fin dès maintenant aux négociations en cours.
+[00:01:37.610 --> 00:01:38.650] Pourquoi cela ?
+[00:01:38.650 --> 00:01:42.970] Quel est le problème exactement avec l'entrée de l'Ukraine dans l'UE ?
+[00:01:42.970 --> 00:01:45.810] C'est ce que nous allons voir ensemble dans la suite de cette vidéo.
+[00:01:45.810 --> 00:01:49.050] Mais avant cela, nous prenons quelques instants pour vous rappeler que Le Fil d'Actu,
+[00:01:49.050 --> 00:01:52.050] c'est un média qui ne vit que du soutien de son public
+[00:01:52.050 --> 00:01:54.770] et qui a donc besoin de vous pour exister.
+[00:01:54.770 --> 00:01:56.930] Aussi, si après avoir vu cette vidéo,
+[00:01:56.930 --> 00:01:59.450] vous jugez que notre chaîne mérite d'être soutenue,
+[00:01:59.450 --> 00:02:02.490] nous vous inviterons à la financer à hauteur de quelques euros par mois
+[00:02:02.490 --> 00:02:05.170] via notre page de financement participatif Tipeee,
+[00:02:05.170 --> 00:02:08.570] dont le lien se trouve dès à présent en description sous cette vidéo.
+[00:02:08.570 --> 00:02:11.410] Si vous voulez plus de détails, on vous donne rendez-vous en fin d'émission.
+[00:02:11.410 --> 00:02:12.650] Tout de suite, place à l'analyse.
+[00:02:12.650 --> 00:02:15.930] Le président ukrainien Volodymyr Zelensky a annoncé qu'il souhaitait
+[00:02:15.930 --> 00:02:19.450] que son pays adhère à l'UE en 2027.
+[00:02:19.450 --> 00:02:20.890] La question peut surprendre.
+[00:02:20.890 --> 00:02:23.890] L'Ukraine va-t-elle adhérer à l'UE dès l'année prochaine,
+[00:02:23.890 --> 00:02:26.210] comme le souhaite le président Volodymyr Zelensky.
+[00:02:26.210 --> 00:02:30.010] L'UE vient en tout cas de donner son feu vert à des négociations formelles
+[00:02:30.010 --> 00:02:32.210] qui pourraient commencer dès ce mois de juin.
+[00:02:32.210 --> 00:02:33.810] C'est une nouvelle étape importante.
+[00:02:33.810 --> 00:02:35.410] Ça paraît inenvisageable aujourd'hui,
+[00:02:35.410 --> 00:02:38.370] un référendum sur l'adhésion de l'Ukraine et de notre pays européen.
+[00:02:38.370 --> 00:02:39.210] Le contexte a totalement changé.
+[00:02:39.210 --> 00:02:41.690] Le problème d'un référendum, c'est que c'est qui tout double ?
+[00:02:41.690 --> 00:02:45.290] Je pense que c'est plutôt une mauvaise idée dans la mesure.
+[00:02:45.290 --> 00:02:48.570] Pareil, c'est juste inventer une autre mesure pour tourner un rond
+[00:02:48.570 --> 00:02:49.810] parce qu'il y a un référendum.
+[00:02:49.810 --> 00:02:52.090] Pourquoi pas un autre pays ?
+[00:02:52.090 --> 00:02:55.370] Non, évidemment, ça n'a pas de sens de demander aux Français.
+[00:02:55.370 --> 00:02:56.650] Enfin, on connaît la réponse d'avance.
+[00:02:56.650 --> 00:02:59.290] Si on demande aux Français, si on veut que l'Ukraine en donne l'Union européenne,
+[00:02:59.290 --> 00:03:00.970] à mon avis, ce sera un énorme non.
+[00:03:00.970 --> 00:03:03.010] C'est une cause de pays, d'ailleurs, du rien.
+[00:03:04.810 --> 00:03:08.210] Faut-il ou non laisser l'Ukraine entrer dans l'UE ?
+[00:03:08.210 --> 00:03:10.570] C'est là une question politique que, malheureusement,
+[00:03:10.570 --> 00:03:14.890] il est très difficile de poser dans le débat public aujourd'hui en France.
+[00:03:14.890 --> 00:03:19.210] Une difficulté liée à un contexte géopolitique très particulier
+[00:03:19.210 --> 00:03:21.690] que certains n'hésitent pas à utiliser éhontément
+[00:03:21.690 --> 00:03:23.490] pour servir leur propre agenda,
+[00:03:23.490 --> 00:03:27.650] en faisant immédiatement basculer le débat politique sur le plan de la morale.
+[00:03:27.650 --> 00:03:29.890] Pour ces gens omniprésents dans les médias,
+[00:03:29.890 --> 00:03:32.890] supposer à la demande ukrainienne d'adhésion à l'UE,
+[00:03:32.890 --> 00:03:36.010] demande déposée par le président Volodymyr Zelensky,
+[00:03:36.010 --> 00:03:39.530] quatre jours seulement après l'invasion de son pays par l'armée russe,
+[00:03:39.530 --> 00:03:42.610] ce serait tout simplement planter un couteau dans le dos de l'Ukraine
+[00:03:42.610 --> 00:03:46.570] et se faire en Europe le relais des intérêts de la Russie.
+[00:03:46.570 --> 00:03:49.770] Osez seulement questionner cette adhésion
+[00:03:49.810 --> 00:03:53.290] et, inévitablement, vous vous verrez traiter de pro-Putine,
+[00:03:53.290 --> 00:03:55.170] de colabo, de traître,
+[00:03:55.170 --> 00:03:56.730] par ces personnes qui, ironiquement,
+[00:03:56.730 --> 00:04:00.650] ont toujours la prétention d'incarner la raison et la mesure.
+[00:04:00.650 --> 00:04:02.610] Un discours très offensif,
+[00:04:02.610 --> 00:04:05.610] assimilable à une forme de terrorisme intellectuel,
+[00:04:05.610 --> 00:04:08.850] car visant à empêcher toute discussion de fond
+[00:04:08.850 --> 00:04:12.410] sur un sujet qui pourtant concerne directement les Français.
+[00:04:12.410 --> 00:04:16.090] Car en réalité, le débat sur l'entrée de l'Ukraine dans l'UE
+[00:04:16.090 --> 00:04:19.650] n'a que peu à voir avec la question de la guerre entre l'Ukraine et la Russie.
+[00:04:19.650 --> 00:04:23.170] Pourquoi ? Parce que, quoi qu'il advienne dans les années à venir,
+[00:04:23.170 --> 00:04:25.850] tous les dirigeants européens le savent très bien,
+[00:04:25.850 --> 00:04:28.250] si l'Ukraine rejoint un jour l'UE,
+[00:04:28.250 --> 00:04:30.490] cela n'arrivera qu'une fois la guerre terminée,
+[00:04:30.490 --> 00:04:32.410] et ce, quel qu'en soit l'issue.
+[00:04:32.410 --> 00:04:36.170] Tout simplement parce que si l'Ukraine en guerre était intégrée à l'UE,
+[00:04:36.170 --> 00:04:39.290] alors les clauses de solidarité prévues par les traités européens
+[00:04:39.290 --> 00:04:43.930] impliqueraient que les 27 entrent ouvertement en guerre avec la Russie.
+[00:04:43.930 --> 00:04:48.010] Or, ceux-là, peut-être les habituels excités de plateaux de télévision,
+[00:04:48.010 --> 00:04:51.330] l'envisagent-ils comme une solution ultime aux problèmes russes,
+[00:04:51.330 --> 00:04:54.010] mais les dirigeants européens et américains, eux,
+[00:04:54.010 --> 00:04:58.450] ont encore assez de lucidité pour savoir que ce n'est pas une bonne idée.
+[00:04:58.450 --> 00:05:01.130] D'ailleurs, même le chancelier allemand Friedrich Mertz,
+[00:05:01.130 --> 00:05:04.170] pourtant favorable à une adhésion accélérée de l'Ukraine,
+[00:05:04.170 --> 00:05:06.290] soulignait il y a encore deux mois
+[00:05:06.290 --> 00:05:09.450] qu'une telle adhésion ne serait pas effective avant des années.
+[00:05:09.450 --> 00:05:12.370] L'Ukraine pourra-t-elle rejoindre l'UE plus rapidement
+[00:05:12.370 --> 00:05:14.130] grâce à un statut de membre associé ?
+[00:05:14.130 --> 00:05:16.130] C'est l'idée suggérée par le chancelier allemand.
+[00:05:16.130 --> 00:05:17.610] Dans une lettre adressée à Bruxelles,
+[00:05:17.610 --> 00:05:21.410] Friedrich Mertz détaille son plan pour permettre à Kiev de rejoindre les 27
+[00:05:21.410 --> 00:05:22.530] grâce à un compromis.
+[00:05:22.530 --> 00:05:24.490] Concrètement, avec ce statut particulier,
+[00:05:24.490 --> 00:05:28.130] le pays aurait la possibilité de participer aux différents sommets de l'UE
+[00:05:28.130 --> 00:05:30.170] ainsi qu'aux conseils des ministres des 27
+[00:05:30.170 --> 00:05:32.770] et d'avoir un commissaire européen mais sans portefeuille,
+[00:05:32.770 --> 00:05:35.170] tout cela sans avoir de droit de vote officiel.
+[00:05:35.170 --> 00:05:37.930] Le but serait de permettre à l'Ukraine de s'intégrer à l'UE
+[00:05:37.930 --> 00:05:40.890] tout en poursuivant les réformes nécessaires pour rejoindre le bloc,
+[00:05:40.890 --> 00:05:43.770] car le parcours est long et la procédure prend souvent plusieurs années.
+[00:05:43.770 --> 00:05:45.610] Avant qu'un pays puisse rejoindre les 27,
+[00:05:45.650 --> 00:05:47.370] de nombreuses réformes sont nécessaires,
+[00:05:47.370 --> 00:05:50.570] notamment en matière de corruption et de stabilité des institutions.
+[00:05:50.570 --> 00:05:53.890] Mais avec une guerre en cours, la candidature de l'Ukraine semble compliquée.
+[00:05:53.890 --> 00:05:55.370] La Hongrie et la Pologne, par exemple,
+[00:05:55.370 --> 00:05:58.410] ont attendu 10 ans avant d'intégrer l'Union en 2004.
+[00:05:58.410 --> 00:06:01.170] Actuellement, neuf pays au total sont candidats officiels,
+[00:06:01.170 --> 00:06:03.970] dont la Turquie, qui attend depuis 1999.
+[00:06:03.970 --> 00:06:06.930] Reste aussi à savoir si Volodymyr Zelensky sera favorable
+[00:06:06.930 --> 00:06:08.930] à une proposition de chancelier allemand.
+[00:06:08.930 --> 00:06:11.130] Le mois dernier, le président ukrainien avait déclaré
+[00:06:11.130 --> 00:06:14.050] que son pays n'avait pas besoin d'une adhésion symbolique à l'UE
+[00:06:14.050 --> 00:06:16.530] mais que l'Ukraine méritait une pleine adhésion au bloc,
+[00:06:16.530 --> 00:06:18.450] si possible, dès 2027.
+[00:06:19.570 --> 00:06:21.850] En conséquence, il est clair que le débat politique
+[00:06:21.850 --> 00:06:25.490] autour d'une éventuelle entrée de l'Ukraine dans l'UE dans les années à venir
+[00:06:25.490 --> 00:06:29.290] ne saurait être conditionné par une quelconque opinion sur la guerre en cours.
+[00:06:29.290 --> 00:06:34.690] Même s'ils sont évidemment entremêlés, ce sont là deux sujets bien distincts.
+[00:06:34.690 --> 00:06:39.290] Et tenter d'empêcher au nom de l'inévitable solidarité avec un peuple en guerre
+[00:06:39.290 --> 00:06:42.730] une discussion rationnelle sur la question de l'élargissement européen
+[00:06:42.730 --> 00:06:46.490] n'est donc pas un procédé qui honore les partisans d'un tel élargissement.
+[00:06:46.490 --> 00:06:50.050] À ce sujet, le véritable débat en France doit bien sûr porter
+[00:06:50.050 --> 00:06:54.730] sur ce que seraient les conséquences réelles, concrètes, de l'intégration ukrainienne
+[00:06:54.730 --> 00:06:58.330] pour notre pays, pour notre économie et pour nos concitoyens.
+[00:06:58.330 --> 00:07:03.210] Un débat souvent balayé par un seul et unique argument fourni par la Commission européenne
+[00:07:03.210 --> 00:07:07.130] et repris par tous ses relais médiatiques, paraît désature de l'évidence,
+[00:07:07.130 --> 00:07:09.730] mais pourtant profondément fallacieux.
+[00:07:09.730 --> 00:07:14.730] Selon cet argument, élargir l'UE, ce serait par définition la renforcer.
+[00:07:14.730 --> 00:07:19.130] Et donc partant de là, renforcer individuellement chacun de ses États membres
+[00:07:19.130 --> 00:07:21.090] et donc bien sûr la France.
+[00:07:21.090 --> 00:07:27.130] Sauf que dans le monde réel, absolument rien ne permet de valider par principe un tel raisonnement
+[00:07:27.130 --> 00:07:30.010] qui, au regard de la nature de l'Union européenne,
+[00:07:30.010 --> 00:07:33.210] ne semble pas devoir s'appliquer à ce cas particulier.
+[00:07:33.210 --> 00:07:37.330] L'Union européenne, c'est avant toute chose un marché économique ouvert,
+[00:07:37.410 --> 00:07:41.330] au sein duquel chaque pays a conservé ses caractéristiques propres,
+[00:07:41.330 --> 00:07:45.210] sans qu'aucun mécanisme de compensation générale ne s'applique entre eux,
+[00:07:45.210 --> 00:07:48.690] comme c'est par exemple le cas entre les régions d'un même pays.
+[00:07:48.690 --> 00:07:52.730] Partant de là, forcer au sein d'un tel marché la cohabitation entre des pays
+[00:07:52.730 --> 00:07:56.850] aux disparités très prononcées, cela peut avoir pour les économies nationales
+[00:07:56.850 --> 00:08:00.730] ainsi mises en concurrence, des effets déstabilisateurs très graves,
+[00:08:00.730 --> 00:08:05.730] qui inévitablement se répercutent ensuite sur les conditions de vie de la population.
+[00:08:05.730 --> 00:08:09.610] D'ailleurs, c'est un tel phénomène que l'on doit ces cinquante dernières années,
+[00:08:09.610 --> 00:08:15.050] la désindustrialisation de la France et la destruction de son tissu d'emploi productif,
+[00:08:15.050 --> 00:08:16.890] délocalisé dans des pays à bas coût,
+[00:08:16.890 --> 00:08:22.090] avec lesquels nous avions signé des traités de libre-échange dans le cadre de la mondialisation.
+[00:08:22.090 --> 00:08:27.370] Mais ce que souvent les observateurs qui désormais acceptent de regarder ce processus en face
+[00:08:27.370 --> 00:08:31.050] oublient souvent de dire, c'est que la mise en œuvre du marché européen,
+[00:08:31.050 --> 00:08:34.970] sorte de mondialisation à l'intérieur de la mondialisation,
+[00:08:34.970 --> 00:08:39.450] a, par certains aspects, fait beaucoup plus de mal à la France
+[00:08:39.450 --> 00:08:42.370] que l'ouverture à l'Inde ou à la Chine.
+[00:08:42.370 --> 00:08:44.890] Ainsi, si l'on regarde la dernière enquête en date,
+[00:08:44.890 --> 00:08:48.570] réalisée par l'Institut national des statistiques et des études économiques
+[00:08:48.570 --> 00:08:50.970] sur les chaînes de production mondiales,
+[00:08:50.970 --> 00:08:54.770] on découvre sur la période prise en compte, à savoir 2018-2020,
+[00:08:54.770 --> 00:08:59.210] que 72% des entreprises de 50 salariés et plus
+[00:08:59.210 --> 00:09:01.850] ayant délocalisé une activité depuis la France,
+[00:09:01.890 --> 00:09:05.530] dont 4 sur 10 appartiennent à l'industrie manufacturière,
+[00:09:05.530 --> 00:09:08.450] l'ont fait vers un autre pays européen.
+[00:09:08.450 --> 00:09:11.530] La Chine et l'Inde, considérées ensemble par l'étude,
+[00:09:11.530 --> 00:09:13.410] n'arrivent que très loin derrière,
+[00:09:13.410 --> 00:09:19.010] comme une zone d'accueil pour seulement 23% des entreprises délocalisantes.
+[00:09:19.010 --> 00:09:21.610] Certes, les chiffres commencent à être anciens,
+[00:09:21.610 --> 00:09:24.650] mais de plus récents, portant sur la période post-Covid,
+[00:09:24.650 --> 00:09:26.010] devraient arriver cette année.
+[00:09:26.010 --> 00:09:29.010] Et on voit mal comment ils pourraient, au regard de la dégradation des relations
+[00:09:29.010 --> 00:09:31.770] entre l'Europe et la Chine au cours des six dernières années,
+[00:09:31.770 --> 00:09:35.890] inverser une tendance très claire qui vient battre en brèche une idée reçue.
+[00:09:35.890 --> 00:09:39.970] Non, aujourd'hui, la majorité des délocalisations d'unités de production
+[00:09:39.970 --> 00:09:44.250] qui frappent la France ne se font pas au bénéfice de l'Asie du Sud-Est.
+[00:09:44.250 --> 00:09:48.250] Elles se font vers la Pologne, la Bulgarie ou encore la Slovénie,
+[00:09:48.250 --> 00:09:52.490] pays où la main-d'œuvre est moins bien payée que les ouvriers français.
+[00:09:52.490 --> 00:09:56.130] Et au final, par les pertes d'emplois, mais aussi de savoir-faire
+[00:09:56.130 --> 00:09:57.890] et de capitaux qui en résultent,
+[00:09:57.890 --> 00:10:00.770] c'est la France entière qui se retrouve perdante.
+[00:10:00.810 --> 00:10:03.690] Des faits qu'il serait bon de prendre en considération
+[00:10:03.690 --> 00:10:07.250] lorsque l'on évoque l'intégration de pays où clairement les salaires,
+[00:10:07.250 --> 00:10:10.730] les conditions de travail et l'ensemble des normes sociales ou environnementales
+[00:10:10.730 --> 00:10:12.850] sont clairement différentes des nôtres.
+[00:10:12.850 --> 00:10:16.090] Au sein de l'Union européenne, au-delà de 40 000 poulets par élevage,
+[00:10:16.090 --> 00:10:18.890] il faut une autorisation synonyme de procédures,
+[00:10:18.890 --> 00:10:21.730] souvent très longues, sujettes à recours, etc.
+[00:10:21.730 --> 00:10:26.170] Quand en Ukraine, l'élevage moyen compte 2 à 3 millions de volailles,
+[00:10:26.170 --> 00:10:29.770] ultra concentrés, j'ajoute que 90 % des exportations d'Ukraine
+[00:10:29.770 --> 00:10:31.370] sont réalisées par un seul groupe.
+[00:10:31.370 --> 00:10:35.970] Quant au modèle sanitaire, celui de l'Union européenne et donc de la France
+[00:10:35.970 --> 00:10:38.570] concernant par exemple la réglementation salmonelle,
+[00:10:38.570 --> 00:10:40.650] c'est une bactérie, est parmi les plus strictes au monde
+[00:10:40.650 --> 00:10:43.810] alors qu'on n'a pas les garanties d'un tel schéma en Ukraine.
+[00:10:45.050 --> 00:10:48.490] Et à ce propos, si globalement toute extension de l'UE
+[00:10:48.490 --> 00:10:51.450] peut se traduire en France par des destructions d'activité,
+[00:10:51.450 --> 00:10:55.930] le cas spécifique de l'Ukraine pose à notre pays un problème particulier,
+[00:10:55.970 --> 00:10:59.890] en cela qu'il vient menacer directement la survie de nos agriculteurs
+[00:10:59.890 --> 00:11:01.570] et de notre modèle agricole.
+[00:11:01.570 --> 00:11:02.570] Pourquoi cela ?
+[00:11:02.570 --> 00:11:05.290] Parce que l'Ukraine, c'est une grande puissance agricole
+[00:11:05.290 --> 00:11:08.010] dotée d'immenses surfaces cultivables.
+[00:11:08.010 --> 00:11:11.730] Elle compte parmi les premiers producteurs mondiaux de céréales,
+[00:11:11.730 --> 00:11:13.770] de maïs et d'oléagineux.
+[00:11:13.770 --> 00:11:17.210] Mais surtout, les conditions de production y sont très différentes
+[00:11:17.210 --> 00:11:20.890] de celles visant à garantir la qualité des produits finis
+[00:11:20.890 --> 00:11:24.330] imposés aux agriculteurs et aux éleveurs français.
+[00:11:24.330 --> 00:11:28.890] Certaines exploitations en Ukraine s'étendent sur des dizaines de milliers d'hectares.
+[00:11:28.890 --> 00:11:33.490] Les fermes peuvent atteindre des tailles 50 fois supérieures à la moyenne française,
+[00:11:33.490 --> 00:11:37.090] résultant d'un modèle d'exploitation principalement familial.
+[00:11:37.090 --> 00:11:41.370] Les normes en matière de santé animale ou d'usage de produits phytosanitaires
+[00:11:41.370 --> 00:11:43.010] sont très éloignées des nôtres,
+[00:11:43.010 --> 00:11:46.490] et les coûts qui en résultent, par exemple sur les élevages de poulets,
+[00:11:46.490 --> 00:11:51.330] peuvent être jusqu'à 40% moins élevés que dans notre pays.
+[00:11:51.330 --> 00:11:54.730] Dans ces conditions, l'intégration de l'Ukraine au marché unique,
+[00:11:54.730 --> 00:11:59.610] mettant fin à tout tarif douanier et à tout quota d'échanges entre nos deux pays,
+[00:11:59.610 --> 00:12:02.770] représente pour les agriculteurs et les éleveurs français,
+[00:12:02.770 --> 00:12:05.090] mais aussi pour ceux du reste de l'UE,
+[00:12:05.090 --> 00:12:08.130] une menace existentielle majeure.
+[00:12:08.130 --> 00:12:11.530] Une menace d'ailleurs déjà pointée du doigt par la profession
+[00:12:11.530 --> 00:12:15.410] lors de son grand mouvement social de l'hiver 2023-2024.
+[00:12:15.410 --> 00:12:19.170] À l'époque, l'Union européenne avait déjà suspendu de manière temporaire
+[00:12:19.170 --> 00:12:22.290] les droits de douane sur les importations agricoles ukrainiennes,
+[00:12:22.290 --> 00:12:25.650] en vue de soutenir le pays dans sa guerre contre la Russie.
+[00:12:25.650 --> 00:12:29.210] Rapidement, cette décision avait eu des effets catastrophiques,
+[00:12:29.210 --> 00:12:33.850] obligeant les autorités européennes à rétablir tarifs et quotas d'importation.
+[00:12:33.850 --> 00:12:36.010] Mais si l'Ukraine l'intégrait pour de bons lieux,
+[00:12:36.010 --> 00:12:40.050] alors les mesures de protection de ce genre deviendraient de fait illégales.
+[00:12:40.050 --> 00:12:45.370] Un problème majeur se présenterait alors encore aggravé par d'autres mécanismes secondaires,
+[00:12:45.370 --> 00:12:48.490] tels le redéploiement vers les fermes-usines ukrainiennes
+[00:12:48.490 --> 00:12:52.050] d'une grande partie de l'argent de la politique agricole commune.
+[00:12:52.050 --> 00:12:55.250] De quoi, vous l'aurez compris, ruiner nos agriculteurs
+[00:12:55.250 --> 00:12:58.410] et achever de détruire ce qui reste de notre modèle paysan,
+[00:12:58.410 --> 00:13:03.210] mais aussi nécessairement de quoi nuire gravement aux consommateurs français.
+[00:13:03.210 --> 00:13:06.250] Car si déjà aujourd'hui les produits ukrainiens bas de gamme
+[00:13:06.250 --> 00:13:08.730] se retrouvent dans nombre d'aliments transformés,
+[00:13:08.730 --> 00:13:12.050] l'indication d'origine n'étant pas obligatoire sur ce genre de produit
+[00:13:12.050 --> 00:13:14.570] dès lors qu'ils sont transformés au sein de l'UE,
+[00:13:14.570 --> 00:13:17.970] demain cela pourrait être le cas de tous les produits du genre,
+[00:13:17.970 --> 00:13:21.690] des découpes de poulets vendus en barquettes aux charcuteries reconstituées,
+[00:13:21.690 --> 00:13:23.410] en passant par les plats cuisinés,
+[00:13:23.410 --> 00:13:28.090] avec à la clé des effets non négligeables sur la santé de tous les Français
+[00:13:28.090 --> 00:13:30.810] n'ayant pas les moyens de manger local et bio
+[00:13:30.810 --> 00:13:35.530] et une explosion des cas d'obésité, de diabète et de maladies chroniques.
+[00:13:35.530 --> 00:13:36.570] Alors on le voit,
+[00:13:36.570 --> 00:13:40.370] n'en déplaise à certains à la question de l'adhésion de l'Ukraine à l'UE
+[00:13:40.370 --> 00:13:41.930] à de réelles implications,
+[00:13:41.930 --> 00:13:46.330] un tout petit peu plus sérieuse que le fait de savoir si l'on apprécie Poutine ou non.
+[00:13:46.330 --> 00:13:48.610] Et alors que cette question est à nouveau sur la table,
+[00:13:48.610 --> 00:13:52.210] on serait en droit d'attendre de la France qu'elle use de son droit de veto
+[00:13:52.210 --> 00:13:57.330] afin de protéger son économie, son agriculture et la santé de ses citoyens.
+[00:13:57.330 --> 00:13:58.890] On s'en souvient, en début d'année,
+[00:13:58.890 --> 00:14:03.290] Emmanuel Macron avait pour ses mêmes raisons exprimé son opposition
+[00:14:03.290 --> 00:14:07.530] à la signature du traité de libre-échange entre l'UE et le Mercosur.
+[00:14:07.530 --> 00:14:10.290] Mais d'une part, cet accord aussi mauvais était-il
+[00:14:10.290 --> 00:14:13.370] représenté pour notre pays une menace bien moindre
+[00:14:13.370 --> 00:14:16.330] que la perspective d'une entrée de l'Ukraine dans l'Union.
+[00:14:16.330 --> 00:14:19.410] Et d'autre part, la France n'avait alors pas le pouvoir,
+[00:14:19.410 --> 00:14:23.370] du fait des règles européennes, de bloquer à elle seule cet accord.
+[00:14:23.370 --> 00:14:29.090] Aujourd'hui, la France a les moyens de bloquer l'adhésion de l'Ukraine à l'UE.
+[00:14:29.090 --> 00:14:32.250] Pas besoin cette fois de quitter l'UE pour l'empêcher.
+[00:14:32.250 --> 00:14:36.170] Que Macron use de son droit de veto comme le droit européen le permet
+[00:14:36.170 --> 00:14:39.050] et les négociations s'arrêteront tout de suite.
+[00:14:39.050 --> 00:14:43.490] À moins, bien sûr, que son soutien à nos paysans ne soit qu'un soutien de façade
+[00:14:43.490 --> 00:14:48.410] et en vocation à s'effacer dès lors que le président a effectivement les moyens d'agir concrètement
+[00:14:48.410 --> 00:14:52.010] et que nous ne sommes pas face à un pur exercice de communication, bien sûr.
+[00:14:52.010 --> 00:14:54.650] Et l'on ne va pas se mentir, connaissant Emmanuel Macron,
+[00:14:54.650 --> 00:14:56.450] nous savons tous que c'est le cas.
+[00:14:56.450 --> 00:15:00.970] Mais en réalité, dans cette histoire, la position de Macron importe peu.
+[00:15:00.970 --> 00:15:03.810] Car sauf retournement de situation surprise à l'horizon,
+[00:15:03.810 --> 00:15:06.250] dans un an, il ne sera plus président.
+[00:15:06.250 --> 00:15:07.890] Et comme nous vous le disions tout à l'heure,
+[00:15:07.890 --> 00:15:11.730] les négociations entre l'UE et l'Ukraine seront loin d'être terminées.
+[00:15:11.730 --> 00:15:14.490] Ce qui signifie que la personne, quelle qu'elle soit,
+[00:15:14.490 --> 00:15:17.730] qui deviendra président ou présidente en 2027,
+[00:15:17.730 --> 00:15:20.890] aura le pouvoir de dire non à cela.
+[00:15:20.890 --> 00:15:25.010] Et donc que cette question ukrainienne sera un enjeu de la campagne qui vient,
+[00:15:25.010 --> 00:15:29.770] sur lequel nous sommes en droit d'exiger que chaque candidat prenne position
+[00:15:29.770 --> 00:15:32.490] et s'engage officiellement dès à présent.
+[00:15:32.490 --> 00:15:36.370] Si le candidat ou la candidate du Rassemblement national est élu là en prochain,
+[00:15:36.370 --> 00:15:39.770] à l'heure où nous tournons cette vidéo, nous ne connaissons pas encore son identité,
+[00:15:39.770 --> 00:15:41.770] s'engage-t-il, devant les Français,
+[00:15:41.770 --> 00:15:45.890] à opposer son veto à l'adhésion de l'Ukraine pour sauver notre agriculture ?
+[00:15:45.890 --> 00:15:48.610] Si Jean-Luc Mélenchon est élu, s'y engage-t-il ?
+[00:15:48.610 --> 00:15:51.530] Si Gabriel Attal, Raphaël Glucksmann ou un autre est élu,
+[00:15:51.530 --> 00:15:53.970] même si on se doute que non, s'y engage-t-il ?
+[00:15:53.970 --> 00:15:56.490] Cette question, il va falloir la leur poser,
+[00:15:56.490 --> 00:15:59.450] jusqu'à obtenir une réponse claire,
+[00:15:59.450 --> 00:16:04.490] afin que tous, autant qu'ils sont, ne puissent se soustraire à leur responsabilité.
+[00:16:04.530 --> 00:16:07.570] Et s'ils répondent en tergiversant, en noyant le poisson
+[00:16:07.570 --> 00:16:11.530] ou en accusant leurs interlocuteurs d'être des agents embusqués de la Russie,
+[00:16:11.530 --> 00:16:14.290] alors nous saurons malheureusement à quoi nous en tenir,
+[00:16:14.290 --> 00:16:17.370] et nous en tirerons bien sûr toutes les conclusions qui s'imposent.
+[00:16:20.250 --> 00:16:22.130] Voilà le fil d'actus, c'est tout pour aujourd'hui.
+[00:16:22.130 --> 00:16:25.730] Merci d'avoir été avec nous, nous espérons que cette vidéo vous aura intéressé
+[00:16:25.730 --> 00:16:28.370] et vous aura aidé à mieux cerner les enjeux réels
+[00:16:28.370 --> 00:16:31.050] derrière les questions d'élargissement européens.
+[00:16:31.050 --> 00:16:33.730] Enjeux trop souvent évacués par les médias et les politiques,
+[00:16:33.730 --> 00:16:36.970] préférant substituer au débat politique des injonctions morales
+[00:16:36.970 --> 00:16:41.210] destinées à nous faire penser contre nos propres intérêts et contre nous-mêmes.
+[00:16:41.210 --> 00:16:43.570] Si vous en avez assez de cette manière de faire
+[00:16:43.570 --> 00:16:46.130] et que vous souhaitez faire contrepoids au récit habituel,
+[00:16:46.130 --> 00:16:49.010] alors nous vous invitons à partager cette vidéo autour de vous
+[00:16:49.010 --> 00:16:51.450] et à faire connaître à votre entourage les faits qu'elle énonce.
+[00:16:51.450 --> 00:16:53.730] Surtout si vous trouvez notre travail intéressant,
+[00:16:53.730 --> 00:16:57.250] si vous jugez que nous apportons quelque chose d'utile dans l'espace public,
+[00:16:57.250 --> 00:16:59.290] alors nous vous invitons à soutenir notre chaîne.
+[00:16:59.290 --> 00:17:03.410] À hauteur de quelques euros par mois vient notre page de financement participatif Tipeee,
+[00:17:03.410 --> 00:17:06.010] dont le lien se trouve en barre d'infos sous cette vidéo.
+[00:17:06.010 --> 00:17:10.570] Pourquoi ? Parce qu'au fil d'actu, nous sommes un média 100% et réellement indépendant.
+[00:17:10.570 --> 00:17:13.730] Nous ne touchons aucun centime de la part de l'État, de l'UE
+[00:17:13.730 --> 00:17:17.210] ou d'une quelconque structure nationale ou supranationale.
+[00:17:17.210 --> 00:17:19.810] Nous n'avons aucun milliardaire influent derrière nous,
+[00:17:19.810 --> 00:17:23.570] aucune marque, aucun lobby et bien sûr aucun parti politique.
+[00:17:23.570 --> 00:17:27.810] Un choix qui peut sembler anodin, bizarre, mais qui en réalité est essentiel.
+[00:17:27.810 --> 00:17:32.290] Car cette indépendance, elle conditionne la possibilité d'une information libre
+[00:17:32.290 --> 00:17:35.810] au service de ce que nous considérons être les intérêts de la France.
+[00:17:35.810 --> 00:17:38.410] Et elle est donc absolument non négociable,
+[00:17:38.410 --> 00:17:42.050] à plus forte raison dans un contexte où la propagande se cache partout
+[00:17:42.050 --> 00:17:44.210] et où les institutions européennes, notamment,
+[00:17:44.210 --> 00:17:47.930] usent de tout leur poids pour imposer une certaine vision du monde
+[00:17:47.930 --> 00:17:50.010] dans la presse et sur les réseaux sociaux.
+[00:17:50.010 --> 00:17:51.970] Mais cette indépendance, elle a un prix.
+[00:17:51.970 --> 00:17:55.090] C'est que pour exister, pour faire entendre une autre voix,
+[00:17:55.090 --> 00:17:57.770] le fil d'actu a besoin de vous et de votre soutien.
+[00:17:57.770 --> 00:18:01.730] Faire fonctionner un média comme le fil d'actu, cela demande bien sûr du temps, du travail,
+[00:18:01.730 --> 00:18:06.730] celui de deux équivalents temps plein, en plus de mon propre travail actuellement bénévole sur cette chaîne.
+[00:18:06.730 --> 00:18:11.010] Et donc des moyens financiers, au minimum autour de 5000 euros par mois.
+[00:18:11.010 --> 00:18:14.210] Des moyens que vous êtes les seuls à pouvoir nous procurer.
+[00:18:14.210 --> 00:18:18.410] En juin, grâce à vous, la situation financière du fil d'actu s'est quelque peu améliorée.
+[00:18:18.410 --> 00:18:22.650] Et pour le troisième mois consécutif, nous avons réussi à couvrir nos dépenses de fonctionnement,
+[00:18:22.650 --> 00:18:25.010] ce qui n'était plus le cas depuis le début de l'année.
+[00:18:25.010 --> 00:18:30.010] Pour nous, c'est donc très encourageant et on remercie évidemment tous nos tipeurs pour cela.
+[00:18:30.010 --> 00:18:33.570] Tous ceux qui misent au courant de notre situation ont répondu à notre appel.
+[00:18:33.570 --> 00:18:37.410] Et bien sûr, tous ceux qui nous ont soutenus ou nous soutiennent parfois depuis des mois ou des années.
+[00:18:37.410 --> 00:18:40.330] On sait ce qu'on vous doit, soyez assurés qu'on ne l'oubliera pas.
+[00:18:40.330 --> 00:18:44.450] Pour autant, sachez que même si notre situation s'est considérablement améliorée ces derniers mois,
+[00:18:44.450 --> 00:18:48.210] l'avenir du fil d'actu reste précaire et sa situation fragile.
+[00:18:48.210 --> 00:18:53.130] Ce mois-ci, comme le mois suivant, il va à nouveau nous falloir batailler pour arriver à l'équilibre financier.
+[00:18:53.130 --> 00:18:56.170] Et dans ces conditions, il reste difficile de nous projeter dans l'avenir.
+[00:18:56.170 --> 00:18:59.690] Aussi, à vous qui nous regardez et qui peut-être hésitez à nous soutenir,
+[00:18:59.690 --> 00:19:04.890] nous vous le disons à nouveau, pour pouvoir exister, pour pouvoir continuer à donner du sens à l'information,
+[00:19:04.890 --> 00:19:06.690] le fil d'actu a besoin de vous.
+[00:19:06.690 --> 00:19:12.050] Donc, si vous jugez utile que vive notre média, et cela va sans dire que vous en avez les moyens, bien sûr,
+[00:19:12.050 --> 00:19:15.170] nous vous invitons à devenir à votre tour tipeur de l'émission.
+[00:19:15.170 --> 00:19:19.690] Pour cela, il vous suffit encore une fois de vous rendre sur notre page Tipeee, le lien est sous la vidéo,
+[00:19:19.690 --> 00:19:23.730] de vous munir d'un moyen de paiement, de choisir le montant et la régularité de votre soutien
+[00:19:23.730 --> 00:19:27.250] et de vous laisser guider par la plateforme, sans pour s'en sécuriser, cela va de soi.
+[00:19:27.250 --> 00:19:30.770] On vous adresse d'avance un grand merci et on vous souhaite la bienvenue à nos côtés.
+[00:19:30.770 --> 00:19:33.090] Pour terminer, quelques ultimes recommandations, bien sûr.
+[00:19:33.090 --> 00:19:35.850] Tout d'abord, pensez, si ce n'est pas déjà fait, à vous abonner à notre chaîne,
+[00:19:35.850 --> 00:19:39.770] à activer les notifications en cliquant sur la cloche et à nous suivre sur nos différents réseaux,
+[00:19:39.770 --> 00:19:42.570] Instagram et Facebook, ainsi que sur mon TikTok personnel,
+[00:19:42.570 --> 00:19:45.530] pour multiplier vos chances de ne rater aucune de nos nouvelles publications.
+[00:19:45.530 --> 00:19:48.490] Enfin, si le cœur vous en dit, pensez à laisser un pouce vers le haut sous cette vidéo.
+[00:19:48.490 --> 00:19:51.370] Ainsi, si vous le souhaitez qu'une réflexion personnelle en commentaire,
+[00:19:51.410 --> 00:19:54.770] non seulement ça fait plaisir, mais cela améliore également le référencement de la vidéo
+[00:19:54.770 --> 00:19:57.010] et donc la visibilité de notre chaîne.
+[00:19:57.010 --> 00:20:00.130] C'est donc un véritable moyen utile et gratuit de nous aider.
+[00:20:00.130 --> 00:20:03.130] Voilà, merci d'avance. Encore merci de nous avoir suivis.
+[00:20:03.130 --> 00:20:05.570] Je vous dis à la semaine prochaine pour un nouveau fil d'actu,
+[00:20:05.570 --> 00:20:07.170] l'émission qui donne du sens à l'information.

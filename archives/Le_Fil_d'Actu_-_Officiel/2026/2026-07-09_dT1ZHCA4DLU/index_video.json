@@ -1,0 +1,432 @@
+{
+  "schema_version": "1.1",
+  "video_id": "dT1ZHCA4DLU",
+  "resume_general": "Argumentaire du Fil d'Actu contre l'adhésion de l'Ukraine à l'Union européenne. La chaîne invoque coûts budgétaires, redistribution des fonds européens, délocalisations, concurrence agricole, écarts de normes et risques sanitaires, puis demande à la France et aux candidats de 2027 de s'engager à utiliser le veto.",
+  "themes_principaux": [
+    {
+      "theme": "Adhésion de l'Ukraine à l'UE",
+      "niveau": "développé",
+      "horodatages": [
+        "00:02:20"
+      ]
+    },
+    {
+      "theme": "Unanimité et veto français",
+      "niveau": "développé",
+      "horodatages": [
+        "00:03:30"
+      ]
+    },
+    {
+      "theme": "Coût budgétaire et fonds européens",
+      "niveau": "développé",
+      "horodatages": [
+        "00:04:12"
+      ]
+    },
+    {
+      "theme": "Délocalisations intra-européennes",
+      "niveau": "développé",
+      "horodatages": [
+        "00:08:34"
+      ]
+    },
+    {
+      "theme": "Agriculture ukrainienne",
+      "niveau": "développé",
+      "horodatages": [
+        "00:10:45"
+      ]
+    },
+    {
+      "theme": "Normes sanitaires et consommateurs",
+      "niveau": "développé",
+      "horodatages": [
+        "00:13:03"
+      ]
+    },
+    {
+      "theme": "Présidentielle 2027",
+      "niveau": "développé",
+      "horodatages": [
+        "00:15:00"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Unanimité et veto français",
+      "description": "Dimension secondaire significative reliée au sujet principal : Unanimité et veto français.",
+      "horodatages": [
+        "00:03:30"
+      ]
+    },
+    {
+      "sujet": "Coût budgétaire et fonds européens",
+      "description": "Dimension secondaire significative reliée au sujet principal : Coût budgétaire et fonds européens.",
+      "horodatages": [
+        "00:04:12"
+      ]
+    },
+    {
+      "sujet": "Délocalisations intra-européennes",
+      "description": "Dimension secondaire significative reliée au sujet principal : Délocalisations intra-européennes.",
+      "horodatages": [
+        "00:08:34"
+      ]
+    },
+    {
+      "sujet": "Agriculture ukrainienne",
+      "description": "Dimension secondaire significative reliée au sujet principal : Agriculture ukrainienne.",
+      "horodatages": [
+        "00:10:45"
+      ]
+    },
+    {
+      "sujet": "Normes sanitaires et consommateurs",
+      "description": "Dimension secondaire significative reliée au sujet principal : Normes sanitaires et consommateurs.",
+      "horodatages": [
+        "00:13:03"
+      ]
+    },
+    {
+      "sujet": "Présidentielle 2027",
+      "description": "Dimension secondaire significative reliée au sujet principal : Présidentielle 2027.",
+      "horodatages": [
+        "00:15:00"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "Ukraine",
+    "adhésion",
+    "Union européenne",
+    "veto",
+    "unanimité",
+    "PAC",
+    "fonds de cohésion",
+    "délocalisation",
+    "agriculture",
+    "volaille",
+    "droits de douane",
+    "quotas",
+    "normes sanitaires",
+    "Mercosur",
+    "présidentielle 2027"
+  ],
+  "variantes_lexicales": [],
+  "personnes": [
+    {
+      "nom": "Volodymyr Zelensky",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jean-Luc Mélenchon",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "Gabriel Attal",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "Raphaël Glucksmann",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Union européenne",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Insee",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Rassemblement national",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "politique agricole commune",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Le Fil d'Actu",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Adhésion de l'Ukraine à l'UE",
+      "explication": "Concept expliqué dans la séquence consacrée à adhésion de l'ukraine à l'ue.",
+      "horodatages": [
+        "00:02:20"
+      ]
+    },
+    {
+      "nom": "Unanimité et veto français",
+      "explication": "Concept expliqué dans la séquence consacrée à unanimité et veto français.",
+      "horodatages": [
+        "00:03:30"
+      ]
+    },
+    {
+      "nom": "Coût budgétaire et fonds européens",
+      "explication": "Concept expliqué dans la séquence consacrée à coût budgétaire et fonds européens.",
+      "horodatages": [
+        "00:04:12"
+      ]
+    },
+    {
+      "nom": "Délocalisations intra-européennes",
+      "explication": "Concept expliqué dans la séquence consacrée à délocalisations intra-européennes.",
+      "horodatages": [
+        "00:08:34"
+      ]
+    },
+    {
+      "nom": "Agriculture ukrainienne",
+      "explication": "Concept expliqué dans la séquence consacrée à agriculture ukrainienne.",
+      "horodatages": [
+        "00:10:45"
+      ]
+    },
+    {
+      "nom": "Normes sanitaires et consommateurs",
+      "explication": "Concept expliqué dans la séquence consacrée à normes sanitaires et consommateurs.",
+      "horodatages": [
+        "00:13:03"
+      ]
+    },
+    {
+      "nom": "Présidentielle 2027",
+      "explication": "Concept expliqué dans la séquence consacrée à présidentielle 2027.",
+      "horodatages": [
+        "00:15:00"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "Suspension des droits sur les importations ukrainiennes",
+      "date_ou_periode": "hiver 2023-2024",
+      "description": "Suspension des droits sur les importations ukrainiennes",
+      "horodatages": [
+        "00:12:08"
+      ]
+    },
+    {
+      "nom": "Négociations d'adhésion UE-Ukraine",
+      "date_ou_periode": "années 2020",
+      "description": "Négociations d'adhésion UE-Ukraine",
+      "horodatages": [
+        "00:02:20"
+      ]
+    },
+    {
+      "nom": "Élection présidentielle française",
+      "date_ou_periode": "2027",
+      "description": "Élection présidentielle française",
+      "horodatages": [
+        "00:15:14"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:04:12",
+      "contenu": "débat moral, calendrier et veto"
+    },
+    {
+      "debut": "00:04:12",
+      "fin": "00:08:34",
+      "contenu": "budget et redistribution"
+    },
+    {
+      "debut": "00:08:34",
+      "fin": "00:10:45",
+      "contenu": "délocalisations"
+    },
+    {
+      "debut": "00:10:45",
+      "fin": "00:13:35",
+      "contenu": "agriculture, normes et santé"
+    },
+    {
+      "debut": "00:13:35",
+      "fin": "00:16:20",
+      "contenu": "veto et présidentielle"
+    },
+    {
+      "debut": "00:16:20",
+      "fin": "00:20:07",
+      "contenu": "appel au soutien du média"
+    }
+  ],
+  "expressions_representatives": [
+    "Adhésion de l'Ukraine à l'UE",
+    "Unanimité et veto français",
+    "Coût budgétaire et fonds européens",
+    "Délocalisations intra-européennes",
+    "Agriculture ukrainienne",
+    "Normes sanitaires et consommateurs",
+    "Présidentielle 2027"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "L'adhésion exige l'unanimité et peut être bloquée par la France.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:03:30"
+      ]
+    },
+    {
+      "position": "L'Ukraine deviendrait un bénéficiaire majeur des fonds européens au détriment de bénéficiaires actuels.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:04:12"
+      ]
+    },
+    {
+      "position": "La majorité des délocalisations françaises étudiées se fait vers d'autres pays européens.",
+      "attribution": "enquête Insee citée",
+      "statut": "rapporté",
+      "horodatages": [
+        "00:08:44"
+      ]
+    },
+    {
+      "position": "Les écarts de coûts et de normes menaceraient l'agriculture française.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:10:45"
+      ]
+    },
+    {
+      "position": "La suppression des quotas rendrait les protections agricoles impossibles.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:11:51"
+      ]
+    },
+    {
+      "position": "Les candidats de 2027 doivent annoncer leur position sur le veto.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "demande politique",
+      "horodatages": [
+        "00:15:20"
+      ]
+    },
+    {
+      "position": "Les défenseurs de l'adhésion peuvent invoquer des bénéfices géopolitiques et économiques.",
+      "attribution": "position adverse mentionnée mais peu développée",
+      "statut": "rapporté",
+      "horodatages": [
+        "00:04:12"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "Ukraine",
+      "contexte": "agriculture, industrie et négociations d'adhésion",
+      "horodatages": [
+        "00:02:20"
+      ]
+    },
+    {
+      "lieu_ou_periode": "France et Europe centrale",
+      "contexte": "délocalisations intra-européennes",
+      "horodatages": [
+        "00:08:34"
+      ]
+    },
+    {
+      "lieu_ou_periode": "France",
+      "contexte": "débat électoral sur le veto",
+      "horodatages": [
+        "00:13:48"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Adhésion de l'Ukraine à l'UE",
+      "relation": "éclaire ou conduit à",
+      "cible": "Unanimité et veto français",
+      "horodatages": [
+        "00:02:20"
+      ]
+    },
+    {
+      "source": "Unanimité et veto français",
+      "relation": "éclaire ou conduit à",
+      "cible": "Coût budgétaire et fonds européens",
+      "horodatages": [
+        "00:03:30"
+      ]
+    },
+    {
+      "source": "Coût budgétaire et fonds européens",
+      "relation": "éclaire ou conduit à",
+      "cible": "Délocalisations intra-européennes",
+      "horodatages": [
+        "00:04:12"
+      ]
+    },
+    {
+      "source": "Délocalisations intra-européennes",
+      "relation": "éclaire ou conduit à",
+      "cible": "Agriculture ukrainienne",
+      "horodatages": [
+        "00:08:34"
+      ]
+    },
+    {
+      "source": "Agriculture ukrainienne",
+      "relation": "éclaire ou conduit à",
+      "cible": "Normes sanitaires et consommateurs",
+      "horodatages": [
+        "00:10:45"
+      ]
+    },
+    {
+      "source": "Normes sanitaires et consommateurs",
+      "relation": "éclaire ou conduit à",
+      "cible": "Présidentielle 2027",
+      "horodatages": [
+        "00:13:03"
+      ]
+    }
+  ]
+}

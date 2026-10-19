@@ -1,0 +1,467 @@
+{
+  "schema_version": "1.1",
+  "video_id": "SDcDg6diFUc",
+  "resume_general": "Bilan éditorial très critique de la saison politique 2025-2026. Le Fil d'Actu décrit une Europe dépendante des États-Unis, affaiblie par la désindustrialisation et le libre-échange, prise entre pression américaine et puissance chinoise, tandis que le gouvernement français masquerait dette et déclassement par la communication.",
+  "themes_principaux": [
+    {
+      "theme": "Recomposition de l'ordre mondial",
+      "niveau": "développé",
+      "horodatages": [
+        "00:00:17"
+      ]
+    },
+    {
+      "theme": "Désindustrialisation européenne",
+      "niveau": "développé",
+      "horodatages": [
+        "00:01:42"
+      ]
+    },
+    {
+      "theme": "Dépendance envers les États-Unis",
+      "niveau": "développé",
+      "horodatages": [
+        "00:05:24"
+      ]
+    },
+    {
+      "theme": "Libre-échange et Chine",
+      "niveau": "développé",
+      "horodatages": [
+        "00:07:22"
+      ]
+    },
+    {
+      "theme": "Crise de légitimité européenne",
+      "niveau": "développé",
+      "horodatages": [
+        "00:10:19"
+      ]
+    },
+    {
+      "theme": "Communication gouvernementale et médias",
+      "niveau": "développé",
+      "horodatages": [
+        "00:11:46"
+      ]
+    },
+    {
+      "theme": "Dette publique française",
+      "niveau": "développé",
+      "horodatages": [
+        "00:14:38"
+      ]
+    },
+    {
+      "theme": "Présidentielle à venir",
+      "niveau": "développé",
+      "horodatages": [
+        "00:16:09"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Désindustrialisation européenne",
+      "description": "Dimension secondaire significative reliée au sujet principal : Désindustrialisation européenne.",
+      "horodatages": [
+        "00:01:42"
+      ]
+    },
+    {
+      "sujet": "Dépendance envers les États-Unis",
+      "description": "Dimension secondaire significative reliée au sujet principal : Dépendance envers les États-Unis.",
+      "horodatages": [
+        "00:05:24"
+      ]
+    },
+    {
+      "sujet": "Libre-échange et Chine",
+      "description": "Dimension secondaire significative reliée au sujet principal : Libre-échange et Chine.",
+      "horodatages": [
+        "00:07:22"
+      ]
+    },
+    {
+      "sujet": "Crise de légitimité européenne",
+      "description": "Dimension secondaire significative reliée au sujet principal : Crise de légitimité européenne.",
+      "horodatages": [
+        "00:10:19"
+      ]
+    },
+    {
+      "sujet": "Communication gouvernementale et médias",
+      "description": "Dimension secondaire significative reliée au sujet principal : Communication gouvernementale et médias.",
+      "horodatages": [
+        "00:11:46"
+      ]
+    },
+    {
+      "sujet": "Dette publique française",
+      "description": "Dimension secondaire significative reliée au sujet principal : Dette publique française.",
+      "horodatages": [
+        "00:14:38"
+      ]
+    },
+    {
+      "sujet": "Présidentielle à venir",
+      "description": "Dimension secondaire significative reliée au sujet principal : Présidentielle à venir.",
+      "horodatages": [
+        "00:16:09"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "multipolarité",
+    "Chine",
+    "États-Unis",
+    "vassalisation",
+    "désindustrialisation",
+    "libre-échange",
+    "Made in Europe",
+    "Mercosur",
+    "droits de douane",
+    "souveraineté",
+    "dette publique",
+    "médias",
+    "communication politique",
+    "présidentielle"
+  ],
+  "variantes_lexicales": [],
+  "personnes": [
+    {
+      "nom": "Ursula von der Leyen",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "Donald Trump",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    },
+    {
+      "nom": "Jean-Noël Barrot",
+      "niveau": "mention ou développé",
+      "role": "personne citée ou commentée",
+      "horodatages": []
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Union européenne",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Commission européenne",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "États-Unis",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Volkswagen",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Mercosur",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Élysée",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    },
+    {
+      "nom": "Le Fil d'Actu",
+      "niveau": "mention ou développé",
+      "type": "organisation citée ou analysée",
+      "horodatages": []
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Recomposition de l'ordre mondial",
+      "explication": "Concept expliqué dans la séquence consacrée à recomposition de l'ordre mondial.",
+      "horodatages": [
+        "00:00:17"
+      ]
+    },
+    {
+      "nom": "Désindustrialisation européenne",
+      "explication": "Concept expliqué dans la séquence consacrée à désindustrialisation européenne.",
+      "horodatages": [
+        "00:01:42"
+      ]
+    },
+    {
+      "nom": "Dépendance envers les États-Unis",
+      "explication": "Concept expliqué dans la séquence consacrée à dépendance envers les états-unis.",
+      "horodatages": [
+        "00:05:24"
+      ]
+    },
+    {
+      "nom": "Libre-échange et Chine",
+      "explication": "Concept expliqué dans la séquence consacrée à libre-échange et chine.",
+      "horodatages": [
+        "00:07:22"
+      ]
+    },
+    {
+      "nom": "Crise de légitimité européenne",
+      "explication": "Concept expliqué dans la séquence consacrée à crise de légitimité européenne.",
+      "horodatages": [
+        "00:10:19"
+      ]
+    },
+    {
+      "nom": "Communication gouvernementale et médias",
+      "explication": "Concept expliqué dans la séquence consacrée à communication gouvernementale et médias.",
+      "horodatages": [
+        "00:11:46"
+      ]
+    },
+    {
+      "nom": "Dette publique française",
+      "explication": "Concept expliqué dans la séquence consacrée à dette publique française.",
+      "horodatages": [
+        "00:14:38"
+      ]
+    },
+    {
+      "nom": "Présidentielle à venir",
+      "explication": "Concept expliqué dans la séquence consacrée à présidentielle à venir.",
+      "horodatages": [
+        "00:16:09"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "Saison politique française",
+      "date_ou_periode": "2025-2026",
+      "description": "Saison politique française",
+      "horodatages": [
+        "00:00:04"
+      ]
+    },
+    {
+      "nom": "Accords commerciaux UE-Mercosur, Inde, Indonésie, Australie",
+      "date_ou_periode": "2026",
+      "description": "Accords commerciaux UE-Mercosur, Inde, Indonésie, Australie",
+      "horodatages": [
+        "00:03:33"
+      ]
+    },
+    {
+      "nom": "Campagne présidentielle française",
+      "date_ou_periode": "année politique suivante",
+      "description": "Campagne présidentielle française",
+      "horodatages": [
+        "00:16:09"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:03:57",
+      "contenu": "cadre et promesses européennes"
+    },
+    {
+      "debut": "00:03:57",
+      "fin": "00:07:22",
+      "contenu": "ordre américain et pression sur l'Europe"
+    },
+    {
+      "debut": "00:07:22",
+      "fin": "00:10:19",
+      "contenu": "libre-échange et Chine"
+    },
+    {
+      "debut": "00:10:19",
+      "fin": "00:14:38",
+      "contenu": "légitimité, médias et débat public"
+    },
+    {
+      "debut": "00:14:38",
+      "fin": "00:17:14",
+      "contenu": "dette et présidentielle"
+    },
+    {
+      "debut": "00:17:14",
+      "fin": "00:21:35",
+      "contenu": "appel au soutien du média"
+    }
+  ],
+  "expressions_representatives": [
+    "Recomposition de l'ordre mondial",
+    "Désindustrialisation européenne",
+    "Dépendance envers les États-Unis",
+    "Libre-échange et Chine",
+    "Crise de légitimité européenne",
+    "Communication gouvernementale et médias",
+    "Dette publique française",
+    "Présidentielle à venir"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {
+      "position": "L'ordre international d'après-guerre protège les privilèges américains.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:03:57"
+      ]
+    },
+    {
+      "position": "Les délocalisations occidentales ont permis l'essor industriel chinois.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:04:21"
+      ]
+    },
+    {
+      "position": "Les États-Unis reportent sur l'Europe le coût de leur rivalité avec la Chine.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:05:24"
+      ]
+    },
+    {
+      "position": "Le libre-échange européen contredit les promesses de relocalisation.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:07:22"
+      ]
+    },
+    {
+      "position": "Les restrictions contre la Chine renchérissent les biens sans recréer immédiatement la production.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "défendu",
+      "horodatages": [
+        "00:08:06"
+      ]
+    },
+    {
+      "position": "Le récit d'attractivité masque selon la chaîne le déclassement français.",
+      "attribution": "Le Fil d'Actu",
+      "statut": "contestation du discours gouvernemental",
+      "horodatages": [
+        "00:11:46"
+      ]
+    },
+    {
+      "position": "La dette atteindrait 118 % du PIB en 2026 et plus de 130 % en 2030.",
+      "attribution": "projection citée par Le Fil d'Actu",
+      "statut": "rapporté",
+      "horodatages": [
+        "00:14:38"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu_ou_periode": "États-Unis et Europe",
+      "contexte": "pression commerciale et stratégique",
+      "horodatages": [
+        "00:05:24"
+      ]
+    },
+    {
+      "lieu_ou_periode": "Chine et pays en développement",
+      "contexte": "nouvelles routes de la soie",
+      "horodatages": [
+        "00:09:07"
+      ]
+    },
+    {
+      "lieu_ou_periode": "France",
+      "contexte": "dette et débat présidentiel",
+      "horodatages": [
+        "00:14:38"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "Recomposition de l'ordre mondial",
+      "relation": "éclaire ou conduit à",
+      "cible": "Désindustrialisation européenne",
+      "horodatages": [
+        "00:00:17"
+      ]
+    },
+    {
+      "source": "Désindustrialisation européenne",
+      "relation": "éclaire ou conduit à",
+      "cible": "Dépendance envers les États-Unis",
+      "horodatages": [
+        "00:01:42"
+      ]
+    },
+    {
+      "source": "Dépendance envers les États-Unis",
+      "relation": "éclaire ou conduit à",
+      "cible": "Libre-échange et Chine",
+      "horodatages": [
+        "00:05:24"
+      ]
+    },
+    {
+      "source": "Libre-échange et Chine",
+      "relation": "éclaire ou conduit à",
+      "cible": "Crise de légitimité européenne",
+      "horodatages": [
+        "00:07:22"
+      ]
+    },
+    {
+      "source": "Crise de légitimité européenne",
+      "relation": "éclaire ou conduit à",
+      "cible": "Communication gouvernementale et médias",
+      "horodatages": [
+        "00:10:19"
+      ]
+    },
+    {
+      "source": "Communication gouvernementale et médias",
+      "relation": "éclaire ou conduit à",
+      "cible": "Dette publique française",
+      "horodatages": [
+        "00:11:46"
+      ]
+    },
+    {
+      "source": "Dette publique française",
+      "relation": "éclaire ou conduit à",
+      "cible": "Présidentielle à venir",
+      "horodatages": [
+        "00:14:38"
+      ]
+    }
+  ]
+}

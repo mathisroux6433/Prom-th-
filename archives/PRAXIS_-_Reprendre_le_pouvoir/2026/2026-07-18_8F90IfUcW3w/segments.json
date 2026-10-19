@@ -1,0 +1,5913 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.32,
+      "start_timestamp": "00:00:00.000",
+      "end_timestamp": "00:00:03.320",
+      "text": "Le marché européen d'électricité, c'est un scandale d'État."
+    },
+    {
+      "id": 1,
+      "start": 3.32,
+      "end": 6.6,
+      "start_timestamp": "00:00:03.320",
+      "end_timestamp": "00:00:06.600",
+      "text": "On nous avait dit que la concurrence ferait baisser les prix, c'est faux."
+    },
+    {
+      "id": 2,
+      "start": 6.6,
+      "end": 9.92,
+      "start_timestamp": "00:00:06.600",
+      "end_timestamp": "00:00:09.920",
+      "text": "On nous avait dit que le marché, ce serait le progrès et l'innovation."
+    },
+    {
+      "id": 3,
+      "start": 9.92,
+      "end": 11.68,
+      "start_timestamp": "00:00:09.920",
+      "end_timestamp": "00:00:11.680",
+      "text": "Là encore, raté."
+    },
+    {
+      "id": 4,
+      "start": 11.68,
+      "end": 15.6,
+      "start_timestamp": "00:00:11.680",
+      "end_timestamp": "00:00:15.600",
+      "text": "En réalité, on a payé plus cher, EDF a frôlé la faillite"
+    },
+    {
+      "id": 5,
+      "start": 15.6,
+      "end": 19.48,
+      "start_timestamp": "00:00:15.600",
+      "end_timestamp": "00:00:19.480",
+      "text": "et des fournisseurs privés s'en sont mis plein les poches sans rien produire du tout."
+    },
+    {
+      "id": 6,
+      "start": 19.48,
+      "end": 25.78,
+      "start_timestamp": "00:00:19.480",
+      "end_timestamp": "00:00:25.780",
+      "text": "Pour bien comprendre ce qui s'est passé, il faut tout reprendre depuis le début."
+    },
+    {
+      "id": 7,
+      "start": 25.78,
+      "end": 29.62,
+      "start_timestamp": "00:00:25.780",
+      "end_timestamp": "00:00:29.620",
+      "text": "Si on remonte trente ans en arrière, l'électricité en France était produite,"
+    },
+    {
+      "id": 8,
+      "start": 29.66,
+      "end": 33.58,
+      "start_timestamp": "00:00:29.660",
+      "end_timestamp": "00:00:33.580",
+      "text": "transportée et vendue par un seul et même opérateur, EDF."
+    },
+    {
+      "id": 9,
+      "start": 33.58,
+      "end": 36.14,
+      "start_timestamp": "00:00:33.580",
+      "end_timestamp": "00:00:36.140",
+      "text": "L'État détenait le monopole de toute la chaîne de valeurs"
+    },
+    {
+      "id": 10,
+      "start": 36.14,
+      "end": 37.86,
+      "start_timestamp": "00:00:36.140",
+      "end_timestamp": "00:00:37.860",
+      "text": "et régulait les tarifs lui-même."
+    },
+    {
+      "id": 11,
+      "start": 37.86,
+      "end": 40.18,
+      "start_timestamp": "00:00:37.860",
+      "end_timestamp": "00:00:40.180",
+      "text": "Et c'était comme ça un peu partout en Europe."
+    },
+    {
+      "id": 12,
+      "start": 40.18,
+      "end": 44.66,
+      "start_timestamp": "00:00:40.180",
+      "end_timestamp": "00:00:44.660",
+      "text": "Mais à partir des années 1990, on commence à douter de l'efficacité des États."
+    },
+    {
+      "id": 13,
+      "start": 50.5,
+      "end": 52.58,
+      "start_timestamp": "00:00:50.500",
+      "end_timestamp": "00:00:52.580",
+      "text": "On est en plein moment de la construction européenne"
+    },
+    {
+      "id": 14,
+      "start": 52.58,
+      "end": 57.58,
+      "start_timestamp": "00:00:52.580",
+      "end_timestamp": "00:00:57.580",
+      "text": "et on croit alors, dur comme fer, qu'il faut créer un système qui dépasse les frontières nationales."
+    },
+    {
+      "id": 15,
+      "start": 57.58,
+      "end": 61.74,
+      "start_timestamp": "00:00:57.580",
+      "end_timestamp": "00:01:01.740",
+      "text": "De là, naît dans la tête de nos dirigeants l'idée d'un marché européen de l'électricité."
+    },
+    {
+      "id": 16,
+      "start": 61.74,
+      "end": 64.54,
+      "start_timestamp": "00:01:01.740",
+      "end_timestamp": "00:01:04.540",
+      "text": "Le principe est simple, il faut fusionner les marchés nationaux"
+    },
+    {
+      "id": 17,
+      "start": 64.54,
+      "end": 66.82,
+      "start_timestamp": "00:01:04.540",
+      "end_timestamp": "00:01:06.820",
+      "text": "en un marché unique à l'échelle du continent."
+    },
+    {
+      "id": 18,
+      "start": 66.82,
+      "end": 69.9,
+      "start_timestamp": "00:01:06.820",
+      "end_timestamp": "00:01:09.900",
+      "text": "L'argument avancé, l'interconnectivité du réseau"
+    },
+    {
+      "id": 19,
+      "start": 69.9,
+      "end": 72.62,
+      "start_timestamp": "00:01:09.900",
+      "end_timestamp": "00:01:12.620",
+      "text": "va permettre de limiter les risques d'approvisionnement."
+    },
+    {
+      "id": 20,
+      "start": 72.62,
+      "end": 75.54,
+      "start_timestamp": "00:01:12.620",
+      "end_timestamp": "00:01:15.540",
+      "text": "Grâce aux marchés uniques, les pays pourront beaucoup plus facilement"
+    },
+    {
+      "id": 21,
+      "start": 75.54,
+      "end": 78.66,
+      "start_timestamp": "00:01:15.540",
+      "end_timestamp": "00:01:18.660",
+      "text": "importer de l'électricité auprès de leurs voisins en cas de pénurie."
+    },
+    {
+      "id": 22,
+      "start": 78.66,
+      "end": 81.34,
+      "start_timestamp": "00:01:18.660",
+      "end_timestamp": "00:01:21.340",
+      "text": "Et c'est pas une petite affaire cette question de l'approvisionnement."
+    },
+    {
+      "id": 23,
+      "start": 81.34,
+      "end": 84.86,
+      "start_timestamp": "00:01:21.340",
+      "end_timestamp": "00:01:24.860",
+      "text": "Parce que l'électricité présente une spécificité très particulière."
+    },
+    {
+      "id": 24,
+      "start": 84.86,
+      "end": 86.46,
+      "start_timestamp": "00:01:24.860",
+      "end_timestamp": "00:01:26.460",
+      "text": "Elle ne se stocke pas."
+    },
+    {
+      "id": 25,
+      "start": 86.46,
+      "end": 90.38,
+      "start_timestamp": "00:01:26.460",
+      "end_timestamp": "00:01:30.380",
+      "text": "Ça veut dire qu'elle doit être produite exactement au moment où elle est consommée."
+    },
+    {
+      "id": 26,
+      "start": 90.38,
+      "end": 93.3,
+      "start_timestamp": "00:01:30.380",
+      "end_timestamp": "00:01:33.300",
+      "text": "Car si à un moment donné, la demande dépasse l'offre,"
+    },
+    {
+      "id": 27,
+      "start": 93.3,
+      "end": 96.86,
+      "start_timestamp": "00:01:33.300",
+      "end_timestamp": "00:01:36.860",
+      "text": "ne serait-ce que d'un gigaWatt, c'est le blackout complet."
+    },
+    {
+      "id": 28,
+      "start": 96.86,
+      "end": 100.34,
+      "start_timestamp": "00:01:36.860",
+      "end_timestamp": "00:01:40.340",
+      "text": "Et comme l'électricité est un bien de première nécessité qu'on utilise partout,"
+    },
+    {
+      "id": 29,
+      "start": 100.34,
+      "end": 102.98,
+      "start_timestamp": "00:01:40.340",
+      "end_timestamp": "00:01:42.980",
+      "text": "dans l'industrie, dans les hôpitaux, dans les entreprises,"
+    },
+    {
+      "id": 30,
+      "start": 102.98,
+      "end": 105.3,
+      "start_timestamp": "00:01:42.980",
+      "end_timestamp": "00:01:45.300",
+      "text": "c'est un risque qu'on ne peut pas du tout se permettre."
+    },
+    {
+      "id": 31,
+      "start": 105.3,
+      "end": 108.66,
+      "start_timestamp": "00:01:45.300",
+      "end_timestamp": "00:01:48.660",
+      "text": "Avec une production d'électricité basée sur le charbon ou le nucléaire,"
+    },
+    {
+      "id": 32,
+      "start": 108.66,
+      "end": 111.02,
+      "start_timestamp": "00:01:48.660",
+      "end_timestamp": "00:01:51.020",
+      "text": "les risques de coupure de courant sont assez faibles."
+    },
+    {
+      "id": 33,
+      "start": 111.02,
+      "end": 113.86,
+      "start_timestamp": "00:01:51.020",
+      "end_timestamp": "00:01:53.860",
+      "text": "Le problème, c'est qu'avec le développement des énergies renouvelables,"
+    },
+    {
+      "id": 34,
+      "start": 113.86,
+      "end": 117.66,
+      "start_timestamp": "00:01:53.860",
+      "end_timestamp": "00:01:57.660",
+      "text": "la sécurité de l'approvisionnement est devenue beaucoup plus incertaine."
+    },
+    {
+      "id": 35,
+      "start": 117.66,
+      "end": 121.02,
+      "start_timestamp": "00:01:57.660",
+      "end_timestamp": "00:02:01.020",
+      "text": "Un panneau solaire a besoin de soleil et une éolienne de vent"
+    },
+    {
+      "id": 36,
+      "start": 121.02,
+      "end": 122.74,
+      "start_timestamp": "00:02:01.020",
+      "end_timestamp": "00:02:02.740",
+      "text": "pour produire de l'électricité."
+    },
+    {
+      "id": 37,
+      "start": 122.74,
+      "end": 125.82,
+      "start_timestamp": "00:02:02.740",
+      "end_timestamp": "00:02:05.820",
+      "text": "Et du soleil et du vent, on n'en a pas tout le temps."
+    },
+    {
+      "id": 38,
+      "start": 125.82,
+      "end": 128.02,
+      "start_timestamp": "00:02:05.820",
+      "end_timestamp": "00:02:08.020",
+      "text": "Donc, pour qu'un pays comme l'Allemagne, par exemple,"
+    },
+    {
+      "id": 39,
+      "start": 128.02,
+      "end": 131.5,
+      "start_timestamp": "00:02:08.020",
+      "end_timestamp": "00:02:11.500",
+      "text": "produise presque 60% de son électricité avec du renouvelable,"
+    },
+    {
+      "id": 40,
+      "start": 131.5,
+      "end": 134.62,
+      "start_timestamp": "00:02:11.500",
+      "end_timestamp": "00:02:14.620",
+      "text": "il faut qu'elle puisse facilement apporter auprès de ses voisins,"
+    },
+    {
+      "id": 41,
+      "start": 134.62,
+      "end": 136.42,
+      "start_timestamp": "00:02:14.620",
+      "end_timestamp": "00:02:16.420",
+      "text": "et en particulier de la France."
+    },
+    {
+      "id": 42,
+      "start": 136.42,
+      "end": 141.06,
+      "start_timestamp": "00:02:16.420",
+      "end_timestamp": "00:02:21.060",
+      "text": "Elle a besoin d'un nucléaire français pour s'assurer une sécurité d'approvisionnement."
+    },
+    {
+      "id": 43,
+      "start": 141.06,
+      "end": 144.46,
+      "start_timestamp": "00:02:21.060",
+      "end_timestamp": "00:02:24.460",
+      "text": "Grâce à l'électricité que la France produit avec ses centrales nucléaires,"
+    },
+    {
+      "id": 44,
+      "start": 144.46,
+      "end": 148.3,
+      "start_timestamp": "00:02:24.460",
+      "end_timestamp": "00:02:28.300",
+      "text": "c'est elle qui assure une bonne partie de la sécurité du marché européen."
+    },
+    {
+      "id": 45,
+      "start": 148.3,
+      "end": 151.02,
+      "start_timestamp": "00:02:28.300",
+      "end_timestamp": "00:02:31.020",
+      "text": "Et c'est pour ça aussi que l'Union européenne tenait tant"
+    },
+    {
+      "id": 46,
+      "start": 151.02,
+      "end": 152.9,
+      "start_timestamp": "00:02:31.020",
+      "end_timestamp": "00:02:32.900",
+      "text": "à ce que la France joue le jeu du marché."
+    },
+    {
+      "id": 47,
+      "start": 152.9,
+      "end": 155.9,
+      "start_timestamp": "00:02:32.900",
+      "end_timestamp": "00:02:35.900",
+      "text": "Bref, sur le papier, on nous promettait un beau marché"
+    },
+    {
+      "id": 48,
+      "start": 155.9,
+      "end": 157.66,
+      "start_timestamp": "00:02:35.900",
+      "end_timestamp": "00:02:37.660",
+      "text": "où on aurait tous été solidaires,"
+    },
+    {
+      "id": 49,
+      "start": 157.66,
+      "end": 160.66,
+      "start_timestamp": "00:02:37.660",
+      "end_timestamp": "00:02:40.660",
+      "text": "où on aurait protégé notre environnement avec des énergies vertes"
+    },
+    {
+      "id": 50,
+      "start": 160.66,
+      "end": 162.78,
+      "start_timestamp": "00:02:40.660",
+      "end_timestamp": "00:02:42.780",
+      "text": "et où tout le monde aurait été gagnant."
+    },
+    {
+      "id": 51,
+      "start": 162.78,
+      "end": 169.36,
+      "start_timestamp": "00:02:42.780",
+      "end_timestamp": "00:02:49.360",
+      "text": "Mais malheureusement, ça s'est pas tout à fait passé comme prévu."
+    },
+    {
+      "id": 52,
+      "start": 169.36,
+      "end": 170.64,
+      "start_timestamp": "00:02:49.360",
+      "end_timestamp": "00:02:50.640",
+      "text": "On aurait pu s'en tenir là."
+    },
+    {
+      "id": 53,
+      "start": 170.64,
+      "end": 173.4,
+      "start_timestamp": "00:02:50.640",
+      "end_timestamp": "00:02:53.400",
+      "text": "On aurait pu mettre en place un marché commun et c'est tout."
+    },
+    {
+      "id": 54,
+      "start": 173.4,
+      "end": 176.72,
+      "start_timestamp": "00:02:53.400",
+      "end_timestamp": "00:02:56.720",
+      "text": "Mais non, on nous a expliqué qu'il fallait aussi changer les règles du jeu."
+    },
+    {
+      "id": 55,
+      "start": 176.72,
+      "end": 181.08,
+      "start_timestamp": "00:02:56.720",
+      "end_timestamp": "00:03:01.080",
+      "text": "Parce que les monopoles publiques allaient à l'encontre du dogme fondateur de l'Union européenne,"
+    },
+    {
+      "id": 56,
+      "start": 181.08,
+      "end": 182.68,
+      "start_timestamp": "00:03:01.080",
+      "end_timestamp": "00:03:02.680",
+      "text": "la libre concurrence."
+    },
+    {
+      "id": 57,
+      "start": 182.68,
+      "end": 187.0,
+      "start_timestamp": "00:03:02.680",
+      "end_timestamp": "00:03:07.000",
+      "text": "À partir de 1996, on a donc décidé de briser tous les monopoles publiques"
+    },
+    {
+      "id": 58,
+      "start": 187.0,
+      "end": 188.92,
+      "start_timestamp": "00:03:07.000",
+      "end_timestamp": "00:03:08.920",
+      "text": "pour confier la gestion de l'électricité"
+    },
+    {
+      "id": 59,
+      "start": 188.92,
+      "end": 192.64,
+      "start_timestamp": "00:03:08.920",
+      "end_timestamp": "00:03:12.640",
+      "text": "à plusieurs agents économiques en concurrence les uns avec les autres."
+    },
+    {
+      "id": 60,
+      "start": 192.64,
+      "end": 194.96,
+      "start_timestamp": "00:03:12.640",
+      "end_timestamp": "00:03:14.960",
+      "text": "On nous assurait à l'époque qu'avec la concurrence,"
+    },
+    {
+      "id": 61,
+      "start": 194.96,
+      "end": 197.92,
+      "start_timestamp": "00:03:14.960",
+      "end_timestamp": "00:03:17.920",
+      "text": "on aurait plus d'innovations et que les prix allaient baisser."
+    },
+    {
+      "id": 62,
+      "start": 197.92,
+      "end": 200.84,
+      "start_timestamp": "00:03:17.920",
+      "end_timestamp": "00:03:20.840",
+      "text": "Et le résultat, bah, le voilà."
+    },
+    {
+      "id": 63,
+      "start": 200.84,
+      "end": 202.76,
+      "start_timestamp": "00:03:20.840",
+      "end_timestamp": "00:03:22.760",
+      "text": "Sacrée réussite, hein ?"
+    },
+    {
+      "id": 64,
+      "start": 202.8,
+      "end": 205.44,
+      "start_timestamp": "00:03:22.800",
+      "end_timestamp": "00:03:25.440",
+      "text": "Alors, c'est vrai qu'à l'époque, on ne connaissait pas ces chiffres."
+    },
+    {
+      "id": 65,
+      "start": 205.44,
+      "end": 206.92,
+      "start_timestamp": "00:03:25.440",
+      "end_timestamp": "00:03:26.920",
+      "text": "On n'avait pas encore beaucoup de recul,"
+    },
+    {
+      "id": 66,
+      "start": 206.92,
+      "end": 212.72,
+      "start_timestamp": "00:03:26.920",
+      "end_timestamp": "00:03:32.720",
+      "text": "mais il y avait déjà des indices qui montraient que cette idée de marché concurrentiel était bancale."
+    },
+    {
+      "id": 67,
+      "start": 212.72,
+      "end": 215.0,
+      "start_timestamp": "00:03:32.720",
+      "end_timestamp": "00:03:35.000",
+      "text": "En fait, un problème s'est tout de suite posé."
+    },
+    {
+      "id": 68,
+      "start": 215.0,
+      "end": 217.68,
+      "start_timestamp": "00:03:35.000",
+      "end_timestamp": "00:03:37.680",
+      "text": "Comment ouvrir à la concurrence des lignes électriques ?"
+    },
+    {
+      "id": 69,
+      "start": 217.68,
+      "end": 219.56,
+      "start_timestamp": "00:03:37.680",
+      "end_timestamp": "00:03:39.560",
+      "text": "Parce que si on regarde les choses concrètement,"
+    },
+    {
+      "id": 70,
+      "start": 219.56,
+      "end": 223.08,
+      "start_timestamp": "00:03:39.560",
+      "end_timestamp": "00:03:43.080",
+      "text": "on a affaire à un monopole naturel, comme les routes ou les trains."
+    },
+    {
+      "id": 71,
+      "start": 223.08,
+      "end": 226.64,
+      "start_timestamp": "00:03:43.080",
+      "end_timestamp": "00:03:46.640",
+      "text": "Ça aurait été complètement absurde que chaque fournisseur d'électricité"
+    },
+    {
+      "id": 72,
+      "start": 226.64,
+      "end": 229.8,
+      "start_timestamp": "00:03:46.640",
+      "end_timestamp": "00:03:49.800",
+      "text": "construise ses propres câbles, ses propres lignes électriques."
+    },
+    {
+      "id": 73,
+      "start": 229.8,
+      "end": 232.36,
+      "start_timestamp": "00:03:49.800",
+      "end_timestamp": "00:03:52.360",
+      "text": "Donc, il a fallu bricoler un peu le système."
+    },
+    {
+      "id": 74,
+      "start": 232.36,
+      "end": 235.0,
+      "start_timestamp": "00:03:52.360",
+      "end_timestamp": "00:03:55.000",
+      "text": "On a dû diviser le marché en trois activités distinctes."
+    },
+    {
+      "id": 75,
+      "start": 235.0,
+      "end": 238.04,
+      "start_timestamp": "00:03:55.000",
+      "end_timestamp": "00:03:58.040",
+      "text": "La production, le transport et la fourniture."
+    },
+    {
+      "id": 76,
+      "start": 238.04,
+      "end": 240.72,
+      "start_timestamp": "00:03:58.040",
+      "end_timestamp": "00:04:00.720",
+      "text": "Le transport, c'est tout le réseau des lignes qui permet d'acheminer"
+    },
+    {
+      "id": 77,
+      "start": 240.72,
+      "end": 243.64,
+      "start_timestamp": "00:04:00.720",
+      "end_timestamp": "00:04:03.640",
+      "text": "l'électricité de la centrale vers le consommateur."
+    },
+    {
+      "id": 78,
+      "start": 243.64,
+      "end": 247.28,
+      "start_timestamp": "00:04:03.640",
+      "end_timestamp": "00:04:07.280",
+      "text": "Comme c'est un monopole naturel, on n'a pas pu l'ouvrir à la concurrence."
+    },
+    {
+      "id": 79,
+      "start": 247.28,
+      "end": 250.12,
+      "start_timestamp": "00:04:07.280",
+      "end_timestamp": "00:04:10.120",
+      "text": "Donc, on a laissé sa gestion à la puissance publique."
+    },
+    {
+      "id": 80,
+      "start": 250.12,
+      "end": 253.36,
+      "start_timestamp": "00:04:10.120",
+      "end_timestamp": "00:04:13.360",
+      "text": "En France, c'est RTE et Enedis qui s'en occupent."
+    },
+    {
+      "id": 81,
+      "start": 253.36,
+      "end": 256.84,
+      "start_timestamp": "00:04:13.360",
+      "end_timestamp": "00:04:16.840",
+      "text": "Mais pour ce qui est des deux autres activités, la production et la fourniture,"
+    },
+    {
+      "id": 82,
+      "start": 256.84,
+      "end": 259.8,
+      "start_timestamp": "00:04:16.840",
+      "end_timestamp": "00:04:19.800",
+      "text": "elles, on a décidé de les ouvrir à la concurrence."
+    },
+    {
+      "id": 83,
+      "start": 259.8,
+      "end": 263.08,
+      "start_timestamp": "00:04:19.800",
+      "end_timestamp": "00:04:23.080",
+      "text": "Les producteurs étaient chargés d'exploiter les installations électriques"
+    },
+    {
+      "id": 84,
+      "start": 263.08,
+      "end": 266.48,
+      "start_timestamp": "00:04:23.080",
+      "end_timestamp": "00:04:26.480",
+      "text": "et les fournisseurs de commercialiser l'électricité produite."
+    },
+    {
+      "id": 85,
+      "start": 266.48,
+      "end": 268.52,
+      "start_timestamp": "00:04:26.480",
+      "end_timestamp": "00:04:28.520",
+      "text": "Et là, il faut qu'on s'attarde sur un point."
+    },
+    {
+      "id": 86,
+      "start": 268.52,
+      "end": 272.04,
+      "start_timestamp": "00:04:28.520",
+      "end_timestamp": "00:04:32.040",
+      "text": "Les fournisseurs n'ont aucune obligation de produire l'électricité."
+    },
+    {
+      "id": 87,
+      "start": 272.04,
+      "end": 276.08,
+      "start_timestamp": "00:04:32.040",
+      "end_timestamp": "00:04:36.080",
+      "text": "L'activité fourniture, elle consiste uniquement à acheter l'électricité"
+    },
+    {
+      "id": 88,
+      "start": 276.08,
+      "end": 278.92,
+      "start_timestamp": "00:04:36.080",
+      "end_timestamp": "00:04:38.920",
+      "text": "sur le marché pour la revendre au consommateur."
+    },
+    {
+      "id": 89,
+      "start": 278.92,
+      "end": 282.28,
+      "start_timestamp": "00:04:38.920",
+      "end_timestamp": "00:04:42.280",
+      "text": "Ça veut dire qu'on a déconnecté la fourniture de la production"
+    },
+    {
+      "id": 90,
+      "start": 282.28,
+      "end": 284.72,
+      "start_timestamp": "00:04:42.280",
+      "end_timestamp": "00:04:44.720",
+      "text": "uniquement pour pouvoir créer un marché."
+    },
+    {
+      "id": 91,
+      "start": 284.72,
+      "end": 286.68,
+      "start_timestamp": "00:04:44.720",
+      "end_timestamp": "00:04:46.680",
+      "text": "Mais c'est totalement artificiel."
+    },
+    {
+      "id": 92,
+      "start": 286.68,
+      "end": 291.0,
+      "start_timestamp": "00:04:46.680",
+      "end_timestamp": "00:04:51.000",
+      "text": "C'est une pure construction juridique qui ne répond à aucun besoin économique."
+    },
+    {
+      "id": 93,
+      "start": 291.0,
+      "end": 293.36,
+      "start_timestamp": "00:04:51.000",
+      "end_timestamp": "00:04:53.360",
+      "text": "Là, on est dans le dogmatisme pur et simple."
+    },
+    {
+      "id": 94,
+      "start": 302.68,
+      "end": 306.28,
+      "start_timestamp": "00:05:02.680",
+      "end_timestamp": "00:05:06.280",
+      "text": "Vous commencez peut-être à comprendre que ça partait mal depuis le début."
+    },
+    {
+      "id": 95,
+      "start": 306.28,
+      "end": 310.92,
+      "start_timestamp": "00:05:06.280",
+      "end_timestamp": "00:05:10.920",
+      "text": "Eh bien oui, comme EDF était quasiment le seul propriétaire du parc électrique français,"
+    },
+    {
+      "id": 96,
+      "start": 310.92,
+      "end": 314.44,
+      "start_timestamp": "00:05:10.920",
+      "end_timestamp": "00:05:14.440",
+      "text": "il était impossible pour les autres fournisseurs de lui faire concurrence."
+    },
+    {
+      "id": 97,
+      "start": 314.44,
+      "end": 317.52,
+      "start_timestamp": "00:05:14.440",
+      "end_timestamp": "00:05:17.520",
+      "text": "Donc, pour permettre à des concurrents de s'installer,"
+    },
+    {
+      "id": 98,
+      "start": 317.52,
+      "end": 321.88,
+      "start_timestamp": "00:05:17.520",
+      "end_timestamp": "00:05:21.880",
+      "text": "on a appliqué entre 2011 et 2026 ce qu'on appelle l'ARENE,"
+    },
+    {
+      "id": 99,
+      "start": 321.88,
+      "end": 324.92,
+      "start_timestamp": "00:05:21.880",
+      "end_timestamp": "00:05:24.920",
+      "text": "l'accès régulé à l'électricité nucléaire historique."
+    },
+    {
+      "id": 100,
+      "start": 324.92,
+      "end": 328.72,
+      "start_timestamp": "00:05:24.920",
+      "end_timestamp": "00:05:28.720",
+      "text": "Derrière cet acronyme un peu barbare se cache en fait un énorme scandale."
+    },
+    {
+      "id": 101,
+      "start": 328.72,
+      "end": 334.12,
+      "start_timestamp": "00:05:28.720",
+      "end_timestamp": "00:05:34.120",
+      "text": "Pendant 15 ans, l'État a obligé EDF à vendre environ 25% de son électricité nucléaire"
+    },
+    {
+      "id": 102,
+      "start": 334.12,
+      "end": 337.8,
+      "start_timestamp": "00:05:34.120",
+      "end_timestamp": "00:05:37.800",
+      "text": "à ses concurrents à un prix fixe et très avantageux."
+    },
+    {
+      "id": 103,
+      "start": 337.8,
+      "end": 342.08,
+      "start_timestamp": "00:05:37.800",
+      "end_timestamp": "00:05:42.080",
+      "text": "Seulement 42 euros le MW alors que le coût de production du nucléaire"
+    },
+    {
+      "id": 104,
+      "start": 342.08,
+      "end": 344.04,
+      "start_timestamp": "00:05:42.080",
+      "end_timestamp": "00:05:44.040",
+      "text": "s'élève au moins à 60 euros."
+    },
+    {
+      "id": 105,
+      "start": 344.04,
+      "end": 346.52,
+      "start_timestamp": "00:05:44.040",
+      "end_timestamp": "00:05:46.520",
+      "text": "C'est un suicide économique pour EDF."
+    },
+    {
+      "id": 106,
+      "start": 346.52,
+      "end": 350.16,
+      "start_timestamp": "00:05:46.520",
+      "end_timestamp": "00:05:50.160",
+      "text": "J'ai toujours dit non, l'ARENE est une monstruosité, monstruosité."
+    },
+    {
+      "id": 107,
+      "start": 350.16,
+      "end": 353.2,
+      "start_timestamp": "00:05:50.160",
+      "end_timestamp": "00:05:53.200",
+      "text": "Je l'ai dit et répété pendant 8 ans, l'ARENE est un poison."
+    },
+    {
+      "id": 108,
+      "start": 353.2,
+      "end": 355.76,
+      "start_timestamp": "00:05:53.200",
+      "end_timestamp": "00:05:55.760",
+      "text": "Toujours qualifié l'ARENE de dispositif à bout de souffle."
+    },
+    {
+      "id": 109,
+      "start": 355.76,
+      "end": 358.92,
+      "start_timestamp": "00:05:55.760",
+      "end_timestamp": "00:05:58.920",
+      "text": "Alors en théorie, il y avait quand même une contrepartie à tout ça."
+    },
+    {
+      "id": 110,
+      "start": 358.92,
+      "end": 362.52,
+      "start_timestamp": "00:05:58.920",
+      "end_timestamp": "00:06:02.520",
+      "text": "L'idée était de permettre aux fournisseurs d'investir dans la production."
+    },
+    {
+      "id": 111,
+      "start": 362.52,
+      "end": 366.28,
+      "start_timestamp": "00:06:02.520",
+      "end_timestamp": "00:06:06.280",
+      "text": "Grâce à l'ARENE, les fournisseurs allaient pouvoir réaliser des grosses marges,"
+    },
+    {
+      "id": 112,
+      "start": 366.28,
+      "end": 370.0,
+      "start_timestamp": "00:06:06.280",
+      "end_timestamp": "00:06:10.000",
+      "text": "puis utiliser cet argent pour développer leur propre production,"
+    },
+    {
+      "id": 113,
+      "start": 370.0,
+      "end": 372.0,
+      "start_timestamp": "00:06:10.000",
+      "end_timestamp": "00:06:12.000",
+      "text": "notamment via les énergies renouvelables."
+    },
+    {
+      "id": 114,
+      "start": 372.0,
+      "end": 374.2,
+      "start_timestamp": "00:06:12.000",
+      "end_timestamp": "00:06:14.200",
+      "text": "Mais comme on leur a posé aucune obligation,"
+    },
+    {
+      "id": 115,
+      "start": 374.2,
+      "end": 376.4,
+      "start_timestamp": "00:06:14.200",
+      "end_timestamp": "00:06:16.400",
+      "text": "qu'ont fait la plupart des fournisseurs à votre avis ?"
+    },
+    {
+      "id": 116,
+      "start": 376.4,
+      "end": 379.72,
+      "start_timestamp": "00:06:16.400",
+      "end_timestamp": "00:06:19.720",
+      "text": "Ben oui, rien, c'était pas du tout dans leur intérêt."
+    },
+    {
+      "id": 117,
+      "start": 379.72,
+      "end": 384.04,
+      "start_timestamp": "00:06:19.720",
+      "end_timestamp": "00:06:24.040",
+      "text": "Regardez, aucun de ceux qui ont bénéficié de la rente n'a investi"
+    },
+    {
+      "id": 118,
+      "start": 384.04,
+      "end": 386.48,
+      "start_timestamp": "00:06:24.040",
+      "end_timestamp": "00:06:26.480",
+      "text": "ni dans le nucléaire, ni même dans la production."
+    },
+    {
+      "id": 119,
+      "start": 386.48,
+      "end": 389.88,
+      "start_timestamp": "00:06:26.480",
+      "end_timestamp": "00:06:29.880",
+      "text": "Donc on a fait de la fortune de traders, pas d'industrières."
+    },
+    {
+      "id": 120,
+      "start": 389.88,
+      "end": 393.12,
+      "start_timestamp": "00:06:29.880",
+      "end_timestamp": "00:06:33.120",
+      "text": "Soit ils investissaient des coûts colossaux dans des moyens de production,"
+    },
+    {
+      "id": 121,
+      "start": 393.12,
+      "end": 396.44,
+      "start_timestamp": "00:06:33.120",
+      "end_timestamp": "00:06:36.440",
+      "text": "certes pour en tirer des bénéfices, mais des années plus tard."
+    },
+    {
+      "id": 122,
+      "start": 396.44,
+      "end": 399.24,
+      "start_timestamp": "00:06:36.440",
+      "end_timestamp": "00:06:39.240",
+      "text": "Soit ils profitaient de l'ARENE au maximum"
+    },
+    {
+      "id": 123,
+      "start": 399.28,
+      "end": 401.88,
+      "start_timestamp": "00:06:39.280",
+      "end_timestamp": "00:06:41.880",
+      "text": "en achetant leur électricité pas chère à EDF"
+    },
+    {
+      "id": 124,
+      "start": 401.88,
+      "end": 404.12,
+      "start_timestamp": "00:06:41.880",
+      "end_timestamp": "00:06:44.120",
+      "text": "pour la revendre ensuite au prix du marché."
+    },
+    {
+      "id": 125,
+      "start": 404.12,
+      "end": 405.48,
+      "start_timestamp": "00:06:44.120",
+      "end_timestamp": "00:06:45.480",
+      "text": "Le choix était vite fait."
+    },
+    {
+      "id": 126,
+      "start": 405.48,
+      "end": 406.76,
+      "start_timestamp": "00:06:45.480",
+      "end_timestamp": "00:06:46.760",
+      "text": "Pas besoin de produire."
+    },
+    {
+      "id": 127,
+      "start": 406.76,
+      "end": 409.32,
+      "start_timestamp": "00:06:46.760",
+      "end_timestamp": "00:06:49.320",
+      "text": "Acheter pour revendre, c'était très rentable."
+    },
+    {
+      "id": 128,
+      "start": 409.32,
+      "end": 411.28,
+      "start_timestamp": "00:06:49.320",
+      "end_timestamp": "00:06:51.280",
+      "text": "Et très rentable immédiatement."
+    },
+    {
+      "id": 129,
+      "start": 411.28,
+      "end": 415.32,
+      "start_timestamp": "00:06:51.280",
+      "end_timestamp": "00:06:55.320",
+      "text": "Vous avez créé ce système abscon"
+    },
+    {
+      "id": 130,
+      "start": 415.32,
+      "end": 418.56,
+      "start_timestamp": "00:06:55.320",
+      "end_timestamp": "00:06:58.560",
+      "text": "qui dépasse EDF"
+    },
+    {
+      "id": 131,
+      "start": 418.56,
+      "end": 424.76,
+      "start_timestamp": "00:06:58.560",
+      "end_timestamp": "00:07:04.760",
+      "text": "et qui lui demande de donner une partie de son énergie produite par le nucléaire."
+    },
+    {
+      "id": 132,
+      "start": 424.76,
+      "end": 425.96,
+      "start_timestamp": "00:07:04.760",
+      "end_timestamp": "00:07:05.960",
+      "text": "25%."
+    },
+    {
+      "id": 133,
+      "start": 425.96,
+      "end": 427.84,
+      "start_timestamp": "00:07:05.960",
+      "end_timestamp": "00:07:07.840",
+      "text": "À ses concurrentes directs."
+    },
+    {
+      "id": 134,
+      "start": 427.84,
+      "end": 430.28,
+      "start_timestamp": "00:07:07.840",
+      "end_timestamp": "00:07:10.280",
+      "text": "Il y avait un contrat qui était passé."
+    },
+    {
+      "id": 135,
+      "start": 430.28,
+      "end": 433.68,
+      "start_timestamp": "00:07:10.280",
+      "end_timestamp": "00:07:13.680",
+      "text": "Et à la fin, ils devaient produire."
+    },
+    {
+      "id": 136,
+      "start": 433.68,
+      "end": 435.56,
+      "start_timestamp": "00:07:13.680",
+      "end_timestamp": "00:07:15.560",
+      "text": "Qu'est-ce qui se passe 12 ans après ?"
+    },
+    {
+      "id": 137,
+      "start": 435.56,
+      "end": 437.76,
+      "start_timestamp": "00:07:15.560",
+      "end_timestamp": "00:07:17.760",
+      "text": "Ils n'ont pas investi un seul euro."
+    },
+    {
+      "id": 138,
+      "start": 437.76,
+      "end": 443.28,
+      "start_timestamp": "00:07:17.760",
+      "end_timestamp": "00:07:23.280",
+      "text": "Et vous nous dites que ça protège les consommateurs ?"
+    },
+    {
+      "id": 139,
+      "start": 443.28,
+      "end": 446.88,
+      "start_timestamp": "00:07:23.280",
+      "end_timestamp": "00:07:26.880",
+      "text": "Mais non, c'est une spoliation organisée."
+    },
+    {
+      "id": 140,
+      "start": 446.88,
+      "end": 450.36,
+      "start_timestamp": "00:07:26.880",
+      "end_timestamp": "00:07:30.360",
+      "text": "De fait, une bonne partie des fournisseurs ont préféré augmenter les dividendes"
+    },
+    {
+      "id": 141,
+      "start": 450.36,
+      "end": 453.2,
+      "start_timestamp": "00:07:30.360",
+      "end_timestamp": "00:07:33.200",
+      "text": "de leurs actionnaires plutôt que de sérieusement investir"
+    },
+    {
+      "id": 142,
+      "start": 453.2,
+      "end": 454.48,
+      "start_timestamp": "00:07:33.200",
+      "end_timestamp": "00:07:34.480",
+      "text": "dans des moyens de production."
+    },
+    {
+      "id": 143,
+      "start": 454.48,
+      "end": 456.92,
+      "start_timestamp": "00:07:34.480",
+      "end_timestamp": "00:07:36.920",
+      "text": "En 2021, par exemple, sur un résultat net"
+    },
+    {
+      "id": 144,
+      "start": 456.92,
+      "end": 458.48,
+      "start_timestamp": "00:07:36.920",
+      "end_timestamp": "00:07:38.480",
+      "text": "de plus de 5 milliards d'euros,"
+    },
+    {
+      "id": 145,
+      "start": 458.48,
+      "end": 462.0,
+      "start_timestamp": "00:07:38.480",
+      "end_timestamp": "00:07:42.000",
+      "text": "Engie en a versé 65% à ses actionnaires."
+    },
+    {
+      "id": 146,
+      "start": 462.0,
+      "end": 464.48,
+      "start_timestamp": "00:07:42.000",
+      "end_timestamp": "00:07:44.480",
+      "text": "Aujourd'hui, on se retrouve avec tout un tas de fournisseurs"
+    },
+    {
+      "id": 147,
+      "start": 464.48,
+      "end": 466.84,
+      "start_timestamp": "00:07:44.480",
+      "end_timestamp": "00:07:46.840",
+      "text": "qui sont en fait des purs spéculateurs."
+    },
+    {
+      "id": 148,
+      "start": 466.84,
+      "end": 468.64,
+      "start_timestamp": "00:07:46.840",
+      "end_timestamp": "00:07:48.640",
+      "text": "Ils ne produisent pas d'électricité."
+    },
+    {
+      "id": 149,
+      "start": 468.64,
+      "end": 470.16,
+      "start_timestamp": "00:07:48.640",
+      "end_timestamp": "00:07:50.160",
+      "text": "Ils ne la transportent pas non plus."
+    },
+    {
+      "id": 150,
+      "start": 470.16,
+      "end": 471.68,
+      "start_timestamp": "00:07:50.160",
+      "end_timestamp": "00:07:51.680",
+      "text": "Mais ils gagnent de l'argent."
+    },
+    {
+      "id": 151,
+      "start": 471.68,
+      "end": 472.76,
+      "start_timestamp": "00:07:51.680",
+      "end_timestamp": "00:07:52.760",
+      "text": "Beaucoup d'argent."
+    },
+    {
+      "id": 152,
+      "start": 472.76,
+      "end": 475.48,
+      "start_timestamp": "00:07:52.760",
+      "end_timestamp": "00:07:55.480",
+      "text": "Sur le dos d'EDF, mais aussi des consommateurs."
+    },
+    {
+      "id": 153,
+      "start": 475.48,
+      "end": 477.72,
+      "start_timestamp": "00:07:55.480",
+      "end_timestamp": "00:07:57.720",
+      "text": "Et pas toujours de manière très légale."
+    },
+    {
+      "id": 154,
+      "start": 477.72,
+      "end": 478.96,
+      "start_timestamp": "00:07:57.720",
+      "end_timestamp": "00:07:58.960",
+      "text": "Pour attirer leurs clients,"
+    },
+    {
+      "id": 155,
+      "start": 478.96,
+      "end": 482.84,
+      "start_timestamp": "00:07:58.960",
+      "end_timestamp": "00:08:02.840",
+      "text": "les fournisseurs ont pris l'habitude de pratiquer des démarchages ultra agressifs."
+    },
+    {
+      "id": 156,
+      "start": 482.84,
+      "end": 485.08,
+      "start_timestamp": "00:08:02.840",
+      "end_timestamp": "00:08:05.080",
+      "text": "Et parfois même totalement frauduleux."
+    },
+    {
+      "id": 157,
+      "start": 485.12,
+      "end": 486.28,
+      "start_timestamp": "00:08:05.120",
+      "end_timestamp": "00:08:06.280",
+      "text": "Rien qu'en 2018,"
+    },
+    {
+      "id": 158,
+      "start": 486.28,
+      "end": 488.08,
+      "start_timestamp": "00:08:06.280",
+      "end_timestamp": "00:08:08.080",
+      "text": "Engie s'est fait condamner à deux reprises"
+    },
+    {
+      "id": 159,
+      "start": 488.08,
+      "end": 491.16,
+      "start_timestamp": "00:08:08.080",
+      "end_timestamp": "00:08:11.160",
+      "text": "pour concurrence déloyale et démarchage abusif."
+    },
+    {
+      "id": 160,
+      "start": 491.16,
+      "end": 495.16,
+      "start_timestamp": "00:08:11.160",
+      "end_timestamp": "00:08:15.160",
+      "text": "Des vendeurs ont par exemple inventé l'existence d'une pseudo loi Hulot"
+    },
+    {
+      "id": 161,
+      "start": 495.16,
+      "end": 497.36,
+      "start_timestamp": "00:08:15.160",
+      "end_timestamp": "00:08:17.360",
+      "text": "pour promettre des bonus à leurs clients."
+    },
+    {
+      "id": 162,
+      "start": 497.36,
+      "end": 500.92,
+      "start_timestamp": "00:08:17.360",
+      "end_timestamp": "00:08:20.920",
+      "text": "Certains fournisseurs se sont même fait passer pour des vendeurs EDF."
+    },
+    {
+      "id": 163,
+      "start": 500.92,
+      "end": 503.2,
+      "start_timestamp": "00:08:20.920",
+      "end_timestamp": "00:08:23.200",
+      "text": "Pour ces gens-là, aucun scrupule."
+    },
+    {
+      "id": 164,
+      "start": 503.2,
+      "end": 505.56,
+      "start_timestamp": "00:08:23.200",
+      "end_timestamp": "00:08:25.560",
+      "text": "Toutes les techniques sont bonnes pour abuser le chalent."
+    },
+    {
+      "id": 165,
+      "start": 505.56,
+      "end": 507.16,
+      "start_timestamp": "00:08:25.560",
+      "end_timestamp": "00:08:27.160",
+      "text": "Dernier point important."
+    },
+    {
+      "id": 166,
+      "start": 507.16,
+      "end": 509.2,
+      "start_timestamp": "00:08:27.160",
+      "end_timestamp": "00:08:29.200",
+      "text": "La grosse différence entre le modèle d'hier,"
+    },
+    {
+      "id": 167,
+      "start": 509.2,
+      "end": 511.16,
+      "start_timestamp": "00:08:29.200",
+      "end_timestamp": "00:08:31.160",
+      "text": "basé sur le monopole public d'EDF"
+    },
+    {
+      "id": 168,
+      "start": 511.16,
+      "end": 514.56,
+      "start_timestamp": "00:08:31.160",
+      "end_timestamp": "00:08:34.560",
+      "text": "et celui d'aujourd'hui, un grand marché avec plein de fournisseurs,"
+    },
+    {
+      "id": 169,
+      "start": 514.56,
+      "end": 516.04,
+      "start_timestamp": "00:08:34.560",
+      "end_timestamp": "00:08:36.040",
+      "text": "c'est le profit."
+    },
+    {
+      "id": 170,
+      "start": 516.04,
+      "end": 519.0,
+      "start_timestamp": "00:08:36.040",
+      "end_timestamp": "00:08:39.000",
+      "text": "Quand l'activité était gérée exclusivement par le public,"
+    },
+    {
+      "id": 171,
+      "start": 519.0,
+      "end": 523.24,
+      "start_timestamp": "00:08:39.000",
+      "end_timestamp": "00:08:43.240",
+      "text": "tout l'argent payé par les utilisateurs était réinvesti dans l'activité."
+    },
+    {
+      "id": 172,
+      "start": 523.24,
+      "end": 525.16,
+      "start_timestamp": "00:08:43.240",
+      "end_timestamp": "00:08:45.160",
+      "text": "Personne ne gagnait de l'argent."
+    },
+    {
+      "id": 173,
+      "start": 525.16,
+      "end": 528.68,
+      "start_timestamp": "00:08:45.160",
+      "end_timestamp": "00:08:48.680",
+      "text": "On fournissait un service, un service public. Point."
+    },
+    {
+      "id": 174,
+      "start": 528.68,
+      "end": 530.4,
+      "start_timestamp": "00:08:48.680",
+      "end_timestamp": "00:08:50.400",
+      "text": "Avec l'ouverture à la concurrence,"
+    },
+    {
+      "id": 175,
+      "start": 530.4,
+      "end": 533.24,
+      "start_timestamp": "00:08:50.400",
+      "end_timestamp": "00:08:53.240",
+      "text": "la fourniture d'électricité devient lucrative."
+    },
+    {
+      "id": 176,
+      "start": 533.24,
+      "end": 535.6,
+      "start_timestamp": "00:08:53.240",
+      "end_timestamp": "00:08:55.600",
+      "text": "C'est un nouveau marché pour les acteurs privés,"
+    },
+    {
+      "id": 177,
+      "start": 535.6,
+      "end": 537.6,
+      "start_timestamp": "00:08:55.600",
+      "end_timestamp": "00:08:57.600",
+      "text": "c'est-à-dire une nouvelle source de profit,"
+    },
+    {
+      "id": 178,
+      "start": 537.6,
+      "end": 539.88,
+      "start_timestamp": "00:08:57.600",
+      "end_timestamp": "00:08:59.880",
+      "text": "un nouveau moyen de faire du business."
+    },
+    {
+      "id": 179,
+      "start": 539.88,
+      "end": 542.92,
+      "start_timestamp": "00:08:59.880",
+      "end_timestamp": "00:09:02.920",
+      "text": "La conséquence, c'est qu'une partie du prix d'électricité qu'on paye"
+    },
+    {
+      "id": 180,
+      "start": 542.96,
+      "end": 545.64,
+      "start_timestamp": "00:09:02.960",
+      "end_timestamp": "00:09:05.640",
+      "text": "ne sert plus à investir dans nos infrastructures,"
+    },
+    {
+      "id": 181,
+      "start": 545.64,
+      "end": 547.72,
+      "start_timestamp": "00:09:05.640",
+      "end_timestamp": "00:09:07.720",
+      "text": "mais part dans la poche d'actionnaires privés."
+    },
+    {
+      "id": 182,
+      "start": 547.72,
+      "end": 549.76,
+      "start_timestamp": "00:09:07.720",
+      "end_timestamp": "00:09:09.760",
+      "text": "Est-ce que le service est mieux rendu pour autant ?"
+    },
+    {
+      "id": 183,
+      "start": 549.76,
+      "end": 552.96,
+      "start_timestamp": "00:09:09.760",
+      "end_timestamp": "00:09:12.960",
+      "text": "Non, EDF avait toujours parfaitement rempli sa mission."
+    },
+    {
+      "id": 184,
+      "start": 552.96,
+      "end": 557.6,
+      "start_timestamp": "00:09:12.960",
+      "end_timestamp": "00:09:17.600",
+      "text": "Au temps où EDF était en monopole malgré les énormes salaires en retraite,"
+    },
+    {
+      "id": 185,
+      "start": 557.6,
+      "end": 561.28,
+      "start_timestamp": "00:09:17.600",
+      "end_timestamp": "00:09:21.280",
+      "text": "les factures étaient quand même parmi les moins chères d'Europe."
+    },
+    {
+      "id": 186,
+      "start": 561.28,
+      "end": 563.76,
+      "start_timestamp": "00:09:21.280",
+      "end_timestamp": "00:09:23.760",
+      "text": "Ça fonctionnait bien, encore une fois, c'était reconnu."
+    },
+    {
+      "id": 187,
+      "start": 563.76,
+      "end": 568.4,
+      "start_timestamp": "00:09:23.760",
+      "end_timestamp": "00:09:28.400",
+      "text": "Donc aujourd'hui, on a fait monter la facture des consommateurs pour rien du tout,"
+    },
+    {
+      "id": 188,
+      "start": 568.4,
+      "end": 571.12,
+      "start_timestamp": "00:09:28.400",
+      "end_timestamp": "00:09:31.120",
+      "text": "si ce n'est enrichir quelques acteurs privés."
+    },
+    {
+      "id": 189,
+      "start": 571.16,
+      "end": 572.8,
+      "start_timestamp": "00:09:31.160",
+      "end_timestamp": "00:09:32.800",
+      "text": "Ce sont des requins,"
+    },
+    {
+      "id": 190,
+      "start": 572.8,
+      "end": 576.08,
+      "start_timestamp": "00:09:32.800",
+      "end_timestamp": "00:09:36.080",
+      "text": "et dès qu'ils peuvent se gonfler, ils le font sur l'autre dos."
+    },
+    {
+      "id": 191,
+      "start": 576.08,
+      "end": 579.48,
+      "start_timestamp": "00:09:36.080",
+      "end_timestamp": "00:09:39.480",
+      "text": "Voilà, tout ça, on le doit au marché européen de l'électricité."
+    },
+    {
+      "id": 192,
+      "start": 579.48,
+      "end": 580.68,
+      "start_timestamp": "00:09:39.480",
+      "end_timestamp": "00:09:40.680",
+      "text": "Mais c'est pas fini,"
+    },
+    {
+      "id": 193,
+      "start": 580.68,
+      "end": 583.76,
+      "start_timestamp": "00:09:40.680",
+      "end_timestamp": "00:09:43.760",
+      "text": "parce que quand l'Union européenne décide de faire les choses bien,"
+    },
+    {
+      "id": 194,
+      "start": 583.76,
+      "end": 588.21,
+      "start_timestamp": "00:09:43.760",
+      "end_timestamp": "00:09:48.210",
+      "text": "elle ne le fait pas qu'à moitié."
+    },
+    {
+      "id": 195,
+      "start": 588.21,
+      "end": 589.73,
+      "start_timestamp": "00:09:48.210",
+      "end_timestamp": "00:09:49.730",
+      "text": "Pour les fournisseurs d'électricité,"
+    },
+    {
+      "id": 196,
+      "start": 589.73,
+      "end": 592.09,
+      "start_timestamp": "00:09:49.730",
+      "end_timestamp": "00:09:52.090",
+      "text": "le marché européen repose sur une règle stricte,"
+    },
+    {
+      "id": 197,
+      "start": 592.09,
+      "end": 594.29,
+      "start_timestamp": "00:09:52.090",
+      "end_timestamp": "00:09:54.290",
+      "text": "un prix unique à l'échelle du continent."
+    },
+    {
+      "id": 198,
+      "start": 594.29,
+      "end": 598.05,
+      "start_timestamp": "00:09:54.290",
+      "end_timestamp": "00:09:58.050",
+      "text": "Et à cause de ce principe, on a créé une véritable usine à gaz."
+    },
+    {
+      "id": 199,
+      "start": 598.05,
+      "end": 600.53,
+      "start_timestamp": "00:09:58.050",
+      "end_timestamp": "00:10:00.530",
+      "text": "Mais pour bien comprendre, revenons en arrière un instant."
+    },
+    {
+      "id": 200,
+      "start": 600.53,
+      "end": 602.65,
+      "start_timestamp": "00:10:00.530",
+      "end_timestamp": "00:10:02.650",
+      "text": "Au temps du monopole, c'était très simple."
+    },
+    {
+      "id": 201,
+      "start": 602.65,
+      "end": 605.29,
+      "start_timestamp": "00:10:02.650",
+      "end_timestamp": "00:10:05.290",
+      "text": "On prenait l'ensemble des coûts du système électrique national"
+    },
+    {
+      "id": 202,
+      "start": 605.29,
+      "end": 606.89,
+      "start_timestamp": "00:10:05.290",
+      "end_timestamp": "00:10:06.890",
+      "text": "pour déterminer le prix de vente."
+    },
+    {
+      "id": 203,
+      "start": 606.89,
+      "end": 609.33,
+      "start_timestamp": "00:10:06.890",
+      "end_timestamp": "00:10:09.330",
+      "text": "C'est une approche par le coût complet de production."
+    },
+    {
+      "id": 204,
+      "start": 609.33,
+      "end": 611.37,
+      "start_timestamp": "00:10:09.330",
+      "end_timestamp": "00:10:11.370",
+      "text": "Il y a essentiellement trois types de coûts."
+    },
+    {
+      "id": 205,
+      "start": 611.37,
+      "end": 612.49,
+      "start_timestamp": "00:10:11.370",
+      "end_timestamp": "00:10:12.490",
+      "text": "Les coûts de capital,"
+    },
+    {
+      "id": 206,
+      "start": 612.49,
+      "end": 615.77,
+      "start_timestamp": "00:10:12.490",
+      "end_timestamp": "00:10:15.770",
+      "text": "c'est-à-dire la construction et l'amortissement des infrastructures,"
+    },
+    {
+      "id": 207,
+      "start": 615.77,
+      "end": 617.85,
+      "start_timestamp": "00:10:15.770",
+      "end_timestamp": "00:10:17.850",
+      "text": "le parc nucléaire, les barrages hydrauliques,"
+    },
+    {
+      "id": 208,
+      "start": 617.85,
+      "end": 619.65,
+      "start_timestamp": "00:10:17.850",
+      "end_timestamp": "00:10:19.650",
+      "text": "les milliers de kilomètres de lignes électriques."
+    },
+    {
+      "id": 209,
+      "start": 619.65,
+      "end": 620.81,
+      "start_timestamp": "00:10:19.650",
+      "end_timestamp": "00:10:20.810",
+      "text": "Les coûts d'exploitation,"
+    },
+    {
+      "id": 210,
+      "start": 620.81,
+      "end": 623.01,
+      "start_timestamp": "00:10:20.810",
+      "end_timestamp": "00:10:23.010",
+      "text": "c'est-à-dire la maintenance, la gestion du réseau,"
+    },
+    {
+      "id": 211,
+      "start": 623.01,
+      "end": 624.77,
+      "start_timestamp": "00:10:23.010",
+      "end_timestamp": "00:10:24.770",
+      "text": "les salaires des agents d'EDF,"
+    },
+    {
+      "id": 212,
+      "start": 624.77,
+      "end": 626.29,
+      "start_timestamp": "00:10:24.770",
+      "end_timestamp": "00:10:26.290",
+      "text": "et les coûts des combustibles,"
+    },
+    {
+      "id": 213,
+      "start": 626.29,
+      "end": 629.09,
+      "start_timestamp": "00:10:26.290",
+      "end_timestamp": "00:10:29.090",
+      "text": "l'achat de l'uranium, du charbon, du fioul."
+    },
+    {
+      "id": 214,
+      "start": 629.09,
+      "end": 630.57,
+      "start_timestamp": "00:10:29.090",
+      "end_timestamp": "00:10:30.570",
+      "text": "On faisait la somme de tout ça,"
+    },
+    {
+      "id": 215,
+      "start": 630.57,
+      "end": 634.09,
+      "start_timestamp": "00:10:30.570",
+      "end_timestamp": "00:10:34.090",
+      "text": "et on le divisait par le volume total d'électricité consommée dans le pays."
+    },
+    {
+      "id": 216,
+      "start": 634.09,
+      "end": 636.09,
+      "start_timestamp": "00:10:34.090",
+      "end_timestamp": "00:10:36.090",
+      "text": "Au final, le prix de vente de l'électricité"
+    },
+    {
+      "id": 217,
+      "start": 636.09,
+      "end": 638.85,
+      "start_timestamp": "00:10:36.090",
+      "end_timestamp": "00:10:38.850",
+      "text": "reflétait le coût moyen du mix énergétique français."
+    },
+    {
+      "id": 218,
+      "start": 638.85,
+      "end": 640.05,
+      "start_timestamp": "00:10:38.850",
+      "end_timestamp": "00:10:40.050",
+      "text": "Pour le dire plus simplement,"
+    },
+    {
+      "id": 219,
+      "start": 640.05,
+      "end": 642.49,
+      "start_timestamp": "00:10:40.050",
+      "end_timestamp": "00:10:42.490",
+      "text": "on payait ce qu'il fallait pour produire suffisamment"
+    },
+    {
+      "id": 220,
+      "start": 642.49,
+      "end": 644.17,
+      "start_timestamp": "00:10:42.490",
+      "end_timestamp": "00:10:44.170",
+      "text": "et répondre aux besoins du pays."
+    },
+    {
+      "id": 221,
+      "start": 644.17,
+      "end": 645.53,
+      "start_timestamp": "00:10:44.170",
+      "end_timestamp": "00:10:45.530",
+      "text": "Ni plus, ni moins."
+    },
+    {
+      "id": 222,
+      "start": 645.53,
+      "end": 648.13,
+      "start_timestamp": "00:10:45.530",
+      "end_timestamp": "00:10:48.130",
+      "text": "Avec le marché européen, on a tout complexifié."
+    },
+    {
+      "id": 223,
+      "start": 648.13,
+      "end": 649.65,
+      "start_timestamp": "00:10:48.130",
+      "end_timestamp": "00:10:49.650",
+      "text": "On a créé un grand marché"
+    },
+    {
+      "id": 224,
+      "start": 649.65,
+      "end": 652.49,
+      "start_timestamp": "00:10:49.650",
+      "end_timestamp": "00:10:52.490",
+      "text": "réunissant tous les acteurs européens de l'électricité."
+    },
+    {
+      "id": 225,
+      "start": 652.49,
+      "end": 656.01,
+      "start_timestamp": "00:10:52.490",
+      "end_timestamp": "00:10:56.010",
+      "text": "Sur ce marché, les producteurs vendent l'énergie qu'ils viennent de générer,"
+    },
+    {
+      "id": 226,
+      "start": 656.01,
+      "end": 658.05,
+      "start_timestamp": "00:10:56.010",
+      "end_timestamp": "00:10:58.050",
+      "text": "les fournisseurs y achètent l'électricité"
+    },
+    {
+      "id": 227,
+      "start": 658.05,
+      "end": 659.93,
+      "start_timestamp": "00:10:58.050",
+      "end_timestamp": "00:10:59.930",
+      "text": "pour la revendre ensuite aux consommateurs,"
+    },
+    {
+      "id": 228,
+      "start": 659.93,
+      "end": 661.61,
+      "start_timestamp": "00:10:59.930",
+      "end_timestamp": "00:11:01.610",
+      "text": "et les négociants font du trading."
+    },
+    {
+      "id": 229,
+      "start": 661.61,
+      "end": 665.61,
+      "start_timestamp": "00:11:01.610",
+      "end_timestamp": "00:11:05.610",
+      "text": "Ils achètent et revendent pour apporter de la liquidité au marché."
+    },
+    {
+      "id": 230,
+      "start": 665.61,
+      "end": 668.93,
+      "start_timestamp": "00:11:05.610",
+      "end_timestamp": "00:11:08.930",
+      "text": "C'est sur ce marché de gros que s'applique la règle du prix unique."
+    },
+    {
+      "id": 231,
+      "start": 668.93,
+      "end": 671.97,
+      "start_timestamp": "00:11:08.930",
+      "end_timestamp": "00:11:11.970",
+      "text": "Ce prix varie d'une heure à l'autre en fonction de l'offre et la demande,"
+    },
+    {
+      "id": 232,
+      "start": 671.97,
+      "end": 674.73,
+      "start_timestamp": "00:11:11.970",
+      "end_timestamp": "00:11:14.730",
+      "text": "mais selon un système très particulier,"
+    },
+    {
+      "id": 233,
+      "start": 674.73,
+      "end": 676.93,
+      "start_timestamp": "00:11:14.730",
+      "end_timestamp": "00:11:16.930",
+      "text": "la tarification au coût marginal."
+    },
+    {
+      "id": 234,
+      "start": 676.93,
+      "end": 679.05,
+      "start_timestamp": "00:11:16.930",
+      "end_timestamp": "00:11:19.050",
+      "text": "Alors, ça peut paraître un peu technique dit comme ça,"
+    },
+    {
+      "id": 235,
+      "start": 679.05,
+      "end": 682.21,
+      "start_timestamp": "00:11:19.050",
+      "end_timestamp": "00:11:22.210",
+      "text": "mais vous allez voir, c'est pas si compliqué à comprendre."
+    },
+    {
+      "id": 236,
+      "start": 682.21,
+      "end": 683.01,
+      "start_timestamp": "00:11:22.210",
+      "end_timestamp": "00:11:23.010",
+      "text": "Explication."
+    },
+    {
+      "id": 237,
+      "start": 683.01,
+      "end": 685.01,
+      "start_timestamp": "00:11:23.010",
+      "end_timestamp": "00:11:25.010",
+      "text": "Comme l'électricité ne se stocke pas,"
+    },
+    {
+      "id": 238,
+      "start": 685.01,
+      "end": 687.13,
+      "start_timestamp": "00:11:25.010",
+      "end_timestamp": "00:11:27.130",
+      "text": "il faut que la quantité d'électricité produite"
+    },
+    {
+      "id": 239,
+      "start": 687.13,
+      "end": 689.25,
+      "start_timestamp": "00:11:27.130",
+      "end_timestamp": "00:11:29.250",
+      "text": "corresponde exactement à la demande"
+    },
+    {
+      "id": 240,
+      "start": 689.25,
+      "end": 690.97,
+      "start_timestamp": "00:11:29.250",
+      "end_timestamp": "00:11:30.970",
+      "text": "au moment où elle est consommée."
+    },
+    {
+      "id": 241,
+      "start": 690.97,
+      "end": 694.21,
+      "start_timestamp": "00:11:30.970",
+      "end_timestamp": "00:11:34.210",
+      "text": "Or, la demande varie beaucoup en fonction de la saison"
+    },
+    {
+      "id": 242,
+      "start": 694.21,
+      "end": 695.69,
+      "start_timestamp": "00:11:34.210",
+      "end_timestamp": "00:11:35.690",
+      "text": "ou du moment de la journée."
+    },
+    {
+      "id": 243,
+      "start": 695.69,
+      "end": 699.05,
+      "start_timestamp": "00:11:35.690",
+      "end_timestamp": "00:11:39.050",
+      "text": "Vous consommerez plus en journée que pendant la nuit par exemple."
+    },
+    {
+      "id": 244,
+      "start": 699.05,
+      "end": 702.61,
+      "start_timestamp": "00:11:39.050",
+      "end_timestamp": "00:11:42.610",
+      "text": "C'est pour ça que toutes les centrales ne sont pas allumées en permanence,"
+    },
+    {
+      "id": 245,
+      "start": 702.61,
+      "end": 704.45,
+      "start_timestamp": "00:11:42.610",
+      "end_timestamp": "00:11:44.450",
+      "text": "surtout quand la demande est faible."
+    },
+    {
+      "id": 246,
+      "start": 704.45,
+      "end": 707.69,
+      "start_timestamp": "00:11:44.450",
+      "end_timestamp": "00:11:47.690",
+      "text": "Donc ce qu'on fait, c'est qu'on appelle les centrales une à une,"
+    },
+    {
+      "id": 247,
+      "start": 707.69,
+      "end": 709.21,
+      "start_timestamp": "00:11:47.690",
+      "end_timestamp": "00:11:49.210",
+      "text": "de la moins chère à la plus chère"
+    },
+    {
+      "id": 248,
+      "start": 709.21,
+      "end": 712.13,
+      "start_timestamp": "00:11:49.210",
+      "end_timestamp": "00:11:52.130",
+      "text": "jusqu'à atteindre la quantité d'électricité demandée."
+    },
+    {
+      "id": 249,
+      "start": 712.13,
+      "end": 714.41,
+      "start_timestamp": "00:11:52.130",
+      "end_timestamp": "00:11:54.410",
+      "text": "Petit point important pour que vous compreniez bien."
+    },
+    {
+      "id": 250,
+      "start": 714.41,
+      "end": 716.77,
+      "start_timestamp": "00:11:54.410",
+      "end_timestamp": "00:11:56.770",
+      "text": "Le calcul ne prend en compte que les coûts variables,"
+    },
+    {
+      "id": 251,
+      "start": 716.77,
+      "end": 719.73,
+      "start_timestamp": "00:11:56.770",
+      "end_timestamp": "00:11:59.730",
+      "text": "c'est-à-dire le prix du carburant ou des taxes carbone."
+    },
+    {
+      "id": 252,
+      "start": 719.73,
+      "end": 721.89,
+      "start_timestamp": "00:11:59.730",
+      "end_timestamp": "00:12:01.890",
+      "text": "On ignore complètement le coût fixe."
+    },
+    {
+      "id": 253,
+      "start": 721.89,
+      "end": 724.25,
+      "start_timestamp": "00:12:01.890",
+      "end_timestamp": "00:12:04.250",
+      "text": "Ça veut dire qu'on met de côté toutes les dépenses liées"
+    },
+    {
+      "id": 254,
+      "start": 724.25,
+      "end": 726.97,
+      "start_timestamp": "00:12:04.250",
+      "end_timestamp": "00:12:06.970",
+      "text": "à la construction de la centrale et à son entretien."
+    },
+    {
+      "id": 255,
+      "start": 726.97,
+      "end": 729.29,
+      "start_timestamp": "00:12:06.970",
+      "end_timestamp": "00:12:09.290",
+      "text": "En pratique, on se retrouve donc avec cet ordre."
+    },
+    {
+      "id": 256,
+      "start": 729.29,
+      "end": 731.53,
+      "start_timestamp": "00:12:09.290",
+      "end_timestamp": "00:12:11.530",
+      "text": "On fait d'abord appel aux énergies renouvelables."
+    },
+    {
+      "id": 257,
+      "start": 731.53,
+      "end": 733.49,
+      "start_timestamp": "00:12:11.530",
+      "end_timestamp": "00:12:13.490",
+      "text": "Comme elles n'utilisent aucun combustible,"
+    },
+    {
+      "id": 258,
+      "start": 733.49,
+      "end": 735.53,
+      "start_timestamp": "00:12:13.490",
+      "end_timestamp": "00:12:15.530",
+      "text": "leur coût de production est très faible."
+    },
+    {
+      "id": 259,
+      "start": 735.53,
+      "end": 737.69,
+      "start_timestamp": "00:12:15.530",
+      "end_timestamp": "00:12:17.690",
+      "text": "Ensuite, on appelle les centrales nucléaires,"
+    },
+    {
+      "id": 260,
+      "start": 737.69,
+      "end": 741.21,
+      "start_timestamp": "00:12:17.690",
+      "end_timestamp": "00:12:21.210",
+      "text": "le combustible qu'elles utilisent, l'uranium, à un prix assez bas."
+    },
+    {
+      "id": 261,
+      "start": 741.21,
+      "end": 745.25,
+      "start_timestamp": "00:12:21.210",
+      "end_timestamp": "00:12:25.250",
+      "text": "Et enfin, on utilise le gaz, le charbon et le fioul en dernier ressort,"
+    },
+    {
+      "id": 262,
+      "start": 745.25,
+      "end": 748.25,
+      "start_timestamp": "00:12:25.250",
+      "end_timestamp": "00:12:28.250",
+      "text": "parce que leur coût de production dépend du cours des combustibles"
+    },
+    {
+      "id": 263,
+      "start": 748.25,
+      "end": 750.85,
+      "start_timestamp": "00:12:28.250",
+      "end_timestamp": "00:12:30.850",
+      "text": "et il est donc généralement beaucoup plus élevé."
+    },
+    {
+      "id": 264,
+      "start": 750.85,
+      "end": 753.45,
+      "start_timestamp": "00:12:30.850",
+      "end_timestamp": "00:12:33.450",
+      "text": "Ce système, on l'appelle le mérite-order."
+    },
+    {
+      "id": 265,
+      "start": 753.45,
+      "end": 755.89,
+      "start_timestamp": "00:12:33.450",
+      "end_timestamp": "00:12:35.890",
+      "text": "Il permet de faire appel aux centrales les moins chères"
+    },
+    {
+      "id": 266,
+      "start": 755.89,
+      "end": 757.85,
+      "start_timestamp": "00:12:35.890",
+      "end_timestamp": "00:12:37.850",
+      "text": "et les moins polluantes en premier."
+    },
+    {
+      "id": 267,
+      "start": 757.85,
+      "end": 759.69,
+      "start_timestamp": "00:12:37.850",
+      "end_timestamp": "00:12:39.690",
+      "text": "Comme ça, on baisse les coûts de production"
+    },
+    {
+      "id": 268,
+      "start": 759.69,
+      "end": 762.17,
+      "start_timestamp": "00:12:39.690",
+      "end_timestamp": "00:12:42.170",
+      "text": "et on privilégie les énergies décarbonées."
+    },
+    {
+      "id": 269,
+      "start": 762.17,
+      "end": 765.21,
+      "start_timestamp": "00:12:42.170",
+      "end_timestamp": "00:12:45.210",
+      "text": "Le problème, c'est que l'Union européenne a décidé de fixer le prix"
+    },
+    {
+      "id": 270,
+      "start": 765.21,
+      "end": 767.33,
+      "start_timestamp": "00:12:45.210",
+      "end_timestamp": "00:12:47.330",
+      "text": "sur la dernière centrale appelée."
+    },
+    {
+      "id": 271,
+      "start": 767.33,
+      "end": 771.13,
+      "start_timestamp": "00:12:47.330",
+      "end_timestamp": "00:12:51.130",
+      "text": "C'est donc la centrale la plus chère qui détermine le prix de tout le marché."
+    },
+    {
+      "id": 272,
+      "start": 771.13,
+      "end": 774.01,
+      "start_timestamp": "00:12:51.130",
+      "end_timestamp": "00:12:54.010",
+      "text": "Et bien souvent, ça correspond au prix du gaz."
+    },
+    {
+      "id": 273,
+      "start": 774.01,
+      "end": 775.49,
+      "start_timestamp": "00:12:54.010",
+      "end_timestamp": "00:12:55.490",
+      "text": "Et c'est sur la base de ce prix"
+    },
+    {
+      "id": 274,
+      "start": 775.49,
+      "end": 778.05,
+      "start_timestamp": "00:12:55.490",
+      "end_timestamp": "00:12:58.050",
+      "text": "que les fournisseurs s'approvisionnent en électricité"
+    },
+    {
+      "id": 275,
+      "start": 778.05,
+      "end": 780.29,
+      "start_timestamp": "00:12:58.050",
+      "end_timestamp": "00:13:00.290",
+      "text": "pour ensuite la revendre aux consommateurs."
+    },
+    {
+      "id": 276,
+      "start": 780.29,
+      "end": 782.65,
+      "start_timestamp": "00:13:00.290",
+      "end_timestamp": "00:13:02.650",
+      "text": "Est-ce que vous commencez un peu à comprendre le problème ?"
+    },
+    {
+      "id": 277,
+      "start": 782.65,
+      "end": 785.93,
+      "start_timestamp": "00:13:02.650",
+      "end_timestamp": "00:13:05.930",
+      "text": "En France, on produit plus de 60% de notre électricité"
+    },
+    {
+      "id": 278,
+      "start": 785.93,
+      "end": 787.49,
+      "start_timestamp": "00:13:05.930",
+      "end_timestamp": "00:13:07.490",
+      "text": "avec nos centrales nucléaires."
+    },
+    {
+      "id": 279,
+      "start": 787.49,
+      "end": 790.81,
+      "start_timestamp": "00:13:07.490",
+      "end_timestamp": "00:13:10.810",
+      "text": "Le gaz, en revanche, représente moins de 10% de notre production."
+    },
+    {
+      "id": 280,
+      "start": 790.81,
+      "end": 793.93,
+      "start_timestamp": "00:13:10.810",
+      "end_timestamp": "00:13:13.930",
+      "text": "Donc les Français sont dépendants des variations du prix du gaz,"
+    },
+    {
+      "id": 281,
+      "start": 793.93,
+      "end": 797.45,
+      "start_timestamp": "00:13:13.930",
+      "end_timestamp": "00:13:17.450",
+      "text": "alors que leur production, elle, vient essentiellement du nucléaire,"
+    },
+    {
+      "id": 282,
+      "start": 797.45,
+      "end": 799.29,
+      "start_timestamp": "00:13:17.450",
+      "end_timestamp": "00:13:19.290",
+      "text": "une énergie beaucoup moins chère."
+    },
+    {
+      "id": 283,
+      "start": 799.29,
+      "end": 801.25,
+      "start_timestamp": "00:13:19.290",
+      "end_timestamp": "00:13:21.250",
+      "text": "Ça veut dire que les consommateurs français"
+    },
+    {
+      "id": 284,
+      "start": 801.25,
+      "end": 804.09,
+      "start_timestamp": "00:13:21.250",
+      "end_timestamp": "00:13:24.090",
+      "text": "peuvent être amenés à payer leur électricité beaucoup plus cher"
+    },
+    {
+      "id": 285,
+      "start": 804.09,
+      "end": 806.53,
+      "start_timestamp": "00:13:24.090",
+      "end_timestamp": "00:13:26.530",
+      "text": "que le véritable coût de production en France."
+    },
+    {
+      "id": 286,
+      "start": 806.53,
+      "end": 808.57,
+      "start_timestamp": "00:13:26.530",
+      "end_timestamp": "00:13:28.570",
+      "text": "C'est complètement absurde."
+    },
+    {
+      "id": 287,
+      "start": 808.57,
+      "end": 810.45,
+      "start_timestamp": "00:13:28.570",
+      "end_timestamp": "00:13:30.450",
+      "text": "Allez, petit verre d'eau pour rester calme."
+    },
+    {
+      "id": 288,
+      "start": 810.45,
+      "end": 813.53,
+      "start_timestamp": "00:13:30.450",
+      "end_timestamp": "00:13:33.530",
+      "text": "Vu ce qui va suivre, on va en avoir besoin."
+    },
+    {
+      "id": 289,
+      "start": 813.53,
+      "end": 815.69,
+      "start_timestamp": "00:13:33.530",
+      "end_timestamp": "00:13:35.690",
+      "text": "On en vient à la question des tarifs réglementés."
+    },
+    {
+      "id": 290,
+      "start": 815.69,
+      "end": 819.17,
+      "start_timestamp": "00:13:35.690",
+      "end_timestamp": "00:13:39.170",
+      "text": "L'État, via EDF, peut fixer son propre prix de l'électricité"
+    },
+    {
+      "id": 291,
+      "start": 819.17,
+      "end": 820.57,
+      "start_timestamp": "00:13:39.170",
+      "end_timestamp": "00:13:40.570",
+      "text": "vendu aux consommateurs."
+    },
+    {
+      "id": 292,
+      "start": 820.57,
+      "end": 822.25,
+      "start_timestamp": "00:13:40.570",
+      "end_timestamp": "00:13:42.250",
+      "text": "C'est quoi le tarif réglementé ?"
+    },
+    {
+      "id": 293,
+      "start": 822.25,
+      "end": 824.25,
+      "start_timestamp": "00:13:42.250",
+      "end_timestamp": "00:13:44.250",
+      "text": "Ou que vous habitiez sur le territoire ?"
+    },
+    {
+      "id": 294,
+      "start": 824.25,
+      "end": 827.89,
+      "start_timestamp": "00:13:44.250",
+      "end_timestamp": "00:13:47.890",
+      "text": "Vous aurez accès à l'énergie au même prix"
+    },
+    {
+      "id": 295,
+      "start": 827.89,
+      "end": 831.61,
+      "start_timestamp": "00:13:47.890",
+      "end_timestamp": "00:13:51.610",
+      "text": "et tout le monde aura accès à un prix qui sera fixé par l'État"
+    },
+    {
+      "id": 296,
+      "start": 831.61,
+      "end": 835.49,
+      "start_timestamp": "00:13:51.610",
+      "end_timestamp": "00:13:55.490",
+      "text": "avec une commission indépendante et qui sera du coup régulé, réglementé."
+    },
+    {
+      "id": 297,
+      "start": 837.25,
+      "end": 839.57,
+      "start_timestamp": "00:13:57.250",
+      "end_timestamp": "00:13:59.570",
+      "text": "Sur le papier, on se dit, c'est super,"
+    },
+    {
+      "id": 298,
+      "start": 839.57,
+      "end": 841.97,
+      "start_timestamp": "00:13:59.570",
+      "end_timestamp": "00:14:01.970",
+      "text": "on va pouvoir s'affranchir du prix européen"
+    },
+    {
+      "id": 299,
+      "start": 841.97,
+      "end": 844.49,
+      "start_timestamp": "00:14:01.970",
+      "end_timestamp": "00:14:04.490",
+      "text": "pour se baser sur notre vrai coût de production."
+    },
+    {
+      "id": 300,
+      "start": 844.49,
+      "end": 846.45,
+      "start_timestamp": "00:14:04.490",
+      "end_timestamp": "00:14:06.450",
+      "text": "Et donc, baisser la facture."
+    },
+    {
+      "id": 301,
+      "start": 846.45,
+      "end": 849.81,
+      "start_timestamp": "00:14:06.450",
+      "end_timestamp": "00:14:09.810",
+      "text": "Oui, mais non, ce serait trop beau."
+    },
+    {
+      "id": 302,
+      "start": 849.81,
+      "end": 854.25,
+      "start_timestamp": "00:14:09.810",
+      "end_timestamp": "00:14:14.250",
+      "text": "Non, l'Union européenne interdit à EDF de fixer des prix trop bas."
+    },
+    {
+      "id": 303,
+      "start": 854.25,
+      "end": 855.65,
+      "start_timestamp": "00:14:14.250",
+      "end_timestamp": "00:14:15.650",
+      "text": "Et vous savez pourquoi ?"
+    },
+    {
+      "id": 304,
+      "start": 855.65,
+      "end": 858.49,
+      "start_timestamp": "00:14:15.650",
+      "end_timestamp": "00:14:18.490",
+      "text": "Ben, pour ne pas couler les fournisseurs alternatifs."
+    },
+    {
+      "id": 305,
+      "start": 858.49,
+      "end": 860.21,
+      "start_timestamp": "00:14:18.490",
+      "end_timestamp": "00:14:20.210",
+      "text": "Et oui, encore eux."
+    },
+    {
+      "id": 306,
+      "start": 860.21,
+      "end": 862.29,
+      "start_timestamp": "00:14:20.210",
+      "end_timestamp": "00:14:22.290",
+      "text": "En fait, l'Union européenne ne veut pas que EDF"
+    },
+    {
+      "id": 307,
+      "start": 862.29,
+      "end": 864.69,
+      "start_timestamp": "00:14:22.290",
+      "end_timestamp": "00:14:24.690",
+      "text": "profite de sa position dominante historique"
+    },
+    {
+      "id": 308,
+      "start": 864.69,
+      "end": 867.01,
+      "start_timestamp": "00:14:24.690",
+      "end_timestamp": "00:14:27.010",
+      "text": "pour baisser la facture d'électricité."
+    },
+    {
+      "id": 309,
+      "start": 867.01,
+      "end": 869.85,
+      "start_timestamp": "00:14:27.010",
+      "end_timestamp": "00:14:29.850",
+      "text": "Sinon, ça risquerait d'asphyxier la concurrence."
+    },
+    {
+      "id": 310,
+      "start": 869.85,
+      "end": 871.89,
+      "start_timestamp": "00:14:29.850",
+      "end_timestamp": "00:14:31.890",
+      "text": "Vous comprenez, il faudrait quand même pas que EDF"
+    },
+    {
+      "id": 311,
+      "start": 871.89,
+      "end": 874.89,
+      "start_timestamp": "00:14:31.890",
+      "end_timestamp": "00:14:34.890",
+      "text": "puisse vendre son électricité pas chère aux consommateurs."
+    },
+    {
+      "id": 312,
+      "start": 874.89,
+      "end": 877.25,
+      "start_timestamp": "00:14:34.890",
+      "end_timestamp": "00:14:37.250",
+      "text": "Sinon, les pauvres fournisseurs alternatifs"
+    },
+    {
+      "id": 313,
+      "start": 877.25,
+      "end": 881.09,
+      "start_timestamp": "00:14:37.250",
+      "end_timestamp": "00:14:41.090",
+      "text": "vont perdre leurs clients et ne vont plus pouvoir faire de bénéfices."
+    },
+    {
+      "id": 314,
+      "start": 881.09,
+      "end": 883.25,
+      "start_timestamp": "00:14:41.090",
+      "end_timestamp": "00:14:43.250",
+      "text": "Et pour l'Europe, ça, c'est très très grave."
+    },
+    {
+      "id": 315,
+      "start": 883.25,
+      "end": 885.81,
+      "start_timestamp": "00:14:43.250",
+      "end_timestamp": "00:14:45.810",
+      "text": "C'est une entrave illégale à la concurrence."
+    },
+    {
+      "id": 316,
+      "start": 885.81,
+      "end": 889.17,
+      "start_timestamp": "00:14:45.810",
+      "end_timestamp": "00:14:49.170",
+      "text": "Oui, le marché européen protège les fournisseurs alternatifs,"
+    },
+    {
+      "id": 317,
+      "start": 889.17,
+      "end": 891.81,
+      "start_timestamp": "00:14:49.170",
+      "end_timestamp": "00:14:51.810",
+      "text": "même ceux qui font uniquement de la spéculation"
+    },
+    {
+      "id": 318,
+      "start": 891.81,
+      "end": 893.45,
+      "start_timestamp": "00:14:51.810",
+      "end_timestamp": "00:14:53.450",
+      "text": "plutôt que les consommateurs."
+    },
+    {
+      "id": 319,
+      "start": 893.45,
+      "end": 894.77,
+      "start_timestamp": "00:14:53.450",
+      "end_timestamp": "00:14:54.770",
+      "text": "C'est du délire."
+    },
+    {
+      "id": 320,
+      "start": 894.77,
+      "end": 898.45,
+      "start_timestamp": "00:14:54.770",
+      "end_timestamp": "00:14:58.450",
+      "text": "On a un tarif réglementé qui est basé sur les prix de marché."
+    },
+    {
+      "id": 321,
+      "start": 898.45,
+      "end": 899.41,
+      "start_timestamp": "00:14:58.450",
+      "end_timestamp": "00:14:59.410",
+      "text": "C'est complètement ridicule."
+    },
+    {
+      "id": 322,
+      "start": 899.41,
+      "end": 901.41,
+      "start_timestamp": "00:14:59.410",
+      "end_timestamp": "00:15:01.410",
+      "text": "Même l'autorité de la concurrence avait dit quand même"
+    },
+    {
+      "id": 323,
+      "start": 901.41,
+      "end": 902.37,
+      "start_timestamp": "00:15:01.410",
+      "end_timestamp": "00:15:02.370",
+      "text": "on n'a jamais vu ça."
+    },
+    {
+      "id": 324,
+      "start": 902.37,
+      "end": 904.01,
+      "start_timestamp": "00:15:02.370",
+      "end_timestamp": "00:15:04.010",
+      "text": "Donc, si vous voulez la concurrence maintenant,"
+    },
+    {
+      "id": 325,
+      "start": 904.01,
+      "end": 905.93,
+      "start_timestamp": "00:15:04.010",
+      "end_timestamp": "00:15:05.930",
+      "text": "c'est plus la concurrence va faire baisser les prix,"
+    },
+    {
+      "id": 326,
+      "start": 905.93,
+      "end": 908.01,
+      "start_timestamp": "00:15:05.930",
+      "end_timestamp": "00:15:08.010",
+      "text": "c'est il faut mettre les prix suffisamment hauts"
+    },
+    {
+      "id": 327,
+      "start": 908.01,
+      "end": 909.29,
+      "start_timestamp": "00:15:08.010",
+      "end_timestamp": "00:15:09.290",
+      "text": "pour permettre la concurrence."
+    },
+    {
+      "id": 328,
+      "start": 909.29,
+      "end": 911.77,
+      "start_timestamp": "00:15:09.290",
+      "end_timestamp": "00:15:11.770",
+      "text": "Donc même avec les tarifs réglementés d'EDF,"
+    },
+    {
+      "id": 329,
+      "start": 911.77,
+      "end": 914.09,
+      "start_timestamp": "00:15:11.770",
+      "end_timestamp": "00:15:14.090",
+      "text": "le marché européen pose un énorme problème"
+    },
+    {
+      "id": 330,
+      "start": 914.09,
+      "end": 915.57,
+      "start_timestamp": "00:15:14.090",
+      "end_timestamp": "00:15:15.570",
+      "text": "pour le consommateur français."
+    },
+    {
+      "id": 331,
+      "start": 915.57,
+      "end": 917.93,
+      "start_timestamp": "00:15:15.570",
+      "end_timestamp": "00:15:17.930",
+      "text": "Dernier point à savoir sur les tarifs réglementés,"
+    },
+    {
+      "id": 332,
+      "start": 917.93,
+      "end": 920.37,
+      "start_timestamp": "00:15:17.930",
+      "end_timestamp": "00:15:20.370",
+      "text": "ils sont de toute façon réservés aux particuliers"
+    },
+    {
+      "id": 333,
+      "start": 920.37,
+      "end": 921.49,
+      "start_timestamp": "00:15:20.370",
+      "end_timestamp": "00:15:21.490",
+      "text": "et aux petites entreprises."
+    },
+    {
+      "id": 334,
+      "start": 921.49,
+      "end": 924.17,
+      "start_timestamp": "00:15:21.490",
+      "end_timestamp": "00:15:24.170",
+      "text": "Seules les entreprises employant moins de 10 personnes"
+    },
+    {
+      "id": 335,
+      "start": 924.17,
+      "end": 926.37,
+      "start_timestamp": "00:15:24.170",
+      "end_timestamp": "00:15:26.370",
+      "text": "et dont le chiffre d'affaires ou le total de bilans"
+    },
+    {
+      "id": 336,
+      "start": 926.37,
+      "end": 928.25,
+      "start_timestamp": "00:15:26.370",
+      "end_timestamp": "00:15:28.250",
+      "text": "sont inférieurs à 2 millions d'euros"
+    },
+    {
+      "id": 337,
+      "start": 928.25,
+      "end": 929.85,
+      "start_timestamp": "00:15:28.250",
+      "end_timestamp": "00:15:29.850",
+      "text": "peuvent en bénéficier."
+    },
+    {
+      "id": 338,
+      "start": 929.85,
+      "end": 932.49,
+      "start_timestamp": "00:15:29.850",
+      "end_timestamp": "00:15:32.490",
+      "text": "Tous les autres professionnels du petit restaurateur"
+    },
+    {
+      "id": 339,
+      "start": 932.49,
+      "end": 934.41,
+      "start_timestamp": "00:15:32.490",
+      "end_timestamp": "00:15:34.410",
+      "text": "à la grande entreprise en sont exclus."
+    },
+    {
+      "id": 340,
+      "start": 934.41,
+      "end": 936.77,
+      "start_timestamp": "00:15:34.410",
+      "end_timestamp": "00:15:36.770",
+      "text": "Les entreprises françaises sont donc largement dépendantes"
+    },
+    {
+      "id": 341,
+      "start": 936.77,
+      "end": 939.65,
+      "start_timestamp": "00:15:36.770",
+      "end_timestamp": "00:15:39.650",
+      "text": "du prix du gaz alors que notre pays produit de l'énergie"
+    },
+    {
+      "id": 342,
+      "start": 939.65,
+      "end": 941.13,
+      "start_timestamp": "00:15:39.650",
+      "end_timestamp": "00:15:41.130",
+      "text": "à bas coût grâce au nucléaire."
+    },
+    {
+      "id": 343,
+      "start": 941.17,
+      "end": 943.65,
+      "start_timestamp": "00:15:41.170",
+      "end_timestamp": "00:15:43.650",
+      "text": "Déjà que l'industrie française ne se porte pas très bien,"
+    },
+    {
+      "id": 344,
+      "start": 943.65,
+      "end": 945.69,
+      "start_timestamp": "00:15:43.650",
+      "end_timestamp": "00:15:45.690",
+      "text": "là, on enfonce le clou."
+    },
+    {
+      "id": 345,
+      "start": 945.69,
+      "end": 947.37,
+      "start_timestamp": "00:15:45.690",
+      "end_timestamp": "00:15:47.370",
+      "text": "Et c'est pour ça qu'en 2022,"
+    },
+    {
+      "id": 346,
+      "start": 947.37,
+      "end": 953.14,
+      "start_timestamp": "00:15:47.370",
+      "end_timestamp": "00:15:53.140",
+      "text": "tout ça a abouti à une crise historique."
+    },
+    {
+      "id": 347,
+      "start": 953.14,
+      "end": 956.46,
+      "start_timestamp": "00:15:53.140",
+      "end_timestamp": "00:15:56.460",
+      "text": "À l'été 2021, l'épidémie de Covid était derrière nous."
+    },
+    {
+      "id": 348,
+      "start": 956.46,
+      "end": 958.98,
+      "start_timestamp": "00:15:56.460",
+      "end_timestamp": "00:15:58.980",
+      "text": "L'économie mondiale revenait tranquillement à la normale,"
+    },
+    {
+      "id": 349,
+      "start": 958.98,
+      "end": 961.02,
+      "start_timestamp": "00:15:58.980",
+      "end_timestamp": "00:16:01.020",
+      "text": "la consommation reprenait de plus belle."
+    },
+    {
+      "id": 350,
+      "start": 961.02,
+      "end": 963.3,
+      "start_timestamp": "00:16:01.020",
+      "end_timestamp": "00:16:03.300",
+      "text": "Bref, on allait pouvoir respirer un peu."
+    },
+    {
+      "id": 351,
+      "start": 963.3,
+      "end": 966.7,
+      "start_timestamp": "00:16:03.300",
+      "end_timestamp": "00:16:06.700",
+      "text": "Mais finalement, 2022 aura été un véritable cauchemar"
+    },
+    {
+      "id": 352,
+      "start": 966.7,
+      "end": 969.02,
+      "start_timestamp": "00:16:06.700",
+      "end_timestamp": "00:16:09.020",
+      "text": "pour la production d'électricité française."
+    },
+    {
+      "id": 353,
+      "start": 969.02,
+      "end": 970.66,
+      "start_timestamp": "00:16:09.020",
+      "end_timestamp": "00:16:10.660",
+      "text": "C'est comme si toutes les circonstances"
+    },
+    {
+      "id": 354,
+      "start": 970.66,
+      "end": 973.9,
+      "start_timestamp": "00:16:10.660",
+      "end_timestamp": "00:16:13.900",
+      "text": "étaient réunies au même moment pour faire couler le navire."
+    },
+    {
+      "id": 355,
+      "start": 973.9,
+      "end": 976.86,
+      "start_timestamp": "00:16:13.900",
+      "end_timestamp": "00:16:16.860",
+      "text": "En février 2022, c'est le début de la guerre en Ukraine."
+    },
+    {
+      "id": 356,
+      "start": 976.86,
+      "end": 979.3,
+      "start_timestamp": "00:16:16.860",
+      "end_timestamp": "00:16:19.300",
+      "text": "La Russie coupe une partie de ses exportations de gaz,"
+    },
+    {
+      "id": 357,
+      "start": 979.3,
+      "end": 982.34,
+      "start_timestamp": "00:16:19.300",
+      "end_timestamp": "00:16:22.340",
+      "text": "ce qui fait flamber les prix à des niveaux stratosphériques."
+    },
+    {
+      "id": 358,
+      "start": 982.34,
+      "end": 984.86,
+      "start_timestamp": "00:16:22.340",
+      "end_timestamp": "00:16:24.860",
+      "text": "Sur le marché, le MW d'électricité,"
+    },
+    {
+      "id": 359,
+      "start": 984.86,
+      "end": 987.5,
+      "start_timestamp": "00:16:24.860",
+      "end_timestamp": "00:16:27.500",
+      "text": "qui se négociait historiquement autour de 50 euros,"
+    },
+    {
+      "id": 360,
+      "start": 987.5,
+      "end": 990.02,
+      "start_timestamp": "00:16:27.500",
+      "end_timestamp": "00:16:30.020",
+      "text": "franchit la barre délirante des 1000 euros."
+    },
+    {
+      "id": 361,
+      "start": 990.02,
+      "end": 992.7,
+      "start_timestamp": "00:16:30.020",
+      "end_timestamp": "00:16:32.700",
+      "text": "Dans toute l'Europe, l'électricité est vendue sur le marché"
+    },
+    {
+      "id": 362,
+      "start": 992.7,
+      "end": 994.58,
+      "start_timestamp": "00:16:32.700",
+      "end_timestamp": "00:16:34.580",
+      "text": "au prix exorbitant du gaz,"
+    },
+    {
+      "id": 363,
+      "start": 994.58,
+      "end": 996.74,
+      "start_timestamp": "00:16:34.580",
+      "end_timestamp": "00:16:36.740",
+      "text": "alors que les coûts de production des autres centrales"
+    },
+    {
+      "id": 364,
+      "start": 996.74,
+      "end": 998.34,
+      "start_timestamp": "00:16:36.740",
+      "end_timestamp": "00:16:38.340",
+      "text": "n'ont pas augmenté d'un IOTA."
+    },
+    {
+      "id": 365,
+      "start": 998.38,
+      "end": 1000.18,
+      "start_timestamp": "00:16:38.380",
+      "end_timestamp": "00:16:40.180",
+      "text": "En France, on produit notre électricité"
+    },
+    {
+      "id": 366,
+      "start": 1000.18,
+      "end": 1001.9,
+      "start_timestamp": "00:16:40.180",
+      "end_timestamp": "00:16:41.900",
+      "text": "essentiellement grâce au nucléaire,"
+    },
+    {
+      "id": 367,
+      "start": 1001.9,
+      "end": 1003.9,
+      "start_timestamp": "00:16:41.900",
+      "end_timestamp": "00:16:43.900",
+      "text": "et on n'avait donc aucune raison d'être touché"
+    },
+    {
+      "id": 368,
+      "start": 1003.9,
+      "end": 1005.82,
+      "start_timestamp": "00:16:43.900",
+      "end_timestamp": "00:16:45.820",
+      "text": "par l'explosion des prix du gaz."
+    },
+    {
+      "id": 369,
+      "start": 1005.82,
+      "end": 1007.74,
+      "start_timestamp": "00:16:45.820",
+      "end_timestamp": "00:16:47.740",
+      "text": "Du moins, c'est ce qu'on croyait."
+    },
+    {
+      "id": 370,
+      "start": 1007.74,
+      "end": 1008.82,
+      "start_timestamp": "00:16:47.740",
+      "end_timestamp": "00:16:48.820",
+      "text": "Mais pas de chance."
+    },
+    {
+      "id": 371,
+      "start": 1008.82,
+      "end": 1010.94,
+      "start_timestamp": "00:16:48.820",
+      "end_timestamp": "00:16:50.940",
+      "text": "Au même moment, EDF a dû mettre à l'arrêt"
+    },
+    {
+      "id": 372,
+      "start": 1010.94,
+      "end": 1012.9,
+      "start_timestamp": "00:16:50.940",
+      "end_timestamp": "00:16:52.900",
+      "text": "une partie de ses réacteurs nucléaires"
+    },
+    {
+      "id": 373,
+      "start": 1012.9,
+      "end": 1014.62,
+      "start_timestamp": "00:16:52.900",
+      "end_timestamp": "00:16:54.620",
+      "text": "qui présentaient des défauts de corrosion."
+    },
+    {
+      "id": 374,
+      "start": 1014.62,
+      "end": 1016.3,
+      "start_timestamp": "00:16:54.620",
+      "end_timestamp": "00:16:56.300",
+      "text": "Et comme si ça ne suffisait pas,"
+    },
+    {
+      "id": 375,
+      "start": 1016.3,
+      "end": 1018.3,
+      "start_timestamp": "00:16:56.300",
+      "end_timestamp": "00:16:58.300",
+      "text": "la sécheresse historique de 2022"
+    },
+    {
+      "id": 376,
+      "start": 1018.3,
+      "end": 1020.78,
+      "start_timestamp": "00:16:58.300",
+      "end_timestamp": "00:17:00.780",
+      "text": "a réduit la production des barrages hydroélectriques."
+    },
+    {
+      "id": 377,
+      "start": 1020.78,
+      "end": 1022.38,
+      "start_timestamp": "00:17:00.780",
+      "end_timestamp": "00:17:02.380",
+      "text": "Plus de la moitié des centrales nucléaires"
+    },
+    {
+      "id": 378,
+      "start": 1022.38,
+      "end": 1023.98,
+      "start_timestamp": "00:17:02.380",
+      "end_timestamp": "00:17:03.980",
+      "text": "sont à l'arrêt pour cause de maintenance."
+    },
+    {
+      "id": 379,
+      "start": 1023.98,
+      "end": 1026.58,
+      "start_timestamp": "00:17:03.980",
+      "end_timestamp": "00:17:06.580",
+      "text": "Les centrales hydroélectriques tournent elles au ralenti"
+    },
+    {
+      "id": 380,
+      "start": 1026.58,
+      "end": 1027.78,
+      "start_timestamp": "00:17:06.580",
+      "end_timestamp": "00:17:07.780",
+      "text": "à cause du manque d'eau,"
+    },
+    {
+      "id": 381,
+      "start": 1027.78,
+      "end": 1029.66,
+      "start_timestamp": "00:17:07.780",
+      "end_timestamp": "00:17:09.660",
+      "text": "moins 25% de production"
+    },
+    {
+      "id": 382,
+      "start": 1029.66,
+      "end": 1032.06,
+      "start_timestamp": "00:17:09.660",
+      "end_timestamp": "00:17:12.060",
+      "text": "par rapport à l'année dernière en Alsace par exemple."
+    },
+    {
+      "id": 383,
+      "start": 1032.06,
+      "end": 1032.94,
+      "start_timestamp": "00:17:12.060",
+      "end_timestamp": "00:17:12.940",
+      "text": "Résultat ?"
+    },
+    {
+      "id": 384,
+      "start": 1032.94,
+      "end": 1034.58,
+      "start_timestamp": "00:17:12.940",
+      "end_timestamp": "00:17:14.580",
+      "text": "La production d'électricité française"
+    },
+    {
+      "id": 385,
+      "start": 1034.58,
+      "end": 1036.86,
+      "start_timestamp": "00:17:14.580",
+      "end_timestamp": "00:17:16.860",
+      "text": "est tombée au plus bas niveau depuis 30 ans."
+    },
+    {
+      "id": 386,
+      "start": 1036.86,
+      "end": 1038.5,
+      "start_timestamp": "00:17:16.860",
+      "end_timestamp": "00:17:18.500",
+      "text": "La France a dû pour la première fois"
+    },
+    {
+      "id": 387,
+      "start": 1038.5,
+      "end": 1040.18,
+      "start_timestamp": "00:17:18.500",
+      "end_timestamp": "00:17:20.180",
+      "text": "importer de l'électricité"
+    },
+    {
+      "id": 388,
+      "start": 1040.18,
+      "end": 1041.7,
+      "start_timestamp": "00:17:20.180",
+      "end_timestamp": "00:17:21.700",
+      "text": "alors qu'elle était historiquement"
+    },
+    {
+      "id": 389,
+      "start": 1041.7,
+      "end": 1043.74,
+      "start_timestamp": "00:17:21.700",
+      "end_timestamp": "00:17:23.740",
+      "text": "l'une des plus grosses exportatrices en Europe."
+    },
+    {
+      "id": 390,
+      "start": 1043.74,
+      "end": 1044.7,
+      "start_timestamp": "00:17:23.740",
+      "end_timestamp": "00:17:24.700",
+      "text": "Et dans cette histoire,"
+    },
+    {
+      "id": 391,
+      "start": 1044.7,
+      "end": 1046.62,
+      "start_timestamp": "00:17:24.700",
+      "end_timestamp": "00:17:26.620",
+      "text": "vous allez voir que le marché européen"
+    },
+    {
+      "id": 392,
+      "start": 1046.62,
+      "end": 1048.34,
+      "start_timestamp": "00:17:26.620",
+      "end_timestamp": "00:17:28.340",
+      "text": "n'a pas seulement été inutile,"
+    },
+    {
+      "id": 393,
+      "start": 1048.34,
+      "end": 1051.26,
+      "start_timestamp": "00:17:28.340",
+      "end_timestamp": "00:17:31.260",
+      "text": "il a tout simplement aggravé l'endettement de la France."
+    },
+    {
+      "id": 394,
+      "start": 1051.26,
+      "end": 1053.74,
+      "start_timestamp": "00:17:31.260",
+      "end_timestamp": "00:17:33.740",
+      "text": "À ce moment-là, EDF est toujours soumis à l'arène."
+    },
+    {
+      "id": 395,
+      "start": 1053.74,
+      "end": 1054.74,
+      "start_timestamp": "00:17:33.740",
+      "end_timestamp": "00:17:34.740",
+      "text": "Vous vous rappelez ?"
+    },
+    {
+      "id": 396,
+      "start": 1054.74,
+      "end": 1056.78,
+      "start_timestamp": "00:17:34.740",
+      "end_timestamp": "00:17:36.780",
+      "text": "EDF doit vendre une partie de son électricité"
+    },
+    {
+      "id": 397,
+      "start": 1056.78,
+      "end": 1058.66,
+      "start_timestamp": "00:17:36.780",
+      "end_timestamp": "00:17:38.660",
+      "text": "aux fournisseurs alternatifs pour"
+    },
+    {
+      "id": 398,
+      "start": 1058.66,
+      "end": 1060.5,
+      "start_timestamp": "00:17:38.660",
+      "end_timestamp": "00:17:40.500",
+      "text": "42 € le MW."
+    },
+    {
+      "id": 399,
+      "start": 1060.5,
+      "end": 1063.46,
+      "start_timestamp": "00:17:40.500",
+      "end_timestamp": "00:17:43.460",
+      "text": "Déjà, en temps normal, l'arène était complètement absurde."
+    },
+    {
+      "id": 400,
+      "start": 1063.46,
+      "end": 1065.94,
+      "start_timestamp": "00:17:43.460",
+      "end_timestamp": "00:17:45.940",
+      "text": "Mais imaginez ce que ça a donné pendant la crise."
+    },
+    {
+      "id": 401,
+      "start": 1065.94,
+      "end": 1067.42,
+      "start_timestamp": "00:17:45.940",
+      "end_timestamp": "00:17:47.420",
+      "text": "EDF ne produisait plus assez"
+    },
+    {
+      "id": 402,
+      "start": 1067.42,
+      "end": 1069.58,
+      "start_timestamp": "00:17:47.420",
+      "end_timestamp": "00:17:49.580",
+      "text": "pour répondre à la demande de ses consommateurs."
+    },
+    {
+      "id": 403,
+      "start": 1069.58,
+      "end": 1071.26,
+      "start_timestamp": "00:17:49.580",
+      "end_timestamp": "00:17:51.260",
+      "text": "Il a donc dû acheter de l'électricité"
+    },
+    {
+      "id": 404,
+      "start": 1071.26,
+      "end": 1074.06,
+      "start_timestamp": "00:17:51.260",
+      "end_timestamp": "00:17:54.060",
+      "text": "sur le marché européen à des prix démentiels."
+    },
+    {
+      "id": 405,
+      "start": 1074.06,
+      "end": 1076.78,
+      "start_timestamp": "00:17:54.060",
+      "end_timestamp": "00:17:56.780",
+      "text": "Pour ensuite revendre cette électricité"
+    },
+    {
+      "id": 406,
+      "start": 1076.78,
+      "end": 1078.38,
+      "start_timestamp": "00:17:56.780",
+      "end_timestamp": "00:17:58.380",
+      "text": "aux fournisseurs alternatifs"
+    },
+    {
+      "id": 407,
+      "start": 1078.38,
+      "end": 1081.06,
+      "start_timestamp": "00:17:58.380",
+      "end_timestamp": "00:18:01.060",
+      "text": "pour la modique somme de 42 € le MW."
+    },
+    {
+      "id": 408,
+      "start": 1081.1,
+      "end": 1085.02,
+      "start_timestamp": "00:18:01.100",
+      "end_timestamp": "00:18:05.020",
+      "text": "EDF a acheté à 300, 400, voire 600 € le MW"
+    },
+    {
+      "id": 409,
+      "start": 1085.02,
+      "end": 1087.1,
+      "start_timestamp": "00:18:05.020",
+      "end_timestamp": "00:18:07.100",
+      "text": "pour le revendre à 42 €."
+    },
+    {
+      "id": 410,
+      "start": 1087.1,
+      "end": 1089.38,
+      "start_timestamp": "00:18:07.100",
+      "end_timestamp": "00:18:09.380",
+      "text": "Vous voyez un peu l'ampleur du problème."
+    },
+    {
+      "id": 411,
+      "start": 1089.38,
+      "end": 1091.58,
+      "start_timestamp": "00:18:09.380",
+      "end_timestamp": "00:18:11.580",
+      "text": "Et pendant qu'EDF était en train de se ruiner,"
+    },
+    {
+      "id": 412,
+      "start": 1091.58,
+      "end": 1092.7,
+      "start_timestamp": "00:18:11.580",
+      "end_timestamp": "00:18:12.700",
+      "text": "littéralement,"
+    },
+    {
+      "id": 413,
+      "start": 1092.7,
+      "end": 1095.46,
+      "start_timestamp": "00:18:12.700",
+      "end_timestamp": "00:18:15.460",
+      "text": "que se sont empressés de faire certains fournisseurs alternatifs,"
+    },
+    {
+      "id": 414,
+      "start": 1095.46,
+      "end": 1098.06,
+      "start_timestamp": "00:18:15.460",
+      "end_timestamp": "00:18:18.060",
+      "text": "ils ont forcé leurs clients à résilier leurs contrats"
+    },
+    {
+      "id": 415,
+      "start": 1098.06,
+      "end": 1100.26,
+      "start_timestamp": "00:18:18.060",
+      "end_timestamp": "00:18:20.260",
+      "text": "pour vendre immédiatement, au prix fort,"
+    },
+    {
+      "id": 416,
+      "start": 1100.26,
+      "end": 1102.42,
+      "start_timestamp": "00:18:20.260",
+      "end_timestamp": "00:18:22.420",
+      "text": "toute cette électricité sur le marché de gros."
+    },
+    {
+      "id": 417,
+      "start": 1102.42,
+      "end": 1105.3,
+      "start_timestamp": "00:18:22.420",
+      "end_timestamp": "00:18:25.300",
+      "text": "Client chez le fournisseur alternatif Planète Oui Romain"
+    },
+    {
+      "id": 418,
+      "start": 1105.3,
+      "end": 1108.06,
+      "start_timestamp": "00:18:25.300",
+      "end_timestamp": "00:18:28.060",
+      "text": "a eu une très mauvaise surprise début mars en recevant sa facture."
+    },
+    {
+      "id": 419,
+      "start": 1108.06,
+      "end": 1110.5,
+      "start_timestamp": "00:18:28.060",
+      "end_timestamp": "00:18:30.500",
+      "text": "1887 € pour une période de 4 mois,"
+    },
+    {
+      "id": 420,
+      "start": 1110.5,
+      "end": 1114.46,
+      "start_timestamp": "00:18:30.500",
+      "end_timestamp": "00:18:34.460",
+      "text": "donc de début novembre 2021 à fin février 2022."
+    },
+    {
+      "id": 421,
+      "start": 1114.46,
+      "end": 1117.1,
+      "start_timestamp": "00:18:34.460",
+      "end_timestamp": "00:18:37.100",
+      "text": "Je tombe des nues en fait, je me dis qu'il y a eu une erreur quelque part"
+    },
+    {
+      "id": 422,
+      "start": 1117.1,
+      "end": 1118.58,
+      "start_timestamp": "00:18:37.100",
+      "end_timestamp": "00:18:38.580",
+      "text": "et qu'ils ont dû se tromper en fait."
+    },
+    {
+      "id": 423,
+      "start": 1118.58,
+      "end": 1121.74,
+      "start_timestamp": "00:18:38.580",
+      "end_timestamp": "00:18:41.740",
+      "text": "50 % d'augmentation par kWh de gaz en 4 mois."
+    },
+    {
+      "id": 424,
+      "start": 1121.74,
+      "end": 1124.18,
+      "start_timestamp": "00:18:41.740",
+      "end_timestamp": "00:18:44.180",
+      "text": "En fait, le fournisseur fait payer le prix du marché"
+    },
+    {
+      "id": 425,
+      "start": 1124.18,
+      "end": 1127.06,
+      "start_timestamp": "00:18:44.180",
+      "end_timestamp": "00:18:47.060",
+      "text": "et plus le prix réglementé bloqué par le gouvernement."
+    },
+    {
+      "id": 426,
+      "start": 1127.06,
+      "end": 1128.46,
+      "start_timestamp": "00:18:47.060",
+      "end_timestamp": "00:18:48.460",
+      "text": "Romain a monté un collectif,"
+    },
+    {
+      "id": 427,
+      "start": 1128.46,
+      "end": 1130.22,
+      "start_timestamp": "00:18:48.460",
+      "end_timestamp": "00:18:50.220",
+      "text": "des centaines de personnes sont dans son cas."
+    },
+    {
+      "id": 428,
+      "start": 1130.22,
+      "end": 1132.9,
+      "start_timestamp": "00:18:50.220",
+      "end_timestamp": "00:18:52.900",
+      "text": "Ben oui, ils n'allaient quand même pas laisser passer l'opportunité"
+    },
+    {
+      "id": 429,
+      "start": 1132.9,
+      "end": 1137.1,
+      "start_timestamp": "00:18:52.900",
+      "end_timestamp": "00:18:57.100",
+      "text": "de profiter de la crise et de réaliser des bénéfices historiques."
+    },
+    {
+      "id": 430,
+      "start": 1137.14,
+      "end": 1138.26,
+      "start_timestamp": "00:18:57.140",
+      "end_timestamp": "00:18:58.260",
+      "text": "Grâce à ces montages,"
+    },
+    {
+      "id": 431,
+      "start": 1138.26,
+      "end": 1141.7,
+      "start_timestamp": "00:18:58.260",
+      "end_timestamp": "00:19:01.700",
+      "text": "Home Energy a réalisé 44 millions d'euros de marge brute"
+    },
+    {
+      "id": 432,
+      "start": 1141.7,
+      "end": 1145.54,
+      "start_timestamp": "00:19:01.700",
+      "end_timestamp": "00:19:05.540",
+      "text": "et Mint a fait un résultat de 20 millions rien qu'en 2022."
+    },
+    {
+      "id": 433,
+      "start": 1145.54,
+      "end": 1147.5,
+      "start_timestamp": "00:19:05.540",
+      "end_timestamp": "00:19:07.500",
+      "text": "C'est quand même sympa l'Union européenne."
+    },
+    {
+      "id": 434,
+      "start": 1147.5,
+      "end": 1148.54,
+      "start_timestamp": "00:19:07.500",
+      "end_timestamp": "00:19:08.540",
+      "text": "Mais c'est pas tout."
+    },
+    {
+      "id": 435,
+      "start": 1148.54,
+      "end": 1151.5,
+      "start_timestamp": "00:19:08.540",
+      "end_timestamp": "00:19:11.500",
+      "text": "Pendant que ces fournisseurs alternatifs s'engraissaient allègrement,"
+    },
+    {
+      "id": 436,
+      "start": 1151.5,
+      "end": 1153.1,
+      "start_timestamp": "00:19:11.500",
+      "end_timestamp": "00:19:13.100",
+      "text": "l'État a dû sortir le chéquier."
+    },
+    {
+      "id": 437,
+      "start": 1153.1,
+      "end": 1156.5,
+      "start_timestamp": "00:19:13.100",
+      "end_timestamp": "00:19:16.500",
+      "text": "Pour protéger les ménages, les petites entreprises et les collectivités,"
+    },
+    {
+      "id": 438,
+      "start": 1156.5,
+      "end": 1159.58,
+      "start_timestamp": "00:19:16.500",
+      "end_timestamp": "00:19:19.580",
+      "text": "le gouvernement a mis en place le fameux bouclier tarifaire."
+    },
+    {
+      "id": 439,
+      "start": 1159.58,
+      "end": 1161.9,
+      "start_timestamp": "00:19:19.580",
+      "end_timestamp": "00:19:21.900",
+      "text": "Il a gelé l'augmentation des prix de l'énergie."
+    },
+    {
+      "id": 440,
+      "start": 1161.9,
+      "end": 1164.38,
+      "start_timestamp": "00:19:21.900",
+      "end_timestamp": "00:19:24.380",
+      "text": "Nous allons bloquer, bloquer."
+    },
+    {
+      "id": 441,
+      "start": 1164.38,
+      "end": 1167.46,
+      "start_timestamp": "00:19:24.380",
+      "end_timestamp": "00:19:27.460",
+      "text": "Il n'y aura plus d'augmentation du prix du gaz,"
+    },
+    {
+      "id": 442,
+      "start": 1167.46,
+      "end": 1169.06,
+      "start_timestamp": "00:19:27.460",
+      "end_timestamp": "00:19:29.060",
+      "text": "c'est-à-dire ceux qui sont envisagés."
+    },
+    {
+      "id": 443,
+      "start": 1169.06,
+      "end": 1171.7,
+      "start_timestamp": "00:19:29.060",
+      "end_timestamp": "00:19:31.700",
+      "text": "J'ai ce pouvoir de par les textes."
+    },
+    {
+      "id": 444,
+      "start": 1171.7,
+      "end": 1175.46,
+      "start_timestamp": "00:19:31.700",
+      "end_timestamp": "00:19:35.460",
+      "text": "Et le tout, c'est que pour les consommateurs de gaz,"
+    },
+    {
+      "id": 445,
+      "start": 1175.46,
+      "end": 1178.82,
+      "start_timestamp": "00:19:35.460",
+      "end_timestamp": "00:19:38.820",
+      "text": "il n'y a pas cette hausse extrêmement forte qui est prévue."
+    },
+    {
+      "id": 446,
+      "start": 1178.82,
+      "end": 1181.82,
+      "start_timestamp": "00:19:38.820",
+      "end_timestamp": "00:19:41.820",
+      "text": "Aujourd'hui, sans action du gouvernement,"
+    },
+    {
+      "id": 447,
+      "start": 1181.82,
+      "end": 1185.42,
+      "start_timestamp": "00:19:41.820",
+      "end_timestamp": "00:19:45.420",
+      "text": "les tarifs du gaz et de l'électricité pour les ménages"
+    },
+    {
+      "id": 448,
+      "start": 1185.42,
+      "end": 1189.38,
+      "start_timestamp": "00:19:45.420",
+      "end_timestamp": "00:19:49.380",
+      "text": "seraient multipliés par 2,2 au début de l'année prochaine."
+    },
+    {
+      "id": 449,
+      "start": 1190.62,
+      "end": 1194.1,
+      "start_timestamp": "00:19:50.620",
+      "end_timestamp": "00:19:54.100",
+      "text": "Pour éviter ces augmentations qui ne seraient pas soutenables,"
+    },
+    {
+      "id": 450,
+      "start": 1194.1,
+      "end": 1199.14,
+      "start_timestamp": "00:19:54.100",
+      "end_timestamp": "00:19:59.140",
+      "text": "nous allons prolonger en 2023 le mécanisme de bouclier tarifaire"
+    },
+    {
+      "id": 451,
+      "start": 1199.14,
+      "end": 1204.02,
+      "start_timestamp": "00:19:59.140",
+      "end_timestamp": "00:20:04.020",
+      "text": "pour tous les ménages, pour les copropriétés, les logements sociaux,"
+    },
+    {
+      "id": 452,
+      "start": 1204.02,
+      "end": 1207.02,
+      "start_timestamp": "00:20:04.020",
+      "end_timestamp": "00:20:07.020",
+      "text": "les petites entreprises et les plus petites communes."
+    },
+    {
+      "id": 453,
+      "start": 1207.02,
+      "end": 1208.9,
+      "start_timestamp": "00:20:07.020",
+      "end_timestamp": "00:20:08.900",
+      "text": "Et ça, ça lui a coûté très cher."
+    },
+    {
+      "id": 454,
+      "start": 1208.9,
+      "end": 1211.74,
+      "start_timestamp": "00:20:08.900",
+      "end_timestamp": "00:20:11.740",
+      "text": "Si cher qu'aujourd'hui encore, on en paye le prix."
+    },
+    {
+      "id": 455,
+      "start": 1211.74,
+      "end": 1216.1,
+      "start_timestamp": "00:20:11.740",
+      "end_timestamp": "00:20:16.100",
+      "text": "Au total, cette petite opération a coûté 72 milliards d'euros à l'État."
+    },
+    {
+      "id": 456,
+      "start": 1216.1,
+      "end": 1218.46,
+      "start_timestamp": "00:20:16.100",
+      "end_timestamp": "00:20:18.460",
+      "text": "Et à cela s'ajoute encore 9 milliards d'euros"
+    },
+    {
+      "id": 457,
+      "start": 1218.46,
+      "end": 1221.94,
+      "start_timestamp": "00:20:18.460",
+      "end_timestamp": "00:20:21.940",
+      "text": "que l'État a dû débourser pour racheter les parts des actionnaires de DF"
+    },
+    {
+      "id": 458,
+      "start": 1221.98,
+      "end": 1224.5,
+      "start_timestamp": "00:20:21.980",
+      "end_timestamp": "00:20:24.500",
+      "text": "qui étaient littéralement au bord de l'Asphyxie,"
+    },
+    {
+      "id": 459,
+      "start": 1224.5,
+      "end": 1227.42,
+      "start_timestamp": "00:20:24.500",
+      "end_timestamp": "00:20:27.420",
+      "text": "le groupe étant dété à près de 50 milliards d'euros."
+    },
+    {
+      "id": 460,
+      "start": 1227.42,
+      "end": 1231.62,
+      "start_timestamp": "00:20:27.420",
+      "end_timestamp": "00:20:31.620",
+      "text": "Au final, on nous a expliqué que le consommateur avait été épargné pendant la crise."
+    },
+    {
+      "id": 461,
+      "start": 1231.62,
+      "end": 1234.86,
+      "start_timestamp": "00:20:31.620",
+      "end_timestamp": "00:20:34.860",
+      "text": "Oui, parce que c'est le contribuable qui l'a payé à crédit,"
+    },
+    {
+      "id": 462,
+      "start": 1234.86,
+      "end": 1235.98,
+      "start_timestamp": "00:20:34.860",
+      "end_timestamp": "00:20:35.980",
+      "text": "par la dette publique."
+    },
+    {
+      "id": 463,
+      "start": 1235.98,
+      "end": 1239.3,
+      "start_timestamp": "00:20:35.980",
+      "end_timestamp": "00:20:39.300",
+      "text": "Tous ces dysfonctionnements du marché européen ont été tellement flagrants"
+    },
+    {
+      "id": 464,
+      "start": 1239.3,
+      "end": 1242.9,
+      "start_timestamp": "00:20:39.300",
+      "end_timestamp": "00:20:42.900",
+      "text": "pendant la crise de 2022 que même Ursula van der Leyen,"
+    },
+    {
+      "id": 465,
+      "start": 1242.9,
+      "end": 1246.7,
+      "start_timestamp": "00:20:42.900",
+      "end_timestamp": "00:20:46.700",
+      "text": "Bruno Le Maire et Emmanuel Macron ont reconnu qu'il était absurde"
+    },
+    {
+      "id": 466,
+      "start": 1246.7,
+      "end": 1248.42,
+      "start_timestamp": "00:20:46.700",
+      "end_timestamp": "00:20:48.420",
+      "text": "et qu'il fallait le réformer."
+    },
+    {
+      "id": 467,
+      "start": 1248.5,
+      "end": 1254.78,
+      "start_timestamp": "00:20:48.500",
+      "end_timestamp": "00:20:54.780",
+      "text": "Mon diagnostic est que la conception actuelle du marché de l'électricité"
+    },
+    {
+      "id": 468,
+      "start": 1254.78,
+      "end": 1255.78,
+      "start_timestamp": "00:20:54.780",
+      "end_timestamp": "00:20:55.780",
+      "text": "est obsolète."
+    },
+    {
+      "id": 469,
+      "start": 1258.22,
+      "end": 1263.02,
+      "start_timestamp": "00:20:58.220",
+      "end_timestamp": "00:21:03.020",
+      "text": "Il faut que les Français payent le prix de l'électricité décarbonée"
+    },
+    {
+      "id": 470,
+      "start": 1263.02,
+      "end": 1264.82,
+      "start_timestamp": "00:21:03.020",
+      "end_timestamp": "00:21:04.820",
+      "text": "à son coût de production"
+    },
+    {
+      "id": 471,
+      "start": 1264.82,
+      "end": 1270.66,
+      "start_timestamp": "00:21:04.820",
+      "end_timestamp": "00:21:10.660",
+      "text": "et qu'on n'aligne pas le coût du MW d'électricité décarbonée"
+    },
+    {
+      "id": 472,
+      "start": 1270.66,
+      "end": 1274.3,
+      "start_timestamp": "00:21:10.660",
+      "end_timestamp": "00:21:14.300",
+      "text": "produit par nos centrales nucléaires sur le prix du gaz."
+    },
+    {
+      "id": 473,
+      "start": 1274.3,
+      "end": 1276.3,
+      "start_timestamp": "00:21:14.300",
+      "end_timestamp": "00:21:16.300",
+      "text": "C'est aberrant du point de vue économique,"
+    },
+    {
+      "id": 474,
+      "start": 1276.3,
+      "end": 1278.98,
+      "start_timestamp": "00:21:16.300",
+      "end_timestamp": "00:21:18.980",
+      "text": "c'est aberrant du point de vue écologique."
+    },
+    {
+      "id": 475,
+      "start": 1278.98,
+      "end": 1281.82,
+      "start_timestamp": "00:21:18.980",
+      "end_timestamp": "00:21:21.820",
+      "text": "Aujourd'hui, le prix de l'électricité sur le marché européen"
+    },
+    {
+      "id": 476,
+      "start": 1281.82,
+      "end": 1285.34,
+      "start_timestamp": "00:21:21.820",
+      "end_timestamp": "00:21:25.340",
+      "text": "est beaucoup trop dépendant des contributions marginales"
+    },
+    {
+      "id": 477,
+      "start": 1285.34,
+      "end": 1289.38,
+      "start_timestamp": "00:21:25.340",
+      "end_timestamp": "00:21:29.380",
+      "text": "et en particulier celles du gaz, en particulier en moment de pique."
+    },
+    {
+      "id": 478,
+      "start": 1289.38,
+      "end": 1292.74,
+      "start_timestamp": "00:21:29.380",
+      "end_timestamp": "00:21:32.740",
+      "text": "Ce qui, pour des pays comme le nôtre et certains autres, est aberrant"
+    },
+    {
+      "id": 479,
+      "start": 1292.74,
+      "end": 1295.3,
+      "start_timestamp": "00:21:32.740",
+      "end_timestamp": "00:21:35.300",
+      "text": "et fait que vous avez un prix de l'électricité qui est déconnecté"
+    },
+    {
+      "id": 480,
+      "start": 1295.3,
+      "end": 1298.14,
+      "start_timestamp": "00:21:35.300",
+      "end_timestamp": "00:21:38.140",
+      "text": "des prix de la réalité des coûts de production."
+    },
+    {
+      "id": 481,
+      "start": 1298.14,
+      "end": 1300.06,
+      "start_timestamp": "00:21:38.140",
+      "end_timestamp": "00:21:40.060",
+      "text": "C'est ce qui fait d'ailleurs que vous avez certains opérateurs"
+    },
+    {
+      "id": 482,
+      "start": 1300.06,
+      "end": 1302.14,
+      "start_timestamp": "00:21:40.060",
+      "end_timestamp": "00:21:42.140",
+      "text": "qui, du coup, font des bénéfices excessifs."
+    },
+    {
+      "id": 483,
+      "start": 1302.14,
+      "end": 1304.42,
+      "start_timestamp": "00:21:42.140",
+      "end_timestamp": "00:21:44.420",
+      "text": "Ce que la Commission européenne, je l'espère,"
+    },
+    {
+      "id": 484,
+      "start": 1304.42,
+      "end": 1305.94,
+      "start_timestamp": "00:21:44.420",
+      "end_timestamp": "00:21:45.940",
+      "text": "s'apprête à corriger à court terme."
+    },
+    {
+      "id": 485,
+      "start": 1305.94,
+      "end": 1307.94,
+      "start_timestamp": "00:21:45.940",
+      "end_timestamp": "00:21:47.940",
+      "text": "Mais avec l'Union européenne,"
+    },
+    {
+      "id": 486,
+      "start": 1307.94,
+      "end": 1312.86,
+      "start_timestamp": "00:21:47.940",
+      "end_timestamp": "00:21:52.860",
+      "text": "le mieux est souvent l'ennemi du bien."
+    },
+    {
+      "id": 487,
+      "start": 1312.86,
+      "end": 1314.7,
+      "start_timestamp": "00:21:52.860",
+      "end_timestamp": "00:21:54.700",
+      "text": "Après la catastrophe de 2022,"
+    },
+    {
+      "id": 488,
+      "start": 1314.7,
+      "end": 1317.06,
+      "start_timestamp": "00:21:54.700",
+      "end_timestamp": "00:21:57.060",
+      "text": "nos dirigeants ont fini par se dire qu'il fallait réformer"
+    },
+    {
+      "id": 489,
+      "start": 1317.06,
+      "end": 1318.7,
+      "start_timestamp": "00:21:57.060",
+      "end_timestamp": "00:21:58.700",
+      "text": "le marché de l'électricité."
+    },
+    {
+      "id": 490,
+      "start": 1318.7,
+      "end": 1321.14,
+      "start_timestamp": "00:21:58.700",
+      "end_timestamp": "00:22:01.140",
+      "text": "Bruno Le Maire, qui était alors ministre de l'économie,"
+    },
+    {
+      "id": 491,
+      "start": 1321.14,
+      "end": 1323.02,
+      "start_timestamp": "00:22:01.140",
+      "end_timestamp": "00:22:03.020",
+      "text": "était plus déterminé que jamais"
+    },
+    {
+      "id": 492,
+      "start": 1323.02,
+      "end": 1325.34,
+      "start_timestamp": "00:22:03.020",
+      "end_timestamp": "00:22:05.340",
+      "text": "et comptait bien taper du point sur la table."
+    },
+    {
+      "id": 493,
+      "start": 1325.34,
+      "end": 1328.18,
+      "start_timestamp": "00:22:05.340",
+      "end_timestamp": "00:22:08.180",
+      "text": "Nous refusons, disait-il, le 12 juin 2023,"
+    },
+    {
+      "id": 494,
+      "start": 1328.18,
+      "end": 1331.02,
+      "start_timestamp": "00:22:08.180",
+      "end_timestamp": "00:22:11.020",
+      "text": "que le prix d'électricité soit dicté par le prix du gaz."
+    },
+    {
+      "id": 495,
+      "start": 1331.02,
+      "end": 1333.94,
+      "start_timestamp": "00:22:11.020",
+      "end_timestamp": "00:22:13.940",
+      "text": "Nous mettrons tout notre poids politique dans la balance."
+    },
+    {
+      "id": 496,
+      "start": 1333.94,
+      "end": 1335.7,
+      "start_timestamp": "00:22:13.940",
+      "end_timestamp": "00:22:15.700",
+      "text": "Ça, c'était son discours."
+    },
+    {
+      "id": 497,
+      "start": 1335.7,
+      "end": 1337.98,
+      "start_timestamp": "00:22:15.700",
+      "end_timestamp": "00:22:17.980",
+      "text": "Et le gouvernement n'a pas manqué de se féliciter"
+    },
+    {
+      "id": 498,
+      "start": 1338.02,
+      "end": 1339.82,
+      "start_timestamp": "00:22:18.020",
+      "end_timestamp": "00:22:19.820",
+      "text": "de l'accord qu'il avait arraché à l'Europe."
+    },
+    {
+      "id": 499,
+      "start": 1339.82,
+      "end": 1343.62,
+      "start_timestamp": "00:22:19.820",
+      "end_timestamp": "00:22:23.620",
+      "text": "Nous avons engagé cette bataille avec le président de la République"
+    },
+    {
+      "id": 500,
+      "start": 1343.62,
+      "end": 1344.86,
+      "start_timestamp": "00:22:23.620",
+      "end_timestamp": "00:22:24.860",
+      "text": "depuis des mois."
+    },
+    {
+      "id": 501,
+      "start": 1344.86,
+      "end": 1347.82,
+      "start_timestamp": "00:22:24.860",
+      "end_timestamp": "00:22:27.820",
+      "text": "Et avec Agnès Pellier-Renachet, nous ne passons pas une semaine,"
+    },
+    {
+      "id": 502,
+      "start": 1347.82,
+      "end": 1351.18,
+      "start_timestamp": "00:22:27.820",
+      "end_timestamp": "00:22:31.180",
+      "text": "voire un jour, sans discuter avec nos partenaires européens"
+    },
+    {
+      "id": 503,
+      "start": 1351.18,
+      "end": 1353.34,
+      "start_timestamp": "00:22:31.180",
+      "end_timestamp": "00:22:33.340",
+      "text": "pour obtenir exactement ce que vous souhaitez"
+    },
+    {
+      "id": 504,
+      "start": 1353.34,
+      "end": 1354.82,
+      "start_timestamp": "00:22:33.340",
+      "end_timestamp": "00:22:34.820",
+      "text": "et qui est juste,"
+    },
+    {
+      "id": 505,
+      "start": 1354.82,
+      "end": 1357.14,
+      "start_timestamp": "00:22:34.820",
+      "end_timestamp": "00:22:37.140",
+      "text": "que le prix de l'énergie en France"
+    },
+    {
+      "id": 506,
+      "start": 1357.14,
+      "end": 1359.82,
+      "start_timestamp": "00:22:37.140",
+      "end_timestamp": "00:22:39.820",
+      "text": "soit payé au coût de production"
+    },
+    {
+      "id": 507,
+      "start": 1359.82,
+      "end": 1363.3,
+      "start_timestamp": "00:22:39.820",
+      "end_timestamp": "00:22:43.300",
+      "text": "et pas au coût marginal d'ouverture de la dernière centrale à gaz."
+    },
+    {
+      "id": 508,
+      "start": 1363.3,
+      "end": 1366.1,
+      "start_timestamp": "00:22:43.300",
+      "end_timestamp": "00:22:46.100",
+      "text": "Car nous avons tenu nos promesses."
+    },
+    {
+      "id": 509,
+      "start": 1366.18,
+      "end": 1371.14,
+      "start_timestamp": "00:22:46.180",
+      "end_timestamp": "00:22:51.140",
+      "text": "Nous avons déconnecté le prix d'électricité du prix du gaz."
+    },
+    {
+      "id": 510,
+      "start": 1371.14,
+      "end": 1375.46,
+      "start_timestamp": "00:22:51.140",
+      "end_timestamp": "00:22:55.460",
+      "text": "Nous avons obtenu la reconnaissance du nucléaire"
+    },
+    {
+      "id": 511,
+      "start": 1375.46,
+      "end": 1379.18,
+      "start_timestamp": "00:22:55.460",
+      "end_timestamp": "00:22:59.180",
+      "text": "et nous reprenons le contrôle des prix d'électricité."
+    },
+    {
+      "id": 512,
+      "start": 1379.18,
+      "end": 1382.3,
+      "start_timestamp": "00:22:59.180",
+      "end_timestamp": "00:23:02.300",
+      "text": "Cet accord marque donc un tournant pour la France."
+    },
+    {
+      "id": 513,
+      "start": 1382.3,
+      "end": 1386.18,
+      "start_timestamp": "00:23:02.300",
+      "end_timestamp": "00:23:06.180",
+      "text": "Il est le résultat du volontarisme du président de la République"
+    },
+    {
+      "id": 514,
+      "start": 1386.18,
+      "end": 1388.14,
+      "start_timestamp": "00:23:06.180",
+      "end_timestamp": "00:23:08.140",
+      "text": "et de l'ensemble des équipes qui l'ont négocié."
+    },
+    {
+      "id": 515,
+      "start": 1388.14,
+      "end": 1391.9,
+      "start_timestamp": "00:23:08.140",
+      "end_timestamp": "00:23:11.900",
+      "text": "C'est la meilleure réponse à l'extrême droite"
+    },
+    {
+      "id": 516,
+      "start": 1391.9,
+      "end": 1393.54,
+      "start_timestamp": "00:23:11.900",
+      "end_timestamp": "00:23:13.540",
+      "text": "et à l'extrême gauche"
+    },
+    {
+      "id": 517,
+      "start": 1393.54,
+      "end": 1396.26,
+      "start_timestamp": "00:23:13.540",
+      "end_timestamp": "00:23:16.260",
+      "text": "qui n'ont cessé de prendre le repli sur soi"
+    },
+    {
+      "id": 518,
+      "start": 1396.26,
+      "end": 1398.62,
+      "start_timestamp": "00:23:16.260",
+      "end_timestamp": "00:23:18.620",
+      "text": "avec la sortie du marché européen."
+    },
+    {
+      "id": 519,
+      "start": 1398.62,
+      "end": 1400.26,
+      "start_timestamp": "00:23:18.620",
+      "end_timestamp": "00:23:20.260",
+      "text": "Mais quand on connaît nos dirigeants français"
+    },
+    {
+      "id": 520,
+      "start": 1400.26,
+      "end": 1402.54,
+      "start_timestamp": "00:23:20.260",
+      "end_timestamp": "00:23:22.540",
+      "text": "et leur capacité à raconter ce qui les arrange,"
+    },
+    {
+      "id": 521,
+      "start": 1402.54,
+      "end": 1403.78,
+      "start_timestamp": "00:23:22.540",
+      "end_timestamp": "00:23:23.780",
+      "text": "il y a de quoi se méfier."
+    },
+    {
+      "id": 522,
+      "start": 1403.78,
+      "end": 1407.06,
+      "start_timestamp": "00:23:23.780",
+      "end_timestamp": "00:23:27.060",
+      "text": "De fait, il n'y a eu aucune remise en question du marché européen"
+    },
+    {
+      "id": 523,
+      "start": 1407.06,
+      "end": 1410.18,
+      "start_timestamp": "00:23:27.060",
+      "end_timestamp": "00:23:30.180",
+      "text": "ni du principe de la tarification au coût marginal."
+    },
+    {
+      "id": 524,
+      "start": 1410.18,
+      "end": 1412.42,
+      "start_timestamp": "00:23:30.180",
+      "end_timestamp": "00:23:32.420",
+      "text": "De même, l'existence des fournisseurs alternatifs"
+    },
+    {
+      "id": 525,
+      "start": 1412.42,
+      "end": 1414.34,
+      "start_timestamp": "00:23:32.420",
+      "end_timestamp": "00:23:34.340",
+      "text": "n'a pas du tout été remise en cause."
+    },
+    {
+      "id": 526,
+      "start": 1414.34,
+      "end": 1416.34,
+      "start_timestamp": "00:23:34.340",
+      "end_timestamp": "00:23:36.340",
+      "text": "Tout ça a accouché du VNU,"
+    },
+    {
+      "id": 527,
+      "start": 1416.34,
+      "end": 1418.46,
+      "start_timestamp": "00:23:36.340",
+      "end_timestamp": "00:23:38.460",
+      "text": "le Versement Nucléaire Universel."
+    },
+    {
+      "id": 528,
+      "start": 1418.46,
+      "end": 1420.86,
+      "start_timestamp": "00:23:38.460",
+      "end_timestamp": "00:23:40.860",
+      "text": "Applicable depuis le 1er janvier 2026,"
+    },
+    {
+      "id": 529,
+      "start": 1420.86,
+      "end": 1422.82,
+      "start_timestamp": "00:23:40.860",
+      "end_timestamp": "00:23:42.820",
+      "text": "le VNU remplace l'arène."
+    },
+    {
+      "id": 530,
+      "start": 1422.86,
+      "end": 1424.9,
+      "start_timestamp": "00:23:42.860",
+      "end_timestamp": "00:23:44.900",
+      "text": "Sur le papier, le VNU doit permettre à EDF"
+    },
+    {
+      "id": 531,
+      "start": 1424.9,
+      "end": 1427.62,
+      "start_timestamp": "00:23:44.900",
+      "end_timestamp": "00:23:47.620",
+      "text": "de retrouver des marches pour financer ses investissements"
+    },
+    {
+      "id": 532,
+      "start": 1427.62,
+      "end": 1429.62,
+      "start_timestamp": "00:23:47.620",
+      "end_timestamp": "00:23:49.620",
+      "text": "et baisser la facture des consommateurs."
+    },
+    {
+      "id": 533,
+      "start": 1429.62,
+      "end": 1432.18,
+      "start_timestamp": "00:23:49.620",
+      "end_timestamp": "00:23:52.180",
+      "text": "Concrètement, finit l'obligation pour EDF"
+    },
+    {
+      "id": 534,
+      "start": 1432.18,
+      "end": 1434.06,
+      "start_timestamp": "00:23:52.180",
+      "end_timestamp": "00:23:54.060",
+      "text": "de revendre une partie de sa production"
+    },
+    {
+      "id": 535,
+      "start": 1434.06,
+      "end": 1436.86,
+      "start_timestamp": "00:23:54.060",
+      "end_timestamp": "00:23:56.860",
+      "text": "à 42 € le MW aux autres fournisseurs."
+    },
+    {
+      "id": 536,
+      "start": 1436.86,
+      "end": 1438.18,
+      "start_timestamp": "00:23:56.860",
+      "end_timestamp": "00:23:58.180",
+      "text": "Bon, c'est déjà ça."
+    },
+    {
+      "id": 537,
+      "start": 1438.18,
+      "end": 1441.3,
+      "start_timestamp": "00:23:58.180",
+      "end_timestamp": "00:24:01.300",
+      "text": "Désormais, EDF va pouvoir vendre la totalité de sa production"
+    },
+    {
+      "id": 538,
+      "start": 1441.3,
+      "end": 1442.38,
+      "start_timestamp": "00:24:01.300",
+      "end_timestamp": "00:24:02.380",
+      "text": "au prix du marché."
+    },
+    {
+      "id": 539,
+      "start": 1442.38,
+      "end": 1443.06,
+      "start_timestamp": "00:24:02.380",
+      "end_timestamp": "00:24:03.060",
+      "text": "OK."
+    },
+    {
+      "id": 540,
+      "start": 1443.06,
+      "end": 1445.5,
+      "start_timestamp": "00:24:03.060",
+      "end_timestamp": "00:24:05.500",
+      "text": "Mais maintenant, accrochez-vous pour ce qui va suivre."
+    },
+    {
+      "id": 541,
+      "start": 1445.5,
+      "end": 1448.94,
+      "start_timestamp": "00:24:05.500",
+      "end_timestamp": "00:24:08.940",
+      "text": "Lorsque le prix dépassera les 78 € le MW,"
+    },
+    {
+      "id": 542,
+      "start": 1448.94,
+      "end": 1452.58,
+      "start_timestamp": "00:24:08.940",
+      "end_timestamp": "00:24:12.580",
+      "text": "l'État taxera les revenus excédentaires à hauteur de 50%"
+    },
+    {
+      "id": 543,
+      "start": 1452.58,
+      "end": 1455.62,
+      "start_timestamp": "00:24:12.580",
+      "end_timestamp": "00:24:15.620",
+      "text": "et même 90% au-delà de 110 €."
+    },
+    {
+      "id": 544,
+      "start": 1455.62,
+      "end": 1456.94,
+      "start_timestamp": "00:24:15.620",
+      "end_timestamp": "00:24:16.940",
+      "text": "L'objectif affiché,"
+    },
+    {
+      "id": 545,
+      "start": 1456.94,
+      "end": 1459.42,
+      "start_timestamp": "00:24:16.940",
+      "end_timestamp": "00:24:19.420",
+      "text": "permettre à l'État de redistribuer le fruit de cette taxe"
+    },
+    {
+      "id": 546,
+      "start": 1459.42,
+      "end": 1460.62,
+      "start_timestamp": "00:24:19.420",
+      "end_timestamp": "00:24:20.620",
+      "text": "à tous les consommateurs."
+    },
+    {
+      "id": 547,
+      "start": 1460.62,
+      "end": 1463.1,
+      "start_timestamp": "00:24:20.620",
+      "end_timestamp": "00:24:23.100",
+      "text": "Soyons clairs, pour la plupart des acteurs du secteur,"
+    },
+    {
+      "id": 548,
+      "start": 1463.1,
+      "end": 1466.9,
+      "start_timestamp": "00:24:23.100",
+      "end_timestamp": "00:24:26.900",
+      "text": "on a surtout créé une usine à gaz dans une usine à gaz."
+    },
+    {
+      "id": 549,
+      "start": 1466.9,
+      "end": 1468.9,
+      "start_timestamp": "00:24:26.900",
+      "end_timestamp": "00:24:28.900",
+      "text": "Et pour l'instant, il reste encore beaucoup de flou"
+    },
+    {
+      "id": 550,
+      "start": 1468.9,
+      "end": 1470.82,
+      "start_timestamp": "00:24:28.900",
+      "end_timestamp": "00:24:30.820",
+      "text": "sur l'application du dispositif,"
+    },
+    {
+      "id": 551,
+      "start": 1470.82,
+      "end": 1473.22,
+      "start_timestamp": "00:24:30.820",
+      "end_timestamp": "00:24:33.220",
+      "text": "donc difficile de se faire une idée précise."
+    },
+    {
+      "id": 552,
+      "start": 1473.22,
+      "end": 1475.38,
+      "start_timestamp": "00:24:33.220",
+      "end_timestamp": "00:24:35.380",
+      "text": "Le dispositif est tellement compliqué,"
+    },
+    {
+      "id": 553,
+      "start": 1475.38,
+      "end": 1478.5,
+      "start_timestamp": "00:24:35.380",
+      "end_timestamp": "00:24:38.500",
+      "text": "qui plus est avec un dispositif de remboursement"
+    },
+    {
+      "id": 554,
+      "start": 1478.5,
+      "end": 1479.9,
+      "start_timestamp": "00:24:38.500",
+      "end_timestamp": "00:24:39.900",
+      "text": "qui peut se mettre en place,"
+    },
+    {
+      "id": 555,
+      "start": 1479.9,
+      "end": 1482.54,
+      "start_timestamp": "00:24:39.900",
+      "end_timestamp": "00:24:42.540",
+      "text": "que les consommateurs n'y comprendront rien."
+    },
+    {
+      "id": 556,
+      "start": 1482.62,
+      "end": 1486.34,
+      "start_timestamp": "00:24:42.620",
+      "end_timestamp": "00:24:46.340",
+      "text": "Et donc ils viendront vraisemblablement vers le médiateur"
+    },
+    {
+      "id": 557,
+      "start": 1486.34,
+      "end": 1489.22,
+      "start_timestamp": "00:24:46.340",
+      "end_timestamp": "00:24:49.220",
+      "text": "et nous pouvons nous attendre effectivement à des difficultés"
+    },
+    {
+      "id": 558,
+      "start": 1489.22,
+      "end": 1491.5,
+      "start_timestamp": "00:24:49.220",
+      "end_timestamp": "00:24:51.500",
+      "text": "pour la mise en place de ce dispositif."
+    },
+    {
+      "id": 559,
+      "start": 1491.5,
+      "end": 1494.78,
+      "start_timestamp": "00:24:51.500",
+      "end_timestamp": "00:24:54.780",
+      "text": "En plus, on ne devrait pas y voir beaucoup plus clair en 2026,"
+    },
+    {
+      "id": 560,
+      "start": 1494.78,
+      "end": 1496.58,
+      "start_timestamp": "00:24:54.780",
+      "end_timestamp": "00:24:56.580",
+      "text": "puisque selon les prévisions actuelles,"
+    },
+    {
+      "id": 561,
+      "start": 1496.58,
+      "end": 1499.82,
+      "start_timestamp": "00:24:56.580",
+      "end_timestamp": "00:24:59.820",
+      "text": "le prix ne dépassera pas le seuil de 78 €."
+    },
+    {
+      "id": 562,
+      "start": 1499.82,
+      "end": 1502.86,
+      "start_timestamp": "00:24:59.820",
+      "end_timestamp": "00:25:02.860",
+      "text": "Donc le mécanisme de taxation-redistribution"
+    },
+    {
+      "id": 563,
+      "start": 1502.86,
+      "end": 1504.58,
+      "start_timestamp": "00:25:02.860",
+      "end_timestamp": "00:25:04.580",
+      "text": "ne devrait pas se déclencher."
+    },
+    {
+      "id": 564,
+      "start": 1504.58,
+      "end": 1506.98,
+      "start_timestamp": "00:25:04.580",
+      "end_timestamp": "00:25:06.980",
+      "text": "Pas de baisse en vue pour la facture des consommateurs."
+    },
+    {
+      "id": 565,
+      "start": 1506.98,
+      "end": 1508.3,
+      "start_timestamp": "00:25:06.980",
+      "end_timestamp": "00:25:08.300",
+      "text": "Autre point important."
+    },
+    {
+      "id": 566,
+      "start": 1508.3,
+      "end": 1511.14,
+      "start_timestamp": "00:25:08.300",
+      "end_timestamp": "00:25:11.140",
+      "text": "Avec le VNU, on ne sort pas de la logique du marché,"
+    },
+    {
+      "id": 567,
+      "start": 1511.14,
+      "end": 1514.18,
+      "start_timestamp": "00:25:11.140",
+      "end_timestamp": "00:25:14.180",
+      "text": "qui est par définition court-termiste et volatile."
+    },
+    {
+      "id": 568,
+      "start": 1514.18,
+      "end": 1517.18,
+      "start_timestamp": "00:25:14.180",
+      "end_timestamp": "00:25:17.180",
+      "text": "Comme EDF est obligé de s'aligner sur les prix de la concurrence,"
+    },
+    {
+      "id": 569,
+      "start": 1517.18,
+      "end": 1520.98,
+      "start_timestamp": "00:25:17.180",
+      "end_timestamp": "00:25:20.980",
+      "text": "il ne peut pas anticiper ses rentrées d'argent sur le moyen-long terme."
+    },
+    {
+      "id": 570,
+      "start": 1520.98,
+      "end": 1523.18,
+      "start_timestamp": "00:25:20.980",
+      "end_timestamp": "00:25:23.180",
+      "text": "D'ailleurs, dans un rapport de septembre 2025,"
+    },
+    {
+      "id": 571,
+      "start": 1523.18,
+      "end": 1524.86,
+      "start_timestamp": "00:25:23.180",
+      "end_timestamp": "00:25:24.860",
+      "text": "la Cour des comptes énonce ceci."
+    },
+    {
+      "id": 572,
+      "start": 1524.86,
+      "end": 1526.22,
+      "start_timestamp": "00:25:24.860",
+      "end_timestamp": "00:25:26.220",
+      "text": "Le dispositif de régulation"
+    },
+    {
+      "id": 573,
+      "start": 1526.22,
+      "end": 1528.62,
+      "start_timestamp": "00:25:26.220",
+      "end_timestamp": "00:25:28.620",
+      "text": "devant prendre la suite de l'arène en 2026"
+    },
+    {
+      "id": 574,
+      "start": 1528.62,
+      "end": 1531.82,
+      "start_timestamp": "00:25:28.620",
+      "end_timestamp": "00:25:31.820",
+      "text": "n'apporte pas de prévisibilité sur les niveaux de revenus qu'EDF"
+    },
+    {
+      "id": 575,
+      "start": 1531.82,
+      "end": 1534.1,
+      "start_timestamp": "00:25:31.820",
+      "end_timestamp": "00:25:34.100",
+      "text": "pourra tirer du parc nucléaire existant"
+    },
+    {
+      "id": 576,
+      "start": 1534.1,
+      "end": 1537.66,
+      "start_timestamp": "00:25:34.100",
+      "end_timestamp": "00:25:37.660",
+      "text": "et plus généralement de son parc de production hors ENR"
+    },
+    {
+      "id": 577,
+      "start": 1537.66,
+      "end": 1539.5,
+      "start_timestamp": "00:25:37.660",
+      "end_timestamp": "00:25:39.500",
+      "text": "sur ces 15 prochaines années."
+    },
+    {
+      "id": 578,
+      "start": 1540.26,
+      "end": 1542.62,
+      "start_timestamp": "00:25:40.260",
+      "end_timestamp": "00:25:42.620",
+      "text": "Et contrairement à la communication du gouvernement,"
+    },
+    {
+      "id": 579,
+      "start": 1542.62,
+      "end": 1546.66,
+      "start_timestamp": "00:25:42.620",
+      "end_timestamp": "00:25:46.660",
+      "text": "le VNU ne permet pas de sécuriser les capacités d'investissement d'EDF."
+    },
+    {
+      "id": 580,
+      "start": 1546.66,
+      "end": 1550.06,
+      "start_timestamp": "00:25:46.660",
+      "end_timestamp": "00:25:50.060",
+      "text": "Au final, les dirigeants français se contorsionnent dans tous les sens"
+    },
+    {
+      "id": 581,
+      "start": 1550.06,
+      "end": 1552.78,
+      "start_timestamp": "00:25:50.060",
+      "end_timestamp": "00:25:52.780",
+      "text": "pour essayer de rester dans les clous du cadre européen"
+    },
+    {
+      "id": 582,
+      "start": 1552.78,
+      "end": 1556.62,
+      "start_timestamp": "00:25:52.780",
+      "end_timestamp": "00:25:56.620",
+      "text": "pour un résultat au mieux incertain, au pire catastrophique."
+    },
+    {
+      "id": 583,
+      "start": 1556.62,
+      "end": 1559.3,
+      "start_timestamp": "00:25:56.620",
+      "end_timestamp": "00:25:59.300",
+      "text": "Mais le plus beau, c'est que pendant qu'on fait tout ça,"
+    },
+    {
+      "id": 584,
+      "start": 1559.3,
+      "end": 1561.86,
+      "start_timestamp": "00:25:59.300",
+      "end_timestamp": "00:26:01.860",
+      "text": "l'Union européenne met aussi des bâtons dans les roues de la France"
+    },
+    {
+      "id": 585,
+      "start": 1561.86,
+      "end": 1564.86,
+      "start_timestamp": "00:26:01.860",
+      "end_timestamp": "00:26:04.860",
+      "text": "pour la construction des nouveaux réacteurs EPR2."
+    },
+    {
+      "id": 586,
+      "start": 1564.86,
+      "end": 1566.9,
+      "start_timestamp": "00:26:04.860",
+      "end_timestamp": "00:26:06.900",
+      "text": "Pour donner de la visibilité aux industriels,"
+    },
+    {
+      "id": 587,
+      "start": 1566.9,
+      "end": 1570.66,
+      "start_timestamp": "00:26:06.900",
+      "end_timestamp": "00:26:10.660",
+      "text": "la France veut pouvoir vendre 30% de la production des futurs EPR2"
+    },
+    {
+      "id": 588,
+      "start": 1570.66,
+      "end": 1572.1,
+      "start_timestamp": "00:26:10.660",
+      "end_timestamp": "00:26:12.100",
+      "text": "via des contrats de long terme,"
+    },
+    {
+      "id": 589,
+      "start": 1572.1,
+      "end": 1575.42,
+      "start_timestamp": "00:26:12.100",
+      "end_timestamp": "00:26:15.420",
+      "text": "c'est-à-dire dérogés au prix unique du marché européen."
+    },
+    {
+      "id": 590,
+      "start": 1575.42,
+      "end": 1578.46,
+      "start_timestamp": "00:26:15.420",
+      "end_timestamp": "00:26:18.460",
+      "text": "Et bien juste pour ça, l'Union européenne montre les dents"
+    },
+    {
+      "id": 591,
+      "start": 1578.46,
+      "end": 1581.7,
+      "start_timestamp": "00:26:18.460",
+      "end_timestamp": "00:26:21.700",
+      "text": "car cela porterait atteinte à sa fameuse logique idéologique"
+    },
+    {
+      "id": 592,
+      "start": 1581.7,
+      "end": 1583.74,
+      "start_timestamp": "00:26:21.700",
+      "end_timestamp": "00:26:23.740",
+      "text": "de concurrence pure et parfaite."
+    },
+    {
+      "id": 593,
+      "start": 1583.74,
+      "end": 1587.02,
+      "start_timestamp": "00:26:23.740",
+      "end_timestamp": "00:26:27.020",
+      "text": "Ah, la fameuse libre concurrence de l'Union européenne."
+    },
+    {
+      "id": 594,
+      "start": 1587.02,
+      "end": 1588.38,
+      "start_timestamp": "00:26:27.020",
+      "end_timestamp": "00:26:28.380",
+      "text": "C'est un peu à la carte."
+    },
+    {
+      "id": 595,
+      "start": 1588.38,
+      "end": 1590.94,
+      "start_timestamp": "00:26:28.380",
+      "end_timestamp": "00:26:30.940",
+      "text": "D'un côté, quand ça concerne l'électricité et la France,"
+    },
+    {
+      "id": 596,
+      "start": 1590.94,
+      "end": 1594.5,
+      "start_timestamp": "00:26:30.940",
+      "end_timestamp": "00:26:34.500",
+      "text": "il ne faut pas des prix trop bas, parce que ça fausserait la concurrence."
+    },
+    {
+      "id": 597,
+      "start": 1594.5,
+      "end": 1597.14,
+      "start_timestamp": "00:26:34.500",
+      "end_timestamp": "00:26:37.140",
+      "text": "Mais quand certains pays proposent des fiscalités déloyales"
+    },
+    {
+      "id": 598,
+      "start": 1597.14,
+      "end": 1598.58,
+      "start_timestamp": "00:26:37.140",
+      "end_timestamp": "00:26:38.580",
+      "text": "comme l'Irlande ou les Pays-Bas"
+    },
+    {
+      "id": 599,
+      "start": 1598.58,
+      "end": 1600.7,
+      "start_timestamp": "00:26:38.580",
+      "end_timestamp": "00:26:40.700",
+      "text": "pour piquer les investissements de ses voisins,"
+    },
+    {
+      "id": 600,
+      "start": 1600.7,
+      "end": 1602.94,
+      "start_timestamp": "00:26:40.700",
+      "end_timestamp": "00:26:42.940",
+      "text": "là, bizarrement, ça n'a pas l'air de déranger."
+    },
+    {
+      "id": 601,
+      "start": 1602.94,
+      "end": 1604.62,
+      "start_timestamp": "00:26:42.940",
+      "end_timestamp": "00:26:44.620",
+      "text": "Et c'est le problème avec l'Union européenne."
+    },
+    {
+      "id": 602,
+      "start": 1604.62,
+      "end": 1606.66,
+      "start_timestamp": "00:26:44.620",
+      "end_timestamp": "00:26:46.660",
+      "text": "Il faut toujours batailler sur tout."
+    },
+    {
+      "id": 603,
+      "start": 1606.66,
+      "end": 1612.63,
+      "start_timestamp": "00:26:46.660",
+      "end_timestamp": "00:26:52.630",
+      "text": "Et à la fin, c'est quand même la France qui perd."
+    },
+    {
+      "id": 604,
+      "start": 1612.63,
+      "end": 1614.35,
+      "start_timestamp": "00:26:52.630",
+      "end_timestamp": "00:26:54.350",
+      "text": "Alors, voilà où on en est."
+    },
+    {
+      "id": 605,
+      "start": 1614.35,
+      "end": 1618.43,
+      "start_timestamp": "00:26:54.350",
+      "end_timestamp": "00:26:58.430",
+      "text": "Oui, le marché européen a généralisé le mérite-order à l'échelle du continent,"
+    },
+    {
+      "id": 606,
+      "start": 1618.43,
+      "end": 1622.63,
+      "start_timestamp": "00:26:58.430",
+      "end_timestamp": "00:27:02.630",
+      "text": "ce qui nous permet d'utiliser en priorité les centrales moins chères et décarbonées."
+    },
+    {
+      "id": 607,
+      "start": 1622.63,
+      "end": 1624.15,
+      "start_timestamp": "00:27:02.630",
+      "end_timestamp": "00:27:04.150",
+      "text": "Ça, on ne peut pas le nier."
+    },
+    {
+      "id": 608,
+      "start": 1624.15,
+      "end": 1627.79,
+      "start_timestamp": "00:27:04.150",
+      "end_timestamp": "00:27:07.790",
+      "text": "Mais en France, est-ce que ça a fait baisser notre facture d'électricité ?"
+    },
+    {
+      "id": 609,
+      "start": 1627.79,
+      "end": 1628.55,
+      "start_timestamp": "00:27:07.790",
+      "end_timestamp": "00:27:08.550",
+      "text": "Non."
+    },
+    {
+      "id": 610,
+      "start": 1628.55,
+      "end": 1631.83,
+      "start_timestamp": "00:27:08.550",
+      "end_timestamp": "00:27:11.830",
+      "text": "Est-ce que ça a favorisé l'innovation comme on nous l'avait promis ?"
+    },
+    {
+      "id": 611,
+      "start": 1631.83,
+      "end": 1632.75,
+      "start_timestamp": "00:27:11.830",
+      "end_timestamp": "00:27:12.750",
+      "text": "Non plus."
+    },
+    {
+      "id": 612,
+      "start": 1632.75,
+      "end": 1636.03,
+      "start_timestamp": "00:27:12.750",
+      "end_timestamp": "00:27:16.030",
+      "text": "En fait, la concurrence a surtout fait émerger des fournisseurs alternatifs"
+    },
+    {
+      "id": 613,
+      "start": 1636.03,
+      "end": 1638.99,
+      "start_timestamp": "00:27:16.030",
+      "end_timestamp": "00:27:18.990",
+      "text": "qui ont ruiné EDF, et l'État au passage."
+    },
+    {
+      "id": 614,
+      "start": 1638.99,
+      "end": 1643.99,
+      "start_timestamp": "00:27:18.990",
+      "end_timestamp": "00:27:23.990",
+      "text": "Résultat, on paye notre électricité à un prix totalement déconnecté de son coût de production."
+    },
+    {
+      "id": 615,
+      "start": 1643.99,
+      "end": 1646.47,
+      "start_timestamp": "00:27:23.990",
+      "end_timestamp": "00:27:26.470",
+      "text": "On se retrouve avec un producteur surendetté"
+    },
+    {
+      "id": 616,
+      "start": 1646.47,
+      "end": 1649.63,
+      "start_timestamp": "00:27:26.470",
+      "end_timestamp": "00:27:29.630",
+      "text": "et on a créé une usine à gaz qu'on n'arrive plus à contrôler."
+    },
+    {
+      "id": 617,
+      "start": 1649.63,
+      "end": 1650.91,
+      "start_timestamp": "00:27:29.630",
+      "end_timestamp": "00:27:30.910",
+      "text": "Et pour couronner le tout,"
+    },
+    {
+      "id": 618,
+      "start": 1650.91,
+      "end": 1654.71,
+      "start_timestamp": "00:27:30.910",
+      "end_timestamp": "00:27:34.710",
+      "text": "dès que l'État essaie de réguler et planifier sa politique énergétique,"
+    },
+    {
+      "id": 619,
+      "start": 1654.71,
+      "end": 1657.67,
+      "start_timestamp": "00:27:34.710",
+      "end_timestamp": "00:27:37.670",
+      "text": "il se retrouve à devoir batailler avec l'Union européenne."
+    },
+    {
+      "id": 620,
+      "start": 1657.67,
+      "end": 1660.87,
+      "start_timestamp": "00:27:37.670",
+      "end_timestamp": "00:27:40.870",
+      "text": "Or, tant qu'on restera accrochés au prix du gaz,"
+    },
+    {
+      "id": 621,
+      "start": 1660.87,
+      "end": 1663.75,
+      "start_timestamp": "00:27:40.870",
+      "end_timestamp": "00:27:43.750",
+      "text": "qui font le yo-yo de façon totalement imprévisible,"
+    },
+    {
+      "id": 622,
+      "start": 1663.75,
+      "end": 1667.15,
+      "start_timestamp": "00:27:43.750",
+      "end_timestamp": "00:27:47.150",
+      "text": "planifier quoi que ce soit sur le long terme est impossible."
+    },
+    {
+      "id": 623,
+      "start": 1667.15,
+      "end": 1669.79,
+      "start_timestamp": "00:27:47.150",
+      "end_timestamp": "00:27:49.790",
+      "text": "Alors maintenant qu'on sait tout ça, qu'est-ce qu'on fait ?"
+    },
+    {
+      "id": 624,
+      "start": 1669.79,
+      "end": 1673.87,
+      "start_timestamp": "00:27:49.790",
+      "end_timestamp": "00:27:53.870",
+      "text": "Une chose est sûre, on n'a absolument pas besoin de tous ces fournisseurs alternatifs."
+    },
+    {
+      "id": 625,
+      "start": 1673.87,
+      "end": 1676.47,
+      "start_timestamp": "00:27:53.870",
+      "end_timestamp": "00:27:56.470",
+      "text": "En ouvrant artificiellement l'électricité à la concurrence,"
+    },
+    {
+      "id": 626,
+      "start": 1676.47,
+      "end": 1679.27,
+      "start_timestamp": "00:27:56.470",
+      "end_timestamp": "00:27:59.270",
+      "text": "nos dirigeants ont clairement été aveuglés par leur idéologie."
+    },
+    {
+      "id": 627,
+      "start": 1679.31,
+      "end": 1681.83,
+      "start_timestamp": "00:27:59.310",
+      "end_timestamp": "00:28:01.830",
+      "text": "Ils ont voulu l'appliquer à tous les pans de l'économie."
+    },
+    {
+      "id": 628,
+      "start": 1681.83,
+      "end": 1685.03,
+      "start_timestamp": "00:28:01.830",
+      "end_timestamp": "00:28:05.030",
+      "text": "Seulement voilà, l'électricité, c'est pas un bien comme les autres,"
+    },
+    {
+      "id": 629,
+      "start": 1685.03,
+      "end": 1687.27,
+      "start_timestamp": "00:28:05.030",
+      "end_timestamp": "00:28:07.270",
+      "text": "c'est ce qu'on appelle un monopole naturel."
+    },
+    {
+      "id": 630,
+      "start": 1687.27,
+      "end": 1689.39,
+      "start_timestamp": "00:28:07.270",
+      "end_timestamp": "00:28:09.390",
+      "text": "Et ça ne devrait pas être ouvert à la concurrence."
+    },
+    {
+      "id": 631,
+      "start": 1689.39,
+      "end": 1692.27,
+      "start_timestamp": "00:28:09.390",
+      "end_timestamp": "00:28:12.270",
+      "text": "Deuxième certitude, il faut que le prix de notre électricité"
+    },
+    {
+      "id": 632,
+      "start": 1692.27,
+      "end": 1694.75,
+      "start_timestamp": "00:28:12.270",
+      "end_timestamp": "00:28:14.750",
+      "text": "corresponde au coût réel et complet de production."
+    },
+    {
+      "id": 633,
+      "start": 1694.75,
+      "end": 1696.15,
+      "start_timestamp": "00:28:14.750",
+      "end_timestamp": "00:28:16.150",
+      "text": "Ni plus, ni moins."
+    },
+    {
+      "id": 634,
+      "start": 1696.15,
+      "end": 1699.19,
+      "start_timestamp": "00:28:16.150",
+      "end_timestamp": "00:28:19.190",
+      "text": "Ça, même Bruno Le Maire est d'accord, c'est tout dire."
+    },
+    {
+      "id": 635,
+      "start": 1699.19,
+      "end": 1701.87,
+      "start_timestamp": "00:28:19.190",
+      "end_timestamp": "00:28:21.870",
+      "text": "Donc ce qu'on propose sur Praxis, c'est deux mesures."
+    },
+    {
+      "id": 636,
+      "start": 1701.87,
+      "end": 1704.59,
+      "start_timestamp": "00:28:21.870",
+      "end_timestamp": "00:28:24.590",
+      "text": "Premièrement, restaurer le monopole d'EDF."
+    },
+    {
+      "id": 637,
+      "start": 1704.59,
+      "end": 1708.75,
+      "start_timestamp": "00:28:24.590",
+      "end_timestamp": "00:28:28.750",
+      "text": "Deuxièmement, sortir du système de tarification au coût marginal."
+    },
+    {
+      "id": 638,
+      "start": 1708.75,
+      "end": 1711.23,
+      "start_timestamp": "00:28:28.750",
+      "end_timestamp": "00:28:31.230",
+      "text": "Ça veut dire qu'on aurait en France un système public"
+    },
+    {
+      "id": 639,
+      "start": 1711.23,
+      "end": 1713.31,
+      "start_timestamp": "00:28:31.230",
+      "end_timestamp": "00:28:33.310",
+      "text": "qui détiendrait tous les moyens de production"
+    },
+    {
+      "id": 640,
+      "start": 1713.31,
+      "end": 1715.55,
+      "start_timestamp": "00:28:33.310",
+      "end_timestamp": "00:28:35.550",
+      "text": "et qui facturait l'ensemble des consommateurs"
+    },
+    {
+      "id": 641,
+      "start": 1715.55,
+      "end": 1717.95,
+      "start_timestamp": "00:28:35.550",
+      "end_timestamp": "00:28:37.950",
+      "text": "sur la base des coûts réels et complets de production."
+    },
+    {
+      "id": 642,
+      "start": 1717.95,
+      "end": 1720.11,
+      "start_timestamp": "00:28:37.950",
+      "end_timestamp": "00:28:40.110",
+      "text": "Mais attention, ça ne veut pas dire qu'on s'isole"
+    },
+    {
+      "id": 643,
+      "start": 1720.11,
+      "end": 1722.87,
+      "start_timestamp": "00:28:40.110",
+      "end_timestamp": "00:28:42.870",
+      "text": "et qu'on arrête d'échanger avec nos voisins européens."
+    },
+    {
+      "id": 644,
+      "start": 1722.87,
+      "end": 1725.15,
+      "start_timestamp": "00:28:42.870",
+      "end_timestamp": "00:28:45.150",
+      "text": "Contrairement à ce que certains essayent de nous faire croire,"
+    },
+    {
+      "id": 645,
+      "start": 1725.15,
+      "end": 1729.15,
+      "start_timestamp": "00:28:45.150",
+      "end_timestamp": "00:28:49.150",
+      "text": "on n'est pas obligé de sortir totalement du marché européen pour faire ça."
+    },
+    {
+      "id": 646,
+      "start": 1729.15,
+      "end": 1731.83,
+      "start_timestamp": "00:28:49.150",
+      "end_timestamp": "00:28:51.830",
+      "text": "Nous sommes un marché global, un marché unique"
+    },
+    {
+      "id": 647,
+      "start": 1731.83,
+      "end": 1733.75,
+      "start_timestamp": "00:28:51.830",
+      "end_timestamp": "00:28:53.750",
+      "text": "et qu'il faut qu'il y ait la libre circulation"
+    },
+    {
+      "id": 648,
+      "start": 1733.75,
+      "end": 1736.23,
+      "start_timestamp": "00:28:53.750",
+      "end_timestamp": "00:28:56.230",
+      "text": "parce que ça bénéficie effectivement aux producteurs."
+    },
+    {
+      "id": 649,
+      "start": 1736.23,
+      "end": 1738.11,
+      "start_timestamp": "00:28:56.230",
+      "end_timestamp": "00:28:58.110",
+      "text": "L'électricité, la France est un producteur net"
+    },
+    {
+      "id": 650,
+      "start": 1738.11,
+      "end": 1739.19,
+      "start_timestamp": "00:28:58.110",
+      "end_timestamp": "00:28:59.190",
+      "text": "et notamment grâce au nucléaire."
+    },
+    {
+      "id": 651,
+      "start": 1739.19,
+      "end": 1740.95,
+      "start_timestamp": "00:28:59.190",
+      "end_timestamp": "00:29:00.950",
+      "text": "La France n'est ni l'Espagne ni le Portugal."
+    },
+    {
+      "id": 652,
+      "start": 1740.95,
+      "end": 1742.19,
+      "start_timestamp": "00:29:00.950",
+      "end_timestamp": "00:29:02.190",
+      "text": "Ce n'est pas une péninsule."
+    },
+    {
+      "id": 653,
+      "start": 1742.19,
+      "end": 1745.47,
+      "start_timestamp": "00:29:02.190",
+      "end_timestamp": "00:29:05.470",
+      "text": "Elle est connectée à d'autres nations qui lui fournissent de l'énergie"
+    },
+    {
+      "id": 654,
+      "start": 1745.47,
+      "end": 1748.79,
+      "start_timestamp": "00:29:05.470",
+      "end_timestamp": "00:29:08.790",
+      "text": "quand par malheur, ce qui est arrivé, nos centrales nucléaires ne fonctionnent pas."
+    },
+    {
+      "id": 655,
+      "start": 1748.79,
+      "end": 1751.47,
+      "start_timestamp": "00:29:08.790",
+      "end_timestamp": "00:29:11.470",
+      "text": "Douze d'entre elles ont dû être fermées pour des accidents"
+    },
+    {
+      "id": 656,
+      "start": 1751.47,
+      "end": 1754.27,
+      "start_timestamp": "00:29:11.470",
+      "end_timestamp": "00:29:14.270",
+      "text": "qui d'ailleurs ont été corrigés grâce à EDF."
+    },
+    {
+      "id": 657,
+      "start": 1754.27,
+      "end": 1758.63,
+      "start_timestamp": "00:29:14.270",
+      "end_timestamp": "00:29:18.630",
+      "text": "Je dis simplement que si nous étions sortis du marché européen de l'énergie aujourd'hui,"
+    },
+    {
+      "id": 658,
+      "start": 1758.63,
+      "end": 1760.59,
+      "start_timestamp": "00:29:18.630",
+      "end_timestamp": "00:29:20.590",
+      "text": "la solidarité européenne n'aurait pas joué"
+    },
+    {
+      "id": 659,
+      "start": 1760.59,
+      "end": 1763.03,
+      "start_timestamp": "00:29:20.590",
+      "end_timestamp": "00:29:23.030",
+      "text": "et il n'y aurait pas eu d'électricité dans les fours des boulangers."
+    },
+    {
+      "id": 660,
+      "start": 1763.03,
+      "end": 1765.43,
+      "start_timestamp": "00:29:23.030",
+      "end_timestamp": "00:29:25.430",
+      "text": "On serait bien avancés, on serait gros gens comme devant."
+    },
+    {
+      "id": 661,
+      "start": 1765.43,
+      "end": 1771.59,
+      "start_timestamp": "00:29:25.430",
+      "end_timestamp": "00:29:31.590",
+      "text": "Il faut quand même savoir qu'en France, on importe 40 jours par an de l'électricité."
+    },
+    {
+      "id": 662,
+      "start": 1771.59,
+      "end": 1773.35,
+      "start_timestamp": "00:29:31.590",
+      "end_timestamp": "00:29:33.350",
+      "text": "Donc ça, ce n'est pas nouveau."
+    },
+    {
+      "id": 663,
+      "start": 1773.35,
+      "end": 1775.31,
+      "start_timestamp": "00:29:33.350",
+      "end_timestamp": "00:29:35.310",
+      "text": "Et c'est pour ça qu'on a un marché européen."
+    },
+    {
+      "id": 664,
+      "start": 1775.31,
+      "end": 1777.31,
+      "start_timestamp": "00:29:35.310",
+      "end_timestamp": "00:29:37.310",
+      "text": "Et c'est pour ça qu'on a des interconnections."
+    },
+    {
+      "id": 665,
+      "start": 1777.31,
+      "end": 1779.99,
+      "start_timestamp": "00:29:37.310",
+      "end_timestamp": "00:29:39.990",
+      "text": "Et c'est pour ça que les personnes qui vous disent"
+    },
+    {
+      "id": 666,
+      "start": 1779.99,
+      "end": 1782.51,
+      "start_timestamp": "00:29:39.990",
+      "end_timestamp": "00:29:42.510",
+      "text": "qu'il faut sortir du marché européen de l'énergie"
+    },
+    {
+      "id": 667,
+      "start": 1782.51,
+      "end": 1784.95,
+      "start_timestamp": "00:29:42.510",
+      "end_timestamp": "00:29:44.950",
+      "text": "sont eux grands et responsables."
+    },
+    {
+      "id": 668,
+      "start": 1784.95,
+      "end": 1787.15,
+      "start_timestamp": "00:29:44.950",
+      "end_timestamp": "00:29:47.150",
+      "text": "Le marché de l'électricité est indispensable"
+    },
+    {
+      "id": 669,
+      "start": 1787.15,
+      "end": 1789.59,
+      "start_timestamp": "00:29:47.150",
+      "end_timestamp": "00:29:49.590",
+      "text": "pour que les boulangers puissent chauffer leurs fours."
+    },
+    {
+      "id": 670,
+      "start": 1789.59,
+      "end": 1791.79,
+      "start_timestamp": "00:29:49.590",
+      "end_timestamp": "00:29:51.790",
+      "text": "Ça, c'est un mensonge total."
+    },
+    {
+      "id": 671,
+      "start": 1791.79,
+      "end": 1794.75,
+      "start_timestamp": "00:29:51.790",
+      "end_timestamp": "00:29:54.750",
+      "text": "On a commencé à importer et exporter de l'électricité"
+    },
+    {
+      "id": 672,
+      "start": 1794.79,
+      "end": 1797.43,
+      "start_timestamp": "00:29:54.790",
+      "end_timestamp": "00:29:57.430",
+      "text": "bien avant que le marché européen existe."
+    },
+    {
+      "id": 673,
+      "start": 1797.43,
+      "end": 1800.19,
+      "start_timestamp": "00:29:57.430",
+      "end_timestamp": "00:30:00.190",
+      "text": "Et les premières interconnections,"
+    },
+    {
+      "id": 674,
+      "start": 1800.19,
+      "end": 1804.79,
+      "start_timestamp": "00:30:00.190",
+      "end_timestamp": "00:30:04.790",
+      "text": "celles qui a vu la France, l'Allemagne et la Suisse"
+    },
+    {
+      "id": 675,
+      "start": 1804.79,
+      "end": 1809.67,
+      "start_timestamp": "00:30:04.790",
+      "end_timestamp": "00:30:09.670",
+      "text": "créer des interconnections, c'est 1967."
+    },
+    {
+      "id": 676,
+      "start": 1809.67,
+      "end": 1812.95,
+      "start_timestamp": "00:30:09.670",
+      "end_timestamp": "00:30:12.950",
+      "text": "Je propose donc que nous arrêtions de répéter,"
+    },
+    {
+      "id": 677,
+      "start": 1812.95,
+      "end": 1814.83,
+      "start_timestamp": "00:30:12.950",
+      "end_timestamp": "00:30:14.830",
+      "text": "d'annonner cette contre-vérité"
+    },
+    {
+      "id": 678,
+      "start": 1814.83,
+      "end": 1819.43,
+      "start_timestamp": "00:30:14.830",
+      "end_timestamp": "00:30:19.430",
+      "text": "et que nous les laissions aux experts des plateaux de télévision de BFM Business"
+    },
+    {
+      "id": 679,
+      "start": 1819.43,
+      "end": 1822.19,
+      "start_timestamp": "00:30:19.430",
+      "end_timestamp": "00:30:22.190",
+      "text": "et que nous nous concentrons sur les faits."
+    },
+    {
+      "id": 680,
+      "start": 1822.19,
+      "end": 1824.39,
+      "start_timestamp": "00:30:22.190",
+      "end_timestamp": "00:30:24.390",
+      "text": "Tout comme nous pouvons faire du commerce"
+    },
+    {
+      "id": 681,
+      "start": 1824.39,
+      "end": 1827.19,
+      "start_timestamp": "00:30:24.390",
+      "end_timestamp": "00:30:27.190",
+      "text": "sans traiter de libre-échange climaticides"
+    },
+    {
+      "id": 682,
+      "start": 1827.19,
+      "end": 1829.15,
+      "start_timestamp": "00:30:27.190",
+      "end_timestamp": "00:30:29.150",
+      "text": "puisqu'on commerce depuis l'Antiquité,"
+    },
+    {
+      "id": 683,
+      "start": 1829.15,
+      "end": 1831.91,
+      "start_timestamp": "00:30:29.150",
+      "end_timestamp": "00:30:31.910",
+      "text": "nous pouvons maintenir les interconnections"
+    },
+    {
+      "id": 684,
+      "start": 1831.91,
+      "end": 1833.63,
+      "start_timestamp": "00:30:31.910",
+      "end_timestamp": "00:30:33.630",
+      "text": "et les échanges solidaires"
+    },
+    {
+      "id": 685,
+      "start": 1833.63,
+      "end": 1837.03,
+      "start_timestamp": "00:30:33.630",
+      "end_timestamp": "00:30:37.030",
+      "text": "plutôt que de laisser les traders faire du profit."
+    },
+    {
+      "id": 686,
+      "start": 1837.03,
+      "end": 1838.79,
+      "start_timestamp": "00:30:37.030",
+      "end_timestamp": "00:30:38.790",
+      "text": "La seule différence, c'est qu'avant,"
+    },
+    {
+      "id": 687,
+      "start": 1838.79,
+      "end": 1840.51,
+      "start_timestamp": "00:30:38.790",
+      "end_timestamp": "00:30:40.510",
+      "text": "on importait de l'électricité"
+    },
+    {
+      "id": 688,
+      "start": 1840.51,
+      "end": 1843.19,
+      "start_timestamp": "00:30:40.510",
+      "end_timestamp": "00:30:43.190",
+      "text": "uniquement quand on était en situation de pénurie."
+    },
+    {
+      "id": 689,
+      "start": 1843.19,
+      "end": 1844.91,
+      "start_timestamp": "00:30:43.190",
+      "end_timestamp": "00:30:44.910",
+      "text": "Aujourd'hui, on achète notre électricité"
+    },
+    {
+      "id": 690,
+      "start": 1844.91,
+      "end": 1846.79,
+      "start_timestamp": "00:30:44.910",
+      "end_timestamp": "00:30:46.790",
+      "text": "là où le coût de production est le plus faible."
+    },
+    {
+      "id": 691,
+      "start": 1846.79,
+      "end": 1848.95,
+      "start_timestamp": "00:30:46.790",
+      "end_timestamp": "00:30:48.950",
+      "text": "Et ça, on peut tout à fait continuer à le faire"
+    },
+    {
+      "id": 692,
+      "start": 1848.95,
+      "end": 1852.43,
+      "start_timestamp": "00:30:48.950",
+      "end_timestamp": "00:30:52.430",
+      "text": "avec un monopole public et avec des tarifs réglementés."
+    },
+    {
+      "id": 693,
+      "start": 1852.51,
+      "end": 1853.95,
+      "start_timestamp": "00:30:52.510",
+      "end_timestamp": "00:30:53.950",
+      "text": "Il suffit que le marché européen"
+    },
+    {
+      "id": 694,
+      "start": 1853.95,
+      "end": 1856.27,
+      "start_timestamp": "00:30:53.950",
+      "end_timestamp": "00:30:56.270",
+      "text": "devienne uniquement un marché d'import-export."
+    },
+    {
+      "id": 695,
+      "start": 1856.27,
+      "end": 1859.31,
+      "start_timestamp": "00:30:56.270",
+      "end_timestamp": "00:30:59.310",
+      "text": "Et pour le reste, on gère les choses comme on veut."
+    },
+    {
+      "id": 696,
+      "start": 1859.31,
+      "end": 1862.59,
+      "start_timestamp": "00:30:59.310",
+      "end_timestamp": "00:31:02.590",
+      "text": "Cette architecture, elle est portée notamment par Anne de Brejas,"
+    },
+    {
+      "id": 697,
+      "start": 1862.59,
+      "end": 1864.27,
+      "start_timestamp": "00:31:02.590",
+      "end_timestamp": "00:31:04.270",
+      "text": "ingénieure de recherche à EDF"
+    },
+    {
+      "id": 698,
+      "start": 1864.27,
+      "end": 1866.95,
+      "start_timestamp": "00:31:04.270",
+      "end_timestamp": "00:31:06.950",
+      "text": "et porte-parole de la Fédération Sud-Energie."
+    },
+    {
+      "id": 699,
+      "start": 1866.95,
+      "end": 1870.35,
+      "start_timestamp": "00:31:06.950",
+      "end_timestamp": "00:31:10.350",
+      "text": "Finalement, le principal problème qui se pose avec cette solution,"
+    },
+    {
+      "id": 700,
+      "start": 1870.35,
+      "end": 1871.47,
+      "start_timestamp": "00:31:10.350",
+      "end_timestamp": "00:31:11.470",
+      "text": "c'est l'Union européenne."
+    },
+    {
+      "id": 701,
+      "start": 1871.47,
+      "end": 1874.59,
+      "start_timestamp": "00:31:11.470",
+      "end_timestamp": "00:31:14.590",
+      "text": "Ce qui est quand même délirant, c'est qu'il existe une solution simple."
+    },
+    {
+      "id": 702,
+      "start": 1874.59,
+      "end": 1878.07,
+      "start_timestamp": "00:31:14.590",
+      "end_timestamp": "00:31:18.070",
+      "text": "On revient à un système public en France"
+    },
+    {
+      "id": 703,
+      "start": 1878.07,
+      "end": 1880.67,
+      "start_timestamp": "00:31:18.070",
+      "end_timestamp": "00:31:20.670",
+      "text": "et dans tous les pays qui le souhaitent."
+    },
+    {
+      "id": 704,
+      "start": 1880.67,
+      "end": 1886.51,
+      "start_timestamp": "00:31:20.670",
+      "end_timestamp": "00:31:26.510",
+      "text": "Donc, système public qui détiendrait progressivement"
+    },
+    {
+      "id": 705,
+      "start": 1886.51,
+      "end": 1888.59,
+      "start_timestamp": "00:31:26.510",
+      "end_timestamp": "00:31:28.590",
+      "text": "tous les moyens de production"
+    },
+    {
+      "id": 706,
+      "start": 1888.59,
+      "end": 1893.55,
+      "start_timestamp": "00:31:28.590",
+      "end_timestamp": "00:31:33.550",
+      "text": "et qui facturera l'ensemble des consommateurs"
+    },
+    {
+      "id": 707,
+      "start": 1893.55,
+      "end": 1896.47,
+      "start_timestamp": "00:31:33.550",
+      "end_timestamp": "00:31:36.470",
+      "text": "sur la base du coût moyen de production français"
+    },
+    {
+      "id": 708,
+      "start": 1896.47,
+      "end": 1899.35,
+      "start_timestamp": "00:31:36.470",
+      "end_timestamp": "00:31:39.350",
+      "text": "en incluant le coût ou les recettes des imports-exports."
+    },
+    {
+      "id": 709,
+      "start": 1899.35,
+      "end": 1901.27,
+      "start_timestamp": "00:31:39.350",
+      "end_timestamp": "00:31:41.270",
+      "text": "Sur le plan purement juridique, évidemment,"
+    },
+    {
+      "id": 710,
+      "start": 1901.27,
+      "end": 1904.23,
+      "start_timestamp": "00:31:41.270",
+      "end_timestamp": "00:31:44.230",
+      "text": "on serait obligé de désobéir aux traités européens"
+    },
+    {
+      "id": 711,
+      "start": 1904.23,
+      "end": 1905.99,
+      "start_timestamp": "00:31:44.230",
+      "end_timestamp": "00:31:45.990",
+      "text": "ou alors de les modifier."
+    },
+    {
+      "id": 712,
+      "start": 1905.99,
+      "end": 1907.11,
+      "start_timestamp": "00:31:45.990",
+      "end_timestamp": "00:31:47.110",
+      "text": "Mais au-delà du droit,"
+    },
+    {
+      "id": 713,
+      "start": 1907.11,
+      "end": 1909.87,
+      "start_timestamp": "00:31:47.110",
+      "end_timestamp": "00:31:49.870",
+      "text": "est-ce qu'on risque de porter préjudice à nos voisins ?"
+    },
+    {
+      "id": 714,
+      "start": 1909.87,
+      "end": 1911.75,
+      "start_timestamp": "00:31:49.870",
+      "end_timestamp": "00:31:51.750",
+      "text": "Est-ce qu'il pourrait nous imposer des représailles"
+    },
+    {
+      "id": 715,
+      "start": 1911.75,
+      "end": 1913.87,
+      "start_timestamp": "00:31:51.750",
+      "end_timestamp": "00:31:53.870",
+      "text": "si la France resterait son monopole public"
+    },
+    {
+      "id": 716,
+      "start": 1913.87,
+      "end": 1915.35,
+      "start_timestamp": "00:31:53.870",
+      "end_timestamp": "00:31:55.350",
+      "text": "et appliquait ses propres prix ?"
+    },
+    {
+      "id": 717,
+      "start": 1915.35,
+      "end": 1916.87,
+      "start_timestamp": "00:31:55.350",
+      "end_timestamp": "00:31:56.870",
+      "text": "Bah, c'est pas évident."
+    },
+    {
+      "id": 718,
+      "start": 1916.87,
+      "end": 1919.91,
+      "start_timestamp": "00:31:56.870",
+      "end_timestamp": "00:31:59.910",
+      "text": "Et au pire, ce serait l'objet d'une négociation."
+    },
+    {
+      "id": 719,
+      "start": 1919.91,
+      "end": 1921.47,
+      "start_timestamp": "00:31:59.910",
+      "end_timestamp": "00:32:01.470",
+      "text": "On a l'habitude avec l'Europe."
+    },
+    {
+      "id": 720,
+      "start": 1921.47,
+      "end": 1923.99,
+      "start_timestamp": "00:32:01.470",
+      "end_timestamp": "00:32:03.990",
+      "text": "Mais pour une fois, nos dirigeants défendraient vraiment"
+    },
+    {
+      "id": 721,
+      "start": 1923.99,
+      "end": 1925.19,
+      "start_timestamp": "00:32:03.990",
+      "end_timestamp": "00:32:05.190",
+      "text": "les intérêts de la France."
+    },
+    {
+      "id": 722,
+      "start": 1925.19,
+      "end": 1927.39,
+      "start_timestamp": "00:32:05.190",
+      "end_timestamp": "00:32:07.390",
+      "text": "Alors, dès aujourd'hui, c'est à vous de trancher."
+    },
+    {
+      "id": 723,
+      "start": 1927.39,
+      "end": 1929.15,
+      "start_timestamp": "00:32:07.390",
+      "end_timestamp": "00:32:09.150",
+      "text": "Êtes-vous d'accord pour confier l'exploitation"
+    },
+    {
+      "id": 724,
+      "start": 1929.15,
+      "end": 1932.63,
+      "start_timestamp": "00:32:09.150",
+      "end_timestamp": "00:32:12.630",
+      "text": "du système électrique français à un acteur public centralisé ?"
+    },
+    {
+      "id": 725,
+      "start": 1932.63,
+      "end": 1935.63,
+      "start_timestamp": "00:32:12.630",
+      "end_timestamp": "00:32:15.630",
+      "text": "Et la semaine prochaine, vous pourrez voter en faveur de la sortie"
+    },
+    {
+      "id": 726,
+      "start": 1935.63,
+      "end": 1937.95,
+      "start_timestamp": "00:32:15.630",
+      "end_timestamp": "00:32:17.950",
+      "text": "du système de tarification marginale."
+    },
+    {
+      "id": 727,
+      "start": 1937.99,
+      "end": 1941.39,
+      "start_timestamp": "00:32:17.990",
+      "end_timestamp": "00:32:21.390",
+      "text": "Pour voter, rendez-vous sur notre plateforme praxismedia.fr."
+    },
+    {
+      "id": 728,
+      "start": 1941.39,
+      "end": 1943.99,
+      "start_timestamp": "00:32:21.390",
+      "end_timestamp": "00:32:23.990",
+      "text": "Le lien est en commentaire et dans la description."
+    },
+    {
+      "id": 729,
+      "start": 1943.99,
+      "end": 1946.39,
+      "start_timestamp": "00:32:23.990",
+      "end_timestamp": "00:32:26.390",
+      "text": "Je vous rappelle que Praxis est un média indépendant"
+    },
+    {
+      "id": 730,
+      "start": 1946.39,
+      "end": 1949.03,
+      "start_timestamp": "00:32:26.390",
+      "end_timestamp": "00:32:29.030",
+      "text": "qui dépend entièrement de vos contributions financières."
+    },
+    {
+      "id": 731,
+      "start": 1949.03,
+      "end": 1950.95,
+      "start_timestamp": "00:32:29.030",
+      "end_timestamp": "00:32:30.950",
+      "text": "Si vous pensez que notre travail est utile"
+    },
+    {
+      "id": 732,
+      "start": 1950.95,
+      "end": 1953.07,
+      "start_timestamp": "00:32:30.950",
+      "end_timestamp": "00:32:33.070",
+      "text": "et qu'il faut redonner le pouvoir aux citoyens,"
+    },
+    {
+      "id": 733,
+      "start": 1953.07,
+      "end": 1955.63,
+      "start_timestamp": "00:32:33.070",
+      "end_timestamp": "00:32:35.630",
+      "text": "abonnez-vous sur notre site pour faire vivre le projet."
+    },
+    {
+      "id": 734,
+      "start": 1955.63,
+      "end": 1958.39,
+      "start_timestamp": "00:32:35.630",
+      "end_timestamp": "00:32:38.390",
+      "text": "Et bien sûr, vous pouvez liker, partager cette vidéo"
+    },
+    {
+      "id": 735,
+      "start": 1958.39,
+      "end": 1960.11,
+      "start_timestamp": "00:32:38.390",
+      "end_timestamp": "00:32:40.110",
+      "text": "et vous abonner à la chaîne."
+    },
+    {
+      "id": 736,
+      "start": 1960.11,
+      "end": 1962.11,
+      "start_timestamp": "00:32:40.110",
+      "end_timestamp": "00:32:42.110",
+      "text": "Prenez soin de vous et n'oubliez pas,"
+    },
+    {
+      "id": 737,
+      "start": 1962.11,
+      "end": 1964.19,
+      "start_timestamp": "00:32:42.110",
+      "end_timestamp": "00:32:44.190",
+      "text": "maintenant, on reprend la main."
+    }
+  ]
+}

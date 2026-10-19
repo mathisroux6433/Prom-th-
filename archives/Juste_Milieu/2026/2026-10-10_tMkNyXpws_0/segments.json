@@ -1,0 +1,2097 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.28,
+      "start_timestamp": "00:00:00.000",
+      "end_timestamp": "00:00:05.280",
+      "text": "La nouvelle douille qu'est en train de nous préparer l'Union Européenne,"
+    },
+    {
+      "id": 1,
+      "start": 5.28,
+      "end": 9.6,
+      "start_timestamp": "00:00:05.280",
+      "end_timestamp": "00:00:09.600",
+      "text": "je pense que c'est le truc le plus con depuis le dernier spectacle d'Anne Roumanoff."
+    },
+    {
+      "id": 2,
+      "start": 9.6,
+      "end": 12.24,
+      "start_timestamp": "00:00:09.600",
+      "end_timestamp": "00:00:12.240",
+      "text": "C'est pas contre Anne Roumanoff, il était super ce spectacle."
+    },
+    {
+      "id": 3,
+      "start": 12.24,
+      "end": 13.96,
+      "start_timestamp": "00:00:12.240",
+      "end_timestamp": "00:00:13.960",
+      "text": "Jusqu'à Anne Roumanoff, elle est humoriste."
+    },
+    {
+      "id": 4,
+      "start": 13.96,
+      "end": 17.64,
+      "start_timestamp": "00:00:13.960",
+      "end_timestamp": "00:00:17.640",
+      "text": "Il se relève en der Leyen, elle est dictatrice, ça n'a rien à voir, c'est pas le même métier, tu vois."
+    },
+    {
+      "id": 5,
+      "start": 17.64,
+      "end": 24.76,
+      "start_timestamp": "00:00:17.640",
+      "end_timestamp": "00:00:24.760",
+      "text": "Puis il y en a une qui est habillée en rouge, et il y en a une qui... qui casse les couilles, donc tu vois, c'est pas pareil, c'est pas pareil."
+    },
+    {
+      "id": 6,
+      "start": 24.76,
+      "end": 28.48,
+      "start_timestamp": "00:00:24.760",
+      "end_timestamp": "00:00:28.480",
+      "text": "Les amis, qu'est-ce que c'est que cette histoire de Mad in Europe ?"
+    },
+    {
+      "id": 7,
+      "start": 28.56,
+      "end": 33.6,
+      "start_timestamp": "00:00:28.560",
+      "end_timestamp": "00:00:33.600",
+      "text": "Nouvelle enquête Juste Milleux que je vous propose aujourd'hui, c'est parfaitement fou."
+    },
+    {
+      "id": 8,
+      "start": 33.6,
+      "end": 39.76,
+      "start_timestamp": "00:00:33.600",
+      "end_timestamp": "00:00:39.760",
+      "text": "Alors, pour vous raconter la génèse de cette vidéo, tout commence en janvier 2026."
+    },
+    {
+      "id": 9,
+      "start": 39.76,
+      "end": 44.76,
+      "start_timestamp": "00:00:39.760",
+      "end_timestamp": "00:00:44.760",
+      "text": "Ceux qui nous suivent le plus étroitement, qui savent ce qu'on fait chez Juste Milleux,"
+    },
+    {
+      "id": 10,
+      "start": 44.76,
+      "end": 51.84,
+      "start_timestamp": "00:00:44.760",
+      "end_timestamp": "00:00:51.840",
+      "text": "vous vous rappelez peut-être de cet article que nous avons publié sur le site internet de Juste Milleux le 30 janvier 2026."
+    },
+    {
+      "id": 11,
+      "start": 51.84,
+      "end": 57.72,
+      "start_timestamp": "00:00:51.840",
+      "end_timestamp": "00:00:57.720",
+      "text": "J'avais lu dans la presse une petite brève qui évoquait la volonté du côté de Bruxelles"
+    },
+    {
+      "id": 12,
+      "start": 57.72,
+      "end": 63.56,
+      "start_timestamp": "00:00:57.720",
+      "end_timestamp": "00:01:03.560",
+      "text": "de mettre en place un label Mad in Europe, c'est-à-dire pour ceux qui ne sont pas bons en anglais, fait en Europe."
+    },
+    {
+      "id": 13,
+      "start": 65.16,
+      "end": 70.12,
+      "start_timestamp": "00:01:05.160",
+      "end_timestamp": "00:01:10.120",
+      "text": "À ce moment-là, je m'étais dit bon, ça a l'air con, mais en même temps, c'est l'Union européenne."
+    },
+    {
+      "id": 14,
+      "start": 70.12,
+      "end": 73.96,
+      "start_timestamp": "00:01:10.120",
+      "end_timestamp": "00:01:13.960",
+      "text": "On peut leur faire confiance, ça va, ça va, tu vois."
+    },
+    {
+      "id": 15,
+      "start": 73.96,
+      "end": 80.56,
+      "start_timestamp": "00:01:13.960",
+      "end_timestamp": "00:01:20.560",
+      "text": "Et on apprenait que le contexte en janvier 2026, c'était la volonté de l'Union européenne de mettre en place un label"
+    },
+    {
+      "id": 16,
+      "start": 80.56,
+      "end": 83.68,
+      "start_timestamp": "00:01:20.560",
+      "end_timestamp": "00:01:23.680",
+      "text": "à des fins de protectionnisme industriel,"
+    },
+    {
+      "id": 17,
+      "start": 83.68,
+      "end": 89.64,
+      "start_timestamp": "00:01:23.680",
+      "end_timestamp": "00:01:29.640",
+      "text": "mais un label qui n'allait pas s'appliquer potentiellement que aux pays de l'Union européenne."
+    },
+    {
+      "id": 18,
+      "start": 89.64,
+      "end": 93.24,
+      "start_timestamp": "00:01:29.640",
+      "end_timestamp": "00:01:33.240",
+      "text": "À l'époque, on ne savait pas beaucoup de choses là-dessus, mais déjà, ça sentait pas bon, tu vois."
+    },
+    {
+      "id": 19,
+      "start": 93.24,
+      "end": 97.44,
+      "start_timestamp": "00:01:33.240",
+      "end_timestamp": "00:01:37.440",
+      "text": "Quand tu vas dans une pizzeria et à la carte, t'as de la fondue, tu te dis c'est pas bon."
+    },
+    {
+      "id": 20,
+      "start": 97.44,
+      "end": 103.04,
+      "start_timestamp": "00:01:37.440",
+      "end_timestamp": "00:01:43.040",
+      "text": "Donc, Mad in Europe pour des pays qui ne sont pas dans l'Union européenne, c'est pas bon."
+    },
+    {
+      "id": 21,
+      "start": 103.04,
+      "end": 106.84,
+      "start_timestamp": "00:01:43.040",
+      "end_timestamp": "00:01:46.840",
+      "text": "Mais ça, c'était en janvier, depuis, il s'est passé plein de choses, tu vois."
+    },
+    {
+      "id": 22,
+      "start": 106.84,
+      "end": 114.48,
+      "start_timestamp": "00:01:46.840",
+      "end_timestamp": "00:01:54.480",
+      "text": "Depuis, Toulouse a gagné le top 14, tu vois, il y a eu des événements fondamentaux, quoi."
+    },
+    {
+      "id": 23,
+      "start": 114.48,
+      "end": 117.32,
+      "start_timestamp": "00:01:54.480",
+      "end_timestamp": "00:01:57.320",
+      "text": "Sauf que l'affaire est en train de revenir."
+    },
+    {
+      "id": 24,
+      "start": 117.32,
+      "end": 119.12,
+      "start_timestamp": "00:01:57.320",
+      "end_timestamp": "00:01:59.120",
+      "text": "L'affaire est en train de revenir."
+    },
+    {
+      "id": 25,
+      "start": 119.12,
+      "end": 120.92,
+      "start_timestamp": "00:01:59.120",
+      "end_timestamp": "00:02:00.920",
+      "text": "Je m'étais dit, ce truc va se casser la gueule."
+    },
+    {
+      "id": 26,
+      "start": 120.92,
+      "end": 123.8,
+      "start_timestamp": "00:02:00.920",
+      "end_timestamp": "00:02:03.800",
+      "text": "Eh ben, neuf mois plus tard, le texte existe."
+    },
+    {
+      "id": 27,
+      "start": 123.8,
+      "end": 127.68,
+      "start_timestamp": "00:02:03.800",
+      "end_timestamp": "00:02:07.680",
+      "text": "Le Parlement européen est en train de l'étudier, de l'amender."
+    },
+    {
+      "id": 28,
+      "start": 127.68,
+      "end": 131.32,
+      "start_timestamp": "00:02:07.680",
+      "end_timestamp": "00:02:11.320",
+      "text": "Et Paris et Berlin sont en train de s'engueuler un petit peu sur l'histoire."
+    },
+    {
+      "id": 29,
+      "start": 131.32,
+      "end": 135.4,
+      "start_timestamp": "00:02:11.320",
+      "end_timestamp": "00:02:15.400",
+      "text": "Il faut que je vous explique tout, parce que les détails que je vais vous donner sont encore plus fous"
+    },
+    {
+      "id": 30,
+      "start": 135.4,
+      "end": 138.72,
+      "start_timestamp": "00:02:15.400",
+      "end_timestamp": "00:02:18.720",
+      "text": "que l'info de départ qui a été complètement cachée au peuple."
+    },
+    {
+      "id": 31,
+      "start": 138.72,
+      "end": 141.2,
+      "start_timestamp": "00:02:18.720",
+      "end_timestamp": "00:02:21.200",
+      "text": "Je viens, très peu de médias en ont parlé."
+    },
+    {
+      "id": 32,
+      "start": 141.2,
+      "end": 146.0,
+      "start_timestamp": "00:02:21.200",
+      "end_timestamp": "00:02:26.000",
+      "text": "En janvier, il y a Marianne qui en avait parlé vite fait, mais pas beaucoup plus."
+    },
+    {
+      "id": 33,
+      "start": 146.0,
+      "end": 147.36,
+      "start_timestamp": "00:02:26.000",
+      "end_timestamp": "00:02:27.360",
+      "text": "Alors, la chronologie."
+    },
+    {
+      "id": 34,
+      "start": 147.36,
+      "end": 149.44,
+      "start_timestamp": "00:02:27.360",
+      "end_timestamp": "00:02:29.440",
+      "text": "Il y a janvier, ce que je vous ai raconté."
+    },
+    {
+      "id": 35,
+      "start": 149.44,
+      "end": 154.04,
+      "start_timestamp": "00:02:29.440",
+      "end_timestamp": "00:02:34.040",
+      "text": "Le 19 février 2026, on a une nouvelle info qui a été relayée notamment par Reuters,"
+    },
+    {
+      "id": 36,
+      "start": 154.04,
+      "end": 158.4,
+      "start_timestamp": "00:02:34.040",
+      "end_timestamp": "00:02:38.400",
+      "text": "donc l'agence de presse Reuters, qui donnait des éléments supplémentaires."
+    },
+    {
+      "id": 37,
+      "start": 158.4,
+      "end": 161.32,
+      "start_timestamp": "00:02:38.400",
+      "end_timestamp": "00:02:41.320",
+      "text": "Je vous montre quelques sources que j'ai sur ça."
+    },
+    {
+      "id": 38,
+      "start": 161.32,
+      "end": 165.48,
+      "start_timestamp": "00:02:41.320",
+      "end_timestamp": "00:02:45.480",
+      "text": "Il y avait notamment un article de Boursorama qui l'avait relayé."
+    },
+    {
+      "id": 39,
+      "start": 165.48,
+      "end": 168.72,
+      "start_timestamp": "00:02:45.480",
+      "end_timestamp": "00:02:48.720",
+      "text": "Qu'est-ce que le projet de loi Made in Europe de l'UE ?"
+    },
+    {
+      "id": 40,
+      "start": 168.72,
+      "end": 172.36,
+      "start_timestamp": "00:02:48.720",
+      "end_timestamp": "00:02:52.360",
+      "text": "Qu'est-ce qu'on apprenait le 19 février 2026 ?"
+    },
+    {
+      "id": 41,
+      "start": 172.36,
+      "end": 179.04,
+      "start_timestamp": "00:02:52.360",
+      "end_timestamp": "00:02:59.040",
+      "text": "Que ce projet de loi n'était pas une connerie, que c'était sérieux et que, vous inquiétez pas,"
+    },
+    {
+      "id": 42,
+      "start": 179.04,
+      "end": 184.04,
+      "start_timestamp": "00:02:59.040",
+      "end_timestamp": "00:03:04.040",
+      "text": "on va faire un label Made in Europe lié à l'industrie à des fins de protectionnisme européens."
+    },
+    {
+      "id": 43,
+      "start": 184.04,
+      "end": 185.92,
+      "start_timestamp": "00:03:04.040",
+      "end_timestamp": "00:03:05.920",
+      "text": "Je vais y revenir."
+    },
+    {
+      "id": 44,
+      "start": 185.92,
+      "end": 190.4,
+      "start_timestamp": "00:03:05.920",
+      "end_timestamp": "00:03:10.400",
+      "text": "Mais ça va être un périmètre limité à l'espace économique européen."
+    },
+    {
+      "id": 45,
+      "start": 190.44,
+      "end": 192.32,
+      "start_timestamp": "00:03:10.440",
+      "end_timestamp": "00:03:12.320",
+      "text": "Déjà, ce n'est plus l'Union Européenne."
+    },
+    {
+      "id": 46,
+      "start": 192.32,
+      "end": 197.84,
+      "start_timestamp": "00:03:12.320",
+      "end_timestamp": "00:03:17.840",
+      "text": "C'est l'Union Européenne, la Norvège, l'Islande et le Liechtenstein."
+    },
+    {
+      "id": 47,
+      "start": 197.84,
+      "end": 200.28,
+      "start_timestamp": "00:03:17.840",
+      "end_timestamp": "00:03:20.280",
+      "text": "Déjà, il y a trop de lettres dans ce nom de pays."
+    },
+    {
+      "id": 48,
+      "start": 200.28,
+      "end": 206.12,
+      "start_timestamp": "00:03:20.280",
+      "end_timestamp": "00:03:26.120",
+      "text": "On peut appeler ça Stein, ou Stin, et Liechtenstein qui pose la question."
+    },
+    {
+      "id": 49,
+      "start": 206.12,
+      "end": 209.36,
+      "start_timestamp": "00:03:26.120",
+      "end_timestamp": "00:03:29.360",
+      "text": "Donc, bon, tu te dis pourquoi pas."
+    },
+    {
+      "id": 50,
+      "start": 209.36,
+      "end": 215.36,
+      "start_timestamp": "00:03:29.360",
+      "end_timestamp": "00:03:35.360",
+      "text": "On apprenait également en février, l'exigence pourrait être levée si un seul fabricant existe dans le monde"
+    },
+    {
+      "id": 51,
+      "start": 215.36,
+      "end": 219.72,
+      "start_timestamp": "00:03:35.360",
+      "end_timestamp": "00:03:39.720",
+      "text": "ou si produire en Europe coûtait au moins 30% de plus."
+    },
+    {
+      "id": 52,
+      "start": 219.72,
+      "end": 222.52,
+      "start_timestamp": "00:03:39.720",
+      "end_timestamp": "00:03:42.520",
+      "text": "Donc, tu te dis déjà en février,"
+    },
+    {
+      "id": 53,
+      "start": 222.52,
+      "end": 229.8,
+      "start_timestamp": "00:03:42.520",
+      "end_timestamp": "00:03:49.800",
+      "text": "ils commencent à ouvrir la porte à ce que le label Made in Europe puisse être ouvert à d'autres gens,"
+    },
+    {
+      "id": 54,
+      "start": 229.8,
+      "end": 232.44,
+      "start_timestamp": "00:03:49.800",
+      "end_timestamp": "00:03:52.440",
+      "text": "à d'autres pays qui ne sont pas Made in Europe."
+    },
+    {
+      "id": 55,
+      "start": 232.44,
+      "end": 234.84,
+      "start_timestamp": "00:03:52.440",
+      "end_timestamp": "00:03:54.840",
+      "text": "Tu dis non."
+    },
+    {
+      "id": 56,
+      "start": 234.84,
+      "end": 237.84,
+      "start_timestamp": "00:03:54.840",
+      "end_timestamp": "00:03:57.840",
+      "text": "Attends, au Parlement Européen, il y a des gens sérieux qui bossent."
+    },
+    {
+      "id": 57,
+      "start": 237.84,
+      "end": 241.64,
+      "start_timestamp": "00:03:57.840",
+      "end_timestamp": "00:04:01.640",
+      "text": "Ils vont voter, ils vont dire c'est de la merde votre truc."
+    },
+    {
+      "id": 58,
+      "start": 241.64,
+      "end": 243.32,
+      "start_timestamp": "00:04:01.640",
+      "end_timestamp": "00:04:03.320",
+      "text": "4 mars 2026."
+    },
+    {
+      "id": 59,
+      "start": 243.32,
+      "end": 247.2,
+      "start_timestamp": "00:04:03.320",
+      "end_timestamp": "00:04:07.200",
+      "text": "Le nom de ce texte est le suivant."
+    },
+    {
+      "id": 60,
+      "start": 247.2,
+      "end": 255.56,
+      "start_timestamp": "00:04:07.200",
+      "end_timestamp": "00:04:15.560",
+      "text": "Industrial Accelerator Act, qui veut dire l'acte, la loi d'accélération de l'industrie."
+    },
+    {
+      "id": 61,
+      "start": 255.56,
+      "end": 258.36,
+      "start_timestamp": "00:04:15.560",
+      "end_timestamp": "00:04:18.360",
+      "text": "Je ne suis pas Shakespeare, mais on n'est pas loin."
+    },
+    {
+      "id": 62,
+      "start": 258.36,
+      "end": 259.68,
+      "start_timestamp": "00:04:18.360",
+      "end_timestamp": "00:04:19.680",
+      "text": "Le texte est officialisé."
+    },
+    {
+      "id": 63,
+      "start": 259.68,
+      "end": 266.2,
+      "start_timestamp": "00:04:19.680",
+      "end_timestamp": "00:04:26.200",
+      "text": "Au 4 mars 2026, on en parle et on apprend que l'objectif affiché est d'avoir une industrie"
+    },
+    {
+      "id": 64,
+      "start": 266.2,
+      "end": 270.8,
+      "start_timestamp": "00:04:26.200",
+      "end_timestamp": "00:04:30.800",
+      "text": "à 20% du PIB européen d'ici 2035 contre 14% aujourd'hui."
+    },
+    {
+      "id": 65,
+      "start": 270.8,
+      "end": 275.92,
+      "start_timestamp": "00:04:30.800",
+      "end_timestamp": "00:04:35.920",
+      "text": "Donc, en gros, la loi est il faut défendre l'industrie européenne,"
+    },
+    {
+      "id": 66,
+      "start": 275.96,
+      "end": 280.36,
+      "start_timestamp": "00:04:35.960",
+      "end_timestamp": "00:04:40.360",
+      "text": "donc mettre en place ce label Made in Europe avec l'objectif de passer de 14 à 20."
+    },
+    {
+      "id": 67,
+      "start": 280.36,
+      "end": 283.84,
+      "start_timestamp": "00:04:40.360",
+      "end_timestamp": "00:04:43.840",
+      "text": "Tu vois, ça, c'est le site officiel de la Commission européenne."
+    },
+    {
+      "id": 68,
+      "start": 283.84,
+      "end": 286.88,
+      "start_timestamp": "00:04:43.840",
+      "end_timestamp": "00:04:46.880",
+      "text": "Il y a ce que je vous dis 4 mars 2026."
+    },
+    {
+      "id": 69,
+      "start": 286.88,
+      "end": 289.8,
+      "start_timestamp": "00:04:46.880",
+      "end_timestamp": "00:04:49.800",
+      "text": "Surprise, surprise le 4 mars 2026."
+    },
+    {
+      "id": 70,
+      "start": 289.8,
+      "end": 292.68,
+      "start_timestamp": "00:04:49.800",
+      "end_timestamp": "00:04:52.680",
+      "text": "Kinder Surprise."
+    },
+    {
+      "id": 71,
+      "start": 292.68,
+      "end": 296.08,
+      "start_timestamp": "00:04:52.680",
+      "end_timestamp": "00:04:56.080",
+      "text": "What a chocolate egg of surprise."
+    },
+    {
+      "id": 72,
+      "start": 296.08,
+      "end": 299.72,
+      "start_timestamp": "00:04:56.080",
+      "end_timestamp": "00:04:59.720",
+      "text": "Qu'est ce qu'on apprend dans ce texte de loi formalisé ?"
+    },
+    {
+      "id": 73,
+      "start": 299.72,
+      "end": 304.24,
+      "start_timestamp": "00:04:59.720",
+      "end_timestamp": "00:05:04.240",
+      "text": "On apprend que le périmètre a changé entre ce qu'on nous disait de celluleux,"
+    },
+    {
+      "id": 74,
+      "start": 304.64,
+      "end": 306.4,
+      "start_timestamp": "00:05:04.640",
+      "end_timestamp": "00:05:06.400",
+      "text": "celluleux et un peu plus."
+    },
+    {
+      "id": 75,
+      "start": 306.4,
+      "end": 309.08,
+      "start_timestamp": "00:05:06.400",
+      "end_timestamp": "00:05:09.080",
+      "text": "On apprend désormais que non, non, non, non, non."
+    },
+    {
+      "id": 76,
+      "start": 309.08,
+      "end": 310.28,
+      "start_timestamp": "00:05:09.080",
+      "end_timestamp": "00:05:10.280",
+      "text": "Écoutez ce qu'on apprend."
+    },
+    {
+      "id": 77,
+      "start": 310.28,
+      "end": 316.0,
+      "start_timestamp": "00:05:10.280",
+      "end_timestamp": "00:05:16.000",
+      "text": "Les pays liés à l'UE par un accord de libre échange ou un accord sur les marchés publics"
+    },
+    {
+      "id": 78,
+      "start": 316.0,
+      "end": 319.48,
+      "start_timestamp": "00:05:16.000",
+      "end_timestamp": "00:05:19.480",
+      "text": "entrent dans le label Made in UE."
+    },
+    {
+      "id": 79,
+      "start": 319.48,
+      "end": 323.88,
+      "start_timestamp": "00:05:19.480",
+      "end_timestamp": "00:05:23.880",
+      "text": "Tu te rappelles, le maire Cossure, comment on a enfumé nos agriculteurs notamment"
+    },
+    {
+      "id": 80,
+      "start": 323.88,
+      "end": 328.36,
+      "start_timestamp": "00:05:23.880",
+      "end_timestamp": "00:05:28.360",
+      "text": "avec un traité de libre échange avec les pays d'Amérique du Sud dans le Brésil."
+    },
+    {
+      "id": 81,
+      "start": 328.36,
+      "end": 332.44,
+      "start_timestamp": "00:05:28.360",
+      "end_timestamp": "00:05:32.440",
+      "text": "Et bien, en fait, le Brésil, ils pourront produire des trucs industriels."
+    },
+    {
+      "id": 82,
+      "start": 332.44,
+      "end": 335.68,
+      "start_timestamp": "00:05:32.440",
+      "end_timestamp": "00:05:35.680",
+      "text": "Made in Europe."
+    },
+    {
+      "id": 83,
+      "start": 335.72,
+      "end": 340.64,
+      "start_timestamp": "00:05:35.720",
+      "end_timestamp": "00:05:40.640",
+      "text": "Alors Sébastien Delogu, député LFI, il a dit, non mais c'est bon le Brésil, c'est en Europe."
+    },
+    {
+      "id": 84,
+      "start": 340.64,
+      "end": 342.24,
+      "start_timestamp": "00:05:40.640",
+      "end_timestamp": "00:05:42.240",
+      "text": "Ils l'ont dit, oui, oui, t'occupe."
+    },
+    {
+      "id": 85,
+      "start": 342.24,
+      "end": 343.24,
+      "start_timestamp": "00:05:42.240",
+      "end_timestamp": "00:05:43.240",
+      "text": "Peut-être que c'est aussi ça."
+    },
+    {
+      "id": 86,
+      "start": 343.24,
+      "end": 346.6,
+      "start_timestamp": "00:05:43.240",
+      "end_timestamp": "00:05:46.600",
+      "text": "Peut-être que c'est un label Made in Europe pour les gens qui sont nuls en géographie."
+    },
+    {
+      "id": 87,
+      "start": 346.6,
+      "end": 349.52,
+      "start_timestamp": "00:05:46.600",
+      "end_timestamp": "00:05:49.520",
+      "text": "C'est possible aussi, je ne sais pas."
+    },
+    {
+      "id": 88,
+      "start": 349.52,
+      "end": 352.12,
+      "start_timestamp": "00:05:49.520",
+      "end_timestamp": "00:05:52.120",
+      "text": "Tu te dis, tiens, comme de par hasard."
+    },
+    {
+      "id": 89,
+      "start": 352.12,
+      "end": 355.76,
+      "start_timestamp": "00:05:52.120",
+      "end_timestamp": "00:05:55.760",
+      "text": "Et il y a eu un article passionnant sur le site Le Club des juristes"
+    },
+    {
+      "id": 90,
+      "start": 355.76,
+      "end": 359.36,
+      "start_timestamp": "00:05:55.760",
+      "end_timestamp": "00:05:59.360",
+      "text": "qui a décrypté tout ça vraiment dans le détail."
+    },
+    {
+      "id": 91,
+      "start": 359.36,
+      "end": 361.72,
+      "start_timestamp": "00:05:59.360",
+      "end_timestamp": "00:06:01.720",
+      "text": "Je vous recommande ce site parce qu'il est très intéressant."
+    },
+    {
+      "id": 92,
+      "start": 361.72,
+      "end": 364.68,
+      "start_timestamp": "00:06:01.720",
+      "end_timestamp": "00:06:04.680",
+      "text": "Et ils ont parlé de ça, le virage discret du Made in Europe."
+    },
+    {
+      "id": 93,
+      "start": 364.72,
+      "end": 368.92,
+      "start_timestamp": "00:06:04.720",
+      "end_timestamp": "00:06:08.920",
+      "text": "La Commission vient de rendre publique sa proposition d'un règlement sur l'accélération industrielle."
+    },
+    {
+      "id": 94,
+      "start": 368.92,
+      "end": 370.64,
+      "start_timestamp": "00:06:08.920",
+      "end_timestamp": "00:06:10.640",
+      "text": "Le Made in Europe est la préférence européenne."
+    },
+    {
+      "id": 95,
+      "start": 370.64,
+      "end": 374.08,
+      "start_timestamp": "00:06:10.640",
+      "end_timestamp": "00:06:14.080",
+      "text": "On constitue une dimension essentielle qu'attendre de ces orientations."
+    },
+    {
+      "id": 96,
+      "start": 374.08,
+      "end": 376.88,
+      "start_timestamp": "00:06:14.080",
+      "end_timestamp": "00:06:16.880",
+      "text": "Je vous invite vraiment à aller lire cet article."
+    },
+    {
+      "id": 97,
+      "start": 376.88,
+      "end": 379.32,
+      "start_timestamp": "00:06:16.880",
+      "end_timestamp": "00:06:19.320",
+      "text": "Si vous voulez toutes les sources, les amis, comme d'hab,"
+    },
+    {
+      "id": 98,
+      "start": 379.32,
+      "end": 382.72,
+      "start_timestamp": "00:06:19.320",
+      "end_timestamp": "00:06:22.720",
+      "text": "et ça vraiment, je vous le demande, si vous voulez soutenir Juste Milieu,"
+    },
+    {
+      "id": 99,
+      "start": 382.72,
+      "end": 386.24,
+      "start_timestamp": "00:06:22.720",
+      "end_timestamp": "00:06:26.240",
+      "text": "c'est très important pour nous que vous téléchargez ces infos"
+    },
+    {
+      "id": 100,
+      "start": 386.24,
+      "end": 389.64,
+      "start_timestamp": "00:06:26.240",
+      "end_timestamp": "00:06:29.640",
+      "text": "parce que c'est un boulot qu'on fait en plus et on n'a pas envie de bosser dans le vide."
+    },
+    {
+      "id": 101,
+      "start": 389.64,
+      "end": 392.12,
+      "start_timestamp": "00:06:29.640",
+      "end_timestamp": "00:06:32.120",
+      "text": "Et là, il s'agit d'informations sérieuses."
+    },
+    {
+      "id": 102,
+      "start": 392.16,
+      "end": 395.4,
+      "start_timestamp": "00:06:32.160",
+      "end_timestamp": "00:06:35.400",
+      "text": "On a fait une enquête, une fois de plus, en complément de cette vidéo,"
+    },
+    {
+      "id": 103,
+      "start": 395.4,
+      "end": 398.4,
+      "start_timestamp": "00:06:35.400",
+      "end_timestamp": "00:06:38.400",
+      "text": "avec des éléments supplémentaires, des révélations supplémentaires."
+    },
+    {
+      "id": 104,
+      "start": 398.4,
+      "end": 400.36,
+      "start_timestamp": "00:06:38.400",
+      "end_timestamp": "00:06:40.360",
+      "text": "Vous pouvez télécharger cette fiche."
+    },
+    {
+      "id": 105,
+      "start": 400.36,
+      "end": 403.16,
+      "start_timestamp": "00:06:40.360",
+      "end_timestamp": "00:06:43.160",
+      "text": "Je compte vraiment sur vous, les amis, pour mettre la vidéo en pause."
+    },
+    {
+      "id": 106,
+      "start": 403.16,
+      "end": 404.32,
+      "start_timestamp": "00:06:43.160",
+      "end_timestamp": "00:06:44.320",
+      "text": "Le lien est en description."
+    },
+    {
+      "id": 107,
+      "start": 404.32,
+      "end": 405.92,
+      "start_timestamp": "00:06:44.320",
+      "end_timestamp": "00:06:45.920",
+      "text": "Le lien est dans le premier commentaire."
+    },
+    {
+      "id": 108,
+      "start": 405.92,
+      "end": 406.92,
+      "start_timestamp": "00:06:45.920",
+      "end_timestamp": "00:06:46.920",
+      "text": "Allez la télécharger."
+    },
+    {
+      "id": 109,
+      "start": 406.92,
+      "end": 411.32,
+      "start_timestamp": "00:06:46.920",
+      "end_timestamp": "00:06:51.320",
+      "text": "Si tout le monde télécharge cette fiche et partage le lien sur les réseaux sociaux,"
+    },
+    {
+      "id": 110,
+      "start": 411.32,
+      "end": 413.52,
+      "start_timestamp": "00:06:51.320",
+      "end_timestamp": "00:06:53.520",
+      "text": "ça peut donner de l'ampleur au travail Juste Milieu."
+    },
+    {
+      "id": 111,
+      "start": 413.52,
+      "end": 415.92,
+      "start_timestamp": "00:06:53.520",
+      "end_timestamp": "00:06:55.920",
+      "text": "Et ça, c'est que vous qui pouvez le décider."
+    },
+    {
+      "id": 112,
+      "start": 415.92,
+      "end": 417.08,
+      "start_timestamp": "00:06:55.920",
+      "end_timestamp": "00:06:57.080",
+      "text": "On ne peut pas le faire à votre place."
+    },
+    {
+      "id": 113,
+      "start": 417.08,
+      "end": 418.36,
+      "start_timestamp": "00:06:57.080",
+      "end_timestamp": "00:06:58.360",
+      "text": "On essaie de faire tout ce boulot."
+    },
+    {
+      "id": 114,
+      "start": 418.36,
+      "end": 421.04,
+      "start_timestamp": "00:06:58.360",
+      "end_timestamp": "00:07:01.040",
+      "text": "On a besoin de votre soutien pour donner de la visibilité."
+    },
+    {
+      "id": 115,
+      "start": 421.04,
+      "end": 423.88,
+      "start_timestamp": "00:07:01.040",
+      "end_timestamp": "00:07:03.880",
+      "text": "Donc, le lien est en description et en premier commentaire."
+    },
+    {
+      "id": 116,
+      "start": 423.88,
+      "end": 426.92,
+      "start_timestamp": "00:07:03.880",
+      "end_timestamp": "00:07:06.920",
+      "text": "Je compte sur vous et dans la fiche, vous allez avoir toutes les sources"
+    },
+    {
+      "id": 117,
+      "start": 426.92,
+      "end": 429.56,
+      "start_timestamp": "00:07:06.920",
+      "end_timestamp": "00:07:09.560",
+      "text": "au cas où vous tombez dans le bus sur UDIR et STAT qui vous dit"
+    },
+    {
+      "id": 118,
+      "start": 429.56,
+      "end": 430.48,
+      "start_timestamp": "00:07:09.560",
+      "end_timestamp": "00:07:10.480",
+      "text": "Est-ce que tu as les sources ?"
+    },
+    {
+      "id": 119,
+      "start": 430.48,
+      "end": 435.32,
+      "start_timestamp": "00:07:10.480",
+      "end_timestamp": "00:07:15.320",
+      "text": "Alors, je continue parce que ce n'est pas la fin de la blague."
+    },
+    {
+      "id": 120,
+      "start": 435.32,
+      "end": 440.88,
+      "start_timestamp": "00:07:15.320",
+      "end_timestamp": "00:07:20.880",
+      "text": "Le 12 mai, on apprend que, et ça, c'est un article du média Green Universe"
+    },
+    {
+      "id": 121,
+      "start": 440.88,
+      "end": 441.68,
+      "start_timestamp": "00:07:20.880",
+      "end_timestamp": "00:07:21.680",
+      "text": "qui nous dit ceci."
+    },
+    {
+      "id": 122,
+      "start": 441.68,
+      "end": 444.0,
+      "start_timestamp": "00:07:21.680",
+      "end_timestamp": "00:07:24.000",
+      "text": "Regardez, je vous montre le lien parce que j'ai des sources."
+    },
+    {
+      "id": 123,
+      "start": 444.0,
+      "end": 446.52,
+      "start_timestamp": "00:07:24.000",
+      "end_timestamp": "00:07:26.520",
+      "text": "On essaie de bosser, on essaie d'être sérieux."
+    },
+    {
+      "id": 124,
+      "start": 446.52,
+      "end": 451.88,
+      "start_timestamp": "00:07:26.520",
+      "end_timestamp": "00:07:31.880",
+      "text": "On apprend le 12 mai 2026 que Bruxelles rend éligible 80 pays"
+    },
+    {
+      "id": 125,
+      "start": 451.88,
+      "end": 458.8,
+      "start_timestamp": "00:07:31.880",
+      "end_timestamp": "00:07:38.800",
+      "text": "au label Made in Europe, 80 pays dont vraiment c'est une Europe élargie."
+    },
+    {
+      "id": 126,
+      "start": 458.8,
+      "end": 464.4,
+      "start_timestamp": "00:07:38.800",
+      "end_timestamp": "00:07:44.400",
+      "text": "C'est vraiment comme dirait Pierre Palmat, je m'y connais un truc élargie."
+    },
+    {
+      "id": 127,
+      "start": 464.4,
+      "end": 466.4,
+      "start_timestamp": "00:07:44.400",
+      "end_timestamp": "00:07:46.400",
+      "text": "Là, franchement, quand même."
+    },
+    {
+      "id": 128,
+      "start": 466.4,
+      "end": 469.24,
+      "start_timestamp": "00:07:46.400",
+      "end_timestamp": "00:07:49.240",
+      "text": "Et vous savez ce qui m'a mis la puce à l'oreille que nous avions"
+    },
+    {
+      "id": 129,
+      "start": 469.24,
+      "end": 475.48,
+      "start_timestamp": "00:07:49.240",
+      "end_timestamp": "00:07:55.480",
+      "text": "un véritable scandale devant les yeux, c'est que le politicien"
+    },
+    {
+      "id": 130,
+      "start": 475.52,
+      "end": 481.85,
+      "start_timestamp": "00:07:55.520",
+      "end_timestamp": "00:08:01.850",
+      "text": "qui est aux manettes de ce truc là, c'est Stéphane Sejournet."
+    },
+    {
+      "id": 131,
+      "start": 481.85,
+      "end": 484.53,
+      "start_timestamp": "00:08:01.850",
+      "end_timestamp": "00:08:04.530",
+      "text": "Et là, je me suis dit là, c'est grave parce que jusqu'à présent,"
+    },
+    {
+      "id": 132,
+      "start": 484.53,
+      "end": 487.13,
+      "start_timestamp": "00:08:04.530",
+      "end_timestamp": "00:08:07.130",
+      "text": "bon, je me suis dit l'Europe, l'Union européenne, c'est une escroquerie."
+    },
+    {
+      "id": 133,
+      "start": 487.13,
+      "end": 488.53,
+      "start_timestamp": "00:08:07.130",
+      "end_timestamp": "00:08:08.530",
+      "text": "Ça continue, tu vois."
+    },
+    {
+      "id": 134,
+      "start": 488.53,
+      "end": 491.05,
+      "start_timestamp": "00:08:08.530",
+      "end_timestamp": "00:08:11.050",
+      "text": "Mais là, quand tu apprends que Stéphane Sejournet,"
+    },
+    {
+      "id": 135,
+      "start": 491.05,
+      "end": 495.13,
+      "start_timestamp": "00:08:11.050",
+      "end_timestamp": "00:08:15.130",
+      "text": "en sa qualité de vice président exécutif de la communauté européenne,"
+    },
+    {
+      "id": 136,
+      "start": 495.13,
+      "end": 499.45,
+      "start_timestamp": "00:08:15.130",
+      "end_timestamp": "00:08:19.450",
+      "text": "chargé de la prospérité et de la stratégie industrielle."
+    },
+    {
+      "id": 137,
+      "start": 499.45,
+      "end": 502.13,
+      "start_timestamp": "00:08:19.450",
+      "end_timestamp": "00:08:22.130",
+      "text": "Écoute, c'est lui qui gère ça."
+    },
+    {
+      "id": 138,
+      "start": 502.13,
+      "end": 504.73,
+      "start_timestamp": "00:08:22.130",
+      "end_timestamp": "00:08:24.730",
+      "text": "Là, je me suis dit, il y a urgence."
+    },
+    {
+      "id": 139,
+      "start": 504.73,
+      "end": 508.85,
+      "start_timestamp": "00:08:24.730",
+      "end_timestamp": "00:08:28.850",
+      "text": "Tu ne confies pas la gestion d'un bataillon de la Wehrmacht à Gilbert Montagné"
+    },
+    {
+      "id": 140,
+      "start": 508.85,
+      "end": 511.85,
+      "start_timestamp": "00:08:28.850",
+      "end_timestamp": "00:08:31.850",
+      "text": "parce que tu sens que tu vas avoir quelques missiles dans le dos"
+    },
+    {
+      "id": 141,
+      "start": 511.85,
+      "end": 515.77,
+      "start_timestamp": "00:08:31.850",
+      "end_timestamp": "00:08:35.770",
+      "text": "et que si ça continue comme ça, Dortmund dans six mois, c'est un parking."
+    },
+    {
+      "id": 142,
+      "start": 515.77,
+      "end": 517.65,
+      "start_timestamp": "00:08:35.770",
+      "end_timestamp": "00:08:37.650",
+      "text": "Donc ça, c'est pas bon."
+    },
+    {
+      "id": 143,
+      "start": 517.65,
+      "end": 519.85,
+      "start_timestamp": "00:08:37.650",
+      "end_timestamp": "00:08:39.850",
+      "text": "Stéphane Sejournet, c'est pas bon."
+    },
+    {
+      "id": 144,
+      "start": 519.85,
+      "end": 523.01,
+      "start_timestamp": "00:08:39.850",
+      "end_timestamp": "00:08:43.010",
+      "text": "D'ailleurs, le nom de famille de Stéphane Sejournet nous renseigne"
+    },
+    {
+      "id": 145,
+      "start": 523.01,
+      "end": 525.37,
+      "start_timestamp": "00:08:43.010",
+      "end_timestamp": "00:08:45.370",
+      "text": "sur ce qu'il faudrait lui confier comme mission."
+    },
+    {
+      "id": 146,
+      "start": 525.37,
+      "end": 526.81,
+      "start_timestamp": "00:08:45.370",
+      "end_timestamp": "00:08:46.810",
+      "text": "Il faudrait qu'il séjourne."
+    },
+    {
+      "id": 147,
+      "start": 526.81,
+      "end": 529.41,
+      "start_timestamp": "00:08:46.810",
+      "end_timestamp": "00:08:49.410",
+      "text": "C'est à dire, Stéphane Sejournet, c'est un mec."
+    },
+    {
+      "id": 148,
+      "start": 529.41,
+      "end": 531.37,
+      "start_timestamp": "00:08:49.410",
+      "end_timestamp": "00:08:51.370",
+      "text": "Tu viens, tu lui donnes un truc, ça dure deux heures."
+    },
+    {
+      "id": 149,
+      "start": 531.37,
+      "end": 533.49,
+      "start_timestamp": "00:08:51.370",
+      "end_timestamp": "00:08:53.490",
+      "text": "Pas de responsabilité, pas de projection."
+    },
+    {
+      "id": 150,
+      "start": 533.49,
+      "end": 536.45,
+      "start_timestamp": "00:08:53.490",
+      "end_timestamp": "00:08:56.450",
+      "text": "Il vient, il a ses journées, il s'en va."
+    },
+    {
+      "id": 151,
+      "start": 536.45,
+      "end": 538.45,
+      "start_timestamp": "00:08:56.450",
+      "end_timestamp": "00:08:58.450",
+      "text": "Parce que c'est une bite, parce qu'il est nul."
+    },
+    {
+      "id": 152,
+      "start": 538.45,
+      "end": 541.25,
+      "start_timestamp": "00:08:58.450",
+      "end_timestamp": "00:09:01.250",
+      "text": "Donc c'est pas bon, c'est pas bon que ce soit lui qui gère."
+    },
+    {
+      "id": 153,
+      "start": 541.25,
+      "end": 545.89,
+      "start_timestamp": "00:09:01.250",
+      "end_timestamp": "00:09:05.890",
+      "text": "Alors pourquoi ce projet de loi est problématique, bien évidemment ?"
+    },
+    {
+      "id": 154,
+      "start": 545.89,
+      "end": 550.05,
+      "start_timestamp": "00:09:05.890",
+      "end_timestamp": "00:09:10.050",
+      "text": "Vous avez compris l'idée, l'escroquerie d'une Europe étendue,"
+    },
+    {
+      "id": 155,
+      "start": 550.05,
+      "end": 553.13,
+      "start_timestamp": "00:09:10.050",
+      "end_timestamp": "00:09:13.130",
+      "text": "l'escroquerie de ces fameux traités de libre-échange"
+    },
+    {
+      "id": 156,
+      "start": 553.13,
+      "end": 557.45,
+      "start_timestamp": "00:09:13.130",
+      "end_timestamp": "00:09:17.450",
+      "text": "où l'Union européenne va encore tapiner pour défendre les intérêts de tout le monde"
+    },
+    {
+      "id": 157,
+      "start": 557.45,
+      "end": 559.65,
+      "start_timestamp": "00:09:17.450",
+      "end_timestamp": "00:09:19.650",
+      "text": "sauf des pays de l'Union européenne."
+    },
+    {
+      "id": 158,
+      "start": 559.65,
+      "end": 562.09,
+      "start_timestamp": "00:09:19.650",
+      "end_timestamp": "00:09:22.090",
+      "text": "Mais il y a d'autres escroqueries là-dedans."
+    },
+    {
+      "id": 159,
+      "start": 562.13,
+      "end": 565.65,
+      "start_timestamp": "00:09:22.130",
+      "end_timestamp": "00:09:25.650",
+      "text": "Première escroquerie, un made in Europe qui n'est pas fabriqué en Europe."
+    },
+    {
+      "id": 160,
+      "start": 565.65,
+      "end": 567.69,
+      "start_timestamp": "00:09:25.650",
+      "end_timestamp": "00:09:27.690",
+      "text": "C'est ce que je vous disais, il faut détailler."
+    },
+    {
+      "id": 161,
+      "start": 567.69,
+      "end": 573.13,
+      "start_timestamp": "00:09:27.690",
+      "end_timestamp": "00:09:33.130",
+      "text": "L'article 8 du texte nous dit que les contenus venus de pays partenaires"
+    },
+    {
+      "id": 162,
+      "start": 573.13,
+      "end": 575.25,
+      "start_timestamp": "00:09:33.130",
+      "end_timestamp": "00:09:35.250",
+      "text": "comptent comme originaire de l'Union."
+    },
+    {
+      "id": 163,
+      "start": 575.25,
+      "end": 578.73,
+      "start_timestamp": "00:09:35.250",
+      "end_timestamp": "00:09:38.730",
+      "text": "C'est-à-dire que c'est concentré sur des secteurs industriels,"
+    },
+    {
+      "id": 164,
+      "start": 578.73,
+      "end": 581.97,
+      "start_timestamp": "00:09:38.730",
+      "end_timestamp": "00:09:41.970",
+      "text": "notamment les voitures électriques, des choses comme ça."
+    },
+    {
+      "id": 165,
+      "start": 581.97,
+      "end": 585.13,
+      "start_timestamp": "00:09:41.970",
+      "end_timestamp": "00:09:45.130",
+      "text": "Tous les contenus qui viennent de pays partenaires,"
+    },
+    {
+      "id": 166,
+      "start": 585.13,
+      "end": 587.21,
+      "start_timestamp": "00:09:45.130",
+      "end_timestamp": "00:09:47.210",
+      "text": "donc c'est-à-dire sur des chaînes d'approvisionnement."
+    },
+    {
+      "id": 167,
+      "start": 587.21,
+      "end": 590.33,
+      "start_timestamp": "00:09:47.210",
+      "end_timestamp": "00:09:50.330",
+      "text": "Si vous achetez du matériel qui vient du Canada,"
+    },
+    {
+      "id": 168,
+      "start": 590.33,
+      "end": 592.49,
+      "start_timestamp": "00:09:50.330",
+      "end_timestamp": "00:09:52.490",
+      "text": "parce que l'Union européenne va potentiellement signer"
+    },
+    {
+      "id": 169,
+      "start": 592.49,
+      "end": 594.85,
+      "start_timestamp": "00:09:52.490",
+      "end_timestamp": "00:09:54.850",
+      "text": "un traité de libre-échange avec le Canada,"
+    },
+    {
+      "id": 170,
+      "start": 594.85,
+      "end": 598.25,
+      "start_timestamp": "00:09:54.850",
+      "end_timestamp": "00:09:58.250",
+      "text": "eh bien, ça sera compté comme made in Europe."
+    },
+    {
+      "id": 171,
+      "start": 598.25,
+      "end": 603.45,
+      "start_timestamp": "00:09:58.250",
+      "end_timestamp": "00:10:03.450",
+      "text": "Alors ce sera Canada, ce sera plus proche de Garon que de Bruxelles."
+    },
+    {
+      "id": 172,
+      "start": 603.45,
+      "end": 607.73,
+      "start_timestamp": "00:10:03.450",
+      "end_timestamp": "00:10:07.730",
+      "text": "Non, même chose avec le Japon, même chose avec le Mercosur."
+    },
+    {
+      "id": 173,
+      "start": 607.73,
+      "end": 611.25,
+      "start_timestamp": "00:10:07.730",
+      "end_timestamp": "00:10:11.250",
+      "text": "C'est-à-dire qu'en plus, il y a une volonté de tromper les consommateurs"
+    },
+    {
+      "id": 174,
+      "start": 611.25,
+      "end": 615.09,
+      "start_timestamp": "00:10:11.250",
+      "end_timestamp": "00:10:15.090",
+      "text": "avec ce label made in Europe de trucs qui ne seront pas du tout made in Europe."
+    },
+    {
+      "id": 175,
+      "start": 615.09,
+      "end": 619.01,
+      "start_timestamp": "00:10:15.090",
+      "end_timestamp": "00:10:19.010",
+      "text": "François Ruffin était monté au créneau, un des rares politiciens à avoir critiqué ça."
+    },
+    {
+      "id": 176,
+      "start": 619.05,
+      "end": 621.89,
+      "start_timestamp": "00:10:19.050",
+      "end_timestamp": "00:10:21.890",
+      "text": "Il avait expliqué que des produits fabriqués au Canada,"
+    },
+    {
+      "id": 177,
+      "start": 621.89,
+      "end": 627.66,
+      "start_timestamp": "00:10:21.890",
+      "end_timestamp": "00:10:27.660",
+      "text": "en Turquie, au Japon ou au Maroc allaient être classés made in Europe."
+    },
+    {
+      "id": 178,
+      "start": 627.66,
+      "end": 630.86,
+      "start_timestamp": "00:10:27.660",
+      "end_timestamp": "00:10:30.860",
+      "text": "Je n'ai rien contre le Maroc et le Japon, mais ce n'est pas l'Europe."
+    },
+    {
+      "id": 179,
+      "start": 630.86,
+      "end": 634.46,
+      "start_timestamp": "00:10:30.860",
+      "end_timestamp": "00:10:34.460",
+      "text": "Vraiment, moi j'ai étudié ma géographie, l'Ural,"
+    },
+    {
+      "id": 180,
+      "start": 634.46,
+      "end": 638.06,
+      "start_timestamp": "00:10:34.460",
+      "end_timestamp": "00:10:38.060",
+      "text": "hip hip hip, Ural, voilà, c'est la limite en fait,"
+    },
+    {
+      "id": 181,
+      "start": 638.06,
+      "end": 642.1,
+      "start_timestamp": "00:10:38.060",
+      "end_timestamp": "00:10:42.100",
+      "text": "parce qu'après la Turquie,"
+    },
+    {
+      "id": 182,
+      "start": 642.1,
+      "end": 645.22,
+      "start_timestamp": "00:10:42.100",
+      "end_timestamp": "00:10:45.220",
+      "text": "ah ça me fait pousser les cheveux sur la tête cette histoire,"
+    },
+    {
+      "id": 183,
+      "start": 645.22,
+      "end": 647.02,
+      "start_timestamp": "00:10:45.220",
+      "end_timestamp": "00:10:47.020",
+      "text": "c'est n'importe quoi."
+    },
+    {
+      "id": 184,
+      "start": 647.02,
+      "end": 648.78,
+      "start_timestamp": "00:10:47.020",
+      "end_timestamp": "00:10:48.780",
+      "text": "Pour vous dire à quel point c'est n'importe quoi,"
+    },
+    {
+      "id": 185,
+      "start": 648.78,
+      "end": 652.14,
+      "start_timestamp": "00:10:48.780",
+      "end_timestamp": "00:10:52.140",
+      "text": "même le ministère de l'économie français"
+    },
+    {
+      "id": 186,
+      "start": 652.14,
+      "end": 653.66,
+      "start_timestamp": "00:10:52.140",
+      "end_timestamp": "00:10:53.660",
+      "text": "a dit,"
+    },
+    {
+      "id": 187,
+      "start": 653.66,
+      "end": 658.22,
+      "start_timestamp": "00:10:53.660",
+      "end_timestamp": "00:10:58.220",
+      "text": "ils ont dit, il y a un article qui a évoqué ça,"
+    },
+    {
+      "id": 188,
+      "start": 658.22,
+      "end": 660.94,
+      "start_timestamp": "00:10:58.220",
+      "end_timestamp": "00:11:00.940",
+      "text": "qu'il y a un porte parole du ministère de l'économie français qui a dit,"
+    },
+    {
+      "id": 189,
+      "start": 660.94,
+      "end": 665.98,
+      "start_timestamp": "00:11:00.940",
+      "end_timestamp": "00:11:05.980",
+      "text": "ce n'est pas un label made in Europe, c'est made with Europe."
+    },
+    {
+      "id": 190,
+      "start": 665.98,
+      "end": 668.62,
+      "start_timestamp": "00:11:05.980",
+      "end_timestamp": "00:11:08.620",
+      "text": "Même le ministère de l'économie français a trouvé à redire."
+    },
+    {
+      "id": 191,
+      "start": 668.62,
+      "end": 671.02,
+      "start_timestamp": "00:11:08.620",
+      "end_timestamp": "00:11:11.020",
+      "text": "Je ne sais pas si vous vous rendez compte de la gravité du truc."
+    },
+    {
+      "id": 192,
+      "start": 671.02,
+      "end": 674.58,
+      "start_timestamp": "00:11:11.020",
+      "end_timestamp": "00:11:14.580",
+      "text": "L'autre problème qui est évidemment une escroquerie,"
+    },
+    {
+      "id": 193,
+      "start": 674.58,
+      "end": 677.62,
+      "start_timestamp": "00:11:14.580",
+      "end_timestamp": "00:11:17.620",
+      "text": "c'est que, et accrochez-vous parce que vous connaissez mes vidéos,"
+    },
+    {
+      "id": 194,
+      "start": 677.62,
+      "end": 681.42,
+      "start_timestamp": "00:11:17.620",
+      "end_timestamp": "00:11:21.420",
+      "text": "je vous l'ai fait crécheur de l'eau, je vous mets le pire à la fin évidemment,"
+    },
+    {
+      "id": 195,
+      "start": 682.42,
+      "end": 688.62,
+      "start_timestamp": "00:11:22.420",
+      "end_timestamp": "00:11:28.620",
+      "text": "on a appris qu'il s'agissait d'un règlement et pas d'une directive."
+    },
+    {
+      "id": 196,
+      "start": 688.62,
+      "end": 691.5,
+      "start_timestamp": "00:11:28.620",
+      "end_timestamp": "00:11:31.500",
+      "text": "C'est-à-dire que si cette loi passe,"
+    },
+    {
+      "id": 197,
+      "start": 691.5,
+      "end": 693.94,
+      "start_timestamp": "00:11:31.500",
+      "end_timestamp": "00:11:33.940",
+      "text": "elle est directement appliquée dans les 27 États"
+    },
+    {
+      "id": 198,
+      "start": 693.94,
+      "end": 698.24,
+      "start_timestamp": "00:11:33.940",
+      "end_timestamp": "00:11:38.240",
+      "text": "sans vote des parlements nationaux."
+    },
+    {
+      "id": 199,
+      "start": 698.24,
+      "end": 702.2,
+      "start_timestamp": "00:11:38.240",
+      "end_timestamp": "00:11:42.200",
+      "text": "Je laisse un temps que chacun réalise la douille."
+    },
+    {
+      "id": 200,
+      "start": 702.2,
+      "end": 704.72,
+      "start_timestamp": "00:11:42.200",
+      "end_timestamp": "00:11:44.720",
+      "text": "On a appris qu'il y a d'abord une obligation de fléchage,"
+    },
+    {
+      "id": 201,
+      "start": 704.72,
+      "end": 706.12,
+      "start_timestamp": "00:11:44.720",
+      "end_timestamp": "00:11:46.120",
+      "text": "c'est l'article 12,"
+    },
+    {
+      "id": 202,
+      "start": 706.12,
+      "end": 709.48,
+      "start_timestamp": "00:11:46.120",
+      "end_timestamp": "00:11:49.480",
+      "text": "une obligation de fléchage de certains budgets nationaux"
+    },
+    {
+      "id": 203,
+      "start": 709.48,
+      "end": 712.08,
+      "start_timestamp": "00:11:49.480",
+      "end_timestamp": "00:11:52.080",
+      "text": "vers les filières désignées par l'Union européenne."
+    },
+    {
+      "id": 204,
+      "start": 712.12,
+      "end": 713.96,
+      "start_timestamp": "00:11:52.120",
+      "end_timestamp": "00:11:53.960",
+      "text": "En gros, l'Union européenne va dire"
+    },
+    {
+      "id": 205,
+      "start": 713.96,
+      "end": 717.24,
+      "start_timestamp": "00:11:53.960",
+      "end_timestamp": "00:11:57.240",
+      "text": "que vous allez devoir investir dans les filières qu'on vous indiquera,"
+    },
+    {
+      "id": 206,
+      "start": 717.24,
+      "end": 720.64,
+      "start_timestamp": "00:11:57.240",
+      "end_timestamp": "00:12:00.640",
+      "text": "donc ces filières établies avec des pays de l'Europe élargie,"
+    },
+    {
+      "id": 207,
+      "start": 720.64,
+      "end": 724.24,
+      "start_timestamp": "00:12:00.640",
+      "end_timestamp": "00:12:04.240",
+      "text": "pour défendre les intérêts de l'Europe élargie."
+    },
+    {
+      "id": 208,
+      "start": 724.24,
+      "end": 730.36,
+      "start_timestamp": "00:12:04.240",
+      "end_timestamp": "00:12:10.360",
+      "text": "On a également une autre escroquerie assez claire qui est que,"
+    },
+    {
+      "id": 209,
+      "start": 730.36,
+      "end": 733.88,
+      "start_timestamp": "00:12:10.360",
+      "end_timestamp": "00:12:13.880",
+      "text": "quand on parle de souveraineté européenne de Medine Europe,"
+    },
+    {
+      "id": 210,
+      "start": 733.88,
+      "end": 736.84,
+      "start_timestamp": "00:12:13.880",
+      "end_timestamp": "00:12:16.840",
+      "text": "ça, ça fait longtemps, Macron aime bien parler de souveraineté européenne,"
+    },
+    {
+      "id": 211,
+      "start": 736.84,
+      "end": 739.4,
+      "start_timestamp": "00:12:16.840",
+      "end_timestamp": "00:12:19.400",
+      "text": "l'escroquerie, vous l'avez compris."
+    },
+    {
+      "id": 212,
+      "start": 739.4,
+      "end": 740.6,
+      "start_timestamp": "00:12:19.400",
+      "end_timestamp": "00:12:20.600",
+      "text": "Comprise, même d'ailleurs,"
+    },
+    {
+      "id": 213,
+      "start": 740.6,
+      "end": 742.6,
+      "start_timestamp": "00:12:20.600",
+      "end_timestamp": "00:12:22.600",
+      "text": "parce que tu vois, à force de parler de Stéphane Sejourné,"
+    },
+    {
+      "id": 214,
+      "start": 742.6,
+      "end": 744.8,
+      "start_timestamp": "00:12:22.600",
+      "end_timestamp": "00:12:24.800",
+      "text": "moi aussi je deviens un con."
+    },
+    {
+      "id": 215,
+      "start": 744.8,
+      "end": 748.68,
+      "start_timestamp": "00:12:24.800",
+      "end_timestamp": "00:12:28.680",
+      "text": "L'escroquerie, c'est que la souveraineté européenne,"
+    },
+    {
+      "id": 216,
+      "start": 748.68,
+      "end": 751.24,
+      "start_timestamp": "00:12:28.680",
+      "end_timestamp": "00:12:31.240",
+      "text": "c'est le meilleur moyen d'enterrer les souverainetés nationales."
+    },
+    {
+      "id": 217,
+      "start": 751.24,
+      "end": 754.52,
+      "start_timestamp": "00:12:31.240",
+      "end_timestamp": "00:12:34.520",
+      "text": "Quand tu dis, non mais attendez, nous on est souverainiste,"
+    },
+    {
+      "id": 218,
+      "start": 754.52,
+      "end": 756.32,
+      "start_timestamp": "00:12:34.520",
+      "end_timestamp": "00:12:36.320",
+      "text": "mais on est souverainiste européen,"
+    },
+    {
+      "id": 219,
+      "start": 756.32,
+      "end": 758.96,
+      "start_timestamp": "00:12:36.320",
+      "end_timestamp": "00:12:38.960",
+      "text": "c'est-à-dire que tu as complètement digéré l'idée"
+    },
+    {
+      "id": 220,
+      "start": 758.96,
+      "end": 760.76,
+      "start_timestamp": "00:12:38.960",
+      "end_timestamp": "00:12:40.760",
+      "text": "qu'il n'y ait plus de souveraineté nationale,"
+    },
+    {
+      "id": 221,
+      "start": 760.76,
+      "end": 764.4,
+      "start_timestamp": "00:12:40.760",
+      "end_timestamp": "00:12:44.400",
+      "text": "que tes nations étaient complètement absorbées par l'Union européenne,"
+    },
+    {
+      "id": 222,
+      "start": 764.4,
+      "end": 765.84,
+      "start_timestamp": "00:12:44.400",
+      "end_timestamp": "00:12:45.840",
+      "text": "un peu comme si, si tu veux,"
+    },
+    {
+      "id": 223,
+      "start": 765.84,
+      "end": 768.56,
+      "start_timestamp": "00:12:45.840",
+      "end_timestamp": "00:12:48.560",
+      "text": "l'Union européenne c'est l'estomac de Gérard Larcher"
+    },
+    {
+      "id": 224,
+      "start": 768.56,
+      "end": 771.88,
+      "start_timestamp": "00:12:48.560",
+      "end_timestamp": "00:12:51.880",
+      "text": "et les pays de l'Union européenne c'est des blinis."
+    },
+    {
+      "id": 225,
+      "start": 771.88,
+      "end": 773.84,
+      "start_timestamp": "00:12:51.880",
+      "end_timestamp": "00:12:53.840",
+      "text": "Donc ils te les mangent par 27, Gérard,"
+    },
+    {
+      "id": 226,
+      "start": 773.84,
+      "end": 775.12,
+      "start_timestamp": "00:12:53.840",
+      "end_timestamp": "00:12:55.120",
+      "text": "parce qu'il en a de l'appétit."
+    },
+    {
+      "id": 227,
+      "start": 775.12,
+      "end": 778.28,
+      "start_timestamp": "00:12:55.120",
+      "end_timestamp": "00:12:58.280",
+      "text": "Et donc, nous on est des blinis actuellement."
+    },
+    {
+      "id": 228,
+      "start": 778.28,
+      "end": 779.8,
+      "start_timestamp": "00:12:58.280",
+      "end_timestamp": "00:12:59.800",
+      "text": "C'est pas grand un blinis, c'est pas grand."
+    },
+    {
+      "id": 229,
+      "start": 779.8,
+      "end": 781.28,
+      "start_timestamp": "00:12:59.800",
+      "end_timestamp": "00:13:01.280",
+      "text": "Et Gérard, il est gros."
+    },
+    {
+      "id": 230,
+      "start": 781.28,
+      "end": 783.64,
+      "start_timestamp": "00:13:01.280",
+      "end_timestamp": "00:13:03.640",
+      "text": "Donc, on est des blinis."
+    },
+    {
+      "id": 231,
+      "start": 783.64,
+      "end": 786.24,
+      "start_timestamp": "00:13:03.640",
+      "end_timestamp": "00:13:06.240",
+      "text": "Et en fait, ils nous traitent comme des blinis,"
+    },
+    {
+      "id": 232,
+      "start": 786.24,
+      "end": 789.28,
+      "start_timestamp": "00:13:06.240",
+      "end_timestamp": "00:13:09.280",
+      "text": "c'est-à-dire que l'estomac résonne en estomac,"
+    },
+    {
+      "id": 233,
+      "start": 789.28,
+      "end": 791.76,
+      "start_timestamp": "00:13:09.280",
+      "end_timestamp": "00:13:11.760",
+      "text": "il va pas résonner en blinis, tu vois, ça n'a pas de sens."
+    },
+    {
+      "id": 234,
+      "start": 791.76,
+      "end": 794.12,
+      "start_timestamp": "00:13:11.760",
+      "end_timestamp": "00:13:14.120",
+      "text": "Nous on est là en disant, ouais, souveraineté française."
+    },
+    {
+      "id": 235,
+      "start": 794.12,
+      "end": 795.8,
+      "start_timestamp": "00:13:14.120",
+      "end_timestamp": "00:13:15.800",
+      "text": "Mais ta gueule, t'es un blinis."
+    },
+    {
+      "id": 236,
+      "start": 795.8,
+      "end": 797.84,
+      "start_timestamp": "00:13:15.800",
+      "end_timestamp": "00:13:17.840",
+      "text": "T'as du tarama sur le front."
+    },
+    {
+      "id": 237,
+      "start": 797.84,
+      "end": 800.76,
+      "start_timestamp": "00:13:17.840",
+      "end_timestamp": "00:13:20.760",
+      "text": "Arrête, tu résones en estomac désormais."
+    },
+    {
+      "id": 238,
+      "start": 800.76,
+      "end": 802.36,
+      "start_timestamp": "00:13:20.760",
+      "end_timestamp": "00:13:22.360",
+      "text": "Donc, vous avez compris l'idée,"
+    },
+    {
+      "id": 239,
+      "start": 802.36,
+      "end": 805.52,
+      "start_timestamp": "00:13:22.360",
+      "end_timestamp": "00:13:25.520",
+      "text": "je ne vais pas non plus vous faire 14 000 exemples,"
+    },
+    {
+      "id": 240,
+      "start": 805.52,
+      "end": 809.84,
+      "start_timestamp": "00:13:25.520",
+      "end_timestamp": "00:13:29.840",
+      "text": "mais l'escroquerie de la souveraineté européenne, c'est ça."
+    },
+    {
+      "id": 241,
+      "start": 809.84,
+      "end": 811.92,
+      "start_timestamp": "00:13:29.840",
+      "end_timestamp": "00:13:31.920",
+      "text": "Donc, si on récapitule cette douille,"
+    },
+    {
+      "id": 242,
+      "start": 811.92,
+      "end": 814.76,
+      "start_timestamp": "00:13:31.920",
+      "end_timestamp": "00:13:34.760",
+      "text": "mais vraiment un truc hallucinant, les amis."
+    },
+    {
+      "id": 243,
+      "start": 814.76,
+      "end": 816.44,
+      "start_timestamp": "00:13:34.760",
+      "end_timestamp": "00:13:36.440",
+      "text": "On a une souveraineté industrielle"
+    },
+    {
+      "id": 244,
+      "start": 816.44,
+      "end": 817.96,
+      "start_timestamp": "00:13:36.440",
+      "end_timestamp": "00:13:37.960",
+      "text": "décidée par la Commission européenne,"
+    },
+    {
+      "id": 245,
+      "start": 817.96,
+      "end": 819.72,
+      "start_timestamp": "00:13:37.960",
+      "end_timestamp": "00:13:39.720",
+      "text": "financée par les budgets nationaux,"
+    },
+    {
+      "id": 246,
+      "start": 819.72,
+      "end": 822.24,
+      "start_timestamp": "00:13:39.720",
+      "end_timestamp": "00:13:42.240",
+      "text": "définie par la Commission européenne."
+    },
+    {
+      "id": 247,
+      "start": 822.24,
+      "end": 825.8,
+      "start_timestamp": "00:13:42.240",
+      "end_timestamp": "00:13:45.800",
+      "text": "Et tout ça dilué dans une liste de 80 pays."
+    },
+    {
+      "id": 248,
+      "start": 826.44,
+      "end": 828.28,
+      "start_timestamp": "00:13:46.440",
+      "end_timestamp": "00:13:48.280",
+      "text": "Ça, c'est l'Union européenne."
+    },
+    {
+      "id": 249,
+      "start": 828.28,
+      "end": 830.16,
+      "start_timestamp": "00:13:48.280",
+      "end_timestamp": "00:13:50.160",
+      "text": "Merci, merci l'Union européenne."
+    },
+    {
+      "id": 250,
+      "start": 830.16,
+      "end": 830.92,
+      "start_timestamp": "00:13:50.160",
+      "end_timestamp": "00:13:50.920",
+      "text": "Merci beaucoup."
+    },
+    {
+      "id": 251,
+      "start": 830.92,
+      "end": 834.4,
+      "start_timestamp": "00:13:50.920",
+      "end_timestamp": "00:13:54.400",
+      "text": "Alors, je vous le redis, les amis, téléchargez l'affiche enquête."
+    },
+    {
+      "id": 252,
+      "start": 834.4,
+      "end": 836.12,
+      "start_timestamp": "00:13:54.400",
+      "end_timestamp": "00:13:56.120",
+      "text": "Allez lire par vous-même."
+    },
+    {
+      "id": 253,
+      "start": 836.12,
+      "end": 837.36,
+      "start_timestamp": "00:13:56.120",
+      "end_timestamp": "00:13:57.360",
+      "text": "Engagez-vous vers l'actu."
+    },
+    {
+      "id": 254,
+      "start": 837.36,
+      "end": 840.72,
+      "start_timestamp": "00:13:57.360",
+      "end_timestamp": "00:14:00.720",
+      "text": "Vous allez voir, c'est un truc de dingos avec tous les éléments"
+    },
+    {
+      "id": 255,
+      "start": 840.72,
+      "end": 843.72,
+      "start_timestamp": "00:14:00.720",
+      "end_timestamp": "00:14:03.720",
+      "text": "et partagez ça autour de vous parce que"
+    },
+    {
+      "id": 256,
+      "start": 843.72,
+      "end": 845.96,
+      "start_timestamp": "00:14:03.720",
+      "end_timestamp": "00:14:05.960",
+      "text": "je suis persuadé que même des pro-UE"
+    },
+    {
+      "id": 257,
+      "start": 845.96,
+      "end": 847.96,
+      "start_timestamp": "00:14:05.960",
+      "end_timestamp": "00:14:07.960",
+      "text": "peuvent commencer à se dire il y a un problème."
+    },
+    {
+      "id": 258,
+      "start": 847.96,
+      "end": 850.92,
+      "start_timestamp": "00:14:07.960",
+      "end_timestamp": "00:14:10.920",
+      "text": "En tout cas, si on partage tous ensemble, on peut le faire."
+    },
+    {
+      "id": 259,
+      "start": 850.92,
+      "end": 853.68,
+      "start_timestamp": "00:14:10.920",
+      "end_timestamp": "00:14:13.680",
+      "text": "Voilà ce que je voulais vous dire sur cette histoire de Made in Europe."
+    },
+    {
+      "id": 260,
+      "start": 853.68,
+      "end": 856.6,
+      "start_timestamp": "00:14:13.680",
+      "end_timestamp": "00:14:16.600",
+      "text": "On va en reparler parce qu'il y a de quoi faire les amis."
+    }
+  ]
+}

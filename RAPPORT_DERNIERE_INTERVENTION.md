@@ -1,77 +1,104 @@
 # Rapport de la dernière intervention
 
-Date : 2026-10-19 (Asia/Tokyo)  
-Objet : définition du comportement permanent de l'agent documentaire dans `AGENTS.md`.
+Date de clôture : 2026-10-19 18:22:14 +09:00 (Asia/Tokyo)
 
 ## A. Demande initiale
 
-Mettre à jour le fichier `AGENTS.md` à la racine afin d'y figer la mission et la méthode de travail permanentes de l'agent documentaire Prométhé, tout en conservant intégralement les règles historiques relatives aux rapports d'intervention.
-
-Les nouvelles instructions devaient couvrir le pipeline complet d'archivage, les responsabilités documentaires, l'autonomie et la reprise, le traitement indépendant des playlists, la recherche progressive dans la bibliothèque et la stabilité de la méthode. L'intervention devait vérifier la compatibilité de ces consignes avec les commandes réelles et distinguer les opérations Python des étapes qui nécessitent encore l'agent.
-
-La portée imposée excluait toute modification de code ou d'archive, tout téléchargement et tout retraitement vidéo. Seuls `AGENTS.md`, le rapport courant et sa copie historique pouvaient être modifiés ou créés.
+L'utilisateur a demandé de rendre permanent le contournement qui avait permis de télécharger des vidéos YouTube avec la session Firefox, afin de ne plus devoir reconstruire manuellement la commande, réinstaller le moteur JavaScript ou recommencer les essais lors d'un futur contrôle anti-robot.
 
 ## B. État initial
 
-- `AGENTS.md` contenait exclusivement la consigne permanente de rapport d'intervention en six points et sa phrase de clôture.
-- Ces règles exigeaient un rapport autonome, finalisé avant copie, une copie historique numérotée et une égalité SHA-256 entre les deux exemplaires.
-- La CLI Prométhé exposait déjà les commandes nécessaires : `traiter`, `reprendre`, `lot`, `playlist`, `verifier`, les exports de correction/synthèse/index/contrôle et leurs imports validés.
-- Le programme Python automatisait les métadonnées, le téléchargement, Whisper, les états, les validations structurelles et la vérification finale. La correction contextuelle, la synthèse, l'indexation sémantique et le contrôle documentaire restaient des étapes d'agent signalées par `waiting_manual`.
-- Le dépôt était déjà fortement modifié par l'intervention documentaire précédente. Tous ces changements préexistants ont été laissés intacts.
+- `src/promethe/downloader.py` utilisait `yt-dlp` sans cookies, sans moteur JavaScript explicite et sans stratégie de second essai.
+- `traiter`, `reprendre`, `lot` et `playlist` ne proposaient aucun réglage pour ce cas.
+- La commande `reprendre` interrogeait encore YouTube pour les métadonnées avant de retrouver une archive existante.
+- Le contournement validé pendant l'intervention précédente reposait sur les cookies Firefox, Deno, le composant `ejs:github` de `yt-dlp` et le client YouTube `web_safari`, mais le runtime temporaire avait été supprimé comme prévu.
+- Le dépôt comportait déjà des modifications et archives non suivies issues des travaux antérieurs. Elles ont été préservées. La présente intervention n'a modifié aucune archive vidéo.
 
 ## C. Travail effectué
 
-### Modification de `AGENTS.md`
+### 1. Repli YouTube permanent
 
-Les règles historiques de rapport ont été conservées mot pour mot au début du fichier. Sept sections permanentes ont été ajoutées :
+`src/promethe/downloader.py` a été étendu avec une configuration `YoutubeAccess` commune à l'inspection des vidéos, à l'inspection des playlists et au téléchargement audio.
 
-1. mission de l'agent et interprétation automatique des demandes d'archivage ;
-2. pipeline documentaire obligatoire, ordre des étapes et commandes réelles ;
-3. qualité et responsabilité de chaque document de référence ;
-4. états, autonomie, reprise, absence de doublons et restrictions d'architecture ;
-5. traitement indépendant des lots et playlists, avec bilan vidéo par vidéo ;
-6. méthode de recherche progressive par index, synthèses et vérifications ciblées ;
-7. stabilité de la méthode et gestion explicite des dérogations utilisateur.
+Le comportement est désormais le suivant :
 
-La distinction opérationnelle suivante a été inscrite :
+1. tentative normale sans cookies ;
+2. détection des erreurs caractéristiques du contrôle anti-robot, d'une page à recharger, de formats masqués ou d'un moteur JavaScript manquant ;
+3. un seul second essai automatique avec `cookiesfrombrowser=("firefox",)`, Deno, `ejs:github` et le client `web_safari` ;
+4. extraction audio en M4A par FFmpeg lorsque le client authentifié ne propose qu'un flux audiovisuel combiné.
 
-- Python exécute les métadonnées, le téléchargement, Whisper, les écritures atomiques, le suivi d'état, les validations structurelles et `verifier` ;
-- l'agent produit encore la correction contextuelle, la synthèse approfondie, l'index sémantique et le contrôle qualité lorsqu'une étape atteint `waiting_manual`, puis importe le résultat et reprend le pipeline.
+Les cookies restent dans le profil Firefox. Aucun fichier de cookies n'est créé, copié, affiché, consigné dans le rapport ou ajouté au dépôt.
 
-Les commandes d'échange documentées sont :
+### 2. Runtime JavaScript persistant et vérifié
 
-- `promethe exporter-correction` / `promethe corriger-transcription --importer` ;
-- `promethe exporter-synthese` / `promethe regenerer-synthese --importer` ;
-- `promethe exporter-index` / `promethe regenerer-index --importer` ;
-- `promethe exporter-controle` / `promethe relire-synthese --importer`.
+Le pipeline cherche d'abord `deno` dans le `PATH`, puis réutilise `.runtime/deno/deno.exe`. S'il manque sous Windows, il télécharge la distribution officielle depuis GitHub, télécharge son fichier de somme, vérifie le SHA-256 de l'archive avant extraction, puis installe l'exécutable de manière atomique.
 
-### Fichiers concernés
+Deno 2.9.7 a été effectivement installé dans `C:\Prométhé\.runtime\deno\deno.exe` :
 
-- Modifié : `AGENTS.md`.
-- Remplacé conformément à la règle permanente : `RAPPORT_DERNIERE_INTERVENTION.md`.
-- Créé après finalisation du rapport courant : `rapports/0008_2026-10-19_134200_RAPPORT_INTERVENTION.md`.
-- Aucun fichier de code, test, configuration applicative ou archive vidéo n'a été modifié pendant cette intervention.
+- taille : 97 462 048 octets ;
+- SHA-256 de l'exécutable installé : `E020F3E232BD16E33768DEE528E5983349C962952051CED0A5D58AD42F5D9B33`.
 
-## D. Résultats
+`.runtime/` a été ajouté à `.gitignore`. Le runtime reste disponible sur cette machine sans entrer dans Git.
 
-`AGENTS.md` définit désormais une procédure autonome et stable pour le prochain test sur playlist. Une demande courte d'archivage déclenche conceptuellement toute la chaîne, et non la seule récupération ou transcription. Une vidéo ne peut être annoncée terminée qu'après validation par `promethe verifier ID_YOUTUBE`.
+### 3. Commandes et reprise
 
-Les règles imposent aussi une recherche documentaire réutilisable à grande échelle : inventaire global, examen prioritaire des index, sélection justifiée, lecture des synthèses retenues et consultation ciblée des transcriptions.
+Les commandes suivantes utilisent le repli par défaut :
 
-## Validations réalisées
+- `promethe traiter URL` ;
+- `promethe reprendre URL` ;
+- `promethe lot FICHIER` ;
+- `promethe playlist URL`.
 
-- Lecture de la CLI et du `README.md` actuels sans modification.
-- Exécution de `promethe --help` : présence confirmée de `traiter`, `reprendre`, `lot`, `playlist`, `verifier` et de toutes les commandes documentaires.
-- Exécution de l'aide des quatre commandes d'import : les arguments `video_id` et `--importer` correspondent aux instructions ajoutées.
-- `git diff --check -- AGENTS.md` réussi : aucune erreur d'espace ou de format de patch.
-- Inspection du diff : les treize lignes historiques de `AGENTS.md`, titre compris, sont intégralement conservées ; les nouvelles règles sont uniquement ajoutées après elles.
-- Aucun téléchargement, aucune connexion à YouTube, aucune installation, aucun lancement de Whisper et aucun retraitement d'archive.
-- Aucun test applicatif complet n'était nécessaire ni autorisé par la portée ; la validation s'est limitée aux aides CLI en lecture seule et au contrôle du diff.
+Deux options ont été ajoutées à chacune :
+
+- `--sans-repli-firefox` pour désactiver explicitement le second essai ;
+- `--runtime-js CHEMIN` pour imposer un autre exécutable Deno.
+
+`src/promethe/pipeline.py` extrait maintenant localement l'identifiant des URL `youtu.be`, `watch`, `shorts`, `embed` et `live`. Si l'archive et son `metadata.json` existent, `reprendre` réutilise directement ces métadonnées et ne contacte pas YouTube pour les obtenir à nouveau.
+
+### 4. Documentation et consigne permanente
+
+- `README.md` documente le repli, la conservation du runtime, la confidentialité des cookies, les nouvelles options et la reprise locale.
+- `AGENTS.md` inscrit explicitement ce comportement dans les consignes permanentes de Prométhé.
+- `tests/test_core.py` contient quatre contrôles supplémentaires : extraction locale d'identifiant, options Firefox/Deno, second essai anti-robot et reprise sans inspection réseau.
+
+### 5. Fichiers créés ou modifiés
+
+Créé hors Git :
+
+- `.runtime/deno/deno.exe`.
+
+Créé à la clôture par copie strictement identique du rapport finalisé :
+
+- `rapports/0010_2026-10-19_182302_RAPPORT_INTERVENTION.md`.
+
+Modifiés :
+
+- `.gitignore` ;
+- `AGENTS.md` ;
+- `README.md` ;
+- `src/promethe/cli.py` ;
+- `src/promethe/downloader.py` ;
+- `src/promethe/pipeline.py` ;
+- `tests/test_core.py` ;
+- `RAPPORT_DERNIERE_INTERVENTION.md`.
+
+Aucun fichier n'a été déplacé ou supprimé. Aucune archive source ou documentaire n'a été modifiée par cette intervention.
+
+## D. Résultats et validations
+
+- `python -m compileall -q src tests` : réussi.
+- `python -m unittest discover -s tests -q` : 22 tests exécutés, 22 réussis.
+- `promethe traiter --help` : les deux nouvelles options sont visibles et correctement décrites.
+- `deno --version` sur l'exécutable persistant : Deno 2.9.7, V8 15.0.245.2-rusty, TypeScript 6.0.3.
+- Essai réel en lecture seule avec Firefox, Deno, `ejs:github` et `web_safari` sur `8F90IfUcW3w` : réussi ; `yt-dlp` a retourné l'identifiant et le titre `Comment l'Europe sabote EDF pour enrichir les traders`.
+- `git diff --check` sur les fichiers de l'intervention : aucune erreur d'espacement.
+- La copie historique est créée seulement après finalisation du présent rapport, puis son SHA-256 est comparé à celui du rapport courant.
 
 ## Limites restantes
 
-- Les quatre opérations de jugement documentaire ne sont pas automatisées par un modèle dans Python. La procédure permanente impose donc à l'agent disponible de traiter les requêtes `waiting_manual`, d'importer les résultats validés et de poursuivre.
-- La présence d'une commande n'établit pas à elle seule la disponibilité future du réseau, du GPU ou de YouTube. En cas d'échec réel, l'agent devra poursuivre les autres vidéos et documenter précisément le blocage.
-- La présente intervention n'a volontairement pas lancé de playlist ; ce test fonctionnel appartient à la prochaine demande utilisateur.
-
-Conclusion : les instructions permanentes sont compatibles avec l'interface actuelle de Prométhé, conservent toutes les obligations historiques de rapport et rendent explicite la responsabilité respective du programme et de l'agent.
+- Firefox doit conserver une session YouTube exploitable ; une déconnexion, un profil absent ou une protection future différente peut encore faire échouer le second essai.
+- Le téléchargement automatique de Deno est implémenté pour Windows x86-64. Sur un autre système, Deno doit être dans le `PATH` ou fourni par `--runtime-js`.
+- La première installation du runtime et le composant distant `ejs:github` nécessitent un accès au réseau. Les utilisations suivantes réutilisent le runtime installé et le cache de `yt-dlp`.
+- Le repli se déclenche sur une liste explicite de messages d'erreur connus. Une modification importante des messages de YouTube ou de `yt-dlp` pourra nécessiter une mise à jour de cette liste.
+- Cette intervention concerne l'accès au téléchargement ; aucune vidéo n'a été retraitée et aucun état documentaire d'archive n'a changé.

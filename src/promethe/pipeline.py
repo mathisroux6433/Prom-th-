@@ -4,21 +4,30 @@ from pathlib import Path
 from typing import Any
 
 from .archive import archive_path, find_video
-from .downloader import download_audio, inspect_url, inspect_playlist, normalized_metadata
+from .downloader import (
+    YoutubeAccess, download_audio, inspect_url, inspect_playlist, normalized_metadata,
+    youtube_video_id,
+)
 from .errors import PrometheError
 from .corrector import export_prompt as export_correction_prompt
 from .indexer import export_prompt
-from .io_utils import write_json
+from .io_utils import read_json, write_json
 from .layout import ensure_archive_layout
 from .state import load_state, set_step
 from .synthesizer import export_prompt as export_synthesis_prompt
 from .transcriber import transcribe
 
 
-def process(url: str, root: Path, model: str = "medium", stop_after: str | None = None) -> Path:
-    info = inspect_url(url)
-    metadata = normalized_metadata(info)
-    existing = find_video(root, metadata["id"])
+def process(url: str, root: Path, model: str = "medium", stop_after: str | None = None,
+            access: YoutubeAccess | None = None) -> Path:
+    existing = find_video(root, video_id) if (video_id := youtube_video_id(url)) else None
+    metadata_file = existing / "metadata.json" if existing else None
+    if metadata_file and metadata_file.is_file():
+        metadata = read_json(metadata_file)
+    else:
+        info = inspect_url(url, access)
+        metadata = normalized_metadata(info)
+        existing = find_video(root, metadata["id"])
     directory = existing or archive_path(root, metadata)
     directory.mkdir(parents=True, exist_ok=True)
     ensure_archive_layout(directory)
@@ -33,7 +42,7 @@ def process(url: str, root: Path, model: str = "medium", stop_after: str | None 
         audio_files = [p for p in directory.glob("audio.*") if p.suffix not in {".part", ".ytdl"}]
         if state["steps"]["download"]["status"] != "complete" or not audio_files:
             set_step(directory, state, "download", "in_progress")
-            audio = download_audio(url, directory)
+            audio = download_audio(url, directory, access)
             set_step(directory, state, "download", "complete", file=audio.name)
         else:
             audio = audio_files[0]
@@ -82,23 +91,25 @@ def process(url: str, root: Path, model: str = "medium", stop_after: str | None 
         raise
 
 
-def process_file(path: Path, root: Path, model: str = "medium") -> list[tuple[str, str]]:
+def process_file(path: Path, root: Path, model: str = "medium",
+                 access: YoutubeAccess | None = None) -> list[tuple[str, str]]:
     results = []
     for line in path.read_text(encoding="utf-8-sig").splitlines():
         url = line.strip()
         if not url or url.startswith("#"): continue
         try:
-            results.append((url, str(process(url, root, model))))
+            results.append((url, str(process(url, root, model, access=access))))
         except Exception as exc:
             results.append((url, f"ERREUR: {exc}"))
     return results
 
 
-def process_playlist(url: str, root: Path, model: str = "medium") -> list[tuple[str, str]]:
+def process_playlist(url: str, root: Path, model: str = "medium",
+                     access: YoutubeAccess | None = None) -> list[tuple[str, str]]:
     results = []
-    for video_url in inspect_playlist(url):
+    for video_url in inspect_playlist(url, access):
         try:
-            results.append((video_url, str(process(video_url, root, model))))
+            results.append((video_url, str(process(video_url, root, model, access=access))))
         except Exception as exc:
             results.append((video_url, f"ERREUR: {exc}"))
     return results
