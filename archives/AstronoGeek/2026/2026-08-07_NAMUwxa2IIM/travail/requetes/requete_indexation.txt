@@ -1,0 +1,415 @@
+Crée un index documentaire fidèle en JSON strict. Ne juge pas la véracité. Distingue pour personnes, organismes et événements le niveau 'mention' ou 'developpe'. N'invente rien. Les citations_exactes doivent être verbatim ; les expressions_representatives ne sont pas des citations. Chaque élément thématique utile porte si possible des horodatages. Retourne uniquement un objet suivant cette structure :
+{
+  "citations_exactes": [],
+  "concepts": [],
+  "evenements_lois_reglementations": [],
+  "expressions_representatives": [],
+  "mots_cles": [],
+  "organismes": [],
+  "personnes": [],
+  "reperes_temporels": [],
+  "resume_general": "",
+  "schema_version": "1.0",
+  "sujets_secondaires": [],
+  "themes_principaux": [],
+  "variantes_lexicales": [],
+  "video_id": "NAMUwxa2IIM"
+}
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "NAMUwxa2IIM",
+  "title": "🪐Les premiers vaisseaux étaient plus archaïques que vous ne le pensez.",
+  "channel": "AstronoGeek",
+  "channel_id": "UC5X4e8ScZI2AFd_vkjSoyoQ",
+  "upload_date": "20260807",
+  "duration_seconds": 2015,
+  "webpage_url": "https://www.youtube.com/watch?v=NAMUwxa2IIM",
+  "description": "Pour obtenir NordVPN : \nhttps://nordvpn.com/astronogeek\nUtilisez le code de réduction \"AstronoGeek\"\npour obtenir une grosse reduc sur l'abonnement de 2 ans et 4 mois gratos.\n\nLes musiques des vidéos sont composées par Kevin MacLeod,\nsous licence CreativeCommons et disponibles sur son site :\nhttp://incompetech.com\n\nSi le cœur t’en dit, jette un œil à ma page Tipeee :\nhttps://www.tipeee.com/le-studio-de-poche\n\nEt pour devenir une icône de la mode, envisage un T-shirt AstronoGeek :\nhttps://shop.spreadshirt.fr/AstronoGeek/\n\n00:00 SPONSO\n01:51 EPISODE",
+  "language": "fr"
+}
+
+TRANSCRIPTION :
+[00:00:00.620 --> 00:00:06.340] Bon c'est peut-être tu vas m'expliquer pourquoi tu m'emmènes au milieu de nulle part par moins forte trompette froze tu vas leur faire peur
+[00:00:06.380 --> 00:00:09.840] Mais faire peur mais faire peur à qui bon sang tout lui
+[00:00:10.340 --> 00:00:17.780] C'était vpn sauvage c'est peut-être tu es vraiment trop con c'est des cigognes et oui je sais mais les cigognes c'était vpn
+[00:00:17.900 --> 00:00:20.100] sauvage n'importe quoi pas si
+[00:00:20.300 --> 00:00:25.700] elle trouve tout qu'est ce que elles veulent dans les sangs mais quand il va commencer à faire froid oupla elles vont redéfinir leur
+[00:00:26.020 --> 00:00:29.420] localisation sur la magre et puis c'est peut-être on appelle ça migré
+[00:00:29.420 --> 00:00:34.460] Ayo et toi quand tu te connectes sur nord vpn pour aller dans un autre pays tu dis pas que tu fais du migrement
+[00:00:34.460 --> 00:00:40.240] Oui mais j'y vais pas vraiment quand j'ai fini j'éteins mon pc et puis je suis toujours là et pas les cigognes c'est pareil dès que
+[00:00:40.240 --> 00:00:44.260] l'hiver il est fini elles sont aussi de nouveau là c'est peut-être tu me saoules c'est pas pareil
+[00:00:44.380 --> 00:00:50.340] si c'est une excuse pour faire ta sponsor c'est nul et puis bon courage pour faire plus de liens que ça avec nord vpn et pas si
+[00:00:50.700 --> 00:00:57.780] En ce moment avec le réchauffement climatique les cigognes elles partent plus tard et reviennent plus tôt ça fait dire qu'elles ont quatre mois gratuits
+[00:00:57.980 --> 00:01:03.900] putain je rêve et puis des fois elles arrivent en main grépies et elles disent oh fais tommy fais drosso alors elles rentrent tout de suite
+[00:01:03.900 --> 00:01:10.260] c'est pas le nom donc ça veut dire qu'elles peuvent s'en aller d'avis gratuitement c'est pas le comme nord vpn ou ce que t'as 30 sourds satisfaits ou
+[00:01:10.260 --> 00:01:16.580] remboursés putain achever moi mais les cigognes ça sait pas écrire mais même que si elle savait écrire elle pourrait utiliser le code
+[00:01:16.580 --> 00:01:22.900] astronautique pour avoir la réduction et les quatre mois gratuits sur l'abonnement de deux ans pitié et puis les cigognes s'appouvent tout qu'elles
+[00:01:22.900 --> 00:01:27.700] des verts de terre des muleaux des grenouilles et même des trucs tout pourri et tout mort et alors
+[00:01:27.700 --> 00:01:34.780] et pas ça c'est grâce à leur système immunitaire que c'est comme protection anti menace oh putain c'est pleure mais allez rope c'est drôle
+[00:01:34.780 --> 00:01:41.820] l'ornithologie si tu veux c'est drôle mais tes conneries ça me fatigue allez conclue que je puisse rentrer chez moi oui bah il faut utiliser le code
+[00:01:41.820 --> 00:01:48.980] astronautique ou le lien qui l'est dans la description ouais ouais et la sponsor est terminé mais c'est un rap à soi au plat
+[00:01:48.980 --> 00:02:01.860] plus les débuts de la conquête spatiale ont dû être passionnant pour les chercheurs et ingénieurs de l'époque
+[00:02:01.860 --> 00:02:08.440] il partait de rien et tout était à inventer dans une nouvelle course vers la frontière de l'infini les récents
+[00:02:08.440 --> 00:02:14.540] progrès en balistique et construction de fusée rendait possible et même envisageable à court terme du moins dans
+[00:02:14.540 --> 00:02:20.380] l'esprit du public d'aller d'ici quelques décennies passer un week-end sur la lune ou sur mars les premiers vols
+[00:02:20.380 --> 00:02:26.180] paraboliques puis orbitaux les calculs de trajectoire l'envoi de sonde lunaire tout commence dans un monde
+[00:02:26.180 --> 00:02:32.860] analogique où les calculs sont faits à la main avant que peu à peu un rudimentaire numérique ne se fasse sa place
+[00:02:32.860 --> 00:02:39.140] cette vidéo fait partie d'une série qui retrace les technologies et techniques spatiales des années 50 qui
+[00:02:39.140 --> 00:02:51.570] précèdent et ont rendu possible l'émission Apollo des années 60 on a déjà vu le travail des
+[00:02:51.570 --> 00:02:55.930] calculatrices humaines de la nasa et quelques uns des mécanismes des sondes lunaires soviétiques et
+[00:02:55.930 --> 00:03:01.410] américaines et notamment comment était prise et envoyé les premières photos spatiales aujourd'hui
+[00:03:01.410 --> 00:03:07.150] on continue tout ça en parlant stabilisation refroidissement ordinateur embarqué et on va
+[00:03:07.150 --> 00:03:13.250] approfondir quelques points que vous avez soulevé en commentaire et on va aller un petit peu plus
+[00:03:13.250 --> 00:03:18.710] loin dans la technique aussi nous revoilà donc au début de la course à l'espace des deux côtés du
+[00:03:18.710 --> 00:03:22.970] globe le but est de prouver sa supériorité technique et militaire et par là même la
+[00:03:22.970 --> 00:03:27.730] supériorité de son modèle de société pour ça les guerres d'influence géopolitique par
+[00:03:27.730 --> 00:03:33.610] procuration et pays interposés comme au vietnam sont un bon début mais l'objectif ultime c'est
+[00:03:33.610 --> 00:03:40.170] l'espace et surtout la lune dans cette compétition de kick à la plus grosse l'union soviétique a
+[00:03:40.170 --> 00:03:44.530] remporté la première manche avec la mise sur orbite de spoutnik 1 et 2 alors que les usa
+[00:03:44.530 --> 00:03:50.050] enchaînent ceux d'artifices géants et autres échecs et dans la course à la lune le bloc de
+[00:03:50.050 --> 00:03:56.130] l'est reste en tête grâce aux premières photos de la face cachée prise par sa sonde luna 3 dans
+[00:03:56.130 --> 00:04:00.410] la précédente vidéo on avait vu comment les bolomètres servaient à repérer la relative
+[00:04:00.410 --> 00:04:04.610] chaleur de la terre dans le vide spatial pour orienter les sondes au début de leur mission
+[00:04:04.610 --> 00:04:09.890] sauf que je vous ai pas détaillé comment ça se passait dans la suite de la mission pour
+[00:04:09.890 --> 00:04:16.090] conserver cette orientation ce cap immuable auquel se référer c'est donc le moment de faire un
+[00:04:16.090 --> 00:04:21.130] peu de physique pour orienter un objet sur terre en général c'est assez simple il suffit de le
+[00:04:21.130 --> 00:04:26.840] pousser ou de le tourner dans la direction que vous voulez ouais je sais on commence avec du très
+[00:04:26.840 --> 00:04:31.000] technique mais bon accrochez vous c'est que le début pour pousser l'armoire normande de mémé
+[00:04:31.000 --> 00:04:36.080] vous caler bien vos pieds et vous forcer comme un bourrin alors que pour pousser mémé dans les
+[00:04:36.080 --> 00:04:41.240] orties ou ailleurs il suffit d'une pichenette sur son fauteuil roulant masse différente frottement
+[00:04:41.240 --> 00:04:47.280] différent force à exercer différentes mais dans les deux cas vous êtes vous aussi repoussé dans
+[00:04:47.280 --> 00:04:52.120] l'autre sens c'est la loi d'action réaction appelée aussi principe des actions réciproques
+[00:04:52.120 --> 00:04:58.200] ou encore la troisième loi de newton qui dit que l'action est toujours égale et opposée à la
+[00:04:58.200 --> 00:05:02.960] réaction c'est à dire que les actions de deux corps l'un sur l'autre sont toujours égales et
+[00:05:02.960 --> 00:05:07.840] dans des directions contraires ça peut être étrange à se représenter mais si on considère
+[00:05:07.840 --> 00:05:12.520] les vecteurs de force quand vous poussez l'armoire et ben elle aussi vous pousse dans l'autre sens
+[00:05:12.520 --> 00:05:17.720] pour votre mémé à roulette la force à exercer est moindre mais vous devez quand même pousser pour
+[00:05:17.720 --> 00:05:23.480] vaincre cette réaction et vous êtes aussi repoussé en retour alors bon enfin observateur que vous
+[00:05:23.480 --> 00:05:28.440] êtes vous aurez noté que si vous pouvez exercer ses forces sur mémé et son armoire c'est parce
+[00:05:28.440 --> 00:05:32.800] que vous avez des points d'appui solides au sol avec des points d'appui plus faibles le problème
+[00:05:32.800 --> 00:05:37.400] se complique comment faire par exemple bouger un bateau ou un avion dans de l'eau ou de l'air
+[00:05:37.400 --> 00:05:44.200] par nature très peu consistant bah là aussi en utilisant le principe d'action réaction c'est
+[00:05:44.200 --> 00:05:48.400] comme ça que fonctionnent les hélices avec leur forme et en tournant très vite elle pousse le
+[00:05:48.400 --> 00:05:53.760] fluide vers l'arrière qui en réaction pousse l'hélice vers l'avant et donc l'avion ou le
+[00:05:53.760 --> 00:05:58.400] bateau avec et oui je sais il y a aussi un effet de portance sur les pales des hélices d'avion mais
+[00:05:58.400 --> 00:06:03.960] même sans ça fonctionne quand même et de toute façon c'est pas le sujet bref au sol dans l'air
+[00:06:03.960 --> 00:06:10.400] et dans l'eau on a un support on s'appuie dessus et ça avance le problème va se poser dans l'espace
+[00:06:10.400 --> 00:06:15.000] où vous n'avez rien pour vous appuyer tant que vous allez tout droit c'est pas grave vous êtes
+[00:06:15.000 --> 00:06:20.280] lancé et rien ne vous freine vous pouvez continuer une éternité ou deux tant que vous ne rencontrez
+[00:06:20.280 --> 00:06:27.280] pas d'obstacles en revanche si vous voulez effectuer des manoeuvres bah là ça se complique mais prenons
+[00:06:27.280 --> 00:06:31.600] les choses dans l'ordre si on remonte aux premières et plus rudimentaires sondes lunaires
+[00:06:31.600 --> 00:06:36.560] qui étaient l'une à 1 et 2 lancées par les soviétiques le but était juste d'aller s'écraser
+[00:06:36.560 --> 00:06:41.240] sur la lune en transmettant des données en cours de route le contrôle de trajectoire est le même que
+[00:06:41.240 --> 00:06:48.320] pour un boulet de canon il n'y en a pas on envoie des objets balistiques livrés à eux-mêmes et des
+[00:06:48.320 --> 00:06:54.840] merdones zizich enfin c'était pas vraiment des boulet de canon disons plutôt des balles de fusil
+[00:06:54.840 --> 00:06:59.680] à cause de la stabilisation gyroscopique c'est le fait de faire tourner un projectile sur lui-même
+[00:06:59.680 --> 00:07:03.760] et en l'occurrence faire tourner les sondes sur elles-mêmes pour stabiliser leur trajectoire et
+[00:07:03.760 --> 00:07:08.280] leurs mouvements le but est de corriger diverses perturbations d'orientation comme celle dû au
+[00:07:08.280 --> 00:07:14.280] largage à la gravité terrestre au champ magnétique ou à la pression des radiations solaires des forces
+[00:07:14.280 --> 00:07:20.200] individuellement très faibles mais qui cumulés peuvent perturber l'alignement des sondes et comme
+[00:07:20.200 --> 00:07:25.320] l'un à un et deux n'ont aucun système de contrôle embarqué cette rotation ou spin était
+[00:07:25.320 --> 00:07:30.160] impulsée lors de la séparation avec l'étage de la fusée le voyage ne durant que quelques
+[00:07:30.160 --> 00:07:35.000] dizaines d'heures un spin assez lent était suffisant pour contrôler la trajectoire de
+[00:07:35.000 --> 00:07:40.480] l'ordre du tour par quart d'heure il n'était pas question d'orienter une antenne ou quoi que ce soit
+[00:07:40.480 --> 00:07:44.960] d'autre les deux sondes étant équipés d'antennes omnidirectionnelles pour transmettre des données
+[00:07:44.960 --> 00:07:50.720] télémétriques vers la terre. L'intérêt du spin est juste de stabiliser et d'expérimenter la mise
+[00:07:50.720 --> 00:07:54.960] en place de nouvelles techniques pour les missions suivantes en particulier quand il faudra diriger
+[00:07:54.960 --> 00:08:00.000] précisément la sonde pour réaliser des photos lunaires. Donc avec l'un à un et deux on sait
+[00:08:00.000 --> 00:08:04.040] donner un spin à une sonde qui va en ligne droite mais on n'intervient plus une fois les impulsions
+[00:08:04.040 --> 00:08:10.040] initiales données. Les choses changent avec l'un à trois. La sonde devient plus grosse, plus lourde,
+[00:08:10.160 --> 00:08:15.040] plus complexe et doit prendre des photos de la lune. Elle utilise toujours un spin lent pour
+[00:08:15.040 --> 00:08:19.040] se stabiliser mais a besoin de plus d'énergie pour ses systèmes ce qui explique d'ailleurs
+[00:08:19.040 --> 00:08:24.040] qu'elle soit couverte de cellules photovoltaïques sur toute sa périphérie. Pourtant maintenant ce
+[00:08:24.040 --> 00:08:29.240] spin pose deux problèmes. D'abord ça nécessite que la sonde soit parfaitement équilibrée. Pour
+[00:08:29.240 --> 00:08:33.440] ça et une fois tous les instruments installés, l'appareil est mis en rotation pour des tests
+[00:08:33.440 --> 00:08:38.800] d'équilibrage. Et comme on équilibre une roue de voiture, des poids sont ajoutés et ajustés pour
+[00:08:38.800 --> 00:08:42.960] garantir une rotation optimale. L'autre problème c'est que tourner sur soi-même pour prendre des
+[00:08:42.960 --> 00:08:48.560] photos c'est pas idéal pour avoir des clichés nets et surtout pour cartographier la lune zone
+[00:08:48.560 --> 00:08:54.440] par zone. Il faut donc pour cette étape de la mission stopper le spin de l'un à trois. Un seul
+[00:08:54.440 --> 00:08:59.520] moyen pour ça, exercer une force opposée à la rotation. Et comme dans l'espace on ne peut s'appuyer
+[00:08:59.520 --> 00:09:04.720] sur rien, le plus simple est d'utiliser de petits jets de gaz. C'est la seconde façon d'orienter et
+[00:09:04.720 --> 00:09:09.160] stabiliser un engin spatial. Le principe est le même qu'avec les ballons de Beaudruche remplis
+[00:09:09.160 --> 00:09:13.360] de bave que votre petit neveu Casbonbon fait voler au travers de la pièce à chaque fête de famille.
+[00:09:13.360 --> 00:09:18.360] Un gaz s'échappe vers l'arrière d'un objet et comme il y a un mouvement, il y a aussi une force
+[00:09:18.360 --> 00:09:24.000] contraire vers l'avant. Le ballon est poussé dans la direction opposée à celle du gaz. Ces
+[00:09:24.000 --> 00:09:28.440] systèmes de contrôle d'orientation sont dits à gaz froid parce qu'ils ne font qu'envoyer des jets
+[00:09:28.440 --> 00:09:33.820] de gaz pour générer une petite poussée sans combustion. Embarqués en quantités très limitées,
+[00:09:33.820 --> 00:09:38.940] ils ne sont pas destinés à accélérer, ralentir ou déplacer la sonde mais seulement à la faire
+[00:09:38.940 --> 00:09:44.780] pivoter. Ceci étant et comme on est dans l'espace tout pose problème. Il faut être précis pour
+[00:09:44.780 --> 00:09:50.460] envoyer exactement la quantité de gaz nécessaire. Sinon soit la sonde continue de tourner mais un
+[00:09:50.460 --> 00:09:55.860] peu moins vite soit elle va tourner dans l'autre sens. Et c'est là qu'interviennent les gyroscopes
+[00:09:55.860 --> 00:10:00.940] et plus précisément les centrales inertielles. Et on va y aller par étapes en commençant par
+[00:10:01.020 --> 00:10:05.940] c'est quoi un gyroscope ? Basiquement c'est un disque qui tourne très rapidement sur un
+[00:10:05.940 --> 00:10:10.500] axe perpendiculaire à son plan. Pour visualiser c'est comme une roue de vélo qui tourne sur
+[00:10:10.500 --> 00:10:16.580] son moyeu ou une toupie plate. Et du fait de cette rotation, le gyroscope va toujours rester aligné
+[00:10:16.580 --> 00:10:21.580] dans la même direction pour conserver son moment angulaire. C'est à dire en gros l'élan de sa
+[00:10:21.580 --> 00:10:26.500] rotation. Pour l'explication physique simplifiée vous avez un premier vecteur qui va de l'axe
+[00:10:26.500 --> 00:10:31.420] vers l'extérieur du disque. Ensuite un vecteur tangent au disque qui représente le mouvement de
+[00:10:31.420 --> 00:10:36.020] rotation lui-même. Enfin pour être exact c'est pas un vecteur mais des vecteurs qui s'appliquent
+[00:10:36.020 --> 00:10:41.340] en chaque point du gyroscope mais bon bref. Ces vecteurs en créent un troisième, perpendiculaire,
+[00:10:41.340 --> 00:10:47.060] qui part du centre de rotation. C'est cet ensemble de force qui stabilise le rotor et le force à
+[00:10:47.060 --> 00:10:52.340] s'orienter toujours dans la même direction. Le rotor résistera donc si vous essayez de changer
+[00:10:52.340 --> 00:10:56.700] son orientation et c'est de cette caractéristique que les ingénieurs vont tirer parti.
+[00:10:56.700 --> 00:11:00.980] Alors bien sûr pour faire tourner cette toupie dans la sonde, on n'a pas un technicien qui va
+[00:11:00.980 --> 00:11:05.460] lancer sa béblaide avant le décollage en espérant qu'elle dure toute la mission. Un simple moteur
+[00:11:05.460 --> 00:11:10.420] électrique fait très bien le travail. Mais c'est pas encore fini. On a notre rotor qui reste toujours
+[00:11:10.420 --> 00:11:14.900] aligné sur le même axe. Ça nous fait un repère constant auquel se référer. Ça permet de savoir
+[00:11:14.900 --> 00:11:21.820] si la sonde tourne sur elle-même ou pas, dans quel sens et à quelle vitesse. Mais comment faire la
+[00:11:21.820 --> 00:11:27.580] liaison entre le rotor et la sonde ? Ça c'est le rôle des cardans. Chaque cardan représente un
+[00:11:27.580 --> 00:11:33.260] axe de rotation. La sonde peut tournoyer presque comme elle veut. Le rotor gardera toujours la
+[00:11:33.260 --> 00:11:39.420] même orientation. Et ce presque, on en reparlera dans une future vidéo avec Apollo et le Gimbal
+[00:11:39.420 --> 00:11:43.780] Lock. Bref, voilà pour la théorie mais concrètement, une fois placé dans la sonde,
+[00:11:43.780 --> 00:11:48.780] ça fonctionne comment ? Il faut commencer par mesurer sur chaque axe, donc pour chaque cardan,
+[00:11:48.780 --> 00:11:53.980] son inclinaison par rapport au rotor central. Et si cet angle est trop important, on applique
+[00:11:53.980 --> 00:11:58.300] les corrections nécessaires avec les jets de gaz. Plusieurs méthodes existaient et les archives ne
+[00:11:58.300 --> 00:12:02.860] mentionnent pas directement laquelle était utilisée. L'angle de chaque cardan pouvait être mesuré
+[00:12:02.860 --> 00:12:07.460] selon sa position avec un potentiomètre ou avec des bobines et une détection par champ magnétique.
+[00:12:07.460 --> 00:12:12.100] Il y a aussi la possibilité qu'au lieu d'un gyroscope mesurant trois axes, le système ait été
+[00:12:12.100 --> 00:12:18.060] composé de trois gyroscopes mesurant chacun l'écart à un axe. Mais bon, le principe reste le même.
+[00:12:18.060 --> 00:12:23.220] Parce qu'il est techniquement simple et évident, ce mécanisme se retrouve dans les sondes des deux
+[00:12:23.220 --> 00:12:27.540] grandes puissances. D'ailleurs, à défaut des plans détaillés soviétiques, voici une partie
+[00:12:27.540 --> 00:12:32.460] des schémas logiques de la sonde américaine Ranger 3. Comme pour les sondes Luna, on a des capteurs
+[00:12:32.460 --> 00:12:37.380] de valeur sur les gyroscopes qui renvoient l'info à des relais et on active les microvalves à gaz
+[00:12:37.380 --> 00:12:43.100] pour modifier l'orientation. Ah d'ailleurs, j'en profite, permettez que je vous offre quelques
+[00:12:43.100 --> 00:12:47.620] instants de condescendance. En trois minutes de Google, vous trouvez les documents d'époque des
+[00:12:47.620 --> 00:12:51.580] systèmes de contrôle des sondes Ranger avec les schémas électriques, les valeurs de seuil des
+[00:12:51.580 --> 00:12:57.060] capteurs, les calculs et 112 pages de données techniques. Et ça vaut pour l'ensemble des
+[00:12:57.060 --> 00:13:01.620] programmes spatio-américains. Alors arrêtez de péter les couilles avec vos niais niais on n'a plus
+[00:13:01.620 --> 00:13:06.020] les plans et on sait plus faire ça parce qu'en vrai ça a jamais existé. On sait plus faire ces
+[00:13:06.020 --> 00:13:10.460] engins pour la même raison que l'usine Renault de Sandouville ne peut plus refaire le carburant de
+[00:13:10.460 --> 00:13:15.860] la 4L de votre grand-père. Soyez un peu plus intelligent que les débiles qui vous rabâchent
+[00:13:15.860 --> 00:13:21.540] leurs théories foireuses et faites vos propres recherches comme on dit par chez vous. Mais revenons
+[00:13:21.540 --> 00:13:27.740] à nos capteurs, gyroscopes et propulseurs à gaz. Tout ceci est géré par les ordinateurs de bord
+[00:13:27.740 --> 00:13:35.660] dont on va parler après ces trois anecdotes et donc… à colate. Eh oh oh eh ? Quoi ? Tu crois vraiment
+[00:13:35.660 --> 00:13:39.340] qu'il y a un monde où j'ai pas vu la contrefaçon là ? Je vois pas de quoi vous voulez dire monsieur,
+[00:13:39.340 --> 00:13:43.380] veuillez quitter ma vidéo. Crois surtout pas que tu vas échapper au royalties hein ? La première info
+[00:13:43.380 --> 00:13:47.460] est en fait une autre application pratique du gyroscope. Comme je le disais, celui-ci garde
+[00:13:47.460 --> 00:13:52.020] toujours la même orientation quelle que soit l'orientation de l'objet qui le supporte. C'est
+[00:13:52.020 --> 00:13:56.380] ce qui sert en aviation pour avoir un horizon artificiel dans l'instrumentation. Qu'il fasse nuit,
+[00:13:56.380 --> 00:14:01.260] brouillard ou en pleine tempête, vous êtes sûr avec ça de savoir si vous montez ou si vous
+[00:14:01.260 --> 00:14:05.940] descendez. Ça sert aussi pour le maintien de cap. Au lieu de dire si vous montez ou descendez,
+[00:14:05.940 --> 00:14:11.180] ça vous indique si vous déviez à droite ou à gauche de votre route. Deuxième info, un gyro,
+[00:14:11.180 --> 00:14:15.940] une fois lancé, maintient donc son axe dans la même direction indépendamment des mouvements de
+[00:14:15.940 --> 00:14:20.520] son support. Mettez-le en route, posez-le dans votre jardin et faites un trait au sol à la
+[00:14:20.520 --> 00:14:25.460] craie pour noter vers où il pointe. Revenez à plusieurs moments de la journée. Dans l'hémisphère
+[00:14:25.460 --> 00:14:29.060] nord, il semblera dériver dans le sens des aiguilles d'une montre et dans l'hémisphère sud,
+[00:14:29.060 --> 00:14:35.420] il dérivera dans le sens contraire. De 15 degrés par heure pour être précis. Et au bout de 24 heures,
+[00:14:35.420 --> 00:14:41.420] il pointera à nouveau dans la direction initiale. Je laisse au platiste le soin de nous expliquer
+[00:14:41.420 --> 00:14:46.540] pourquoi. D'ailleurs, pour cette même raison, dans les avions possédant des indicateurs de cap
+[00:14:46.540 --> 00:14:51.420] mécanique et pour les vols un peu longs ou sur de longues distances, il faut les recaler régulièrement
+[00:14:51.420 --> 00:14:57.860] de 15 degrés par heure. Troisième info, si le gyroscope au lieu d'être libre et d'indiquer
+[00:14:57.860 --> 00:15:02.940] une direction est solidaire de son support, il aidera à maintenir son orientation. C'est ce qui
+[00:15:02.940 --> 00:15:06.860] sert à stabiliser les caméras sur les drones par exemple. Et avec un gyro beaucoup plus gros,
+[00:15:06.860 --> 00:15:14.100] vous stabilisez des trucs beaucoup plus gros. Genre ce joujou de 190 tonnes destiné à limiter
+[00:15:14.100 --> 00:15:18.940] le tangage d'un porte-avions japonais au début des années 40. Fin de la collade.
+[00:15:18.940 --> 00:15:23.580] Non, de la parenthèse. Revenons donc à nos sondes qui ont leurs capteurs,
+[00:15:23.580 --> 00:15:27.060] leurs systèmes de détection et correction d'attitude et ce qui fait la liaison entre
+[00:15:27.580 --> 00:15:34.500] les deux. Les ordinateurs de bord. Pour Luna, on parlera plutôt d'automates à logique câblée
+[00:15:34.500 --> 00:15:38.100] puisqu'il n'est pas encore question de circuits imprimés ou de semi-conducteurs,
+[00:15:38.100 --> 00:15:44.260] mais juste de relais électromécaniques. Mais peut-on considérer ça comme un ordinateur ? Au sens
+[00:15:44.260 --> 00:15:49.660] moderne d'un PC avec clavier, écran et souris, non. Mais très très basiquement, on avait déjà
+[00:15:49.660 --> 00:15:54.140] là le fonctionnement d'un processeur actuel. Un relais électromécanique est composé d'un
+[00:15:54.140 --> 00:15:59.420] électroaimant qui contrôle un système mécanique. Si l'électroaimant reçoit assez de courant,
+[00:15:59.420 --> 00:16:05.740] il s'active et active un contact mécanique qui va ouvrir ou fermer un autre circuit. C'est
+[00:16:05.740 --> 00:16:10.300] un système d'interrupteurs binaires commandés. Mettez deux relais en série et vous créez la
+[00:16:10.300 --> 00:16:15.740] porte END. Il faut que deux conditions ou plus soient réunies pour activer une réponse. Avec
+[00:16:15.740 --> 00:16:21.100] deux relais en parallèle, vous créez la porte OR. Une seule condition sur plusieurs possibles
+[00:16:21.220 --> 00:16:27.060] déclenche le mécanisme. Et avec un relais fermé, vous avez la porte NOT. Une condition va stopper
+[00:16:27.060 --> 00:16:32.660] un mécanisme au lieu de le déclencher. Et vous avez ainsi les trois opérations BOOLEEN permettant
+[00:16:32.660 --> 00:16:36.780] de faire réagir votre sonde à toutes les combinaisons de signaux de ces capteurs d'attitude.
+[00:16:36.780 --> 00:16:42.020] Ce principe de 0 et de 1 est exactement le principe des portes logiques des processeurs
+[00:16:42.020 --> 00:16:46.180] modernes. Au niveau fonctionnel, un relais électromécanique est donc l'équivalent
+[00:16:46.180 --> 00:16:51.900] d'un transistor. Sauf qu'un relais consomme un peu moins d'un watt pour s'activer, prendre la
+[00:16:51.900 --> 00:16:58.660] place et est relativement lent. Il commute en une dizaine de millisecondes. A côté de ça,
+[00:16:58.660 --> 00:17:03.340] un transistor c'est quelques nanosecondes et une consommation quasi nulle. Et pour le fun,
+[00:17:03.340 --> 00:17:08.420] voici quelques ordres de grandeur. En 1971, Intel sort son premier processeur grand public,
+[00:17:08.420 --> 00:17:15.580] le 4004. Composé de 2300 transistors, il peut exécuter 92 600 opérations par seconde et consomme
+[00:17:15.580 --> 00:17:20.860] un watt. Pour avoir la même chose avec des relais, vous consommeriez 600 watts et ça tiendrait dans
+[00:17:20.860 --> 00:17:26.020] un gros frigo sans compter le câblage. Et si l'envie vous prend de reconstituer un Intel Core Ultra
+[00:17:26.020 --> 00:17:32.060] 9, comptez environ 10 milliards de relais pour une consommation de 2 gigawatts et vous seriez de toute
+[00:17:32.060 --> 00:17:38.180] façon 57 millions de fois plus lent. Deux réacteurs nucléaires et le volume d'une trentaine d'immeubles
+[00:17:38.180 --> 00:17:45.020] haussmanniens de 6 étages devraient suffire à son fonctionnement. Donc oui, créer un circuit avec
+[00:17:45.020 --> 00:17:49.660] plusieurs relais électromécaniques revient à créer un rudimentaire processeur analogique. Et
+[00:17:49.660 --> 00:17:54.820] comme tout processeur fonctionne avec des entrées et des sorties d'informations, voyons ça en pratique
+[00:17:54.820 --> 00:18:01.340] avec notre sonde. Commençons avec une cellule photoélectrique qui reçoit de la lumière. Plus
+[00:18:01.340 --> 00:18:07.180] elle en reçoit, plus elle va produire de courant. Ce courant alimente l'électro-aimant et à partir
+[00:18:07.180 --> 00:18:12.900] d'une certaine intensité, il est assez fort pour déclencher le relais. Ça active le contacteur,
+[00:18:12.900 --> 00:18:18.500] lui-même relié au circuit d'alimentation d'un propulseur à gaz, qui du coup s'active.
+[00:18:18.500 --> 00:18:23.540] L'orientation se corrige et la cellule photoélectrique reçoit alors de moins en moins
+[00:18:23.540 --> 00:18:28.300] de lumière. L'intensité électrique baisse jusqu'à ce que le relais ne soit plus suffisamment
+[00:18:28.300 --> 00:18:34.260] alimenté, ce qui désactive le contacteur et stoppe le propulseur. C'est comme ça qu'à
+[00:18:34.260 --> 00:18:39.060] bord de l'UNA3, l'ordinateur pilotait les 8 micro-g de correction d'orientation de la sonde
+[00:18:39.140 --> 00:18:43.220] et le déclenchement des prises de photos lunaires. Et pour la petite histoire,
+[00:18:43.220 --> 00:18:47.620] les relais utilisés ne sortaient pas de nulle part. C'était ce qu'on pouvait trouver dans
+[00:18:47.620 --> 00:18:53.020] les centrales téléphoniques de l'époque. Pourtant, en 1959, quand l'UNA3 est lancé,
+[00:18:53.020 --> 00:18:57.660] ça fait 10 ans que le premier transistor soviétique a été créé en laboratoire. Et
+[00:18:57.660 --> 00:19:01.940] 4 ans qu'ils produisent leurs transistors industriellement. Beaucoup plus léger,
+[00:19:01.940 --> 00:19:07.420] plus petit, moins gourmand en énergie. Ils ont tout pour être intégrés à la sonde.
+[00:19:07.420 --> 00:19:14.440] Ou presque. Parce que production industrielle, ouais, mais production à la main avec ce que ça
+[00:19:14.440 --> 00:19:19.300] comporte d'aléatoire sur la qualité et la fiabilité des composants. En plus, les matériaux
+[00:19:19.300 --> 00:19:23.380] employés étaient sensibles aux radiations et il n'y avait que quelques pièces par semaine de
+[00:19:23.380 --> 00:19:29.620] vraiment conformes. Ce sont donc les pièces technologiquement basiques, fiables, pas chères,
+[00:19:29.620 --> 00:19:33.940] insensibles aux radiations et adaptées à la relative simplicité des opérations effectuées
+[00:19:33.940 --> 00:19:39.380] qui ont été choisies au début. Et côté américain. Les sondes Ranger étaient réparties en blocs,
+[00:19:39.380 --> 00:19:45.460] ou en générations disons. Le bloc 2 regroupe Ranger 3-4-5, le bloc 3 regroupe les sondes 6-9.
+[00:19:45.460 --> 00:19:50.940] Les sondes Ranger du bloc 2 étaient équipées d'un calculateur et d'un séquenceur. Petite
+[00:19:50.940 --> 00:19:55.140] définition pour saisir la différence, même si tout est dans le nom. Un calculateur va réagir
+[00:19:55.140 --> 00:19:59.980] selon les différents capteurs liés à latitude pour gérer la sonde en temps réel, alors que le
+[00:19:59.980 --> 00:20:03.420] séquenceur va se contenter de gérer le déclenchement des événements de la mission.
+[00:20:03.420 --> 00:20:07.860] On peut comparer ce dernier à une minuterie qui déclenche le déploiement des panneaux,
+[00:20:07.860 --> 00:20:12.260] l'acquisition du soleil, de la terre. Tout ça on en a déjà parlé dans la vidéo précédente.
+[00:20:12.260 --> 00:20:16.300] Niveau technologie, les capitalistes utilisent, comme les communistes,
+[00:20:16.300 --> 00:20:22.180] des transistors à base de germanium. Et eux aussi ont des soucis. On a vu que,
+[00:20:22.180 --> 00:20:27.060] côté russe, le problème c'est le process de fabrication peu fiable. Côté américain,
+[00:20:27.060 --> 00:20:32.460] les transistors sont fiables, mais endommagés avant le lancement. Mais comment ce fesse me
+[00:20:32.460 --> 00:20:41.270] demanderez-vous ? Et bien, à collade. L'un des objectifs des sondes rangers était de s'écraser
+[00:20:41.270 --> 00:20:46.710] sur la lune. Mais ça devait être fait proprement. Je vais dire littéralement. Il ne fallait pas
+[00:20:46.710 --> 00:20:50.950] contaminer le sol lunaire avec des organismes terrestres. Donc pour éviter autant que possible
+[00:20:50.950 --> 00:20:56.790] que des bactéries ou un virus se fassent un road trip spatial, les sondes devaient être désinfectées.
+[00:20:56.790 --> 00:21:00.830] Et là je parle pas juste d'un petit coup de chiffon vite fait. Pour être sûr de faire ça bien,
+[00:21:00.830 --> 00:21:04.910] chaque composant était d'abord placé pendant 24 heures dans un four à 125 degrés pour être
+[00:21:04.910 --> 00:21:10.870] stérilisé. Ensuite il était nettoyé à l'alcool, puis assemblé. Mais c'est pas fini. Avant le
+[00:21:10.870 --> 00:21:14.950] lancement, toute la sonde est saturée d'oxyde d'éthylène gazeux pendant 24 heures pour être
+[00:21:14.950 --> 00:21:20.230] certain que rien ne s'y soit glissé au dernier moment ou n'ait survécu jusque là. Sauf que,
+[00:21:20.230 --> 00:21:25.230] bah, dans l'histoire, on chauffe les composants, ce qui endommage les transistors au germanium.
+[00:21:25.230 --> 00:21:30.230] Entre autres, les jonctions internes peuvent être altérées, ce qui crée des résistances de contact
+[00:21:30.230 --> 00:21:35.030] non prévu, ou plus fortes que ce qu'elles devaient être. Bilan, les transistors ne se
+[00:21:35.030 --> 00:21:39.870] déclenchent pas exactement aux tensions attendues, voire plus du tout. C'est probablement l'un des
+[00:21:39.870 --> 00:21:45.030] facteurs qui explique l'échec de la mission Ranger 3. Alors quoi ? Il est venu à l'idée de personne
+[00:21:45.030 --> 00:21:49.070] de vérifier si les composants fonctionnaient toujours après avoir été chauffés ? Personne
+[00:21:49.070 --> 00:21:52.550] ne s'est dit que ça serait peut-être une bonne idée de tester le bousin avant le lancement à
+[00:21:52.550 --> 00:21:58.670] l'équivalent de 200 millions de dollars actuels ? Et bah, c'est un poil plus compliqué et c'est
+[00:21:58.670 --> 00:22:03.550] une question de contexte. Ouais, je vous en parle souvent et pour plein de trucs, mais c'est important
+[00:22:03.550 --> 00:22:08.790] le contexte. Dans les années 50, à part les photos prises depuis la Terre, on ne sait rien de la
+[00:22:08.790 --> 00:22:13.070] surface de la Lune. On ne sait pas si elle est recouverte de plusieurs mètres de poussière molle
+[00:22:13.070 --> 00:22:18.670] où il serait impossible d'atterrir, si la surface est dure. On n'a aucun échantillon. Bref, obtenir
+[00:22:18.670 --> 00:22:23.790] ces infos, c'est le rôle des sondes et là-dessus, les ingénieurs sont au taquet. Mais il y a aussi
+[00:22:23.790 --> 00:22:27.510] les scientifiques qui veulent étudier plein de choses. Sauf que pour étudier, il ne faut pas
+[00:22:27.510 --> 00:22:32.550] perturber ni polluer au sens très large l'objet de votre recherche. L'une des questions de l'époque
+[00:22:32.550 --> 00:22:38.670] étant, y a-t-il actuellement ou y a-t-il eu par le passé des traces de vie sur la Lune ? Et bah,
+[00:22:38.670 --> 00:22:42.390] la première des choses à faire, c'est de ne pas y amener nos propres formes de vie pour ne pas
+[00:22:42.390 --> 00:22:47.110] interférer avec les échantillons et analyses qui seront faites. C'est un principe de précaution et
+[00:22:47.110 --> 00:22:51.830] ça fonctionne dans les deux sens. Les roches lunaires qui plus tard seront ramenées par
+[00:22:51.830 --> 00:22:56.070] les missions Apollo seront mises en quarantaine avant d'être étudiées. Et pareil avec les
+[00:22:56.070 --> 00:23:00.230] astronautes des équipes ayant marché sur la Lune. Une quarantaine de 21 jours pour les
+[00:23:00.230 --> 00:23:04.790] membres de l'équipage et 10 de plus pour le matériel et les échantillons. Enfin ça,
+[00:23:04.790 --> 00:23:09.070] c'était pour Apollo 11, 12 et 14. Une fois sûr qu'il n'y avait pas d'agent contaminant lunaire,
+[00:23:09.070 --> 00:23:13.990] la procédure a été supprimée. Mais donc voilà, ces deux protocoles n'étaient pas du fait de la
+[00:23:13.990 --> 00:23:20.230] NASA directement, mais du COSPAR pour Committee on Space Research. Petit topo rapide. Pendant
+[00:23:20.230 --> 00:23:25.230] la guerre froide, l'Est et l'Ouest sont un peu grognons et ne se parlent plus. Mais fin des années
+[00:23:25.230 --> 00:23:29.710] 50 ils se disent qu'il faut quand même se parler un peu. Un groupe international de scientifiques
+[00:23:29.710 --> 00:23:35.590] est créé pour organiser la recherche autour de l'exploration spatiale, le dit COSPAR. C'est lui
+[00:23:35.590 --> 00:23:40.150] qui préconise d'éviter la contamination des astres explorés, comportement qu'adopte la NASA
+[00:23:40.150 --> 00:23:45.550] comme politique officielle en 1959. Et on en arrive à nos transistors, des composants mis au
+[00:23:45.550 --> 00:23:50.470] point 10 ans plus tôt dont le comportement en laboratoire est bien connu et les spécifications
+[00:23:50.470 --> 00:23:55.270] pour l'émission spatiale bien établies. Et comme ça a déjà été le cas plusieurs fois avant,
+[00:23:55.270 --> 00:23:59.870] eh ben on a des ingénieurs qui font partie des meilleurs des meilleurs et qui ont choisi les
+[00:23:59.870 --> 00:24:05.750] composants parmi les meilleurs des meilleurs avec mention et qui disent, ouais bon, stériliser si
+[00:24:05.750 --> 00:24:11.390] vous voulez, ça passe. Ou, dit autrement, c'est nous les plus intelligents et on a dit que c'est bon,
+[00:24:11.390 --> 00:24:16.590] alors c'est bon. Je vous renvoie vers ma vidéo sur les calculatrices humaines de la NASA slash la
+[00:24:16.590 --> 00:24:21.430] petite fille qui a sauvé le programme Apollo pour d'autres exemples de gars qui prenaient un peu trop
+[00:24:21.430 --> 00:24:26.750] la confiance. Mais bref, mélanger des contraintes venant d'un organisme extérieur à la NASA,
+[00:24:26.750 --> 00:24:30.350] pas le temps ni l'envie de réadapter tout un process de fabrication et de validation,
+[00:24:30.350 --> 00:24:36.070] l'optimisme ou l'égo des ingénieurs, une course à l'espace où il faut faire vite et vous obtenez,
+[00:24:36.070 --> 00:24:43.070] eh ben un échec. Pour le bloc suivant des rangers 6 à 9, le processus de désinfection est modifié,
+[00:24:43.070 --> 00:24:49.990] le silicium remplace le germanium et là, tout se passe bien pour les transistors. Fin de la collade.
+[00:24:49.990 --> 00:24:57.950] La parenthèse, c'est une parenthèse, c'est mon concept. Enlève-moi ça tout de suite. Putain.
+[00:24:57.950 --> 00:25:03.470] Voilà donc nos sondes lancées, voguant paisiblement dans le vide spatial. Tout va bien,
+[00:25:03.470 --> 00:25:09.830] mais il reste encore un détail crucial à contrôler. La chaleur et le froid. La température. Pour
+[00:25:09.830 --> 00:25:15.230] appréhender la question, il faut prendre en compte trois éléments. Le soleil, l'espace et la sonde.
+[00:25:15.230 --> 00:25:20.870] On a donc d'abord le soleil. Qui est chaud. Ouais, je sais, ça fait un choc de l'apprendre,
+[00:25:20.870 --> 00:25:26.990] prenez du temps pour encaisser la nouvelle. Ensuite on a le vide spatial. Qui n'est pas froid. C'est
+[00:25:26.990 --> 00:25:31.430] un poil plus subtil. Quand on parle de chaleur, on parle d'agitation de molécules, sauf que dans
+[00:25:31.430 --> 00:25:37.030] le vide, y'a pas de matière. Donc pas de molécules. Ce qui fait que le vide interplanétaire n'est
+[00:25:37.030 --> 00:25:44.390] techniquement ni chaud ni froid. Il est… rien. Et enfin, on a la sonde qui génère de la chaleur.
+[00:25:44.390 --> 00:25:49.270] Elle intègre des composants électriques qui, par nature en fonctionnant, chauffent plus ou moins
+[00:25:49.270 --> 00:25:54.190] à cause de l'effet joule. Que ce soit des capteurs, la chimie des batteries, les onduleurs des panneaux,
+[00:25:54.190 --> 00:25:58.830] bref, tout chauffe. Mesurer la chaleur, on vient de le dire, c'est mesurer l'agitation des molécules.
+[00:25:58.830 --> 00:26:04.110] Et elle s'agite quand elle reçoit de l'énergie. Ce qui peut se faire de trois façons. D'abord
+[00:26:04.110 --> 00:26:09.190] par conduction, c'est-à-dire le transfert de chaleur au sein d'objets et par contact. Un exemple
+[00:26:09.190 --> 00:26:12.630] facile, c'est la casserole que vous mettez à chauffer. C'est toute la casserole qui devient
+[00:26:12.630 --> 00:26:16.710] chaude, pas juste la partie exposée aux flammes. Vous posez ensuite la casserole sur la table qui,
+[00:26:16.710 --> 00:26:21.270] à son tour, devient chaude à cet endroit-là. C'est encore la conduction. Ensuite, il y a la
+[00:26:21.270 --> 00:26:26.510] convection. C'est le transfert d'énergie par un fluide, donc un gaz ou un liquide. C'est pour ça
+[00:26:26.510 --> 00:26:30.990] que les chauffages sont appelés convecteurs, parce qu'ils chauffent de l'air pour transmettre leur
+[00:26:30.990 --> 00:26:36.270] énergie. Et enfin, il y a le rayonnement. Typiquement le soleil ou plus proche de nous,
+[00:26:36.270 --> 00:26:40.110] un feu de camp. D'ailleurs, on parle souvent de rayonnement infrarouge, mais dans les faits,
+[00:26:40.110 --> 00:26:45.750] tout rayonnement transmet de l'énergie, donc fait chauffer le corps qui le reçoit. Mais revenons
+[00:26:45.750 --> 00:26:49.790] à notre sonde et aux commentaires disant qu'à moins de 170 degrés, on ne peut pas développer
+[00:26:49.790 --> 00:26:54.910] de photos dans l'espace et que rien ne peut y fonctionner sans geler sur place. Ou à l'inverse
+[00:26:54.910 --> 00:27:00.790] que tout va fondre à cause de la chaleur, c'est selon. On va voir tout ça. Reprenons avec le
+[00:27:00.790 --> 00:27:05.230] soleil. Est-ce que d'après vous, il chauffe beaucoup plus dans l'espace que sur Terre ? Pour savoir ça,
+[00:27:05.230 --> 00:27:09.510] on regarde la quantité d'énergie reçue par mètre carré. À l'équateur et à midi, sur Terre,
+[00:27:09.510 --> 00:27:13.750] on est à 1000 watts d'énergie reçue par mètre carré. Dans le sud de la France, en plein été,
+[00:27:13.750 --> 00:27:18.870] comptez 800 watts par mètre carré. Et dans l'espace, et donc sans atmosphère pour filtrer
+[00:27:18.870 --> 00:27:25.230] les rayonnements, on est à 1360 watts par mètre carré. Donc oui, on reçoit plus d'énergie dans
+[00:27:25.230 --> 00:27:30.590] l'espace, ce qui nous amène plus de chaleur. Et cette chaleur ne peut pas s'évacuer par conduction,
+[00:27:30.590 --> 00:27:33.990] puisqu'il n'y a rien à toucher, ni par convection, puisqu'il n'y a aucun mouvement
+[00:27:33.990 --> 00:27:39.710] d'air ou de fluide pour évacuer l'énergie. Ne reste donc que le rayonnement. Les sondes Luna
+[00:27:39.710 --> 00:27:44.590] 1 et 2 étaient des sphères en aluminium et magnésium, des surfaces brillantes qui réfléchissent
+[00:27:44.590 --> 00:27:49.070] les rayonnements solaires et donc chauffent moins vite. Du fait de leur forme, il n'y avait qu'une
+[00:27:49.070 --> 00:27:53.470] petite partie de leur surface qui reçoit la quantité maximale de rayonnement solaire. Dans
+[00:27:53.470 --> 00:27:57.950] le même temps, c'est toute la sphère qui rayonne et qui perd de la chaleur. On a donc beaucoup moins
+[00:27:57.950 --> 00:28:02.190] d'apports de chaleur que ce qu'on a de déperdition. La vraie contrainte thermique dans l'espace était
+[00:28:02.190 --> 00:28:07.110] là. C'était pas la chaleur, mais le refroidissement le problème. Et d'ailleurs, petit piège
+[00:28:07.110 --> 00:28:11.230] contre-intuitif, les sphères ne sont pas en aluminium pour éviter de chauffer, mais pour
+[00:28:11.230 --> 00:28:16.350] pas se refroidir trop vite. En effet, l'alu poli renvoie certes les rayonnements, mais surtout,
+[00:28:16.350 --> 00:28:21.870] il a une très mauvaise émissivité infrarouge. Il absorbe très peu de rayonnement et donc d'énergie,
+[00:28:21.870 --> 00:28:27.310] mais aussi il en perd très peu. Et vu que la grosse majorité de sa surface n'est pas ou peu
+[00:28:27.310 --> 00:28:32.950] chauffée, ce choix de matériaux est ici un gros avantage. Mais si le froid est un problème, pourquoi
+[00:28:32.950 --> 00:28:37.990] ne pas peindre la sonde en noir pour qu'elle absorbe plus de chaleur ? En fait, ça serait pire.
+[00:28:37.990 --> 00:28:43.470] La réception et l'émission de rayonnement infrarouge, c'est réversible. Si une surface absorbe
+[00:28:43.470 --> 00:28:47.550] beaucoup d'infrarouge, alors elle les mettra beaucoup d'infrarouge. En l'espèce, votre sonde
+[00:28:47.550 --> 00:28:53.030] peinte en noir refroidirait beaucoup plus vite qu'une sonde en aluminium poli. Alors, comment
+[00:28:53.030 --> 00:28:57.230] était régulée la température des deux premières sondes luna ? Alors d'abord avec le revêtement
+[00:28:57.230 --> 00:29:02.030] brillant comme on vient de le voir, mais aussi en les remplissant d'azote gazeux à 1,3 bar brassé
+[00:29:02.030 --> 00:29:06.910] par un ventilateur. Par convection, ça permet de distribuer uniformément la chaleur des composants
+[00:29:06.910 --> 00:29:12.470] et du point chaud de la coque. Enfin, le spin assure une répartition thermique relativement homogène
+[00:29:12.470 --> 00:29:17.190] de l'enveloppe en évitant d'avoir un même point surchauffé et une zone trop froide. Tous ces
+[00:29:17.190 --> 00:29:21.230] mécanismes ont permis de garder la température interne des sondes luna 1 et 2 entre 20 et 25
+[00:29:21.710 --> 00:29:25.270] degrés et donc une température tout à fait acceptable pour le fonctionnement des composants.
+[00:29:25.270 --> 00:29:30.110] Pour l'Una 3 qui a pris les premières photos lunaires, les principes étaient identiques mais
+[00:29:30.110 --> 00:29:33.790] les techniques un peu plus poussées. Il y avait toujours le spin pour répartir le rayonnement
+[00:29:33.790 --> 00:29:38.790] solaire et stabiliser la sonde, toujours une circulation forcée d'azote gazeux. Cependant,
+[00:29:38.790 --> 00:29:43.270] sa surface n'était pas nue mais couverte de cellules photovoltaïques et de capteurs. Les
+[00:29:43.270 --> 00:29:47.870] échanges thermiques avec le vide sont donc plus réduits et les déperditions de chaleur moindres.
+[00:29:47.870 --> 00:29:51.750] Et c'est pas forcément une bonne nouvelle parce que l'intérieur de la sonde, du fait de son
+[00:29:51.750 --> 00:29:57.110] fonctionnement électrique, chauffe. Il y avait donc des volets comme de petites persiennes installés
+[00:29:57.110 --> 00:30:02.190] sur la sonde entre les panneaux solaires, les zones en blanc sur la maquette. Et en cas de
+[00:30:02.190 --> 00:30:07.150] surchauffe, il s'ouvre pour évacuer le trop plein de chaleur en rayonnant l'infrarouge à l'extérieur.
+[00:30:07.150 --> 00:30:13.710] Alors ça marchera bien, mais pas top. La température interne idéale de l'Una 3 est de 25 degrés mais
+[00:30:13.710 --> 00:30:17.990] aux premières heures de la mission, elle monte à 40. Les équipes au sol couperont donc quelques
+[00:30:17.990 --> 00:30:22.950] instruments pour revenir aux alentours des 30 degrés et s'y stabiliser, ne rallumant ponctuellement
+[00:30:22.950 --> 00:30:27.470] que le nécessaire. Et les lois de la physique étant les mêmes pour tout le monde, les mêmes
+[00:30:27.470 --> 00:30:31.750] procédés étaient utilisés côté américain. Gaze dans la sonde pour répartir la chaleur,
+[00:30:31.750 --> 00:30:35.870] gestion de l'orientation au soleil et point d'équilibre thermique en jouant avec le refroidissement
+[00:30:35.870 --> 00:30:41.550] par rayonnement. Donc non, pas de sonde à plus ou moins 270 degrés mais des environnements
+[00:30:41.550 --> 00:30:46.670] contrôlés et stabilisés entre 20 et 30 degrés. Les sondes lunaires suivantes n'utiliseront plus
+[00:30:46.670 --> 00:30:50.470] le spin pour se stabiliser, d'une part parce que plus gourmands d'en énergie elles doivent
+[00:30:50.470 --> 00:30:54.310] garder leurs panneaux solaires orientés vers le soleil et d'autre part parce que les systèmes
+[00:30:54.310 --> 00:30:59.190] d'orientation et de stabilisation deviennent plus précis. Idem pour la gestion thermique facilité
+[00:30:59.190 --> 00:31:03.710] par les progrès sur les matériaux isolants. Sur des installations un poil plus grosse et plus
+[00:31:03.710 --> 00:31:09.950] moderne comme l'ISS par exemple, le principe est le même. D'abord on isole avec trois couches de
+[00:31:09.950 --> 00:31:14.030] revêtement mais comme on a très bien isolé, il n'y a quasiment plus de pertes thermiques et on
+[00:31:14.030 --> 00:31:18.590] risque la surchauffe à cause des très nombreux équipements électriques et des humains sur place
+[00:31:18.590 --> 00:31:22.750] qui dissipent des calories. Pour éviter ça, des échangeurs thermiques ont été mis en place à
+[00:31:22.750 --> 00:31:27.430] l'extérieur. Ils évacuent la chaleur captée dans la station par un circuit mélant échangeur à eau
+[00:31:27.430 --> 00:31:32.390] et à ammoniac pour éviter le gel. Ce sont les panneaux carrés blancs que l'on voit ici au centre
+[00:31:32.390 --> 00:31:37.630] de part et d'autre du corps de la station. Voilà. J'en ai fini pour aujourd'hui avec ces quelques
+[00:31:37.710 --> 00:31:42.390] techniques spatiales. Je vous ai juste gardé un petit point bonus. Je vous disais un peu
+[00:31:42.390 --> 00:31:46.070] plus tôt que quand un gaz s'échappe vers l'arrière d'un objet, il crène force contraire
+[00:31:46.070 --> 00:31:51.710] vers l'avant qui le pousse. Et je sais à quoi vous avez pensé et l'auteur du script y a pensé
+[00:31:51.710 --> 00:31:56.790] aussi. Donc puisqu'on est dans une vidéo un peu technique, restons dans les calculs et répondons
+[00:31:56.790 --> 00:32:02.670] ensemble à la question suivante. Un astronaute qui pète dans l'espace peut-il se propulser ainsi et
+[00:32:02.670 --> 00:32:08.990] si oui, à quelle vitesse ? Considérons un astronaute de 80 kg et un volume du p de 150
+[00:32:08.990 --> 00:32:16.310] ml. Le dp est composé de 12% de dihydrogène, 14% de dioxyde de carbone et 74% de méthane avec
+[00:32:16.310 --> 00:32:25.030] une vitesse d'expulsion de 10 m par seconde. D'après le volume du mélange, sa composition
+[00:32:25.030 --> 00:32:28.750] et en considérant sa masse volumique à une température de 37° sous une atmosphère de
+[00:32:28.750 --> 00:32:37.150] pression, on obtient la masse du p soit 0, 1076 g. Le module Harmonie de l'ISS mesure 7 m de long.
+[00:32:37.150 --> 00:32:43.230] Combien de temps faudra-t-il à notre astronaute pour le traverser de part en part à la seule force
+[00:32:43.230 --> 00:32:49.110] de son p ? On suppose un parfait alignement entre l'axe du p, la trajectoire souhaitée et le centre
+[00:32:49.110 --> 00:32:54.470] de gravité de l'astronaute. Les frottements de l'air sont négligeables, la calculatrice autorisée.
+[00:32:54.470 --> 00:33:00.590] Postez vos réponses en commentaire. La science, ce sont d'abord des hommes et des femmes qui
+[00:33:00.590 --> 00:33:08.710] cherchent la réponse à de grandes questions. Alors, levez les yeux au ciel, soyez astronogeek et à la revoyure.

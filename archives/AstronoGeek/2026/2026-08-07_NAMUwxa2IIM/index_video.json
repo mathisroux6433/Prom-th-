@@ -1,0 +1,345 @@
+{
+  "schema_version": "1.0",
+  "video_id": "NAMUwxa2IIM",
+  "resume_general": "AstronoGeek décrit plusieurs techniques des premières sondes lunaires soviétiques Luna et américaines Ranger : stabilisation par rotation, orientation par jets de gaz froid et gyroscopes, automatismes embarqués à relais, choix des transistors et régulation thermique. La vidéo insiste sur le caractère rudimentaire mais fonctionnel de ces engins, replace certains échecs dans les contraintes techniques et institutionnelles de la course à l'espace, puis explique pourquoi le vide spatial impose surtout de gérer les transferts radiatifs de chaleur.",
+  "themes_principaux": [
+    {
+      "theme": "Stabilisation et orientation des premières sondes lunaires",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:03:56",
+        "00:06:27",
+        "00:08:04"
+      ]
+    },
+    {
+      "theme": "Gyroscopes, centrales inertielles et commande par gaz froid",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:09:04",
+        "00:10:01",
+        "00:11:43"
+      ]
+    },
+    {
+      "theme": "Automates embarqués, relais et transistors",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:15:27",
+        "00:17:03",
+        "00:18:34"
+      ]
+    },
+    {
+      "theme": "Stérilisation des sondes Ranger et fragilité des transistors",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:20:41",
+        "00:21:20",
+        "00:23:13"
+      ]
+    },
+    {
+      "theme": "Contrôle thermique dans le vide spatial",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:25:03",
+        "00:27:00",
+        "00:28:53",
+        "00:29:25"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Contexte géopolitique de la course à la Lune",
+      "horodatages": [
+        "00:03:18"
+      ]
+    },
+    {
+      "sujet": "Documentation technique conservée du programme Ranger",
+      "horodatages": [
+        "00:12:43"
+      ]
+    },
+    {
+      "sujet": "Applications terrestres des gyroscopes",
+      "horodatages": [
+        "00:13:43",
+        "00:15:02"
+      ]
+    },
+    {
+      "sujet": "Protection planétaire et quarantaines Apollo",
+      "horodatages": [
+        "00:22:27",
+        "00:22:51"
+      ]
+    },
+    {
+      "sujet": "Gestion thermique de l'ISS",
+      "horodatages": [
+        "00:31:03"
+      ]
+    },
+    {
+      "sujet": "Exercice humoristique de propulsion par expulsion de gaz",
+      "horodatages": [
+        "00:31:42"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "Luna 1",
+    "Luna 2",
+    "Luna 3",
+    "Ranger 3",
+    "gyroscope",
+    "centrale inertielle",
+    "stabilisation par rotation",
+    "gaz froid",
+    "relais électromécanique",
+    "transistor au germanium",
+    "COSPAR",
+    "protection planétaire",
+    "rayonnement thermique",
+    "conduction",
+    "convection",
+    "émissivité",
+    "azote",
+    "ISS"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "stabilisation par rotation",
+      "variantes": [
+        "spin",
+        "rotation sur elle-même"
+      ]
+    },
+    {
+      "forme": "système de contrôle d'attitude",
+      "variantes": [
+        "contrôle d'orientation",
+        "correction d'orientation"
+      ]
+    },
+    {
+      "forme": "automate à logique câblée",
+      "variantes": [
+        "ordinateur de bord",
+        "circuit à relais"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Isaac Newton",
+      "niveau": "mention",
+      "role": "scientifique associé à la loi d'action-réaction",
+      "horodatages": [
+        "00:04:47"
+      ]
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "NASA",
+      "niveau": "developpe",
+      "type": "agence spatiale américaine responsable notamment du programme Ranger",
+      "horodatages": [
+        "00:12:27",
+        "00:23:35"
+      ]
+    },
+    {
+      "nom": "COSPAR",
+      "niveau": "developpe",
+      "type": "organisation scientifique internationale à l'origine de recommandations de protection planétaire",
+      "horodatages": [
+        "00:23:13",
+        "00:23:35"
+      ]
+    },
+    {
+      "nom": "Intel",
+      "niveau": "mention",
+      "type": "fabricant cité pour comparer relais et processeurs",
+      "horodatages": [
+        "00:17:03"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "action-réaction",
+      "explication": "deux corps exercent des forces égales et opposées, principe utilisé par les hélices et les jets de gaz",
+      "horodatages": [
+        "00:04:47",
+        "00:09:04"
+      ]
+    },
+    {
+      "nom": "stabilisation gyroscopique",
+      "explication": "la rotation stabilise l'orientation d'un projectile ou d'une sonde et limite les perturbations",
+      "horodatages": [
+        "00:06:48"
+      ]
+    },
+    {
+      "nom": "gyroscope",
+      "explication": "rotor conservant son axe grâce au moment angulaire et fournissant un repère d'orientation",
+      "horodatages": [
+        "00:10:01",
+        "00:10:47"
+      ]
+    },
+    {
+      "nom": "logique booléenne à relais",
+      "explication": "combinaison de relais en série, parallèle ou normalement fermés pour former des fonctions ET, OU et NON",
+      "horodatages": [
+        "00:15:54",
+        "00:16:32"
+      ]
+    },
+    {
+      "nom": "protection planétaire",
+      "explication": "précautions destinées à éviter la contamination biologique des astres et de la Terre",
+      "horodatages": [
+        "00:20:41",
+        "00:22:27"
+      ]
+    },
+    {
+      "nom": "transfert thermique par rayonnement",
+      "explication": "seul mode d'échange thermique avec le vide, en plus des transferts internes à la sonde",
+      "horodatages": [
+        "00:26:36",
+        "00:27:25"
+      ]
+    },
+    {
+      "nom": "émissivité",
+      "explication": "aptitude d'une surface à absorber et émettre le rayonnement infrarouge",
+      "horodatages": [
+        "00:28:11",
+        "00:28:37"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "troisième loi de Newton",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:04:47"
+      ]
+    },
+    {
+      "nom": "missions Luna 1 et Luna 2",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:06:27",
+        "00:07:20"
+      ]
+    },
+    {
+      "nom": "mission Luna 3",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:08:04",
+        "00:18:34",
+        "00:29:25"
+      ]
+    },
+    {
+      "nom": "mission Ranger 3",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:19:39",
+        "00:21:35"
+      ]
+    },
+    {
+      "nom": "adoption par la NASA d'une politique de protection planétaire en 1959",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:23:35"
+      ]
+    },
+    {
+      "nom": "quarantaines Apollo 11, 12 et 14",
+      "niveau": "mention",
+      "horodatages": [
+        "00:22:51"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:01:49",
+      "contenu": "séquence sponsorisée"
+    },
+    {
+      "debut": "00:01:49",
+      "fin": "00:06:27",
+      "contenu": "contexte historique et principe d'action-réaction"
+    },
+    {
+      "debut": "00:06:27",
+      "fin": "00:10:01",
+      "contenu": "stabilisation des sondes Luna par rotation et jets de gaz froid"
+    },
+    {
+      "debut": "00:10:01",
+      "fin": "00:15:27",
+      "contenu": "fonctionnement des gyroscopes et applications"
+    },
+    {
+      "debut": "00:15:27",
+      "fin": "00:20:41",
+      "contenu": "logique câblée, relais et transition vers les transistors"
+    },
+    {
+      "debut": "00:20:41",
+      "fin": "00:25:03",
+      "contenu": "stérilisation, protection planétaire et échec de Ranger 3"
+    },
+    {
+      "debut": "00:25:03",
+      "fin": "00:31:42",
+      "contenu": "transferts thermiques et régulation des sondes"
+    },
+    {
+      "debut": "00:31:42",
+      "fin": "00:33:08",
+      "contenu": "exercice final humoristique sur la propulsion"
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "les premiers engins spatiaux combinaient mécanique simple, logique câblée et solutions thermiques passives",
+      "horodatage": "00:15:27"
+    },
+    {
+      "expression": "dans le vide, le problème thermique dépend du rayonnement plutôt que d'une température propre de l'espace",
+      "horodatage": "00:25:26"
+    }
+  ],
+  "citations_exactes": [
+    {
+      "citation": "l'action est toujours égale et opposée à la réaction",
+      "horodatage": "00:04:52"
+    },
+    {
+      "citation": "le vide interplanétaire n'est techniquement ni chaud ni froid",
+      "horodatage": "00:25:26"
+    },
+    {
+      "citation": "La vraie contrainte thermique dans l'espace était là. C'était pas la chaleur, mais le refroidissement le problème.",
+      "horodatage": "00:27:57"
+    }
+  ]
+}

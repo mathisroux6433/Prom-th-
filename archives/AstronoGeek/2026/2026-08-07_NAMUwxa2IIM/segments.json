@@ -1,0 +1,3065 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.62,
+      "end": 6.34,
+      "start_timestamp": "00:00:00.620",
+      "end_timestamp": "00:00:06.340",
+      "text": "Bon c'est peut-être tu vas m'expliquer pourquoi tu m'emmènes au milieu de nulle part par moins forte trompette froze tu vas leur faire peur"
+    },
+    {
+      "id": 1,
+      "start": 6.38,
+      "end": 9.84,
+      "start_timestamp": "00:00:06.380",
+      "end_timestamp": "00:00:09.840",
+      "text": "Mais faire peur mais faire peur à qui bon sang tout lui"
+    },
+    {
+      "id": 2,
+      "start": 10.34,
+      "end": 17.78,
+      "start_timestamp": "00:00:10.340",
+      "end_timestamp": "00:00:17.780",
+      "text": "C'était vpn sauvage c'est peut-être tu es vraiment trop con c'est des cigognes et oui je sais mais les cigognes c'était vpn"
+    },
+    {
+      "id": 3,
+      "start": 17.9,
+      "end": 20.1,
+      "start_timestamp": "00:00:17.900",
+      "end_timestamp": "00:00:20.100",
+      "text": "sauvage n'importe quoi pas si"
+    },
+    {
+      "id": 4,
+      "start": 20.3,
+      "end": 25.7,
+      "start_timestamp": "00:00:20.300",
+      "end_timestamp": "00:00:25.700",
+      "text": "elle trouve tout qu'est ce que elles veulent dans les sangs mais quand il va commencer à faire froid oupla elles vont redéfinir leur"
+    },
+    {
+      "id": 5,
+      "start": 26.02,
+      "end": 29.42,
+      "start_timestamp": "00:00:26.020",
+      "end_timestamp": "00:00:29.420",
+      "text": "localisation sur la magre et puis c'est peut-être on appelle ça migré"
+    },
+    {
+      "id": 6,
+      "start": 29.42,
+      "end": 34.46,
+      "start_timestamp": "00:00:29.420",
+      "end_timestamp": "00:00:34.460",
+      "text": "Ayo et toi quand tu te connectes sur nord vpn pour aller dans un autre pays tu dis pas que tu fais du migrement"
+    },
+    {
+      "id": 7,
+      "start": 34.46,
+      "end": 40.24,
+      "start_timestamp": "00:00:34.460",
+      "end_timestamp": "00:00:40.240",
+      "text": "Oui mais j'y vais pas vraiment quand j'ai fini j'éteins mon pc et puis je suis toujours là et pas les cigognes c'est pareil dès que"
+    },
+    {
+      "id": 8,
+      "start": 40.24,
+      "end": 44.26,
+      "start_timestamp": "00:00:40.240",
+      "end_timestamp": "00:00:44.260",
+      "text": "l'hiver il est fini elles sont aussi de nouveau là c'est peut-être tu me saoules c'est pas pareil"
+    },
+    {
+      "id": 9,
+      "start": 44.38,
+      "end": 50.34,
+      "start_timestamp": "00:00:44.380",
+      "end_timestamp": "00:00:50.340",
+      "text": "si c'est une excuse pour faire ta sponsor c'est nul et puis bon courage pour faire plus de liens que ça avec nord vpn et pas si"
+    },
+    {
+      "id": 10,
+      "start": 50.7,
+      "end": 57.78,
+      "start_timestamp": "00:00:50.700",
+      "end_timestamp": "00:00:57.780",
+      "text": "En ce moment avec le réchauffement climatique les cigognes elles partent plus tard et reviennent plus tôt ça fait dire qu'elles ont quatre mois gratuits"
+    },
+    {
+      "id": 11,
+      "start": 57.98,
+      "end": 63.9,
+      "start_timestamp": "00:00:57.980",
+      "end_timestamp": "00:01:03.900",
+      "text": "putain je rêve et puis des fois elles arrivent en main grépies et elles disent oh fais tommy fais drosso alors elles rentrent tout de suite"
+    },
+    {
+      "id": 12,
+      "start": 63.9,
+      "end": 70.26,
+      "start_timestamp": "00:01:03.900",
+      "end_timestamp": "00:01:10.260",
+      "text": "c'est pas le nom donc ça veut dire qu'elles peuvent s'en aller d'avis gratuitement c'est pas le comme nord vpn ou ce que t'as 30 sourds satisfaits ou"
+    },
+    {
+      "id": 13,
+      "start": 70.26,
+      "end": 76.58,
+      "start_timestamp": "00:01:10.260",
+      "end_timestamp": "00:01:16.580",
+      "text": "remboursés putain achever moi mais les cigognes ça sait pas écrire mais même que si elle savait écrire elle pourrait utiliser le code"
+    },
+    {
+      "id": 14,
+      "start": 76.58,
+      "end": 82.9,
+      "start_timestamp": "00:01:16.580",
+      "end_timestamp": "00:01:22.900",
+      "text": "astronautique pour avoir la réduction et les quatre mois gratuits sur l'abonnement de deux ans pitié et puis les cigognes s'appouvent tout qu'elles"
+    },
+    {
+      "id": 15,
+      "start": 82.9,
+      "end": 87.7,
+      "start_timestamp": "00:01:22.900",
+      "end_timestamp": "00:01:27.700",
+      "text": "des verts de terre des muleaux des grenouilles et même des trucs tout pourri et tout mort et alors"
+    },
+    {
+      "id": 16,
+      "start": 87.7,
+      "end": 94.78,
+      "start_timestamp": "00:01:27.700",
+      "end_timestamp": "00:01:34.780",
+      "text": "et pas ça c'est grâce à leur système immunitaire que c'est comme protection anti menace oh putain c'est pleure mais allez rope c'est drôle"
+    },
+    {
+      "id": 17,
+      "start": 94.78,
+      "end": 101.82,
+      "start_timestamp": "00:01:34.780",
+      "end_timestamp": "00:01:41.820",
+      "text": "l'ornithologie si tu veux c'est drôle mais tes conneries ça me fatigue allez conclue que je puisse rentrer chez moi oui bah il faut utiliser le code"
+    },
+    {
+      "id": 18,
+      "start": 101.82,
+      "end": 108.98,
+      "start_timestamp": "00:01:41.820",
+      "end_timestamp": "00:01:48.980",
+      "text": "astronautique ou le lien qui l'est dans la description ouais ouais et la sponsor est terminé mais c'est un rap à soi au plat"
+    },
+    {
+      "id": 19,
+      "start": 108.98,
+      "end": 121.86,
+      "start_timestamp": "00:01:48.980",
+      "end_timestamp": "00:02:01.860",
+      "text": "plus les débuts de la conquête spatiale ont dû être passionnant pour les chercheurs et ingénieurs de l'époque"
+    },
+    {
+      "id": 20,
+      "start": 121.86,
+      "end": 128.44,
+      "start_timestamp": "00:02:01.860",
+      "end_timestamp": "00:02:08.440",
+      "text": "il partait de rien et tout était à inventer dans une nouvelle course vers la frontière de l'infini les récents"
+    },
+    {
+      "id": 21,
+      "start": 128.44,
+      "end": 134.54,
+      "start_timestamp": "00:02:08.440",
+      "end_timestamp": "00:02:14.540",
+      "text": "progrès en balistique et construction de fusée rendait possible et même envisageable à court terme du moins dans"
+    },
+    {
+      "id": 22,
+      "start": 134.54,
+      "end": 140.38,
+      "start_timestamp": "00:02:14.540",
+      "end_timestamp": "00:02:20.380",
+      "text": "l'esprit du public d'aller d'ici quelques décennies passer un week-end sur la lune ou sur mars les premiers vols"
+    },
+    {
+      "id": 23,
+      "start": 140.38,
+      "end": 146.18,
+      "start_timestamp": "00:02:20.380",
+      "end_timestamp": "00:02:26.180",
+      "text": "paraboliques puis orbitaux les calculs de trajectoire l'envoi de sonde lunaire tout commence dans un monde"
+    },
+    {
+      "id": 24,
+      "start": 146.18,
+      "end": 152.86,
+      "start_timestamp": "00:02:26.180",
+      "end_timestamp": "00:02:32.860",
+      "text": "analogique où les calculs sont faits à la main avant que peu à peu un rudimentaire numérique ne se fasse sa place"
+    },
+    {
+      "id": 25,
+      "start": 152.86,
+      "end": 159.14,
+      "start_timestamp": "00:02:32.860",
+      "end_timestamp": "00:02:39.140",
+      "text": "cette vidéo fait partie d'une série qui retrace les technologies et techniques spatiales des années 50 qui"
+    },
+    {
+      "id": 26,
+      "start": 159.14,
+      "end": 171.57,
+      "start_timestamp": "00:02:39.140",
+      "end_timestamp": "00:02:51.570",
+      "text": "précèdent et ont rendu possible l'émission Apollo des années 60 on a déjà vu le travail des"
+    },
+    {
+      "id": 27,
+      "start": 171.57,
+      "end": 175.93,
+      "start_timestamp": "00:02:51.570",
+      "end_timestamp": "00:02:55.930",
+      "text": "calculatrices humaines de la nasa et quelques uns des mécanismes des sondes lunaires soviétiques et"
+    },
+    {
+      "id": 28,
+      "start": 175.93,
+      "end": 181.41,
+      "start_timestamp": "00:02:55.930",
+      "end_timestamp": "00:03:01.410",
+      "text": "américaines et notamment comment était prise et envoyé les premières photos spatiales aujourd'hui"
+    },
+    {
+      "id": 29,
+      "start": 181.41,
+      "end": 187.15,
+      "start_timestamp": "00:03:01.410",
+      "end_timestamp": "00:03:07.150",
+      "text": "on continue tout ça en parlant stabilisation refroidissement ordinateur embarqué et on va"
+    },
+    {
+      "id": 30,
+      "start": 187.15,
+      "end": 193.25,
+      "start_timestamp": "00:03:07.150",
+      "end_timestamp": "00:03:13.250",
+      "text": "approfondir quelques points que vous avez soulevé en commentaire et on va aller un petit peu plus"
+    },
+    {
+      "id": 31,
+      "start": 193.25,
+      "end": 198.71,
+      "start_timestamp": "00:03:13.250",
+      "end_timestamp": "00:03:18.710",
+      "text": "loin dans la technique aussi nous revoilà donc au début de la course à l'espace des deux côtés du"
+    },
+    {
+      "id": 32,
+      "start": 198.71,
+      "end": 202.97,
+      "start_timestamp": "00:03:18.710",
+      "end_timestamp": "00:03:22.970",
+      "text": "globe le but est de prouver sa supériorité technique et militaire et par là même la"
+    },
+    {
+      "id": 33,
+      "start": 202.97,
+      "end": 207.73,
+      "start_timestamp": "00:03:22.970",
+      "end_timestamp": "00:03:27.730",
+      "text": "supériorité de son modèle de société pour ça les guerres d'influence géopolitique par"
+    },
+    {
+      "id": 34,
+      "start": 207.73,
+      "end": 213.61,
+      "start_timestamp": "00:03:27.730",
+      "end_timestamp": "00:03:33.610",
+      "text": "procuration et pays interposés comme au vietnam sont un bon début mais l'objectif ultime c'est"
+    },
+    {
+      "id": 35,
+      "start": 213.61,
+      "end": 220.17,
+      "start_timestamp": "00:03:33.610",
+      "end_timestamp": "00:03:40.170",
+      "text": "l'espace et surtout la lune dans cette compétition de kick à la plus grosse l'union soviétique a"
+    },
+    {
+      "id": 36,
+      "start": 220.17,
+      "end": 224.53,
+      "start_timestamp": "00:03:40.170",
+      "end_timestamp": "00:03:44.530",
+      "text": "remporté la première manche avec la mise sur orbite de spoutnik 1 et 2 alors que les usa"
+    },
+    {
+      "id": 37,
+      "start": 224.53,
+      "end": 230.05,
+      "start_timestamp": "00:03:44.530",
+      "end_timestamp": "00:03:50.050",
+      "text": "enchaînent ceux d'artifices géants et autres échecs et dans la course à la lune le bloc de"
+    },
+    {
+      "id": 38,
+      "start": 230.05,
+      "end": 236.13,
+      "start_timestamp": "00:03:50.050",
+      "end_timestamp": "00:03:56.130",
+      "text": "l'est reste en tête grâce aux premières photos de la face cachée prise par sa sonde luna 3 dans"
+    },
+    {
+      "id": 39,
+      "start": 236.13,
+      "end": 240.41,
+      "start_timestamp": "00:03:56.130",
+      "end_timestamp": "00:04:00.410",
+      "text": "la précédente vidéo on avait vu comment les bolomètres servaient à repérer la relative"
+    },
+    {
+      "id": 40,
+      "start": 240.41,
+      "end": 244.61,
+      "start_timestamp": "00:04:00.410",
+      "end_timestamp": "00:04:04.610",
+      "text": "chaleur de la terre dans le vide spatial pour orienter les sondes au début de leur mission"
+    },
+    {
+      "id": 41,
+      "start": 244.61,
+      "end": 249.89,
+      "start_timestamp": "00:04:04.610",
+      "end_timestamp": "00:04:09.890",
+      "text": "sauf que je vous ai pas détaillé comment ça se passait dans la suite de la mission pour"
+    },
+    {
+      "id": 42,
+      "start": 249.89,
+      "end": 256.09,
+      "start_timestamp": "00:04:09.890",
+      "end_timestamp": "00:04:16.090",
+      "text": "conserver cette orientation ce cap immuable auquel se référer c'est donc le moment de faire un"
+    },
+    {
+      "id": 43,
+      "start": 256.09,
+      "end": 261.13,
+      "start_timestamp": "00:04:16.090",
+      "end_timestamp": "00:04:21.130",
+      "text": "peu de physique pour orienter un objet sur terre en général c'est assez simple il suffit de le"
+    },
+    {
+      "id": 44,
+      "start": 261.13,
+      "end": 266.84,
+      "start_timestamp": "00:04:21.130",
+      "end_timestamp": "00:04:26.840",
+      "text": "pousser ou de le tourner dans la direction que vous voulez ouais je sais on commence avec du très"
+    },
+    {
+      "id": 45,
+      "start": 266.84,
+      "end": 271.0,
+      "start_timestamp": "00:04:26.840",
+      "end_timestamp": "00:04:31.000",
+      "text": "technique mais bon accrochez vous c'est que le début pour pousser l'armoire normande de mémé"
+    },
+    {
+      "id": 46,
+      "start": 271.0,
+      "end": 276.08,
+      "start_timestamp": "00:04:31.000",
+      "end_timestamp": "00:04:36.080",
+      "text": "vous caler bien vos pieds et vous forcer comme un bourrin alors que pour pousser mémé dans les"
+    },
+    {
+      "id": 47,
+      "start": 276.08,
+      "end": 281.24,
+      "start_timestamp": "00:04:36.080",
+      "end_timestamp": "00:04:41.240",
+      "text": "orties ou ailleurs il suffit d'une pichenette sur son fauteuil roulant masse différente frottement"
+    },
+    {
+      "id": 48,
+      "start": 281.24,
+      "end": 287.28,
+      "start_timestamp": "00:04:41.240",
+      "end_timestamp": "00:04:47.280",
+      "text": "différent force à exercer différentes mais dans les deux cas vous êtes vous aussi repoussé dans"
+    },
+    {
+      "id": 49,
+      "start": 287.28,
+      "end": 292.12,
+      "start_timestamp": "00:04:47.280",
+      "end_timestamp": "00:04:52.120",
+      "text": "l'autre sens c'est la loi d'action réaction appelée aussi principe des actions réciproques"
+    },
+    {
+      "id": 50,
+      "start": 292.12,
+      "end": 298.2,
+      "start_timestamp": "00:04:52.120",
+      "end_timestamp": "00:04:58.200",
+      "text": "ou encore la troisième loi de newton qui dit que l'action est toujours égale et opposée à la"
+    },
+    {
+      "id": 51,
+      "start": 298.2,
+      "end": 302.96,
+      "start_timestamp": "00:04:58.200",
+      "end_timestamp": "00:05:02.960",
+      "text": "réaction c'est à dire que les actions de deux corps l'un sur l'autre sont toujours égales et"
+    },
+    {
+      "id": 52,
+      "start": 302.96,
+      "end": 307.84,
+      "start_timestamp": "00:05:02.960",
+      "end_timestamp": "00:05:07.840",
+      "text": "dans des directions contraires ça peut être étrange à se représenter mais si on considère"
+    },
+    {
+      "id": 53,
+      "start": 307.84,
+      "end": 312.52,
+      "start_timestamp": "00:05:07.840",
+      "end_timestamp": "00:05:12.520",
+      "text": "les vecteurs de force quand vous poussez l'armoire et ben elle aussi vous pousse dans l'autre sens"
+    },
+    {
+      "id": 54,
+      "start": 312.52,
+      "end": 317.72,
+      "start_timestamp": "00:05:12.520",
+      "end_timestamp": "00:05:17.720",
+      "text": "pour votre mémé à roulette la force à exercer est moindre mais vous devez quand même pousser pour"
+    },
+    {
+      "id": 55,
+      "start": 317.72,
+      "end": 323.48,
+      "start_timestamp": "00:05:17.720",
+      "end_timestamp": "00:05:23.480",
+      "text": "vaincre cette réaction et vous êtes aussi repoussé en retour alors bon enfin observateur que vous"
+    },
+    {
+      "id": 56,
+      "start": 323.48,
+      "end": 328.44,
+      "start_timestamp": "00:05:23.480",
+      "end_timestamp": "00:05:28.440",
+      "text": "êtes vous aurez noté que si vous pouvez exercer ses forces sur mémé et son armoire c'est parce"
+    },
+    {
+      "id": 57,
+      "start": 328.44,
+      "end": 332.8,
+      "start_timestamp": "00:05:28.440",
+      "end_timestamp": "00:05:32.800",
+      "text": "que vous avez des points d'appui solides au sol avec des points d'appui plus faibles le problème"
+    },
+    {
+      "id": 58,
+      "start": 332.8,
+      "end": 337.4,
+      "start_timestamp": "00:05:32.800",
+      "end_timestamp": "00:05:37.400",
+      "text": "se complique comment faire par exemple bouger un bateau ou un avion dans de l'eau ou de l'air"
+    },
+    {
+      "id": 59,
+      "start": 337.4,
+      "end": 344.2,
+      "start_timestamp": "00:05:37.400",
+      "end_timestamp": "00:05:44.200",
+      "text": "par nature très peu consistant bah là aussi en utilisant le principe d'action réaction c'est"
+    },
+    {
+      "id": 60,
+      "start": 344.2,
+      "end": 348.4,
+      "start_timestamp": "00:05:44.200",
+      "end_timestamp": "00:05:48.400",
+      "text": "comme ça que fonctionnent les hélices avec leur forme et en tournant très vite elle pousse le"
+    },
+    {
+      "id": 61,
+      "start": 348.4,
+      "end": 353.76,
+      "start_timestamp": "00:05:48.400",
+      "end_timestamp": "00:05:53.760",
+      "text": "fluide vers l'arrière qui en réaction pousse l'hélice vers l'avant et donc l'avion ou le"
+    },
+    {
+      "id": 62,
+      "start": 353.76,
+      "end": 358.4,
+      "start_timestamp": "00:05:53.760",
+      "end_timestamp": "00:05:58.400",
+      "text": "bateau avec et oui je sais il y a aussi un effet de portance sur les pales des hélices d'avion mais"
+    },
+    {
+      "id": 63,
+      "start": 358.4,
+      "end": 363.96,
+      "start_timestamp": "00:05:58.400",
+      "end_timestamp": "00:06:03.960",
+      "text": "même sans ça fonctionne quand même et de toute façon c'est pas le sujet bref au sol dans l'air"
+    },
+    {
+      "id": 64,
+      "start": 363.96,
+      "end": 370.4,
+      "start_timestamp": "00:06:03.960",
+      "end_timestamp": "00:06:10.400",
+      "text": "et dans l'eau on a un support on s'appuie dessus et ça avance le problème va se poser dans l'espace"
+    },
+    {
+      "id": 65,
+      "start": 370.4,
+      "end": 375.0,
+      "start_timestamp": "00:06:10.400",
+      "end_timestamp": "00:06:15.000",
+      "text": "où vous n'avez rien pour vous appuyer tant que vous allez tout droit c'est pas grave vous êtes"
+    },
+    {
+      "id": 66,
+      "start": 375.0,
+      "end": 380.28,
+      "start_timestamp": "00:06:15.000",
+      "end_timestamp": "00:06:20.280",
+      "text": "lancé et rien ne vous freine vous pouvez continuer une éternité ou deux tant que vous ne rencontrez"
+    },
+    {
+      "id": 67,
+      "start": 380.28,
+      "end": 387.28,
+      "start_timestamp": "00:06:20.280",
+      "end_timestamp": "00:06:27.280",
+      "text": "pas d'obstacles en revanche si vous voulez effectuer des manoeuvres bah là ça se complique mais prenons"
+    },
+    {
+      "id": 68,
+      "start": 387.28,
+      "end": 391.6,
+      "start_timestamp": "00:06:27.280",
+      "end_timestamp": "00:06:31.600",
+      "text": "les choses dans l'ordre si on remonte aux premières et plus rudimentaires sondes lunaires"
+    },
+    {
+      "id": 69,
+      "start": 391.6,
+      "end": 396.56,
+      "start_timestamp": "00:06:31.600",
+      "end_timestamp": "00:06:36.560",
+      "text": "qui étaient l'une à 1 et 2 lancées par les soviétiques le but était juste d'aller s'écraser"
+    },
+    {
+      "id": 70,
+      "start": 396.56,
+      "end": 401.24,
+      "start_timestamp": "00:06:36.560",
+      "end_timestamp": "00:06:41.240",
+      "text": "sur la lune en transmettant des données en cours de route le contrôle de trajectoire est le même que"
+    },
+    {
+      "id": 71,
+      "start": 401.24,
+      "end": 408.32,
+      "start_timestamp": "00:06:41.240",
+      "end_timestamp": "00:06:48.320",
+      "text": "pour un boulet de canon il n'y en a pas on envoie des objets balistiques livrés à eux-mêmes et des"
+    },
+    {
+      "id": 72,
+      "start": 408.32,
+      "end": 414.84,
+      "start_timestamp": "00:06:48.320",
+      "end_timestamp": "00:06:54.840",
+      "text": "merdones zizich enfin c'était pas vraiment des boulet de canon disons plutôt des balles de fusil"
+    },
+    {
+      "id": 73,
+      "start": 414.84,
+      "end": 419.68,
+      "start_timestamp": "00:06:54.840",
+      "end_timestamp": "00:06:59.680",
+      "text": "à cause de la stabilisation gyroscopique c'est le fait de faire tourner un projectile sur lui-même"
+    },
+    {
+      "id": 74,
+      "start": 419.68,
+      "end": 423.76,
+      "start_timestamp": "00:06:59.680",
+      "end_timestamp": "00:07:03.760",
+      "text": "et en l'occurrence faire tourner les sondes sur elles-mêmes pour stabiliser leur trajectoire et"
+    },
+    {
+      "id": 75,
+      "start": 423.76,
+      "end": 428.28,
+      "start_timestamp": "00:07:03.760",
+      "end_timestamp": "00:07:08.280",
+      "text": "leurs mouvements le but est de corriger diverses perturbations d'orientation comme celle dû au"
+    },
+    {
+      "id": 76,
+      "start": 428.28,
+      "end": 434.28,
+      "start_timestamp": "00:07:08.280",
+      "end_timestamp": "00:07:14.280",
+      "text": "largage à la gravité terrestre au champ magnétique ou à la pression des radiations solaires des forces"
+    },
+    {
+      "id": 77,
+      "start": 434.28,
+      "end": 440.2,
+      "start_timestamp": "00:07:14.280",
+      "end_timestamp": "00:07:20.200",
+      "text": "individuellement très faibles mais qui cumulés peuvent perturber l'alignement des sondes et comme"
+    },
+    {
+      "id": 78,
+      "start": 440.2,
+      "end": 445.32,
+      "start_timestamp": "00:07:20.200",
+      "end_timestamp": "00:07:25.320",
+      "text": "l'un à un et deux n'ont aucun système de contrôle embarqué cette rotation ou spin était"
+    },
+    {
+      "id": 79,
+      "start": 445.32,
+      "end": 450.16,
+      "start_timestamp": "00:07:25.320",
+      "end_timestamp": "00:07:30.160",
+      "text": "impulsée lors de la séparation avec l'étage de la fusée le voyage ne durant que quelques"
+    },
+    {
+      "id": 80,
+      "start": 450.16,
+      "end": 455.0,
+      "start_timestamp": "00:07:30.160",
+      "end_timestamp": "00:07:35.000",
+      "text": "dizaines d'heures un spin assez lent était suffisant pour contrôler la trajectoire de"
+    },
+    {
+      "id": 81,
+      "start": 455.0,
+      "end": 460.48,
+      "start_timestamp": "00:07:35.000",
+      "end_timestamp": "00:07:40.480",
+      "text": "l'ordre du tour par quart d'heure il n'était pas question d'orienter une antenne ou quoi que ce soit"
+    },
+    {
+      "id": 82,
+      "start": 460.48,
+      "end": 464.96,
+      "start_timestamp": "00:07:40.480",
+      "end_timestamp": "00:07:44.960",
+      "text": "d'autre les deux sondes étant équipés d'antennes omnidirectionnelles pour transmettre des données"
+    },
+    {
+      "id": 83,
+      "start": 464.96,
+      "end": 470.72,
+      "start_timestamp": "00:07:44.960",
+      "end_timestamp": "00:07:50.720",
+      "text": "télémétriques vers la terre. L'intérêt du spin est juste de stabiliser et d'expérimenter la mise"
+    },
+    {
+      "id": 84,
+      "start": 470.72,
+      "end": 474.96,
+      "start_timestamp": "00:07:50.720",
+      "end_timestamp": "00:07:54.960",
+      "text": "en place de nouvelles techniques pour les missions suivantes en particulier quand il faudra diriger"
+    },
+    {
+      "id": 85,
+      "start": 474.96,
+      "end": 480.0,
+      "start_timestamp": "00:07:54.960",
+      "end_timestamp": "00:08:00.000",
+      "text": "précisément la sonde pour réaliser des photos lunaires. Donc avec l'un à un et deux on sait"
+    },
+    {
+      "id": 86,
+      "start": 480.0,
+      "end": 484.04,
+      "start_timestamp": "00:08:00.000",
+      "end_timestamp": "00:08:04.040",
+      "text": "donner un spin à une sonde qui va en ligne droite mais on n'intervient plus une fois les impulsions"
+    },
+    {
+      "id": 87,
+      "start": 484.04,
+      "end": 490.04,
+      "start_timestamp": "00:08:04.040",
+      "end_timestamp": "00:08:10.040",
+      "text": "initiales données. Les choses changent avec l'un à trois. La sonde devient plus grosse, plus lourde,"
+    },
+    {
+      "id": 88,
+      "start": 490.16,
+      "end": 495.04,
+      "start_timestamp": "00:08:10.160",
+      "end_timestamp": "00:08:15.040",
+      "text": "plus complexe et doit prendre des photos de la lune. Elle utilise toujours un spin lent pour"
+    },
+    {
+      "id": 89,
+      "start": 495.04,
+      "end": 499.04,
+      "start_timestamp": "00:08:15.040",
+      "end_timestamp": "00:08:19.040",
+      "text": "se stabiliser mais a besoin de plus d'énergie pour ses systèmes ce qui explique d'ailleurs"
+    },
+    {
+      "id": 90,
+      "start": 499.04,
+      "end": 504.04,
+      "start_timestamp": "00:08:19.040",
+      "end_timestamp": "00:08:24.040",
+      "text": "qu'elle soit couverte de cellules photovoltaïques sur toute sa périphérie. Pourtant maintenant ce"
+    },
+    {
+      "id": 91,
+      "start": 504.04,
+      "end": 509.24,
+      "start_timestamp": "00:08:24.040",
+      "end_timestamp": "00:08:29.240",
+      "text": "spin pose deux problèmes. D'abord ça nécessite que la sonde soit parfaitement équilibrée. Pour"
+    },
+    {
+      "id": 92,
+      "start": 509.24,
+      "end": 513.44,
+      "start_timestamp": "00:08:29.240",
+      "end_timestamp": "00:08:33.440",
+      "text": "ça et une fois tous les instruments installés, l'appareil est mis en rotation pour des tests"
+    },
+    {
+      "id": 93,
+      "start": 513.44,
+      "end": 518.8,
+      "start_timestamp": "00:08:33.440",
+      "end_timestamp": "00:08:38.800",
+      "text": "d'équilibrage. Et comme on équilibre une roue de voiture, des poids sont ajoutés et ajustés pour"
+    },
+    {
+      "id": 94,
+      "start": 518.8,
+      "end": 522.96,
+      "start_timestamp": "00:08:38.800",
+      "end_timestamp": "00:08:42.960",
+      "text": "garantir une rotation optimale. L'autre problème c'est que tourner sur soi-même pour prendre des"
+    },
+    {
+      "id": 95,
+      "start": 522.96,
+      "end": 528.56,
+      "start_timestamp": "00:08:42.960",
+      "end_timestamp": "00:08:48.560",
+      "text": "photos c'est pas idéal pour avoir des clichés nets et surtout pour cartographier la lune zone"
+    },
+    {
+      "id": 96,
+      "start": 528.56,
+      "end": 534.44,
+      "start_timestamp": "00:08:48.560",
+      "end_timestamp": "00:08:54.440",
+      "text": "par zone. Il faut donc pour cette étape de la mission stopper le spin de l'un à trois. Un seul"
+    },
+    {
+      "id": 97,
+      "start": 534.44,
+      "end": 539.52,
+      "start_timestamp": "00:08:54.440",
+      "end_timestamp": "00:08:59.520",
+      "text": "moyen pour ça, exercer une force opposée à la rotation. Et comme dans l'espace on ne peut s'appuyer"
+    },
+    {
+      "id": 98,
+      "start": 539.52,
+      "end": 544.72,
+      "start_timestamp": "00:08:59.520",
+      "end_timestamp": "00:09:04.720",
+      "text": "sur rien, le plus simple est d'utiliser de petits jets de gaz. C'est la seconde façon d'orienter et"
+    },
+    {
+      "id": 99,
+      "start": 544.72,
+      "end": 549.16,
+      "start_timestamp": "00:09:04.720",
+      "end_timestamp": "00:09:09.160",
+      "text": "stabiliser un engin spatial. Le principe est le même qu'avec les ballons de Beaudruche remplis"
+    },
+    {
+      "id": 100,
+      "start": 549.16,
+      "end": 553.36,
+      "start_timestamp": "00:09:09.160",
+      "end_timestamp": "00:09:13.360",
+      "text": "de bave que votre petit neveu Casbonbon fait voler au travers de la pièce à chaque fête de famille."
+    },
+    {
+      "id": 101,
+      "start": 553.36,
+      "end": 558.36,
+      "start_timestamp": "00:09:13.360",
+      "end_timestamp": "00:09:18.360",
+      "text": "Un gaz s'échappe vers l'arrière d'un objet et comme il y a un mouvement, il y a aussi une force"
+    },
+    {
+      "id": 102,
+      "start": 558.36,
+      "end": 564.0,
+      "start_timestamp": "00:09:18.360",
+      "end_timestamp": "00:09:24.000",
+      "text": "contraire vers l'avant. Le ballon est poussé dans la direction opposée à celle du gaz. Ces"
+    },
+    {
+      "id": 103,
+      "start": 564.0,
+      "end": 568.44,
+      "start_timestamp": "00:09:24.000",
+      "end_timestamp": "00:09:28.440",
+      "text": "systèmes de contrôle d'orientation sont dits à gaz froid parce qu'ils ne font qu'envoyer des jets"
+    },
+    {
+      "id": 104,
+      "start": 568.44,
+      "end": 573.82,
+      "start_timestamp": "00:09:28.440",
+      "end_timestamp": "00:09:33.820",
+      "text": "de gaz pour générer une petite poussée sans combustion. Embarqués en quantités très limitées,"
+    },
+    {
+      "id": 105,
+      "start": 573.82,
+      "end": 578.94,
+      "start_timestamp": "00:09:33.820",
+      "end_timestamp": "00:09:38.940",
+      "text": "ils ne sont pas destinés à accélérer, ralentir ou déplacer la sonde mais seulement à la faire"
+    },
+    {
+      "id": 106,
+      "start": 578.94,
+      "end": 584.78,
+      "start_timestamp": "00:09:38.940",
+      "end_timestamp": "00:09:44.780",
+      "text": "pivoter. Ceci étant et comme on est dans l'espace tout pose problème. Il faut être précis pour"
+    },
+    {
+      "id": 107,
+      "start": 584.78,
+      "end": 590.46,
+      "start_timestamp": "00:09:44.780",
+      "end_timestamp": "00:09:50.460",
+      "text": "envoyer exactement la quantité de gaz nécessaire. Sinon soit la sonde continue de tourner mais un"
+    },
+    {
+      "id": 108,
+      "start": 590.46,
+      "end": 595.86,
+      "start_timestamp": "00:09:50.460",
+      "end_timestamp": "00:09:55.860",
+      "text": "peu moins vite soit elle va tourner dans l'autre sens. Et c'est là qu'interviennent les gyroscopes"
+    },
+    {
+      "id": 109,
+      "start": 595.86,
+      "end": 600.94,
+      "start_timestamp": "00:09:55.860",
+      "end_timestamp": "00:10:00.940",
+      "text": "et plus précisément les centrales inertielles. Et on va y aller par étapes en commençant par"
+    },
+    {
+      "id": 110,
+      "start": 601.02,
+      "end": 605.94,
+      "start_timestamp": "00:10:01.020",
+      "end_timestamp": "00:10:05.940",
+      "text": "c'est quoi un gyroscope ? Basiquement c'est un disque qui tourne très rapidement sur un"
+    },
+    {
+      "id": 111,
+      "start": 605.94,
+      "end": 610.5,
+      "start_timestamp": "00:10:05.940",
+      "end_timestamp": "00:10:10.500",
+      "text": "axe perpendiculaire à son plan. Pour visualiser c'est comme une roue de vélo qui tourne sur"
+    },
+    {
+      "id": 112,
+      "start": 610.5,
+      "end": 616.58,
+      "start_timestamp": "00:10:10.500",
+      "end_timestamp": "00:10:16.580",
+      "text": "son moyeu ou une toupie plate. Et du fait de cette rotation, le gyroscope va toujours rester aligné"
+    },
+    {
+      "id": 113,
+      "start": 616.58,
+      "end": 621.58,
+      "start_timestamp": "00:10:16.580",
+      "end_timestamp": "00:10:21.580",
+      "text": "dans la même direction pour conserver son moment angulaire. C'est à dire en gros l'élan de sa"
+    },
+    {
+      "id": 114,
+      "start": 621.58,
+      "end": 626.5,
+      "start_timestamp": "00:10:21.580",
+      "end_timestamp": "00:10:26.500",
+      "text": "rotation. Pour l'explication physique simplifiée vous avez un premier vecteur qui va de l'axe"
+    },
+    {
+      "id": 115,
+      "start": 626.5,
+      "end": 631.42,
+      "start_timestamp": "00:10:26.500",
+      "end_timestamp": "00:10:31.420",
+      "text": "vers l'extérieur du disque. Ensuite un vecteur tangent au disque qui représente le mouvement de"
+    },
+    {
+      "id": 116,
+      "start": 631.42,
+      "end": 636.02,
+      "start_timestamp": "00:10:31.420",
+      "end_timestamp": "00:10:36.020",
+      "text": "rotation lui-même. Enfin pour être exact c'est pas un vecteur mais des vecteurs qui s'appliquent"
+    },
+    {
+      "id": 117,
+      "start": 636.02,
+      "end": 641.34,
+      "start_timestamp": "00:10:36.020",
+      "end_timestamp": "00:10:41.340",
+      "text": "en chaque point du gyroscope mais bon bref. Ces vecteurs en créent un troisième, perpendiculaire,"
+    },
+    {
+      "id": 118,
+      "start": 641.34,
+      "end": 647.06,
+      "start_timestamp": "00:10:41.340",
+      "end_timestamp": "00:10:47.060",
+      "text": "qui part du centre de rotation. C'est cet ensemble de force qui stabilise le rotor et le force à"
+    },
+    {
+      "id": 119,
+      "start": 647.06,
+      "end": 652.34,
+      "start_timestamp": "00:10:47.060",
+      "end_timestamp": "00:10:52.340",
+      "text": "s'orienter toujours dans la même direction. Le rotor résistera donc si vous essayez de changer"
+    },
+    {
+      "id": 120,
+      "start": 652.34,
+      "end": 656.7,
+      "start_timestamp": "00:10:52.340",
+      "end_timestamp": "00:10:56.700",
+      "text": "son orientation et c'est de cette caractéristique que les ingénieurs vont tirer parti."
+    },
+    {
+      "id": 121,
+      "start": 656.7,
+      "end": 660.98,
+      "start_timestamp": "00:10:56.700",
+      "end_timestamp": "00:11:00.980",
+      "text": "Alors bien sûr pour faire tourner cette toupie dans la sonde, on n'a pas un technicien qui va"
+    },
+    {
+      "id": 122,
+      "start": 660.98,
+      "end": 665.46,
+      "start_timestamp": "00:11:00.980",
+      "end_timestamp": "00:11:05.460",
+      "text": "lancer sa béblaide avant le décollage en espérant qu'elle dure toute la mission. Un simple moteur"
+    },
+    {
+      "id": 123,
+      "start": 665.46,
+      "end": 670.42,
+      "start_timestamp": "00:11:05.460",
+      "end_timestamp": "00:11:10.420",
+      "text": "électrique fait très bien le travail. Mais c'est pas encore fini. On a notre rotor qui reste toujours"
+    },
+    {
+      "id": 124,
+      "start": 670.42,
+      "end": 674.9,
+      "start_timestamp": "00:11:10.420",
+      "end_timestamp": "00:11:14.900",
+      "text": "aligné sur le même axe. Ça nous fait un repère constant auquel se référer. Ça permet de savoir"
+    },
+    {
+      "id": 125,
+      "start": 674.9,
+      "end": 681.82,
+      "start_timestamp": "00:11:14.900",
+      "end_timestamp": "00:11:21.820",
+      "text": "si la sonde tourne sur elle-même ou pas, dans quel sens et à quelle vitesse. Mais comment faire la"
+    },
+    {
+      "id": 126,
+      "start": 681.82,
+      "end": 687.58,
+      "start_timestamp": "00:11:21.820",
+      "end_timestamp": "00:11:27.580",
+      "text": "liaison entre le rotor et la sonde ? Ça c'est le rôle des cardans. Chaque cardan représente un"
+    },
+    {
+      "id": 127,
+      "start": 687.58,
+      "end": 693.26,
+      "start_timestamp": "00:11:27.580",
+      "end_timestamp": "00:11:33.260",
+      "text": "axe de rotation. La sonde peut tournoyer presque comme elle veut. Le rotor gardera toujours la"
+    },
+    {
+      "id": 128,
+      "start": 693.26,
+      "end": 699.42,
+      "start_timestamp": "00:11:33.260",
+      "end_timestamp": "00:11:39.420",
+      "text": "même orientation. Et ce presque, on en reparlera dans une future vidéo avec Apollo et le Gimbal"
+    },
+    {
+      "id": 129,
+      "start": 699.42,
+      "end": 703.78,
+      "start_timestamp": "00:11:39.420",
+      "end_timestamp": "00:11:43.780",
+      "text": "Lock. Bref, voilà pour la théorie mais concrètement, une fois placé dans la sonde,"
+    },
+    {
+      "id": 130,
+      "start": 703.78,
+      "end": 708.78,
+      "start_timestamp": "00:11:43.780",
+      "end_timestamp": "00:11:48.780",
+      "text": "ça fonctionne comment ? Il faut commencer par mesurer sur chaque axe, donc pour chaque cardan,"
+    },
+    {
+      "id": 131,
+      "start": 708.78,
+      "end": 713.98,
+      "start_timestamp": "00:11:48.780",
+      "end_timestamp": "00:11:53.980",
+      "text": "son inclinaison par rapport au rotor central. Et si cet angle est trop important, on applique"
+    },
+    {
+      "id": 132,
+      "start": 713.98,
+      "end": 718.3,
+      "start_timestamp": "00:11:53.980",
+      "end_timestamp": "00:11:58.300",
+      "text": "les corrections nécessaires avec les jets de gaz. Plusieurs méthodes existaient et les archives ne"
+    },
+    {
+      "id": 133,
+      "start": 718.3,
+      "end": 722.86,
+      "start_timestamp": "00:11:58.300",
+      "end_timestamp": "00:12:02.860",
+      "text": "mentionnent pas directement laquelle était utilisée. L'angle de chaque cardan pouvait être mesuré"
+    },
+    {
+      "id": 134,
+      "start": 722.86,
+      "end": 727.46,
+      "start_timestamp": "00:12:02.860",
+      "end_timestamp": "00:12:07.460",
+      "text": "selon sa position avec un potentiomètre ou avec des bobines et une détection par champ magnétique."
+    },
+    {
+      "id": 135,
+      "start": 727.46,
+      "end": 732.1,
+      "start_timestamp": "00:12:07.460",
+      "end_timestamp": "00:12:12.100",
+      "text": "Il y a aussi la possibilité qu'au lieu d'un gyroscope mesurant trois axes, le système ait été"
+    },
+    {
+      "id": 136,
+      "start": 732.1,
+      "end": 738.06,
+      "start_timestamp": "00:12:12.100",
+      "end_timestamp": "00:12:18.060",
+      "text": "composé de trois gyroscopes mesurant chacun l'écart à un axe. Mais bon, le principe reste le même."
+    },
+    {
+      "id": 137,
+      "start": 738.06,
+      "end": 743.22,
+      "start_timestamp": "00:12:18.060",
+      "end_timestamp": "00:12:23.220",
+      "text": "Parce qu'il est techniquement simple et évident, ce mécanisme se retrouve dans les sondes des deux"
+    },
+    {
+      "id": 138,
+      "start": 743.22,
+      "end": 747.54,
+      "start_timestamp": "00:12:23.220",
+      "end_timestamp": "00:12:27.540",
+      "text": "grandes puissances. D'ailleurs, à défaut des plans détaillés soviétiques, voici une partie"
+    },
+    {
+      "id": 139,
+      "start": 747.54,
+      "end": 752.46,
+      "start_timestamp": "00:12:27.540",
+      "end_timestamp": "00:12:32.460",
+      "text": "des schémas logiques de la sonde américaine Ranger 3. Comme pour les sondes Luna, on a des capteurs"
+    },
+    {
+      "id": 140,
+      "start": 752.46,
+      "end": 757.38,
+      "start_timestamp": "00:12:32.460",
+      "end_timestamp": "00:12:37.380",
+      "text": "de valeur sur les gyroscopes qui renvoient l'info à des relais et on active les microvalves à gaz"
+    },
+    {
+      "id": 141,
+      "start": 757.38,
+      "end": 763.1,
+      "start_timestamp": "00:12:37.380",
+      "end_timestamp": "00:12:43.100",
+      "text": "pour modifier l'orientation. Ah d'ailleurs, j'en profite, permettez que je vous offre quelques"
+    },
+    {
+      "id": 142,
+      "start": 763.1,
+      "end": 767.62,
+      "start_timestamp": "00:12:43.100",
+      "end_timestamp": "00:12:47.620",
+      "text": "instants de condescendance. En trois minutes de Google, vous trouvez les documents d'époque des"
+    },
+    {
+      "id": 143,
+      "start": 767.62,
+      "end": 771.58,
+      "start_timestamp": "00:12:47.620",
+      "end_timestamp": "00:12:51.580",
+      "text": "systèmes de contrôle des sondes Ranger avec les schémas électriques, les valeurs de seuil des"
+    },
+    {
+      "id": 144,
+      "start": 771.58,
+      "end": 777.06,
+      "start_timestamp": "00:12:51.580",
+      "end_timestamp": "00:12:57.060",
+      "text": "capteurs, les calculs et 112 pages de données techniques. Et ça vaut pour l'ensemble des"
+    },
+    {
+      "id": 145,
+      "start": 777.06,
+      "end": 781.62,
+      "start_timestamp": "00:12:57.060",
+      "end_timestamp": "00:13:01.620",
+      "text": "programmes spatio-américains. Alors arrêtez de péter les couilles avec vos niais niais on n'a plus"
+    },
+    {
+      "id": 146,
+      "start": 781.62,
+      "end": 786.02,
+      "start_timestamp": "00:13:01.620",
+      "end_timestamp": "00:13:06.020",
+      "text": "les plans et on sait plus faire ça parce qu'en vrai ça a jamais existé. On sait plus faire ces"
+    },
+    {
+      "id": 147,
+      "start": 786.02,
+      "end": 790.46,
+      "start_timestamp": "00:13:06.020",
+      "end_timestamp": "00:13:10.460",
+      "text": "engins pour la même raison que l'usine Renault de Sandouville ne peut plus refaire le carburant de"
+    },
+    {
+      "id": 148,
+      "start": 790.46,
+      "end": 795.86,
+      "start_timestamp": "00:13:10.460",
+      "end_timestamp": "00:13:15.860",
+      "text": "la 4L de votre grand-père. Soyez un peu plus intelligent que les débiles qui vous rabâchent"
+    },
+    {
+      "id": 149,
+      "start": 795.86,
+      "end": 801.54,
+      "start_timestamp": "00:13:15.860",
+      "end_timestamp": "00:13:21.540",
+      "text": "leurs théories foireuses et faites vos propres recherches comme on dit par chez vous. Mais revenons"
+    },
+    {
+      "id": 150,
+      "start": 801.54,
+      "end": 807.74,
+      "start_timestamp": "00:13:21.540",
+      "end_timestamp": "00:13:27.740",
+      "text": "à nos capteurs, gyroscopes et propulseurs à gaz. Tout ceci est géré par les ordinateurs de bord"
+    },
+    {
+      "id": 151,
+      "start": 807.74,
+      "end": 815.66,
+      "start_timestamp": "00:13:27.740",
+      "end_timestamp": "00:13:35.660",
+      "text": "dont on va parler après ces trois anecdotes et donc… à colate. Eh oh oh eh ? Quoi ? Tu crois vraiment"
+    },
+    {
+      "id": 152,
+      "start": 815.66,
+      "end": 819.34,
+      "start_timestamp": "00:13:35.660",
+      "end_timestamp": "00:13:39.340",
+      "text": "qu'il y a un monde où j'ai pas vu la contrefaçon là ? Je vois pas de quoi vous voulez dire monsieur,"
+    },
+    {
+      "id": 153,
+      "start": 819.34,
+      "end": 823.38,
+      "start_timestamp": "00:13:39.340",
+      "end_timestamp": "00:13:43.380",
+      "text": "veuillez quitter ma vidéo. Crois surtout pas que tu vas échapper au royalties hein ? La première info"
+    },
+    {
+      "id": 154,
+      "start": 823.38,
+      "end": 827.46,
+      "start_timestamp": "00:13:43.380",
+      "end_timestamp": "00:13:47.460",
+      "text": "est en fait une autre application pratique du gyroscope. Comme je le disais, celui-ci garde"
+    },
+    {
+      "id": 155,
+      "start": 827.46,
+      "end": 832.02,
+      "start_timestamp": "00:13:47.460",
+      "end_timestamp": "00:13:52.020",
+      "text": "toujours la même orientation quelle que soit l'orientation de l'objet qui le supporte. C'est"
+    },
+    {
+      "id": 156,
+      "start": 832.02,
+      "end": 836.38,
+      "start_timestamp": "00:13:52.020",
+      "end_timestamp": "00:13:56.380",
+      "text": "ce qui sert en aviation pour avoir un horizon artificiel dans l'instrumentation. Qu'il fasse nuit,"
+    },
+    {
+      "id": 157,
+      "start": 836.38,
+      "end": 841.26,
+      "start_timestamp": "00:13:56.380",
+      "end_timestamp": "00:14:01.260",
+      "text": "brouillard ou en pleine tempête, vous êtes sûr avec ça de savoir si vous montez ou si vous"
+    },
+    {
+      "id": 158,
+      "start": 841.26,
+      "end": 845.94,
+      "start_timestamp": "00:14:01.260",
+      "end_timestamp": "00:14:05.940",
+      "text": "descendez. Ça sert aussi pour le maintien de cap. Au lieu de dire si vous montez ou descendez,"
+    },
+    {
+      "id": 159,
+      "start": 845.94,
+      "end": 851.18,
+      "start_timestamp": "00:14:05.940",
+      "end_timestamp": "00:14:11.180",
+      "text": "ça vous indique si vous déviez à droite ou à gauche de votre route. Deuxième info, un gyro,"
+    },
+    {
+      "id": 160,
+      "start": 851.18,
+      "end": 855.94,
+      "start_timestamp": "00:14:11.180",
+      "end_timestamp": "00:14:15.940",
+      "text": "une fois lancé, maintient donc son axe dans la même direction indépendamment des mouvements de"
+    },
+    {
+      "id": 161,
+      "start": 855.94,
+      "end": 860.52,
+      "start_timestamp": "00:14:15.940",
+      "end_timestamp": "00:14:20.520",
+      "text": "son support. Mettez-le en route, posez-le dans votre jardin et faites un trait au sol à la"
+    },
+    {
+      "id": 162,
+      "start": 860.52,
+      "end": 865.46,
+      "start_timestamp": "00:14:20.520",
+      "end_timestamp": "00:14:25.460",
+      "text": "craie pour noter vers où il pointe. Revenez à plusieurs moments de la journée. Dans l'hémisphère"
+    },
+    {
+      "id": 163,
+      "start": 865.46,
+      "end": 869.06,
+      "start_timestamp": "00:14:25.460",
+      "end_timestamp": "00:14:29.060",
+      "text": "nord, il semblera dériver dans le sens des aiguilles d'une montre et dans l'hémisphère sud,"
+    },
+    {
+      "id": 164,
+      "start": 869.06,
+      "end": 875.42,
+      "start_timestamp": "00:14:29.060",
+      "end_timestamp": "00:14:35.420",
+      "text": "il dérivera dans le sens contraire. De 15 degrés par heure pour être précis. Et au bout de 24 heures,"
+    },
+    {
+      "id": 165,
+      "start": 875.42,
+      "end": 881.42,
+      "start_timestamp": "00:14:35.420",
+      "end_timestamp": "00:14:41.420",
+      "text": "il pointera à nouveau dans la direction initiale. Je laisse au platiste le soin de nous expliquer"
+    },
+    {
+      "id": 166,
+      "start": 881.42,
+      "end": 886.54,
+      "start_timestamp": "00:14:41.420",
+      "end_timestamp": "00:14:46.540",
+      "text": "pourquoi. D'ailleurs, pour cette même raison, dans les avions possédant des indicateurs de cap"
+    },
+    {
+      "id": 167,
+      "start": 886.54,
+      "end": 891.42,
+      "start_timestamp": "00:14:46.540",
+      "end_timestamp": "00:14:51.420",
+      "text": "mécanique et pour les vols un peu longs ou sur de longues distances, il faut les recaler régulièrement"
+    },
+    {
+      "id": 168,
+      "start": 891.42,
+      "end": 897.86,
+      "start_timestamp": "00:14:51.420",
+      "end_timestamp": "00:14:57.860",
+      "text": "de 15 degrés par heure. Troisième info, si le gyroscope au lieu d'être libre et d'indiquer"
+    },
+    {
+      "id": 169,
+      "start": 897.86,
+      "end": 902.94,
+      "start_timestamp": "00:14:57.860",
+      "end_timestamp": "00:15:02.940",
+      "text": "une direction est solidaire de son support, il aidera à maintenir son orientation. C'est ce qui"
+    },
+    {
+      "id": 170,
+      "start": 902.94,
+      "end": 906.86,
+      "start_timestamp": "00:15:02.940",
+      "end_timestamp": "00:15:06.860",
+      "text": "sert à stabiliser les caméras sur les drones par exemple. Et avec un gyro beaucoup plus gros,"
+    },
+    {
+      "id": 171,
+      "start": 906.86,
+      "end": 914.1,
+      "start_timestamp": "00:15:06.860",
+      "end_timestamp": "00:15:14.100",
+      "text": "vous stabilisez des trucs beaucoup plus gros. Genre ce joujou de 190 tonnes destiné à limiter"
+    },
+    {
+      "id": 172,
+      "start": 914.1,
+      "end": 918.94,
+      "start_timestamp": "00:15:14.100",
+      "end_timestamp": "00:15:18.940",
+      "text": "le tangage d'un porte-avions japonais au début des années 40. Fin de la collade."
+    },
+    {
+      "id": 173,
+      "start": 918.94,
+      "end": 923.58,
+      "start_timestamp": "00:15:18.940",
+      "end_timestamp": "00:15:23.580",
+      "text": "Non, de la parenthèse. Revenons donc à nos sondes qui ont leurs capteurs,"
+    },
+    {
+      "id": 174,
+      "start": 923.58,
+      "end": 927.06,
+      "start_timestamp": "00:15:23.580",
+      "end_timestamp": "00:15:27.060",
+      "text": "leurs systèmes de détection et correction d'attitude et ce qui fait la liaison entre"
+    },
+    {
+      "id": 175,
+      "start": 927.58,
+      "end": 934.5,
+      "start_timestamp": "00:15:27.580",
+      "end_timestamp": "00:15:34.500",
+      "text": "les deux. Les ordinateurs de bord. Pour Luna, on parlera plutôt d'automates à logique câblée"
+    },
+    {
+      "id": 176,
+      "start": 934.5,
+      "end": 938.1,
+      "start_timestamp": "00:15:34.500",
+      "end_timestamp": "00:15:38.100",
+      "text": "puisqu'il n'est pas encore question de circuits imprimés ou de semi-conducteurs,"
+    },
+    {
+      "id": 177,
+      "start": 938.1,
+      "end": 944.26,
+      "start_timestamp": "00:15:38.100",
+      "end_timestamp": "00:15:44.260",
+      "text": "mais juste de relais électromécaniques. Mais peut-on considérer ça comme un ordinateur ? Au sens"
+    },
+    {
+      "id": 178,
+      "start": 944.26,
+      "end": 949.66,
+      "start_timestamp": "00:15:44.260",
+      "end_timestamp": "00:15:49.660",
+      "text": "moderne d'un PC avec clavier, écran et souris, non. Mais très très basiquement, on avait déjà"
+    },
+    {
+      "id": 179,
+      "start": 949.66,
+      "end": 954.14,
+      "start_timestamp": "00:15:49.660",
+      "end_timestamp": "00:15:54.140",
+      "text": "là le fonctionnement d'un processeur actuel. Un relais électromécanique est composé d'un"
+    },
+    {
+      "id": 180,
+      "start": 954.14,
+      "end": 959.42,
+      "start_timestamp": "00:15:54.140",
+      "end_timestamp": "00:15:59.420",
+      "text": "électroaimant qui contrôle un système mécanique. Si l'électroaimant reçoit assez de courant,"
+    },
+    {
+      "id": 181,
+      "start": 959.42,
+      "end": 965.74,
+      "start_timestamp": "00:15:59.420",
+      "end_timestamp": "00:16:05.740",
+      "text": "il s'active et active un contact mécanique qui va ouvrir ou fermer un autre circuit. C'est"
+    },
+    {
+      "id": 182,
+      "start": 965.74,
+      "end": 970.3,
+      "start_timestamp": "00:16:05.740",
+      "end_timestamp": "00:16:10.300",
+      "text": "un système d'interrupteurs binaires commandés. Mettez deux relais en série et vous créez la"
+    },
+    {
+      "id": 183,
+      "start": 970.3,
+      "end": 975.74,
+      "start_timestamp": "00:16:10.300",
+      "end_timestamp": "00:16:15.740",
+      "text": "porte END. Il faut que deux conditions ou plus soient réunies pour activer une réponse. Avec"
+    },
+    {
+      "id": 184,
+      "start": 975.74,
+      "end": 981.1,
+      "start_timestamp": "00:16:15.740",
+      "end_timestamp": "00:16:21.100",
+      "text": "deux relais en parallèle, vous créez la porte OR. Une seule condition sur plusieurs possibles"
+    },
+    {
+      "id": 185,
+      "start": 981.22,
+      "end": 987.06,
+      "start_timestamp": "00:16:21.220",
+      "end_timestamp": "00:16:27.060",
+      "text": "déclenche le mécanisme. Et avec un relais fermé, vous avez la porte NOT. Une condition va stopper"
+    },
+    {
+      "id": 186,
+      "start": 987.06,
+      "end": 992.66,
+      "start_timestamp": "00:16:27.060",
+      "end_timestamp": "00:16:32.660",
+      "text": "un mécanisme au lieu de le déclencher. Et vous avez ainsi les trois opérations BOOLEEN permettant"
+    },
+    {
+      "id": 187,
+      "start": 992.66,
+      "end": 996.78,
+      "start_timestamp": "00:16:32.660",
+      "end_timestamp": "00:16:36.780",
+      "text": "de faire réagir votre sonde à toutes les combinaisons de signaux de ces capteurs d'attitude."
+    },
+    {
+      "id": 188,
+      "start": 996.78,
+      "end": 1002.02,
+      "start_timestamp": "00:16:36.780",
+      "end_timestamp": "00:16:42.020",
+      "text": "Ce principe de 0 et de 1 est exactement le principe des portes logiques des processeurs"
+    },
+    {
+      "id": 189,
+      "start": 1002.02,
+      "end": 1006.18,
+      "start_timestamp": "00:16:42.020",
+      "end_timestamp": "00:16:46.180",
+      "text": "modernes. Au niveau fonctionnel, un relais électromécanique est donc l'équivalent"
+    },
+    {
+      "id": 190,
+      "start": 1006.18,
+      "end": 1011.9,
+      "start_timestamp": "00:16:46.180",
+      "end_timestamp": "00:16:51.900",
+      "text": "d'un transistor. Sauf qu'un relais consomme un peu moins d'un watt pour s'activer, prendre la"
+    },
+    {
+      "id": 191,
+      "start": 1011.9,
+      "end": 1018.66,
+      "start_timestamp": "00:16:51.900",
+      "end_timestamp": "00:16:58.660",
+      "text": "place et est relativement lent. Il commute en une dizaine de millisecondes. A côté de ça,"
+    },
+    {
+      "id": 192,
+      "start": 1018.66,
+      "end": 1023.34,
+      "start_timestamp": "00:16:58.660",
+      "end_timestamp": "00:17:03.340",
+      "text": "un transistor c'est quelques nanosecondes et une consommation quasi nulle. Et pour le fun,"
+    },
+    {
+      "id": 193,
+      "start": 1023.34,
+      "end": 1028.42,
+      "start_timestamp": "00:17:03.340",
+      "end_timestamp": "00:17:08.420",
+      "text": "voici quelques ordres de grandeur. En 1971, Intel sort son premier processeur grand public,"
+    },
+    {
+      "id": 194,
+      "start": 1028.42,
+      "end": 1035.58,
+      "start_timestamp": "00:17:08.420",
+      "end_timestamp": "00:17:15.580",
+      "text": "le 4004. Composé de 2300 transistors, il peut exécuter 92 600 opérations par seconde et consomme"
+    },
+    {
+      "id": 195,
+      "start": 1035.58,
+      "end": 1040.86,
+      "start_timestamp": "00:17:15.580",
+      "end_timestamp": "00:17:20.860",
+      "text": "un watt. Pour avoir la même chose avec des relais, vous consommeriez 600 watts et ça tiendrait dans"
+    },
+    {
+      "id": 196,
+      "start": 1040.86,
+      "end": 1046.02,
+      "start_timestamp": "00:17:20.860",
+      "end_timestamp": "00:17:26.020",
+      "text": "un gros frigo sans compter le câblage. Et si l'envie vous prend de reconstituer un Intel Core Ultra"
+    },
+    {
+      "id": 197,
+      "start": 1046.02,
+      "end": 1052.06,
+      "start_timestamp": "00:17:26.020",
+      "end_timestamp": "00:17:32.060",
+      "text": "9, comptez environ 10 milliards de relais pour une consommation de 2 gigawatts et vous seriez de toute"
+    },
+    {
+      "id": 198,
+      "start": 1052.06,
+      "end": 1058.18,
+      "start_timestamp": "00:17:32.060",
+      "end_timestamp": "00:17:38.180",
+      "text": "façon 57 millions de fois plus lent. Deux réacteurs nucléaires et le volume d'une trentaine d'immeubles"
+    },
+    {
+      "id": 199,
+      "start": 1058.18,
+      "end": 1065.02,
+      "start_timestamp": "00:17:38.180",
+      "end_timestamp": "00:17:45.020",
+      "text": "haussmanniens de 6 étages devraient suffire à son fonctionnement. Donc oui, créer un circuit avec"
+    },
+    {
+      "id": 200,
+      "start": 1065.02,
+      "end": 1069.66,
+      "start_timestamp": "00:17:45.020",
+      "end_timestamp": "00:17:49.660",
+      "text": "plusieurs relais électromécaniques revient à créer un rudimentaire processeur analogique. Et"
+    },
+    {
+      "id": 201,
+      "start": 1069.66,
+      "end": 1074.82,
+      "start_timestamp": "00:17:49.660",
+      "end_timestamp": "00:17:54.820",
+      "text": "comme tout processeur fonctionne avec des entrées et des sorties d'informations, voyons ça en pratique"
+    },
+    {
+      "id": 202,
+      "start": 1074.82,
+      "end": 1081.34,
+      "start_timestamp": "00:17:54.820",
+      "end_timestamp": "00:18:01.340",
+      "text": "avec notre sonde. Commençons avec une cellule photoélectrique qui reçoit de la lumière. Plus"
+    },
+    {
+      "id": 203,
+      "start": 1081.34,
+      "end": 1087.18,
+      "start_timestamp": "00:18:01.340",
+      "end_timestamp": "00:18:07.180",
+      "text": "elle en reçoit, plus elle va produire de courant. Ce courant alimente l'électro-aimant et à partir"
+    },
+    {
+      "id": 204,
+      "start": 1087.18,
+      "end": 1092.9,
+      "start_timestamp": "00:18:07.180",
+      "end_timestamp": "00:18:12.900",
+      "text": "d'une certaine intensité, il est assez fort pour déclencher le relais. Ça active le contacteur,"
+    },
+    {
+      "id": 205,
+      "start": 1092.9,
+      "end": 1098.5,
+      "start_timestamp": "00:18:12.900",
+      "end_timestamp": "00:18:18.500",
+      "text": "lui-même relié au circuit d'alimentation d'un propulseur à gaz, qui du coup s'active."
+    },
+    {
+      "id": 206,
+      "start": 1098.5,
+      "end": 1103.54,
+      "start_timestamp": "00:18:18.500",
+      "end_timestamp": "00:18:23.540",
+      "text": "L'orientation se corrige et la cellule photoélectrique reçoit alors de moins en moins"
+    },
+    {
+      "id": 207,
+      "start": 1103.54,
+      "end": 1108.3,
+      "start_timestamp": "00:18:23.540",
+      "end_timestamp": "00:18:28.300",
+      "text": "de lumière. L'intensité électrique baisse jusqu'à ce que le relais ne soit plus suffisamment"
+    },
+    {
+      "id": 208,
+      "start": 1108.3,
+      "end": 1114.26,
+      "start_timestamp": "00:18:28.300",
+      "end_timestamp": "00:18:34.260",
+      "text": "alimenté, ce qui désactive le contacteur et stoppe le propulseur. C'est comme ça qu'à"
+    },
+    {
+      "id": 209,
+      "start": 1114.26,
+      "end": 1119.06,
+      "start_timestamp": "00:18:34.260",
+      "end_timestamp": "00:18:39.060",
+      "text": "bord de l'UNA3, l'ordinateur pilotait les 8 micro-g de correction d'orientation de la sonde"
+    },
+    {
+      "id": 210,
+      "start": 1119.14,
+      "end": 1123.22,
+      "start_timestamp": "00:18:39.140",
+      "end_timestamp": "00:18:43.220",
+      "text": "et le déclenchement des prises de photos lunaires. Et pour la petite histoire,"
+    },
+    {
+      "id": 211,
+      "start": 1123.22,
+      "end": 1127.62,
+      "start_timestamp": "00:18:43.220",
+      "end_timestamp": "00:18:47.620",
+      "text": "les relais utilisés ne sortaient pas de nulle part. C'était ce qu'on pouvait trouver dans"
+    },
+    {
+      "id": 212,
+      "start": 1127.62,
+      "end": 1133.02,
+      "start_timestamp": "00:18:47.620",
+      "end_timestamp": "00:18:53.020",
+      "text": "les centrales téléphoniques de l'époque. Pourtant, en 1959, quand l'UNA3 est lancé,"
+    },
+    {
+      "id": 213,
+      "start": 1133.02,
+      "end": 1137.66,
+      "start_timestamp": "00:18:53.020",
+      "end_timestamp": "00:18:57.660",
+      "text": "ça fait 10 ans que le premier transistor soviétique a été créé en laboratoire. Et"
+    },
+    {
+      "id": 214,
+      "start": 1137.66,
+      "end": 1141.94,
+      "start_timestamp": "00:18:57.660",
+      "end_timestamp": "00:19:01.940",
+      "text": "4 ans qu'ils produisent leurs transistors industriellement. Beaucoup plus léger,"
+    },
+    {
+      "id": 215,
+      "start": 1141.94,
+      "end": 1147.42,
+      "start_timestamp": "00:19:01.940",
+      "end_timestamp": "00:19:07.420",
+      "text": "plus petit, moins gourmand en énergie. Ils ont tout pour être intégrés à la sonde."
+    },
+    {
+      "id": 216,
+      "start": 1147.42,
+      "end": 1154.44,
+      "start_timestamp": "00:19:07.420",
+      "end_timestamp": "00:19:14.440",
+      "text": "Ou presque. Parce que production industrielle, ouais, mais production à la main avec ce que ça"
+    },
+    {
+      "id": 217,
+      "start": 1154.44,
+      "end": 1159.3,
+      "start_timestamp": "00:19:14.440",
+      "end_timestamp": "00:19:19.300",
+      "text": "comporte d'aléatoire sur la qualité et la fiabilité des composants. En plus, les matériaux"
+    },
+    {
+      "id": 218,
+      "start": 1159.3,
+      "end": 1163.38,
+      "start_timestamp": "00:19:19.300",
+      "end_timestamp": "00:19:23.380",
+      "text": "employés étaient sensibles aux radiations et il n'y avait que quelques pièces par semaine de"
+    },
+    {
+      "id": 219,
+      "start": 1163.38,
+      "end": 1169.62,
+      "start_timestamp": "00:19:23.380",
+      "end_timestamp": "00:19:29.620",
+      "text": "vraiment conformes. Ce sont donc les pièces technologiquement basiques, fiables, pas chères,"
+    },
+    {
+      "id": 220,
+      "start": 1169.62,
+      "end": 1173.94,
+      "start_timestamp": "00:19:29.620",
+      "end_timestamp": "00:19:33.940",
+      "text": "insensibles aux radiations et adaptées à la relative simplicité des opérations effectuées"
+    },
+    {
+      "id": 221,
+      "start": 1173.94,
+      "end": 1179.38,
+      "start_timestamp": "00:19:33.940",
+      "end_timestamp": "00:19:39.380",
+      "text": "qui ont été choisies au début. Et côté américain. Les sondes Ranger étaient réparties en blocs,"
+    },
+    {
+      "id": 222,
+      "start": 1179.38,
+      "end": 1185.46,
+      "start_timestamp": "00:19:39.380",
+      "end_timestamp": "00:19:45.460",
+      "text": "ou en générations disons. Le bloc 2 regroupe Ranger 3-4-5, le bloc 3 regroupe les sondes 6-9."
+    },
+    {
+      "id": 223,
+      "start": 1185.46,
+      "end": 1190.94,
+      "start_timestamp": "00:19:45.460",
+      "end_timestamp": "00:19:50.940",
+      "text": "Les sondes Ranger du bloc 2 étaient équipées d'un calculateur et d'un séquenceur. Petite"
+    },
+    {
+      "id": 224,
+      "start": 1190.94,
+      "end": 1195.14,
+      "start_timestamp": "00:19:50.940",
+      "end_timestamp": "00:19:55.140",
+      "text": "définition pour saisir la différence, même si tout est dans le nom. Un calculateur va réagir"
+    },
+    {
+      "id": 225,
+      "start": 1195.14,
+      "end": 1199.98,
+      "start_timestamp": "00:19:55.140",
+      "end_timestamp": "00:19:59.980",
+      "text": "selon les différents capteurs liés à latitude pour gérer la sonde en temps réel, alors que le"
+    },
+    {
+      "id": 226,
+      "start": 1199.98,
+      "end": 1203.42,
+      "start_timestamp": "00:19:59.980",
+      "end_timestamp": "00:20:03.420",
+      "text": "séquenceur va se contenter de gérer le déclenchement des événements de la mission."
+    },
+    {
+      "id": 227,
+      "start": 1203.42,
+      "end": 1207.86,
+      "start_timestamp": "00:20:03.420",
+      "end_timestamp": "00:20:07.860",
+      "text": "On peut comparer ce dernier à une minuterie qui déclenche le déploiement des panneaux,"
+    },
+    {
+      "id": 228,
+      "start": 1207.86,
+      "end": 1212.26,
+      "start_timestamp": "00:20:07.860",
+      "end_timestamp": "00:20:12.260",
+      "text": "l'acquisition du soleil, de la terre. Tout ça on en a déjà parlé dans la vidéo précédente."
+    },
+    {
+      "id": 229,
+      "start": 1212.26,
+      "end": 1216.3,
+      "start_timestamp": "00:20:12.260",
+      "end_timestamp": "00:20:16.300",
+      "text": "Niveau technologie, les capitalistes utilisent, comme les communistes,"
+    },
+    {
+      "id": 230,
+      "start": 1216.3,
+      "end": 1222.18,
+      "start_timestamp": "00:20:16.300",
+      "end_timestamp": "00:20:22.180",
+      "text": "des transistors à base de germanium. Et eux aussi ont des soucis. On a vu que,"
+    },
+    {
+      "id": 231,
+      "start": 1222.18,
+      "end": 1227.06,
+      "start_timestamp": "00:20:22.180",
+      "end_timestamp": "00:20:27.060",
+      "text": "côté russe, le problème c'est le process de fabrication peu fiable. Côté américain,"
+    },
+    {
+      "id": 232,
+      "start": 1227.06,
+      "end": 1232.46,
+      "start_timestamp": "00:20:27.060",
+      "end_timestamp": "00:20:32.460",
+      "text": "les transistors sont fiables, mais endommagés avant le lancement. Mais comment ce fesse me"
+    },
+    {
+      "id": 233,
+      "start": 1232.46,
+      "end": 1241.27,
+      "start_timestamp": "00:20:32.460",
+      "end_timestamp": "00:20:41.270",
+      "text": "demanderez-vous ? Et bien, à collade. L'un des objectifs des sondes rangers était de s'écraser"
+    },
+    {
+      "id": 234,
+      "start": 1241.27,
+      "end": 1246.71,
+      "start_timestamp": "00:20:41.270",
+      "end_timestamp": "00:20:46.710",
+      "text": "sur la lune. Mais ça devait être fait proprement. Je vais dire littéralement. Il ne fallait pas"
+    },
+    {
+      "id": 235,
+      "start": 1246.71,
+      "end": 1250.95,
+      "start_timestamp": "00:20:46.710",
+      "end_timestamp": "00:20:50.950",
+      "text": "contaminer le sol lunaire avec des organismes terrestres. Donc pour éviter autant que possible"
+    },
+    {
+      "id": 236,
+      "start": 1250.95,
+      "end": 1256.79,
+      "start_timestamp": "00:20:50.950",
+      "end_timestamp": "00:20:56.790",
+      "text": "que des bactéries ou un virus se fassent un road trip spatial, les sondes devaient être désinfectées."
+    },
+    {
+      "id": 237,
+      "start": 1256.79,
+      "end": 1260.83,
+      "start_timestamp": "00:20:56.790",
+      "end_timestamp": "00:21:00.830",
+      "text": "Et là je parle pas juste d'un petit coup de chiffon vite fait. Pour être sûr de faire ça bien,"
+    },
+    {
+      "id": 238,
+      "start": 1260.83,
+      "end": 1264.91,
+      "start_timestamp": "00:21:00.830",
+      "end_timestamp": "00:21:04.910",
+      "text": "chaque composant était d'abord placé pendant 24 heures dans un four à 125 degrés pour être"
+    },
+    {
+      "id": 239,
+      "start": 1264.91,
+      "end": 1270.87,
+      "start_timestamp": "00:21:04.910",
+      "end_timestamp": "00:21:10.870",
+      "text": "stérilisé. Ensuite il était nettoyé à l'alcool, puis assemblé. Mais c'est pas fini. Avant le"
+    },
+    {
+      "id": 240,
+      "start": 1270.87,
+      "end": 1274.95,
+      "start_timestamp": "00:21:10.870",
+      "end_timestamp": "00:21:14.950",
+      "text": "lancement, toute la sonde est saturée d'oxyde d'éthylène gazeux pendant 24 heures pour être"
+    },
+    {
+      "id": 241,
+      "start": 1274.95,
+      "end": 1280.23,
+      "start_timestamp": "00:21:14.950",
+      "end_timestamp": "00:21:20.230",
+      "text": "certain que rien ne s'y soit glissé au dernier moment ou n'ait survécu jusque là. Sauf que,"
+    },
+    {
+      "id": 242,
+      "start": 1280.23,
+      "end": 1285.23,
+      "start_timestamp": "00:21:20.230",
+      "end_timestamp": "00:21:25.230",
+      "text": "bah, dans l'histoire, on chauffe les composants, ce qui endommage les transistors au germanium."
+    },
+    {
+      "id": 243,
+      "start": 1285.23,
+      "end": 1290.23,
+      "start_timestamp": "00:21:25.230",
+      "end_timestamp": "00:21:30.230",
+      "text": "Entre autres, les jonctions internes peuvent être altérées, ce qui crée des résistances de contact"
+    },
+    {
+      "id": 244,
+      "start": 1290.23,
+      "end": 1295.03,
+      "start_timestamp": "00:21:30.230",
+      "end_timestamp": "00:21:35.030",
+      "text": "non prévu, ou plus fortes que ce qu'elles devaient être. Bilan, les transistors ne se"
+    },
+    {
+      "id": 245,
+      "start": 1295.03,
+      "end": 1299.87,
+      "start_timestamp": "00:21:35.030",
+      "end_timestamp": "00:21:39.870",
+      "text": "déclenchent pas exactement aux tensions attendues, voire plus du tout. C'est probablement l'un des"
+    },
+    {
+      "id": 246,
+      "start": 1299.87,
+      "end": 1305.03,
+      "start_timestamp": "00:21:39.870",
+      "end_timestamp": "00:21:45.030",
+      "text": "facteurs qui explique l'échec de la mission Ranger 3. Alors quoi ? Il est venu à l'idée de personne"
+    },
+    {
+      "id": 247,
+      "start": 1305.03,
+      "end": 1309.07,
+      "start_timestamp": "00:21:45.030",
+      "end_timestamp": "00:21:49.070",
+      "text": "de vérifier si les composants fonctionnaient toujours après avoir été chauffés ? Personne"
+    },
+    {
+      "id": 248,
+      "start": 1309.07,
+      "end": 1312.55,
+      "start_timestamp": "00:21:49.070",
+      "end_timestamp": "00:21:52.550",
+      "text": "ne s'est dit que ça serait peut-être une bonne idée de tester le bousin avant le lancement à"
+    },
+    {
+      "id": 249,
+      "start": 1312.55,
+      "end": 1318.67,
+      "start_timestamp": "00:21:52.550",
+      "end_timestamp": "00:21:58.670",
+      "text": "l'équivalent de 200 millions de dollars actuels ? Et bah, c'est un poil plus compliqué et c'est"
+    },
+    {
+      "id": 250,
+      "start": 1318.67,
+      "end": 1323.55,
+      "start_timestamp": "00:21:58.670",
+      "end_timestamp": "00:22:03.550",
+      "text": "une question de contexte. Ouais, je vous en parle souvent et pour plein de trucs, mais c'est important"
+    },
+    {
+      "id": 251,
+      "start": 1323.55,
+      "end": 1328.79,
+      "start_timestamp": "00:22:03.550",
+      "end_timestamp": "00:22:08.790",
+      "text": "le contexte. Dans les années 50, à part les photos prises depuis la Terre, on ne sait rien de la"
+    },
+    {
+      "id": 252,
+      "start": 1328.79,
+      "end": 1333.07,
+      "start_timestamp": "00:22:08.790",
+      "end_timestamp": "00:22:13.070",
+      "text": "surface de la Lune. On ne sait pas si elle est recouverte de plusieurs mètres de poussière molle"
+    },
+    {
+      "id": 253,
+      "start": 1333.07,
+      "end": 1338.67,
+      "start_timestamp": "00:22:13.070",
+      "end_timestamp": "00:22:18.670",
+      "text": "où il serait impossible d'atterrir, si la surface est dure. On n'a aucun échantillon. Bref, obtenir"
+    },
+    {
+      "id": 254,
+      "start": 1338.67,
+      "end": 1343.79,
+      "start_timestamp": "00:22:18.670",
+      "end_timestamp": "00:22:23.790",
+      "text": "ces infos, c'est le rôle des sondes et là-dessus, les ingénieurs sont au taquet. Mais il y a aussi"
+    },
+    {
+      "id": 255,
+      "start": 1343.79,
+      "end": 1347.51,
+      "start_timestamp": "00:22:23.790",
+      "end_timestamp": "00:22:27.510",
+      "text": "les scientifiques qui veulent étudier plein de choses. Sauf que pour étudier, il ne faut pas"
+    },
+    {
+      "id": 256,
+      "start": 1347.51,
+      "end": 1352.55,
+      "start_timestamp": "00:22:27.510",
+      "end_timestamp": "00:22:32.550",
+      "text": "perturber ni polluer au sens très large l'objet de votre recherche. L'une des questions de l'époque"
+    },
+    {
+      "id": 257,
+      "start": 1352.55,
+      "end": 1358.67,
+      "start_timestamp": "00:22:32.550",
+      "end_timestamp": "00:22:38.670",
+      "text": "étant, y a-t-il actuellement ou y a-t-il eu par le passé des traces de vie sur la Lune ? Et bah,"
+    },
+    {
+      "id": 258,
+      "start": 1358.67,
+      "end": 1362.39,
+      "start_timestamp": "00:22:38.670",
+      "end_timestamp": "00:22:42.390",
+      "text": "la première des choses à faire, c'est de ne pas y amener nos propres formes de vie pour ne pas"
+    },
+    {
+      "id": 259,
+      "start": 1362.39,
+      "end": 1367.11,
+      "start_timestamp": "00:22:42.390",
+      "end_timestamp": "00:22:47.110",
+      "text": "interférer avec les échantillons et analyses qui seront faites. C'est un principe de précaution et"
+    },
+    {
+      "id": 260,
+      "start": 1367.11,
+      "end": 1371.83,
+      "start_timestamp": "00:22:47.110",
+      "end_timestamp": "00:22:51.830",
+      "text": "ça fonctionne dans les deux sens. Les roches lunaires qui plus tard seront ramenées par"
+    },
+    {
+      "id": 261,
+      "start": 1371.83,
+      "end": 1376.07,
+      "start_timestamp": "00:22:51.830",
+      "end_timestamp": "00:22:56.070",
+      "text": "les missions Apollo seront mises en quarantaine avant d'être étudiées. Et pareil avec les"
+    },
+    {
+      "id": 262,
+      "start": 1376.07,
+      "end": 1380.23,
+      "start_timestamp": "00:22:56.070",
+      "end_timestamp": "00:23:00.230",
+      "text": "astronautes des équipes ayant marché sur la Lune. Une quarantaine de 21 jours pour les"
+    },
+    {
+      "id": 263,
+      "start": 1380.23,
+      "end": 1384.79,
+      "start_timestamp": "00:23:00.230",
+      "end_timestamp": "00:23:04.790",
+      "text": "membres de l'équipage et 10 de plus pour le matériel et les échantillons. Enfin ça,"
+    },
+    {
+      "id": 264,
+      "start": 1384.79,
+      "end": 1389.07,
+      "start_timestamp": "00:23:04.790",
+      "end_timestamp": "00:23:09.070",
+      "text": "c'était pour Apollo 11, 12 et 14. Une fois sûr qu'il n'y avait pas d'agent contaminant lunaire,"
+    },
+    {
+      "id": 265,
+      "start": 1389.07,
+      "end": 1393.99,
+      "start_timestamp": "00:23:09.070",
+      "end_timestamp": "00:23:13.990",
+      "text": "la procédure a été supprimée. Mais donc voilà, ces deux protocoles n'étaient pas du fait de la"
+    },
+    {
+      "id": 266,
+      "start": 1393.99,
+      "end": 1400.23,
+      "start_timestamp": "00:23:13.990",
+      "end_timestamp": "00:23:20.230",
+      "text": "NASA directement, mais du COSPAR pour Committee on Space Research. Petit topo rapide. Pendant"
+    },
+    {
+      "id": 267,
+      "start": 1400.23,
+      "end": 1405.23,
+      "start_timestamp": "00:23:20.230",
+      "end_timestamp": "00:23:25.230",
+      "text": "la guerre froide, l'Est et l'Ouest sont un peu grognons et ne se parlent plus. Mais fin des années"
+    },
+    {
+      "id": 268,
+      "start": 1405.23,
+      "end": 1409.71,
+      "start_timestamp": "00:23:25.230",
+      "end_timestamp": "00:23:29.710",
+      "text": "50 ils se disent qu'il faut quand même se parler un peu. Un groupe international de scientifiques"
+    },
+    {
+      "id": 269,
+      "start": 1409.71,
+      "end": 1415.59,
+      "start_timestamp": "00:23:29.710",
+      "end_timestamp": "00:23:35.590",
+      "text": "est créé pour organiser la recherche autour de l'exploration spatiale, le dit COSPAR. C'est lui"
+    },
+    {
+      "id": 270,
+      "start": 1415.59,
+      "end": 1420.15,
+      "start_timestamp": "00:23:35.590",
+      "end_timestamp": "00:23:40.150",
+      "text": "qui préconise d'éviter la contamination des astres explorés, comportement qu'adopte la NASA"
+    },
+    {
+      "id": 271,
+      "start": 1420.15,
+      "end": 1425.55,
+      "start_timestamp": "00:23:40.150",
+      "end_timestamp": "00:23:45.550",
+      "text": "comme politique officielle en 1959. Et on en arrive à nos transistors, des composants mis au"
+    },
+    {
+      "id": 272,
+      "start": 1425.55,
+      "end": 1430.47,
+      "start_timestamp": "00:23:45.550",
+      "end_timestamp": "00:23:50.470",
+      "text": "point 10 ans plus tôt dont le comportement en laboratoire est bien connu et les spécifications"
+    },
+    {
+      "id": 273,
+      "start": 1430.47,
+      "end": 1435.27,
+      "start_timestamp": "00:23:50.470",
+      "end_timestamp": "00:23:55.270",
+      "text": "pour l'émission spatiale bien établies. Et comme ça a déjà été le cas plusieurs fois avant,"
+    },
+    {
+      "id": 274,
+      "start": 1435.27,
+      "end": 1439.87,
+      "start_timestamp": "00:23:55.270",
+      "end_timestamp": "00:23:59.870",
+      "text": "eh ben on a des ingénieurs qui font partie des meilleurs des meilleurs et qui ont choisi les"
+    },
+    {
+      "id": 275,
+      "start": 1439.87,
+      "end": 1445.75,
+      "start_timestamp": "00:23:59.870",
+      "end_timestamp": "00:24:05.750",
+      "text": "composants parmi les meilleurs des meilleurs avec mention et qui disent, ouais bon, stériliser si"
+    },
+    {
+      "id": 276,
+      "start": 1445.75,
+      "end": 1451.39,
+      "start_timestamp": "00:24:05.750",
+      "end_timestamp": "00:24:11.390",
+      "text": "vous voulez, ça passe. Ou, dit autrement, c'est nous les plus intelligents et on a dit que c'est bon,"
+    },
+    {
+      "id": 277,
+      "start": 1451.39,
+      "end": 1456.59,
+      "start_timestamp": "00:24:11.390",
+      "end_timestamp": "00:24:16.590",
+      "text": "alors c'est bon. Je vous renvoie vers ma vidéo sur les calculatrices humaines de la NASA slash la"
+    },
+    {
+      "id": 278,
+      "start": 1456.59,
+      "end": 1461.43,
+      "start_timestamp": "00:24:16.590",
+      "end_timestamp": "00:24:21.430",
+      "text": "petite fille qui a sauvé le programme Apollo pour d'autres exemples de gars qui prenaient un peu trop"
+    },
+    {
+      "id": 279,
+      "start": 1461.43,
+      "end": 1466.75,
+      "start_timestamp": "00:24:21.430",
+      "end_timestamp": "00:24:26.750",
+      "text": "la confiance. Mais bref, mélanger des contraintes venant d'un organisme extérieur à la NASA,"
+    },
+    {
+      "id": 280,
+      "start": 1466.75,
+      "end": 1470.35,
+      "start_timestamp": "00:24:26.750",
+      "end_timestamp": "00:24:30.350",
+      "text": "pas le temps ni l'envie de réadapter tout un process de fabrication et de validation,"
+    },
+    {
+      "id": 281,
+      "start": 1470.35,
+      "end": 1476.07,
+      "start_timestamp": "00:24:30.350",
+      "end_timestamp": "00:24:36.070",
+      "text": "l'optimisme ou l'égo des ingénieurs, une course à l'espace où il faut faire vite et vous obtenez,"
+    },
+    {
+      "id": 282,
+      "start": 1476.07,
+      "end": 1483.07,
+      "start_timestamp": "00:24:36.070",
+      "end_timestamp": "00:24:43.070",
+      "text": "eh ben un échec. Pour le bloc suivant des rangers 6 à 9, le processus de désinfection est modifié,"
+    },
+    {
+      "id": 283,
+      "start": 1483.07,
+      "end": 1489.99,
+      "start_timestamp": "00:24:43.070",
+      "end_timestamp": "00:24:49.990",
+      "text": "le silicium remplace le germanium et là, tout se passe bien pour les transistors. Fin de la collade."
+    },
+    {
+      "id": 284,
+      "start": 1489.99,
+      "end": 1497.95,
+      "start_timestamp": "00:24:49.990",
+      "end_timestamp": "00:24:57.950",
+      "text": "La parenthèse, c'est une parenthèse, c'est mon concept. Enlève-moi ça tout de suite. Putain."
+    },
+    {
+      "id": 285,
+      "start": 1497.95,
+      "end": 1503.47,
+      "start_timestamp": "00:24:57.950",
+      "end_timestamp": "00:25:03.470",
+      "text": "Voilà donc nos sondes lancées, voguant paisiblement dans le vide spatial. Tout va bien,"
+    },
+    {
+      "id": 286,
+      "start": 1503.47,
+      "end": 1509.83,
+      "start_timestamp": "00:25:03.470",
+      "end_timestamp": "00:25:09.830",
+      "text": "mais il reste encore un détail crucial à contrôler. La chaleur et le froid. La température. Pour"
+    },
+    {
+      "id": 287,
+      "start": 1509.83,
+      "end": 1515.23,
+      "start_timestamp": "00:25:09.830",
+      "end_timestamp": "00:25:15.230",
+      "text": "appréhender la question, il faut prendre en compte trois éléments. Le soleil, l'espace et la sonde."
+    },
+    {
+      "id": 288,
+      "start": 1515.23,
+      "end": 1520.87,
+      "start_timestamp": "00:25:15.230",
+      "end_timestamp": "00:25:20.870",
+      "text": "On a donc d'abord le soleil. Qui est chaud. Ouais, je sais, ça fait un choc de l'apprendre,"
+    },
+    {
+      "id": 289,
+      "start": 1520.87,
+      "end": 1526.99,
+      "start_timestamp": "00:25:20.870",
+      "end_timestamp": "00:25:26.990",
+      "text": "prenez du temps pour encaisser la nouvelle. Ensuite on a le vide spatial. Qui n'est pas froid. C'est"
+    },
+    {
+      "id": 290,
+      "start": 1526.99,
+      "end": 1531.43,
+      "start_timestamp": "00:25:26.990",
+      "end_timestamp": "00:25:31.430",
+      "text": "un poil plus subtil. Quand on parle de chaleur, on parle d'agitation de molécules, sauf que dans"
+    },
+    {
+      "id": 291,
+      "start": 1531.43,
+      "end": 1537.03,
+      "start_timestamp": "00:25:31.430",
+      "end_timestamp": "00:25:37.030",
+      "text": "le vide, y'a pas de matière. Donc pas de molécules. Ce qui fait que le vide interplanétaire n'est"
+    },
+    {
+      "id": 292,
+      "start": 1537.03,
+      "end": 1544.39,
+      "start_timestamp": "00:25:37.030",
+      "end_timestamp": "00:25:44.390",
+      "text": "techniquement ni chaud ni froid. Il est… rien. Et enfin, on a la sonde qui génère de la chaleur."
+    },
+    {
+      "id": 293,
+      "start": 1544.39,
+      "end": 1549.27,
+      "start_timestamp": "00:25:44.390",
+      "end_timestamp": "00:25:49.270",
+      "text": "Elle intègre des composants électriques qui, par nature en fonctionnant, chauffent plus ou moins"
+    },
+    {
+      "id": 294,
+      "start": 1549.27,
+      "end": 1554.19,
+      "start_timestamp": "00:25:49.270",
+      "end_timestamp": "00:25:54.190",
+      "text": "à cause de l'effet joule. Que ce soit des capteurs, la chimie des batteries, les onduleurs des panneaux,"
+    },
+    {
+      "id": 295,
+      "start": 1554.19,
+      "end": 1558.83,
+      "start_timestamp": "00:25:54.190",
+      "end_timestamp": "00:25:58.830",
+      "text": "bref, tout chauffe. Mesurer la chaleur, on vient de le dire, c'est mesurer l'agitation des molécules."
+    },
+    {
+      "id": 296,
+      "start": 1558.83,
+      "end": 1564.11,
+      "start_timestamp": "00:25:58.830",
+      "end_timestamp": "00:26:04.110",
+      "text": "Et elle s'agite quand elle reçoit de l'énergie. Ce qui peut se faire de trois façons. D'abord"
+    },
+    {
+      "id": 297,
+      "start": 1564.11,
+      "end": 1569.19,
+      "start_timestamp": "00:26:04.110",
+      "end_timestamp": "00:26:09.190",
+      "text": "par conduction, c'est-à-dire le transfert de chaleur au sein d'objets et par contact. Un exemple"
+    },
+    {
+      "id": 298,
+      "start": 1569.19,
+      "end": 1572.63,
+      "start_timestamp": "00:26:09.190",
+      "end_timestamp": "00:26:12.630",
+      "text": "facile, c'est la casserole que vous mettez à chauffer. C'est toute la casserole qui devient"
+    },
+    {
+      "id": 299,
+      "start": 1572.63,
+      "end": 1576.71,
+      "start_timestamp": "00:26:12.630",
+      "end_timestamp": "00:26:16.710",
+      "text": "chaude, pas juste la partie exposée aux flammes. Vous posez ensuite la casserole sur la table qui,"
+    },
+    {
+      "id": 300,
+      "start": 1576.71,
+      "end": 1581.27,
+      "start_timestamp": "00:26:16.710",
+      "end_timestamp": "00:26:21.270",
+      "text": "à son tour, devient chaude à cet endroit-là. C'est encore la conduction. Ensuite, il y a la"
+    },
+    {
+      "id": 301,
+      "start": 1581.27,
+      "end": 1586.51,
+      "start_timestamp": "00:26:21.270",
+      "end_timestamp": "00:26:26.510",
+      "text": "convection. C'est le transfert d'énergie par un fluide, donc un gaz ou un liquide. C'est pour ça"
+    },
+    {
+      "id": 302,
+      "start": 1586.51,
+      "end": 1590.99,
+      "start_timestamp": "00:26:26.510",
+      "end_timestamp": "00:26:30.990",
+      "text": "que les chauffages sont appelés convecteurs, parce qu'ils chauffent de l'air pour transmettre leur"
+    },
+    {
+      "id": 303,
+      "start": 1590.99,
+      "end": 1596.27,
+      "start_timestamp": "00:26:30.990",
+      "end_timestamp": "00:26:36.270",
+      "text": "énergie. Et enfin, il y a le rayonnement. Typiquement le soleil ou plus proche de nous,"
+    },
+    {
+      "id": 304,
+      "start": 1596.27,
+      "end": 1600.11,
+      "start_timestamp": "00:26:36.270",
+      "end_timestamp": "00:26:40.110",
+      "text": "un feu de camp. D'ailleurs, on parle souvent de rayonnement infrarouge, mais dans les faits,"
+    },
+    {
+      "id": 305,
+      "start": 1600.11,
+      "end": 1605.75,
+      "start_timestamp": "00:26:40.110",
+      "end_timestamp": "00:26:45.750",
+      "text": "tout rayonnement transmet de l'énergie, donc fait chauffer le corps qui le reçoit. Mais revenons"
+    },
+    {
+      "id": 306,
+      "start": 1605.75,
+      "end": 1609.79,
+      "start_timestamp": "00:26:45.750",
+      "end_timestamp": "00:26:49.790",
+      "text": "à notre sonde et aux commentaires disant qu'à moins de 170 degrés, on ne peut pas développer"
+    },
+    {
+      "id": 307,
+      "start": 1609.79,
+      "end": 1614.91,
+      "start_timestamp": "00:26:49.790",
+      "end_timestamp": "00:26:54.910",
+      "text": "de photos dans l'espace et que rien ne peut y fonctionner sans geler sur place. Ou à l'inverse"
+    },
+    {
+      "id": 308,
+      "start": 1614.91,
+      "end": 1620.79,
+      "start_timestamp": "00:26:54.910",
+      "end_timestamp": "00:27:00.790",
+      "text": "que tout va fondre à cause de la chaleur, c'est selon. On va voir tout ça. Reprenons avec le"
+    },
+    {
+      "id": 309,
+      "start": 1620.79,
+      "end": 1625.23,
+      "start_timestamp": "00:27:00.790",
+      "end_timestamp": "00:27:05.230",
+      "text": "soleil. Est-ce que d'après vous, il chauffe beaucoup plus dans l'espace que sur Terre ? Pour savoir ça,"
+    },
+    {
+      "id": 310,
+      "start": 1625.23,
+      "end": 1629.51,
+      "start_timestamp": "00:27:05.230",
+      "end_timestamp": "00:27:09.510",
+      "text": "on regarde la quantité d'énergie reçue par mètre carré. À l'équateur et à midi, sur Terre,"
+    },
+    {
+      "id": 311,
+      "start": 1629.51,
+      "end": 1633.75,
+      "start_timestamp": "00:27:09.510",
+      "end_timestamp": "00:27:13.750",
+      "text": "on est à 1000 watts d'énergie reçue par mètre carré. Dans le sud de la France, en plein été,"
+    },
+    {
+      "id": 312,
+      "start": 1633.75,
+      "end": 1638.87,
+      "start_timestamp": "00:27:13.750",
+      "end_timestamp": "00:27:18.870",
+      "text": "comptez 800 watts par mètre carré. Et dans l'espace, et donc sans atmosphère pour filtrer"
+    },
+    {
+      "id": 313,
+      "start": 1638.87,
+      "end": 1645.23,
+      "start_timestamp": "00:27:18.870",
+      "end_timestamp": "00:27:25.230",
+      "text": "les rayonnements, on est à 1360 watts par mètre carré. Donc oui, on reçoit plus d'énergie dans"
+    },
+    {
+      "id": 314,
+      "start": 1645.23,
+      "end": 1650.59,
+      "start_timestamp": "00:27:25.230",
+      "end_timestamp": "00:27:30.590",
+      "text": "l'espace, ce qui nous amène plus de chaleur. Et cette chaleur ne peut pas s'évacuer par conduction,"
+    },
+    {
+      "id": 315,
+      "start": 1650.59,
+      "end": 1653.99,
+      "start_timestamp": "00:27:30.590",
+      "end_timestamp": "00:27:33.990",
+      "text": "puisqu'il n'y a rien à toucher, ni par convection, puisqu'il n'y a aucun mouvement"
+    },
+    {
+      "id": 316,
+      "start": 1653.99,
+      "end": 1659.71,
+      "start_timestamp": "00:27:33.990",
+      "end_timestamp": "00:27:39.710",
+      "text": "d'air ou de fluide pour évacuer l'énergie. Ne reste donc que le rayonnement. Les sondes Luna"
+    },
+    {
+      "id": 317,
+      "start": 1659.71,
+      "end": 1664.59,
+      "start_timestamp": "00:27:39.710",
+      "end_timestamp": "00:27:44.590",
+      "text": "1 et 2 étaient des sphères en aluminium et magnésium, des surfaces brillantes qui réfléchissent"
+    },
+    {
+      "id": 318,
+      "start": 1664.59,
+      "end": 1669.07,
+      "start_timestamp": "00:27:44.590",
+      "end_timestamp": "00:27:49.070",
+      "text": "les rayonnements solaires et donc chauffent moins vite. Du fait de leur forme, il n'y avait qu'une"
+    },
+    {
+      "id": 319,
+      "start": 1669.07,
+      "end": 1673.47,
+      "start_timestamp": "00:27:49.070",
+      "end_timestamp": "00:27:53.470",
+      "text": "petite partie de leur surface qui reçoit la quantité maximale de rayonnement solaire. Dans"
+    },
+    {
+      "id": 320,
+      "start": 1673.47,
+      "end": 1677.95,
+      "start_timestamp": "00:27:53.470",
+      "end_timestamp": "00:27:57.950",
+      "text": "le même temps, c'est toute la sphère qui rayonne et qui perd de la chaleur. On a donc beaucoup moins"
+    },
+    {
+      "id": 321,
+      "start": 1677.95,
+      "end": 1682.19,
+      "start_timestamp": "00:27:57.950",
+      "end_timestamp": "00:28:02.190",
+      "text": "d'apports de chaleur que ce qu'on a de déperdition. La vraie contrainte thermique dans l'espace était"
+    },
+    {
+      "id": 322,
+      "start": 1682.19,
+      "end": 1687.11,
+      "start_timestamp": "00:28:02.190",
+      "end_timestamp": "00:28:07.110",
+      "text": "là. C'était pas la chaleur, mais le refroidissement le problème. Et d'ailleurs, petit piège"
+    },
+    {
+      "id": 323,
+      "start": 1687.11,
+      "end": 1691.23,
+      "start_timestamp": "00:28:07.110",
+      "end_timestamp": "00:28:11.230",
+      "text": "contre-intuitif, les sphères ne sont pas en aluminium pour éviter de chauffer, mais pour"
+    },
+    {
+      "id": 324,
+      "start": 1691.23,
+      "end": 1696.35,
+      "start_timestamp": "00:28:11.230",
+      "end_timestamp": "00:28:16.350",
+      "text": "pas se refroidir trop vite. En effet, l'alu poli renvoie certes les rayonnements, mais surtout,"
+    },
+    {
+      "id": 325,
+      "start": 1696.35,
+      "end": 1701.87,
+      "start_timestamp": "00:28:16.350",
+      "end_timestamp": "00:28:21.870",
+      "text": "il a une très mauvaise émissivité infrarouge. Il absorbe très peu de rayonnement et donc d'énergie,"
+    },
+    {
+      "id": 326,
+      "start": 1701.87,
+      "end": 1707.31,
+      "start_timestamp": "00:28:21.870",
+      "end_timestamp": "00:28:27.310",
+      "text": "mais aussi il en perd très peu. Et vu que la grosse majorité de sa surface n'est pas ou peu"
+    },
+    {
+      "id": 327,
+      "start": 1707.31,
+      "end": 1712.95,
+      "start_timestamp": "00:28:27.310",
+      "end_timestamp": "00:28:32.950",
+      "text": "chauffée, ce choix de matériaux est ici un gros avantage. Mais si le froid est un problème, pourquoi"
+    },
+    {
+      "id": 328,
+      "start": 1712.95,
+      "end": 1717.99,
+      "start_timestamp": "00:28:32.950",
+      "end_timestamp": "00:28:37.990",
+      "text": "ne pas peindre la sonde en noir pour qu'elle absorbe plus de chaleur ? En fait, ça serait pire."
+    },
+    {
+      "id": 329,
+      "start": 1717.99,
+      "end": 1723.47,
+      "start_timestamp": "00:28:37.990",
+      "end_timestamp": "00:28:43.470",
+      "text": "La réception et l'émission de rayonnement infrarouge, c'est réversible. Si une surface absorbe"
+    },
+    {
+      "id": 330,
+      "start": 1723.47,
+      "end": 1727.55,
+      "start_timestamp": "00:28:43.470",
+      "end_timestamp": "00:28:47.550",
+      "text": "beaucoup d'infrarouge, alors elle les mettra beaucoup d'infrarouge. En l'espèce, votre sonde"
+    },
+    {
+      "id": 331,
+      "start": 1727.55,
+      "end": 1733.03,
+      "start_timestamp": "00:28:47.550",
+      "end_timestamp": "00:28:53.030",
+      "text": "peinte en noir refroidirait beaucoup plus vite qu'une sonde en aluminium poli. Alors, comment"
+    },
+    {
+      "id": 332,
+      "start": 1733.03,
+      "end": 1737.23,
+      "start_timestamp": "00:28:53.030",
+      "end_timestamp": "00:28:57.230",
+      "text": "était régulée la température des deux premières sondes luna ? Alors d'abord avec le revêtement"
+    },
+    {
+      "id": 333,
+      "start": 1737.23,
+      "end": 1742.03,
+      "start_timestamp": "00:28:57.230",
+      "end_timestamp": "00:29:02.030",
+      "text": "brillant comme on vient de le voir, mais aussi en les remplissant d'azote gazeux à 1,3 bar brassé"
+    },
+    {
+      "id": 334,
+      "start": 1742.03,
+      "end": 1746.91,
+      "start_timestamp": "00:29:02.030",
+      "end_timestamp": "00:29:06.910",
+      "text": "par un ventilateur. Par convection, ça permet de distribuer uniformément la chaleur des composants"
+    },
+    {
+      "id": 335,
+      "start": 1746.91,
+      "end": 1752.47,
+      "start_timestamp": "00:29:06.910",
+      "end_timestamp": "00:29:12.470",
+      "text": "et du point chaud de la coque. Enfin, le spin assure une répartition thermique relativement homogène"
+    },
+    {
+      "id": 336,
+      "start": 1752.47,
+      "end": 1757.19,
+      "start_timestamp": "00:29:12.470",
+      "end_timestamp": "00:29:17.190",
+      "text": "de l'enveloppe en évitant d'avoir un même point surchauffé et une zone trop froide. Tous ces"
+    },
+    {
+      "id": 337,
+      "start": 1757.19,
+      "end": 1761.23,
+      "start_timestamp": "00:29:17.190",
+      "end_timestamp": "00:29:21.230",
+      "text": "mécanismes ont permis de garder la température interne des sondes luna 1 et 2 entre 20 et 25"
+    },
+    {
+      "id": 338,
+      "start": 1761.71,
+      "end": 1765.27,
+      "start_timestamp": "00:29:21.710",
+      "end_timestamp": "00:29:25.270",
+      "text": "degrés et donc une température tout à fait acceptable pour le fonctionnement des composants."
+    },
+    {
+      "id": 339,
+      "start": 1765.27,
+      "end": 1770.11,
+      "start_timestamp": "00:29:25.270",
+      "end_timestamp": "00:29:30.110",
+      "text": "Pour l'Una 3 qui a pris les premières photos lunaires, les principes étaient identiques mais"
+    },
+    {
+      "id": 340,
+      "start": 1770.11,
+      "end": 1773.79,
+      "start_timestamp": "00:29:30.110",
+      "end_timestamp": "00:29:33.790",
+      "text": "les techniques un peu plus poussées. Il y avait toujours le spin pour répartir le rayonnement"
+    },
+    {
+      "id": 341,
+      "start": 1773.79,
+      "end": 1778.79,
+      "start_timestamp": "00:29:33.790",
+      "end_timestamp": "00:29:38.790",
+      "text": "solaire et stabiliser la sonde, toujours une circulation forcée d'azote gazeux. Cependant,"
+    },
+    {
+      "id": 342,
+      "start": 1778.79,
+      "end": 1783.27,
+      "start_timestamp": "00:29:38.790",
+      "end_timestamp": "00:29:43.270",
+      "text": "sa surface n'était pas nue mais couverte de cellules photovoltaïques et de capteurs. Les"
+    },
+    {
+      "id": 343,
+      "start": 1783.27,
+      "end": 1787.87,
+      "start_timestamp": "00:29:43.270",
+      "end_timestamp": "00:29:47.870",
+      "text": "échanges thermiques avec le vide sont donc plus réduits et les déperditions de chaleur moindres."
+    },
+    {
+      "id": 344,
+      "start": 1787.87,
+      "end": 1791.75,
+      "start_timestamp": "00:29:47.870",
+      "end_timestamp": "00:29:51.750",
+      "text": "Et c'est pas forcément une bonne nouvelle parce que l'intérieur de la sonde, du fait de son"
+    },
+    {
+      "id": 345,
+      "start": 1791.75,
+      "end": 1797.11,
+      "start_timestamp": "00:29:51.750",
+      "end_timestamp": "00:29:57.110",
+      "text": "fonctionnement électrique, chauffe. Il y avait donc des volets comme de petites persiennes installés"
+    },
+    {
+      "id": 346,
+      "start": 1797.11,
+      "end": 1802.19,
+      "start_timestamp": "00:29:57.110",
+      "end_timestamp": "00:30:02.190",
+      "text": "sur la sonde entre les panneaux solaires, les zones en blanc sur la maquette. Et en cas de"
+    },
+    {
+      "id": 347,
+      "start": 1802.19,
+      "end": 1807.15,
+      "start_timestamp": "00:30:02.190",
+      "end_timestamp": "00:30:07.150",
+      "text": "surchauffe, il s'ouvre pour évacuer le trop plein de chaleur en rayonnant l'infrarouge à l'extérieur."
+    },
+    {
+      "id": 348,
+      "start": 1807.15,
+      "end": 1813.71,
+      "start_timestamp": "00:30:07.150",
+      "end_timestamp": "00:30:13.710",
+      "text": "Alors ça marchera bien, mais pas top. La température interne idéale de l'Una 3 est de 25 degrés mais"
+    },
+    {
+      "id": 349,
+      "start": 1813.71,
+      "end": 1817.99,
+      "start_timestamp": "00:30:13.710",
+      "end_timestamp": "00:30:17.990",
+      "text": "aux premières heures de la mission, elle monte à 40. Les équipes au sol couperont donc quelques"
+    },
+    {
+      "id": 350,
+      "start": 1817.99,
+      "end": 1822.95,
+      "start_timestamp": "00:30:17.990",
+      "end_timestamp": "00:30:22.950",
+      "text": "instruments pour revenir aux alentours des 30 degrés et s'y stabiliser, ne rallumant ponctuellement"
+    },
+    {
+      "id": 351,
+      "start": 1822.95,
+      "end": 1827.47,
+      "start_timestamp": "00:30:22.950",
+      "end_timestamp": "00:30:27.470",
+      "text": "que le nécessaire. Et les lois de la physique étant les mêmes pour tout le monde, les mêmes"
+    },
+    {
+      "id": 352,
+      "start": 1827.47,
+      "end": 1831.75,
+      "start_timestamp": "00:30:27.470",
+      "end_timestamp": "00:30:31.750",
+      "text": "procédés étaient utilisés côté américain. Gaze dans la sonde pour répartir la chaleur,"
+    },
+    {
+      "id": 353,
+      "start": 1831.75,
+      "end": 1835.87,
+      "start_timestamp": "00:30:31.750",
+      "end_timestamp": "00:30:35.870",
+      "text": "gestion de l'orientation au soleil et point d'équilibre thermique en jouant avec le refroidissement"
+    },
+    {
+      "id": 354,
+      "start": 1835.87,
+      "end": 1841.55,
+      "start_timestamp": "00:30:35.870",
+      "end_timestamp": "00:30:41.550",
+      "text": "par rayonnement. Donc non, pas de sonde à plus ou moins 270 degrés mais des environnements"
+    },
+    {
+      "id": 355,
+      "start": 1841.55,
+      "end": 1846.67,
+      "start_timestamp": "00:30:41.550",
+      "end_timestamp": "00:30:46.670",
+      "text": "contrôlés et stabilisés entre 20 et 30 degrés. Les sondes lunaires suivantes n'utiliseront plus"
+    },
+    {
+      "id": 356,
+      "start": 1846.67,
+      "end": 1850.47,
+      "start_timestamp": "00:30:46.670",
+      "end_timestamp": "00:30:50.470",
+      "text": "le spin pour se stabiliser, d'une part parce que plus gourmands d'en énergie elles doivent"
+    },
+    {
+      "id": 357,
+      "start": 1850.47,
+      "end": 1854.31,
+      "start_timestamp": "00:30:50.470",
+      "end_timestamp": "00:30:54.310",
+      "text": "garder leurs panneaux solaires orientés vers le soleil et d'autre part parce que les systèmes"
+    },
+    {
+      "id": 358,
+      "start": 1854.31,
+      "end": 1859.19,
+      "start_timestamp": "00:30:54.310",
+      "end_timestamp": "00:30:59.190",
+      "text": "d'orientation et de stabilisation deviennent plus précis. Idem pour la gestion thermique facilité"
+    },
+    {
+      "id": 359,
+      "start": 1859.19,
+      "end": 1863.71,
+      "start_timestamp": "00:30:59.190",
+      "end_timestamp": "00:31:03.710",
+      "text": "par les progrès sur les matériaux isolants. Sur des installations un poil plus grosse et plus"
+    },
+    {
+      "id": 360,
+      "start": 1863.71,
+      "end": 1869.95,
+      "start_timestamp": "00:31:03.710",
+      "end_timestamp": "00:31:09.950",
+      "text": "moderne comme l'ISS par exemple, le principe est le même. D'abord on isole avec trois couches de"
+    },
+    {
+      "id": 361,
+      "start": 1869.95,
+      "end": 1874.03,
+      "start_timestamp": "00:31:09.950",
+      "end_timestamp": "00:31:14.030",
+      "text": "revêtement mais comme on a très bien isolé, il n'y a quasiment plus de pertes thermiques et on"
+    },
+    {
+      "id": 362,
+      "start": 1874.03,
+      "end": 1878.59,
+      "start_timestamp": "00:31:14.030",
+      "end_timestamp": "00:31:18.590",
+      "text": "risque la surchauffe à cause des très nombreux équipements électriques et des humains sur place"
+    },
+    {
+      "id": 363,
+      "start": 1878.59,
+      "end": 1882.75,
+      "start_timestamp": "00:31:18.590",
+      "end_timestamp": "00:31:22.750",
+      "text": "qui dissipent des calories. Pour éviter ça, des échangeurs thermiques ont été mis en place à"
+    },
+    {
+      "id": 364,
+      "start": 1882.75,
+      "end": 1887.43,
+      "start_timestamp": "00:31:22.750",
+      "end_timestamp": "00:31:27.430",
+      "text": "l'extérieur. Ils évacuent la chaleur captée dans la station par un circuit mélant échangeur à eau"
+    },
+    {
+      "id": 365,
+      "start": 1887.43,
+      "end": 1892.39,
+      "start_timestamp": "00:31:27.430",
+      "end_timestamp": "00:31:32.390",
+      "text": "et à ammoniac pour éviter le gel. Ce sont les panneaux carrés blancs que l'on voit ici au centre"
+    },
+    {
+      "id": 366,
+      "start": 1892.39,
+      "end": 1897.63,
+      "start_timestamp": "00:31:32.390",
+      "end_timestamp": "00:31:37.630",
+      "text": "de part et d'autre du corps de la station. Voilà. J'en ai fini pour aujourd'hui avec ces quelques"
+    },
+    {
+      "id": 367,
+      "start": 1897.71,
+      "end": 1902.39,
+      "start_timestamp": "00:31:37.710",
+      "end_timestamp": "00:31:42.390",
+      "text": "techniques spatiales. Je vous ai juste gardé un petit point bonus. Je vous disais un peu"
+    },
+    {
+      "id": 368,
+      "start": 1902.39,
+      "end": 1906.07,
+      "start_timestamp": "00:31:42.390",
+      "end_timestamp": "00:31:46.070",
+      "text": "plus tôt que quand un gaz s'échappe vers l'arrière d'un objet, il crène force contraire"
+    },
+    {
+      "id": 369,
+      "start": 1906.07,
+      "end": 1911.71,
+      "start_timestamp": "00:31:46.070",
+      "end_timestamp": "00:31:51.710",
+      "text": "vers l'avant qui le pousse. Et je sais à quoi vous avez pensé et l'auteur du script y a pensé"
+    },
+    {
+      "id": 370,
+      "start": 1911.71,
+      "end": 1916.79,
+      "start_timestamp": "00:31:51.710",
+      "end_timestamp": "00:31:56.790",
+      "text": "aussi. Donc puisqu'on est dans une vidéo un peu technique, restons dans les calculs et répondons"
+    },
+    {
+      "id": 371,
+      "start": 1916.79,
+      "end": 1922.67,
+      "start_timestamp": "00:31:56.790",
+      "end_timestamp": "00:32:02.670",
+      "text": "ensemble à la question suivante. Un astronaute qui pète dans l'espace peut-il se propulser ainsi et"
+    },
+    {
+      "id": 372,
+      "start": 1922.67,
+      "end": 1928.99,
+      "start_timestamp": "00:32:02.670",
+      "end_timestamp": "00:32:08.990",
+      "text": "si oui, à quelle vitesse ? Considérons un astronaute de 80 kg et un volume du p de 150"
+    },
+    {
+      "id": 373,
+      "start": 1928.99,
+      "end": 1936.31,
+      "start_timestamp": "00:32:08.990",
+      "end_timestamp": "00:32:16.310",
+      "text": "ml. Le dp est composé de 12% de dihydrogène, 14% de dioxyde de carbone et 74% de méthane avec"
+    },
+    {
+      "id": 374,
+      "start": 1936.31,
+      "end": 1945.03,
+      "start_timestamp": "00:32:16.310",
+      "end_timestamp": "00:32:25.030",
+      "text": "une vitesse d'expulsion de 10 m par seconde. D'après le volume du mélange, sa composition"
+    },
+    {
+      "id": 375,
+      "start": 1945.03,
+      "end": 1948.75,
+      "start_timestamp": "00:32:25.030",
+      "end_timestamp": "00:32:28.750",
+      "text": "et en considérant sa masse volumique à une température de 37° sous une atmosphère de"
+    },
+    {
+      "id": 376,
+      "start": 1948.75,
+      "end": 1957.15,
+      "start_timestamp": "00:32:28.750",
+      "end_timestamp": "00:32:37.150",
+      "text": "pression, on obtient la masse du p soit 0, 1076 g. Le module Harmonie de l'ISS mesure 7 m de long."
+    },
+    {
+      "id": 377,
+      "start": 1957.15,
+      "end": 1963.23,
+      "start_timestamp": "00:32:37.150",
+      "end_timestamp": "00:32:43.230",
+      "text": "Combien de temps faudra-t-il à notre astronaute pour le traverser de part en part à la seule force"
+    },
+    {
+      "id": 378,
+      "start": 1963.23,
+      "end": 1969.11,
+      "start_timestamp": "00:32:43.230",
+      "end_timestamp": "00:32:49.110",
+      "text": "de son p ? On suppose un parfait alignement entre l'axe du p, la trajectoire souhaitée et le centre"
+    },
+    {
+      "id": 379,
+      "start": 1969.11,
+      "end": 1974.47,
+      "start_timestamp": "00:32:49.110",
+      "end_timestamp": "00:32:54.470",
+      "text": "de gravité de l'astronaute. Les frottements de l'air sont négligeables, la calculatrice autorisée."
+    },
+    {
+      "id": 380,
+      "start": 1974.47,
+      "end": 1980.59,
+      "start_timestamp": "00:32:54.470",
+      "end_timestamp": "00:33:00.590",
+      "text": "Postez vos réponses en commentaire. La science, ce sont d'abord des hommes et des femmes qui"
+    },
+    {
+      "id": 381,
+      "start": 1980.59,
+      "end": 1988.71,
+      "start_timestamp": "00:33:00.590",
+      "end_timestamp": "00:33:08.710",
+      "text": "cherchent la réponse à de grandes questions. Alors, levez les yeux au ciel, soyez astronogeek et à la revoyure."
+    }
+  ]
+}

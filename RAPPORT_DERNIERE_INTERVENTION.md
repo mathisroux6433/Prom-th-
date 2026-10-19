@@ -1,98 +1,207 @@
 # Rapport de la dernière intervention
 
-- **Numéro :** 0004
-- **Date :** 18 octobre 2026
-- **Projet :** Prométhé V1
-- **Objet :** inventaire d’une playlist YouTube et traitement intégral de ses trois premières vidéos non archivées
+- **Date de l'intervention :** 19 octobre 2026 (fuseau Asia/Tokyo)
+- **Dépôt :** `C:\Prométhé`
+- **Objet :** diagnostic et reprise idempotente de deux archives YouTube interrompues
+- **Vidéos :** `NAMUwxa2IIM` et `bAKGBamfaIo`
 
 ## A. Demande initiale
 
-La demande consistait à tester Prométhé V1 avec la playlist YouTube `PLRFRwS8s4qMrKCLG2RtIBlDWwENzWODd1`. Il fallait d’abord inventorier automatiquement la playlist avec `yt-dlp`, sans média, puis identifier les vidéos déjà archivées et celles restant à traiter. Ensuite, les trois premières vidéos non archivées devaient être traitées intégralement, sans intervention utilisateur entre elles : téléchargement, transcription CUDA, correction prudente, indexation, synthèse documentaire horodatée et contrôle qualité. Les huit autres vidéos ne devaient pas être exécutées. Enfin, les trois archives devaient être vérifiées et les temps de transcription, problèmes et interventions Agent documentés.
+L'utilisateur a signalé qu'une intervention destinée à archiver deux vidéos YouTube s'était interrompue pendant un téléchargement, puis que l'interface Codex dans Cursor était devenue grise et inutilisable. Après redémarrage de Cursor, aucun processus Python, FFmpeg ou yt-dlp ne subsistait.
 
-## B. État initial
+Les objectifs étaient les suivants :
 
-La playlist publique « 20ans de l’Euro », publiée par Trouble Fait et modifiée le 16 mai 2026 selon l’inventaire, contenait 11 vidéos. Aucun des 11 identifiants n’était présent dans les archives Prométhé. Le pipeline existant prenait déjà en charge les traitements unitaires, la reprise idempotente et les listes d’URL ; aucune modification du code ou de l’architecture n’était nécessaire.
+1. examiner l'état de Prométhé et retrouver les traces de l'intervention interrompue ;
+2. identifier la cause de l'échec si les journaux le permettaient ;
+3. déterminer, pour chaque vidéo, l'état du téléchargement, de la transcription, de la correction, de l'indexation, de la synthèse et du contrôle qualité ;
+4. reprendre uniquement les étapes manquantes ou interrompues, sans supprimer de fichier et sans recommencer un traitement achevé et validé ;
+5. terminer et valider les deux archives selon les procédures habituelles de Prométhé ;
+6. documenter les erreurs, leur cause et les corrections apportées.
 
-Inventaire initial, durées fournies par `yt-dlp` :
+URLs concernées :
 
-1. `yLEmwlm6VS8` — « Une chance pour la France » — 10:04 ;
-2. `2yaMBOGNjKs` — « Le fonctionnement de l’euro et de Target2 » — 14:41 dans l’inventaire, 14:40 dans les métadonnées détaillées ;
-3. `Q99fEqQfuW4` — « L’origine des “fausses” dettes Target2 » — 11:59 dans l’inventaire, 11:58 dans les métadonnées détaillées ;
-4. `FnU_TR_WYi4` — « The clinical death of the Euro (1/2) » — 18:53 ;
-5. `CjuQQJm2LnI` — « The clinical death of the Euro (2/2) » — 19:23 ;
-6. `fpdKmRdrC7M` — « L’euro va-t-il tuer l’Allemagne ? » — 32:55 ;
-7. `psPOa6MFaIg` — « Italexit… » — 32:42 ;
-8. `lWbsWPYyCvQ` — « Eight ways the euro ruins France » — 53:20 ;
-9. `fTCuGl3pNWk` — « L’euro et la crise financière » — 2:33:34 ;
-10. `kP6IxvjnBNI` — « The Return to the Franc » — 1:46:30 ;
-11. `rvl8ESCGwxw` — « To save the EURO, you will be POOR! » — 19:56.
+- `https://youtu.be/NAMUwxa2IIM`
+- `https://youtu.be/bAKGBamfaIo`
+
+## B. État initial constaté
+
+### B.1 Dépôt et processus
+
+- Le dépôt et l'environnement virtuel `.venv` étaient présents.
+- La version observée de Python dans `.venv` était 3.12.10 et celle de yt-dlp était `2026.08.19`.
+- Aucun changement de code suivi n'était présent ; `git status --short` ne signalait initialement que l'archive AstronoGeek non suivie après sa création partielle.
+- La vérification utilisateur de l'absence de processus résiduel était cohérente avec les fichiers et journaux retrouvés.
+
+### B.2 Vidéo `NAMUwxa2IIM`
+
+Une archive partielle existait sous :
+
+`archives/AstronoGeek/2026/2026-08-07_NAMUwxa2IIM/`
+
+Elle contenait seulement :
+
+- `metadata.json`, complet, avec une durée annoncée de 2 015 secondes ;
+- `etat_pipeline.json` ;
+- la structure vide `travail/` et `historique/`.
+
+État initial des étapes :
+
+- métadonnées : `complete` ;
+- téléchargement : `failed`, erreur `[Errno 22] Invalid argument` ;
+- transcription : `failed`, même erreur enregistrée par propagation de l'exception ;
+- correction, indexation, synthèse et contrôle qualité : `pending` ;
+- aucun audio, segment, texte de transcription, index, synthèse ou rapport de contrôle n'existait.
+
+La commande `promethe verifier NAMUwxa2IIM` confirmait l'archive incomplète.
+
+### B.3 Vidéo `bAKGBamfaIo`
+
+Aucune archive ni aucune occurrence de cet identifiant n'existait dans le dépôt. La commande `promethe verifier bAKGBamfaIo` répondait `Archive introuvable`.
+
+### B.4 Cause de l'échec retrouvée
+
+Les journaux Cursor de la session interrompue ont été examinés en lecture seule sous :
+
+`C:\Users\mathi\AppData\Roaming\Cursor\logs\20261019T104216\`
+
+La trace décisive figure dans `window4/exthost/openai.chatgpt/Codex.log` à 11:45:53. Elle montre :
+
+- une commande arrêtée par l'outil après environ 5 secondes (`Exit code: 124`, `command timed out after 4925 milliseconds`) ;
+- yt-dlp encore engagé dans l'extraction des formats YouTube ;
+- l'exception levée non pendant l'écriture du fichier audio, mais dans `yt_dlp.utils._utils.write_string`, lors de `out.flush()` ;
+- exception exacte : `OSError: [Errno 22] Invalid argument` sur le flux `<stdout>`.
+
+Conclusion : l'échec initial a été causé par la fermeture ou l'invalidation du canal de sortie de la commande après un délai d'exécution beaucoup trop court. yt-dlp a ensuite tenté d'afficher sa progression sur ce flux devenu invalide. Le média, le chemin d'archive et FFmpeg n'étaient pas en cause.
+
+Une alerte yt-dlp signalait aussi l'absence de moteur JavaScript pris en charge. Cette alerte n'était pas la cause de l'arrêt : les deux vidéos ont ensuite été extraites et téléchargées sans ajouter de moteur JavaScript ni modifier Prométhé.
+
+Les journaux Cursor montrent en outre des hôtes d'extensions devenus brièvement non réactifs, puis plusieurs sorties d'hôtes d'extensions à 11:45:22 et 11:49:03, ainsi que l'erreur `ENOPRO: No file system provider found` lors de l'accès à `globalStorage/storage.json`. Ces éléments sont cohérents avec l'interface grise rapportée, sans permettre d'affirmer qu'un unique défaut Cursor est la cause première de toute l'interface. En revanche, la cause immédiate de l'exception Prométhé/yt-dlp est certaine grâce à la pile d'appels.
 
 ## C. Travail effectué
 
-### 1. Inventaire sans médias
+### C.1 Décision de reprise
 
-`yt-dlp --flat-playlist --dump-single-json --no-warnings` a récupéré les 11 identifiants, titres, durées et chaînes sans télécharger d’audio ni de vidéo. Une comparaison avec tous les dossiers d’archives a confirmé que les 11 vidéos étaient initialement non archivées. Les trois premières ont été sélectionnées dans l’ordre de la playlist.
+L'architecture et le code n'ont pas été modifiés. La commande idempotente existante a été utilisée avec une fenêtre d'exécution adaptée :
 
-### 2. Téléchargement et transcription
+- `promethe reprendre "https://youtu.be/NAMUwxa2IIM"` pour l'archive partielle ;
+- `promethe traiter "https://youtu.be/bAKGBamfaIo"` pour la vidéo sans archive.
 
-Chaque vidéo sélectionnée a été lancée avec `promethe reprendre URL`. Les commandes ont été exécutées séparément pour chronométrer chaque traitement et conserver une reprise indépendante. Le pipeline a téléchargé un `audio.webm`, puis transcrit avec `faster-whisper`, modèle `medium`, GPU CUDA et `float16`.
+La première reprise a conservé les métadonnées déjà validées. La limite d'attente de l'outil d'orchestration a ensuite été atteinte pendant la transcription, mais les processus ont été observés comme actifs et n'ont pas été relancés. La transcription unique a été laissée jusqu'à son écriture atomique. Cette surveillance a évité un doublon de calcul.
 
-Temps mesuré de la phase de transcription, entre l’écriture finale de `audio.webm` et celle de `segments.json` :
+### C.2 Traitements automatiques
 
-- `yLEmwlm6VS8` : **64,125 s** ; pipeline initial complet : 70,598 s ; 123 segments ;
-- `2yaMBOGNjKs` : **99,392 s** ; pipeline initial complet : 107,827 s ; 131 segments ;
-- `Q99fEqQfuW4` : **86,618 s** ; pipeline initial complet : 94,492 s ; 107 segments.
+Pour chaque vidéo, le pipeline a produit et validé :
 
-### 3. Correction prudente
+- `audio.webm` ;
+- `segments.json` ;
+- `transcription_brute.txt` ;
+- `transcription_corrigee.txt` ;
+- la mise à jour de `etat_pipeline.json` ;
+- `travail/requetes/requete_indexation.txt`.
 
-Les trois transcriptions corrigées ont été comparées aux textes bruts. Seules les erreurs manifestes de reconnaissance ont été corrigées, sans réécriture stylistique : noms et sigles, « lésés », « décote », « consœurs », « Target », « euros centraux », « Monopoly », « dettes », etc. Les formulations ambiguës ont été conservées.
+La transcription a utilisé le modèle `medium` sur `cuda`. Conformément au fonctionnement normal de Prométhé, la correction initiale est une copie strictement identique de la transcription brute, marquée `copie_identique_non_corrigee`. Aucune correction incertaine n'a été inventée.
 
-- vidéo 1 : 2 lignes modifiées, 123 segments intacts ;
-- vidéo 2 : 7 lignes modifiées, 131 segments intacts ;
-- vidéo 3 : 9 lignes modifiées, 107 segments intacts.
+### C.3 Indexation, synthèse et contrôle qualité
 
-Les trois états portent `correction_agent_prudente` et `integrite_horodatages: verifiee`.
+Pour chaque archive, les sources archivées ont servi à produire :
 
-### 4. Indexation et synthèse
+- `travail/reponses/reponse_indexation.json` ;
+- `index_video.json`, importé et validé par `promethe regenerer-index` ;
+- `travail/reponses/reponse_synthese.md` ;
+- `synthese_video.md`, importée et validée par `promethe regenerer-synthese` ;
+- `travail/requetes/requete_synthese.txt` ;
+- `travail/requetes/requete_controle_qualite.txt` ;
+- `travail/reponses/reponse_controle_qualite.json` ;
+- `rapport_controle_qualite.md`, importé et validé par `promethe relire-synthese`.
 
-Les requêtes d’indexation générées automatiquement ont été traitées directement par l’Agent. Trois réponses JSON complètes ont été placées dans `travail/reponses` et importées avec `promethe regenerer-index`. Elles documentent thèmes, raisonnements, concepts, personnes, organismes, événements, repères temporels, expressions et citations.
+Les deux contrôles qualité ont comparé la synthèse à l'index et à la transcription corrigée, sans vérification factuelle externe. Les deux verdicts sont `conforme`, sans problème confirmé et sans modification de la synthèse ; aucun fichier de sauvegarde antérieur n'a donc été nécessaire.
 
-Après génération des requêtes de synthèse, trois brouillons documentaires ont été rédigés et importés avec `regenerer-synthese` :
+### C.4 Fichiers créés ou modifiés
 
-- vidéo 1 : 723 mots, promesses initiales de l’euro, estimations de coûts, Target2 et programme de la série ;
-- vidéo 2 : 642 mots, bilans bancaires, création monétaire, monnaie centrale, compensation et architecture de l’eurosystème ;
-- vidéo 3 : 763 mots, crise de 2008, rupture interbancaire, soldes Target, scénarios de sortie et argument des « fausses dettes ».
+Archive AstronoGeek complétée :
 
-Chaque synthèse suit les arguments et leurs enchaînements, comporte des liens YouTube horodatés, attribue les affirmations à l’auteur et précise qu’elle n’est pas une vérification externe.
+`archives/AstronoGeek/2026/2026-08-07_NAMUwxa2IIM/`
 
-### 5. Contrôle qualité
+- créés : audio, segments, deux transcriptions, index, synthèse, rapport qualité, requêtes et réponses de travail ;
+- modifié : `etat_pipeline.json` ;
+- conservé sans retrait : `metadata.json` et toute la structure partielle initiale.
 
-Les trois requêtes de contrôle qualité ont été générées. L’Agent a comparé chaque synthèse à sa transcription corrigée et à son index : nombres, attributions, citations, horodatages, couverture et prudence. Les réponses JSON utilisent `@file:reponse_synthese.md` dans le même dossier. Les trois imports ont produit un verdict `conforme`, sans modification supplémentaire ni ancienne version inutile.
+Nouvelle archive Le Précepteur :
 
-### 6. Vérification et limites du lot
+`archives/Le_Précepteur/2020/2020-05-28_bAKGBamfaIo/`
 
-`promethe verifier` a déclaré les trois archives complètes. Pour chacune, les neuf documents définitifs et les quatre sous-dossiers organisationnels sont présents, les fichiers JSON se décodent et les sept étapes de l’état sont `complete`.
+- créés : métadonnées, audio, segments, deux transcriptions, état, index, synthèse, rapport qualité, requêtes et réponses de travail, ainsi que les sous-dossiers standards.
 
-Une recherche explicite des huit autres identifiants a confirmé qu’aucun dossier d’archive ne leur a été créé. Le test est donc resté strictement limité aux trois vidéos autorisées.
+Rapports d'intervention :
 
-## D. Résultats
+- remplacé et finalisé : `RAPPORT_DERNIERE_INTERVENTION.md` ;
+- copie historique créée seulement après finalisation : `rapports/0005_2026-10-19_121038_RAPPORT_INTERVENTION.md`.
 
-Les trois archives complètes sont :
+Aucun fichier existant n'a été supprimé, déplacé ou écrasé dans les archives. Aucun fichier source, test, dépendance ou commande utilisateur n'a été modifié.
 
-- `archives/Trouble_Fait/2019/2019-10-25_yLEmwlm6VS8` ;
-- `archives/Trouble_Fait/2019/2019-10-27_2yaMBOGNjKs` ;
-- `archives/Trouble_Fait/2019/2019-10-29_Q99fEqQfuW4`.
+## D. Résultats et validations
 
-Pour chacune, `metadata.json`, `audio.webm`, `segments.json`, les deux transcriptions, `index_video.json`, `synthese_video.md`, `etat_pipeline.json` et `rapport_controle_qualite.md` sont à la racine. Les requêtes et réponses sont rangées sous `travail/`.
+### D.1 Archive `NAMUwxa2IIM`
 
-### Problèmes rencontrés
+- titre : « Les premiers vaisseaux étaient plus archaïques que vous ne le pensez. » ;
+- chaîne : AstronoGeek ;
+- durée métadonnées : 2 015 s (33 min 35 s) ;
+- durée audio mesurée par FFprobe : 2 014,681 s ;
+- taille audio : 32 211 885 octets ;
+- transcription : `complete`, 382 segments, français, du repère 0,620 s au repère 1 988,710 s ;
+- correction : `complete`, copie identique de la transcription brute ;
+- indexation : `complete`, JSON conforme au schéma 1.0 et au bon identifiant ;
+- synthèse : `complete`, Markdown structuré et importé ;
+- contrôle qualité : `complete`, verdict `conforme`, synthèse inchangée ;
+- `promethe verifier NAMUwxa2IIM` : `complete: true`, code de sortie 0.
 
-Le seul avertissement technique récurrent provient de `yt-dlp`, qui signale l’absence d’un runtime JavaScript pris en charge et le risque futur que certains formats deviennent indisponibles. Cet avertissement n’a bloqué ni l’inventaire, ni les trois téléchargements. Aucun échec réseau, CUDA, Whisper, validation JSON ou import n’a eu lieu. Les écarts d’une seconde entre l’inventaire plat et les métadonnées détaillées des vidéos 2 et 3 sont ceux fournis par YouTube/`yt-dlp` et n’affectent pas les archives.
+Empreintes principales :
 
-### Interventions manuelles et conclusion du test
+- `audio.webm` : `04c99cec66de4e9abb999c0f7de1a7db28ac9d591814bc3c3b9a9e1f063a8b9e` ;
+- `segments.json` : `b2315b85556e147b964addbabf46923171e6c6218ddac012417abb614503974f` ;
+- `transcription_brute.txt` et `transcription_corrigee.txt` : `a4b390b98abe0bbd8e991e8c264da740c7897f87e40f4c6c46a89d729ef5bcba` ;
+- `index_video.json` : `80b5b6801cc0906314530d371735209f87b3643efdf9dabb4061ed0ed4043f37` ;
+- `synthese_video.md` : `76ab4cad86f4f6d427032aa931f234371fa7d1b2e4039b1e8065e2722a11fdc6`.
 
-Aucune intervention de l’utilisateur n’a été nécessaire entre les vidéos. L’Agent a effectué les corrections prudentes, indexations, synthèses et contrôles qualité après les exports prévus par le pipeline. Le traitement par lot natif n’a pas été utilisé parce qu’un chronométrage individuel précis était demandé ; la reprise unitaire existante suffisait et aucune adaptation n’a été apportée au projet.
+### D.2 Archive `bAKGBamfaIo`
 
-Le test confirme qu’une playlist peut être inventoriée, filtrée contre les archives existantes puis traitée automatiquement par sous-ensemble sans intervention utilisateur entre les vidéos. Les huit vidéos restantes attendent un accord explicite.
+- titre : « L'ÉPICURISME - La recette du bonheur » ;
+- chaîne : Le Précepteur ;
+- durée métadonnées : 1 489 s (24 min 49 s) ;
+- durée audio mesurée par FFprobe : 1 488,901 s ;
+- taille audio : 19 240 647 octets ;
+- transcription : `complete`, 248 segments, français, du repère 2,350 s au repère 1 452,780 s ;
+- correction : `complete`, copie identique de la transcription brute ;
+- indexation : `complete`, JSON conforme au schéma 1.0 et au bon identifiant ;
+- synthèse : `complete`, Markdown structuré et importé ;
+- contrôle qualité : `complete`, verdict `conforme`, synthèse inchangée ;
+- `promethe verifier bAKGBamfaIo` : `complete: true`, code de sortie 0.
 
-Le présent rapport courant 0004 est entièrement finalisé avant sa copie. La copie historique `rapports/0004_2026-10-18_165245_RAPPORT_INTERVENTION.md` doit être créée uniquement à partir de ce fichier final, puis son SHA-256 comparé à celui du courant avant clôture.
+Empreintes principales :
+
+- `audio.webm` : `4a76f94e33b511508d5c63e6649f673d35d3ffe99eb25fda36bdc819c3176fb8` ;
+- `segments.json` : `f48efab61512efc69f8c1c06214710c2af909c83c036de8d17298b328a95b524` ;
+- `transcription_brute.txt` et `transcription_corrigee.txt` : `094ce1d9c42aa0f99e01a87c0c11cc00e71ce06e6b76ffac3132ba3be774e017` ;
+- `index_video.json` : `1e8fd0a7709e54f43e1862d5f56978e5c3cbbb7d4a017b051955770b9ed8f5e4` ;
+- `synthese_video.md` : `bd92dee7482209d11a00ea80e900dd08353ea9dde4e085cf86fdeeb4894112ee`.
+
+### D.3 Contrôles globaux
+
+- Tous les JSON documentaires et d'état ont été relus et désérialisés sans erreur.
+- Les durées FFprobe concordent avec les métadonnées à moins d'une seconde pour les deux audios.
+- Les deux paires transcription brute/corrigée ont des tailles et SHA-256 strictement identiques, conformément au mode de correction déclaré.
+- Toutes les étapes de chaque `etat_pipeline.json` sont `complete`.
+- Les deux commandes `promethe verifier` renvoient `complete: true` et le code 0.
+- La suite `python -m unittest discover -s tests -v` exécute 14 tests : 14 réussis, 0 échec.
+- Aucun processus Prométhé, Python, FFmpeg ou yt-dlp lié à l'intervention ne subsiste après la fin des traitements.
+- Le rapport courant et sa copie historique ont été comparés par SHA-256 après la copie ; leurs empreintes sont strictement identiques.
+
+### D.4 Limites restantes
+
+- Les transcriptions Whisper contiennent les imperfections ordinaires d'une reconnaissance automatique. Elles sont volontairement conservées comme transcription brute et copie de correction non manuelle ; aucune correction linguistique humaine exhaustive n'a été demandée ni simulée.
+- Le contrôle qualité documentaire vérifie les synthèses contre les sources archivées uniquement. Il ne constitue pas un fact-checking externe des affirmations des vidéos.
+- L'alerte yt-dlp sur l'absence de moteur JavaScript demeure possible pour de futures vidéos. Elle n'a bloqué aucune des deux archives et aucune modification d'architecture n'a donc été justifiée pendant cette intervention.
+
+## Conclusion
+
+Les deux archives sont terminées, cohérentes et validées. L'échec initial ne venait pas de YouTube, du contenu, de FFmpeg ou du format d'archive : un délai d'exécution d'environ cinq secondes a invalidé le flux de sortie pendant que yt-dlp poursuivait son travail, provoquant l'exception au prochain affichage de progression. La reprise avec une surveillance adaptée a fonctionné sans changement de code, sans suppression et sans retraitement d'une étape déjà validée.

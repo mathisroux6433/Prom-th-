@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "video_id": "bAKGBamfaIo",
+  "resume_general": "Le Précepteur présente l'épicurisme comme une philosophie de la modération plutôt que de la jouissance sans limites. Il expose la distinction entre plaisir et désir, puis les trois classes de désirs attribuées à Épicure : naturels et nécessaires, naturels mais non nécessaires, et vains. Il relie ensuite l'illimitation des désirs, ou hybris, à l'addiction, à l'accumulation capitaliste et aux mécanismes de la société de consommation, avant de défendre la maîtrise de soi, les limites collectives et la lecture de la Lettre à Ménécée.",
+  "themes_principaux": [
+    {"theme": "L'épicurisme comme philosophie de la modération", "niveau": "developpe", "horodatages": ["00:00:52", "00:04:17", "00:05:02"]},
+    {"theme": "Distinction du désir et du plaisir", "niveau": "developpe", "horodatages": ["00:05:18", "00:06:54"]},
+    {"theme": "Classification épicurienne des désirs", "niveau": "developpe", "horodatages": ["00:07:02", "00:08:47", "00:10:33"]},
+    {"theme": "Hybris, addiction et perte de maîtrise", "niveau": "developpe", "horodatages": ["00:11:28", "00:12:15", "00:13:52"]},
+    {"theme": "Critique de la société de consommation et du désir illimité", "niveau": "developpe", "horodatages": ["00:14:38", "00:17:06", "00:18:50"]},
+    {"theme": "Nécessité des limites et de la loi", "niveau": "developpe", "horodatages": ["00:21:13", "00:22:14", "00:22:49"]}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Comparaison introductive avec le stoïcisme", "horodatages": ["00:00:02"]},
+    {"sujet": "Parallèle avec la conception du désir chez Rousseau", "horodatages": ["00:06:23"]},
+    {"sujet": "Filiation vers l'utilitarisme de Bentham et Mill", "horodatages": ["00:13:27", "00:20:08"]},
+    {"sujet": "Objet transitionnel chez Winnicott", "horodatages": ["00:19:07"]},
+    {"sujet": "Invitation à lire la Lettre à Ménécée", "horodatages": ["00:23:31"]}
+  ],
+  "mots_cles": ["Épicure", "épicurisme", "bonheur", "plaisir", "douleur", "désir", "modération", "frugalité", "maîtrise de soi", "hybris", "addiction", "utilitarisme", "capitalisme", "société de consommation", "limite", "loi", "Lettre à Ménécée"],
+  "variantes_lexicales": [
+    {"forme": "hybris", "variantes": ["ubris", "illimitation des désirs"]},
+    {"forme": "désirs non naturels et non nécessaires", "variantes": ["désirs vains"]},
+    {"forme": "modération", "variantes": ["équilibre", "pondération", "limitation", "frugalité"]}
+  ],
+  "personnes": [
+    {"nom": "Épicure", "niveau": "developpe", "role": "fondateur de l'épicurisme dont la doctrine est exposée", "horodatages": ["00:00:18", "00:04:17", "00:07:02"]},
+    {"nom": "Jean-Jacques Rousseau", "niveau": "mention", "role": "philosophe cité à propos du désir qui disparaît une fois son objet obtenu", "horodatages": ["00:06:23"]},
+    {"nom": "Jeremy Bentham", "niveau": "mention", "role": "penseur associé au développement de l'utilitarisme", "horodatages": ["00:13:33"]},
+    {"nom": "John Stuart Mill", "niveau": "mention", "role": "penseur ayant poursuivi le courant utilitariste", "horodatages": ["00:13:39"]},
+    {"nom": "Alexis de Tocqueville", "niveau": "developpe", "role": "auteur mobilisé pour analyser une domination sans tyran direct", "horodatages": ["00:17:06"]},
+    {"nom": "Donald Winnicott", "niveau": "mention", "role": "auteur du concept d'objet transitionnel appliqué ici à la consommation", "horodatages": ["00:19:07"]}
+  ],
+  "organismes": [],
+  "concepts": [
+    {"nom": "plaisir", "explication": "sensation agréable et résultat de la satisfaction d'un désir", "horodatages": ["00:02:07", "00:05:28"]},
+    {"nom": "désir", "explication": "force intérieure et manque qui pousse vers un objet afin de se l'approprier", "horodatages": ["00:05:35", "00:06:12"]},
+    {"nom": "désirs naturels et nécessaires", "explication": "désirs liés à des besoins vitaux ou à la perpétuation de l'humanité, à satisfaire", "horodatages": ["00:07:14", "00:08:36"]},
+    {"nom": "désirs naturels et non nécessaires", "explication": "plaisirs conformes aux inclinations naturelles mais non indispensables, à satisfaire avec modération", "horodatages": ["00:08:47", "00:09:51"]},
+    {"nom": "désirs vains", "explication": "désirs ni naturels ni nécessaires, présentés comme un dérèglement", "horodatages": ["00:10:33", "00:11:10"]},
+    {"nom": "hybris", "explication": "illimitation par laquelle une personne outrepasse la mesure et devient dominée par ses désirs", "horodatages": ["00:13:52", "00:16:12"]},
+    {"nom": "objet transitionnel", "explication": "objet compensant une absence ou un manque, rapproché par l'auteur des achats de consommation", "horodatages": ["00:19:07"]},
+    {"nom": "autogouvernement", "explication": "capacité idéale des individus à intérioriser la règle et à se maîtriser", "horodatages": ["00:22:20", "00:22:49"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "développement de l'utilitarisme au XVIIIe siècle", "niveau": "mention", "horodatages": ["00:13:27"]},
+    {"nom": "Lettre à Ménécée", "niveau": "mention", "horodatages": ["00:23:31"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:02", "fin": "00:05:18", "contenu": "déconstruction du contresens de l'épicurisme comme jouissance excessive"},
+    {"debut": "00:05:18", "fin": "00:07:02", "contenu": "distinction entre désir et plaisir"},
+    {"debut": "00:07:02", "fin": "00:13:27", "contenu": "trois catégories de désirs et risques de l'addiction"},
+    {"debut": "00:13:27", "fin": "00:17:06", "contenu": "utilitarisme, hybris et exemple de l'accumulation de richesse"},
+    {"debut": "00:17:06", "fin": "00:21:13", "contenu": "gouvernement par les désirs et société de consommation"},
+    {"debut": "00:21:13", "fin": "00:23:31", "contenu": "limites collectives, loi et autogouvernement"},
+    {"debut": "00:23:31", "fin": "00:24:12", "contenu": "conseil de lecture et conclusion"}
+  ],
+  "expressions_representatives": [
+    {"expression": "le bonheur exige de calculer les conséquences des plaisirs et de limiter les désirs", "horodatage": "00:04:17"},
+    {"expression": "la société de consommation gouverne d'autant mieux que les individus suivent des désirs conditionnés", "horodatage": "00:18:14"}
+  ],
+  "citations_exactes": [
+    {"citation": "La philosophie d'Épicure, c'est d'abord une philosophie de la modération.", "horodatage": "00:04:32"},
+    {"citation": "Il n'y a pas de bonheur possible dans l'excès.", "horodatage": "00:05:02"},
+    {"citation": "La philosophie d'épicure est une philosophie de la frugalité.", "horodatage": "00:13:05"},
+    {"citation": "on s'écarte de la voie du bonheur, on s'écarte de la voie de la sagesse authentique.", "horodatage": "00:16:48"}
+  ]
+}
