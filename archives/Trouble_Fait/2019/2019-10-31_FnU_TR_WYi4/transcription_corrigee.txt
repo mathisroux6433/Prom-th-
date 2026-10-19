@@ -1,0 +1,168 @@
+[00:00:00.000 --> 00:00:05.160] Salut à tous. Dans l'épisode précédent, on a vu que les soldes Target ne sont pas vraiment des dettes,
+[00:00:05.160 --> 00:00:09.900] mais simplement de la monnaie centrale en provenance des États de la zone euro, qui atterrit sur le compte
+[00:00:09.900 --> 00:00:14.620] d'une banque centrale de la zone dans le cadre d'un transfert transfrontalier de monnaie secondaire
+[00:00:14.620 --> 00:00:17.900] d'une banque commerciale à une autre. C'était évident.
+[00:00:17.900 --> 00:00:23.460] — Mais oui, c'est clair. — L'enjeu de comprendre ce sujet parfaitement chiant se comptera bientôt en centaines,
+[00:00:23.460 --> 00:00:29.800] voire même en milliers de milliards d'euros, quand tout ce système explosera, car il finira par exploser.
+[00:00:29.800 --> 00:00:34.620] C'est ce que montre l'augmentation des soldes Target, qui indique une fuite massive de monnaie de certains pays
+[00:00:34.620 --> 00:00:41.220] de la zone euro, notamment l'Italie, l'Espagne, le Portugal et la Grèce, vers d'autres pays de cette zone.
+[00:00:41.220 --> 00:00:46.120] En premier lieu, l'Allemagne, suivie de très loin pour des questions de taille par le Luxembourg,
+[00:00:46.120 --> 00:00:51.660] les Pays-Bas et la Finlande. L'augmentation constante de cette fuite de monnaie, qui se compte déjà
+[00:00:51.660 --> 00:00:56.660] en centaines de milliards, va rendre de plus en plus intenable le maintien d'une parité de 1 pour 1
+[00:00:56.660 --> 00:01:02.920] entre les monnaies de ces pays. Le but des deux prochaines vidéos va donc être de comprendre pourquoi
+[00:01:02.920 --> 00:01:08.680] il y a une telle asymétrie dans les échanges entre certains pays, et pourquoi rien ou presque n'a été fait
+[00:01:08.680 --> 00:01:26.280] pour régler ce problème, alors qu'il va entraîner la fin de l'euro. Avant l'euro, ce genre de questions
+[00:01:26.280 --> 00:01:30.580] se posaient pas. Les déséquilibres commerciaux entre les pays de la zone se réglaient d'eux-mêmes
+[00:01:30.580 --> 00:01:35.980] par l'effet de l'offre et de la demande entre leurs monnaies sur les marchés financiers.
+[00:01:35.980 --> 00:01:41.200] Pour faire simple, lorsqu'un pays importe plus qu'il n'exporte, sa monnaie va perdre de la valeur
+[00:01:41.200 --> 00:01:47.280] par rapport aux autres monnaies, rendant à la fois ses importations plus chères et ses exportations plus compétitives,
+[00:01:47.280 --> 00:01:52.980] jusqu'à ce qu'un nouvel équilibre soit trouvé. Et si les déséquilibres étaient généralisés et trop importants,
+[00:01:52.980 --> 00:01:58.660] un État pouvait aussi décider de dévaluer sa monnaie. Ce sont les fameuses dévaluations compétitives.
+[00:01:58.660 --> 00:02:02.800] Mais comme il a été décidé que les monnaies nationales des États de la zone euro s'échangeront,
+[00:02:02.800 --> 00:02:08.920] advita metternam a un taux fixe de 1 pour 1, eh bien les appréciations et dépréciations nécessaires
+[00:02:08.920 --> 00:02:14.320] pour corriger ces déséquilibres se sont portées sur d'autres prix, principalement celui du travail,
+[00:02:14.320 --> 00:02:19.320] de la fiscalité et des normes sociales et environnementales. Parce que c'est des prix sur lesquels les politiciens
+[00:02:19.320 --> 00:02:24.780] peuvent facilement agir, contrairement au prix des matières premières, par exemple. Ça, c'est ce qu'on appelle
+[00:02:24.780 --> 00:02:30.840] faire de la dévaluation interne. En d'autres termes, l'euro n'a pas supprimé la concurrence entre les États,
+[00:02:30.840 --> 00:02:38.040] comme on l'entend naïvement parfois. Celle-ci, c'est simplement décaler de leur monnaie vers leur système socioéconomique.
+[00:02:38.040 --> 00:02:45.720] C'est alors que l'Allemagne s'est dépêchée de faire les fameuses réformes Hartz I, II, III et IV, entre 2003 et 2005,
+[00:02:45.720 --> 00:02:50.660] qui avaient pour but de faire baisser le prix du travail. Les allocations chômage ont été réduites et sont devenues
+[00:02:50.660 --> 00:02:56.040] dégressives. La retraite est passée à 65 ans. Ils ont flexibilisé le marché du travail en créant un statut
+[00:02:56.040 --> 00:03:02.960] d'auto-entrepreneur, des mini-jobs sous-payés, etc., etc. Bref, ils ont fait les fameuses réformes nécessaires
+[00:03:02.960 --> 00:03:09.060] à l'heure de la mondialisation que nos politiciens ont tant de mal à appliquer dans notre pays de gaulois réfractaires,
+[00:03:09.060 --> 00:03:16.560] feignants, ringards et extraits listes. Avec ces réformes, l'Allemagne a piqué des parts de marché à ses petits voisins européens,
+[00:03:16.560 --> 00:03:22.160] parce qu'elle a bénéficié d'un boost de compétitivité qui ne pouvait plus être compensé, comme ça l'aurait été avant,
+[00:03:22.160 --> 00:03:29.120] par une appréciation de sa monnaie. Et comme en plus, l'euro est la résultante de 18 économies dont la plupart sont moins compétitives
+[00:03:29.120 --> 00:03:36.860] que l'Allemagne, eh bien le taux de change de l'euro est forcément plus faible que le taux potentiel qu'aurait eu le Dutchmark seul.
+[00:03:36.860 --> 00:03:44.240] Une étude menée par Jacques Sapir en 2012 estime que si l'Allemagne sortait de l'euro, sa monnaie vaudrait environ 1,50 $,
+[00:03:44.240 --> 00:03:50.720] alors qu'aujourd'hui, l'euro tourne autour des 1,10 $. Ça signifie que l'euro représente une subvention à l'exportation
+[00:03:50.720 --> 00:03:58.080] pour l'Allemagne d'environ 32%. En conséquence de quoi, depuis l'introduction de l'euro, l'Allemagne s'est mise à dégager
+[00:03:58.080 --> 00:04:04.840] des excellents commerciaux de plus en plus importants, tant envers des pays de la zone euro grâce au choc de compétitivité interne
+[00:04:04.840 --> 00:04:12.720] qu'envers des pays extérieurs de la zone euro en bénéficiant d'un taux de change artificiellement bas, le tout au détriment de sa population
+[00:04:12.720 --> 00:04:19.920] et de ses voisins européens. Car à l'inverse, des pays du sud de la zone euro notamment sont pénalisés à l'international
+[00:04:19.920 --> 00:04:25.840] par un taux de change trop élevé, de 10 à 40% selon les pays, et ils subissent des chocs asymétriques tout azimuts
+[00:04:25.840 --> 00:04:35.720] à l'intérieur de la zone euro, dumping fiscal, social, monétaire, etc. Leur exportation a donc chuté et leur déficit commercial s'est creusé.
+[00:04:35.720 --> 00:04:41.840] Malgré cela, l'euro a pu fonctionner dans ses premières années, d'abord parce que les écarts de compétitivité mettent du temps
+[00:04:41.840 --> 00:04:48.600] à s'accumuler et à montrer leurs effets, et aussi parce que la croissance des pays du sud a été dopée par des taux d'intérêt bas
+[00:04:48.600 --> 00:04:54.680] grâce à l'euro. Ces pays représentaient une opportunité pour les investisseurs, et notamment pour les investisseurs du nord
+[00:04:54.680 --> 00:05:00.200] de la zone euro, parce qu'ils partageaient maintenant la même monnaie, supprimant le risque de change.
+[00:05:00.200 --> 00:05:07.120] Tant que l'argent envoyé au nord par la consommation des pays du sud était réinvesti dans le sud par la magie du marché,
+[00:05:07.120 --> 00:05:14.080] le système pouvait fonctionner. Mais après la crise de 2008, suivie de la crise de l'euro, la confiance des investisseurs
+[00:05:14.080 --> 00:05:21.880] envers l'euro a disparu, entraînant une fuite des capitaux du sud vers le nord, rendue visible sous la forme des soldes Target 2.
+[00:05:21.880 --> 00:05:27.040] Car comme on l'a vu, cette asymétrie entre les échanges avait bousillé le marché interbancaire.
+[00:05:27.040 --> 00:05:33.360] Dès lors, les économies des pays du sud sont asphyxiées par le manque d'argent. Elles sont condamnées à un chômage de masse,
+[00:05:33.360 --> 00:05:40.280] à une croissance économique inexistante et à une dette en constante augmentation pour acheter la paix sociale.
+[00:05:40.280 --> 00:05:46.120] Pourtant, une monnaie commune peut fonctionner. On a l'exemple du dollar, qui fonctionne sur le même modèle que l'euro,
+[00:05:46.120 --> 00:05:51.320] à moins que ce soit l'inverse, avec 12 banques centrales régionales chapotées par une banque fédérale.
+[00:05:51.320 --> 00:05:57.280] Et ça existe depuis des décennies sans qu'on accuse ce système d'assécher l'économie d'un État en particulier.
+[00:05:57.280 --> 00:06:04.240] Mais il y a deux différences fondamentales entre le dollar et l'euro. La première, c'est que les déséquilibres de paiements internes
+[00:06:04.240 --> 00:06:10.800] entre les 12 banques centrales régionales du dollar sont réglées annuellement par des transferts de certificats en or,
+[00:06:10.800 --> 00:06:16.640] contrairement au solde Target, qui peuvent augmenter sans fin. Et la différence la plus significative avec les États-Unis,
+[00:06:16.640 --> 00:06:23.240] c'est que la zone euro n'est pas une zone monétaire optimale. Dans n'importe quel pays ou zone monétaire,
+[00:06:23.240 --> 00:06:29.440] il peut y avoir une région qui s'appauvrit pendant qu'une autre s'enrichit. Cet écart peut apparaître pour une infinité de raisons.
+[00:06:29.440 --> 00:06:38.600] Déficit d'infrastructure, décision politique pénalisante, catastrophe naturelle, etc. C'est ce qu'on appelle un choc asymétrique.
+[00:06:38.600 --> 00:06:43.280] En l'absence de taux de change flottant entre ces régions, vu qu'elles font partie de la même zone monétaire,
+[00:06:43.280 --> 00:06:49.400] et si la magie du marché ne suffit pas à répartir efficacement les capitaux, tous les États sont dotés de mécanismes
+[00:06:49.400 --> 00:06:55.400] plus ou moins interventionnistes pour corriger les effets de ces chocs asymétriques. Et dans le cas de la zone euro,
+[00:06:55.400 --> 00:07:02.480] ces mécanismes ne fonctionnent pas ou n'existent pas. En gros, la zone euro a trois possibilités pour corriger ces déséquilibres.
+[00:07:02.480 --> 00:07:09.160] Théoriquement, chacune de ces possibilités peut se suffire à elle-même. Mais dans la plupart des cas, on observe une combinaison des trois.
+[00:07:09.160 --> 00:07:14.920] Premièrement, il faut harmoniser le plus possible les conditions sociales et fiscales à l'intérieur de la zone monétaire.
+[00:07:14.920 --> 00:07:23.160] Deuxièmement, il faut fluidifier au maximum la mobilité des travailleurs. Et troisièmement, il faut avoir des mécanismes de répartition des richesses.
+[00:07:23.160 --> 00:07:30.800] Et là, ça peut prendre plusieurs formes. Allocation directe, assurance chômage, retraite ou même des investissements publics.
+[00:07:30.800 --> 00:07:38.800] Par exemple, les États-Unis, qui ne sont pas un pays socialiste, ils utilisent leur énorme budget de défense pour faire de la répartition des richesses,
+[00:07:38.800 --> 00:07:45.520] en obligeant leurs fournisseurs à installer des usines dans des zones de chômage élevées. La solution la plus efficace pour sauver l'euro
+[00:07:45.520 --> 00:07:52.720] serait donc d'imiter les États-Unis et de créer une grande fédération européenne chargée de corriger les effets des chocs asymétriques
+[00:07:52.720 --> 00:08:03.640] entre les États par des décisions politiques d'harmonisation et de répartition des richesses, transformant l'euro en zone monétaire optimale.
+[00:08:03.640 --> 00:08:07.760] Merci à tous d'avoir regardé cette vidéo et à la Commission européenne pour l'avoir spoon-saurisée.
+[00:08:07.760 --> 00:08:13.840] Vous trouverez en description un code de moins 15% de réduction sur votre drapeau européen.
+[00:08:13.840 --> 00:08:18.080] Mouais. Seulement, vous pensez bien qu'ils ne nous ont pas attendu pour avoir cette idée.
+[00:08:18.080 --> 00:08:23.920] En fait, ça faisait même partie du plan de base de certains partisans de la construction européenne dès la conception de l'euro.
+[00:08:23.920 --> 00:08:29.880] Mais si aujourd'hui, cette belle fédération européenne ne s'est toujours pas réalisée, c'est peut-être pour de bonnes raisons, hein.
+[00:08:29.880 --> 00:08:36.600] Disons qu'il y a quelques petits blocages. On va prendre les problèmes un par un, parce qu'il y a vraiment beaucoup à dire.
+[00:08:36.600 --> 00:08:45.760] Premièrement, harmoniser totalement ou même partiellement les systèmes sociaux et fiscaux des États est beaucoup plus simple à dire qu'à faire.
+[00:08:45.760 --> 00:08:53.680] L'UE mélange des monarchies et des républiques, des États centralisateurs et des fédérations, des secteurs publics plus ou moins présents,
+[00:08:53.680 --> 00:09:00.520] des économies basées sur l'industrie et d'autres sur les services, avec à chaque fois différents types d'industries et différents types de services
+[00:09:00.520 --> 00:09:07.360] qui n'ont pas forcément les mêmes besoins, etc., etc. Toutes ces différences découlent d'histoires différentes,
+[00:09:07.360 --> 00:09:13.760] de cultures différentes, de politiques sociales et économiques différentes, et même de positions géographiques différentes
+[00:09:13.760 --> 00:09:20.320] qui ont façonné l'économie des pays d'Europe. Décrété du jour au lendemain que 28 États vont avoir le même salaire minimum,
+[00:09:20.320 --> 00:09:26.920] les mêmes cotisations, la même fiscalité des entreprises, les mêmes normes, etc., ça suppose que tous ces États vont s'entendre
+[00:09:26.920 --> 00:09:33.240] sur une base commune et qui sont prêts à déléguer presque toute leur politique budgétaire à l'échelon européen.
+[00:09:33.240 --> 00:09:39.320] Et ça, ça se fait pas en claquant des lois. C'était d'ailleurs l'un des buts officieux de l'euro de permettre cette décision.
+[00:09:39.320 --> 00:09:46.840] L'euro devait nous entraîner dans une crise créée délibérément pour pousser les États à accepter un compromis décidé dans l'urgence
+[00:09:46.880 --> 00:09:53.600] qu'ils n'auraient pas accepté en temps normal. Comme l'avait dit Jean Monnet dans ses mémoires, l'Europe se fera dans les crises,
+[00:09:53.600 --> 00:10:00.880] et elle sera la somme des solutions apportées à ces crises. Une vision des choses confirmée par ce bon vieux Jacques Attali.
+[00:10:17.200 --> 00:10:25.920] Ce qui s'est passé d'ailleurs entre 1960 et 1980. Et nous avons vécu une crise énorme où toutes ces normes techniques différentes ont fini
+[00:10:25.920 --> 00:10:34.760] à exploser l'Europe. Ségolène et Jean-Louis étaient, comme moi, au cœur de la machine de l'État quand cette crise a explosé en fin 1983.
+[00:10:34.760 --> 00:10:41.120] Je parle pas de la crise française de 1983, de la fin des années 1983. Nous sommes allés à un sommet européen où il y a eu 44 contentieux sur la table.
+[00:10:41.880 --> 00:10:49.640] L'explosion se met d'Athènes. C'était une crise bien plus grave que celle d'aujourd'hui. 6 mois plus tard, présidence française,
+[00:10:49.640 --> 00:10:55.960] les contentions étaient réglées, on a fait le marché unique. C'est-à-dire qu'on a harmonisé les normes. Mais on savait très bien,
+[00:10:55.960 --> 00:11:03.000] quand on a fait le marché unique à ce moment-là, que le marché unique, ça ne pourrait pas marcher si on n'allait pas plus loin,
+[00:11:03.000 --> 00:11:09.600] parce que s'il y avait un marché unique de libre circulation des marchandises et des capitaux, évidemment, restait la possibilité de devenir
+[00:11:09.680 --> 00:11:17.040] concurrentiel l'un à l'égard de l'autre par des dévaluations compétitives. Et on savait qu'on allait avoir des dévaluations et que même le système
+[00:11:17.040 --> 00:11:25.760] de stabilisation de la monnaie à l'intérieur ne tiendrait pas. Et qu'il fallait aller vers la monnaie unique. Donc marché commun, marché unique,
+[00:11:25.760 --> 00:11:35.520] monnaie unique. Et il y a eu des crises, 1991-1993, exactement comme en 1983-1994, crise. Et il y a eu, et Jean-Louis a rappelé tout à l'heure,
+[00:11:35.600 --> 00:11:42.640] un moment de vérité, des hommes d'État se sont réunis et l'ont dit, ça passe, on en a fait la monnaie unique. C'est passé un moment très particulier,
+[00:11:42.640 --> 00:11:49.920] où il y avait aussi la chute du mur, l'ouverture, on n'a pas pu faire plus. Nous savions très bien, quand on a fait la monnaie unique, que ça marcherait pas,
+[00:11:49.920 --> 00:11:57.600] que ça suffirait pas. Exactement comme dans les trois crises passant. Nous savions que ça suffirait pas. Pourquoi ? Parce que jamais dans l'histoire
+[00:11:57.600 --> 00:12:08.480] d'humanité, on a eu une monnaie qui a existé sur l'État. Il se peine, mais sans État. Prenez toute l'histoire du monde, une monnaie sans État, ça éclose.
+[00:12:08.480 --> 00:12:15.120] Malheureusement pour Attali, crise ou pas, trouver un tel compromis n'a rien d'évident, parce que ce saut fédéraliste doit se décider
+[00:12:15.120 --> 00:12:22.680] à l'unanimité des 28 États de l'UE, dont 9 ont encore leur monnaie nationale. Et certains d'entre eux ont catégoriquement refusé de rentrer
+[00:12:22.680 --> 00:12:29.440] dans l'euro, comme le Danemark, la Suède, le Royaume-Uni. On n'en parle même pas. Dans ces conditions, parler d'harmonisation
+[00:12:29.440 --> 00:12:35.520] n'a pas de sens. À la limite, on peut faire une fédération réduite à la zone euro, mais laisser des pays de côté serait déjà
+[00:12:35.520 --> 00:12:41.840] un aveu d'échec pour les européistes. Et du coup, un grand nombre d'entre eux sont contre. Là encore, c'est pas simple de trouver
+[00:12:41.840 --> 00:12:49.120] une position commune. Et puis entre nous, quand on voit l'usine à gaz qui nous ont pondu en France pour seulement rétablir
+[00:12:49.120 --> 00:12:55.800] le prélèvement à la source de l'impôt sur le revenu, qui était exigée par la Commission européenne dans un but d'harmonisation,
+[00:12:55.800 --> 00:13:02.520] bah ça donne pas envie de leur confier une refonte totale du système. C'est là qu'on se rend compte des coûts et des problèmes énormes
+[00:13:02.520 --> 00:13:09.900] que soulève l'idée de s'harmoniser comme ça sur un même système de façon totalement arbitraire.
+[00:13:09.900 --> 00:13:16.820] Mais au-delà des compétences approximatives de nos technocrates pour appliquer cette harmonisation, l'obstacle majeur vient des différences
+[00:13:16.820 --> 00:13:24.540] culturelles, sociologiques, économiques et historiques entre les 28 États de l'UE, qui créent un blocage insurmontable
+[00:13:24.540 --> 00:13:31.820] pour seulement définir ce nouveau système. Car quel que soit le système choisi, il y aura forcément des pays gagnants et d'autres perdants,
+[00:13:31.820 --> 00:13:39.980] des pays à qui une mesure va plaire et d'autres pas. Et ici commencent les discussions interminables où chacun va tirer la couverture à soi,
+[00:13:39.980 --> 00:13:47.540] dans 24 langues différentes. Pour les élections européennes de 1979, le PS avait fait cette affiche.
+[00:13:47.540 --> 00:13:55.220] « Changer l'Europe, vivre au pays ». Au-delà de l'absurdité sous-entendue selon laquelle l'orientation de l'UE ne dépendrait
+[00:13:55.220 --> 00:14:01.540] que de l'élection de députés européens et a fortiori français, cette affiche a le mérite de montrer sans le vouloir
+[00:14:01.540 --> 00:14:08.340] qu'il n'y a pas de peuple européen. Pour attirer l'électeur français aux élections européennes, il faut lui vendre le modèle français.
+[00:14:08.340 --> 00:14:15.300] Aux électeurs allemands, on lui vendra le modèle allemand. Aux Italiens, le modèle italien, etc., etc.
+[00:14:15.300 --> 00:14:21.420] D'un autre côté, changer l'Europe, vivre en Allemagne, ça n'aurait pas été très vendeur ni très original.
+[00:14:21.420 --> 00:14:26.100] Ça nous aurait sans doute rappelé les heures les plus sombres de notre histoire.
+[00:14:26.100 --> 00:14:30.900] Les plus fervents partisans de la construction européenne vont sûrement nous expliquer qu'il vaut mieux s'entendre
+[00:14:30.900 --> 00:14:36.660] que de rester tout seul dans son coin, et qu'après tout, l'Europe est un effort, qu'il ne se fera pas d'un coup,
+[00:14:36.660 --> 00:14:39.340] et qu'avec un peu de bonne volonté, on peut sûrement arriver à...
+[00:14:39.340 --> 00:14:44.980] — Ouais, mais c'est pas toi qui décides ! — Faut quand même se rendre compte du niveau de blocage dans l'UE.
+[00:14:44.980 --> 00:14:50.020] Regardez un peu le bordel qu'a déclenché un projet de directive sur la fin du changement d'heure.
+[00:14:50.020 --> 00:14:55.020] Un beau jour, la Commission a décidé qu'il fallait arrêter de changer d'heure tous les 6 mois, puisque tous les États
+[00:14:55.020 --> 00:15:00.460] ne changent pas d'heure le même jour et que certains n'en changent pas du tout. Mais elle n'impose pas une règle à tout le monde.
+[00:15:00.460 --> 00:15:07.260] Au nom du principe de subsidiarité, elle laisse le soin à chaque État de décider s'il reste définitivement à l'heure d'été
+[00:15:07.260 --> 00:15:12.140] ou à l'heure d'hiver, ce qui peut créer des décalages horaires qui n'existaient pas avant entre des pays
+[00:15:12.140 --> 00:15:18.060] qui feraient un choix différent. Des discussions sont donc en cours pour que les États définissent une position commune
+[00:15:18.060 --> 00:15:25.460] afin d'éviter ce problème. Or, suivant des considérations économiques, certains États préfèrent rester à l'heure d'été
+[00:15:25.460 --> 00:15:31.860] plus favorables aux activités touristiques, tandis que d'autres préfèrent rester à l'heure d'hiver plus favorables à l'industrie.
+[00:15:31.860 --> 00:15:38.540] Par-dessus ça se pose la question de l'Irlande. Le Royaume-Uni, n'étant pas concerné par cette directive et refusant de changer d'heure,
+[00:15:38.540 --> 00:15:45.660] selon la décision des États européens, il pourrait se créer une frontière temporelle inacceptable pour l'Irlande entre la partie sud
+[00:15:45.660 --> 00:15:53.580] et la partie nord de l'île. C'est un bordel. La mise en place de cette directive était prévue à la mi-2019,
+[00:15:53.580 --> 00:16:02.660] et elle devait servir à montrer que l'UE est capable de s'entendre en vue des élections européennes. Eh ben c'est repoussé à 2021.
+[00:16:02.660 --> 00:16:09.260] 4 ans, 4 putains d'années pour savoir si on reste définitivement à l'heure d'été, à l'heure d'hiver, dont on se fout complètement.
+[00:16:09.260 --> 00:16:14.180] Et c'est pas fini. Alors maintenant, imaginez que la même équipe doit s'entendre sur un salaire minimum commun,
+[00:16:14.180 --> 00:16:20.420] des cotisations communes, un système de retraite ou de santé commun. Vous croyez qu'ils vont y arriver ?
+[00:16:20.420 --> 00:16:28.460] Je veux dire avant qu'on soit tous morts. Si les États-Unis fonctionnent aujourd'hui comme une fédération à la différence de l'UE,
+[00:16:28.460 --> 00:16:35.380] c'est parce que ce pays s'est construit comme ça. Et De Gaulle, à son époque, fustigeait déjà les fédéralistes sur ce point.
+[00:16:35.380 --> 00:16:41.040] À quelle profondeur d'illusion ou de parti pris faudra-t-il plonger, en effet, pour croire que des nations européennes,
+[00:16:41.040 --> 00:16:48.180] forgées au long des siècles par des efforts et des douleurs sans nombre, ayant chacune sa géographie, son histoire, sa langue,
+[00:16:48.180 --> 00:16:53.900] ses traditions, ses institutions pourraient cesser d'être elles-mêmes et n'en former qu'une seule ?
+[00:16:53.900 --> 00:17:00.340] À quelle vue sommaire répond la comparaison souvent brandie par des naïfs entre ce que l'Europe devrait faire
+[00:17:00.340 --> 00:17:06.580] et ce qu'ont fait les États-Unis, alors que ceux-ci furent créés, eux, à partir de rien, sur une terre nouvelle
+[00:17:06.580 --> 00:17:14.040] par des flots successifs de colons déracinés ? Pour les 6 en particulier, et a fortiori maintenant à 28,
+[00:17:14.040 --> 00:17:18.820] comment imaginer que leurs buts extérieurs leur deviennent soudain communs alors que leurs origines,
+[00:17:18.820 --> 00:17:25.420] leurs situations, leurs ambitions sont très différentes ? De Gaulle résumait tout ça en une phrase
+[00:17:25.420 --> 00:17:32.580] « On ne fait pas d'omelette avec des œufs durs ». Bon, ben voilà. Maintenant, vous comprenez pourquoi à chaque fois
+[00:17:32.580 --> 00:17:39.020] que l'UE tente de s'entendre sur un truc commun pour taxer les transactions financières, les GAFAM ou interdire
+[00:17:39.020 --> 00:17:44.900] le glyphosate, ben ça pédale dans la semoule pendant des années et ça déboule sur rien, ou presque.
+[00:17:44.900 --> 00:17:49.700] Voilà où on en est de l'harmonisation en Europe. Enfin, il y a quand même un truc sur lequel ces gens
+[00:17:49.700 --> 00:17:55.360] s'entendent toujours. C'est pour chier sur les référendums quand ça va pas dans leur sens. Ça, c'est harmonisé.
+[00:17:55.360 --> 00:18:02.600] Il n'y a pas de problème. Il y a quand même un truc qui va pas dans tout ça. Est-ce que vous avez remarqué
+[00:18:02.600 --> 00:18:08.120] la schizophrénie de l'UE ? Parce que d'un côté, vous avez les traités qui instaurent un marché commun
+[00:18:08.120 --> 00:18:14.040] basé sur la libre concurrence entre les États et sur le libre-échange, qui lui-même postule une spécialisation
+[00:18:14.040 --> 00:18:16.840] des États selon la théorie des avantages comparatifs.
+[00:18:16.840 --> 00:18:21.240] – Mais en même temps... – Ils ont fait l'euro, qui fige les taux de change entre ces États
+[00:18:21.240 --> 00:18:25.940] pour les pousser à la convergence budgétaire, afin de créer un État supranational où les politiques
+[00:18:25.940 --> 00:18:31.780] seraient de plus en plus harmonisées. Je vais se réfléchir sur tout ça. Et on en reparle au prochain épisode.

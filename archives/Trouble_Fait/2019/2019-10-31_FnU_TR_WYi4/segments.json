@@ -1,0 +1,1353 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.16,
+      "start_timestamp": "00:00:00.000",
+      "end_timestamp": "00:00:05.160",
+      "text": "Salut à tous. Dans l'épisode précédent, on a vu que les soldes Target ne sont pas vraiment des dettes,"
+    },
+    {
+      "id": 1,
+      "start": 5.16,
+      "end": 9.9,
+      "start_timestamp": "00:00:05.160",
+      "end_timestamp": "00:00:09.900",
+      "text": "mais simplement de la monnaie centrale en provenance des États de la zone euro, qui atterrit sur le compte"
+    },
+    {
+      "id": 2,
+      "start": 9.9,
+      "end": 14.62,
+      "start_timestamp": "00:00:09.900",
+      "end_timestamp": "00:00:14.620",
+      "text": "d'une banque centrale de la zone dans le cadre d'un transfert transfrontalier de monnaie secondaire"
+    },
+    {
+      "id": 3,
+      "start": 14.62,
+      "end": 17.9,
+      "start_timestamp": "00:00:14.620",
+      "end_timestamp": "00:00:17.900",
+      "text": "d'une banque commerciale à une autre. C'était évident."
+    },
+    {
+      "id": 4,
+      "start": 17.9,
+      "end": 23.46,
+      "start_timestamp": "00:00:17.900",
+      "end_timestamp": "00:00:23.460",
+      "text": "— Mais oui, c'est clair. — L'enjeu de comprendre ce sujet parfaitement chiant se comptera bientôt en centaines,"
+    },
+    {
+      "id": 5,
+      "start": 23.46,
+      "end": 29.8,
+      "start_timestamp": "00:00:23.460",
+      "end_timestamp": "00:00:29.800",
+      "text": "voire même en milliers de milliards d'euros, quand tout ce système explosera, car il finira par exploser."
+    },
+    {
+      "id": 6,
+      "start": 29.8,
+      "end": 34.62,
+      "start_timestamp": "00:00:29.800",
+      "end_timestamp": "00:00:34.620",
+      "text": "C'est ce que montre l'augmentation des soldes Target, qui indique une fuite massive de monnaie de certains pays"
+    },
+    {
+      "id": 7,
+      "start": 34.62,
+      "end": 41.22,
+      "start_timestamp": "00:00:34.620",
+      "end_timestamp": "00:00:41.220",
+      "text": "de la zone euro, notamment l'Italie, l'Espagne, le Portugal et la Grèce, vers d'autres pays de cette zone."
+    },
+    {
+      "id": 8,
+      "start": 41.22,
+      "end": 46.12,
+      "start_timestamp": "00:00:41.220",
+      "end_timestamp": "00:00:46.120",
+      "text": "En premier lieu, l'Allemagne, suivie de très loin pour des questions de taille par le Luxembourg,"
+    },
+    {
+      "id": 9,
+      "start": 46.12,
+      "end": 51.66,
+      "start_timestamp": "00:00:46.120",
+      "end_timestamp": "00:00:51.660",
+      "text": "les Pays-Bas et la Finlande. L'augmentation constante de cette fuite de monnaie, qui se compte déjà"
+    },
+    {
+      "id": 10,
+      "start": 51.66,
+      "end": 56.66,
+      "start_timestamp": "00:00:51.660",
+      "end_timestamp": "00:00:56.660",
+      "text": "en centaines de milliards, va rendre de plus en plus intenable le maintien d'une parité de 1 pour 1"
+    },
+    {
+      "id": 11,
+      "start": 56.66,
+      "end": 62.92,
+      "start_timestamp": "00:00:56.660",
+      "end_timestamp": "00:01:02.920",
+      "text": "entre les monnaies de ces pays. Le but des deux prochaines vidéos va donc être de comprendre pourquoi"
+    },
+    {
+      "id": 12,
+      "start": 62.92,
+      "end": 68.68,
+      "start_timestamp": "00:01:02.920",
+      "end_timestamp": "00:01:08.680",
+      "text": "il y a une telle asymétrie dans les échanges entre certains pays, et pourquoi rien ou presque n'a été fait"
+    },
+    {
+      "id": 13,
+      "start": 68.68,
+      "end": 86.28,
+      "start_timestamp": "00:01:08.680",
+      "end_timestamp": "00:01:26.280",
+      "text": "pour régler ce problème, alors qu'il va entraîner la fin de l'euro. Avant l'euro, ce genre de questions"
+    },
+    {
+      "id": 14,
+      "start": 86.28,
+      "end": 90.58,
+      "start_timestamp": "00:01:26.280",
+      "end_timestamp": "00:01:30.580",
+      "text": "se posaient pas. Les déséquilibres commerciaux entre les pays de la zone se réglaient d'eux-mêmes"
+    },
+    {
+      "id": 15,
+      "start": 90.58,
+      "end": 95.98,
+      "start_timestamp": "00:01:30.580",
+      "end_timestamp": "00:01:35.980",
+      "text": "par l'effet de l'offre et de la demande entre leurs monnaies sur les marchés financiers."
+    },
+    {
+      "id": 16,
+      "start": 95.98,
+      "end": 101.2,
+      "start_timestamp": "00:01:35.980",
+      "end_timestamp": "00:01:41.200",
+      "text": "Pour faire simple, lorsqu'un pays importe plus qu'il n'exporte, sa monnaie va perdre de la valeur"
+    },
+    {
+      "id": 17,
+      "start": 101.2,
+      "end": 107.28,
+      "start_timestamp": "00:01:41.200",
+      "end_timestamp": "00:01:47.280",
+      "text": "par rapport aux autres monnaies, rendant à la fois ses importations plus chères et ses exportations plus compétitives,"
+    },
+    {
+      "id": 18,
+      "start": 107.28,
+      "end": 112.98,
+      "start_timestamp": "00:01:47.280",
+      "end_timestamp": "00:01:52.980",
+      "text": "jusqu'à ce qu'un nouvel équilibre soit trouvé. Et si les déséquilibres étaient généralisés et trop importants,"
+    },
+    {
+      "id": 19,
+      "start": 112.98,
+      "end": 118.66,
+      "start_timestamp": "00:01:52.980",
+      "end_timestamp": "00:01:58.660",
+      "text": "un État pouvait aussi décider de dévaluer sa monnaie. Ce sont les fameuses dévaluations compétitives."
+    },
+    {
+      "id": 20,
+      "start": 118.66,
+      "end": 122.8,
+      "start_timestamp": "00:01:58.660",
+      "end_timestamp": "00:02:02.800",
+      "text": "Mais comme il a été décidé que les monnaies nationales des États de la zone euro s'échangeront,"
+    },
+    {
+      "id": 21,
+      "start": 122.8,
+      "end": 128.92,
+      "start_timestamp": "00:02:02.800",
+      "end_timestamp": "00:02:08.920",
+      "text": "advita metternam a un taux fixe de 1 pour 1, eh bien les appréciations et dépréciations nécessaires"
+    },
+    {
+      "id": 22,
+      "start": 128.92,
+      "end": 134.32,
+      "start_timestamp": "00:02:08.920",
+      "end_timestamp": "00:02:14.320",
+      "text": "pour corriger ces déséquilibres se sont portées sur d'autres prix, principalement celui du travail,"
+    },
+    {
+      "id": 23,
+      "start": 134.32,
+      "end": 139.32,
+      "start_timestamp": "00:02:14.320",
+      "end_timestamp": "00:02:19.320",
+      "text": "de la fiscalité et des normes sociales et environnementales. Parce que c'est des prix sur lesquels les politiciens"
+    },
+    {
+      "id": 24,
+      "start": 139.32,
+      "end": 144.78,
+      "start_timestamp": "00:02:19.320",
+      "end_timestamp": "00:02:24.780",
+      "text": "peuvent facilement agir, contrairement au prix des matières premières, par exemple. Ça, c'est ce qu'on appelle"
+    },
+    {
+      "id": 25,
+      "start": 144.78,
+      "end": 150.84,
+      "start_timestamp": "00:02:24.780",
+      "end_timestamp": "00:02:30.840",
+      "text": "faire de la dévaluation interne. En d'autres termes, l'euro n'a pas supprimé la concurrence entre les États,"
+    },
+    {
+      "id": 26,
+      "start": 150.84,
+      "end": 158.04,
+      "start_timestamp": "00:02:30.840",
+      "end_timestamp": "00:02:38.040",
+      "text": "comme on l'entend naïvement parfois. Celle-ci, c'est simplement décaler de leur monnaie vers leur système socioéconomique."
+    },
+    {
+      "id": 27,
+      "start": 158.04,
+      "end": 165.72,
+      "start_timestamp": "00:02:38.040",
+      "end_timestamp": "00:02:45.720",
+      "text": "C'est alors que l'Allemagne s'est dépêchée de faire les fameuses réformes Hartz I, II, III et IV, entre 2003 et 2005,"
+    },
+    {
+      "id": 28,
+      "start": 165.72,
+      "end": 170.66,
+      "start_timestamp": "00:02:45.720",
+      "end_timestamp": "00:02:50.660",
+      "text": "qui avaient pour but de faire baisser le prix du travail. Les allocations chômage ont été réduites et sont devenues"
+    },
+    {
+      "id": 29,
+      "start": 170.66,
+      "end": 176.04,
+      "start_timestamp": "00:02:50.660",
+      "end_timestamp": "00:02:56.040",
+      "text": "dégressives. La retraite est passée à 65 ans. Ils ont flexibilisé le marché du travail en créant un statut"
+    },
+    {
+      "id": 30,
+      "start": 176.04,
+      "end": 182.96,
+      "start_timestamp": "00:02:56.040",
+      "end_timestamp": "00:03:02.960",
+      "text": "d'auto-entrepreneur, des mini-jobs sous-payés, etc., etc. Bref, ils ont fait les fameuses réformes nécessaires"
+    },
+    {
+      "id": 31,
+      "start": 182.96,
+      "end": 189.06,
+      "start_timestamp": "00:03:02.960",
+      "end_timestamp": "00:03:09.060",
+      "text": "à l'heure de la mondialisation que nos politiciens ont tant de mal à appliquer dans notre pays de gaulois réfractaires,"
+    },
+    {
+      "id": 32,
+      "start": 189.06,
+      "end": 196.56,
+      "start_timestamp": "00:03:09.060",
+      "end_timestamp": "00:03:16.560",
+      "text": "feignants, ringards et extraits listes. Avec ces réformes, l'Allemagne a piqué des parts de marché à ses petits voisins européens,"
+    },
+    {
+      "id": 33,
+      "start": 196.56,
+      "end": 202.16,
+      "start_timestamp": "00:03:16.560",
+      "end_timestamp": "00:03:22.160",
+      "text": "parce qu'elle a bénéficié d'un boost de compétitivité qui ne pouvait plus être compensé, comme ça l'aurait été avant,"
+    },
+    {
+      "id": 34,
+      "start": 202.16,
+      "end": 209.12,
+      "start_timestamp": "00:03:22.160",
+      "end_timestamp": "00:03:29.120",
+      "text": "par une appréciation de sa monnaie. Et comme en plus, l'euro est la résultante de 18 économies dont la plupart sont moins compétitives"
+    },
+    {
+      "id": 35,
+      "start": 209.12,
+      "end": 216.86,
+      "start_timestamp": "00:03:29.120",
+      "end_timestamp": "00:03:36.860",
+      "text": "que l'Allemagne, eh bien le taux de change de l'euro est forcément plus faible que le taux potentiel qu'aurait eu le Dutchmark seul."
+    },
+    {
+      "id": 36,
+      "start": 216.86,
+      "end": 224.24,
+      "start_timestamp": "00:03:36.860",
+      "end_timestamp": "00:03:44.240",
+      "text": "Une étude menée par Jacques Sapir en 2012 estime que si l'Allemagne sortait de l'euro, sa monnaie vaudrait environ 1,50 $,"
+    },
+    {
+      "id": 37,
+      "start": 224.24,
+      "end": 230.72,
+      "start_timestamp": "00:03:44.240",
+      "end_timestamp": "00:03:50.720",
+      "text": "alors qu'aujourd'hui, l'euro tourne autour des 1,10 $. Ça signifie que l'euro représente une subvention à l'exportation"
+    },
+    {
+      "id": 38,
+      "start": 230.72,
+      "end": 238.08,
+      "start_timestamp": "00:03:50.720",
+      "end_timestamp": "00:03:58.080",
+      "text": "pour l'Allemagne d'environ 32%. En conséquence de quoi, depuis l'introduction de l'euro, l'Allemagne s'est mise à dégager"
+    },
+    {
+      "id": 39,
+      "start": 238.08,
+      "end": 244.84,
+      "start_timestamp": "00:03:58.080",
+      "end_timestamp": "00:04:04.840",
+      "text": "des excellents commerciaux de plus en plus importants, tant envers des pays de la zone euro grâce au choc de compétitivité interne"
+    },
+    {
+      "id": 40,
+      "start": 244.84,
+      "end": 252.72,
+      "start_timestamp": "00:04:04.840",
+      "end_timestamp": "00:04:12.720",
+      "text": "qu'envers des pays extérieurs de la zone euro en bénéficiant d'un taux de change artificiellement bas, le tout au détriment de sa population"
+    },
+    {
+      "id": 41,
+      "start": 252.72,
+      "end": 259.92,
+      "start_timestamp": "00:04:12.720",
+      "end_timestamp": "00:04:19.920",
+      "text": "et de ses voisins européens. Car à l'inverse, des pays du sud de la zone euro notamment sont pénalisés à l'international"
+    },
+    {
+      "id": 42,
+      "start": 259.92,
+      "end": 265.84,
+      "start_timestamp": "00:04:19.920",
+      "end_timestamp": "00:04:25.840",
+      "text": "par un taux de change trop élevé, de 10 à 40% selon les pays, et ils subissent des chocs asymétriques tout azimuts"
+    },
+    {
+      "id": 43,
+      "start": 265.84,
+      "end": 275.72,
+      "start_timestamp": "00:04:25.840",
+      "end_timestamp": "00:04:35.720",
+      "text": "à l'intérieur de la zone euro, dumping fiscal, social, monétaire, etc. Leur exportation a donc chuté et leur déficit commercial s'est creusé."
+    },
+    {
+      "id": 44,
+      "start": 275.72,
+      "end": 281.84,
+      "start_timestamp": "00:04:35.720",
+      "end_timestamp": "00:04:41.840",
+      "text": "Malgré cela, l'euro a pu fonctionner dans ses premières années, d'abord parce que les écarts de compétitivité mettent du temps"
+    },
+    {
+      "id": 45,
+      "start": 281.84,
+      "end": 288.6,
+      "start_timestamp": "00:04:41.840",
+      "end_timestamp": "00:04:48.600",
+      "text": "à s'accumuler et à montrer leurs effets, et aussi parce que la croissance des pays du sud a été dopée par des taux d'intérêt bas"
+    },
+    {
+      "id": 46,
+      "start": 288.6,
+      "end": 294.68,
+      "start_timestamp": "00:04:48.600",
+      "end_timestamp": "00:04:54.680",
+      "text": "grâce à l'euro. Ces pays représentaient une opportunité pour les investisseurs, et notamment pour les investisseurs du nord"
+    },
+    {
+      "id": 47,
+      "start": 294.68,
+      "end": 300.2,
+      "start_timestamp": "00:04:54.680",
+      "end_timestamp": "00:05:00.200",
+      "text": "de la zone euro, parce qu'ils partageaient maintenant la même monnaie, supprimant le risque de change."
+    },
+    {
+      "id": 48,
+      "start": 300.2,
+      "end": 307.12,
+      "start_timestamp": "00:05:00.200",
+      "end_timestamp": "00:05:07.120",
+      "text": "Tant que l'argent envoyé au nord par la consommation des pays du sud était réinvesti dans le sud par la magie du marché,"
+    },
+    {
+      "id": 49,
+      "start": 307.12,
+      "end": 314.08,
+      "start_timestamp": "00:05:07.120",
+      "end_timestamp": "00:05:14.080",
+      "text": "le système pouvait fonctionner. Mais après la crise de 2008, suivie de la crise de l'euro, la confiance des investisseurs"
+    },
+    {
+      "id": 50,
+      "start": 314.08,
+      "end": 321.88,
+      "start_timestamp": "00:05:14.080",
+      "end_timestamp": "00:05:21.880",
+      "text": "envers l'euro a disparu, entraînant une fuite des capitaux du sud vers le nord, rendue visible sous la forme des soldes Target 2."
+    },
+    {
+      "id": 51,
+      "start": 321.88,
+      "end": 327.04,
+      "start_timestamp": "00:05:21.880",
+      "end_timestamp": "00:05:27.040",
+      "text": "Car comme on l'a vu, cette asymétrie entre les échanges avait bousillé le marché interbancaire."
+    },
+    {
+      "id": 52,
+      "start": 327.04,
+      "end": 333.36,
+      "start_timestamp": "00:05:27.040",
+      "end_timestamp": "00:05:33.360",
+      "text": "Dès lors, les économies des pays du sud sont asphyxiées par le manque d'argent. Elles sont condamnées à un chômage de masse,"
+    },
+    {
+      "id": 53,
+      "start": 333.36,
+      "end": 340.28,
+      "start_timestamp": "00:05:33.360",
+      "end_timestamp": "00:05:40.280",
+      "text": "à une croissance économique inexistante et à une dette en constante augmentation pour acheter la paix sociale."
+    },
+    {
+      "id": 54,
+      "start": 340.28,
+      "end": 346.12,
+      "start_timestamp": "00:05:40.280",
+      "end_timestamp": "00:05:46.120",
+      "text": "Pourtant, une monnaie commune peut fonctionner. On a l'exemple du dollar, qui fonctionne sur le même modèle que l'euro,"
+    },
+    {
+      "id": 55,
+      "start": 346.12,
+      "end": 351.32,
+      "start_timestamp": "00:05:46.120",
+      "end_timestamp": "00:05:51.320",
+      "text": "à moins que ce soit l'inverse, avec 12 banques centrales régionales chapotées par une banque fédérale."
+    },
+    {
+      "id": 56,
+      "start": 351.32,
+      "end": 357.28,
+      "start_timestamp": "00:05:51.320",
+      "end_timestamp": "00:05:57.280",
+      "text": "Et ça existe depuis des décennies sans qu'on accuse ce système d'assécher l'économie d'un État en particulier."
+    },
+    {
+      "id": 57,
+      "start": 357.28,
+      "end": 364.24,
+      "start_timestamp": "00:05:57.280",
+      "end_timestamp": "00:06:04.240",
+      "text": "Mais il y a deux différences fondamentales entre le dollar et l'euro. La première, c'est que les déséquilibres de paiements internes"
+    },
+    {
+      "id": 58,
+      "start": 364.24,
+      "end": 370.8,
+      "start_timestamp": "00:06:04.240",
+      "end_timestamp": "00:06:10.800",
+      "text": "entre les 12 banques centrales régionales du dollar sont réglées annuellement par des transferts de certificats en or,"
+    },
+    {
+      "id": 59,
+      "start": 370.8,
+      "end": 376.64,
+      "start_timestamp": "00:06:10.800",
+      "end_timestamp": "00:06:16.640",
+      "text": "contrairement au solde Target, qui peuvent augmenter sans fin. Et la différence la plus significative avec les États-Unis,"
+    },
+    {
+      "id": 60,
+      "start": 376.64,
+      "end": 383.24,
+      "start_timestamp": "00:06:16.640",
+      "end_timestamp": "00:06:23.240",
+      "text": "c'est que la zone euro n'est pas une zone monétaire optimale. Dans n'importe quel pays ou zone monétaire,"
+    },
+    {
+      "id": 61,
+      "start": 383.24,
+      "end": 389.44,
+      "start_timestamp": "00:06:23.240",
+      "end_timestamp": "00:06:29.440",
+      "text": "il peut y avoir une région qui s'appauvrit pendant qu'une autre s'enrichit. Cet écart peut apparaître pour une infinité de raisons."
+    },
+    {
+      "id": 62,
+      "start": 389.44,
+      "end": 398.6,
+      "start_timestamp": "00:06:29.440",
+      "end_timestamp": "00:06:38.600",
+      "text": "Déficit d'infrastructure, décision politique pénalisante, catastrophe naturelle, etc. C'est ce qu'on appelle un choc asymétrique."
+    },
+    {
+      "id": 63,
+      "start": 398.6,
+      "end": 403.28,
+      "start_timestamp": "00:06:38.600",
+      "end_timestamp": "00:06:43.280",
+      "text": "En l'absence de taux de change flottant entre ces régions, vu qu'elles font partie de la même zone monétaire,"
+    },
+    {
+      "id": 64,
+      "start": 403.28,
+      "end": 409.4,
+      "start_timestamp": "00:06:43.280",
+      "end_timestamp": "00:06:49.400",
+      "text": "et si la magie du marché ne suffit pas à répartir efficacement les capitaux, tous les États sont dotés de mécanismes"
+    },
+    {
+      "id": 65,
+      "start": 409.4,
+      "end": 415.4,
+      "start_timestamp": "00:06:49.400",
+      "end_timestamp": "00:06:55.400",
+      "text": "plus ou moins interventionnistes pour corriger les effets de ces chocs asymétriques. Et dans le cas de la zone euro,"
+    },
+    {
+      "id": 66,
+      "start": 415.4,
+      "end": 422.48,
+      "start_timestamp": "00:06:55.400",
+      "end_timestamp": "00:07:02.480",
+      "text": "ces mécanismes ne fonctionnent pas ou n'existent pas. En gros, la zone euro a trois possibilités pour corriger ces déséquilibres."
+    },
+    {
+      "id": 67,
+      "start": 422.48,
+      "end": 429.16,
+      "start_timestamp": "00:07:02.480",
+      "end_timestamp": "00:07:09.160",
+      "text": "Théoriquement, chacune de ces possibilités peut se suffire à elle-même. Mais dans la plupart des cas, on observe une combinaison des trois."
+    },
+    {
+      "id": 68,
+      "start": 429.16,
+      "end": 434.92,
+      "start_timestamp": "00:07:09.160",
+      "end_timestamp": "00:07:14.920",
+      "text": "Premièrement, il faut harmoniser le plus possible les conditions sociales et fiscales à l'intérieur de la zone monétaire."
+    },
+    {
+      "id": 69,
+      "start": 434.92,
+      "end": 443.16,
+      "start_timestamp": "00:07:14.920",
+      "end_timestamp": "00:07:23.160",
+      "text": "Deuxièmement, il faut fluidifier au maximum la mobilité des travailleurs. Et troisièmement, il faut avoir des mécanismes de répartition des richesses."
+    },
+    {
+      "id": 70,
+      "start": 443.16,
+      "end": 450.8,
+      "start_timestamp": "00:07:23.160",
+      "end_timestamp": "00:07:30.800",
+      "text": "Et là, ça peut prendre plusieurs formes. Allocation directe, assurance chômage, retraite ou même des investissements publics."
+    },
+    {
+      "id": 71,
+      "start": 450.8,
+      "end": 458.8,
+      "start_timestamp": "00:07:30.800",
+      "end_timestamp": "00:07:38.800",
+      "text": "Par exemple, les États-Unis, qui ne sont pas un pays socialiste, ils utilisent leur énorme budget de défense pour faire de la répartition des richesses,"
+    },
+    {
+      "id": 72,
+      "start": 458.8,
+      "end": 465.52,
+      "start_timestamp": "00:07:38.800",
+      "end_timestamp": "00:07:45.520",
+      "text": "en obligeant leurs fournisseurs à installer des usines dans des zones de chômage élevées. La solution la plus efficace pour sauver l'euro"
+    },
+    {
+      "id": 73,
+      "start": 465.52,
+      "end": 472.72,
+      "start_timestamp": "00:07:45.520",
+      "end_timestamp": "00:07:52.720",
+      "text": "serait donc d'imiter les États-Unis et de créer une grande fédération européenne chargée de corriger les effets des chocs asymétriques"
+    },
+    {
+      "id": 74,
+      "start": 472.72,
+      "end": 483.64,
+      "start_timestamp": "00:07:52.720",
+      "end_timestamp": "00:08:03.640",
+      "text": "entre les États par des décisions politiques d'harmonisation et de répartition des richesses, transformant l'euro en zone monétaire optimale."
+    },
+    {
+      "id": 75,
+      "start": 483.64,
+      "end": 487.76,
+      "start_timestamp": "00:08:03.640",
+      "end_timestamp": "00:08:07.760",
+      "text": "Merci à tous d'avoir regardé cette vidéo et à la Commission européenne pour l'avoir spoon-saurisée."
+    },
+    {
+      "id": 76,
+      "start": 487.76,
+      "end": 493.84,
+      "start_timestamp": "00:08:07.760",
+      "end_timestamp": "00:08:13.840",
+      "text": "Vous trouverez en description un code de moins 15% de réduction sur votre drapeau européen."
+    },
+    {
+      "id": 77,
+      "start": 493.84,
+      "end": 498.08,
+      "start_timestamp": "00:08:13.840",
+      "end_timestamp": "00:08:18.080",
+      "text": "Mouais. Seulement, vous pensez bien qu'ils ne nous ont pas attendu pour avoir cette idée."
+    },
+    {
+      "id": 78,
+      "start": 498.08,
+      "end": 503.92,
+      "start_timestamp": "00:08:18.080",
+      "end_timestamp": "00:08:23.920",
+      "text": "En fait, ça faisait même partie du plan de base de certains partisans de la construction européenne dès la conception de l'euro."
+    },
+    {
+      "id": 79,
+      "start": 503.92,
+      "end": 509.88,
+      "start_timestamp": "00:08:23.920",
+      "end_timestamp": "00:08:29.880",
+      "text": "Mais si aujourd'hui, cette belle fédération européenne ne s'est toujours pas réalisée, c'est peut-être pour de bonnes raisons, hein."
+    },
+    {
+      "id": 80,
+      "start": 509.88,
+      "end": 516.6,
+      "start_timestamp": "00:08:29.880",
+      "end_timestamp": "00:08:36.600",
+      "text": "Disons qu'il y a quelques petits blocages. On va prendre les problèmes un par un, parce qu'il y a vraiment beaucoup à dire."
+    },
+    {
+      "id": 81,
+      "start": 516.6,
+      "end": 525.76,
+      "start_timestamp": "00:08:36.600",
+      "end_timestamp": "00:08:45.760",
+      "text": "Premièrement, harmoniser totalement ou même partiellement les systèmes sociaux et fiscaux des États est beaucoup plus simple à dire qu'à faire."
+    },
+    {
+      "id": 82,
+      "start": 525.76,
+      "end": 533.68,
+      "start_timestamp": "00:08:45.760",
+      "end_timestamp": "00:08:53.680",
+      "text": "L'UE mélange des monarchies et des républiques, des États centralisateurs et des fédérations, des secteurs publics plus ou moins présents,"
+    },
+    {
+      "id": 83,
+      "start": 533.68,
+      "end": 540.52,
+      "start_timestamp": "00:08:53.680",
+      "end_timestamp": "00:09:00.520",
+      "text": "des économies basées sur l'industrie et d'autres sur les services, avec à chaque fois différents types d'industries et différents types de services"
+    },
+    {
+      "id": 84,
+      "start": 540.52,
+      "end": 547.36,
+      "start_timestamp": "00:09:00.520",
+      "end_timestamp": "00:09:07.360",
+      "text": "qui n'ont pas forcément les mêmes besoins, etc., etc. Toutes ces différences découlent d'histoires différentes,"
+    },
+    {
+      "id": 85,
+      "start": 547.36,
+      "end": 553.76,
+      "start_timestamp": "00:09:07.360",
+      "end_timestamp": "00:09:13.760",
+      "text": "de cultures différentes, de politiques sociales et économiques différentes, et même de positions géographiques différentes"
+    },
+    {
+      "id": 86,
+      "start": 553.76,
+      "end": 560.32,
+      "start_timestamp": "00:09:13.760",
+      "end_timestamp": "00:09:20.320",
+      "text": "qui ont façonné l'économie des pays d'Europe. Décrété du jour au lendemain que 28 États vont avoir le même salaire minimum,"
+    },
+    {
+      "id": 87,
+      "start": 560.32,
+      "end": 566.92,
+      "start_timestamp": "00:09:20.320",
+      "end_timestamp": "00:09:26.920",
+      "text": "les mêmes cotisations, la même fiscalité des entreprises, les mêmes normes, etc., ça suppose que tous ces États vont s'entendre"
+    },
+    {
+      "id": 88,
+      "start": 566.92,
+      "end": 573.24,
+      "start_timestamp": "00:09:26.920",
+      "end_timestamp": "00:09:33.240",
+      "text": "sur une base commune et qui sont prêts à déléguer presque toute leur politique budgétaire à l'échelon européen."
+    },
+    {
+      "id": 89,
+      "start": 573.24,
+      "end": 579.32,
+      "start_timestamp": "00:09:33.240",
+      "end_timestamp": "00:09:39.320",
+      "text": "Et ça, ça se fait pas en claquant des lois. C'était d'ailleurs l'un des buts officieux de l'euro de permettre cette décision."
+    },
+    {
+      "id": 90,
+      "start": 579.32,
+      "end": 586.84,
+      "start_timestamp": "00:09:39.320",
+      "end_timestamp": "00:09:46.840",
+      "text": "L'euro devait nous entraîner dans une crise créée délibérément pour pousser les États à accepter un compromis décidé dans l'urgence"
+    },
+    {
+      "id": 91,
+      "start": 586.88,
+      "end": 593.6,
+      "start_timestamp": "00:09:46.880",
+      "end_timestamp": "00:09:53.600",
+      "text": "qu'ils n'auraient pas accepté en temps normal. Comme l'avait dit Jean Monnet dans ses mémoires, l'Europe se fera dans les crises,"
+    },
+    {
+      "id": 92,
+      "start": 593.6,
+      "end": 600.88,
+      "start_timestamp": "00:09:53.600",
+      "end_timestamp": "00:10:00.880",
+      "text": "et elle sera la somme des solutions apportées à ces crises. Une vision des choses confirmée par ce bon vieux Jacques Attali."
+    },
+    {
+      "id": 93,
+      "start": 617.2,
+      "end": 625.92,
+      "start_timestamp": "00:10:17.200",
+      "end_timestamp": "00:10:25.920",
+      "text": "Ce qui s'est passé d'ailleurs entre 1960 et 1980. Et nous avons vécu une crise énorme où toutes ces normes techniques différentes ont fini"
+    },
+    {
+      "id": 94,
+      "start": 625.92,
+      "end": 634.76,
+      "start_timestamp": "00:10:25.920",
+      "end_timestamp": "00:10:34.760",
+      "text": "à exploser l'Europe. Ségolène et Jean-Louis étaient, comme moi, au cœur de la machine de l'État quand cette crise a explosé en fin 1983."
+    },
+    {
+      "id": 95,
+      "start": 634.76,
+      "end": 641.12,
+      "start_timestamp": "00:10:34.760",
+      "end_timestamp": "00:10:41.120",
+      "text": "Je parle pas de la crise française de 1983, de la fin des années 1983. Nous sommes allés à un sommet européen où il y a eu 44 contentieux sur la table."
+    },
+    {
+      "id": 96,
+      "start": 641.88,
+      "end": 649.64,
+      "start_timestamp": "00:10:41.880",
+      "end_timestamp": "00:10:49.640",
+      "text": "L'explosion se met d'Athènes. C'était une crise bien plus grave que celle d'aujourd'hui. 6 mois plus tard, présidence française,"
+    },
+    {
+      "id": 97,
+      "start": 649.64,
+      "end": 655.96,
+      "start_timestamp": "00:10:49.640",
+      "end_timestamp": "00:10:55.960",
+      "text": "les contentions étaient réglées, on a fait le marché unique. C'est-à-dire qu'on a harmonisé les normes. Mais on savait très bien,"
+    },
+    {
+      "id": 98,
+      "start": 655.96,
+      "end": 663.0,
+      "start_timestamp": "00:10:55.960",
+      "end_timestamp": "00:11:03.000",
+      "text": "quand on a fait le marché unique à ce moment-là, que le marché unique, ça ne pourrait pas marcher si on n'allait pas plus loin,"
+    },
+    {
+      "id": 99,
+      "start": 663.0,
+      "end": 669.6,
+      "start_timestamp": "00:11:03.000",
+      "end_timestamp": "00:11:09.600",
+      "text": "parce que s'il y avait un marché unique de libre circulation des marchandises et des capitaux, évidemment, restait la possibilité de devenir"
+    },
+    {
+      "id": 100,
+      "start": 669.68,
+      "end": 677.04,
+      "start_timestamp": "00:11:09.680",
+      "end_timestamp": "00:11:17.040",
+      "text": "concurrentiel l'un à l'égard de l'autre par des dévaluations compétitives. Et on savait qu'on allait avoir des dévaluations et que même le système"
+    },
+    {
+      "id": 101,
+      "start": 677.04,
+      "end": 685.76,
+      "start_timestamp": "00:11:17.040",
+      "end_timestamp": "00:11:25.760",
+      "text": "de stabilisation de la monnaie à l'intérieur ne tiendrait pas. Et qu'il fallait aller vers la monnaie unique. Donc marché commun, marché unique,"
+    },
+    {
+      "id": 102,
+      "start": 685.76,
+      "end": 695.52,
+      "start_timestamp": "00:11:25.760",
+      "end_timestamp": "00:11:35.520",
+      "text": "monnaie unique. Et il y a eu des crises, 1991-1993, exactement comme en 1983-1994, crise. Et il y a eu, et Jean-Louis a rappelé tout à l'heure,"
+    },
+    {
+      "id": 103,
+      "start": 695.6,
+      "end": 702.64,
+      "start_timestamp": "00:11:35.600",
+      "end_timestamp": "00:11:42.640",
+      "text": "un moment de vérité, des hommes d'État se sont réunis et l'ont dit, ça passe, on en a fait la monnaie unique. C'est passé un moment très particulier,"
+    },
+    {
+      "id": 104,
+      "start": 702.64,
+      "end": 709.92,
+      "start_timestamp": "00:11:42.640",
+      "end_timestamp": "00:11:49.920",
+      "text": "où il y avait aussi la chute du mur, l'ouverture, on n'a pas pu faire plus. Nous savions très bien, quand on a fait la monnaie unique, que ça marcherait pas,"
+    },
+    {
+      "id": 105,
+      "start": 709.92,
+      "end": 717.6,
+      "start_timestamp": "00:11:49.920",
+      "end_timestamp": "00:11:57.600",
+      "text": "que ça suffirait pas. Exactement comme dans les trois crises passant. Nous savions que ça suffirait pas. Pourquoi ? Parce que jamais dans l'histoire"
+    },
+    {
+      "id": 106,
+      "start": 717.6,
+      "end": 728.48,
+      "start_timestamp": "00:11:57.600",
+      "end_timestamp": "00:12:08.480",
+      "text": "d'humanité, on a eu une monnaie qui a existé sur l'État. Il se peine, mais sans État. Prenez toute l'histoire du monde, une monnaie sans État, ça éclose."
+    },
+    {
+      "id": 107,
+      "start": 728.48,
+      "end": 735.12,
+      "start_timestamp": "00:12:08.480",
+      "end_timestamp": "00:12:15.120",
+      "text": "Malheureusement pour Attali, crise ou pas, trouver un tel compromis n'a rien d'évident, parce que ce saut fédéraliste doit se décider"
+    },
+    {
+      "id": 108,
+      "start": 735.12,
+      "end": 742.68,
+      "start_timestamp": "00:12:15.120",
+      "end_timestamp": "00:12:22.680",
+      "text": "à l'unanimité des 28 États de l'UE, dont 9 ont encore leur monnaie nationale. Et certains d'entre eux ont catégoriquement refusé de rentrer"
+    },
+    {
+      "id": 109,
+      "start": 742.68,
+      "end": 749.44,
+      "start_timestamp": "00:12:22.680",
+      "end_timestamp": "00:12:29.440",
+      "text": "dans l'euro, comme le Danemark, la Suède, le Royaume-Uni. On n'en parle même pas. Dans ces conditions, parler d'harmonisation"
+    },
+    {
+      "id": 110,
+      "start": 749.44,
+      "end": 755.52,
+      "start_timestamp": "00:12:29.440",
+      "end_timestamp": "00:12:35.520",
+      "text": "n'a pas de sens. À la limite, on peut faire une fédération réduite à la zone euro, mais laisser des pays de côté serait déjà"
+    },
+    {
+      "id": 111,
+      "start": 755.52,
+      "end": 761.84,
+      "start_timestamp": "00:12:35.520",
+      "end_timestamp": "00:12:41.840",
+      "text": "un aveu d'échec pour les européistes. Et du coup, un grand nombre d'entre eux sont contre. Là encore, c'est pas simple de trouver"
+    },
+    {
+      "id": 112,
+      "start": 761.84,
+      "end": 769.12,
+      "start_timestamp": "00:12:41.840",
+      "end_timestamp": "00:12:49.120",
+      "text": "une position commune. Et puis entre nous, quand on voit l'usine à gaz qui nous ont pondu en France pour seulement rétablir"
+    },
+    {
+      "id": 113,
+      "start": 769.12,
+      "end": 775.8,
+      "start_timestamp": "00:12:49.120",
+      "end_timestamp": "00:12:55.800",
+      "text": "le prélèvement à la source de l'impôt sur le revenu, qui était exigée par la Commission européenne dans un but d'harmonisation,"
+    },
+    {
+      "id": 114,
+      "start": 775.8,
+      "end": 782.52,
+      "start_timestamp": "00:12:55.800",
+      "end_timestamp": "00:13:02.520",
+      "text": "bah ça donne pas envie de leur confier une refonte totale du système. C'est là qu'on se rend compte des coûts et des problèmes énormes"
+    },
+    {
+      "id": 115,
+      "start": 782.52,
+      "end": 789.9,
+      "start_timestamp": "00:13:02.520",
+      "end_timestamp": "00:13:09.900",
+      "text": "que soulève l'idée de s'harmoniser comme ça sur un même système de façon totalement arbitraire."
+    },
+    {
+      "id": 116,
+      "start": 789.9,
+      "end": 796.82,
+      "start_timestamp": "00:13:09.900",
+      "end_timestamp": "00:13:16.820",
+      "text": "Mais au-delà des compétences approximatives de nos technocrates pour appliquer cette harmonisation, l'obstacle majeur vient des différences"
+    },
+    {
+      "id": 117,
+      "start": 796.82,
+      "end": 804.54,
+      "start_timestamp": "00:13:16.820",
+      "end_timestamp": "00:13:24.540",
+      "text": "culturelles, sociologiques, économiques et historiques entre les 28 États de l'UE, qui créent un blocage insurmontable"
+    },
+    {
+      "id": 118,
+      "start": 804.54,
+      "end": 811.82,
+      "start_timestamp": "00:13:24.540",
+      "end_timestamp": "00:13:31.820",
+      "text": "pour seulement définir ce nouveau système. Car quel que soit le système choisi, il y aura forcément des pays gagnants et d'autres perdants,"
+    },
+    {
+      "id": 119,
+      "start": 811.82,
+      "end": 819.98,
+      "start_timestamp": "00:13:31.820",
+      "end_timestamp": "00:13:39.980",
+      "text": "des pays à qui une mesure va plaire et d'autres pas. Et ici commencent les discussions interminables où chacun va tirer la couverture à soi,"
+    },
+    {
+      "id": 120,
+      "start": 819.98,
+      "end": 827.54,
+      "start_timestamp": "00:13:39.980",
+      "end_timestamp": "00:13:47.540",
+      "text": "dans 24 langues différentes. Pour les élections européennes de 1979, le PS avait fait cette affiche."
+    },
+    {
+      "id": 121,
+      "start": 827.54,
+      "end": 835.22,
+      "start_timestamp": "00:13:47.540",
+      "end_timestamp": "00:13:55.220",
+      "text": "« Changer l'Europe, vivre au pays ». Au-delà de l'absurdité sous-entendue selon laquelle l'orientation de l'UE ne dépendrait"
+    },
+    {
+      "id": 122,
+      "start": 835.22,
+      "end": 841.54,
+      "start_timestamp": "00:13:55.220",
+      "end_timestamp": "00:14:01.540",
+      "text": "que de l'élection de députés européens et a fortiori français, cette affiche a le mérite de montrer sans le vouloir"
+    },
+    {
+      "id": 123,
+      "start": 841.54,
+      "end": 848.34,
+      "start_timestamp": "00:14:01.540",
+      "end_timestamp": "00:14:08.340",
+      "text": "qu'il n'y a pas de peuple européen. Pour attirer l'électeur français aux élections européennes, il faut lui vendre le modèle français."
+    },
+    {
+      "id": 124,
+      "start": 848.34,
+      "end": 855.3,
+      "start_timestamp": "00:14:08.340",
+      "end_timestamp": "00:14:15.300",
+      "text": "Aux électeurs allemands, on lui vendra le modèle allemand. Aux Italiens, le modèle italien, etc., etc."
+    },
+    {
+      "id": 125,
+      "start": 855.3,
+      "end": 861.42,
+      "start_timestamp": "00:14:15.300",
+      "end_timestamp": "00:14:21.420",
+      "text": "D'un autre côté, changer l'Europe, vivre en Allemagne, ça n'aurait pas été très vendeur ni très original."
+    },
+    {
+      "id": 126,
+      "start": 861.42,
+      "end": 866.1,
+      "start_timestamp": "00:14:21.420",
+      "end_timestamp": "00:14:26.100",
+      "text": "Ça nous aurait sans doute rappelé les heures les plus sombres de notre histoire."
+    },
+    {
+      "id": 127,
+      "start": 866.1,
+      "end": 870.9,
+      "start_timestamp": "00:14:26.100",
+      "end_timestamp": "00:14:30.900",
+      "text": "Les plus fervents partisans de la construction européenne vont sûrement nous expliquer qu'il vaut mieux s'entendre"
+    },
+    {
+      "id": 128,
+      "start": 870.9,
+      "end": 876.66,
+      "start_timestamp": "00:14:30.900",
+      "end_timestamp": "00:14:36.660",
+      "text": "que de rester tout seul dans son coin, et qu'après tout, l'Europe est un effort, qu'il ne se fera pas d'un coup,"
+    },
+    {
+      "id": 129,
+      "start": 876.66,
+      "end": 879.34,
+      "start_timestamp": "00:14:36.660",
+      "end_timestamp": "00:14:39.340",
+      "text": "et qu'avec un peu de bonne volonté, on peut sûrement arriver à..."
+    },
+    {
+      "id": 130,
+      "start": 879.34,
+      "end": 884.98,
+      "start_timestamp": "00:14:39.340",
+      "end_timestamp": "00:14:44.980",
+      "text": "— Ouais, mais c'est pas toi qui décides ! — Faut quand même se rendre compte du niveau de blocage dans l'UE."
+    },
+    {
+      "id": 131,
+      "start": 884.98,
+      "end": 890.02,
+      "start_timestamp": "00:14:44.980",
+      "end_timestamp": "00:14:50.020",
+      "text": "Regardez un peu le bordel qu'a déclenché un projet de directive sur la fin du changement d'heure."
+    },
+    {
+      "id": 132,
+      "start": 890.02,
+      "end": 895.02,
+      "start_timestamp": "00:14:50.020",
+      "end_timestamp": "00:14:55.020",
+      "text": "Un beau jour, la Commission a décidé qu'il fallait arrêter de changer d'heure tous les 6 mois, puisque tous les États"
+    },
+    {
+      "id": 133,
+      "start": 895.02,
+      "end": 900.46,
+      "start_timestamp": "00:14:55.020",
+      "end_timestamp": "00:15:00.460",
+      "text": "ne changent pas d'heure le même jour et que certains n'en changent pas du tout. Mais elle n'impose pas une règle à tout le monde."
+    },
+    {
+      "id": 134,
+      "start": 900.46,
+      "end": 907.26,
+      "start_timestamp": "00:15:00.460",
+      "end_timestamp": "00:15:07.260",
+      "text": "Au nom du principe de subsidiarité, elle laisse le soin à chaque État de décider s'il reste définitivement à l'heure d'été"
+    },
+    {
+      "id": 135,
+      "start": 907.26,
+      "end": 912.14,
+      "start_timestamp": "00:15:07.260",
+      "end_timestamp": "00:15:12.140",
+      "text": "ou à l'heure d'hiver, ce qui peut créer des décalages horaires qui n'existaient pas avant entre des pays"
+    },
+    {
+      "id": 136,
+      "start": 912.14,
+      "end": 918.06,
+      "start_timestamp": "00:15:12.140",
+      "end_timestamp": "00:15:18.060",
+      "text": "qui feraient un choix différent. Des discussions sont donc en cours pour que les États définissent une position commune"
+    },
+    {
+      "id": 137,
+      "start": 918.06,
+      "end": 925.46,
+      "start_timestamp": "00:15:18.060",
+      "end_timestamp": "00:15:25.460",
+      "text": "afin d'éviter ce problème. Or, suivant des considérations économiques, certains États préfèrent rester à l'heure d'été"
+    },
+    {
+      "id": 138,
+      "start": 925.46,
+      "end": 931.86,
+      "start_timestamp": "00:15:25.460",
+      "end_timestamp": "00:15:31.860",
+      "text": "plus favorables aux activités touristiques, tandis que d'autres préfèrent rester à l'heure d'hiver plus favorables à l'industrie."
+    },
+    {
+      "id": 139,
+      "start": 931.86,
+      "end": 938.54,
+      "start_timestamp": "00:15:31.860",
+      "end_timestamp": "00:15:38.540",
+      "text": "Par-dessus ça se pose la question de l'Irlande. Le Royaume-Uni, n'étant pas concerné par cette directive et refusant de changer d'heure,"
+    },
+    {
+      "id": 140,
+      "start": 938.54,
+      "end": 945.66,
+      "start_timestamp": "00:15:38.540",
+      "end_timestamp": "00:15:45.660",
+      "text": "selon la décision des États européens, il pourrait se créer une frontière temporelle inacceptable pour l'Irlande entre la partie sud"
+    },
+    {
+      "id": 141,
+      "start": 945.66,
+      "end": 953.58,
+      "start_timestamp": "00:15:45.660",
+      "end_timestamp": "00:15:53.580",
+      "text": "et la partie nord de l'île. C'est un bordel. La mise en place de cette directive était prévue à la mi-2019,"
+    },
+    {
+      "id": 142,
+      "start": 953.58,
+      "end": 962.66,
+      "start_timestamp": "00:15:53.580",
+      "end_timestamp": "00:16:02.660",
+      "text": "et elle devait servir à montrer que l'UE est capable de s'entendre en vue des élections européennes. Eh ben c'est repoussé à 2021."
+    },
+    {
+      "id": 143,
+      "start": 962.66,
+      "end": 969.26,
+      "start_timestamp": "00:16:02.660",
+      "end_timestamp": "00:16:09.260",
+      "text": "4 ans, 4 putains d'années pour savoir si on reste définitivement à l'heure d'été, à l'heure d'hiver, dont on se fout complètement."
+    },
+    {
+      "id": 144,
+      "start": 969.26,
+      "end": 974.18,
+      "start_timestamp": "00:16:09.260",
+      "end_timestamp": "00:16:14.180",
+      "text": "Et c'est pas fini. Alors maintenant, imaginez que la même équipe doit s'entendre sur un salaire minimum commun,"
+    },
+    {
+      "id": 145,
+      "start": 974.18,
+      "end": 980.42,
+      "start_timestamp": "00:16:14.180",
+      "end_timestamp": "00:16:20.420",
+      "text": "des cotisations communes, un système de retraite ou de santé commun. Vous croyez qu'ils vont y arriver ?"
+    },
+    {
+      "id": 146,
+      "start": 980.42,
+      "end": 988.46,
+      "start_timestamp": "00:16:20.420",
+      "end_timestamp": "00:16:28.460",
+      "text": "Je veux dire avant qu'on soit tous morts. Si les États-Unis fonctionnent aujourd'hui comme une fédération à la différence de l'UE,"
+    },
+    {
+      "id": 147,
+      "start": 988.46,
+      "end": 995.38,
+      "start_timestamp": "00:16:28.460",
+      "end_timestamp": "00:16:35.380",
+      "text": "c'est parce que ce pays s'est construit comme ça. Et De Gaulle, à son époque, fustigeait déjà les fédéralistes sur ce point."
+    },
+    {
+      "id": 148,
+      "start": 995.38,
+      "end": 1001.04,
+      "start_timestamp": "00:16:35.380",
+      "end_timestamp": "00:16:41.040",
+      "text": "À quelle profondeur d'illusion ou de parti pris faudra-t-il plonger, en effet, pour croire que des nations européennes,"
+    },
+    {
+      "id": 149,
+      "start": 1001.04,
+      "end": 1008.18,
+      "start_timestamp": "00:16:41.040",
+      "end_timestamp": "00:16:48.180",
+      "text": "forgées au long des siècles par des efforts et des douleurs sans nombre, ayant chacune sa géographie, son histoire, sa langue,"
+    },
+    {
+      "id": 150,
+      "start": 1008.18,
+      "end": 1013.9,
+      "start_timestamp": "00:16:48.180",
+      "end_timestamp": "00:16:53.900",
+      "text": "ses traditions, ses institutions pourraient cesser d'être elles-mêmes et n'en former qu'une seule ?"
+    },
+    {
+      "id": 151,
+      "start": 1013.9,
+      "end": 1020.34,
+      "start_timestamp": "00:16:53.900",
+      "end_timestamp": "00:17:00.340",
+      "text": "À quelle vue sommaire répond la comparaison souvent brandie par des naïfs entre ce que l'Europe devrait faire"
+    },
+    {
+      "id": 152,
+      "start": 1020.34,
+      "end": 1026.58,
+      "start_timestamp": "00:17:00.340",
+      "end_timestamp": "00:17:06.580",
+      "text": "et ce qu'ont fait les États-Unis, alors que ceux-ci furent créés, eux, à partir de rien, sur une terre nouvelle"
+    },
+    {
+      "id": 153,
+      "start": 1026.58,
+      "end": 1034.04,
+      "start_timestamp": "00:17:06.580",
+      "end_timestamp": "00:17:14.040",
+      "text": "par des flots successifs de colons déracinés ? Pour les 6 en particulier, et a fortiori maintenant à 28,"
+    },
+    {
+      "id": 154,
+      "start": 1034.04,
+      "end": 1038.82,
+      "start_timestamp": "00:17:14.040",
+      "end_timestamp": "00:17:18.820",
+      "text": "comment imaginer que leurs buts extérieurs leur deviennent soudain communs alors que leurs origines,"
+    },
+    {
+      "id": 155,
+      "start": 1038.82,
+      "end": 1045.42,
+      "start_timestamp": "00:17:18.820",
+      "end_timestamp": "00:17:25.420",
+      "text": "leurs situations, leurs ambitions sont très différentes ? De Gaulle résumait tout ça en une phrase"
+    },
+    {
+      "id": 156,
+      "start": 1045.42,
+      "end": 1052.58,
+      "start_timestamp": "00:17:25.420",
+      "end_timestamp": "00:17:32.580",
+      "text": "« On ne fait pas d'omelette avec des œufs durs ». Bon, ben voilà. Maintenant, vous comprenez pourquoi à chaque fois"
+    },
+    {
+      "id": 157,
+      "start": 1052.58,
+      "end": 1059.02,
+      "start_timestamp": "00:17:32.580",
+      "end_timestamp": "00:17:39.020",
+      "text": "que l'UE tente de s'entendre sur un truc commun pour taxer les transactions financières, les GAFAM ou interdire"
+    },
+    {
+      "id": 158,
+      "start": 1059.02,
+      "end": 1064.9,
+      "start_timestamp": "00:17:39.020",
+      "end_timestamp": "00:17:44.900",
+      "text": "le glyphosate, ben ça pédale dans la semoule pendant des années et ça déboule sur rien, ou presque."
+    },
+    {
+      "id": 159,
+      "start": 1064.9,
+      "end": 1069.7,
+      "start_timestamp": "00:17:44.900",
+      "end_timestamp": "00:17:49.700",
+      "text": "Voilà où on en est de l'harmonisation en Europe. Enfin, il y a quand même un truc sur lequel ces gens"
+    },
+    {
+      "id": 160,
+      "start": 1069.7,
+      "end": 1075.36,
+      "start_timestamp": "00:17:49.700",
+      "end_timestamp": "00:17:55.360",
+      "text": "s'entendent toujours. C'est pour chier sur les référendums quand ça va pas dans leur sens. Ça, c'est harmonisé."
+    },
+    {
+      "id": 161,
+      "start": 1075.36,
+      "end": 1082.6,
+      "start_timestamp": "00:17:55.360",
+      "end_timestamp": "00:18:02.600",
+      "text": "Il n'y a pas de problème. Il y a quand même un truc qui va pas dans tout ça. Est-ce que vous avez remarqué"
+    },
+    {
+      "id": 162,
+      "start": 1082.6,
+      "end": 1088.12,
+      "start_timestamp": "00:18:02.600",
+      "end_timestamp": "00:18:08.120",
+      "text": "la schizophrénie de l'UE ? Parce que d'un côté, vous avez les traités qui instaurent un marché commun"
+    },
+    {
+      "id": 163,
+      "start": 1088.12,
+      "end": 1094.04,
+      "start_timestamp": "00:18:08.120",
+      "end_timestamp": "00:18:14.040",
+      "text": "basé sur la libre concurrence entre les États et sur le libre-échange, qui lui-même postule une spécialisation"
+    },
+    {
+      "id": 164,
+      "start": 1094.04,
+      "end": 1096.84,
+      "start_timestamp": "00:18:14.040",
+      "end_timestamp": "00:18:16.840",
+      "text": "des États selon la théorie des avantages comparatifs."
+    },
+    {
+      "id": 165,
+      "start": 1096.84,
+      "end": 1101.24,
+      "start_timestamp": "00:18:16.840",
+      "end_timestamp": "00:18:21.240",
+      "text": "– Mais en même temps... – Ils ont fait l'euro, qui fige les taux de change entre ces États"
+    },
+    {
+      "id": 166,
+      "start": 1101.24,
+      "end": 1105.94,
+      "start_timestamp": "00:18:21.240",
+      "end_timestamp": "00:18:25.940",
+      "text": "pour les pousser à la convergence budgétaire, afin de créer un État supranational où les politiques"
+    },
+    {
+      "id": 167,
+      "start": 1105.94,
+      "end": 1111.78,
+      "start_timestamp": "00:18:25.940",
+      "end_timestamp": "00:18:31.780",
+      "text": "seraient de plus en plus harmonisées. Je vais se réfléchir sur tout ça. Et on en reparle au prochain épisode."
+    }
+  ]
+}

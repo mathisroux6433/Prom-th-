@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://promethe.local/schemas/index_video-1.0.json",
+  "title": "Index documentaire Prométhé",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "video_id", "resume_general", "themes_principaux",
+    "sujets_secondaires", "mots_cles", "variantes_lexicales", "personnes",
+    "organismes", "concepts", "evenements_lois_reglementations",
+    "reperes_temporels", "expressions_representatives", "citations_exactes"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "video_id": {"type": "string", "minLength": 1},
+    "resume_general": {"type": "string"},
+    "themes_principaux": {"type": "array"},
+    "sujets_secondaires": {"type": "array"},
+    "mots_cles": {"type": "array"},
+    "variantes_lexicales": {"type": "array"},
+    "personnes": {"type": "array"},
+    "organismes": {"type": "array"},
+    "concepts": {"type": "array"},
+    "evenements_lois_reglementations": {"type": "array"},
+    "reperes_temporels": {"type": "array"},
+    "expressions_representatives": {"type": "array"},
+    "citations_exactes": {"type": "array"}
+  }
+}

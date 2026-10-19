@@ -1,0 +1,29 @@
+# Modèles IA téléchargés
+.models/
+
+# Environnements Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Fichiers temporaires
+.cache/
+*.tmp
+*.log
+*.part
+
+# Secrets
+.env
+.env.*
+
+# Gros fichiers multimédias
+*.mp4
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.flac
+
+*.egg-info/

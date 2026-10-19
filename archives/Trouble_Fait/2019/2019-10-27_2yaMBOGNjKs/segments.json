@@ -1,0 +1,1057 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 9.65,
+      "end": 14.65,
+      "start_timestamp": "00:00:09.650",
+      "end_timestamp": "00:00:14.650",
+      "text": "Salut à tous et bienvenue dans cette série sur les Targets. Pour commencer, on va voir comment se forment"
+    },
+    {
+      "id": 1,
+      "start": 14.65,
+      "end": 20.45,
+      "start_timestamp": "00:00:14.650",
+      "end_timestamp": "00:00:20.450",
+      "text": "techniquement les dettes Target et pourquoi ce ne sont pas vraiment des dettes. Je vous préviens que l'épisode du jour va être"
+    },
+    {
+      "id": 2,
+      "start": 20.45,
+      "end": 26.85,
+      "start_timestamp": "00:00:20.450",
+      "end_timestamp": "00:00:26.850",
+      "text": "un peu technique. Mais vous allez pouvoir apprendre quelque chose qui est totalement inconnu de 95% de la population,"
+    },
+    {
+      "id": 3,
+      "start": 26.85,
+      "end": 34.37,
+      "start_timestamp": "00:00:26.850",
+      "end_timestamp": "00:00:34.370",
+      "text": "si c'est pas 99%, ce qui vous permettra de briller dans les diners en ville. Le mot Target est l'acronyme du nom"
+    },
+    {
+      "id": 4,
+      "start": 34.37,
+      "end": 40.73,
+      "start_timestamp": "00:00:34.370",
+      "end_timestamp": "00:00:40.730",
+      "text": "très long et sans intérêt du système informatique commun des pays de la zone euro qui permet de faire circuler"
+    },
+    {
+      "id": 5,
+      "start": 40.73,
+      "end": 45.77,
+      "start_timestamp": "00:00:40.730",
+      "end_timestamp": "00:00:45.770",
+      "text": "les euros entre les pays. Il est utilisé par toutes les banques centrales, toutes les banques et quelques"
+    },
+    {
+      "id": 6,
+      "start": 45.77,
+      "end": 52.09,
+      "start_timestamp": "00:00:45.770",
+      "end_timestamp": "00:00:52.090",
+      "text": "très grosses entreprises qui agissent directement dessus. Ce qu'on appelle les soldes de Target apparaissent"
+    },
+    {
+      "id": 7,
+      "start": 52.09,
+      "end": 58.57,
+      "start_timestamp": "00:00:52.090",
+      "end_timestamp": "00:00:58.570",
+      "text": "à cause de la circulation de la monnaie d'un État à un autre dans la zone euro. Le but de cette vidéo,"
+    },
+    {
+      "id": 8,
+      "start": 58.57,
+      "end": 64.77,
+      "start_timestamp": "00:00:58.570",
+      "end_timestamp": "00:01:04.770",
+      "text": "qui sera en deux parties, est donc de répondre à ce mystère qui vaut plus de 1000 milliards d'euros. Pourquoi est-ce que"
+    },
+    {
+      "id": 9,
+      "start": 64.77,
+      "end": 77.72,
+      "start_timestamp": "00:01:04.770",
+      "end_timestamp": "00:01:17.720",
+      "text": "la circulation des euros crée des dettes entre les États quand ils traversent une frontière dans la zone euro ?"
+    },
+    {
+      "id": 10,
+      "start": 77.72,
+      "end": 83.16,
+      "start_timestamp": "00:01:17.720",
+      "end_timestamp": "00:01:23.160",
+      "text": "La réponse se trouve dans les règles comptables de notre merveilleux système bancaire. Il faut donc que je m'assure"
+    },
+    {
+      "id": 11,
+      "start": 83.16,
+      "end": 92.78,
+      "start_timestamp": "00:01:23.160",
+      "end_timestamp": "00:01:32.780",
+      "text": "que vous soyez au courant d'une petite notion. C'est le moment bilan comptable. Le bilan est un document"
+    },
+    {
+      "id": 12,
+      "start": 92.78,
+      "end": 99.06,
+      "start_timestamp": "00:01:32.780",
+      "end_timestamp": "00:01:39.060",
+      "text": "comptable qui renseigne sur le patrimoine d'un agent économique, disons ici une entreprise. L'actif, à gauche,"
+    },
+    {
+      "id": 13,
+      "start": 99.06,
+      "end": 104.74,
+      "start_timestamp": "00:01:39.060",
+      "end_timestamp": "00:01:44.740",
+      "text": "indique toutes les possessions de cette entreprise, ses immeubles, les créances de ses clients, ses actifs financiers,"
+    },
+    {
+      "id": 14,
+      "start": 104.74,
+      "end": 111.46,
+      "start_timestamp": "00:01:44.740",
+      "end_timestamp": "00:01:51.460",
+      "text": "ses stocks, sa trésorerie aussi, donc l'argent qu'elle a à la vente. Et le passif, à droite, indique par quel moyen"
+    },
+    {
+      "id": 15,
+      "start": 111.46,
+      "end": 116.26,
+      "start_timestamp": "00:01:51.460",
+      "end_timestamp": "00:01:56.260",
+      "text": "cette entreprise a financé ses possessions. Alors essentiellement, ce sera de l'apport en capital des actionnaires"
+    },
+    {
+      "id": 16,
+      "start": 116.26,
+      "end": 122.94,
+      "start_timestamp": "00:01:56.260",
+      "end_timestamp": "00:02:02.940",
+      "text": "et toutes sortes de dettes, emprunts bancaires, émissions d'obligations, dettes fournisseurs, etc. Si l'actif,"
+    },
+    {
+      "id": 17,
+      "start": 122.94,
+      "end": 128.86,
+      "start_timestamp": "00:02:02.940",
+      "end_timestamp": "00:02:08.860",
+      "text": "c'est-à-dire la valeur des possessions à un instant T, est inférieure au passif, c'est-à-dire l'argent nécessaire"
+    },
+    {
+      "id": 18,
+      "start": 128.86,
+      "end": 134.18,
+      "start_timestamp": "00:02:08.860",
+      "end_timestamp": "00:02:14.180",
+      "text": "pour les obtenir, alors l'entreprise a réalisé une perte qu'on inscrira à l'actif parce qu'un bilan"
+    },
+    {
+      "id": 19,
+      "start": 134.18,
+      "end": 140.34,
+      "start_timestamp": "00:02:14.180",
+      "end_timestamp": "00:02:20.340",
+      "text": "doit toujours être équilibré. Et donc, à l'inverse, si l'actif est supérieur au passif, c'est que l'entreprise"
+    },
+    {
+      "id": 20,
+      "start": 140.34,
+      "end": 147.78,
+      "start_timestamp": "00:02:20.340",
+      "end_timestamp": "00:02:27.780",
+      "text": "a réalisé un bénéfice. Bon, eh ben maintenant que vous avez compris ça, vous allez voir qu'on a un problème comptable"
+    },
+    {
+      "id": 21,
+      "start": 147.78,
+      "end": 153.02,
+      "start_timestamp": "00:02:27.780",
+      "end_timestamp": "00:02:33.020",
+      "text": "lorsque l'on doit transférer de l'argent du compte d'un client dans une banque vers une autre banque."
+    },
+    {
+      "id": 22,
+      "start": 153.02,
+      "end": 157.5,
+      "start_timestamp": "00:02:33.020",
+      "end_timestamp": "00:02:37.500",
+      "text": "Pour vous familiariser avec le raisonnement qui va nous suivre tout au long de la série, on va commencer par voir"
+    },
+    {
+      "id": 23,
+      "start": 157.5,
+      "end": 162.58,
+      "start_timestamp": "00:02:37.500",
+      "end_timestamp": "00:02:42.580",
+      "text": "ce qui se passe quand les deux comptes sont dans la même banque. Puis on va compléter le schéma au fur et à mesure"
+    },
+    {
+      "id": 24,
+      "start": 162.58,
+      "end": 169.78,
+      "start_timestamp": "00:02:42.580",
+      "end_timestamp": "00:02:49.780",
+      "text": "jusqu'à arriver au fonctionnement de l'euro. Imaginons que M. Prolovitch est un compte à la BNP."
+    },
+    {
+      "id": 25,
+      "start": 169.78,
+      "end": 175.7,
+      "start_timestamp": "00:02:49.780",
+      "end_timestamp": "00:02:55.700",
+      "text": "Régalé par les succès économiques de Macron, il décide de claquer sa nouvelle fortune en achetant 100 € de vêtement"
+    },
+    {
+      "id": 26,
+      "start": 175.7,
+      "end": 181.58,
+      "start_timestamp": "00:02:55.700",
+      "end_timestamp": "00:03:01.580",
+      "text": "sur un site marchand qui se trouve avoir un compte dans la même banque que lui. Cette transaction va avoir un impact"
+    },
+    {
+      "id": 27,
+      "start": 181.58,
+      "end": 187.38,
+      "start_timestamp": "00:03:01.580",
+      "end_timestamp": "00:03:07.380",
+      "text": "sur le bilan de ces trois acteurs. Il s'agit à chaque fois de la même transaction, mais vu du point de vue du client,"
+    },
+    {
+      "id": 28,
+      "start": 187.38,
+      "end": 194.26,
+      "start_timestamp": "00:03:07.380",
+      "end_timestamp": "00:03:14.260",
+      "text": "du fournisseur et de la banque. Comme on ne s'intéresse qu'à l'effet de l'échange, les bilans doivent rester équilibrés."
+    },
+    {
+      "id": 29,
+      "start": 194.26,
+      "end": 200.74,
+      "start_timestamp": "00:03:14.260",
+      "end_timestamp": "00:03:20.740",
+      "text": "Prolovitch échange 100 € de trésorerie contre 100 € de vêtement. Moins 100, plus 100 à l'actif et qu'à 0."
+    },
+    {
+      "id": 30,
+      "start": 200.74,
+      "end": 206.26,
+      "start_timestamp": "00:03:20.740",
+      "end_timestamp": "00:03:26.260",
+      "text": "Il n'y a aucun impact sur l'équilibre du bilan. Évidemment, on constate l'inverse du côté du fournisseur."
+    },
+    {
+      "id": 31,
+      "start": 206.26,
+      "end": 213.22,
+      "start_timestamp": "00:03:26.260",
+      "end_timestamp": "00:03:33.220",
+      "text": "Il reçoit 100 € de trésorerie contre 100 € de vêtement. Pour la banque, les comptes de ses clients représentent des dettes."
+    },
+    {
+      "id": 32,
+      "start": 213.22,
+      "end": 219.38,
+      "start_timestamp": "00:03:33.220",
+      "end_timestamp": "00:03:39.380",
+      "text": "Elle les inscrit au passif de son bilan. Pour elle, il s'agit simplement d'un jeu d'écriture interne. 100 € sont débités"
+    },
+    {
+      "id": 33,
+      "start": 219.38,
+      "end": 226.22,
+      "start_timestamp": "00:03:39.380",
+      "end_timestamp": "00:03:46.220",
+      "text": "du compte de Prolovitch et 100 € sont crédités sur le compte du site marchand. Moins 100, plus 100, égal 0."
+    },
+    {
+      "id": 34,
+      "start": 226.22,
+      "end": 232.22,
+      "start_timestamp": "00:03:46.220",
+      "end_timestamp": "00:03:52.220",
+      "text": "Toujours pas d'impact sur l'équilibre du bilan. La situation va se corser si le fournisseur a une banque"
+    },
+    {
+      "id": 35,
+      "start": 232.22,
+      "end": 239.74,
+      "start_timestamp": "00:03:52.220",
+      "end_timestamp": "00:03:59.740",
+      "text": "différente de Prolovitch, disons la Société Générale. Cette fois, on va voir que cette transaction va déséquilibrer"
+    },
+    {
+      "id": 36,
+      "start": 239.74,
+      "end": 247.18,
+      "start_timestamp": "00:03:59.740",
+      "end_timestamp": "00:04:07.180",
+      "text": "le bilan des banques. À nouveau, le débit du compte de Prolovitch de 100 € fait baisser le passif de la BNP de 100 €,"
+    },
+    {
+      "id": 37,
+      "start": 247.18,
+      "end": 252.46,
+      "start_timestamp": "00:04:07.180",
+      "end_timestamp": "00:04:12.460",
+      "text": "mais cette fois, le crédit du compte fournisseur fait augmenter le passif d'une autre banque. Si on laisse les choses"
+    },
+    {
+      "id": 38,
+      "start": 252.46,
+      "end": 259.3,
+      "start_timestamp": "00:04:12.460",
+      "end_timestamp": "00:04:19.300",
+      "text": "dans cet état, ça signifie comptablement que la BNP a fait un bénéfice de 100 € et que la Société Générale a fait"
+    },
+    {
+      "id": 39,
+      "start": 259.3,
+      "end": 265.66,
+      "start_timestamp": "00:04:19.300",
+      "end_timestamp": "00:04:25.660",
+      "text": "une perte de 100 €. Or, dans cet échange, les banques n'ont pas gagné ou perdu d'argent. Il y a simplement eu un transfert"
+    },
+    {
+      "id": 40,
+      "start": 265.66,
+      "end": 271.5,
+      "start_timestamp": "00:04:25.660",
+      "end_timestamp": "00:04:31.500",
+      "text": "d'argent entre les comptes des clients. Il y a ici un problème dans la manière de représenter comptablement"
+    },
+    {
+      "id": 41,
+      "start": 271.5,
+      "end": 278.1,
+      "start_timestamp": "00:04:31.500",
+      "end_timestamp": "00:04:38.100",
+      "text": "la circulation de la monnaie. Si je vous demande de vous représenter de la monnaie, vous avez pensé à des pièces"
+    },
+    {
+      "id": 42,
+      "start": 278.1,
+      "end": 284.06,
+      "start_timestamp": "00:04:38.100",
+      "end_timestamp": "00:04:44.060",
+      "text": "et à des billets de banque. Bon. Eh bien la façon comptable de représenter de la monnaie, c'est un actif et un passif"
+    },
+    {
+      "id": 43,
+      "start": 284.06,
+      "end": 288.94,
+      "start_timestamp": "00:04:44.060",
+      "end_timestamp": "00:04:48.940",
+      "text": "de même valeur. Vous allez comprendre tout de suite en voyant ce qui se passe lors d'une création monétaire"
+    },
+    {
+      "id": 44,
+      "start": 288.94,
+      "end": 295.18,
+      "start_timestamp": "00:04:48.940",
+      "end_timestamp": "00:04:55.180",
+      "text": "par le crédit bancaire. Quand une banque fait crédit de 10 000 €, elle crée l'argent à partir de rien en inscrivant"
+    },
+    {
+      "id": 45,
+      "start": 295.18,
+      "end": 302.26,
+      "start_timestamp": "00:04:55.180",
+      "end_timestamp": "00:05:02.260",
+      "text": "la somme de 10 000 € sur le compte du client. Son passif augmente de 10 000 €, mais en échange, elle inscrit à son actif"
+    },
+    {
+      "id": 46,
+      "start": 302.26,
+      "end": 308.54,
+      "start_timestamp": "00:05:02.260",
+      "end_timestamp": "00:05:08.540",
+      "text": "la reconnaissance de dette du client de 10 000 €. Du côté du client, le crédit bancaire augmente sa trésorerie"
+    },
+    {
+      "id": 47,
+      "start": 308.54,
+      "end": 315.3,
+      "start_timestamp": "00:05:08.540",
+      "end_timestamp": "00:05:15.300",
+      "text": "à l'actif de 10 000 €, mais en contrepartie, il doit 10 000 à la banque. On voit bien que créer de la monnaie,"
+    },
+    {
+      "id": 48,
+      "start": 315.3,
+      "end": 321.34,
+      "start_timestamp": "00:05:15.300",
+      "end_timestamp": "00:05:21.340",
+      "text": "c'est créer un actif et un passif de même valeur, en l'occurrence une dette et une reconnaissance de dette."
+    },
+    {
+      "id": 49,
+      "start": 321.34,
+      "end": 326.5,
+      "start_timestamp": "00:05:21.340",
+      "end_timestamp": "00:05:26.500",
+      "text": "Or, en général, la reconnaissance de dette reste à l'actif du bilan de la banque qui a accordé un prêt"
+    },
+    {
+      "id": 50,
+      "start": 326.5,
+      "end": 332.06,
+      "start_timestamp": "00:05:26.500",
+      "end_timestamp": "00:05:32.060",
+      "text": "jusqu'à son remboursement intégral, tandis que la monnaie est beaucoup plus mobile. Elle va de banque en banque"
+    },
+    {
+      "id": 51,
+      "start": 332.06,
+      "end": 339.14,
+      "start_timestamp": "00:05:32.060",
+      "end_timestamp": "00:05:39.140",
+      "text": "au gré des échanges entre les clients. Pour en revenir à notre exemple, la BNP a donc transféré 100 € de ses dettes"
+    },
+    {
+      "id": 52,
+      "start": 339.14,
+      "end": 344.36,
+      "start_timestamp": "00:05:39.140",
+      "end_timestamp": "00:05:44.360",
+      "text": "sur le dos de la Société Générale, qui ne doit pas être très contente. Pour qu'il n'y ait ni pertes ni bénéfices,"
+    },
+    {
+      "id": 53,
+      "start": 344.36,
+      "end": 351.2,
+      "start_timestamp": "00:05:44.360",
+      "end_timestamp": "00:05:51.200",
+      "text": "mais seulement transfert d'argent, la BNP doit aussi transférer à la Société Générale une reconnaissance de dette de 100 €."
+    },
+    {
+      "id": 54,
+      "start": 351.2,
+      "end": 355.5,
+      "start_timestamp": "00:05:51.200",
+      "end_timestamp": "00:05:55.500",
+      "text": "Évidemment, comme les banques commerciales peuvent créer autant de monnaies qu'elles le veulent, une reconnaissance de dette"
+    },
+    {
+      "id": 55,
+      "start": 355.5,
+      "end": 364.62,
+      "start_timestamp": "00:05:55.500",
+      "end_timestamp": "00:06:04.620",
+      "text": "de leur part n'a pas de sens. Donc elle doit fournir un actif tangible, comme des actions, des obligations, de leur physique, etc."
+    },
+    {
+      "id": 56,
+      "start": 364.62,
+      "end": 369.72,
+      "start_timestamp": "00:06:04.620",
+      "end_timestamp": "00:06:09.720",
+      "text": "Seulement, si à chaque transfert entre les banques, celles-ci doivent s'échanger des actifs de même valeur,"
+    },
+    {
+      "id": 57,
+      "start": 369.72,
+      "end": 374.82,
+      "start_timestamp": "00:06:09.720",
+      "end_timestamp": "00:06:14.820",
+      "text": "mais de différentes natures, ça devient vite compliqué, surtout que la valeur de certains actifs, comme les actions"
+    },
+    {
+      "id": 58,
+      "start": 374.82,
+      "end": 379.74,
+      "start_timestamp": "00:06:14.820",
+      "end_timestamp": "00:06:19.740",
+      "text": "ou les obligations, peut fortement varier. Transférer des reconnaissances de dette des clients en même temps"
+    },
+    {
+      "id": 59,
+      "start": 379.74,
+      "end": 385.4,
+      "start_timestamp": "00:06:19.740",
+      "end_timestamp": "00:06:25.400",
+      "text": "que leur argent n'est pas envisageable non plus, car la Société Générale ne connaît pas les clients de la BNP."
+    },
+    {
+      "id": 60,
+      "start": 385.4,
+      "end": 390.32,
+      "start_timestamp": "00:06:25.400",
+      "end_timestamp": "00:06:30.320",
+      "text": "Elle ne connaît pas les conditions de chaque crédit accordé ni le niveau de solvabilité des clients."
+    },
+    {
+      "id": 61,
+      "start": 390.32,
+      "end": 396.28,
+      "start_timestamp": "00:06:30.320",
+      "end_timestamp": "00:06:36.280",
+      "text": "Vérifier des contrats de crédit à chaque transaction pour équilibrer des échanges serait fastidieusement chiant,"
+    },
+    {
+      "id": 62,
+      "start": 396.28,
+      "end": 402.42,
+      "start_timestamp": "00:06:36.280",
+      "end_timestamp": "00:06:42.420",
+      "text": "et il y a toujours le risque de se faire refourguer des actifs pourris. C'est à peu près ce qui s'est passé"
+    },
+    {
+      "id": 63,
+      "start": 402.42,
+      "end": 407.78,
+      "start_timestamp": "00:06:42.420",
+      "end_timestamp": "00:06:47.780",
+      "text": "en 2008 avec la crise des subprimes. Les banques ont prêté à des clients non solvables, et elles se sont débarrassées"
+    },
+    {
+      "id": 64,
+      "start": 407.78,
+      "end": 414.58,
+      "start_timestamp": "00:06:47.780",
+      "end_timestamp": "00:06:54.580",
+      "text": "de ces créances en les transformant en titres. Elles ont mis toute leur merde dans un joli paquet cadeau appelé CDS,"
+    },
+    {
+      "id": 65,
+      "start": 414.58,
+      "end": 420.18,
+      "start_timestamp": "00:06:54.580",
+      "end_timestamp": "00:07:00.180",
+      "text": "tamponné AAA avec la complicité des agences de notation. Et elles les ont vendues sur les marchés financiers"
+    },
+    {
+      "id": 66,
+      "start": 420.18,
+      "end": 425.82,
+      "start_timestamp": "00:07:00.180",
+      "end_timestamp": "00:07:05.820",
+      "text": "à prix d'or, comme des investissements de bon père de famille, avec les résultats que l'on connaît."
+    },
+    {
+      "id": 67,
+      "start": 425.82,
+      "end": 443.33,
+      "start_timestamp": "00:07:05.820",
+      "end_timestamp": "00:07:23.330",
+      "text": "— C'est une satire amusante. — Pour supprimer ce genre de risque, on a donc créé un intermédiaire,"
+    },
+    {
+      "id": 68,
+      "start": 443.33,
+      "end": 449.17,
+      "start_timestamp": "00:07:23.330",
+      "end_timestamp": "00:07:29.170",
+      "text": "un arbitre qui va servir à garantir la valeur des actifs échangés pour permettre la circulation de la monnaie"
+    },
+    {
+      "id": 69,
+      "start": 449.17,
+      "end": 455.27,
+      "start_timestamp": "00:07:29.170",
+      "end_timestamp": "00:07:35.270",
+      "text": "entre les banques commerciales. Cet arbitre, c'est la Banque centrale. Voilà comment ça marche."
+    },
+    {
+      "id": 70,
+      "start": 455.27,
+      "end": 460.71,
+      "start_timestamp": "00:07:35.270",
+      "end_timestamp": "00:07:40.710",
+      "text": "La BNP va déposer des actifs en garantie à la Banque centrale. En général, ce sont des obligations d'État."
+    },
+    {
+      "id": 71,
+      "start": 460.71,
+      "end": 468.23,
+      "start_timestamp": "00:07:40.710",
+      "end_timestamp": "00:07:48.230",
+      "text": "Mais les actions sont aussi acceptées avec une décode de 20 à 30%. En échange, elle reçoit un prêt en monnaie centrale."
+    },
+    {
+      "id": 72,
+      "start": 468.23,
+      "end": 473.77,
+      "start_timestamp": "00:07:48.230",
+      "end_timestamp": "00:07:53.770",
+      "text": "La BNP doit toujours s'assurer d'avoir une quantité de monnaie centrale égale à 1% du montant de ses dépôts."
+    },
+    {
+      "id": 73,
+      "start": 473.77,
+      "end": 480.35,
+      "start_timestamp": "00:07:53.770",
+      "end_timestamp": "00:08:00.350",
+      "text": "C'est la fameuse réserve fractionnaire. Même si maintenant, elle en a un petit peu plus. Mais ça, on y reviendra."
+    },
+    {
+      "id": 74,
+      "start": 480.35,
+      "end": 486.59,
+      "start_timestamp": "00:08:00.350",
+      "end_timestamp": "00:08:06.590",
+      "text": "Cette monnaie constitue un actif pour la BNP qui aura toujours la même valeur que sa propre monnaie, et donc qui sera acceptée"
+    },
+    {
+      "id": 75,
+      "start": 486.59,
+      "end": 493.51,
+      "start_timestamp": "00:08:06.590",
+      "end_timestamp": "00:08:13.510",
+      "text": "par toutes les banques commerciales pour le transfert des dettes qu'elle a créées par le crédit qu'elle a octroyé."
+    },
+    {
+      "id": 76,
+      "start": 493.51,
+      "end": 499.91,
+      "start_timestamp": "00:08:13.510",
+      "end_timestamp": "00:08:19.910",
+      "text": "Vous pouvez vous représenter la monnaie d'un État comme divisée en autant de compartiments qu'il y a de banques commerciales,"
+    },
+    {
+      "id": 77,
+      "start": 499.91,
+      "end": 506.71,
+      "start_timestamp": "00:08:19.910",
+      "end_timestamp": "00:08:26.710",
+      "text": "ou pour être plus précis, de banques de dépôts. Chacune de ces banques crée sa propre monnaie, qui a son propre tampon électronique"
+    },
+    {
+      "id": 78,
+      "start": 506.71,
+      "end": 513.91,
+      "start_timestamp": "00:08:26.710",
+      "end_timestamp": "00:08:33.910",
+      "text": "et qui tourne en vase clos entre les comptes de ses clients. Lorsque de la monnaie doit changer de vase, et donc changer de tampon,"
+    },
+    {
+      "id": 79,
+      "start": 513.91,
+      "end": 522.15,
+      "start_timestamp": "00:08:33.910",
+      "end_timestamp": "00:08:42.150",
+      "text": "on passe par l'intermédiaire d'une banque centrale qui garantit qu'un actif de la même valeur que le passif sera transféré."
+    },
+    {
+      "id": 80,
+      "start": 522.15,
+      "end": 528.19,
+      "start_timestamp": "00:08:42.150",
+      "end_timestamp": "00:08:48.190",
+      "text": "Maintenant que la BNP a de la monnaie centrale sur son compte à la banque centrale, on va pouvoir compléter notre exemple."
+    },
+    {
+      "id": 81,
+      "start": 528.19,
+      "end": 534.99,
+      "start_timestamp": "00:08:48.190",
+      "end_timestamp": "00:08:54.990",
+      "text": "Elle inscrit à l'actif de son bilan –100 € de monnaie centrale. Et la Société Générale va pouvoir inscrire à son actif"
+    },
+    {
+      "id": 82,
+      "start": 534.99,
+      "end": 541.59,
+      "start_timestamp": "00:08:54.990",
+      "end_timestamp": "00:09:01.590",
+      "text": "plus 100 en monnaie centrale. Pour la banque centrale, il s'agit simplement d'un jeu d'écriture. Elle transfère sa dette"
+    },
+    {
+      "id": 83,
+      "start": 541.59,
+      "end": 548.39,
+      "start_timestamp": "00:09:01.590",
+      "end_timestamp": "00:09:08.390",
+      "text": "d'un compte client à un autre, comme on l'a vu dans le premier exemple. Cette fois, il n'y a plus ni perte ni profit entre les deux banques,"
+    },
+    {
+      "id": 84,
+      "start": 548.39,
+      "end": 555.32,
+      "start_timestamp": "00:09:08.390",
+      "end_timestamp": "00:09:15.320",
+      "text": "mais bien transfert de monnaie entre elles. Pour être sûr que vous ayez bien compris, on va résumer ce qui se passe"
+    },
+    {
+      "id": 85,
+      "start": 555.32,
+      "end": 561.84,
+      "start_timestamp": "00:09:15.320",
+      "end_timestamp": "00:09:21.840",
+      "text": "quand on doit réaliser une transaction entre deux banques. Premièrement, Prolovitch ordonne à la BNP un paiement"
+    },
+    {
+      "id": 86,
+      "start": 561.84,
+      "end": 568.16,
+      "start_timestamp": "00:09:21.840",
+      "end_timestamp": "00:09:28.160",
+      "text": "chez un fournisseur qui a un compte à la Société Générale. La BNP commence par détruire 100 € de monnaie BNP sur le compte"
+    },
+    {
+      "id": 87,
+      "start": 568.16,
+      "end": 576.48,
+      "start_timestamp": "00:09:28.160",
+      "end_timestamp": "00:09:36.480",
+      "text": "de Prolovitch. Puis elle transfère 100 € de monnaie centrale à la Société Générale, qui va créer 100 € de monnaie Société Générale"
+    },
+    {
+      "id": 88,
+      "start": 576.48,
+      "end": 586.0,
+      "start_timestamp": "00:09:36.480",
+      "end_timestamp": "00:09:46.000",
+      "text": "sur le compte du fournisseur, qui pourra ensuite livrer Prolovitch. C'est un bordel ! Bon, bien sûr, il n'y a pas qu'une transaction"
+    },
+    {
+      "id": 89,
+      "start": 586.0,
+      "end": 592.08,
+      "start_timestamp": "00:09:46.000",
+      "end_timestamp": "00:09:52.080",
+      "text": "par jour, mais des centaines de milliers. Et dans les faits, les banques ne se transfèrent pas de la monnaie centrale à chaque fois."
+    },
+    {
+      "id": 90,
+      "start": 592.08,
+      "end": 599.64,
+      "start_timestamp": "00:09:52.080",
+      "end_timestamp": "00:09:59.640",
+      "text": "Elles passent par un mécanisme de compensation géré par la Banque de France, qui débouche sur le marché interbancaire."
+    },
+    {
+      "id": 91,
+      "start": 599.64,
+      "end": 604.72,
+      "start_timestamp": "00:09:59.640",
+      "end_timestamp": "00:10:04.720",
+      "text": "Chaque jour, à heure fixe, les banques constatent leur position entre elles, et elles ne payent que les soldes des débiteurs"
+    },
+    {
+      "id": 92,
+      "start": 604.72,
+      "end": 610.8,
+      "start_timestamp": "00:10:04.720",
+      "end_timestamp": "00:10:10.800",
+      "text": "envers leurs conserves. C'est même plus simple que ça, puisqu'au lieu de transférer réellement la monnaie centrale,"
+    },
+    {
+      "id": 93,
+      "start": 610.8,
+      "end": 617.2,
+      "start_timestamp": "00:10:10.800",
+      "end_timestamp": "00:10:17.200",
+      "text": "les banques se contentent de s'échanger des promesses de paiement en monnaie centrale, qui s'annulent entre elles lorsque la banque emprunteuse"
+    },
+    {
+      "id": 94,
+      "start": 617.2,
+      "end": 623.04,
+      "start_timestamp": "00:10:17.200",
+      "end_timestamp": "00:10:23.040",
+      "text": "devient prêteuse. Sachez quand même qu'il y a différentes maturités. Du coup, une banque peut prêter de la monnaie centrale"
+    },
+    {
+      "id": 95,
+      "start": 623.04,
+      "end": 628.48,
+      "start_timestamp": "00:10:23.040",
+      "end_timestamp": "00:10:28.480",
+      "text": "à une autre banque sur un mois, tout en lui en empruntant sur une semaine et en lui en emprêtant sur un jour."
+    },
+    {
+      "id": 96,
+      "start": 628.48,
+      "end": 635.08,
+      "start_timestamp": "00:10:28.480",
+      "end_timestamp": "00:10:35.080",
+      "text": "C'est un bordel ! Ce marché interbancaire permet de faire fonctionner le système avec très peu de monnaie centrale,"
+    },
+    {
+      "id": 97,
+      "start": 635.08,
+      "end": 641.04,
+      "start_timestamp": "00:10:35.080",
+      "end_timestamp": "00:10:41.040",
+      "text": "ce qui arrange bien les banques commerciales, puisqu'elles payent un intérêt sur cette monnaie centrale qu'elles empruntent."
+    },
+    {
+      "id": 98,
+      "start": 641.04,
+      "end": 647.4,
+      "start_timestamp": "00:10:41.040",
+      "end_timestamp": "00:10:47.400",
+      "text": "Mais on va voir qu'après la crise de 2008, le marché interbancaire va cesser de fonctionner, et le taux directeur de la BCE"
+    },
+    {
+      "id": 99,
+      "start": 647.4,
+      "end": 654.44,
+      "start_timestamp": "00:10:47.400",
+      "end_timestamp": "00:10:54.440",
+      "text": "va tomber à 0%, pour que les banques n'aient aucune difficulté d'accès à cette monnaie centrale, afin que la circulation"
+    },
+    {
+      "id": 100,
+      "start": 654.44,
+      "end": 660.56,
+      "start_timestamp": "00:10:54.440",
+      "end_timestamp": "00:11:00.560",
+      "text": "de la monnaie ne se bloque pas dans l'économie. Vous imaginez un peu le bordel si vous ne pouvez faire vos achats qu'auprès"
+    },
+    {
+      "id": 101,
+      "start": 660.56,
+      "end": 666.72,
+      "start_timestamp": "00:11:00.560",
+      "end_timestamp": "00:11:06.720",
+      "text": "d'entreprises qui ont un compte dans la même banque que vous. Bon, à ce stade, vous vous demandez sans doute"
+    },
+    {
+      "id": 102,
+      "start": 666.72,
+      "end": 673.0,
+      "start_timestamp": "00:11:06.720",
+      "end_timestamp": "00:11:13.000",
+      "text": "quel est le lien avec l'euro et les tariètes. Eh bien si vous avez compris tout ça, vous avez compris le fonctionnement de l'euro,"
+    },
+    {
+      "id": 103,
+      "start": 673.0,
+      "end": 680.12,
+      "start_timestamp": "00:11:13.000",
+      "end_timestamp": "00:11:20.120",
+      "text": "parce que le même schéma se répète à l'échelon supérieur entre les banques centrales de la zone euro et la BCE."
+    },
+    {
+      "id": 104,
+      "start": 680.12,
+      "end": 686.36,
+      "start_timestamp": "00:11:20.120",
+      "end_timestamp": "00:11:26.360",
+      "text": "En effet, l'euro n'est pas une monnaie unique avec une seule banque centrale. Sinon, nous serions dans le cas que je viens de vous présenter,"
+    },
+    {
+      "id": 105,
+      "start": 686.36,
+      "end": 692.2,
+      "start_timestamp": "00:11:26.360",
+      "end_timestamp": "00:11:32.200",
+      "text": "et les banques commerciales seraient directement connectées à la BCE, ce qui n'est pas le cas."
+    },
+    {
+      "id": 106,
+      "start": 692.2,
+      "end": 698.84,
+      "start_timestamp": "00:11:32.200",
+      "end_timestamp": "00:11:38.840",
+      "text": "Les banques centrales des États continuent d'exister. L'euro est donc une monnaie commune. C'est l'agglomération de 17 monnaies différentes"
+    },
+    {
+      "id": 107,
+      "start": 698.84,
+      "end": 704.12,
+      "start_timestamp": "00:11:38.840",
+      "end_timestamp": "00:11:44.120",
+      "text": "et qui continuent d'être différentes, mais dont on a décidé qu'elles s'appelleraient toutes euro et qu'elles s'échangeraient"
+    },
+    {
+      "id": 108,
+      "start": 704.12,
+      "end": 711.88,
+      "start_timestamp": "00:11:44.120",
+      "end_timestamp": "00:11:51.880",
+      "text": "à un taux de 1 pour 1 sans limite de montant ni de durée. Ce système est un petit peu plus complexe, mais il a l'avantage"
+    },
+    {
+      "id": 109,
+      "start": 711.88,
+      "end": 718.88,
+      "start_timestamp": "00:11:51.880",
+      "end_timestamp": "00:11:58.880",
+      "text": "d'être facilement réversible, car les banques centrales de chaque État continuent de gérer les transferts interbancaires domestiques,"
+    },
+    {
+      "id": 110,
+      "start": 718.88,
+      "end": 725.64,
+      "start_timestamp": "00:11:58.880",
+      "end_timestamp": "00:12:05.640",
+      "text": "et elles ne passent par la BCE seulement lorsque les euros changent de pays, ce qui permet de savoir exactement qui doit quoi à qui"
+    },
+    {
+      "id": 111,
+      "start": 725.64,
+      "end": 732.96,
+      "start_timestamp": "00:12:05.640",
+      "end_timestamp": "00:12:12.960",
+      "text": "en cas de sortie d'un État de la zone euro. Ainsi, de la même façon que la monnaie commerciale de la BNP ou de la Société générale"
+    },
+    {
+      "id": 112,
+      "start": 732.96,
+      "end": 741.52,
+      "start_timestamp": "00:12:12.960",
+      "end_timestamp": "00:12:21.520",
+      "text": "ne se mélange pas, il existe des euro centraux français, allemands, italiens, grecs, luxembourgeois qui ne se mélangent pas non plus."
+    },
+    {
+      "id": 113,
+      "start": 741.52,
+      "end": 747.76,
+      "start_timestamp": "00:12:21.520",
+      "end_timestamp": "00:12:27.760",
+      "text": "Mais il y a une différence fondamentale. On a vu que les banques commerciales doivent déposer des actifs auprès d'une banque centrale"
+    },
+    {
+      "id": 114,
+      "start": 747.76,
+      "end": 755.24,
+      "start_timestamp": "00:12:27.760",
+      "end_timestamp": "00:12:35.240",
+      "text": "pour obtenir la monnaie centrale du pays concerné. Eh bien dans la zone euro, les banques centrales échappent à cette règle entre elles."
+    },
+    {
+      "id": 115,
+      "start": 755.24,
+      "end": 763.54,
+      "start_timestamp": "00:12:35.240",
+      "end_timestamp": "00:12:43.540",
+      "text": "Elles se contentent de s'échanger des promesses de paiement, donc des dettes, donc leur propre monnaie centrale."
+    },
+    {
+      "id": 116,
+      "start": 763.54,
+      "end": 770.04,
+      "start_timestamp": "00:12:43.540",
+      "end_timestamp": "00:12:50.040",
+      "text": "Reprenons notre exemple. Vous allez comprendre. Imaginons maintenant que Prolovitch achète 100 € de vêtement depuis la France"
+    },
+    {
+      "id": 117,
+      "start": 770.04,
+      "end": 778.44,
+      "start_timestamp": "00:12:50.040",
+      "end_timestamp": "00:12:58.440",
+      "text": "à un fournisseur situé en Allemagne qui a un compte à la Deutsche Bank. Banque différente et pays différents, la Deutsche Bank voudra se faire payer"
+    },
+    {
+      "id": 118,
+      "start": 778.44,
+      "end": 783.96,
+      "start_timestamp": "00:12:58.440",
+      "end_timestamp": "00:13:03.960",
+      "text": "par la BNP en euro centraux allemands. Tant que le marché interbancaire fonctionne, ce n'est pas un problème."
+    },
+    {
+      "id": 119,
+      "start": 783.96,
+      "end": 790.2,
+      "start_timestamp": "00:13:03.960",
+      "end_timestamp": "00:13:10.200",
+      "text": "Et les défauts structurels de l'euro liés à l'existence de plusieurs banques centrales restent invisibles."
+    },
+    {
+      "id": 120,
+      "start": 790.2,
+      "end": 797.68,
+      "start_timestamp": "00:13:10.200",
+      "end_timestamp": "00:13:17.680",
+      "text": "La BNP va commencer par détruire 100 € de monnaie BNP sur le compte de Prolovitch. Puis elle va simplement échanger avec la Deutsche Bank"
+    },
+    {
+      "id": 121,
+      "start": 797.68,
+      "end": 804.76,
+      "start_timestamp": "00:13:17.680",
+      "end_timestamp": "00:13:24.760",
+      "text": "une promesse de prêt et d'emprunt de 100 € centraux allemands, ce qui permettra à la Deutsche Bank de créer 100 € tamponnés"
+    },
+    {
+      "id": 122,
+      "start": 804.76,
+      "end": 811.76,
+      "start_timestamp": "00:13:24.760",
+      "end_timestamp": "00:13:31.760",
+      "text": "Deutsche Bank qu'elle créditera sur le compte de son client. La dette de la BNP se réglera naturellement lorsque 100 €"
+    },
+    {
+      "id": 123,
+      "start": 811.76,
+      "end": 818.32,
+      "start_timestamp": "00:13:31.760",
+      "end_timestamp": "00:13:38.320",
+      "text": "feront le chemin inverse de l'Allemagne vers la France. Et si sa dette devait mettre trop de temps à se compenser, elle peut toujours"
+    },
+    {
+      "id": 124,
+      "start": 818.32,
+      "end": 824.52,
+      "start_timestamp": "00:13:38.320",
+      "end_timestamp": "00:13:44.520",
+      "text": "la régler en transférant un actif réel à la Deutsche Bank. En général, c'est une obligation d'État, de préférence allemande."
+    },
+    {
+      "id": 125,
+      "start": 824.52,
+      "end": 831.44,
+      "start_timestamp": "00:13:44.520",
+      "end_timestamp": "00:13:51.440",
+      "text": "Mais comme on l'a dit, ce n'est pas le plus pratique ni le plus courant. Ce système est très efficace, mais il a cependant un défaut."
+    },
+    {
+      "id": 126,
+      "start": 831.44,
+      "end": 837.2,
+      "start_timestamp": "00:13:51.440",
+      "end_timestamp": "00:13:57.200",
+      "text": "Il ne peut fonctionner durablement seulement si les euros qui traversent une frontière passent aussi en sens inverse,"
+    },
+    {
+      "id": 127,
+      "start": 837.2,
+      "end": 842.88,
+      "start_timestamp": "00:13:57.200",
+      "end_timestamp": "00:14:02.880",
+      "text": "en quantités à peu près égales. On peut légitimement penser que c'est ce qui s'est passé durant les premières années de l'euro,"
+    },
+    {
+      "id": 128,
+      "start": 842.88,
+      "end": 849.88,
+      "start_timestamp": "00:14:02.880",
+      "end_timestamp": "00:14:09.880",
+      "text": "puisque le marché interbancaire a fonctionné et que les soldes Target sont restés faibles. Mais après la crise de 2008,"
+    },
+    {
+      "id": 129,
+      "start": 849.92,
+      "end": 856.84,
+      "start_timestamp": "00:14:09.920",
+      "end_timestamp": "00:14:16.840",
+      "text": "le marché interbancaire va cesser de fonctionner, entraînant l'augmentation des dettes et des créances Target 2 pour des raisons"
+    },
+    {
+      "id": 130,
+      "start": 856.84,
+      "end": 860.08,
+      "start_timestamp": "00:14:16.840",
+      "end_timestamp": "00:14:20.080",
+      "text": "et des conséquences qu'on verra au prochain épisode."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "video_id": "psPOa6MFaIg",
+  "updated_at": "2026-10-18T09:17:24.031023+00:00",
+  "steps": {
+    "metadata": {
+      "status": "complete",
+      "error": null
+    },
+    "download": {
+      "status": "complete",
+      "error": null,
+      "file": "audio.webm"
+    },
+    "transcription": {
+      "status": "complete",
+      "error": null,
+      "model": "medium",
+      "device": "cuda"
+    },
+    "correction": {
+      "status": "complete",
+      "error": null,
+      "mode": "copie_identique_non_corrigee"
+    },
+    "index": {
+      "status": "waiting_manual",
+      "error": "Aucun fournisseur IA automatisé configuré",
+      "prompt": "requete_indexation.txt"
+    },
+    "synthesis": {
+      "status": "pending",
+      "error": null
+    },
+    "quality_control": {
+      "status": "pending",
+      "error": null
+    }
+  }
+}

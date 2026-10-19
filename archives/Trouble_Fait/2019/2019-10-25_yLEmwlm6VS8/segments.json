@@ -1,0 +1,993 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.06,
+      "end": 45.25,
+      "start_timestamp": "00:00:02.060",
+      "end_timestamp": "00:00:45.250",
+      "text": "l'euro ouvre une ère nouvelle l'euro va changer l'europe et d'abord les"
+    },
+    {
+      "id": 1,
+      "start": 45.25,
+      "end": 51.33,
+      "start_timestamp": "00:00:45.250",
+      "end_timestamp": "00:00:51.330",
+      "text": "mentalités et je tiens ce soir à vous rendre hommage"
+    },
+    {
+      "id": 2,
+      "start": 51.33,
+      "end": 58.71,
+      "start_timestamp": "00:00:51.330",
+      "end_timestamp": "00:00:58.710",
+      "text": "l'euro c'est d'abord le fruit de vos efforts et de vos succès c'est aussi"
+    },
+    {
+      "id": 3,
+      "start": 58.71,
+      "end": 66.03,
+      "start_timestamp": "00:00:58.710",
+      "end_timestamp": "00:01:06.030",
+      "text": "l'expression de votre lucidité et de votre esprit d'ouverture car si vous ne"
+    },
+    {
+      "id": 4,
+      "start": 66.03,
+      "end": 70.79,
+      "start_timestamp": "00:01:06.030",
+      "end_timestamp": "00:01:10.790",
+      "text": "l'aviez pas voulu si vous ne l'aviez pas rendu possible"
+    },
+    {
+      "id": 5,
+      "start": 70.79,
+      "end": 78.72,
+      "start_timestamp": "00:01:10.790",
+      "end_timestamp": "00:01:18.720",
+      "text": "nous serions restés en dehors de cette grande aventure pour nous français c'est"
+    },
+    {
+      "id": 6,
+      "start": 78.72,
+      "end": 85.52,
+      "start_timestamp": "00:01:18.720",
+      "end_timestamp": "00:01:25.520",
+      "text": "une chance l'euro nous apportera plus de choix dans nos achats des prix plus bas"
+    },
+    {
+      "id": 7,
+      "start": 85.52,
+      "end": 90.92,
+      "start_timestamp": "00:01:25.520",
+      "end_timestamp": "00:01:30.920",
+      "text": "de nouvelles parts de marché de nouvelles possibilités d'investissement"
+    },
+    {
+      "id": 8,
+      "start": 90.92,
+      "end": 97.68,
+      "start_timestamp": "00:01:30.920",
+      "end_timestamp": "00:01:37.680",
+      "text": "et donc d'emploi il nous apportera plus de stabilité dans un monde"
+    },
+    {
+      "id": 9,
+      "start": 97.68,
+      "end": 105.12,
+      "start_timestamp": "00:01:37.680",
+      "end_timestamp": "00:01:45.120",
+      "text": "incertain plus de force face aux grands pôles économiques et politiques qui"
+    },
+    {
+      "id": 10,
+      "start": 105.12,
+      "end": 107.8,
+      "start_timestamp": "00:01:45.120",
+      "end_timestamp": "00:01:47.800",
+      "text": "existent ou se développent sur la planète"
+    },
+    {
+      "id": 11,
+      "start": 107.8,
+      "end": 114.2,
+      "start_timestamp": "00:01:47.800",
+      "end_timestamp": "00:01:54.200",
+      "text": "salut à tous ça fait 20 ans cette année que la france utilise l'euro et rappelez"
+    },
+    {
+      "id": 12,
+      "start": 114.2,
+      "end": 117.0,
+      "start_timestamp": "00:01:54.200",
+      "end_timestamp": "00:01:57.000",
+      "text": "vous qu'à son introduction on nous avait fait un paquet de promesses"
+    },
+    {
+      "id": 13,
+      "start": 117.0,
+      "end": 121.8,
+      "start_timestamp": "00:01:57.000",
+      "end_timestamp": "00:02:01.800",
+      "text": "seulement avec le recul du temps et un truc qu'on appelle la crise de l'euro"
+    },
+    {
+      "id": 14,
+      "start": 121.8,
+      "end": 125.8,
+      "start_timestamp": "00:02:01.800",
+      "end_timestamp": "00:02:05.800",
+      "text": "bah plus personne nous affirmait qu'il est une source d'emploi d'investissement"
+    },
+    {
+      "id": 15,
+      "start": 125.8,
+      "end": 131.24,
+      "start_timestamp": "00:02:05.800",
+      "end_timestamp": "00:02:11.240",
+      "text": "et de prix bas c'est plutôt l'inverse qu'on a constaté un rapport récent datant"
+    },
+    {
+      "id": 16,
+      "start": 131.24,
+      "end": 135.08,
+      "start_timestamp": "00:02:11.240",
+      "end_timestamp": "00:02:15.080",
+      "text": "de février 2019 a estimé qu'une introduction de l'euro aurait coûté"
+    },
+    {
+      "id": 17,
+      "start": 135.08,
+      "end": 141.6,
+      "start_timestamp": "00:02:15.080",
+      "end_timestamp": "00:02:21.600",
+      "text": "56 000 euros à chaque français sur 20 ans soit 3600 milliards d'euros"
+    },
+    {
+      "id": 18,
+      "start": 141.72,
+      "end": 148.32,
+      "start_timestamp": "00:02:21.720",
+      "end_timestamp": "00:02:28.320",
+      "text": "on voit qu'il y a un écart extrêmement important entre le PIB réel celui que"
+    },
+    {
+      "id": 19,
+      "start": 148.32,
+      "end": 153.88,
+      "start_timestamp": "00:02:28.320",
+      "end_timestamp": "00:02:33.880",
+      "text": "l'on a effectivement et le PIB que l'on aurait pu avoir si on n'avait pas été"
+    },
+    {
+      "id": 20,
+      "start": 153.88,
+      "end": 157.08,
+      "start_timestamp": "00:02:33.880",
+      "end_timestamp": "00:02:37.080",
+      "text": "dans l'euro vous le voyez au départ évidemment la différence est pas bien"
+    },
+    {
+      "id": 21,
+      "start": 157.08,
+      "end": 162.6,
+      "start_timestamp": "00:02:37.080",
+      "end_timestamp": "00:02:42.600",
+      "text": "grande c'est normal mais en bout de course en 2018 elle est extrêmement"
+    },
+    {
+      "id": 22,
+      "start": 162.6,
+      "end": 169.4,
+      "start_timestamp": "00:02:42.600",
+      "end_timestamp": "00:02:49.400",
+      "text": "importante on a retrouvé que d'un point de vue cumulé et bien on n'est pas très"
+    },
+    {
+      "id": 23,
+      "start": 169.4,
+      "end": 174.4,
+      "start_timestamp": "00:02:49.400",
+      "end_timestamp": "00:02:54.400",
+      "text": "loin des chiffres qui sont donnés par cp cette étude donne un écart de"
+    },
+    {
+      "id": 24,
+      "start": 174.4,
+      "end": 181.52,
+      "start_timestamp": "00:02:54.400",
+      "end_timestamp": "00:03:01.520",
+      "text": "croissance de 3300 milliards vous savez le cp il est arrivé à 3600 milliards"
+    },
+    {
+      "id": 25,
+      "start": 181.52,
+      "end": 185.92,
+      "start_timestamp": "00:03:01.520",
+      "end_timestamp": "00:03:05.920",
+      "text": "donc ça veut dire que un écart de croissance de plus de 3000 milliards"
+    },
+    {
+      "id": 26,
+      "start": 185.92,
+      "end": 192.44,
+      "start_timestamp": "00:03:05.920",
+      "end_timestamp": "00:03:12.440",
+      "text": "sur 20 ans c'est absolument crédible qu'est ce que ça veut dire 3000 milliards"
+    },
+    {
+      "id": 27,
+      "start": 192.44,
+      "end": 197.76,
+      "start_timestamp": "00:03:12.440",
+      "end_timestamp": "00:03:17.760",
+      "text": "plus de 3000 milliards sur 20 ans ça représente grosso modo 50 000 euros"
+    },
+    {
+      "id": 28,
+      "start": 197.76,
+      "end": 202.92,
+      "start_timestamp": "00:03:17.760",
+      "end_timestamp": "00:03:22.920",
+      "text": "cumulé évidemment pour chaque français depuis le bébé qui vient de"
+    },
+    {
+      "id": 29,
+      "start": 202.92,
+      "end": 207.84,
+      "start_timestamp": "00:03:22.920",
+      "end_timestamp": "00:03:27.840",
+      "text": "naître jusqu'à la personne qui est très âgé et qui est à la retraite bien"
+    },
+    {
+      "id": 30,
+      "start": 207.84,
+      "end": 212.0,
+      "start_timestamp": "00:03:27.840",
+      "end_timestamp": "00:03:32.000",
+      "text": "qu'est ce que ça veut dire 50 000 euros ça veut dire allez on va calculer ça"
+    },
+    {
+      "id": 31,
+      "start": 212.0,
+      "end": 217.08,
+      "start_timestamp": "00:03:32.000",
+      "end_timestamp": "00:03:37.080",
+      "text": "rapidement ça veut dire 2500 euros par an probablement plus aujourd'hui puisque"
+    },
+    {
+      "id": 32,
+      "start": 217.08,
+      "end": 223.64,
+      "start_timestamp": "00:03:37.080",
+      "end_timestamp": "00:03:43.640",
+      "text": "on voit bien que c'est très croissant 2500 euros par an ça veut dire 200 euros"
+    },
+    {
+      "id": 33,
+      "start": 223.64,
+      "end": 230.16,
+      "start_timestamp": "00:03:43.640",
+      "end_timestamp": "00:03:50.160",
+      "text": "par mois mais 200 euros par mois ça représente plus de 15% du salaire"
+    },
+    {
+      "id": 34,
+      "start": 230.16,
+      "end": 234.68,
+      "start_timestamp": "00:03:50.160",
+      "end_timestamp": "00:03:54.680",
+      "text": "mensuel d'un smicard ou de quelqu'un dont le salaire est à peu de choses pré au"
+    },
+    {
+      "id": 35,
+      "start": 234.68,
+      "end": 239.16,
+      "start_timestamp": "00:03:54.680",
+      "end_timestamp": "00:03:59.160",
+      "text": "smic et là on se dit qu'il y a une vraie perte de pouvoir d'achat et on peut se"
+    },
+    {
+      "id": 36,
+      "start": 239.16,
+      "end": 243.88,
+      "start_timestamp": "00:03:59.160",
+      "end_timestamp": "00:04:03.880",
+      "text": "demander est ce que cette perte de pouvoir d'achat elle n'est pas d'une"
+    },
+    {
+      "id": 37,
+      "start": 243.88,
+      "end": 247.72,
+      "start_timestamp": "00:04:03.880",
+      "end_timestamp": "00:04:07.720",
+      "text": "certaine manière la cause profonde du mouvement des gilets jaunes"
+    },
+    {
+      "id": 38,
+      "start": 247.72,
+      "end": 251.56,
+      "start_timestamp": "00:04:07.720",
+      "end_timestamp": "00:04:11.560",
+      "text": "évidemment le chiffre n'est pas à prendre au pied de la lettre ce qu'il"
+    },
+    {
+      "id": 39,
+      "start": 251.56,
+      "end": 254.92,
+      "start_timestamp": "00:04:11.560",
+      "end_timestamp": "00:04:14.920",
+      "text": "faut retenir de cette étude c'est l'ordre de grandeur de l'écart entre les"
+    },
+    {
+      "id": 40,
+      "start": 254.92,
+      "end": 259.04,
+      "start_timestamp": "00:04:14.920",
+      "end_timestamp": "00:04:19.040",
+      "text": "bénéficiaires et les lésiers de l'euro ne pouvant plus promettent la"
+    },
+    {
+      "id": 41,
+      "start": 259.04,
+      "end": 262.48,
+      "start_timestamp": "00:04:19.040",
+      "end_timestamp": "00:04:22.480",
+      "text": "prospérité les mêmes qui nous avaient vendu cette monnaie se contentent"
+    },
+    {
+      "id": 42,
+      "start": 262.48,
+      "end": 266.56,
+      "start_timestamp": "00:04:22.480",
+      "end_timestamp": "00:04:26.560",
+      "text": "aujourd'hui de traiter de nazis ou de maréchalistes ceux qui la critiquent et"
+    },
+    {
+      "id": 43,
+      "start": 266.56,
+      "end": 270.08,
+      "start_timestamp": "00:04:26.560",
+      "end_timestamp": "00:04:30.080",
+      "text": "ils affirment de façon complètement péremptoire que la france sombrerait"
+    },
+    {
+      "id": 44,
+      "start": 270.08,
+      "end": 274.84,
+      "start_timestamp": "00:04:30.080",
+      "end_timestamp": "00:04:34.840",
+      "text": "dans le tiers monde si on avait l'idée saugrenue d'en sortir d'un autre côté"
+    },
+    {
+      "id": 45,
+      "start": 274.84,
+      "end": 279.08,
+      "start_timestamp": "00:04:34.840",
+      "end_timestamp": "00:04:39.080",
+      "text": "les partisans de la sortie de l'euro les plus visibles dans les médias ne sont pas"
+    },
+    {
+      "id": 46,
+      "start": 279.08,
+      "end": 281.08,
+      "start_timestamp": "00:04:39.080",
+      "end_timestamp": "00:04:41.080",
+      "text": "plus doués pour nous convaincre de les suivre"
+    },
+    {
+      "id": 47,
+      "start": 281.08,
+      "end": 285.48,
+      "start_timestamp": "00:04:41.080",
+      "end_timestamp": "00:04:45.480",
+      "text": "il faut retrouver notre monnaie nationale donc on revient au franc c'est essentiel"
+    },
+    {
+      "id": 48,
+      "start": 285.48,
+      "end": 290.68,
+      "start_timestamp": "00:04:45.480",
+      "end_timestamp": "00:04:50.680",
+      "text": "d'accord essentiel donc vous proposez bien de sortir de l'euro non je vais"
+    },
+    {
+      "id": 49,
+      "start": 290.68,
+      "end": 296.08,
+      "start_timestamp": "00:04:50.680",
+      "end_timestamp": "00:04:56.080",
+      "text": "renégocier pour que l'euro on s'en libère et on le transforme en monnaie"
+    },
+    {
+      "id": 50,
+      "start": 296.08,
+      "end": 300.42,
+      "start_timestamp": "00:04:56.080",
+      "end_timestamp": "00:05:00.420",
+      "text": "commune c'est ce qu'il a existé ce qu'il a il était avant qu'il devienne la"
+    },
+    {
+      "id": 51,
+      "start": 300.42,
+      "end": 303.28,
+      "start_timestamp": "00:05:00.420",
+      "end_timestamp": "00:05:03.280",
+      "text": "monnaie de la france"
+    },
+    {
+      "id": 52,
+      "start": 303.28,
+      "end": 308.84,
+      "start_timestamp": "00:05:03.280",
+      "end_timestamp": "00:05:08.840",
+      "text": "mais on paiera avec de l'euro que les choses soient très claires non on ne"
+    },
+    {
+      "id": 53,
+      "start": 308.84,
+      "end": 312.68,
+      "start_timestamp": "00:05:08.840",
+      "end_timestamp": "00:05:12.680",
+      "text": "paiera pas avec de l'euro mais vous le savez bien les banques centrales paieront avec"
+    },
+    {
+      "id": 54,
+      "start": 312.68,
+      "end": 317.16,
+      "start_timestamp": "00:05:12.680",
+      "end_timestamp": "00:05:17.160",
+      "text": "de l'euro si elles le souhaitent les grandes entreprises paieront avec l'euro"
+    },
+    {
+      "id": 55,
+      "start": 317.16,
+      "end": 319.48,
+      "start_timestamp": "00:05:17.160",
+      "end_timestamp": "00:05:19.480",
+      "text": "si elles le souhaitent vous le savez très bien ça a existé donc il y aura deux monnaies"
+    },
+    {
+      "id": 56,
+      "start": 319.48,
+      "end": 323.48,
+      "start_timestamp": "00:05:19.480",
+      "end_timestamp": "00:05:23.480",
+      "text": "non pas pour les français pas pour les particuliers pas pour les"
+    },
+    {
+      "id": 57,
+      "start": 323.48,
+      "end": 326.08,
+      "start_timestamp": "00:05:23.480",
+      "end_timestamp": "00:05:26.080",
+      "text": "petites entreprises vous savez très bien n'essayez pas à quoi servira l'euro"
+    },
+    {
+      "id": 58,
+      "start": 326.08,
+      "end": 329.52,
+      "start_timestamp": "00:05:26.080",
+      "end_timestamp": "00:05:29.520",
+      "text": "alors de créer cela mais à quoi servira l'euro c'est une monnaie connue c'est un"
+    },
+    {
+      "id": 59,
+      "start": 329.52,
+      "end": 336.0,
+      "start_timestamp": "00:05:29.520",
+      "end_timestamp": "00:05:36.000",
+      "text": "panier de de de monnaie vous le savez encore une fois alors ça a existé car"
+    },
+    {
+      "id": 60,
+      "start": 336.0,
+      "end": 341.2,
+      "start_timestamp": "00:05:36.000",
+      "end_timestamp": "00:05:41.200",
+      "text": "avant mais ça a existé juste avant l'euro juste avant que l'euro devienne"
+    },
+    {
+      "id": 61,
+      "start": 341.2,
+      "end": 347.12,
+      "start_timestamp": "00:05:41.200",
+      "end_timestamp": "00:05:47.120",
+      "text": "notre monnaie bon physique en france et oui et oui et oui et oui c'est pas"
+    },
+    {
+      "id": 62,
+      "start": 347.12,
+      "end": 349.48,
+      "start_timestamp": "00:05:47.120",
+      "end_timestamp": "00:05:49.480",
+      "text": "c'était l'euro"
+    },
+    {
+      "id": 63,
+      "start": 351.48,
+      "end": 355.68,
+      "start_timestamp": "00:05:51.480",
+      "end_timestamp": "00:05:55.680",
+      "text": "moi c'est pas glorieux tout ça mais bon toute cette comédie politico-idéologique"
+    },
+    {
+      "id": 64,
+      "start": 355.68,
+      "end": 359.48,
+      "start_timestamp": "00:05:55.680",
+      "end_timestamp": "00:05:59.480",
+      "text": "n'a déjà plus d'importance puisque l'euro va disparaître dans les"
+    },
+    {
+      "id": 65,
+      "start": 359.48,
+      "end": 363.8,
+      "start_timestamp": "00:05:59.480",
+      "end_timestamp": "00:06:03.800",
+      "text": "années qui viennent pour des raisons techniques qu'on le veuille ou non bien"
+    },
+    {
+      "id": 66,
+      "start": 363.8,
+      "end": 366.92,
+      "start_timestamp": "00:06:03.800",
+      "end_timestamp": "00:06:06.920",
+      "text": "sûr personne ne peut donner de date exacte déjà beaucoup pensaient que la"
+    },
+    {
+      "id": 67,
+      "start": 366.92,
+      "end": 370.96,
+      "start_timestamp": "00:06:06.920",
+      "end_timestamp": "00:06:10.960",
+      "text": "crise de l'euro en 2011 avait sonné sa fin et ça n'a pas été le cas en fait"
+    },
+    {
+      "id": 68,
+      "start": 370.96,
+      "end": 374.68,
+      "start_timestamp": "00:06:10.960",
+      "end_timestamp": "00:06:14.680",
+      "text": "tant qu'il y ait une volonté politique suffisamment forte on peut maintenir"
+    },
+    {
+      "id": 69,
+      "start": 374.68,
+      "end": 378.76,
+      "start_timestamp": "00:06:14.680",
+      "end_timestamp": "00:06:18.760",
+      "text": "cette illusion longtemps mais pas indéfiniment et on verra au cours de"
+    },
+    {
+      "id": 70,
+      "start": 378.76,
+      "end": 382.68,
+      "start_timestamp": "00:06:18.760",
+      "end_timestamp": "00:06:22.680",
+      "text": "cette série que l'édifice est déjà bien fissuré ce qui me donne à penser"
+    },
+    {
+      "id": 71,
+      "start": 382.68,
+      "end": 386.6,
+      "start_timestamp": "00:06:22.680",
+      "end_timestamp": "00:06:26.600",
+      "text": "personnellement bien sûr qu'il y a très peu de chances pour que cette monnaie"
+    },
+    {
+      "id": 72,
+      "start": 386.6,
+      "end": 392.76,
+      "start_timestamp": "00:06:26.600",
+      "end_timestamp": "00:06:32.760",
+      "text": "fête ses 30 ans alors pourquoi bah l'euro a déjà un pied dans la tombe"
+    },
+    {
+      "id": 73,
+      "start": 392.76,
+      "end": 395.96,
+      "start_timestamp": "00:06:32.760",
+      "end_timestamp": "00:06:35.960",
+      "text": "parce que tout le monde peut constater qu'il a échoué à remplir ses objectifs"
+    },
+    {
+      "id": 74,
+      "start": 395.96,
+      "end": 399.76,
+      "start_timestamp": "00:06:35.960",
+      "end_timestamp": "00:06:39.760",
+      "text": "officiels de croissance économique et de lutte contre l'inflation et ses"
+    },
+    {
+      "id": 75,
+      "start": 399.76,
+      "end": 404.96,
+      "start_timestamp": "00:06:39.760",
+      "end_timestamp": "00:06:44.960",
+      "text": "objectifs officieux de convergence des économies de la zone euro c'est"
+    },
+    {
+      "id": 76,
+      "start": 404.96,
+      "end": 407.92,
+      "start_timestamp": "00:06:44.960",
+      "end_timestamp": "00:06:47.920",
+      "text": "particulièrement visible depuis l'explosion des dettes et des créances"
+    },
+    {
+      "id": 77,
+      "start": 407.92,
+      "end": 411.32,
+      "start_timestamp": "00:06:47.920",
+      "end_timestamp": "00:06:51.320",
+      "text": "target 2 qui vont constituer la pierre angulaire de la fin de l'euro"
+    },
+    {
+      "id": 78,
+      "start": 411.32,
+      "end": 415.32,
+      "start_timestamp": "00:06:51.320",
+      "end_timestamp": "00:06:55.320",
+      "text": "non pas que le problème viennent des dettes target en elle-même puisqu'elles"
+    },
+    {
+      "id": 79,
+      "start": 415.32,
+      "end": 419.72,
+      "start_timestamp": "00:06:55.320",
+      "end_timestamp": "00:06:59.720",
+      "text": "ne sont pas des dettes au sens où on l'entend communément le problème est"
+    },
+    {
+      "id": 80,
+      "start": 419.72,
+      "end": 422.76,
+      "start_timestamp": "00:06:59.720",
+      "end_timestamp": "00:07:02.760",
+      "text": "qu'elles indiquent une fuite massive de monnaies des pays du sud de la zone"
+    },
+    {
+      "id": 81,
+      "start": 422.76,
+      "end": 427.28,
+      "start_timestamp": "00:07:02.760",
+      "end_timestamp": "00:07:07.280",
+      "text": "euro vers les pays du nord conduisant inéluctablement à une crise de la dette"
+    },
+    {
+      "id": 82,
+      "start": 427.28,
+      "end": 431.4,
+      "start_timestamp": "00:07:07.280",
+      "end_timestamp": "00:07:11.400",
+      "text": "dans les pays du sud les condamnant à l'austérité perpétuelle ce qui"
+    },
+    {
+      "id": 83,
+      "start": 431.4,
+      "end": 436.52,
+      "start_timestamp": "00:07:11.400",
+      "end_timestamp": "00:07:16.520",
+      "text": "terminera de pousser l'euro dans sa tombe bien sûr on peut toujours dire qu'une"
+    },
+    {
+      "id": 84,
+      "start": 436.52,
+      "end": 440.28,
+      "start_timestamp": "00:07:16.520",
+      "end_timestamp": "00:07:20.280",
+      "text": "série de réformes pertinentes au niveau européen ou au niveau des états pourrait"
+    },
+    {
+      "id": 85,
+      "start": 440.28,
+      "end": 443.94,
+      "start_timestamp": "00:07:20.280",
+      "end_timestamp": "00:07:23.940",
+      "text": "régler le problème sauf que les contradictions énormes entre les"
+    },
+    {
+      "id": 86,
+      "start": 443.94,
+      "end": 448.34,
+      "start_timestamp": "00:07:23.940",
+      "end_timestamp": "00:07:28.340",
+      "text": "intérêts nationaux des états induisent une grosse différence entre vouloir et"
+    },
+    {
+      "id": 87,
+      "start": 448.34,
+      "end": 452.62,
+      "start_timestamp": "00:07:28.340",
+      "end_timestamp": "00:07:32.620",
+      "text": "pouvoir ainsi le temps passe les choses restent comme elles sont conduisant tôt ou"
+    },
+    {
+      "id": 88,
+      "start": 452.62,
+      "end": 455.98,
+      "start_timestamp": "00:07:32.620",
+      "end_timestamp": "00:07:35.980",
+      "text": "tard à la sortie d'un ou plusieurs états de la zone euro où elles sont"
+    },
+    {
+      "id": 89,
+      "start": 455.98,
+      "end": 459.3,
+      "start_timestamp": "00:07:35.980",
+      "end_timestamp": "00:07:39.300",
+      "text": "démantèlement complets dans des conditions plus ou moins brutales"
+    },
+    {
+      "id": 90,
+      "start": 459.3,
+      "end": 464.26,
+      "start_timestamp": "00:07:39.300",
+      "end_timestamp": "00:07:44.260",
+      "text": "cette série va donc se composer de sept autres vidéos les deux premières"
+    },
+    {
+      "id": 91,
+      "start": 464.26,
+      "end": 467.3,
+      "start_timestamp": "00:07:44.260",
+      "end_timestamp": "00:07:47.300",
+      "text": "expliqueront comment se forment techniquement les dettes target et"
+    },
+    {
+      "id": 92,
+      "start": 467.3,
+      "end": 470.9,
+      "start_timestamp": "00:07:47.300",
+      "end_timestamp": "00:07:50.900",
+      "text": "pourquoi ce ne sont pas vraiment des dettes je vous préviens que si vous n'êtes"
+    },
+    {
+      "id": 93,
+      "start": 470.9,
+      "end": 474.5,
+      "start_timestamp": "00:07:50.900",
+      "end_timestamp": "00:07:54.500",
+      "text": "pas familier de la création monétaire et que vous n'avez aucune notion de compta"
+    },
+    {
+      "id": 94,
+      "start": 474.5,
+      "end": 479.34,
+      "start_timestamp": "00:07:54.500",
+      "end_timestamp": "00:07:59.340",
+      "text": "ça va vous paraître un peu technique mais bon il n'y a pas trop le choix"
+    },
+    {
+      "id": 95,
+      "start": 479.34,
+      "end": 483.66,
+      "start_timestamp": "00:07:59.340",
+      "end_timestamp": "00:08:03.660",
+      "text": "les deux vidéos suivantes expliqueront l'impossibilité de corriger les"
+    },
+    {
+      "id": 96,
+      "start": 483.66,
+      "end": 487.72,
+      "start_timestamp": "00:08:03.660",
+      "end_timestamp": "00:08:07.720",
+      "text": "déséquilibres économiques à l'origine de l'augmentation des soldes target à"
+    },
+    {
+      "id": 97,
+      "start": 487.72,
+      "end": 492.26,
+      "start_timestamp": "00:08:07.720",
+      "end_timestamp": "00:08:12.260",
+      "text": "travers le concept de zone monétaire optimale puis deux autres vidéos"
+    },
+    {
+      "id": 98,
+      "start": 492.26,
+      "end": 496.04,
+      "start_timestamp": "00:08:12.260",
+      "end_timestamp": "00:08:16.040",
+      "text": "présenteront les plans de sortie de l'euro allemand et italien qui sont les"
+    },
+    {
+      "id": 99,
+      "start": 496.04,
+      "end": 498.86,
+      "start_timestamp": "00:08:16.040",
+      "end_timestamp": "00:08:18.860",
+      "text": "plus d'actualité ainsi que leurs conséquences sur les"
+    },
+    {
+      "id": 100,
+      "start": 498.86,
+      "end": 504.26,
+      "start_timestamp": "00:08:18.860",
+      "end_timestamp": "00:08:24.260",
+      "text": "targets en termes politique et monétaire et enfin une dernière vidéo fera la"
+    },
+    {
+      "id": 101,
+      "start": 504.26,
+      "end": 507.86,
+      "start_timestamp": "00:08:24.260",
+      "end_timestamp": "00:08:27.860",
+      "text": "liste des bienfaits de l'euro pour la france c'est à dire de son coût"
+    },
+    {
+      "id": 102,
+      "start": 507.86,
+      "end": 512.1,
+      "start_timestamp": "00:08:27.860",
+      "end_timestamp": "00:08:32.100",
+      "text": "énorme et du risque encore plus énorme qu'il nous fait courir en cas de crise"
+    },
+    {
+      "id": 103,
+      "start": 512.1,
+      "end": 517.62,
+      "start_timestamp": "00:08:32.100",
+      "end_timestamp": "00:08:37.620",
+      "text": "économique majeure je tiens à préciser que cette série va mélanger des faits"
+    },
+    {
+      "id": 104,
+      "start": 517.62,
+      "end": 521.9,
+      "start_timestamp": "00:08:37.620",
+      "end_timestamp": "00:08:41.900",
+      "text": "techniques des constats politiques et des opinions personnelles et vous n'êtes"
+    },
+    {
+      "id": 105,
+      "start": 521.9,
+      "end": 524.58,
+      "start_timestamp": "00:08:41.900",
+      "end_timestamp": "00:08:44.580",
+      "text": "pas sans savoir que je suis très favorable à la sortie de l'union"
+    },
+    {
+      "id": 106,
+      "start": 524.58,
+      "end": 527.58,
+      "start_timestamp": "00:08:44.580",
+      "end_timestamp": "00:08:47.580",
+      "text": "européenne et de l'euro pour autant je vais essayer de vous présenter la"
+    },
+    {
+      "id": 107,
+      "start": 527.58,
+      "end": 530.82,
+      "start_timestamp": "00:08:47.580",
+      "end_timestamp": "00:08:50.820",
+      "text": "situation dans sa globalité garder aussi à l'esprit que le sujet des"
+    },
+    {
+      "id": 108,
+      "start": 530.82,
+      "end": 535.06,
+      "start_timestamp": "00:08:50.820",
+      "end_timestamp": "00:08:55.060",
+      "text": "targets n'est pas le plus accessible au quidam tant par son aspect technique que"
+    },
+    {
+      "id": 109,
+      "start": 535.06,
+      "end": 538.7,
+      "start_timestamp": "00:08:55.060",
+      "end_timestamp": "00:08:58.700",
+      "text": "par son manque d'information et de transparence donc pour que le sujet soit"
+    },
+    {
+      "id": 110,
+      "start": 538.7,
+      "end": 542.78,
+      "start_timestamp": "00:08:58.700",
+      "end_timestamp": "00:09:02.780",
+      "text": "compréhensible de tous j'ai dû faire des raccourcis et des approximations que"
+    },
+    {
+      "id": 111,
+      "start": 542.78,
+      "end": 546.7,
+      "start_timestamp": "00:09:02.780",
+      "end_timestamp": "00:09:06.700",
+      "text": "certains ne trouveront pas très académiques mais bon tant pis cette"
+    },
+    {
+      "id": 112,
+      "start": 546.7,
+      "end": 550.18,
+      "start_timestamp": "00:09:06.700",
+      "end_timestamp": "00:09:10.180",
+      "text": "série doit donc être considérée comme un défrichage d'un sujet totalement"
+    },
+    {
+      "id": 113,
+      "start": 550.18,
+      "end": 553.86,
+      "start_timestamp": "00:09:10.180",
+      "end_timestamp": "00:09:13.860",
+      "text": "absent du débat public mais qu'il est essentiel de comprendre maintenant pour"
+    },
+    {
+      "id": 114,
+      "start": 553.86,
+      "end": 556.62,
+      "start_timestamp": "00:09:13.860",
+      "end_timestamp": "00:09:16.620",
+      "text": "pouvoir réagir correctement quand l'échafaudage nous tombera sur la"
+    },
+    {
+      "id": 115,
+      "start": 556.62,
+      "end": 561.46,
+      "start_timestamp": "00:09:16.620",
+      "end_timestamp": "00:09:21.460",
+      "text": "tronche alors si les experts de l'euro veulent réagir à ces vidéos pour les"
+    },
+    {
+      "id": 116,
+      "start": 561.46,
+      "end": 566.42,
+      "start_timestamp": "00:09:21.460",
+      "end_timestamp": "00:09:26.420",
+      "text": "commenter les corriger les approfondir leur remarque sont les bienvenus et si"
+    },
+    {
+      "id": 117,
+      "start": 566.42,
+      "end": 569.62,
+      "start_timestamp": "00:09:26.420",
+      "end_timestamp": "00:09:29.620",
+      "text": "elles sont dans un format vidéo sur youtube je les ajouterai à la playlist"
+    },
+    {
+      "id": 118,
+      "start": 569.62,
+      "end": 574.26,
+      "start_timestamp": "00:09:29.620",
+      "end_timestamp": "00:09:34.260",
+      "text": "de la série comme contribution au débat sur ce je vous donne rendez-vous dans 48"
+    },
+    {
+      "id": 119,
+      "start": 574.26,
+      "end": 577.34,
+      "start_timestamp": "00:09:34.260",
+      "end_timestamp": "00:09:37.340",
+      "text": "heures pour le prochain épisode j'ai prévu de publier une vidéo tous les deux"
+    },
+    {
+      "id": 120,
+      "start": 577.34,
+      "end": 580.5,
+      "start_timestamp": "00:09:37.340",
+      "end_timestamp": "00:09:40.500",
+      "text": "jours pour vous laisser le temps de les digérer une par une même si je pense"
+    },
+    {
+      "id": 121,
+      "start": 580.5,
+      "end": 582.9,
+      "start_timestamp": "00:09:40.500",
+      "end_timestamp": "00:09:42.900",
+      "text": "que certaines sortiront plus tard vu qu'elles vont me demander plus de"
+    },
+    {
+      "id": 122,
+      "start": 582.9,
+      "end": 589.46,
+      "start_timestamp": "00:09:42.900",
+      "end_timestamp": "00:09:49.460",
+      "text": "travail bref merci de m'avoir écouté et abonnez vous pour ne pas rater la suite"
+    }
+  ]
+}

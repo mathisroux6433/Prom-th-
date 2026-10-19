@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "promethe"
+version = "0.1.0"
+description = "Bibliothèque documentaire personnelle issue de vidéos YouTube"
+requires-python = ">=3.10,<3.14"
+
+[project.scripts]
+promethe = "promethe.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+

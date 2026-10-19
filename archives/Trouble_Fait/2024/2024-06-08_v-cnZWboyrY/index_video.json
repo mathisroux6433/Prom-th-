@@ -1,0 +1,1180 @@
+{
+  "schema_version": "1.0",
+  "video_id": "v-cnZWboyrY",
+  "resume_general": "À l'approche des élections européennes de juin 2024, l'auteur examine et conteste une série d'arguments gouvernementaux et médiatiques présentés comme des bénéfices concrets de l'Union européenne. Son fil directeur est que ces communications — plan de relance, apprentissage, réglementation environnementale, chargeur USB-C, marché de l'électricité, protection industrielle, modèle sportif, rénovation des bâtiments et sécurité alimentaire — seraient soit anecdotiques, soit trompeuses, soit contredites par les effets des politiques européennes. Il développe d'abord une critique de NextGenerationEU et du plan « 1 jeune, 1 solution », décrits comme coûteux pour la France et générateurs d'effets d'aubaine pour les employeurs et les centres de formation. Il discute ensuite plusieurs réglementations sur les plastiques, emballages, bouchons attachés, paillettes et chargeurs, qu'il présente comme lentes, complexes et parfois contournées. Une longue partie traite du marché européen de l'électricité, de la loi NOME, d'EDF, des barrages et de la formation des prix, puis de la désindustrialisation et des délocalisations intra-européennes illustrées par Whirlpool, Bridgestone et Comatelec, ainsi que du FEDER. L'auteur élargit cette critique à la dépendance énergétique et industrielle envers les États-Unis et la Chine. Il examine ensuite, sur un mode polémique, une communication d'Amélie Oudéa-Castéra sur le « modèle sportif européen », l'UEFA et le financement d'événements caritatifs, puis une communication de Christophe Béchu sur la rénovation énergétique, rapprochée des ventes du patrimoine immobilier de l'État et des contraintes budgétaires européennes. La séquence agricole et alimentaire rassemble des scandales sanitaires, l'huile de tournesol frelatée, les importations ukrainiennes, les labels bio, AOC/AOP/IGP et le CETA pour soutenir que la protection annoncée serait incomplète ou incohérente. Enfin, l'auteur décrit la composition et les pouvoirs du Parlement européen, critique les promesses des listes françaises comme étrangères aux compétences réelles des eurodéputés et appelle néanmoins à voter pour de petites listes souverainistes afin de freiner, selon lui, le fédéralisme européen et l'engagement dans la guerre en Ukraine. L'index restitue ces positions comme les affirmations et interprétations de l'auteur, sans les valider.",
+  "themes_principaux": [
+    {
+      "theme": "Critique des arguments en faveur de l'Union européenne",
+      "traitement": "developpe",
+      "horodatages": [
+        "00:00:00",
+        "01:09:21"
+      ],
+      "description": "Analyse critique de communications de responsables politiques et de médias présentant des mesures comme des acquis de l'Europe."
+    },
+    {
+      "theme": "Plan de relance européen et conditionnalité économique",
+      "traitement": "developpe",
+      "horodatages": [
+        "00:00:48",
+        "00:06:34"
+      ],
+      "description": "NextGenerationEU, emprunt commun, coût pour la France, taux d'intérêt, remboursement prévu de 2028 à 2058 et réformes structurelles associées."
+    },
+    {
+      "theme": "Apprentissage, subventions et enseignement privé",
+      "traitement": "developpe",
+      "horodatages": [
+        "00:06:34",
+        "00:16:05"
+      ],
+      "description": "Plan « 1 jeune, 1 solution », primes aux employeurs, effets d'aubaine, substitution à l'emploi, CFA privés et déficits de France compétences."
+    },
+    {
+      "theme": "Réglementations européennes et innovation",
+      "traitement": "developpe",
+      "horodatages": [
+        "00:17:38",
+        "00:29:40"
+      ],
+      "description": "Plastiques à usage unique, emballages, paillettes, bouchons attachés, chargeur USB-C, lobbying et risque allégué de complexité ou de verrouillage technologique."
+    },
+    {
+      "theme": "Marché européen de l'électricité et politique énergétique",
+      "traitement": "developpe",
+      "horodatages": [
+        "00:29:40",
+        "00:33:36"
+      ],
+      "description": "Libéralisation, loi NOME, fournisseurs alternatifs, prix marginal, bouclier tarifaire, EDF, RTE, Enedis, nucléaire et concessions hydroélectriques."
+    },
+    {
+      "theme": "Industrie, délocalisations et concurrence intra-européenne",
+      "traitement": "developpe",
+      "horodatages": [
+        "00:33:36",
+        "00:46:42"
+      ],
+      "description": "Désindustrialisation française, coûts du travail, marché unique, aides publiques, FEDER et exemples Whirlpool, Bridgestone et Comatelec."
+    },
+    {
+      "theme": "Sécurité alimentaire, agriculture et commerce extérieur",
+      "traitement": "developpe",
+      "horodatages": [
+        "00:59:32",
+        "01:09:21"
+      ],
+      "description": "Scandales alimentaires, importations ukrainiennes, normes de production, labels de qualité, bio, CETA et compétences européennes en matière agricole et commerciale."
+    },
+    {
+      "theme": "Institutions et élections européennes de 2024",
+      "traitement": "developpe",
+      "horodatages": [
+        "01:10:38",
+        "01:22:54"
+      ],
+      "description": "Groupes du Parlement européen, pouvoir d'initiative de la Commission, limites attribuées aux eurodéputés et critique des professions de foi françaises."
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Bonus écologique pour les voitures électriques",
+      "horodatages": [
+        "00:01:35",
+        "00:46:05"
+      ],
+      "description": "Présenté dans la communication de Marc Ferracci puis critiqué au regard des importations américaines et chinoises."
+    },
+    {
+      "sujet": "GOPÉ, réforme des retraites et assurance chômage",
+      "horodatages": [
+        "00:02:54",
+        "00:03:22"
+      ],
+      "description": "L'auteur relie le versement du plan de relance aux grandes orientations de politique économique et aux réformes françaises."
+    },
+    {
+      "sujet": "Expérience personnelle dans une école Ecoris",
+      "horodatages": [
+        "00:13:22",
+        "00:14:33"
+      ],
+      "description": "Récit d'une formation dont le diplôme n'aurait plus été reconnu par l'État au début de l'année."
+    },
+    {
+      "sujet": "Gobelets, vaisselle réutilisable et restauration rapide",
+      "horodatages": [
+        "00:18:29",
+        "00:22:18"
+      ],
+      "description": "Discussion des exceptions, des festivals, food trucks, fast-foods et sachets individuels de condiments."
+    },
+    {
+      "sujet": "Position technologique de l'Europe",
+      "horodatages": [
+        "00:27:23",
+        "00:28:37"
+      ],
+      "description": "Comparaison des capitalisations numériques européennes, américaines et asiatiques et mention de la réglementation de l'intelligence artificielle."
+    },
+    {
+      "sujet": "Affaire Enron en Californie",
+      "horodatages": [
+        "00:32:48",
+        "00:33:29"
+      ],
+      "description": "Exemple mobilisé pour illustrer le risque allégué de manipulation privée de l'offre d'électricité."
+    },
+    {
+      "sujet": "Panneaux solaires, Nord Stream et GNL américain",
+      "horodatages": [
+        "00:43:48",
+        "00:45:54"
+      ],
+      "description": "Élargissement de la critique industrielle à la Chine, aux États-Unis et à la dépendance énergétique européenne."
+    },
+    {
+      "sujet": "Nucléaire américain clé en main",
+      "horodatages": [
+        "00:44:22",
+        "00:45:42"
+      ],
+      "description": "Présentation par l'auteur d'offres américaines intégrant financement, implantation, construction, formation et maintenance."
+    },
+    {
+      "sujet": "UEFA, sport féminin et Lia Thomas",
+      "horodatages": [
+        "00:47:03",
+        "00:48:35"
+      ],
+      "description": "L'auteur distingue l'UEFA de l'Union européenne puis conteste l'usage du terme équité dans le sport."
+    },
+    {
+      "sujet": "Kylian Mbappé et Jeux olympiques",
+      "horodatages": [
+        "00:48:38",
+        "00:49:28"
+      ],
+      "description": "Rencontre Macron–Florentino Pérez présentée comme un contre-exemple au modèle sportif ouvert."
+    },
+    {
+      "sujet": "Variety Club de France et Ventilo Sport",
+      "horodatages": [
+        "00:49:32",
+        "00:53:11"
+      ],
+      "description": "Discussion d'une enquête de Mediapart sur sponsoring, réception à l'Élysée, œuvres caritatives et rencontres entre élus et entreprises."
+    },
+    {
+      "sujet": "Vente de la Surintendance de Versailles",
+      "horodatages": [
+        "00:55:23",
+        "00:59:21"
+      ],
+      "description": "Exemple de cession du patrimoine public, transformation immobilière privée et avantage fiscal lié à la loi Malraux."
+    },
+    {
+      "sujet": "Scandales alimentaires européens",
+      "horodatages": [
+        "01:00:02",
+        "01:03:54"
+      ],
+      "description": "Fipronil, viande de cheval, produits Ikea, Buitoni, vache folle et huile de tournesol frelatée."
+    },
+    {
+      "sujet": "Spiruline et label bio",
+      "horodatages": [
+        "01:06:11",
+        "01:07:11"
+      ],
+      "description": "Exemple utilisé pour opposer les conditions de labellisation des producteurs français à celles des importations chinoises."
+    },
+    {
+      "sujet": "Professions de foi des listes françaises",
+      "horodatages": [
+        "01:17:00",
+        "01:22:12"
+      ],
+      "description": "Commentaires sur Écologie au centre, Renaissance, PCF, Reconquête, Lutte ouvrière et LFI."
+    }
+  ],
+  "mots_cles": [
+    "Union européenne",
+    "élections européennes 2024",
+    "NextGenerationEU",
+    "plan de relance",
+    "GOPÉ",
+    "apprentissage",
+    "CFA",
+    "France compétences",
+    "effet d'aubaine",
+    "USB-C",
+    "plastique à usage unique",
+    "bouchon solidaire",
+    "marché européen de l'électricité",
+    "loi NOME",
+    "EDF",
+    "FEDER",
+    "délocalisation",
+    "désindustrialisation",
+    "concurrence déloyale",
+    "Pologne",
+    "Ukraine",
+    "sécurité alimentaire",
+    "AOC",
+    "AOP",
+    "IGP",
+    "CETA",
+    "Parlement européen",
+    "Commission européenne",
+    "souveraineté",
+    "fédéralisme"
+  ],
+  "variantes_lexicales": [
+    {
+      "entree": "Union européenne",
+      "variantes": [
+        "UE",
+        "Europe",
+        "construction européenne",
+        "Europe puissance"
+      ]
+    },
+    {
+      "entree": "NextGenerationEU",
+      "variantes": [
+        "Next Generation EU",
+        "plan de relance européen",
+        "emprunt européen"
+      ]
+    },
+    {
+      "entree": "apprentissage",
+      "variantes": [
+        "alternance",
+        "contrat d'apprentissage",
+        "contrat de professionnalisation",
+        "CFA"
+      ]
+    },
+    {
+      "entree": "marché européen de l'électricité",
+      "variantes": [
+        "libéralisation de l'électricité",
+        "marché de l'énergie",
+        "loi NOME",
+        "fournisseurs alternatifs"
+      ]
+    },
+    {
+      "entree": "délocalisation",
+      "variantes": [
+        "désindustrialisation",
+        "transfert de production",
+        "concurrence intra-européenne",
+        "dumping social"
+      ]
+    },
+    {
+      "entree": "labels de qualité",
+      "variantes": [
+        "AOC",
+        "AOP",
+        "IGP",
+        "indications géographiques protégées",
+        "bio"
+      ]
+    },
+    {
+      "entree": "Parlement européen",
+      "variantes": [
+        "eurodéputés",
+        "députés européens",
+        "groupes politiques européens",
+        "hémicycle européen"
+      ]
+    },
+    {
+      "entree": "position de l'auteur",
+      "variantes": [
+        "« merci l'Europe » employé ironiquement",
+        "Europe qui protège",
+        "saut fédéraliste",
+        "souveraineté nationale"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Marc Ferracci",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:45",
+        "00:01:56",
+        "00:16:05",
+        "01:09:21"
+      ],
+      "contexte": "Sa communication sur le plan de relance, les jeunes et l'environnement sert de point de départ et de refrain critique."
+    },
+    {
+      "nom": "Bruno Coquet",
+      "niveau": "mention",
+      "horodatages": [
+        "00:08:33"
+      ],
+      "contexte": "Cité à propos du coût et des effets d'aubaine de l'apprentissage."
+    },
+    {
+      "nom": "Marina Ferrari",
+      "niveau": "mention",
+      "horodatages": [
+        "00:27:23"
+      ],
+      "contexte": "Communication sur le chargeur unique et le numérique."
+    },
+    {
+      "nom": "Roland Lescure",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:30:29"
+      ],
+      "contexte": "Communication sur la réforme du marché européen de l'électricité."
+    },
+    {
+      "nom": "Bruno Le Maire",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:33:36",
+        "01:04:37"
+      ],
+      "contexte": "Affirmation de protection de 500 000 emplois industriels, contestée par l'auteur."
+    },
+    {
+      "nom": "Agnès Pannier-Runacher",
+      "niveau": "mention",
+      "horodatages": [
+        "00:37:45"
+      ],
+      "contexte": "Réaction gouvernementale à la fermeture du site Bridgestone."
+    },
+    {
+      "nom": "Xavier Bertrand",
+      "niveau": "mention",
+      "horodatages": [
+        "00:38:02"
+      ],
+      "contexte": "Aides publiques régionales proposées pour éviter une fermeture d'usine."
+    },
+    {
+      "nom": "Danuta Hübner",
+      "niveau": "mention",
+      "horodatages": [
+        "00:42:34"
+      ],
+      "contexte": "Ancienne commissaire citée sur les délocalisations en Europe."
+    },
+    {
+      "nom": "Amélie Oudéa-Castéra",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:46:42",
+        "00:54:30"
+      ],
+      "contexte": "Communication sur le modèle sportif européen et critique de son passage à la Fédération française de tennis."
+    },
+    {
+      "nom": "Lia Thomas",
+      "niveau": "mention",
+      "horodatages": [
+        "00:48:14"
+      ],
+      "contexte": "Exemple mobilisé dans le débat sur les catégories sportives féminines."
+    },
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:48:35",
+        "00:49:45",
+        "01:05:12"
+      ],
+      "contexte": "Rencontre avec Florentino Pérez, participation aux événements du VCF et réaction aux importations ukrainiennes."
+    },
+    {
+      "nom": "Florentino Pérez",
+      "niveau": "mention",
+      "horodatages": [
+        "00:48:38"
+      ],
+      "contexte": "Rencontre évoquée au sujet de Kylian Mbappé et des Jeux olympiques."
+    },
+    {
+      "nom": "Kylian Mbappé",
+      "niveau": "mention",
+      "horodatages": [
+        "00:48:40"
+      ],
+      "contexte": "Disponibilité du joueur pour les Jeux olympiques de Paris."
+    },
+    {
+      "nom": "Jacques Vendroux",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:49:34",
+        "00:52:25"
+      ],
+      "contexte": "Variety Club de France, matchs caritatifs et société Ventilo Sport."
+    },
+    {
+      "nom": "Carl Olive",
+      "niveau": "mention",
+      "horodatages": [
+        "00:51:30"
+      ],
+      "contexte": "Député et responsable du VCF cité dans la mise en relation avec l'équipe parlementaire."
+    },
+    {
+      "nom": "Christophe Béchu",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:54:32"
+      ],
+      "contexte": "Communication sur la rénovation énergétique des bâtiments grâce à l'Europe."
+    },
+    {
+      "nom": "Éric Woerth",
+      "niveau": "mention",
+      "horodatages": [
+        "00:59:00"
+      ],
+      "contexte": "Cité à propos des ventes immobilières de l'État et du désendettement."
+    },
+    {
+      "nom": "Marc Fesneau",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:59:32",
+        "01:09:18"
+      ],
+      "contexte": "Communication sur la sécurité, la qualité et la souveraineté alimentaires."
+    },
+    {
+      "nom": "David Rachline",
+      "niveau": "mention",
+      "horodatages": [
+        "01:07:31"
+      ],
+      "contexte": "Déclaration de campagne de 2017 sur la protection des labels par le CETA."
+    },
+    {
+      "nom": "Valérie Hayer",
+      "niveau": "mention",
+      "horodatages": [
+        "01:13:05"
+      ],
+      "contexte": "Position contre l'extrême droite confrontée par l'auteur aux alliances de partis membres du même groupe européen."
+    },
+    {
+      "nom": "Jordan Bardella",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:16:31",
+        "01:16:55"
+      ],
+      "contexte": "Critique du poids parlementaire et de l'assiduité du RN."
+    },
+    {
+      "nom": "Jean-Marc Governatori",
+      "niveau": "mention",
+      "horodatages": [
+        "01:17:16"
+      ],
+      "contexte": "Profession de foi d'Écologie au centre."
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Union européenne",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:03",
+        "01:22:33"
+      ],
+      "contexte": "Objet central de la critique."
+    },
+    {
+      "nom": "Commission européenne",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:05:00",
+        "01:20:39"
+      ],
+      "contexte": "Budget, réglementation, concurrence, commerce et initiative législative."
+    },
+    {
+      "nom": "Parlement européen",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:18:03",
+        "01:10:47"
+      ],
+      "contexte": "Réglementations puis composition, groupes et pouvoirs institutionnels."
+    },
+    {
+      "nom": "Cour des comptes",
+      "niveau": "mention",
+      "horodatages": [
+        "00:03:27"
+      ],
+      "contexte": "Document budgétaire sur NextGenerationEU."
+    },
+    {
+      "nom": "OFCE",
+      "niveau": "mention",
+      "horodatages": [
+        "00:08:33"
+      ],
+      "contexte": "Source citée sur l'apprentissage."
+    },
+    {
+      "nom": "France compétences",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:11:45",
+        "00:12:40"
+      ],
+      "contexte": "Financement des CFA et déficits."
+    },
+    {
+      "nom": "DGCCRF",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:11:01",
+        "01:01:01"
+      ],
+      "contexte": "Contrôles des établissements privés puis sécurité alimentaire."
+    },
+    {
+      "nom": "Apple",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:22:44",
+        "00:26:53"
+      ],
+      "contexte": "Connecteur Lightning, USB-C et accessoires certifiés."
+    },
+    {
+      "nom": "EDF",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:29:42",
+        "00:32:30"
+      ],
+      "contexte": "Ancien monopole, ARENH implicite, fournisseurs alternatifs et barrages."
+    },
+    {
+      "nom": "RTE",
+      "niveau": "mention",
+      "horodatages": [
+        "00:30:14"
+      ],
+      "contexte": "Gestion du réseau électrique."
+    },
+    {
+      "nom": "Enedis",
+      "niveau": "mention",
+      "horodatages": [
+        "00:30:14"
+      ],
+      "contexte": "Distribution électrique."
+    },
+    {
+      "nom": "Whirlpool",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:35:05",
+        "00:36:12"
+      ],
+      "contexte": "Fermeture de l'usine d'Amiens et transfert vers la Pologne."
+    },
+    {
+      "nom": "Bridgestone",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:37:30",
+        "00:41:53"
+      ],
+      "contexte": "Fermeture française, investissements en Pologne et Hongrie, aides du FEDER."
+    },
+    {
+      "nom": "FEDER",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:39:31",
+        "00:41:14"
+      ],
+      "contexte": "Fonds européen de développement régional et aides aux investissements."
+    },
+    {
+      "nom": "Schréder / Comatelec",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:41:57",
+        "00:42:34"
+      ],
+      "contexte": "Transfert de production du Cher vers l'Espagne et règles des marchés publics."
+    },
+    {
+      "nom": "UEFA",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:47:03",
+        "00:47:58"
+      ],
+      "contexte": "Organisation sportive distinguée de l'Union européenne."
+    },
+    {
+      "nom": "Variety Club de France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:49:32",
+        "00:53:11"
+      ],
+      "contexte": "Matchs caritatifs, sponsors et réception à l'Élysée."
+    },
+    {
+      "nom": "Ventilo Sport",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:50:15",
+        "00:52:46"
+      ],
+      "contexte": "Société privée organisant des événements autour du VCF."
+    },
+    {
+      "nom": "Mediapart",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:49:43",
+        "00:52:13"
+      ],
+      "contexte": "Enquête citée sur le VCF, Ventilo et les relations avec des entreprises."
+    },
+    {
+      "nom": "Lactalis",
+      "niveau": "mention",
+      "horodatages": [
+        "01:00:07"
+      ],
+      "contexte": "Scandale de salmonelle."
+    },
+    {
+      "nom": "Spanghero",
+      "niveau": "mention",
+      "horodatages": [
+        "01:00:28"
+      ],
+      "contexte": "Affaire de la viande de cheval."
+    },
+    {
+      "nom": "Saipol / Lesieur",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:01:56",
+        "01:02:17"
+      ],
+      "contexte": "Importation d'huile de tournesol ukrainienne frelatée."
+    },
+    {
+      "nom": "Renaissance",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:01:00",
+        "01:17:43"
+      ],
+      "contexte": "Groupe politique de Marc Ferracci et liste présidentielle."
+    },
+    {
+      "nom": "Rassemblement national",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:11:19",
+        "01:16:55"
+      ],
+      "contexte": "Poids dans le Parlement et dans le groupe ID."
+    },
+    {
+      "nom": "LFI",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:13:36",
+        "01:20:27"
+      ],
+      "contexte": "Groupe de gauche et promesses de campagne commentées."
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "Conditionnalité macroéconomique",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:02:49",
+        "00:03:22"
+      ]
+    },
+    {
+      "nom": "Effet d'aubaine",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:08:48",
+        "00:15:47"
+      ]
+    },
+    {
+      "nom": "Marché unique et libre circulation des capitaux",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:36:48",
+        "00:43:48"
+      ]
+    },
+    {
+      "nom": "Concurrence déloyale et dumping social",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:33:39",
+        "00:46:40"
+      ]
+    },
+    {
+      "nom": "Prix marginal de l'électricité",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:31:12",
+        "00:31:35"
+      ]
+    },
+    {
+      "nom": "Souveraineté énergétique",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:29:40",
+        "00:46:40"
+      ]
+    },
+    {
+      "nom": "Préférence nationale dans les marchés publics",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:42:12",
+        "00:42:57"
+      ]
+    },
+    {
+      "nom": "Dépendance stratégique",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:43:48",
+        "00:46:40"
+      ]
+    },
+    {
+      "nom": "Subsidiarité",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:10:06",
+        "01:10:38"
+      ],
+      "contexte": "L'auteur soutient que les mesures pourraient être prises plus efficacement au niveau national."
+    },
+    {
+      "nom": "Souveraineté nationale et fédéralisme européen",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:15:48",
+        "01:22:33"
+      ]
+    },
+    {
+      "nom": "Initiative législative européenne",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:14:18",
+        "01:15:00"
+      ]
+    },
+    {
+      "nom": "Majorité qualifiée",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:14:33",
+        "01:14:54"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "NextGenerationEU",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:01:24",
+        "00:06:34"
+      ],
+      "contexte": "Plan de relance de 750 milliards d'euros et emprunt commun."
+    },
+    {
+      "nom": "Plan « 1 jeune, 1 solution »",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:06:34",
+        "00:16:05"
+      ]
+    },
+    {
+      "nom": "Réforme française de la formation professionnelle de 2018",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:09:23",
+        "00:12:54"
+      ]
+    },
+    {
+      "nom": "Directive sur les plastiques à usage unique",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:18:29",
+        "00:20:53"
+      ]
+    },
+    {
+      "nom": "Révision du règlement européen sur les emballages",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:20:53",
+        "00:22:18"
+      ]
+    },
+    {
+      "nom": "Chargeur universel USB-C",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:22:22",
+        "00:27:23"
+      ]
+    },
+    {
+      "nom": "Réglementation des microplastiques et paillettes",
+      "niveau": "mention",
+      "horodatages": [
+        "00:22:55",
+        "00:23:10"
+      ]
+    },
+    {
+      "nom": "Directive de 2019 sur les bouchons attachés",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:28:46",
+        "00:29:37"
+      ]
+    },
+    {
+      "nom": "Loi NOME de 2010-2011",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:29:59",
+        "00:31:49"
+      ]
+    },
+    {
+      "nom": "Réforme du marché européen de l'électricité",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:30:29",
+        "00:32:02"
+      ]
+    },
+    {
+      "nom": "Bouclier tarifaire français",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:31:30",
+        "00:31:49"
+      ]
+    },
+    {
+      "nom": "Fermeture de Whirlpool Amiens",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:35:05",
+        "00:36:12"
+      ]
+    },
+    {
+      "nom": "Fermeture de Bridgestone Béthune",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:37:30",
+        "00:41:53"
+      ]
+    },
+    {
+      "nom": "Explosion des gazoducs Nord Stream",
+      "niveau": "mention",
+      "horodatages": [
+        "00:44:01",
+        "00:44:18"
+      ]
+    },
+    {
+      "nom": "Inflation Reduction Act américain",
+      "niveau": "sans_nom_explicite_mais_developpe",
+      "horodatages": [
+        "00:43:55",
+        "00:46:38"
+      ],
+      "contexte": "Subventions américaines et conditions de production évoquées sans nommer explicitement la loi."
+    },
+    {
+      "nom": "Loi Malraux",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:56:41",
+        "00:57:45"
+      ]
+    },
+    {
+      "nom": "Règles de Maastricht sur le déficit",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:58:30",
+        "00:59:21"
+      ]
+    },
+    {
+      "nom": "Affaire des œufs au fipronil",
+      "niveau": "mention",
+      "horodatages": [
+        "01:00:13",
+        "01:00:28"
+      ]
+    },
+    {
+      "nom": "Affaire de la viande de cheval",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:00:26",
+        "01:00:50"
+      ]
+    },
+    {
+      "nom": "Affaire de l'huile de tournesol frelatée de 2008",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:01:30",
+        "01:03:54"
+      ]
+    },
+    {
+      "nom": "Suspension des droits de douane sur les importations ukrainiennes",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:03:54",
+        "01:05:41"
+      ]
+    },
+    {
+      "nom": "CETA",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:07:16",
+        "01:09:07"
+      ],
+      "contexte": "Protection partielle des indications géographiques selon les chiffres cités par l'auteur."
+    },
+    {
+      "nom": "Élections européennes de juin 2024",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:38",
+        "01:10:47",
+        "01:22:33"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:06:34",
+      "sujet": "Marc Ferracci, NextGenerationEU et coût du plan de relance"
+    },
+    {
+      "debut": "00:06:34",
+      "fin": "00:16:05",
+      "sujet": "Alternance, primes, CFA et France compétences"
+    },
+    {
+      "debut": "00:16:05",
+      "fin": "00:17:38",
+      "sujet": "Débat rationnel revendiqué par Marc Ferracci"
+    },
+    {
+      "debut": "00:17:38",
+      "fin": "00:23:10",
+      "sujet": "Plastiques jetables, emballages et paillettes"
+    },
+    {
+      "debut": "00:23:10",
+      "fin": "00:27:23",
+      "sujet": "USB-C, innovation et Apple"
+    },
+    {
+      "debut": "00:27:23",
+      "fin": "00:29:40",
+      "sujet": "Retard numérique et bouchons attachés"
+    },
+    {
+      "debut": "00:29:40",
+      "fin": "00:33:36",
+      "sujet": "Marché électrique, EDF et barrages"
+    },
+    {
+      "debut": "00:33:36",
+      "fin": "00:43:48",
+      "sujet": "Industrie, Pologne, Whirlpool, Bridgestone, FEDER et Comatelec"
+    },
+    {
+      "debut": "00:43:48",
+      "fin": "00:46:42",
+      "sujet": "Concurrence américaine, Nord Stream, GNL, nucléaire et véhicules électriques"
+    },
+    {
+      "debut": "00:46:42",
+      "fin": "00:54:32",
+      "sujet": "Modèle sportif, UEFA, Mbappé, VCF et Ventilo Sport"
+    },
+    {
+      "debut": "00:54:32",
+      "fin": "00:59:32",
+      "sujet": "Rénovation énergétique et vente du patrimoine public"
+    },
+    {
+      "debut": "00:59:32",
+      "fin": "01:03:54",
+      "sujet": "Sécurité alimentaire et scandales sanitaires"
+    },
+    {
+      "debut": "01:03:54",
+      "fin": "01:09:21",
+      "sujet": "Ukraine, agriculture, labels bio, AOC/AOP et CETA"
+    },
+    {
+      "debut": "01:09:21",
+      "fin": "01:10:38",
+      "sujet": "Conclusion intermédiaire contre les arguments européistes"
+    },
+    {
+      "debut": "01:10:38",
+      "fin": "01:17:00",
+      "sujet": "Composition et pouvoirs du Parlement européen"
+    },
+    {
+      "debut": "01:17:00",
+      "fin": "01:22:12",
+      "sujet": "Critique des programmes des listes françaises"
+    },
+    {
+      "debut": "01:22:12",
+      "fin": "01:22:54",
+      "sujet": "Appel final au vote et conclusion"
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "« Europe qui protège »",
+      "nature": "formule politique commentée",
+      "horodatages": [
+        "00:00:48",
+        "00:43:38"
+      ]
+    },
+    {
+      "expression": "« merci l'Europe »",
+      "nature": "refrain ironique de l'auteur",
+      "horodatages": [
+        "00:01:45",
+        "00:29:35",
+        "00:42:49"
+      ]
+    },
+    {
+      "expression": "effets d'aubaine massifs",
+      "nature": "formulation descriptive citée au sujet de l'apprentissage",
+      "horodatages": [
+        "00:08:53"
+      ]
+    },
+    {
+      "expression": "Europe puissance",
+      "nature": "formule ironisée à propos des réglementations",
+      "horodatages": [
+        "00:17:40",
+        "00:23:06"
+      ]
+    },
+    {
+      "expression": "colonie numérique des États-Unis",
+      "nature": "caractérisation de l'auteur",
+      "horodatages": [
+        "00:27:51"
+      ]
+    },
+    {
+      "expression": "liste au Père Noël",
+      "nature": "caractérisation des promesses électorales",
+      "horodatages": [
+        "01:17:13",
+        "01:20:50"
+      ]
+    },
+    {
+      "expression": "fraction d'une fraction d'une fraction",
+      "nature": "description ironique du poids des élus",
+      "horodatages": [
+        "01:22:00"
+      ]
+    }
+  ],
+  "citations_exactes": [
+    {
+      "citation": "Les démagos c'est les autres",
+      "locuteur": "auteur",
+      "horodatage": "00:17:14"
+    },
+    {
+      "citation": "on est une colonie numérique des États-Unis",
+      "locuteur": "auteur",
+      "horodatage": "00:27:51"
+    },
+    {
+      "citation": "Mais l'Europe nous protège, bien entendu.",
+      "locuteur": "auteur",
+      "horodatage": "00:39:54"
+    },
+    {
+      "citation": "Il n'y a aucune mesure politique prise au niveau européen qu'on ne pourrait pas prendre au niveau national.",
+      "locuteur": "auteur",
+      "horodatage": "01:10:16"
+    },
+    {
+      "citation": "Moi je vous invite à aller voter quand même à ces élections européennes.",
+      "locuteur": "auteur",
+      "horodatage": "01:15:11"
+    },
+    {
+      "citation": "Donc n'hésitez pas à aller voter quand même.",
+      "locuteur": "auteur",
+      "horodatage": "01:22:12"
+    }
+  ]
+}

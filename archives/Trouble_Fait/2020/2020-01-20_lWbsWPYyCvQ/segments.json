@@ -1,0 +1,4049 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.08,
+      "end": 6.44,
+      "start_timestamp": "00:00:00.080",
+      "end_timestamp": "00:00:06.440",
+      "text": "Salut à tous. À l'occasion des 20 ans de l'euro, le gouverneur de la Banque de France a fait un constat."
+    },
+    {
+      "id": 1,
+      "start": 6.44,
+      "end": 13.84,
+      "start_timestamp": "00:00:06.440",
+      "end_timestamp": "00:00:13.840",
+      "text": "L'euro est un vrai succès populaire. Il est soutenu par 72% des Français qui veulent le garder comme leur monnaie."
+    },
+    {
+      "id": 2,
+      "start": 13.84,
+      "end": 20.74,
+      "start_timestamp": "00:00:13.840",
+      "end_timestamp": "00:00:20.740",
+      "text": "Mais ce résultat n'est pas surprenant. Si on en croit la Commission européenne, l'euro n'a que des avantages."
+    },
+    {
+      "id": 3,
+      "start": 20.74,
+      "end": 26.2,
+      "start_timestamp": "00:00:20.740",
+      "end_timestamp": "00:00:26.200",
+      "text": "Les consommateurs bénéficient d'un choix plus large et de prix stable. Les entreprises ont plus de débouchés,"
+    },
+    {
+      "id": 4,
+      "start": 26.2,
+      "end": 32.56,
+      "start_timestamp": "00:00:26.200",
+      "end_timestamp": "00:00:32.560",
+      "text": "et elles sont libérées du risque de change, ce qui aboutit à une économie stable et une croissance plus forte."
+    },
+    {
+      "id": 5,
+      "start": 32.56,
+      "end": 39.48,
+      "start_timestamp": "00:00:32.560",
+      "end_timestamp": "00:00:39.480",
+      "text": "Les marchés financiers fonctionnent mieux, l'euro pèse dans le monde, et on se sent plus européens que jamais."
+    },
+    {
+      "id": 6,
+      "start": 39.48,
+      "end": 46.2,
+      "start_timestamp": "00:00:39.480",
+      "end_timestamp": "00:00:46.200",
+      "text": "Mouais. Mais à l'issue de cette vidéo, il se pourrait que vous ayez quelques petits doutes sur cette vision idyllique des choses,"
+    },
+    {
+      "id": 7,
+      "start": 46.2,
+      "end": 65.38,
+      "start_timestamp": "00:00:46.200",
+      "end_timestamp": "00:01:05.380",
+      "text": "car dans la réalité, l'euro nous coûte un pognon de dingue. C'est un boulet qui est en train de nous entraîner vers le tiers-monde."
+    },
+    {
+      "id": 8,
+      "start": 65.38,
+      "end": 72.5,
+      "start_timestamp": "00:01:05.380",
+      "end_timestamp": "00:01:12.500",
+      "text": "On va commencer par les avantages de l'euro. Alors c'est vrai que Marie-Charlotte n'a pas soucié de la monnaie pour ses week-ends dans la zone euro."
+    },
+    {
+      "id": 9,
+      "start": 72.5,
+      "end": 79.58,
+      "start_timestamp": "00:01:12.500",
+      "end_timestamp": "00:01:19.580",
+      "text": "C'est pratique. Et c'est sûr que le risque de change disparaît forcément dans les transactions quand vous figez les parités des monnaies."
+    },
+    {
+      "id": 10,
+      "start": 79.58,
+      "end": 87.43,
+      "start_timestamp": "00:01:19.580",
+      "end_timestamp": "00:01:27.430",
+      "text": "Quoi qu'on a vu qu'avec le système Target 2, ce risque est simplement décalé dans le temps au moins pour une partie des transactions."
+    },
+    {
+      "id": 11,
+      "start": 87.43,
+      "end": 97.83,
+      "start_timestamp": "00:01:27.430",
+      "end_timestamp": "00:01:37.830",
+      "text": "Quoi, la suite ? Ah non, mais c'est tout ? Non, non, c'est pas une blague. Sur tous les autres sujets, l'euro est un putain de cancer."
+    },
+    {
+      "id": 12,
+      "start": 97.83,
+      "end": 104.19,
+      "start_timestamp": "00:01:37.830",
+      "end_timestamp": "00:01:44.190",
+      "text": "Alors vous pensez peut-être que j'exagère et que c'est mon parti pris anti-euro qui s'exprime. Mais vous savez, moi, si l'euro fonctionnait"
+    },
+    {
+      "id": 13,
+      "start": 104.19,
+      "end": 109.91,
+      "start_timestamp": "00:01:44.190",
+      "end_timestamp": "00:01:49.910",
+      "text": "et avait tous les avantages qu'on lui prête, ça m'irait très bien. Je suis pas contre par principe ou par idéologie."
+    },
+    {
+      "id": 14,
+      "start": 109.91,
+      "end": 117.47,
+      "start_timestamp": "00:01:49.910",
+      "end_timestamp": "00:01:57.470",
+      "text": "Je suis contre parce que je constate que dans la réalité, c'est une vaste tartine de merde. Et bien sûr, je vais vous le prouver tout au long de cette vidéo."
+    },
+    {
+      "id": 15,
+      "start": 117.47,
+      "end": 123.74,
+      "start_timestamp": "00:01:57.470",
+      "end_timestamp": "00:02:03.740",
+      "text": "Donc je vous demande pas de me croire sur parole. Vous pourrez juger par vous-même."
+    },
+    {
+      "id": 16,
+      "start": 123.74,
+      "end": 130.02,
+      "start_timestamp": "00:02:03.740",
+      "end_timestamp": "00:02:10.020",
+      "text": "Pour commencer, on sait que la chèreté de l'euro, allié à la libéralisation des mouvements de capitaux et de marchandises,"
+    },
+    {
+      "id": 17,
+      "start": 130.02,
+      "end": 137.38,
+      "start_timestamp": "00:02:10.020",
+      "end_timestamp": "00:02:17.380",
+      "text": "a conduit en France à des délocalisations et une augmentation massive du chômage, ce qui a lourdement pesé sur la croissance."
+    },
+    {
+      "id": 18,
+      "start": 137.38,
+      "end": 145.5,
+      "start_timestamp": "00:02:17.380",
+      "end_timestamp": "00:02:25.500",
+      "text": "Je rappelle l'étude du CEP qui estime que l'introduction de l'euro a coûté 56 000 € à chaque Français sur la période 1999-2017,"
+    },
+    {
+      "id": 19,
+      "start": 145.5,
+      "end": 153.02,
+      "start_timestamp": "00:02:25.500",
+      "end_timestamp": "00:02:33.020",
+      "text": "soit un manque à gagner estimé de 3 100 € de PIB par habitant en moyenne par an. Et comme les déséquilibres économiques"
+    },
+    {
+      "id": 20,
+      "start": 153.02,
+      "end": 158.94,
+      "start_timestamp": "00:02:33.020",
+      "end_timestamp": "00:02:38.940",
+      "text": "ne cessent de se creuser, ce chiffre augmente d'année en année. Ils ont estimé que le PIB de la France a été amputé"
+    },
+    {
+      "id": 21,
+      "start": 158.94,
+      "end": 169.46,
+      "start_timestamp": "00:02:38.940",
+      "end_timestamp": "00:02:49.460",
+      "text": "de 374 milliards d'euros en 2017 à cause de l'euro, soit plus de 16% du PIB. Le CEP indique que le fautif n'est pas l'euro,"
+    },
+    {
+      "id": 22,
+      "start": 169.46,
+      "end": 174.66,
+      "start_timestamp": "00:02:49.460",
+      "end_timestamp": "00:02:54.660",
+      "text": "mais le manque de réforme nécessaire pour booster la compétitivité des États les plus perdants."
+    },
+    {
+      "id": 23,
+      "start": 174.66,
+      "end": 179.26,
+      "start_timestamp": "00:02:54.660",
+      "end_timestamp": "00:02:59.260",
+      "text": "C'est un peu comme si quelqu'un était en train de se vider de son sang parce qu'il vient de perdre une jambe et qu'on lui explique"
+    },
+    {
+      "id": 24,
+      "start": 179.26,
+      "end": 184.86,
+      "start_timestamp": "00:02:59.260",
+      "end_timestamp": "00:03:04.860",
+      "text": "que son problème, c'est pas la blessure, c'est la gravité. S'il était en apesanteur, il aurait moins de problèmes."
+    },
+    {
+      "id": 25,
+      "start": 184.86,
+      "end": 190.42,
+      "start_timestamp": "00:03:04.860",
+      "end_timestamp": "00:03:10.420",
+      "text": "Voilà, c'est complètement con. Eh ben là, c'est pareil. Le problème, c'est pas l'euro, c'est le manque de réforme"
+    },
+    {
+      "id": 26,
+      "start": 190.42,
+      "end": 197.66,
+      "start_timestamp": "00:03:10.420",
+      "end_timestamp": "00:03:17.660",
+      "text": "pour s'adapter à l'euro. Sauf que manque de bol, c'est justement cette logique de promotion incessante des politiques de l'offre"
+    },
+    {
+      "id": 27,
+      "start": 197.66,
+      "end": 204.82,
+      "start_timestamp": "00:03:17.660",
+      "end_timestamp": "00:03:24.820",
+      "text": "qui est à l'origine de la baisse de notre niveau de vie et de la nouvelle récession économique qui guette la zone euro en ce moment."
+    },
+    {
+      "id": 28,
+      "start": 204.82,
+      "end": 210.58,
+      "start_timestamp": "00:03:24.820",
+      "end_timestamp": "00:03:30.580",
+      "text": "La logique est la suivante. Pour devenir plus compétitif, il faut baisser les dépenses publiques pour pouvoir baisser"
+    },
+    {
+      "id": 29,
+      "start": 210.58,
+      "end": 216.42,
+      "start_timestamp": "00:03:30.580",
+      "end_timestamp": "00:03:36.420",
+      "text": "la fiscalité et ne pas s'endetter, ce qui conduit à supprimer ou privatiser des services publics, dont le coût augmente"
+    },
+    {
+      "id": 30,
+      "start": 216.42,
+      "end": 222.18,
+      "start_timestamp": "00:03:36.420",
+      "end_timestamp": "00:03:42.180",
+      "text": "forcément pour les usagers. Et dans le même temps, on détricote le droit du travail, ce qui augmente la précarité"
+    },
+    {
+      "id": 31,
+      "start": 222.18,
+      "end": 227.94,
+      "start_timestamp": "00:03:42.180",
+      "end_timestamp": "00:03:47.940",
+      "text": "des travailleurs et fait baisser leurs revenus. On a donc des agents économiques qui payent plus pour les mêmes services"
+    },
+    {
+      "id": 32,
+      "start": 227.94,
+      "end": 234.06,
+      "start_timestamp": "00:03:47.940",
+      "end_timestamp": "00:03:54.060",
+      "text": "et qui gagnent moins. Mais on nous explique que ça va faire augmenter l'activité économique et le PIB."
+    },
+    {
+      "id": 33,
+      "start": 234.06,
+      "end": 236.94,
+      "start_timestamp": "00:03:54.060",
+      "end_timestamp": "00:03:56.940",
+      "text": "Oui, d'accord. D'accord."
+    },
+    {
+      "id": 34,
+      "start": 236.94,
+      "end": 244.14,
+      "start_timestamp": "00:03:56.940",
+      "end_timestamp": "00:04:04.140",
+      "text": "Bon, en gros, il s'agit de subventionner l'activité économique sur le dos de la misère des gens. Au-delà des considérations morales,"
+    },
+    {
+      "id": 35,
+      "start": 244.14,
+      "end": 250.22,
+      "start_timestamp": "00:04:04.140",
+      "end_timestamp": "00:04:10.220",
+      "text": "sur le plan économique, ça peut marcher, mais à condition que vous soyez l'un des seuls pays à le faire et à condition que le développement"
+    },
+    {
+      "id": 36,
+      "start": 250.22,
+      "end": 258.14,
+      "start_timestamp": "00:04:10.220",
+      "end_timestamp": "00:04:18.140",
+      "text": "des exportations produise une activité économique qui est supérieure à celle perdue par la baisse inévitable de la demande intérieure."
+    },
+    {
+      "id": 37,
+      "start": 258.14,
+      "end": 265.86,
+      "start_timestamp": "00:04:18.140",
+      "end_timestamp": "00:04:25.860",
+      "text": "Il faut donc avoir une structure économique exportatrice forte, ce qui est le cas en Allemagne par exemple, mais pas forcément en France."
+    },
+    {
+      "id": 38,
+      "start": 265.86,
+      "end": 271.94,
+      "start_timestamp": "00:04:25.860",
+      "end_timestamp": "00:04:31.940",
+      "text": "En plus, ces politiques sont appliquées dans tous les pays de l'OCDE en même temps, et en particulier dans les pays de la zone euro,"
+    },
+    {
+      "id": 39,
+      "start": 271.94,
+      "end": 279.86,
+      "start_timestamp": "00:04:31.940",
+      "end_timestamp": "00:04:39.860",
+      "text": "où la monnaie commune a remplacé la concurrence entre les monnaies par une concurrence sur le prix du travail, sur la fiscalité et sur les normes."
+    },
+    {
+      "id": 40,
+      "start": 279.86,
+      "end": 286.46,
+      "start_timestamp": "00:04:39.860",
+      "end_timestamp": "00:04:46.460",
+      "text": "Dès lors, sur le plan politique, le maintien ou le développement de l'activité économique dépend en grande partie de votre capacité"
+    },
+    {
+      "id": 41,
+      "start": 286.46,
+      "end": 293.9,
+      "start_timestamp": "00:04:46.460",
+      "end_timestamp": "00:04:53.900",
+      "text": "à appauvrir votre population plus vite que vos voisins. Si vous y arrivez, vous allez aspirer leur emploi en leur vendant vos produits"
+    },
+    {
+      "id": 42,
+      "start": 293.9,
+      "end": 300.46,
+      "start_timestamp": "00:04:53.900",
+      "end_timestamp": "00:05:00.460",
+      "text": "et en piquant leur part de marché international. Mais ça, ça dure qu'un temps, parce qu'eux aussi vont prendre des mesures"
+    },
+    {
+      "id": 43,
+      "start": 300.46,
+      "end": 307.26,
+      "start_timestamp": "00:05:00.460",
+      "end_timestamp": "00:05:07.260",
+      "text": "pour améliorer leur compétitivité afin de stopper l'hémorragie. Et c'est ici que commence le cercle vicieux sans fin"
+    },
+    {
+      "id": 44,
+      "start": 307.26,
+      "end": 312.54,
+      "start_timestamp": "00:05:07.260",
+      "end_timestamp": "00:05:12.540",
+      "text": "de l'appauvrissement généralisé qui nous conduit à la ruine."
+    },
+    {
+      "id": 45,
+      "start": 312.54,
+      "end": 314.54,
+      "start_timestamp": "00:05:12.540",
+      "end_timestamp": "00:05:14.540",
+      "text": "Nous devons faire des coups de cartes."
+    },
+    {
+      "id": 46,
+      "start": 314.54,
+      "end": 316.54,
+      "start_timestamp": "00:05:14.540",
+      "end_timestamp": "00:05:16.540",
+      "text": "Laissez-nous frayer les impôts des enseignants."
+    },
+    {
+      "id": 47,
+      "start": 316.54,
+      "end": 318.54,
+      "start_timestamp": "00:05:16.540",
+      "end_timestamp": "00:05:18.540",
+      "text": "C'est une bonne idée."
+    },
+    {
+      "id": 48,
+      "start": 318.54,
+      "end": 320.54,
+      "start_timestamp": "00:05:18.540",
+      "end_timestamp": "00:05:20.540",
+      "text": "Je n'ai pas reçu ces impôts de paiement."
+    },
+    {
+      "id": 49,
+      "start": 320.54,
+      "end": 323.89,
+      "start_timestamp": "00:05:20.540",
+      "end_timestamp": "00:05:23.890",
+      "text": "Et la ruine a disparu."
+    },
+    {
+      "id": 50,
+      "start": 323.89,
+      "end": 325.89,
+      "start_timestamp": "00:05:23.890",
+      "end_timestamp": "00:05:25.890",
+      "text": "Nous devons juste couper nos impôts de nourriture."
+    },
+    {
+      "id": 51,
+      "start": 325.89,
+      "end": 329.89,
+      "start_timestamp": "00:05:25.890",
+      "end_timestamp": "00:05:29.890",
+      "text": "Le business est lent, nous n'avons pas fait autant ce mois."
+    },
+    {
+      "id": 52,
+      "start": 329.89,
+      "end": 331.89,
+      "start_timestamp": "00:05:29.890",
+      "end_timestamp": "00:05:31.890",
+      "text": "Nous devons canceler les rénovations."
+    },
+    {
+      "id": 53,
+      "start": 331.89,
+      "end": 333.89,
+      "start_timestamp": "00:05:31.890",
+      "end_timestamp": "00:05:33.890",
+      "text": "Désolé, nous ne pouvons pas vous donner ces heures extra."
+    },
+    {
+      "id": 54,
+      "start": 333.89,
+      "end": 335.89,
+      "start_timestamp": "00:05:33.890",
+      "end_timestamp": "00:05:35.890",
+      "text": "Nous avons perdu quelques contrats."
+    },
+    {
+      "id": 55,
+      "start": 335.89,
+      "end": 337.89,
+      "start_timestamp": "00:05:35.890",
+      "end_timestamp": "00:05:37.890",
+      "text": "C'est pas grave, je suis sûr que les choses vont bien."
+    },
+    {
+      "id": 56,
+      "start": 337.89,
+      "end": 342.89,
+      "start_timestamp": "00:05:37.890",
+      "end_timestamp": "00:05:42.890",
+      "text": "La croissance économique a diminué et la dette nationale est encore en cours."
+    },
+    {
+      "id": 57,
+      "start": 342.89,
+      "end": 344.89,
+      "start_timestamp": "00:05:42.890",
+      "end_timestamp": "00:05:44.890",
+      "text": "Nous devons faire plus de coups de cartes."
+    },
+    {
+      "id": 58,
+      "start": 344.89,
+      "end": 346.89,
+      "start_timestamp": "00:05:44.890",
+      "end_timestamp": "00:05:46.890",
+      "text": "C'est une bonne idée."
+    },
+    {
+      "id": 59,
+      "start": 346.89,
+      "end": 348.89,
+      "start_timestamp": "00:05:46.890",
+      "end_timestamp": "00:05:48.890",
+      "text": "Ils ont fait plus de coups de cartes à l'école."
+    },
+    {
+      "id": 60,
+      "start": 348.89,
+      "end": 352.89,
+      "start_timestamp": "00:05:48.890",
+      "end_timestamp": "00:05:52.890",
+      "text": "Nous devons juste couper nos impôts un peu plus."
+    },
+    {
+      "id": 61,
+      "start": 352.89,
+      "end": 354.89,
+      "start_timestamp": "00:05:52.890",
+      "end_timestamp": "00:05:54.890",
+      "text": "Nous avons commencé à perdre de l'argent."
+    },
+    {
+      "id": 62,
+      "start": 354.89,
+      "end": 356.89,
+      "start_timestamp": "00:05:54.890",
+      "end_timestamp": "00:05:56.890",
+      "text": "Nous ne pouvons même pas affronter les réparations maintenant."
+    },
+    {
+      "id": 63,
+      "start": 356.89,
+      "end": 360.89,
+      "start_timestamp": "00:05:56.890",
+      "end_timestamp": "00:06:00.890",
+      "text": "Je suis vraiment désolé, mais nous devons couper nos heures."
+    },
+    {
+      "id": 64,
+      "start": 360.89,
+      "end": 362.89,
+      "start_timestamp": "00:06:00.890",
+      "end_timestamp": "00:06:02.890",
+      "text": "Mais j'ai besoin de cet argent."
+    },
+    {
+      "id": 65,
+      "start": 362.89,
+      "end": 366.89,
+      "start_timestamp": "00:06:02.890",
+      "end_timestamp": "00:06:06.890",
+      "text": "J'ai eu mes heures coupées et j'ai besoin d'appliquer des crédits de logement."
+    },
+    {
+      "id": 66,
+      "start": 366.89,
+      "end": 368.89,
+      "start_timestamp": "00:06:06.890",
+      "end_timestamp": "00:06:08.890",
+      "text": "Fais-le."
+    },
+    {
+      "id": 67,
+      "start": 369.89,
+      "end": 373.89,
+      "start_timestamp": "00:06:09.890",
+      "end_timestamp": "00:06:13.890",
+      "text": "La croissance économique a diminué et nous devons faire plus de coups de cartes."
+    },
+    {
+      "id": 68,
+      "start": 373.89,
+      "end": 375.89,
+      "start_timestamp": "00:06:13.890",
+      "end_timestamp": "00:06:15.890",
+      "text": "C'est temps de faire plus de coups de cartes."
+    },
+    {
+      "id": 69,
+      "start": 375.89,
+      "end": 377.89,
+      "start_timestamp": "00:06:15.890",
+      "end_timestamp": "00:06:17.890",
+      "text": "C'est une bonne idée."
+    },
+    {
+      "id": 70,
+      "start": 377.89,
+      "end": 393.33,
+      "start_timestamp": "00:06:17.890",
+      "end_timestamp": "00:06:33.330",
+      "text": "Je ne comprends pas."
+    },
+    {
+      "id": 71,
+      "start": 393.33,
+      "end": 395.33,
+      "start_timestamp": "00:06:33.330",
+      "end_timestamp": "00:06:35.330",
+      "text": "Même après toutes nos coups de cartes,"
+    },
+    {
+      "id": 72,
+      "start": 395.33,
+      "end": 397.33,
+      "start_timestamp": "00:06:35.330",
+      "end_timestamp": "00:06:37.330",
+      "text": "la dette nationale a doublé."
+    },
+    {
+      "id": 73,
+      "start": 397.33,
+      "end": 399.33,
+      "start_timestamp": "00:06:37.330",
+      "end_timestamp": "00:06:39.330",
+      "text": "La croissance économique est terrible."
+    },
+    {
+      "id": 74,
+      "start": 399.33,
+      "end": 408.54,
+      "start_timestamp": "00:06:39.330",
+      "end_timestamp": "00:06:48.540",
+      "text": "Peut-être que l'austérité ne fonctionne pas."
+    },
+    {
+      "id": 75,
+      "start": 408.54,
+      "end": 410.54,
+      "start_timestamp": "00:06:48.540",
+      "end_timestamp": "00:06:50.540",
+      "text": "J'ai déjà eu l'occasion de dire dans une autre vidéo"
+    },
+    {
+      "id": 76,
+      "start": 410.54,
+      "end": 413.54,
+      "start_timestamp": "00:06:50.540",
+      "end_timestamp": "00:06:53.540",
+      "text": "que ce modèle rend les patrons complètement schizophrènes,"
+    },
+    {
+      "id": 77,
+      "start": 413.54,
+      "end": 416.54,
+      "start_timestamp": "00:06:53.540",
+      "end_timestamp": "00:06:56.540",
+      "text": "parce qu'ils veulent des salariés pas chers et des clients riches."
+    },
+    {
+      "id": 78,
+      "start": 416.54,
+      "end": 418.54,
+      "start_timestamp": "00:06:56.540",
+      "end_timestamp": "00:06:58.540",
+      "text": "Mais comme les salariés des uns c'est les clients des autres,"
+    },
+    {
+      "id": 79,
+      "start": 418.54,
+      "end": 422.54,
+      "start_timestamp": "00:06:58.540",
+      "end_timestamp": "00:07:02.540",
+      "text": "eh ben les gains que vous espérez avoir en baissant les coûts salariaux,"
+    },
+    {
+      "id": 80,
+      "start": 422.54,
+      "end": 424.54,
+      "start_timestamp": "00:07:02.540",
+      "end_timestamp": "00:07:04.540",
+      "text": "vous les perdez par la baisse de la demande."
+    },
+    {
+      "id": 81,
+      "start": 424.54,
+      "end": 426.54,
+      "start_timestamp": "00:07:04.540",
+      "end_timestamp": "00:07:06.540",
+      "text": "C'est ballot."
+    },
+    {
+      "id": 82,
+      "start": 426.54,
+      "end": 430.54,
+      "start_timestamp": "00:07:06.540",
+      "end_timestamp": "00:07:10.540",
+      "text": "Encore une fois, vous pouvez être gagnant si vous êtes le seul à bénéficier de cette subvention."
+    },
+    {
+      "id": 83,
+      "start": 430.54,
+      "end": 434.54,
+      "start_timestamp": "00:07:10.540",
+      "end_timestamp": "00:07:14.540",
+      "text": "Mais quand la baisse des salaires est généralisée, comme c'est le cas maintenant,"
+    },
+    {
+      "id": 84,
+      "start": 434.54,
+      "end": 436.54,
+      "start_timestamp": "00:07:14.540",
+      "end_timestamp": "00:07:16.540",
+      "text": "eh ben vous êtes forcément perdant,"
+    },
+    {
+      "id": 85,
+      "start": 436.54,
+      "end": 440.54,
+      "start_timestamp": "00:07:16.540",
+      "end_timestamp": "00:07:20.540",
+      "text": "parce que le salaire ne représente qu'une fraction du prix de revient d'un produit,"
+    },
+    {
+      "id": 86,
+      "start": 440.54,
+      "end": 444.54,
+      "start_timestamp": "00:07:20.540",
+      "end_timestamp": "00:07:24.540",
+      "text": "alors que c'est bien souvent la totalité du pouvoir d'achat d'un travailleur."
+    },
+    {
+      "id": 87,
+      "start": 444.54,
+      "end": 448.54,
+      "start_timestamp": "00:07:24.540",
+      "end_timestamp": "00:07:28.540",
+      "text": "Avec un exemple, vous allez comprendre pourquoi ça coince."
+    },
+    {
+      "id": 88,
+      "start": 448.54,
+      "end": 450.54,
+      "start_timestamp": "00:07:28.540",
+      "end_timestamp": "00:07:30.540",
+      "text": "En appliquant la logique en vigueur actuellement,"
+    },
+    {
+      "id": 89,
+      "start": 450.54,
+      "end": 454.54,
+      "start_timestamp": "00:07:30.540",
+      "end_timestamp": "00:07:34.540",
+      "text": "selon laquelle il vaut mieux avoir des travailleurs pauvres que des chômeurs,"
+    },
+    {
+      "id": 90,
+      "start": 454.54,
+      "end": 460.54,
+      "start_timestamp": "00:07:34.540",
+      "end_timestamp": "00:07:40.540",
+      "text": "imaginons une baisse généralisée de tous les salaires de 30% dans un pays."
+    },
+    {
+      "id": 91,
+      "start": 460.54,
+      "end": 464.54,
+      "start_timestamp": "00:07:40.540",
+      "end_timestamp": "00:07:44.540",
+      "text": "Même si les entreprises répercutent l'intégralité de cette baisse dans leur prix,"
+    },
+    {
+      "id": 92,
+      "start": 464.54,
+      "end": 468.54,
+      "start_timestamp": "00:07:44.540",
+      "end_timestamp": "00:07:48.540",
+      "text": "ce qui n'est jamais le cas, comme on l'a vu avec la baisse de la TVA dans la restauration,"
+    },
+    {
+      "id": 93,
+      "start": 468.54,
+      "end": 472.54,
+      "start_timestamp": "00:07:48.540",
+      "end_timestamp": "00:07:52.540",
+      "text": "eh bien vous ne pouvez baisser les prix que de 5, 10, 15, 20%,"
+    },
+    {
+      "id": 94,
+      "start": 472.54,
+      "end": 476.54,
+      "start_timestamp": "00:07:52.540",
+      "end_timestamp": "00:07:56.540",
+      "text": "selon la quantité de travail incorporé dans vos produits."
+    },
+    {
+      "id": 95,
+      "start": 476.54,
+      "end": 483.54,
+      "start_timestamp": "00:07:56.540",
+      "end_timestamp": "00:08:03.540",
+      "text": "Du coup, voilà ce qui se passe dans une entreprise qui vend 100 bidules à 10 €, dont le prix baisse de 15%."
+    },
+    {
+      "id": 96,
+      "start": 483.54,
+      "end": 487.54,
+      "start_timestamp": "00:08:03.540",
+      "end_timestamp": "00:08:07.540",
+      "text": "Au début, vous avez une baisse du chiffre d'affaires provoquée par la baisse du prix de vente,"
+    },
+    {
+      "id": 97,
+      "start": 487.54,
+      "end": 493.54,
+      "start_timestamp": "00:08:07.540",
+      "end_timestamp": "00:08:13.540",
+      "text": "et vous pensez vous rattraper sur une hausse des quantités vendues suscitées par cette baisse du prix de vente."
+    },
+    {
+      "id": 98,
+      "start": 493.54,
+      "end": 497.54,
+      "start_timestamp": "00:08:13.540",
+      "end_timestamp": "00:08:17.540",
+      "text": "Mais c'est l'inverse qui se passe, à cause de la baisse du pouvoir d'achat de vos clients,"
+    },
+    {
+      "id": 99,
+      "start": 497.54,
+      "end": 504.54,
+      "start_timestamp": "00:08:17.540",
+      "end_timestamp": "00:08:24.540",
+      "text": "parce que le produit est peut-être 15% moins cher. Mais eux, ils ont perdu 30% de pouvoir d'achat. Donc ils achètent moins qu'avant."
+    },
+    {
+      "id": 100,
+      "start": 504.54,
+      "end": 509.54,
+      "start_timestamp": "00:08:24.540",
+      "end_timestamp": "00:08:29.540",
+      "text": "En plus, si les gens n'ont plus de sous une fois payé les dépenses contraintes, les vendeurs de produits superflux"
+    },
+    {
+      "id": 101,
+      "start": 509.54,
+      "end": 515.54,
+      "start_timestamp": "00:08:29.540",
+      "end_timestamp": "00:08:35.540",
+      "text": "peuvent voir leur vente chuter drastiquement. C'est ici que le développement des exportations est censé prendre le relais,"
+    },
+    {
+      "id": 102,
+      "start": 515.54,
+      "end": 520.54,
+      "start_timestamp": "00:08:35.540",
+      "end_timestamp": "00:08:40.540",
+      "text": "à condition que vous soyez concerné par les exportations, ce qui n'est pas le cas de toutes les entreprises."
+    },
+    {
+      "id": 103,
+      "start": 520.54,
+      "end": 526.54,
+      "start_timestamp": "00:08:40.540",
+      "end_timestamp": "00:08:46.540",
+      "text": "Et puis si les mêmes politiques de contraction de la demande sont appliquées dans les pays de vos clients, bah vous l'avez dans l'os."
+    },
+    {
+      "id": 104,
+      "start": 526.54,
+      "end": 531.54,
+      "start_timestamp": "00:08:46.540",
+      "end_timestamp": "00:08:51.540",
+      "text": "Et c'est bien ce qui se passe dans la zone euro, invalidant toutes les promesses de nouveaux débouchés pour les entreprises"
+    },
+    {
+      "id": 105,
+      "start": 531.54,
+      "end": 537.54,
+      "start_timestamp": "00:08:51.540",
+      "end_timestamp": "00:08:57.540",
+      "text": "par la seule existence de cette monnaie. On a tendance à penser que l'euro est structurellement bénéfique à l'économie,"
+    },
+    {
+      "id": 106,
+      "start": 537.54,
+      "end": 545.54,
+      "start_timestamp": "00:08:57.540",
+      "end_timestamp": "00:09:05.540",
+      "text": "parce qu'il permet de faciliter les échanges. Sauf que dans la réalité, l'euro bousille l'économie, parce qu'il force les États à faire des réformes,"
+    },
+    {
+      "id": 107,
+      "start": 545.54,
+      "end": 552.04,
+      "start_timestamp": "00:09:05.540",
+      "end_timestamp": "00:09:12.040",
+      "text": "c'est-à-dire à réduire le niveau de vie des gens, pour améliorer la compétitivité et essayer de garder un peu d'activité économique."
+    },
+    {
+      "id": 108,
+      "start": 552.04,
+      "end": 557.04,
+      "start_timestamp": "00:09:12.040",
+      "end_timestamp": "00:09:17.040",
+      "text": "On est donc dans un système de contraction permanente de la demande. Et dans ces conditions, vous pensez bien"
+    },
+    {
+      "id": 109,
+      "start": 557.04,
+      "end": 563.04,
+      "start_timestamp": "00:09:17.040",
+      "end_timestamp": "00:09:23.040",
+      "text": "qu'il ne peut pas y avoir de nouveaux débouchés pour les entreprises. En somme, avec l'euro, on échange plus facilement."
+    },
+    {
+      "id": 110,
+      "start": 563.04,
+      "end": 572.74,
+      "start_timestamp": "00:09:23.040",
+      "end_timestamp": "00:09:32.740",
+      "text": "Mais comme on a moins de thunes, bah ça ne nous sert pas à grand-chose. Cette course permanente et infinie à la dévaluation interne"
+    },
+    {
+      "id": 111,
+      "start": 572.74,
+      "end": 577.74,
+      "start_timestamp": "00:09:32.740",
+      "end_timestamp": "00:09:37.740",
+      "text": "a conduit les pays de la zone euro, et notamment les pays de la périphérie, dans la déflation."
+    },
+    {
+      "id": 112,
+      "start": 577.74,
+      "end": 583.94,
+      "start_timestamp": "00:09:37.740",
+      "end_timestamp": "00:09:43.940",
+      "text": "Il s'agit de la baisse généralisée des prix sur une longue période. La baisse des prix peut être une chose positive"
+    },
+    {
+      "id": 113,
+      "start": 583.94,
+      "end": 590.44,
+      "start_timestamp": "00:09:43.940",
+      "end_timestamp": "00:09:50.440",
+      "text": "quand c'est motivé par une augmentation de la productivité. Parce que là, les salaires stagnent ou augmentent pendant que les prix baissent."
+    },
+    {
+      "id": 114,
+      "start": 590.44,
+      "end": 595.44,
+      "start_timestamp": "00:09:50.440",
+      "end_timestamp": "00:09:55.440",
+      "text": "Donc vous avez une augmentation du pouvoir d'achat. C'est un petit peu la base du développement économique."
+    },
+    {
+      "id": 115,
+      "start": 595.44,
+      "end": 601.74,
+      "start_timestamp": "00:09:55.440",
+      "end_timestamp": "00:10:01.740",
+      "text": "Mais quand la baisse des prix est contrainte par la baisse du pouvoir d'achat des consommateurs, bah vous ne pouvez pas avoir de croissance."
+    },
+    {
+      "id": 116,
+      "start": 601.74,
+      "end": 608.84,
+      "start_timestamp": "00:10:01.740",
+      "end_timestamp": "00:10:08.840",
+      "text": "Ça entraîne une augmentation du chômage et une baisse de l'investissement, ce qui aggrave à son tour le cycle de recherche de baisse des prix,"
+    },
+    {
+      "id": 117,
+      "start": 608.84,
+      "end": 615.24,
+      "start_timestamp": "00:10:08.840",
+      "end_timestamp": "00:10:15.240",
+      "text": "donc de baisse des coûts, baisse des salaires, baisse des investissements, baisse de la croissance. Et on repart pour un tour."
+    },
+    {
+      "id": 118,
+      "start": 615.24,
+      "end": 620.04,
+      "start_timestamp": "00:10:15.240",
+      "end_timestamp": "00:10:20.040",
+      "text": "On entre en fait dans un cercle vicieux qui mène à la ruine, car les agents économiques ont des frais fixes."
+    },
+    {
+      "id": 119,
+      "start": 620.04,
+      "end": 627.64,
+      "start_timestamp": "00:10:20.040",
+      "end_timestamp": "00:10:27.640",
+      "text": "Et quand leur revenu n'arrive plus à couvrir ses frais, les entreprises font faillite et les ménages squatte les ronds-points avec des gilets jaunes."
+    },
+    {
+      "id": 120,
+      "start": 627.64,
+      "end": 632.44,
+      "start_timestamp": "00:10:27.640",
+      "end_timestamp": "00:10:32.440",
+      "text": "Évidemment, la BCE a pris des mesures pour qu'on évite de rentrer dans ce cercle déflationniste."
+    },
+    {
+      "id": 121,
+      "start": 632.44,
+      "end": 641.9,
+      "start_timestamp": "00:10:32.440",
+      "end_timestamp": "00:10:41.900",
+      "text": "Mais on va voir que le remède est peut-être pire que le mal. Vous pensez déjà que l'euro est une catastrophe ? Mais non."
+    },
+    {
+      "id": 122,
+      "start": 641.9,
+      "end": 648.5,
+      "start_timestamp": "00:10:41.900",
+      "end_timestamp": "00:10:48.500",
+      "text": "Ça, c'est les bienfaits de l'euro au quotidien quand tout va bien. Quand une crise se déclenche, ça nous coûte encore plus cher."
+    },
+    {
+      "id": 123,
+      "start": 648.5,
+      "end": 655.06,
+      "start_timestamp": "00:10:48.500",
+      "end_timestamp": "00:10:55.060",
+      "text": "Lors de la crise de l'euro, les dirigeants européens ont créé le MES, le mécanisme européen de stabilité."
+    },
+    {
+      "id": 124,
+      "start": 655.06,
+      "end": 661.1,
+      "start_timestamp": "00:10:55.060",
+      "end_timestamp": "00:11:01.100",
+      "text": "Si un État de la zone euro perd son accès au marché pour financer sa dette, à cause de taux d'intérêt trop élevé par exemple,"
+    },
+    {
+      "id": 125,
+      "start": 661.1,
+      "end": 668.14,
+      "start_timestamp": "00:11:01.100",
+      "end_timestamp": "00:11:08.140",
+      "text": "c'est le MES qui prendra le relais. Doté initialement de 80 milliards d'euros de fonds propres, il pourra prêter au maximum"
+    },
+    {
+      "id": 126,
+      "start": 668.14,
+      "end": 674.9,
+      "start_timestamp": "00:11:08.140",
+      "end_timestamp": "00:11:14.900",
+      "text": "plus de 700 milliards d'euros fournis par les autres États de la zone. La France insumant 20% de ce merdier, nous avons été taxés"
+    },
+    {
+      "id": 127,
+      "start": 674.9,
+      "end": 681.82,
+      "start_timestamp": "00:11:14.900",
+      "end_timestamp": "00:11:21.820",
+      "text": "à hauteur de 16 milliards d'euros pour abonder les fonds propres. C'est plus que le prix des concessions des autoroutes."
+    },
+    {
+      "id": 128,
+      "start": 681.82,
+      "end": 690.62,
+      "start_timestamp": "00:11:21.820",
+      "end_timestamp": "00:11:30.620",
+      "text": "Et en cas de pépin, le MES pourra nous réclamer jusqu'à 142 milliards d'euros que l'État devra emprunter pour les donner aux autres États dans la mouise."
+    },
+    {
+      "id": 129,
+      "start": 690.62,
+      "end": 696.62,
+      "start_timestamp": "00:11:30.620",
+      "end_timestamp": "00:11:36.620",
+      "text": "Tout ça pour maintenir la stabilité et la cohésion de la zone euro. Ça n'a aucun autre but."
+    },
+    {
+      "id": 130,
+      "start": 696.62,
+      "end": 701.62,
+      "start_timestamp": "00:11:36.620",
+      "end_timestamp": "00:11:41.620",
+      "text": "Une fois les problèmes les plus urgents de la crise de l'euro résolue, ils ont essayé de relancer l'économie et de lutter"
+    },
+    {
+      "id": 131,
+      "start": 701.62,
+      "end": 707.58,
+      "start_timestamp": "00:11:41.620",
+      "end_timestamp": "00:11:47.580",
+      "text": "contre la déflation qui pointait le bout de son nez en faisant tourner la planche à billets avec les QE."
+    },
+    {
+      "id": 132,
+      "start": 707.58,
+      "end": 713.98,
+      "start_timestamp": "00:11:47.580",
+      "end_timestamp": "00:11:53.980",
+      "text": "En achetant des obligations d'État aux banques, ils espéraient doper l'investissement et la consommation par la relance du crédit,"
+    },
+    {
+      "id": 133,
+      "start": 713.98,
+      "end": 720.78,
+      "start_timestamp": "00:11:53.980",
+      "end_timestamp": "00:12:00.780",
+      "text": "en améliorant la solvabilité des banques et en faisant baisser les taux d'intérêt par l'augmentation de l'offre de monnaie."
+    },
+    {
+      "id": 134,
+      "start": 720.78,
+      "end": 729.46,
+      "start_timestamp": "00:12:00.780",
+      "end_timestamp": "00:12:09.460",
+      "text": "« J'adore quand un plan se déroule sans accro. » Sauf qu'il y a quand même un grand nombre de ménages qui sont rincés par les politiques d'austérité."
+    },
+    {
+      "id": 135,
+      "start": 729.46,
+      "end": 734.78,
+      "start_timestamp": "00:12:09.460",
+      "end_timestamp": "00:12:14.780",
+      "text": "Quand vous avez plus de thunes à la fin du mois, vos capacités d'emprunt sont inexistantes, même à taux zéro."
+    },
+    {
+      "id": 136,
+      "start": 734.78,
+      "end": 743.54,
+      "start_timestamp": "00:12:14.780",
+      "end_timestamp": "00:12:23.540",
+      "text": "Et comme la consommation ne repart pas, les entreprises n'investissent pas non plus. En d'autres termes, c'est une politique monétaire qui rate complètement sa cible."
+    },
+    {
+      "id": 137,
+      "start": 743.54,
+      "end": 749.9,
+      "start_timestamp": "00:12:23.540",
+      "end_timestamp": "00:12:29.900",
+      "text": "Les seuls qui bénéficient des TOBA sont les plus riches, qui ont des capacités d'emprunt. Et ils en profitent pour acheter tout ce qui leur tombe sous la main"
+    },
+    {
+      "id": 138,
+      "start": 749.9,
+      "end": 756.26,
+      "start_timestamp": "00:12:29.900",
+      "end_timestamp": "00:12:36.260",
+      "text": "à peu de frais. Loin de relancer l'économie, cette politique monétaire est en train de créer des bulles spéculatives"
+    },
+    {
+      "id": 139,
+      "start": 756.26,
+      "end": 764.68,
+      "start_timestamp": "00:12:36.260",
+      "end_timestamp": "00:12:44.680",
+      "text": "sur les actifs financiers et immobiliers et de creuser les inégalités. C'est comme ça que la fortune des milliardaires français a bondi"
+    },
+    {
+      "id": 140,
+      "start": 764.68,
+      "end": 772.22,
+      "start_timestamp": "00:12:44.680",
+      "end_timestamp": "00:12:52.220",
+      "text": "de 35% sur les 6 premiers mois de 2019, pendant que la majorité des Français galère à payer leur facture."
+    },
+    {
+      "id": 141,
+      "start": 772.22,
+      "end": 783.23,
+      "start_timestamp": "00:12:52.220",
+      "end_timestamp": "00:13:03.230",
+      "text": "C'est toute l'ironie de la chose. L'économie réelle se contracte et les actifs flambent. En général, ce genre d'histoire ne finit pas très bien."
+    },
+    {
+      "id": 142,
+      "start": 783.23,
+      "end": 789.31,
+      "start_timestamp": "00:13:03.230",
+      "end_timestamp": "00:13:09.310",
+      "text": "Cette politique monétaire a un autre effet pervers. L'excès de liquidités sur les marchés, couplé à une inflation officielle"
+    },
+    {
+      "id": 143,
+      "start": 789.31,
+      "end": 796.79,
+      "start_timestamp": "00:13:09.310",
+      "end_timestamp": "00:13:16.790",
+      "text": "de plus en plus basse et au taux de dépôt négatif de la BCE, ça a fait plonger les taux d'intérêt de nombreux États dans le négatif."
+    },
+    {
+      "id": 144,
+      "start": 796.79,
+      "end": 801.75,
+      "start_timestamp": "00:13:16.790",
+      "end_timestamp": "00:13:21.750",
+      "text": "Et il faut sûrement que je vous en dise un petit peu plus, parce que là, ça ressemble un peu à un sketch des inconnus."
+    },
+    {
+      "id": 145,
+      "start": 801.75,
+      "end": 807.83,
+      "start_timestamp": "00:13:21.750",
+      "end_timestamp": "00:13:27.830",
+      "text": "Mais bon, je vous rassure, c'est très simple à comprendre. Depuis 2014, quand les banques laissent des liquidités"
+    },
+    {
+      "id": 146,
+      "start": 807.83,
+      "end": 815.51,
+      "start_timestamp": "00:13:27.830",
+      "end_timestamp": "00:13:35.510",
+      "text": "sur leur compte à la BCE, elles payent un intérêt négatif de 0,4%. L'objectif est de les inciter à prêter cet argent aux ménages"
+    },
+    {
+      "id": 147,
+      "start": 815.51,
+      "end": 821.35,
+      "start_timestamp": "00:13:35.510",
+      "end_timestamp": "00:13:41.350",
+      "text": "et aux entreprises. C'est un peu comme si on taxait la trésorerie d'une entreprise pour la forcer à investir."
+    },
+    {
+      "id": 148,
+      "start": 821.35,
+      "end": 827.85,
+      "start_timestamp": "00:13:41.350",
+      "end_timestamp": "00:13:47.850",
+      "text": "Mais faute de clients solvables, les banques se rabattent sur les obligations d'État, notamment. C'est plus simple et c'est plus sûr."
+    },
+    {
+      "id": 149,
+      "start": 827.85,
+      "end": 834.37,
+      "start_timestamp": "00:13:47.850",
+      "end_timestamp": "00:13:54.370",
+      "text": "Seulement à partir de 2015, les QE de la BCE ont créé un effet de rareté sur ces actifs qui sont rachetés par ce programme,"
+    },
+    {
+      "id": 150,
+      "start": 834.37,
+      "end": 840.53,
+      "start_timestamp": "00:13:54.370",
+      "end_timestamp": "00:14:00.530",
+      "text": "tout en fournissant encore plus de liquidités aux banques qu'elles cherchent à nouveau à placer sur les obligations d'État."
+    },
+    {
+      "id": 151,
+      "start": 840.53,
+      "end": 849.05,
+      "start_timestamp": "00:14:00.530",
+      "end_timestamp": "00:14:09.050",
+      "text": "Cette augmentation de la demande tire à la baisse les taux d'intérêt des États de la zone euro jusque dans le négatif pour les plus solides d'entre eux."
+    },
+    {
+      "id": 152,
+      "start": 849.05,
+      "end": 854.65,
+      "start_timestamp": "00:14:09.050",
+      "end_timestamp": "00:14:14.650",
+      "text": "Comme je vous le disais, ensuite, il y a d'autres effets qui rentrent en ligne de compte, notamment l'anticipation du risque de déflation"
+    },
+    {
+      "id": 153,
+      "start": 854.65,
+      "end": 860.69,
+      "start_timestamp": "00:14:14.650",
+      "end_timestamp": "00:14:20.690",
+      "text": "qui encourage les taux d'intérêt négatifs. Parce que si vous prêtez votre argent à moins 0,5% et que dans le même temps,"
+    },
+    {
+      "id": 154,
+      "start": 860.69,
+      "end": 866.03,
+      "start_timestamp": "00:14:20.690",
+      "end_timestamp": "00:14:26.030",
+      "text": "les prix baissent de 1% par an, bah vous gagnez de l'argent. En tout cas, vous gagnez du pouvoir d'achat."
+    },
+    {
+      "id": 155,
+      "start": 866.03,
+      "end": 872.51,
+      "start_timestamp": "00:14:26.030",
+      "end_timestamp": "00:14:32.510",
+      "text": "Ensuite, la spéculation sur la fin de l'euro joue aussi un rôle. Si l'Allemagne sort de l'euro et qu'elle vous rend des marques qui valent"
+    },
+    {
+      "id": 156,
+      "start": 872.51,
+      "end": 879.31,
+      "start_timestamp": "00:14:32.510",
+      "end_timestamp": "00:14:39.310",
+      "text": "20, 30, peut-être 40 % de plus que l'euro, bah vous gagnez de l'argent, même en lui en ayant prêté à taux négatifs."
+    },
+    {
+      "id": 157,
+      "start": 879.31,
+      "end": 886.69,
+      "start_timestamp": "00:14:39.310",
+      "end_timestamp": "00:14:46.690",
+      "text": "Et enfin, certaines institutions financières ont l'obligation légale de détenir dans leur compte un certain pourcentage de bon du trésor"
+    },
+    {
+      "id": 158,
+      "start": 886.69,
+      "end": 893.95,
+      "start_timestamp": "00:14:46.690",
+      "end_timestamp": "00:14:53.950",
+      "text": "de leur état de référence. Donc ça les oblige à remplacer d'anciennes obligations d'État à taux positif qui arrivent à échéance"
+    },
+    {
+      "id": 159,
+      "start": 893.95,
+      "end": 899.83,
+      "start_timestamp": "00:14:53.950",
+      "end_timestamp": "00:14:59.830",
+      "text": "par des nouvelles qui sont à taux négatif, et même s'ils voudraient peut-être pas en acheter autant. Donc ça maintient une demande"
+    },
+    {
+      "id": 160,
+      "start": 899.83,
+      "end": 905.89,
+      "start_timestamp": "00:14:59.830",
+      "end_timestamp": "00:15:05.890",
+      "text": "qui devrait disparaître en temps normal, ce qui fait baisser les taux. C'est pour toutes ces raisons que les taux négatifs"
+    },
+    {
+      "id": 161,
+      "start": 905.89,
+      "end": 911.81,
+      "start_timestamp": "00:15:05.890",
+      "end_timestamp": "00:15:11.810",
+      "text": "sont en train de se répandre en Europe. Les investisseurs cherchent de la sécurité, et ils considèrent qu'ils ont moins à perdre"
+    },
+    {
+      "id": 162,
+      "start": 911.81,
+      "end": 919.17,
+      "start_timestamp": "00:15:11.810",
+      "end_timestamp": "00:15:19.170",
+      "text": "en payant 0,9% à l'Allemagne qu'en laissant leur argent sur un compte ou en achetant encore plus d'autres catégories d'actifs,"
+    },
+    {
+      "id": 163,
+      "start": 919.17,
+      "end": 924.15,
+      "start_timestamp": "00:15:19.170",
+      "end_timestamp": "00:15:24.150",
+      "text": "comme les actions, par exemple, dont les prix se sont envolés ces dernières années."
+    },
+    {
+      "id": 164,
+      "start": 924.15,
+      "end": 930.87,
+      "start_timestamp": "00:15:24.150",
+      "end_timestamp": "00:15:30.870",
+      "text": "Pour info, l'indice Dow Jones est deux fois plus élevé qu'à la veille de la crise des subprimes. Et je suis pas sûr que l'État de l'économie américaine"
+    },
+    {
+      "id": 165,
+      "start": 930.87,
+      "end": 937.91,
+      "start_timestamp": "00:15:30.870",
+      "end_timestamp": "00:15:37.910",
+      "text": "le justifie. Il est à craindre qu'en cas de crise, les bulles éclatent et que les prix des actions soient divisés par deux ou trois."
+    },
+    {
+      "id": 166,
+      "start": 937.91,
+      "end": 944.75,
+      "start_timestamp": "00:15:37.910",
+      "end_timestamp": "00:15:44.750",
+      "text": "En prêtant à des États solides comme l'Allemagne, on est à peu près sûr de retrouver la quasi-totalité de son capital à échéance."
+    },
+    {
+      "id": 167,
+      "start": 944.75,
+      "end": 951.01,
+      "start_timestamp": "00:15:44.750",
+      "end_timestamp": "00:15:51.010",
+      "text": "Mais le monde est vaste, et on trouve encore des endroits où rémunère l'argent. Donc on constate une fuite des capitaux de la zone euro"
+    },
+    {
+      "id": 168,
+      "start": 951.01,
+      "end": 957.33,
+      "start_timestamp": "00:15:51.010",
+      "end_timestamp": "00:15:57.330",
+      "text": "vers les États-Unis, qui payent encore entre 1,5% et 2% d'intérêt positif sur leur bond du trésor."
+    },
+    {
+      "id": 169,
+      "start": 957.33,
+      "end": 964.25,
+      "start_timestamp": "00:15:57.330",
+      "end_timestamp": "00:16:04.250",
+      "text": "La légende de l'euro servant de contrepoids à la puissance du dollar était déjà totalement bidon. Mais alors là, ça va devenir une vaste blague."
+    },
+    {
+      "id": 170,
+      "start": 964.25,
+      "end": 971.53,
+      "start_timestamp": "00:16:04.250",
+      "end_timestamp": "00:16:11.530",
+      "text": "Ne soyez pas étonnés de voir l'euro baisser face au dollar dans les mois ou les années qui viennent. Et c'est pareil pour la livre Sterling."
+    },
+    {
+      "id": 171,
+      "start": 971.53,
+      "end": 978.57,
+      "start_timestamp": "00:16:11.530",
+      "end_timestamp": "00:16:18.570",
+      "text": "À votre avis, quand les gens se rendront compte que l'euro et la politique de la BCE défoncent plus leur épargne que le Brexit"
+    },
+    {
+      "id": 172,
+      "start": 978.57,
+      "end": 982.33,
+      "start_timestamp": "00:16:18.570",
+      "end_timestamp": "00:16:22.330",
+      "text": "n'a abimé celle des Anglais, vous croyez qu'ils vont réagir comment ?"
+    },
+    {
+      "id": 173,
+      "start": 986.7,
+      "end": 991.84,
+      "start_timestamp": "00:16:26.700",
+      "end_timestamp": "00:16:31.840",
+      "text": "Dans une certaine mesure, on peut considérer que les taux d'intérêt négatifs sont une bonne chose pour les contribuables,"
+    },
+    {
+      "id": 174,
+      "start": 991.84,
+      "end": 996.64,
+      "start_timestamp": "00:16:31.840",
+      "end_timestamp": "00:16:36.640",
+      "text": "parce que ça fait baisser la charge de la dette. Par contre, c'est une très mauvaise chose pour les épargnants,"
+    },
+    {
+      "id": 175,
+      "start": 996.64,
+      "end": 1002.56,
+      "start_timestamp": "00:16:36.640",
+      "end_timestamp": "00:16:42.560",
+      "text": "parce que ça met en danger le financement de l'épargne en général, et en particulier des retraites par capitalisation."
+    },
+    {
+      "id": 176,
+      "start": 1002.56,
+      "end": 1011.06,
+      "start_timestamp": "00:16:42.560",
+      "end_timestamp": "00:16:51.060",
+      "text": "Donc c'est peut-être pas le bon moment pour pivoter vers ce mode de financement. Mais bon, j'ai peut-être pas la pensée assez complexe pour comprendre."
+    },
+    {
+      "id": 177,
+      "start": 1011.06,
+      "end": 1017.54,
+      "start_timestamp": "00:16:51.060",
+      "end_timestamp": "00:16:57.540",
+      "text": "C'est une politique totalement assumée par Christine Lagarde, la nouvelle présidente de la BCE, qui a affirmé ceci."
+    },
+    {
+      "id": 178,
+      "start": 1041.06,
+      "end": 1047.72,
+      "start_timestamp": "00:17:21.060",
+      "end_timestamp": "00:17:27.720",
+      "text": "Eh ben, il faudra qu'elle relisse Keynes. Elle y apprendra que dans une économie fermée, l'épargne globale est égale à l'investissement,"
+    },
+    {
+      "id": 179,
+      "start": 1047.72,
+      "end": 1055.4,
+      "start_timestamp": "00:17:27.720",
+      "end_timestamp": "00:17:35.400",
+      "text": "qui lui-même permet de créer de nouveaux emplois. Alors peut-être qu'elle compte sur l'épargne extérieure de la zone euro pour financer nos investissements."
+    },
+    {
+      "id": 180,
+      "start": 1055.4,
+      "end": 1062.84,
+      "start_timestamp": "00:17:35.400",
+      "end_timestamp": "00:17:42.840",
+      "text": "Si c'est le cas, on n'a pas fini de se faire racheter par les Chinois, les Qataris, les États-Unis, les Anglais, les Anglais, les Anglais,"
+    },
+    {
+      "id": 181,
+      "start": 1062.84,
+      "end": 1068.56,
+      "start_timestamp": "00:17:42.840",
+      "end_timestamp": "00:17:48.560",
+      "text": "et l'envie de se payer une pute. Au lieu de travailler pour financer nos retraites, ben on travaillera pour engraisser des fonds de pension étrangers."
+    },
+    {
+      "id": 182,
+      "start": 1068.56,
+      "end": 1077.14,
+      "start_timestamp": "00:17:48.560",
+      "end_timestamp": "00:17:57.140",
+      "text": "Ça va être beau, l'Europe puissance, hein. On a hâte de voir ça. En France, on aime bien l'épargne à la papa avec un capital garanti."
+    },
+    {
+      "id": 183,
+      "start": 1077.14,
+      "end": 1085.5,
+      "start_timestamp": "00:17:57.140",
+      "end_timestamp": "00:18:05.500",
+      "text": "Ça tente bien. C'est la première qui va se faire défoncer par cette politique. Les fonds en euro, en France, en France, en Europe, en Europe,"
+    },
+    {
+      "id": 184,
+      "start": 1085.5,
+      "end": 1092.06,
+      "start_timestamp": "00:18:05.500",
+      "end_timestamp": "00:18:12.060",
+      "text": "contiennent environ 80% d'obligations d'État, dont le stock est en train de passer en rendement négatif, mettant en péril la santé financière des assureurs,"
+    },
+    {
+      "id": 185,
+      "start": 1092.06,
+      "end": 1100.34,
+      "start_timestamp": "00:18:12.060",
+      "end_timestamp": "00:18:20.340",
+      "text": "qui doivent payer un rendement positif à leurs clients tout en garantissant leur capital. La concurrence entre les assureurs les pousse à chercher du rendement"
+    },
+    {
+      "id": 186,
+      "start": 1100.34,
+      "end": 1106.5,
+      "start_timestamp": "00:18:20.340",
+      "end_timestamp": "00:18:26.500",
+      "text": "et donc à prendre des placements de plus en plus risqués, dont la valeur peut s'effondrer en cas de crise économique,"
+    },
+    {
+      "id": 187,
+      "start": 1107.24,
+      "end": 1113.14,
+      "start_timestamp": "00:18:27.240",
+      "end_timestamp": "00:18:33.140",
+      "text": "La concurrence entre les assureurs les pousse à chercher du rendement et donc à prendre des placements de plus en plus risqués,"
+    },
+    {
+      "id": 188,
+      "start": 1113.14,
+      "end": 1121.88,
+      "start_timestamp": "00:18:33.140",
+      "end_timestamp": "00:18:41.880",
+      "text": "dont la valeur peut s'effondrer en cas de crise économique, de flamber des taux d'intérêt ou du pétrole ou tout simplement de mauvais placements."
+    },
+    {
+      "id": 189,
+      "start": 1121.88,
+      "end": 1128.72,
+      "start_timestamp": "00:18:41.880",
+      "end_timestamp": "00:18:48.720",
+      "text": "Bon, je vous le dis tout de suite, la catastrophe est quand même pas pour demain. En fait, c'était hier."
+    },
+    {
+      "id": 190,
+      "start": 1128.72,
+      "end": 1134.64,
+      "start_timestamp": "00:18:48.720",
+      "end_timestamp": "00:18:54.640",
+      "text": "Le coût d'envoi a été donné début octobre 2019 par Arkea à un truc lié au crédit mutuel."
+    },
+    {
+      "id": 191,
+      "start": 1134.64,
+      "end": 1142.48,
+      "start_timestamp": "00:18:54.640",
+      "end_timestamp": "00:19:02.480",
+      "text": "Ils ont dû recapitaliser leur filiale d'assurance vie suravenir à hauteur de 540 millions d'euros à cause des taux d'intérêt négatifs"
+    },
+    {
+      "id": 192,
+      "start": 1142.48,
+      "end": 1150.08,
+      "start_timestamp": "00:19:02.480",
+      "end_timestamp": "00:19:10.080",
+      "text": "et des contraintes réglementaires sur les ratios de solvabilité. Deux semaines plus tard, c'est AG2R La Mondiale qui lançait un emprunt"
+    },
+    {
+      "id": 193,
+      "start": 1150.08,
+      "end": 1156.8,
+      "start_timestamp": "00:19:10.080",
+      "end_timestamp": "00:19:16.800",
+      "text": "de 500 millions d'euros à 4,4% d'intérêt pour améliorer la solvabilité de deux de ses fonds d'assurance vie."
+    },
+    {
+      "id": 194,
+      "start": 1156.8,
+      "end": 1163.2,
+      "start_timestamp": "00:19:16.800",
+      "end_timestamp": "00:19:23.200",
+      "text": "Euh, attends une seconde là. Ils empruntent de l'argent à taux positif. Ça leur coûte des sous. Puis ils prêtent une partie de cet argent"
+    },
+    {
+      "id": 195,
+      "start": 1163.2,
+      "end": 1170.38,
+      "start_timestamp": "00:19:23.200",
+      "end_timestamp": "00:19:30.380",
+      "text": "à taux négatif à des États. Ça leur coûte des sous. Et enfin, ils doivent servir un rendement positif à leur client et garantir leur capital."
+    },
+    {
+      "id": 196,
+      "start": 1170.38,
+      "end": 1177.9,
+      "start_timestamp": "00:19:30.380",
+      "end_timestamp": "00:19:37.900",
+      "text": "Ça leur coûte des sous. Bon, je vois vraiment pas ce qui pourrait mal se passer dans ce business. Ça m'a l'air très sûr, hein."
+    },
+    {
+      "id": 197,
+      "start": 1177.9,
+      "end": 1186.7,
+      "start_timestamp": "00:19:37.900",
+      "end_timestamp": "00:19:46.700",
+      "text": "Et pour finir, début novembre, ça a été le tour de la Société Générale d'annoncer une possible recapitalisation de sa filiale d'assurance vie, la SOGECAP."
+    },
+    {
+      "id": 198,
+      "start": 1186.7,
+      "end": 1192.82,
+      "start_timestamp": "00:19:46.700",
+      "end_timestamp": "00:19:52.820",
+      "text": "Bon, quand on en est à l'annoncer, c'est plus vraiment une possibilité. Je vous passe tous les articles"
+    },
+    {
+      "id": 199,
+      "start": 1192.82,
+      "end": 1200.56,
+      "start_timestamp": "00:19:52.820",
+      "end_timestamp": "00:20:00.560",
+      "text": "concernant Alliance, Generali et compagnie qui annoncent soit la baisse des rendements sur les fonds en euros, soit l'application de frais d'entrée exorbitants,"
+    },
+    {
+      "id": 200,
+      "start": 1200.56,
+      "end": 1206.86,
+      "start_timestamp": "00:20:00.560",
+      "end_timestamp": "00:20:06.860",
+      "text": "ou tout simplement la fermeture du fonds. C'est-à-dire qu'ils arrêtent de vendre ce produit à leurs clients parce que c'est plus rentable."
+    },
+    {
+      "id": 201,
+      "start": 1206.86,
+      "end": 1214.94,
+      "start_timestamp": "00:20:06.860",
+      "end_timestamp": "00:20:14.940",
+      "text": "Mais le crime était en quelque sorte prémédité. Pour pallier au risque de faillite dans l'assurance vie, la loi Sapin 2 de 2016"
+    },
+    {
+      "id": 202,
+      "start": 1214.94,
+      "end": 1222.36,
+      "start_timestamp": "00:20:14.940",
+      "end_timestamp": "00:20:22.360",
+      "text": "prévoit que le Haut Conseil à la stabilité financière pourra geler les retraits des contrats d'assurance vie en euros et encadrer les rendements"
+    },
+    {
+      "id": 203,
+      "start": 1222.36,
+      "end": 1228.62,
+      "start_timestamp": "00:20:22.360",
+      "end_timestamp": "00:20:28.620",
+      "text": "servis par les compagnies d'assurance. En d'autres termes, votre argent sera bloqué. Donc j'espère que vous n'en aurez pas besoin,"
+    },
+    {
+      "id": 204,
+      "start": 1228.62,
+      "end": 1234.84,
+      "start_timestamp": "00:20:28.620",
+      "end_timestamp": "00:20:34.840",
+      "text": "parce que ça peut durer un petit moment. Et bien sûr, ça vous rapportera que dalle, même si ça, c'est déjà plus ou moins le cas."
+    },
+    {
+      "id": 205,
+      "start": 1234.84,
+      "end": 1240.7,
+      "start_timestamp": "00:20:34.840",
+      "end_timestamp": "00:20:40.700",
+      "text": "Quand on voit les rendements sur le livret A, le LDD ou l'assurance vie en général, une fois qu'on a enlevé les frais,"
+    },
+    {
+      "id": 206,
+      "start": 1240.7,
+      "end": 1247.24,
+      "start_timestamp": "00:20:40.700",
+      "end_timestamp": "00:20:47.240",
+      "text": "les cotisations et l'inflation officielle, même si elle est basse, les épargnants perdent déjà de l'argent. À ce tarif,"
+    },
+    {
+      "id": 207,
+      "start": 1247.24,
+      "end": 1256.21,
+      "start_timestamp": "00:20:47.240",
+      "end_timestamp": "00:20:56.210",
+      "text": "la prochaine étape, c'est de se servir directement sur vos comptes. Ça tombe bien, c'est prévu."
+    },
+    {
+      "id": 208,
+      "start": 1256.21,
+      "end": 1261.81,
+      "start_timestamp": "00:20:56.210",
+      "end_timestamp": "00:21:01.810",
+      "text": "Bon, on a vu les bienfaits de l'euro au quotidien. On a vu les bienfaits de l'euro lors de la précédente crise."
+    },
+    {
+      "id": 209,
+      "start": 1261.81,
+      "end": 1267.45,
+      "start_timestamp": "00:21:01.810",
+      "end_timestamp": "00:21:07.450",
+      "text": "Et maintenant, on va voir les opportunités formidables qui vont s'offrir à nous lors de la prochaine crise d'importance."
+    },
+    {
+      "id": 210,
+      "start": 1267.45,
+      "end": 1274.21,
+      "start_timestamp": "00:21:07.450",
+      "end_timestamp": "00:21:14.210",
+      "text": "Ah, je vous avais dit que la tartine de merde était vaste. Comme les États ne pourront pas renflouer les banques cette fois-ci"
+    },
+    {
+      "id": 211,
+      "start": 1274.21,
+      "end": 1280.87,
+      "start_timestamp": "00:21:14.210",
+      "end_timestamp": "00:21:20.870",
+      "text": "vu qu'ils sont déjà sur endetté, il est prévu que les banques se servent directement sur les comptes de leurs clients pour éponger leur perte."
+    },
+    {
+      "id": 212,
+      "start": 1280.87,
+      "end": 1288.11,
+      "start_timestamp": "00:21:20.870",
+      "end_timestamp": "00:21:28.110",
+      "text": "Cette pratique de bail-in ou renflouement interne est légale en France depuis le 1er janvier 2016, suite à la transposition"
+    },
+    {
+      "id": 213,
+      "start": 1288.11,
+      "end": 1295.45,
+      "start_timestamp": "00:21:28.110",
+      "end_timestamp": "00:21:35.450",
+      "text": "de la directive européenne BRRD relative au redressement des banques et à la résolution de leurs défaillances."
+    },
+    {
+      "id": 214,
+      "start": 1295.45,
+      "end": 1300.71,
+      "start_timestamp": "00:21:35.450",
+      "end_timestamp": "00:21:40.710",
+      "text": "Cette directive transforme l'épargnant moyen en technicien de surface à la remorque d'un incontinent."
+    },
+    {
+      "id": 215,
+      "start": 1300.71,
+      "end": 1306.63,
+      "start_timestamp": "00:21:40.710",
+      "end_timestamp": "00:21:46.630",
+      "text": "On va éponger les défaillances des banques. Bah oui, c'est pour ça qu'on se lève tous le matin pour aller travailler, hein."
+    },
+    {
+      "id": 216,
+      "start": 1306.63,
+      "end": 1313.19,
+      "start_timestamp": "00:21:46.630",
+      "end_timestamp": "00:21:53.190",
+      "text": "C'est notre raison d'être. On a hâte de pouvoir rendre service à notre banque. Cette directive prévoit que les dépôts supérieurs"
+    },
+    {
+      "id": 217,
+      "start": 1313.19,
+      "end": 1318.93,
+      "start_timestamp": "00:21:53.190",
+      "end_timestamp": "00:21:58.930",
+      "text": "à 100 000 € pourront être taxés par une banque pour renflouer ses pertes. Ce n'est pas un scénario de science-fiction."
+    },
+    {
+      "id": 218,
+      "start": 1318.93,
+      "end": 1326.17,
+      "start_timestamp": "00:21:58.930",
+      "end_timestamp": "00:22:06.170",
+      "text": "Ils ont déjà appliqué cette mesure à Chypre en 2013. La garantie sur les dépôts de moins de 100 000 € est évidemment théorique,"
+    },
+    {
+      "id": 219,
+      "start": 1326.17,
+      "end": 1332.21,
+      "start_timestamp": "00:22:06.170",
+      "end_timestamp": "00:22:12.210",
+      "text": "parce que selon l'ampleur de la crise, ils vont se servir sur tous les dépôts si nécessaire, d'autant plus que les riches épargnants"
+    },
+    {
+      "id": 220,
+      "start": 1332.21,
+      "end": 1339.91,
+      "start_timestamp": "00:22:12.210",
+      "end_timestamp": "00:22:19.910",
+      "text": "étant au courant du risque, ils vont prendre les devants, comme lors de la crise de 2008 aux États-Unis, où cette mesure était déjà en vigueur."
+    },
+    {
+      "id": 221,
+      "start": 1339.91,
+      "end": 1348.45,
+      "start_timestamp": "00:22:19.910",
+      "end_timestamp": "00:22:28.450",
+      "text": "En 2018, un journaliste du Financial Times a avoué avoir caché un bank run des initiés de Wall Street lors de la crise de 2008."
+    },
+    {
+      "id": 222,
+      "start": 1348.45,
+      "end": 1355.21,
+      "start_timestamp": "00:22:28.450",
+      "end_timestamp": "00:22:35.210",
+      "text": "Voyant le système financier s'effondrer autour d'eux et conscient que leurs dépôts en banque n'étaient garantis que jusqu'à une certaine limite,"
+    },
+    {
+      "id": 223,
+      "start": 1355.21,
+      "end": 1360.99,
+      "start_timestamp": "00:22:35.210",
+      "end_timestamp": "00:22:40.990",
+      "text": "ils s'étaient rués aux guichets des banques pour ventiler leur économie dans plusieurs banques et sur plusieurs comptes,"
+    },
+    {
+      "id": 224,
+      "start": 1360.99,
+      "end": 1367.81,
+      "start_timestamp": "00:22:40.990",
+      "end_timestamp": "00:22:47.810",
+      "text": "afin de ne pas tout perdre au cas où l'une d'elles ferait faillite. Le journaliste, faisant partie de ces initiés qui faisaient la queue"
+    },
+    {
+      "id": 225,
+      "start": 1367.81,
+      "end": 1374.69,
+      "start_timestamp": "00:22:47.810",
+      "end_timestamp": "00:22:54.690",
+      "text": "devant les guichets, il s'est bien rendu compte du bank run. Mais il a renoncé à faire un article sur le sujet, de peur d'aggraver la panique"
+    },
+    {
+      "id": 226,
+      "start": 1374.69,
+      "end": 1381.31,
+      "start_timestamp": "00:22:54.690",
+      "end_timestamp": "00:23:01.310",
+      "text": "et de pousser ce qui restait du système financier dans l'abîme. Ça veut dire que les trous de balles de notre espèce"
+    },
+    {
+      "id": 227,
+      "start": 1381.31,
+      "end": 1388.15,
+      "start_timestamp": "00:23:01.310",
+      "end_timestamp": "00:23:08.150",
+      "text": "seront les derniers à être informés du risque de faillite d'une banque ou de tout le système. Avant ça, les initiés auront réparti leur argent"
+    },
+    {
+      "id": 228,
+      "start": 1388.15,
+      "end": 1394.83,
+      "start_timestamp": "00:23:08.150",
+      "end_timestamp": "00:23:14.830",
+      "text": "ou l'auront même carrément sorti des banques, ce qui veut dire qu'une banque en difficulté verra disparaître les comptes de plus de 100 000 €"
+    },
+    {
+      "id": 229,
+      "start": 1394.83,
+      "end": 1400.39,
+      "start_timestamp": "00:23:14.830",
+      "end_timestamp": "00:23:20.390",
+      "text": "avant même de pouvoir les taxer, rendant inapplicable la garantie sur les comptes de moins de 100 000 €,"
+    },
+    {
+      "id": 230,
+      "start": 1400.39,
+      "end": 1404.65,
+      "start_timestamp": "00:23:20.390",
+      "end_timestamp": "00:23:24.650",
+      "text": "parce qu'il y aura plus que ça pour la renflouer, tout simplement."
+    },
+    {
+      "id": 231,
+      "start": 1404.65,
+      "end": 1411.05,
+      "start_timestamp": "00:23:24.650",
+      "end_timestamp": "00:23:31.050",
+      "text": "Mais il n'est pas nécessaire d'aller jusqu'à la faillite pour qu'une banque soit obligée de vous exproprier à cause des taux négatifs."
+    },
+    {
+      "id": 232,
+      "start": 1411.05,
+      "end": 1416.65,
+      "start_timestamp": "00:23:31.050",
+      "end_timestamp": "00:23:36.650",
+      "text": "Dans certains pays, elles ont déjà commencé à répercuter ce coût sur leurs clients en taxant les dépôts."
+    },
+    {
+      "id": 233,
+      "start": 1416.65,
+      "end": 1422.93,
+      "start_timestamp": "00:23:36.650",
+      "end_timestamp": "00:23:42.930",
+      "text": "C'est le cas en Allemagne. L'Italie et la Suisse ont suivi. Au début, ça ne concernait que les dépôts de plus de 100 000 €."
+    },
+    {
+      "id": 234,
+      "start": 1422.93,
+      "end": 1428.91,
+      "start_timestamp": "00:23:42.930",
+      "end_timestamp": "00:23:48.910",
+      "text": "Puis, évidemment, ils ont étendu la règle à tous les dépôts. Bien sûr, en France, nous ne sommes pas concernés,"
+    },
+    {
+      "id": 235,
+      "start": 1428.91,
+      "end": 1435.13,
+      "start_timestamp": "00:23:48.910",
+      "end_timestamp": "00:23:55.130",
+      "text": "car le nuage des taux négatifs s'arrête à la frontière. C'est bien connu. Enfin, jusqu'à ce que des banques d'affaires"
+    },
+    {
+      "id": 236,
+      "start": 1435.13,
+      "end": 1442.27,
+      "start_timestamp": "00:23:55.130",
+      "end_timestamp": "00:24:02.270",
+      "text": "commencent à taxer leurs déposants à l'automne 2019. Le gouverneur de la Banque de France a alors déboulé pour nous assurer"
+    },
+    {
+      "id": 237,
+      "start": 1442.27,
+      "end": 1448.71,
+      "start_timestamp": "00:24:02.270",
+      "end_timestamp": "00:24:08.710",
+      "text": "que ça ne concernerait jamais le Pékin moyen. Les banques qui fonctionnent leurs clients sont des établissements de gestion de fortune"
+    },
+    {
+      "id": 238,
+      "start": 1448.71,
+      "end": 1453.79,
+      "start_timestamp": "00:24:08.710",
+      "end_timestamp": "00:24:13.790",
+      "text": "qui visent de très gros patrimoines, avec des comptes courants supérieurs à 1 million d'euros."
+    },
+    {
+      "id": 239,
+      "start": 1453.79,
+      "end": 1462.37,
+      "start_timestamp": "00:24:13.790",
+      "end_timestamp": "00:24:22.370",
+      "text": "Et il n'est pas question que ceci s'applique aux particuliers habituels ou aux PME. Mais non, bien sûr, les banques ne vont pas taxer nos dépôts."
+    },
+    {
+      "id": 240,
+      "start": 1462.37,
+      "end": 1472.41,
+      "start_timestamp": "00:24:22.370",
+      "end_timestamp": "00:24:32.410",
+      "text": "Rassurez-vous. Par contre, elles vont augmenter discrètement leurs frais, des frais bancaires qui ont déjà fait x10 ces 10 dernières années."
+    },
+    {
+      "id": 241,
+      "start": 1472.41,
+      "end": 1479.33,
+      "start_timestamp": "00:24:32.410",
+      "end_timestamp": "00:24:39.330",
+      "text": "Pour l'instant, tous ces bouts de ficelle arrivent à faire tenir le système, parce que les taux ne vont pas au-delà des –1%."
+    },
+    {
+      "id": 242,
+      "start": 1479.33,
+      "end": 1484.21,
+      "start_timestamp": "00:24:39.330",
+      "end_timestamp": "00:24:44.210",
+      "text": "Mais si les taux devaient plonger davantage dans le négatif, les banques seraient obligées de répercuter ce coup"
+    },
+    {
+      "id": 243,
+      "start": 1484.21,
+      "end": 1490.29,
+      "start_timestamp": "00:24:44.210",
+      "end_timestamp": "00:24:50.290",
+      "text": "sur tous leurs déposants, qui pourraient être tentés de retirer leur argent des banques, préférant avoir des billets"
+    },
+    {
+      "id": 244,
+      "start": 1490.29,
+      "end": 1501.27,
+      "start_timestamp": "00:24:50.290",
+      "end_timestamp": "00:25:01.270",
+      "text": "sous le matelas qui rapportent 0%, plutôt que d'avoir des comptes à la banque qui perdent 3, 4, 5% par an."
+    },
+    {
+      "id": 245,
+      "start": 1501.27,
+      "end": 1507.99,
+      "start_timestamp": "00:25:01.270",
+      "end_timestamp": "00:25:07.990",
+      "text": "Des mecs du FMI ont donc planché sur ce problème et ont pondu une note pour adapter le système économique au taux négatif."
+    },
+    {
+      "id": 246,
+      "start": 1507.99,
+      "end": 1515.09,
+      "start_timestamp": "00:25:07.990",
+      "end_timestamp": "00:25:15.090",
+      "text": "Leur solution concernant les espèces est toute bête. Rendre la détention d'espèces aussi onéreuse que celle des dépôts bancaires"
+    },
+    {
+      "id": 247,
+      "start": 1515.09,
+      "end": 1522.29,
+      "start_timestamp": "00:25:15.090",
+      "end_timestamp": "00:25:22.290",
+      "text": "assortis de taux d'intérêt négatif. Je vous passe les détails de la mise en application pour aller directement à la conclusion."
+    },
+    {
+      "id": 248,
+      "start": 1522.29,
+      "end": 1529.09,
+      "start_timestamp": "00:25:22.290",
+      "end_timestamp": "00:25:29.090",
+      "text": "Imaginons que le taux soit de moins 3% sur les dépôts bancaires. Alors tous les achats que vous ferez en espèces vous coûteront"
+    },
+    {
+      "id": 249,
+      "start": 1529.09,
+      "end": 1537.21,
+      "start_timestamp": "00:25:29.090",
+      "end_timestamp": "00:25:37.210",
+      "text": "3% plus cher. Et quand vous déposerez un billet de 100 € à la banque, celle-ci ne créditera que 97 € sur votre compte."
+    },
+    {
+      "id": 250,
+      "start": 1537.21,
+      "end": 1541.45,
+      "start_timestamp": "00:25:37.210",
+      "end_timestamp": "00:25:41.450",
+      "text": "De cette façon, vous ne pourrez pas échapper aux taux négatifs en stockant des billets de banque."
+    },
+    {
+      "id": 251,
+      "start": 1541.45,
+      "end": 1552.54,
+      "start_timestamp": "00:25:41.450",
+      "end_timestamp": "00:25:52.540",
+      "text": "Et vous serez hôtages d'un système bancaire et monétaire qui bouffe votre épargne petit à petit jusqu'à ce qu'il ne vous reste plus rien."
+    },
+    {
+      "id": 252,
+      "start": 1552.54,
+      "end": 1559.42,
+      "start_timestamp": "00:25:52.540",
+      "end_timestamp": "00:25:59.420",
+      "text": "À la prochaine crise, en plus d'être expropriés par les banques pour subvenir à leur défaillance, vous le serez aussi par les États,"
+    },
+    {
+      "id": 253,
+      "start": 1559.42,
+      "end": 1565.94,
+      "start_timestamp": "00:25:59.420",
+      "end_timestamp": "00:26:05.940",
+      "text": "qui vont devoir continuer à suivre toutes les règles de bonne gestion imposées par l'euro et par les traités européens."
+    },
+    {
+      "id": 254,
+      "start": 1565.94,
+      "end": 1571.62,
+      "start_timestamp": "00:26:05.940",
+      "end_timestamp": "00:26:11.620",
+      "text": "Le problème, c'est que pendant une crise, les recettes de l'État se contractent en même temps que l'activité économique"
+    },
+    {
+      "id": 255,
+      "start": 1571.62,
+      "end": 1578.74,
+      "start_timestamp": "00:26:11.620",
+      "end_timestamp": "00:26:18.740",
+      "text": "pendant que les dépenses augmentent, notamment les dépenses sociales. Il va donc y avoir un petit problème de pognon."
+    },
+    {
+      "id": 256,
+      "start": 1578.74,
+      "end": 1585.9,
+      "start_timestamp": "00:26:18.740",
+      "end_timestamp": "00:26:25.900",
+      "text": "Fin 2017, le groupe d'études France Stratégie a rendu un rapport au gouvernement, qui préconise trois voies"
+    },
+    {
+      "id": 257,
+      "start": 1585.9,
+      "end": 1591.82,
+      "start_timestamp": "00:26:25.900",
+      "end_timestamp": "00:26:31.820",
+      "text": "pour résorber les dettes publiques dans la zone euro. Ces trois voies sont présentées comme des compléments à la rigueur budgétaire"
+    },
+    {
+      "id": 258,
+      "start": 1591.82,
+      "end": 1599.9,
+      "start_timestamp": "00:26:31.820",
+      "end_timestamp": "00:26:39.900",
+      "text": "qui seraient utiles dans le cas d'une crise économique afin d'assurer la pérennité de la monnaie commune. Et rien d'autre."
+    },
+    {
+      "id": 259,
+      "start": 1599.9,
+      "end": 1608.7,
+      "start_timestamp": "00:26:39.900",
+      "end_timestamp": "00:26:48.700",
+      "text": "Développer le pays, résorber le chômage, améliorer le confort de vie des gens... Bah, c'est tellement vingtième siècle."
+    },
+    {
+      "id": 260,
+      "start": 1608.7,
+      "end": 1615.14,
+      "start_timestamp": "00:26:48.700",
+      "end_timestamp": "00:26:55.140",
+      "text": "En fait, ils sont pas très originaux. La première de ces voies n'est autre que le MES. Les États de la zone soutiennent"
+    },
+    {
+      "id": 261,
+      "start": 1615.14,
+      "end": 1623.18,
+      "start_timestamp": "00:26:55.140",
+      "end_timestamp": "00:27:03.180",
+      "text": "un État en difficulté en échange d'efforts de sa part pour assainir sa situation budgétaire. La troisième, c'est les QE de la BCE."
+    },
+    {
+      "id": 262,
+      "start": 1623.18,
+      "end": 1629.18,
+      "start_timestamp": "00:27:03.180",
+      "end_timestamp": "00:27:09.180",
+      "text": "On fait tourner la planche à billets pour acheter les obligations des États trop endettés et maintenir les taux bas."
+    },
+    {
+      "id": 263,
+      "start": 1629.18,
+      "end": 1636.62,
+      "start_timestamp": "00:27:09.180",
+      "end_timestamp": "00:27:16.620",
+      "text": "La seule innovation est dans la deuxième voie proposée. Bon, ça vous semblera familier si vous avez vécu un temps en URSS."
+    },
+    {
+      "id": 264,
+      "start": 1636.62,
+      "end": 1645.38,
+      "start_timestamp": "00:27:16.620",
+      "end_timestamp": "00:27:25.380",
+      "text": "Mais pour les autres, ça va être un peu... exotique. Alors attention, écoutez bien. Un État excessivement endetté"
+    },
+    {
+      "id": 265,
+      "start": 1645.38,
+      "end": 1653.02,
+      "start_timestamp": "00:27:25.380",
+      "end_timestamp": "00:27:33.020",
+      "text": "pourrait décréter qu'il devient copropriétaire de tous les terrains construits résidentiels à hauteur d'une fraction limitée de leur valeur."
+    },
+    {
+      "id": 266,
+      "start": 1653.02,
+      "end": 1659.78,
+      "start_timestamp": "00:27:33.020",
+      "end_timestamp": "00:27:39.780",
+      "text": "Il deviendrait ainsi créditeur d'une somme annuelle correspondant à la rémunération du droit d'occupation du sol."
+    },
+    {
+      "id": 267,
+      "start": 1659.78,
+      "end": 1666.22,
+      "start_timestamp": "00:27:39.780",
+      "end_timestamp": "00:27:46.220",
+      "text": "Tout propriétaire pourrait différer son paiement, dont le montant cumulé interviendrait alors au moment de la vente"
+    },
+    {
+      "id": 268,
+      "start": 1666.22,
+      "end": 1682.22,
+      "start_timestamp": "00:27:46.220",
+      "end_timestamp": "00:28:02.220",
+      "text": "ou de la transmission du bien. — Mon Dieu... Vous vous rendez compte de ce que ça veut dire ?"
+    },
+    {
+      "id": 269,
+      "start": 1682.22,
+      "end": 1688.14,
+      "start_timestamp": "00:28:02.220",
+      "end_timestamp": "00:28:08.140",
+      "text": "En clair, ça veut dire que si vous avez acheté un terrain avec une maison dessus ou un appartement, l'État décrétera"
+    },
+    {
+      "id": 270,
+      "start": 1688.14,
+      "end": 1694.94,
+      "start_timestamp": "00:28:08.140",
+      "end_timestamp": "00:28:14.940",
+      "text": "qu'il est propriétaire d'une partie du terrain, sans vous dédommager, bien sûr, et vous devrez en plus lui payer une location."
+    },
+    {
+      "id": 271,
+      "start": 1694.94,
+      "end": 1700.46,
+      "start_timestamp": "00:28:14.940",
+      "end_timestamp": "00:28:20.460",
+      "text": "Cette location, vous pourrez la payer au fil de l'eau, genre tous les mois, ou bien laisser les montants s'accumuler"
+    },
+    {
+      "id": 272,
+      "start": 1700.46,
+      "end": 1707.42,
+      "start_timestamp": "00:28:20.460",
+      "end_timestamp": "00:28:27.420",
+      "text": "et les payer entièrement au moment de la vente ou de l'héritage. C'est la seule idée qu'ils ont trouvée pour assurer"
+    },
+    {
+      "id": 273,
+      "start": 1707.42,
+      "end": 1714.66,
+      "start_timestamp": "00:28:27.420",
+      "end_timestamp": "00:28:34.660",
+      "text": "la soutenabilité d'une dette publique considérée comme excessive, sans que l'État concerné dispose d'aucun soutien extérieur,"
+    },
+    {
+      "id": 274,
+      "start": 1714.66,
+      "end": 1721.76,
+      "start_timestamp": "00:28:34.660",
+      "end_timestamp": "00:28:41.760",
+      "text": "et sans pour autant que la hausse des prélèvements obligatoires ne déprime la trajectoire de croissance de son économie."
+    },
+    {
+      "id": 275,
+      "start": 1721.76,
+      "end": 1728.28,
+      "start_timestamp": "00:28:41.760",
+      "end_timestamp": "00:28:48.280",
+      "text": "Traduction. On expropri des gens pour ne pas avoir à taxer l'activité économique, parce qu'on est dans un régime de taux de change fixe"
+    },
+    {
+      "id": 276,
+      "start": 1728.28,
+      "end": 1736.04,
+      "start_timestamp": "00:28:48.280",
+      "end_timestamp": "00:28:56.040",
+      "text": "avec plein d'autres économies, et il faut maintenir la compétitivité interne du pays pour ne pas voir les entreprises se barrer."
+    },
+    {
+      "id": 277,
+      "start": 1736.04,
+      "end": 1743.24,
+      "start_timestamp": "00:28:56.040",
+      "end_timestamp": "00:29:03.240",
+      "text": "L'impact immédiat qu'aurait l'annonce de cette mesure serait double. D'une part, il crédibiliserait la capacité de l'État à rembourser sa dette,"
+    },
+    {
+      "id": 278,
+      "start": 1743.24,
+      "end": 1749.2,
+      "start_timestamp": "00:29:03.240",
+      "end_timestamp": "00:29:09.200",
+      "text": "donc améliorerait la qualité de sa signature d'emprunteur sur les marchés financiers, diminuant d'un seul coup"
+    },
+    {
+      "id": 279,
+      "start": 1749.2,
+      "end": 1755.36,
+      "start_timestamp": "00:29:09.200",
+      "end_timestamp": "00:29:15.360",
+      "text": "le taux porté par ses obligations publiques. Parce qu'on compte aller jusqu'où dans le négatif, là ?"
+    },
+    {
+      "id": 280,
+      "start": 1755.36,
+      "end": 1762.12,
+      "start_timestamp": "00:29:15.360",
+      "end_timestamp": "00:29:22.120",
+      "text": "Ça va être chaud de financer les retraites par capitalisation, hein. D'autre part, il induirait une baisse instantanée"
+    },
+    {
+      "id": 281,
+      "start": 1762.12,
+      "end": 1768.04,
+      "start_timestamp": "00:29:22.120",
+      "end_timestamp": "00:29:28.040",
+      "text": "de la valeur des biens immobiliers, puisqu'on ne pourrait plus vendre la fraction du terrain détenue par l'État."
+    },
+    {
+      "id": 282,
+      "start": 1768.04,
+      "end": 1772.54,
+      "start_timestamp": "00:29:28.040",
+      "end_timestamp": "00:29:32.540",
+      "text": "Les mecs sont quand même formidables. Ils ont multiplié les normes et les contraintes dans l'immobilier."
+    },
+    {
+      "id": 283,
+      "start": 1772.54,
+      "end": 1778.96,
+      "start_timestamp": "00:29:32.540",
+      "end_timestamp": "00:29:38.960",
+      "text": "Et maintenant, il s'étonne que c'est hors de prix. En plus, c'est juste les conséquences normales de la politique monétaire de la BCE"
+    },
+    {
+      "id": 284,
+      "start": 1778.96,
+      "end": 1783.92,
+      "start_timestamp": "00:29:38.960",
+      "end_timestamp": "00:29:43.920",
+      "text": "et de la libéralisation des mouvements de capitaux, qui entraînent une spéculation dans certaines zones."
+    },
+    {
+      "id": 285,
+      "start": 1783.92,
+      "end": 1788.68,
+      "start_timestamp": "00:29:43.920",
+      "end_timestamp": "00:29:48.680",
+      "text": "C'est vraiment l'art de se mettre des bâtons dans les roues. Bon, allez, je vous embête avec ça depuis tout à l'heure,"
+    },
+    {
+      "id": 286,
+      "start": 1788.68,
+      "end": 1797.24,
+      "start_timestamp": "00:29:48.680",
+      "end_timestamp": "00:29:57.240",
+      "text": "mais vous savez, c'est juste une mesure hypothétique dans un rapport parmi d'autres. Ils oseront jamais faire ça. Mais non. Mais non."
+    },
+    {
+      "id": 287,
+      "start": 1797.24,
+      "end": 1805.62,
+      "start_timestamp": "00:29:57.240",
+      "end_timestamp": "00:30:05.620",
+      "text": "— Concernant l'immobilier, c'est une proposition choc pour faire baisser les prix. Un député modem a rendu hier un rapport"
+    },
+    {
+      "id": 288,
+      "start": 1805.62,
+      "end": 1812.56,
+      "start_timestamp": "00:30:05.620",
+      "end_timestamp": "00:30:12.560",
+      "text": "recommandé par le gouvernement, et il préconise de révolutionner le droit de propriété. Imaginez, sur un terrain,"
+    },
+    {
+      "id": 289,
+      "start": 1812.56,
+      "end": 1820.08,
+      "start_timestamp": "00:30:12.560",
+      "end_timestamp": "00:30:20.080",
+      "text": "seuls les murs d'une maison appartiendraient aux propriétaires. Ce modèle va être expérimenté à Lille."
+    },
+    {
+      "id": 290,
+      "start": 1820.08,
+      "end": 1824.08,
+      "start_timestamp": "00:30:20.080",
+      "end_timestamp": "00:30:24.080",
+      "text": "Les explications de Paul-Luc Monnier avec Barbara Sixx et Méliore Mohama."
+    },
+    {
+      "id": 291,
+      "start": 1825.08,
+      "end": 1830.28,
+      "start_timestamp": "00:30:25.080",
+      "end_timestamp": "00:30:30.280",
+      "text": "— Comment stopper la flambée des prix de l'immobilier à Paris et dans les grandes villes ?"
+    },
+    {
+      "id": 292,
+      "start": 1830.34,
+      "end": 1837.66,
+      "start_timestamp": "00:30:30.340",
+      "end_timestamp": "00:30:37.660",
+      "text": "Un député avance une proposition explosive, réduire le droit de propriété dans les zones tendues."
+    },
+    {
+      "id": 293,
+      "start": 1837.66,
+      "end": 1844.1,
+      "start_timestamp": "00:30:37.660",
+      "end_timestamp": "00:30:44.100",
+      "text": "Car aujourd'hui, un particulier qui achète un bien immobilier est propriétaire des murs et du terrain."
+    },
+    {
+      "id": 294,
+      "start": 1844.1,
+      "end": 1851.26,
+      "start_timestamp": "00:30:44.100",
+      "end_timestamp": "00:30:51.260",
+      "text": "Demain, le foncier pourrait rester public, propriété des collectivités. Seul le bâti serait privé."
+    },
+    {
+      "id": 295,
+      "start": 1851.26,
+      "end": 1856.46,
+      "start_timestamp": "00:30:51.260",
+      "end_timestamp": "00:30:56.460",
+      "text": "But de l'opération, faire baisser les prix de 30 à 40 %."
+    },
+    {
+      "id": 296,
+      "start": 1856.46,
+      "end": 1860.14,
+      "start_timestamp": "00:30:56.460",
+      "end_timestamp": "00:31:00.140",
+      "text": "— Les classes moyennes ne peuvent plus accéder aux zones tendues. Il n'y a que les classes les plus riches"
+    },
+    {
+      "id": 297,
+      "start": 1860.14,
+      "end": 1864.16,
+      "start_timestamp": "00:31:00.140",
+      "end_timestamp": "00:31:04.160",
+      "text": "qui peuvent se le payer ou les personnes qui sont bénéficiaires de logements sociaux."
+    },
+    {
+      "id": 298,
+      "start": 1864.16,
+      "end": 1868.84,
+      "start_timestamp": "00:31:04.160",
+      "end_timestamp": "00:31:08.840",
+      "text": "Les autres vont à 10, 15 km de la zone tendue et sont obligés de prendre des voitures,"
+    },
+    {
+      "id": 299,
+      "start": 1868.84,
+      "end": 1872.68,
+      "start_timestamp": "00:31:08.840",
+      "end_timestamp": "00:31:12.680",
+      "text": "sont sensibles aux augmentations de taxes et parfois en fil des gis jaunes."
+    },
+    {
+      "id": 300,
+      "start": 1872.68,
+      "end": 1878.08,
+      "start_timestamp": "00:31:12.680",
+      "end_timestamp": "00:31:18.080",
+      "text": "Une solution expérimentée dans le centre-ville de Lille pour les foyers modestes."
+    },
+    {
+      "id": 301,
+      "start": 1878.08,
+      "end": 1881.48,
+      "start_timestamp": "00:31:18.080",
+      "end_timestamp": "00:31:21.480",
+      "text": "15 premiers appartements seront livrés en mars prochain."
+    },
+    {
+      "id": 302,
+      "start": 1881.48,
+      "end": 1888.38,
+      "start_timestamp": "00:31:21.480",
+      "end_timestamp": "00:31:28.380",
+      "text": "— Prix d'achat, 150 000 euros pour un trois pièces contre 224 000 euros pour un logement similaire"
+    },
+    {
+      "id": 303,
+      "start": 1888.38,
+      "end": 1893.66,
+      "start_timestamp": "00:31:28.380",
+      "end_timestamp": "00:31:33.660",
+      "text": "avec le foncier dans une rue voisine. Le dispositif séduit les habitants."
+    },
+    {
+      "id": 304,
+      "start": 1893.66,
+      "end": 1900.34,
+      "start_timestamp": "00:31:33.660",
+      "end_timestamp": "00:31:40.340",
+      "text": "— Je trouve ça très intéressant. Ça permet aussi d'éviter que les centres-villes ne soient que des bureaux"
+    },
+    {
+      "id": 305,
+      "start": 1900.34,
+      "end": 1903.42,
+      "start_timestamp": "00:31:40.340",
+      "end_timestamp": "00:31:43.420",
+      "text": "ou pour des personnes très aisées et d'avoir vraiment une cité sociale."
+    },
+    {
+      "id": 306,
+      "start": 1903.42,
+      "end": 1906.5,
+      "start_timestamp": "00:31:43.420",
+      "end_timestamp": "00:31:46.500",
+      "text": "— Vous, ça ne vous gênerait pas de ne pas être totalement propriétaire de votre bien ?"
+    },
+    {
+      "id": 307,
+      "start": 1906.5,
+      "end": 1910.58,
+      "start_timestamp": "00:31:46.500",
+      "end_timestamp": "00:31:50.580",
+      "text": "— Non, je pense que c'est peut-être juste un nouveau mode d'achat."
+    },
+    {
+      "id": 308,
+      "start": 1910.58,
+      "end": 1917.68,
+      "start_timestamp": "00:31:50.580",
+      "end_timestamp": "00:31:57.680",
+      "text": "L'Union des propriétaires s'inquiète ce matin d'une atteinte au droit de propriété inscrit dans la Constitution."
+    },
+    {
+      "id": 309,
+      "start": 1917.68,
+      "end": 1923.1,
+      "start_timestamp": "00:31:57.680",
+      "end_timestamp": "00:32:03.100",
+      "text": "Ce que vous venez de voir, ça s'appelle la technique du pied dans la porte. On applique cette mesure aux nouveaux propriétaires"
+    },
+    {
+      "id": 310,
+      "start": 1923.1,
+      "end": 1928.08,
+      "start_timestamp": "00:32:03.100",
+      "end_timestamp": "00:32:08.080",
+      "text": "dans les zones tendues, puis on l'étendra aux zones moins tendues. Et petit à petit, ça deviendra une norme"
+    },
+    {
+      "id": 311,
+      "start": 1928.08,
+      "end": 1933.72,
+      "start_timestamp": "00:32:08.080",
+      "end_timestamp": "00:32:13.720",
+      "text": "de plus en plus répandue. Comme ça, selon la logique du divisé pour mieux régner, en cas de crise économique,"
+    },
+    {
+      "id": 312,
+      "start": 1933.72,
+      "end": 1938.2,
+      "start_timestamp": "00:32:13.720",
+      "end_timestamp": "00:32:18.200",
+      "text": "la population acceptera plus facilement que cette mesure soit appliquée à tous les propriétaires,"
+    },
+    {
+      "id": 313,
+      "start": 1938.2,
+      "end": 1943.42,
+      "start_timestamp": "00:32:18.200",
+      "end_timestamp": "00:32:23.420",
+      "text": "même de façon rétroactive. Parce que c'est quand même ça, le projet. Comme pour la réforme des retraites en ce moment,"
+    },
+    {
+      "id": 314,
+      "start": 1943.42,
+      "end": 1949.86,
+      "start_timestamp": "00:32:23.420",
+      "end_timestamp": "00:32:29.860",
+      "text": "ce sera vendu comme une uniformisation du droit de propriété dans un souci d'équilibre financier, de justice sociale"
+    },
+    {
+      "id": 315,
+      "start": 1949.86,
+      "end": 1957.94,
+      "start_timestamp": "00:32:29.860",
+      "end_timestamp": "00:32:37.940",
+      "text": "et d'égalité. Une forme de solidarité face à la crise de la part de ceux qui ont le plus bénéficié de la spéculation immobilière."
+    },
+    {
+      "id": 316,
+      "start": 1957.94,
+      "end": 1964.0,
+      "start_timestamp": "00:32:37.940",
+      "end_timestamp": "00:32:44.000",
+      "text": "Oh, vous en faites pas, hein. Deux, trois experts sur BFM TV, puis ils vont vous vendre le truc. De toute façon, ils ont pas le choix."
+    },
+    {
+      "id": 317,
+      "start": 1964.0,
+      "end": 1969.68,
+      "start_timestamp": "00:32:44.000",
+      "end_timestamp": "00:32:49.680",
+      "text": "Au fait, ils ont pas oublié de parler d'un truc dans leur portage, parce qu'ils insistent lourdement sur la différence de prix"
+    },
+    {
+      "id": 318,
+      "start": 1969.68,
+      "end": 1974.92,
+      "start_timestamp": "00:32:49.680",
+      "end_timestamp": "00:32:54.920",
+      "text": "entre les deux appartements. Mais ils ont complètement oublié de parler de la location du foncier. Ah bah oui."
+    },
+    {
+      "id": 319,
+      "start": 1974.92,
+      "end": 1980.28,
+      "start_timestamp": "00:32:54.920",
+      "end_timestamp": "00:33:00.280",
+      "text": "Vous pensez quand même pas qu'ils vont vous le faire gratos. Et quand il faut payer à vie une location sur le foncier,"
+    },
+    {
+      "id": 320,
+      "start": 1980.28,
+      "end": 1986.16,
+      "start_timestamp": "00:33:00.280",
+      "end_timestamp": "00:33:06.160",
+      "text": "ça reste intéressant, votre machin ? Est-ce qu'on peut dire qu'on est encore propriétaire ? Pas vraiment, hein."
+    },
+    {
+      "id": 321,
+      "start": 1986.16,
+      "end": 1992.56,
+      "start_timestamp": "00:33:06.160",
+      "end_timestamp": "00:33:12.560",
+      "text": "Les propriétaires sont donc prévenus. Vous l'aurez dans l'os deux fois. Votre bien va perdre une part importante de sa valeur"
+    },
+    {
+      "id": 322,
+      "start": 1992.56,
+      "end": 1997.96,
+      "start_timestamp": "00:33:12.560",
+      "end_timestamp": "00:33:17.960",
+      "text": "à cause de la partie saisie par l'État sans dédommagement. Et vous allez voir qu'on parle pas de 3 mètres carrés."
+    },
+    {
+      "id": 323,
+      "start": 1997.96,
+      "end": 2004.6,
+      "start_timestamp": "00:33:17.960",
+      "end_timestamp": "00:33:24.600",
+      "text": "Et en plus, vous allez devoir payer une location pour avoir le droit d'occuper un terrain que vous aviez déjà acheté."
+    },
+    {
+      "id": 324,
+      "start": 2004.6,
+      "end": 2010.48,
+      "start_timestamp": "00:33:24.600",
+      "end_timestamp": "00:33:30.480",
+      "text": "Mais bon, c'est pour sauver l'euro. Alors je suis sûr que ça ne dérangera pas les 72% de Français"
+    },
+    {
+      "id": 325,
+      "start": 2010.48,
+      "end": 2013.28,
+      "start_timestamp": "00:33:30.480",
+      "end_timestamp": "00:33:33.280",
+      "text": "qui veulent le garder comme leur monnaie, n'est-ce pas ?"
+    },
+    {
+      "id": 326,
+      "start": 2013.28,
+      "end": 2020.8,
+      "start_timestamp": "00:33:33.280",
+      "end_timestamp": "00:33:40.800",
+      "text": "— Ben alors, mais par dit. Mais bien sûr, mais dites. Mais carmem. Mais bien évidemment, mais par dit. Mais bien sûr, mais dites. Mais carmem, mais carmem."
+    },
+    {
+      "id": 327,
+      "start": 2020.8,
+      "end": 2027.64,
+      "start_timestamp": "00:33:40.800",
+      "end_timestamp": "00:33:47.640",
+      "text": "À titre illustratif, la mise en place de cette mesure à hauteur d'un quart de la valeur des terrains résidentiels"
+    },
+    {
+      "id": 328,
+      "start": 2027.64,
+      "end": 2035.0,
+      "start_timestamp": "00:33:47.640",
+      "end_timestamp": "00:33:55.000",
+      "text": "permettrait par exemple à l'Italie de resolvabiliser sa dette publique instantanément à hauteur d'environ 40 points de PIB."
+    },
+    {
+      "id": 329,
+      "start": 2035.0,
+      "end": 2039.72,
+      "start_timestamp": "00:33:55.000",
+      "end_timestamp": "00:33:59.720",
+      "text": "Donc les mecs partent sur une hypothèse de base d'un quart de la valeur des terrains."
+    },
+    {
+      "id": 330,
+      "start": 2039.72,
+      "end": 2045.72,
+      "start_timestamp": "00:33:59.720",
+      "end_timestamp": "00:34:05.720",
+      "text": "Les prix Nobel à l'origine de cette idée lumineuse considèrent qu'elle est moins porteuse d'instabilité que les alternatives"
+    },
+    {
+      "id": 331,
+      "start": 2045.72,
+      "end": 2051.48,
+      "start_timestamp": "00:34:05.720",
+      "end_timestamp": "00:34:11.480",
+      "text": "qui se présentent en cas de crise, à savoir coupe budgétaire drastique et forte augmentation des impôts,"
+    },
+    {
+      "id": 332,
+      "start": 2051.48,
+      "end": 2058.36,
+      "start_timestamp": "00:34:11.480",
+      "end_timestamp": "00:34:18.360",
+      "text": "plongeant l'économie dans une grave récession, ou bien défaut de paiement et sortie de l'euro en catastrophe."
+    },
+    {
+      "id": 333,
+      "start": 2058.36,
+      "end": 2063.24,
+      "start_timestamp": "00:34:18.360",
+      "end_timestamp": "00:34:23.240",
+      "text": "Voilà. Donc on en est à se demander par quels moyens on va pouvoir sauver l'euro à la prochaine crise"
+    },
+    {
+      "id": 334,
+      "start": 2063.24,
+      "end": 2071.0,
+      "start_timestamp": "00:34:23.240",
+      "end_timestamp": "00:34:31.000",
+      "text": "sans déclencher de guerre civile. Ah oui, ça aurait été dommage de rester en dehors de cette grande aventure."
+    },
+    {
+      "id": 335,
+      "start": 2071.0,
+      "end": 2075.6,
+      "start_timestamp": "00:34:31.000",
+      "end_timestamp": "00:34:35.600",
+      "text": "Et si on n'attendait pas la catastrophe pour sortir de l'euro, justement ? Hein ?"
+    },
+    {
+      "id": 336,
+      "start": 2075.6,
+      "end": 2083.88,
+      "start_timestamp": "00:34:35.600",
+      "end_timestamp": "00:34:43.880",
+      "text": "Une idée parmi d'autres qui aurait pu être ajoutée dans le rapport. Mais j'imagine que c'est pas politiquement correct."
+    },
+    {
+      "id": 337,
+      "start": 2083.88,
+      "end": 2089.68,
+      "start_timestamp": "00:34:43.880",
+      "end_timestamp": "00:34:49.680",
+      "text": "Et pour finir, l'euro nous fait courir un dernier risque avec les targets, dans le cas où un pays débiteur choisirait quand même"
+    },
+    {
+      "id": 338,
+      "start": 2089.68,
+      "end": 2095.8,
+      "start_timestamp": "00:34:49.680",
+      "end_timestamp": "00:34:55.800",
+      "text": "de sortir de l'euro en catastrophe. S'il fait défaut sur les targets et qu'on suit toutes les règles en vigueur,"
+    },
+    {
+      "id": 339,
+      "start": 2095.8,
+      "end": 2101.56,
+      "start_timestamp": "00:34:55.800",
+      "end_timestamp": "00:35:01.560",
+      "text": "ces dettes pourraient nous retomber sur la tronche par l'intermédiaire de la BCE. J'en ai déjà longuement parlé"
+    },
+    {
+      "id": 340,
+      "start": 2101.56,
+      "end": 2107.32,
+      "start_timestamp": "00:35:01.560",
+      "end_timestamp": "00:35:07.320",
+      "text": "dans les épisodes précédents, mais un petit rappel vite fait en 30 secondes ne fera de mal à personne."
+    },
+    {
+      "id": 341,
+      "start": 2107.32,
+      "end": 2112.4,
+      "start_timestamp": "00:35:07.320",
+      "end_timestamp": "00:35:12.400",
+      "text": "Si l'Italie fait défaut sur les targets en sortant de l'euro, par exemple, la Banque de France ayant environ"
+    },
+    {
+      "id": 342,
+      "start": 2112.4,
+      "end": 2120.56,
+      "start_timestamp": "00:35:12.400",
+      "end_timestamp": "00:35:20.560",
+      "text": "21% du capital de la BCE, elle se ramassera 21% de la perte, soit environ 100 à 120 milliards d'euros."
+    },
+    {
+      "id": 343,
+      "start": 2120.56,
+      "end": 2125.92,
+      "start_timestamp": "00:35:20.560",
+      "end_timestamp": "00:35:25.920",
+      "text": "Comme le cas italien aura créé un précédent, le jour où la France voudra sortir de l'euro, le paiement de cette somme"
+    },
+    {
+      "id": 344,
+      "start": 2125.92,
+      "end": 2132.0,
+      "start_timestamp": "00:35:25.920",
+      "end_timestamp": "00:35:32.000",
+      "text": "sera exigé de la même façon, nous poussant à la ruine ou au défaut, avec toutes les complications diplomatiques"
+    },
+    {
+      "id": 345,
+      "start": 2132.0,
+      "end": 2138.6,
+      "start_timestamp": "00:35:32.000",
+      "end_timestamp": "00:35:38.600",
+      "text": "que ça inclut. Car les Allemands – et là, je parle bien de tous les Allemands – considérons qu'on leur a piqué du fric,"
+    },
+    {
+      "id": 346,
+      "start": 2138.6,
+      "end": 2144.72,
+      "start_timestamp": "00:35:38.600",
+      "end_timestamp": "00:35:44.720",
+      "text": "mettant un sérieux coup à la belle amitié entre les peuples, unis dans la diversité vendue par tous les bisounours"
+    },
+    {
+      "id": 347,
+      "start": 2144.72,
+      "end": 2154.7,
+      "start_timestamp": "00:35:44.720",
+      "end_timestamp": "00:35:54.700",
+      "text": "de la construction européenne. Tadaaa ! Pour résumer, l'euro détruit notre économie, notre niveau de vie,"
+    },
+    {
+      "id": 348,
+      "start": 2154.7,
+      "end": 2161.86,
+      "start_timestamp": "00:35:54.700",
+      "end_timestamp": "00:36:01.860",
+      "text": "nos services publics, notre épargne et même le droit de propriété. Pour rien. On n'en tire aucun avantage."
+    },
+    {
+      "id": 349,
+      "start": 2161.86,
+      "end": 2166.42,
+      "start_timestamp": "00:36:01.860",
+      "end_timestamp": "00:36:06.420",
+      "text": "Et à la fin, on va peut-être se foutre sur la gueule pour des problèmes de monnaie qu'on aurait pu éviter de créer"
+    },
+    {
+      "id": 350,
+      "start": 2166.42,
+      "end": 2173.18,
+      "start_timestamp": "00:36:06.420",
+      "end_timestamp": "00:36:13.180",
+      "text": "il y a 10 ans et qu'on pourrait essayer d'éviter d'aggraver maintenant. Vous pouvez reprendre les avantages de l'euro"
+    },
+    {
+      "id": 351,
+      "start": 2173.18,
+      "end": 2183.86,
+      "start_timestamp": "00:36:13.180",
+      "end_timestamp": "00:36:23.860",
+      "text": "listés par la Commission européenne. Ils sont tous faux. C'est un désastre ! Bon ben voilà, je pense que vous avez compris."
+    },
+    {
+      "id": 352,
+      "start": 2183.86,
+      "end": 2189.5,
+      "start_timestamp": "00:36:23.860",
+      "end_timestamp": "00:36:29.500",
+      "text": "On est engagé dans une course contre la montre pour sortir de ce merdier parmi les premiers et avant qu'une crise économique"
+    },
+    {
+      "id": 353,
+      "start": 2189.5,
+      "end": 2194.74,
+      "start_timestamp": "00:36:29.500",
+      "end_timestamp": "00:36:34.740",
+      "text": "ne se déclenche. L'Allemagne et l'Italie sont déjà devant l'échiquier et ont commencé à placer des pions."
+    },
+    {
+      "id": 354,
+      "start": 2194.74,
+      "end": 2201.1,
+      "start_timestamp": "00:36:34.740",
+      "end_timestamp": "00:36:41.100",
+      "text": "Et puis on sait que des pays comme la Hollande, la Pologne, la Suède et puis d'autres ont très envie de quitter"
+    },
+    {
+      "id": 355,
+      "start": 2201.1,
+      "end": 2209.54,
+      "start_timestamp": "00:36:41.100",
+      "end_timestamp": "00:36:49.540",
+      "text": "l'UE et ou l'euro. Et pendant ce temps, en France, ben... On a Macron, un espèce de jeune vieux qui a un putain de siècle"
+    },
+    {
+      "id": 356,
+      "start": 2209.54,
+      "end": 2217.34,
+      "start_timestamp": "00:36:49.540",
+      "end_timestamp": "00:36:57.340",
+      "text": "de retard et qui continue de nous vendre les chimères de l'Europe fédérale, qui n'arrivera jamais. Autant dire que nous sommes dans la merde."
+    },
+    {
+      "id": 357,
+      "start": 2217.34,
+      "end": 2222.7,
+      "start_timestamp": "00:36:57.340",
+      "end_timestamp": "00:37:02.700",
+      "text": "Comme pour le Brexit, en fait, le plus gros problème pour sortir de ce merdier ne sera pas économique ou financier,"
+    },
+    {
+      "id": 358,
+      "start": 2222.7,
+      "end": 2228.46,
+      "start_timestamp": "00:37:02.700",
+      "end_timestamp": "00:37:08.460",
+      "text": "même s'il y a un gros débat à voir là-dessus. Le plus gros problème, il va être politique."
+    },
+    {
+      "id": 359,
+      "start": 2228.46,
+      "end": 2234.66,
+      "start_timestamp": "00:37:08.460",
+      "end_timestamp": "00:37:14.660",
+      "text": "Il est normal de ne pas pouvoir compter sur des politiciens qui ont fait toute leur carrière sur les bienfaits de l'UE et de l'euro"
+    },
+    {
+      "id": 360,
+      "start": 2234.66,
+      "end": 2241.86,
+      "start_timestamp": "00:37:14.660",
+      "end_timestamp": "00:37:21.860",
+      "text": "pour régler le désastre lié à l'UE et à l'euro. Parce que le jour où ils admettent ce désastre, leur carrière est terminée."
+    },
+    {
+      "id": 361,
+      "start": 2241.86,
+      "end": 2249.06,
+      "start_timestamp": "00:37:21.860",
+      "end_timestamp": "00:37:29.060",
+      "text": "Par contre, il est beaucoup plus grave de voir les opposants les plus fervents à Macron, à l'UE et à toutes les politiques qui en découlent"
+    },
+    {
+      "id": 362,
+      "start": 2249.06,
+      "end": 2255.06,
+      "start_timestamp": "00:37:29.060",
+      "end_timestamp": "00:37:35.060",
+      "text": "refuser systématiquement de tirer les conclusions qui s'imposent à leur critique du système. Ça se termine toujours"
+    },
+    {
+      "id": 363,
+      "start": 2255.06,
+      "end": 2261.58,
+      "start_timestamp": "00:37:35.060",
+      "end_timestamp": "00:37:41.580",
+      "text": "par des promesses d'autre Europe. Et ça tourne en rond depuis 70 ans. De la gauche sociale à la droite souverainiste,"
+    },
+    {
+      "id": 364,
+      "start": 2261.58,
+      "end": 2267.94,
+      "start_timestamp": "00:37:41.580",
+      "end_timestamp": "00:37:47.940",
+      "text": "en passant par des syndicats et diverses associations, tous prétendent défendre les travailleurs, les services publics,"
+    },
+    {
+      "id": 365,
+      "start": 2267.94,
+      "end": 2274.86,
+      "start_timestamp": "00:37:47.940",
+      "end_timestamp": "00:37:54.860",
+      "text": "les Français en général, des conséquences des traités européens, mais tout en restant dans l'UE et dans l'euro"
+    },
+    {
+      "id": 366,
+      "start": 2274.86,
+      "end": 2280.58,
+      "start_timestamp": "00:37:54.860",
+      "end_timestamp": "00:38:00.580",
+      "text": "et sans jamais dire d'où viennent les problèmes qu'ils dénoncent. On se souvient de Mélenchon, qui traitait les partisans"
+    },
+    {
+      "id": 367,
+      "start": 2280.58,
+      "end": 2287.14,
+      "start_timestamp": "00:38:00.580",
+      "end_timestamp": "00:38:07.140",
+      "text": "de la sortie de l'euro de maréchalistes, ou de la prestation pitoyable de Marine Le Pen sur l'euro lors du débat de l'entre-deux tours,"
+    },
+    {
+      "id": 368,
+      "start": 2287.14,
+      "end": 2290.02,
+      "start_timestamp": "00:38:07.140",
+      "end_timestamp": "00:38:10.020",
+      "text": "qui donnent à penser que c'était pas un projet qu'elle prenait au sérieux."
+    },
+    {
+      "id": 369,
+      "start": 2290.02,
+      "end": 2296.98,
+      "start_timestamp": "00:38:10.020",
+      "end_timestamp": "00:38:16.980",
+      "text": "— Non mais à quoi servira l'euro ? — Mais c'est une mort éconnue, c'est un panier de monnaie, vous le savez, encore une fois."
+    },
+    {
+      "id": 370,
+      "start": 2296.98,
+      "end": 2307.42,
+      "start_timestamp": "00:38:16.980",
+      "end_timestamp": "00:38:27.420",
+      "text": "Ça a existé car avant... Mais ça a existé juste avant l'euro. Juste avant que l'euro devienne notre monnaie physique en France."
+    },
+    {
+      "id": 371,
+      "start": 2307.42,
+      "end": 2310.7,
+      "start_timestamp": "00:38:27.420",
+      "end_timestamp": "00:38:30.700",
+      "text": "Eh oui. Eh oui. Eh oui. Eh oui. Eh oui. C'était l'euro."
+    },
+    {
+      "id": 372,
+      "start": 2310.7,
+      "end": 2318.94,
+      "start_timestamp": "00:38:30.700",
+      "end_timestamp": "00:38:38.940",
+      "text": "— Euh, je ne sais pas ce que j'ai dit. Je ne me souviens pas. — D'ailleurs, le renoncement national a enterré toute idée de sortie de l'euro"
+    },
+    {
+      "id": 373,
+      "start": 2318.94,
+      "end": 2326.86,
+      "start_timestamp": "00:38:38.940",
+      "end_timestamp": "00:38:46.860",
+      "text": "après les présidentielles. Tous ces partis critiques envers l'UE rivalisent d'ingéniosité pour maintenir l'ambiguïté sur leur volonté"
+    },
+    {
+      "id": 374,
+      "start": 2326.86,
+      "end": 2333.02,
+      "start_timestamp": "00:38:46.860",
+      "end_timestamp": "00:38:53.020",
+      "text": "de sortir de l'UE et de l'euro, se croyant plus malins d'essayer de jouer sur les deux tableaux. Mais quand on leur pose"
+    },
+    {
+      "id": 375,
+      "start": 2333.02,
+      "end": 2338.82,
+      "start_timestamp": "00:38:53.020",
+      "end_timestamp": "00:38:58.820",
+      "text": "franchement la question, ils sont bien obligés d'admettre qu'ils ne sont que des altères européistes comme les autres."
+    },
+    {
+      "id": 376,
+      "start": 2338.9,
+      "end": 2342.74,
+      "start_timestamp": "00:38:58.900",
+      "end_timestamp": "00:39:02.740",
+      "text": "— Est-ce que vous sortiriez de l'euro, oui ou non, si vous êtes présents ? Pourquoi vous ne répondez pas à cette question ?"
+    },
+    {
+      "id": 377,
+      "start": 2342.74,
+      "end": 2350.5,
+      "start_timestamp": "00:39:02.740",
+      "end_timestamp": "00:39:10.500",
+      "text": "— Mais oui ! Mais comment je peux vous le dire plus clairement ? — Oui ! — Écoutez-moi, non ! Quand vous dites Mme Le Pen..."
+    },
+    {
+      "id": 378,
+      "start": 2350.5,
+      "end": 2358.46,
+      "start_timestamp": "00:39:10.500",
+      "end_timestamp": "00:39:18.460",
+      "text": "— Mon analyse, c'est qu'il faut sortir de l'UE et user de l'article 50. Et le seul candidat qui proposait cela était François Asselineau,"
+    },
+    {
+      "id": 379,
+      "start": 2358.46,
+      "end": 2364.42,
+      "start_timestamp": "00:39:18.460",
+      "end_timestamp": "00:39:24.420",
+      "text": "qui était complètement occulté des médias et qui, du coup, n'a pas eu ses 500 signatures. Donc, qu'est-ce qu'il reste ?"
+    },
+    {
+      "id": 380,
+      "start": 2364.42,
+      "end": 2368.88,
+      "start_timestamp": "00:39:24.420",
+      "end_timestamp": "00:39:28.880",
+      "text": "— Vous votez pour moi. Voilà. — Oui, mais vous ne voulez pas sortir de l'UE ?"
+    },
+    {
+      "id": 381,
+      "start": 2368.88,
+      "end": 2375.74,
+      "start_timestamp": "00:39:28.880",
+      "end_timestamp": "00:39:35.740",
+      "text": "— Je refuse le terme de « sortir de l'UE », vous savez pourquoi. Parce qu'on n'a pas à sortir du continent où on est."
+    },
+    {
+      "id": 382,
+      "start": 2375.74,
+      "end": 2383.12,
+      "start_timestamp": "00:39:35.740",
+      "end_timestamp": "00:39:43.120",
+      "text": "En revanche, je veux renégocier tous les traités pour qu'on refonde une Europe des coopérations respectant les nations."
+    },
+    {
+      "id": 383,
+      "start": 2383.12,
+      "end": 2388.82,
+      "start_timestamp": "00:39:43.120",
+      "end_timestamp": "00:39:48.820",
+      "text": "Le jour où ces gens arrivent au pouvoir, ils auront aucune légitimité pour agir vite et bien. Donc à partir de là,"
+    },
+    {
+      "id": 384,
+      "start": 2388.82,
+      "end": 2395.58,
+      "start_timestamp": "00:39:48.820",
+      "end_timestamp": "00:39:55.580",
+      "text": "vous avez 3 options. Ils trahissent comme eutsipras, ils se font virer comme Salvini, ou bien ils pataugent dans les intrigues"
+    },
+    {
+      "id": 385,
+      "start": 2395.58,
+      "end": 2401.06,
+      "start_timestamp": "00:39:55.580",
+      "end_timestamp": "00:40:01.060",
+      "text": "des européistes pendant des années comme les Brexiteurs anglais. Mais de toute façon, la question ne se pose pas,"
+    },
+    {
+      "id": 386,
+      "start": 2401.06,
+      "end": 2407.66,
+      "start_timestamp": "00:40:01.060",
+      "end_timestamp": "00:40:07.660",
+      "text": "parce qu'on peut douter de l'efficacité de la démarche. Est-ce que toutes ces ambiguïtés savantes leur ont permis d'être élues ? Non."
+    },
+    {
+      "id": 387,
+      "start": 2407.66,
+      "end": 2415.26,
+      "start_timestamp": "00:40:07.660",
+      "end_timestamp": "00:40:15.260",
+      "text": "Est-ce que ça permet de canaliser le vote contestataire qui est majoritaire aujourd'hui vers l'impasse des promesses d'autre Europe ? Oui."
+    },
+    {
+      "id": 388,
+      "start": 2415.3,
+      "end": 2421.22,
+      "start_timestamp": "00:40:15.300",
+      "end_timestamp": "00:40:21.220",
+      "text": "Et est-ce qu'ils font ça parce qu'ils acceptent de se soumettre à l'oligarchie qui tient les cordons de leur bourse et l'accès aux médias ?"
+    },
+    {
+      "id": 389,
+      "start": 2421.22,
+      "end": 2422.34,
+      "start_timestamp": "00:40:21.220",
+      "end_timestamp": "00:40:22.340",
+      "text": "Peut-être."
+    },
+    {
+      "id": 390,
+      "start": 2422.34,
+      "end": 2428.3,
+      "start_timestamp": "00:40:22.340",
+      "end_timestamp": "00:40:28.300",
+      "text": "— Comment expliquez-vous qu'on donne la parole, comme on dit à Filippo, c'est frais, mélenchon, etc."
+    },
+    {
+      "id": 391,
+      "start": 2428.3,
+      "end": 2432.52,
+      "start_timestamp": "00:40:28.300",
+      "end_timestamp": "00:40:32.520",
+      "text": "On les voit plus, effectivement, que des participants d'UPR à la télévision. Mais comment expliquez-vous ça ?"
+    },
+    {
+      "id": 392,
+      "start": 2432.52,
+      "end": 2435.82,
+      "start_timestamp": "00:40:32.520",
+      "end_timestamp": "00:40:35.820",
+      "text": "— Alors... — On vous appelle, on vous répond pas, on vous refuse..."
+    },
+    {
+      "id": 393,
+      "start": 2435.82,
+      "end": 2439.66,
+      "start_timestamp": "00:40:35.820",
+      "end_timestamp": "00:40:39.660",
+      "text": "— Oui. Vous demanderez à nos attachés de presse. Vous verrez comment ça se passe."
+    },
+    {
+      "id": 394,
+      "start": 2439.7,
+      "end": 2443.74,
+      "start_timestamp": "00:40:39.700",
+      "end_timestamp": "00:40:43.740",
+      "text": "— Qu'est-ce qu'on vous dit ? — Quand on appelle M. Apatit, de France Info, qui dit..."
+    },
+    {
+      "id": 395,
+      "start": 2443.74,
+      "end": 2446.94,
+      "start_timestamp": "00:40:43.740",
+      "end_timestamp": "00:40:46.940",
+      "text": "Non, je ne donnerai pas la parole à M. Asselineau jusqu'en 2022, s'il y a ces parrainages."
+    },
+    {
+      "id": 396,
+      "start": 2446.94,
+      "end": 2449.62,
+      "start_timestamp": "00:40:46.940",
+      "end_timestamp": "00:40:49.620",
+      "text": "— Il l'a dit explicitement, comme ça ? — Oui. Il l'a dit explicitement."
+    },
+    {
+      "id": 397,
+      "start": 2449.62,
+      "end": 2455.46,
+      "start_timestamp": "00:40:49.620",
+      "end_timestamp": "00:40:55.460",
+      "text": "On a une équipe de télévision qui a dit à notre candidat dans le territoire de Belfort, qui est venu le voir..."
+    },
+    {
+      "id": 398,
+      "start": 2455.46,
+      "end": 2459.34,
+      "start_timestamp": "00:40:55.460",
+      "end_timestamp": "00:40:59.340",
+      "text": "C'est quoi, vous, l'UPR ? Ah non. On a des instructions parées. Elle a dit..."
+    },
+    {
+      "id": 399,
+      "start": 2459.34,
+      "end": 2464.1,
+      "start_timestamp": "00:40:59.340",
+      "end_timestamp": "00:41:04.100",
+      "text": "— Et quels sont les motifs ? — Mais il faut les chercher. Et c'est la raison pour laquelle je me permets d'insister..."
+    },
+    {
+      "id": 400,
+      "start": 2464.1,
+      "end": 2472.02,
+      "start_timestamp": "00:41:04.100",
+      "end_timestamp": "00:41:12.020",
+      "text": "Non, non, mais je me permets d'insister sur le fait que nous proposons de sortir de l'UE, de l'euro et de l'OTAN."
+    },
+    {
+      "id": 401,
+      "start": 2472.02,
+      "end": 2477.62,
+      "start_timestamp": "00:41:12.020",
+      "end_timestamp": "00:41:17.620",
+      "text": "Et que nous sommes le seul... Alors certes, il y a des gens qui disent oui, il y a le Pardem, le PRCF... D'accord."
+    },
+    {
+      "id": 402,
+      "start": 2477.62,
+      "end": 2483.86,
+      "start_timestamp": "00:41:17.620",
+      "end_timestamp": "00:41:23.860",
+      "text": "Mais ce sont des mouvements politiques qui, d'ailleurs, se sont créés après l'UPR et qui... Voyons la Bonne Affaire et aussi l'action française."
+    },
+    {
+      "id": 403,
+      "start": 2483.86,
+      "end": 2488.94,
+      "start_timestamp": "00:41:23.860",
+      "end_timestamp": "00:41:28.940",
+      "text": "Donc il y a un certain nombre de gens, maintenant, qui essaient de reprendre le truc. Mais le seul parti politique"
+    },
+    {
+      "id": 404,
+      "start": 2488.94,
+      "end": 2495.46,
+      "start_timestamp": "00:41:28.940",
+      "end_timestamp": "00:41:35.460",
+      "text": "qui a été présent à l'élection présidentielle... Pas un parti, c'est un homme, mais... Et aux élections législatives qui ont été présentes,"
+    },
+    {
+      "id": 405,
+      "start": 2495.46,
+      "end": 2502.46,
+      "start_timestamp": "00:41:35.460",
+      "end_timestamp": "00:41:42.460",
+      "text": "c'est nous qui avons franchi ce mur de verre de la société française. Un jour, je vous raconterai, mais pas filmé,"
+    },
+    {
+      "id": 406,
+      "start": 2502.46,
+      "end": 2509.26,
+      "start_timestamp": "00:41:42.460",
+      "end_timestamp": "00:41:49.260",
+      "text": "comment j'ai eu des émissaires nocturnes qui ont venu me dire, écoutez, allez, dites que vous êtes pour une autre Europe. Ça m'énervait des choses."
+    },
+    {
+      "id": 407,
+      "start": 2509.26,
+      "end": 2518.9,
+      "start_timestamp": "00:41:49.260",
+      "end_timestamp": "00:41:58.900",
+      "text": "— À ce point ? — Oui ! Comme ça, dans la société française. — D'accord. — Pourquoi est-il en France cette espèce de blocage"
+    },
+    {
+      "id": 408,
+      "start": 2518.9,
+      "end": 2523.66,
+      "start_timestamp": "00:41:58.900",
+      "end_timestamp": "00:42:03.660",
+      "text": "que vous ne trouvez à l'évidence pas au Royaume-Uni ? Au Royaume-Uni, il y avait les partisans du Brexit. Ils disaient pas"
+    },
+    {
+      "id": 409,
+      "start": 2523.66,
+      "end": 2530.34,
+      "start_timestamp": "00:42:03.660",
+      "end_timestamp": "00:42:10.340",
+      "text": "« on va être pour another Europe ». Ça marchait pas. — Que les élites font. — Bon. On va peut-être pas attendre que l'opposition installée"
+    },
+    {
+      "id": 410,
+      "start": 2530.34,
+      "end": 2536.06,
+      "start_timestamp": "00:42:10.340",
+      "end_timestamp": "00:42:16.060",
+      "text": "se fasse griffer une colonne vertébrale. Et justement, on aurait pu espérer que des gens en dehors du système électoral"
+    },
+    {
+      "id": 411,
+      "start": 2536.06,
+      "end": 2541.34,
+      "start_timestamp": "00:42:16.060",
+      "end_timestamp": "00:42:21.340",
+      "text": "seraient plus libres de parler de la sortie de l'UE et de l'euro, d'en faire la promotion, d'expliquer les problèmes"
+    },
+    {
+      "id": 412,
+      "start": 2541.34,
+      "end": 2548.82,
+      "start_timestamp": "00:42:21.340",
+      "end_timestamp": "00:42:28.820",
+      "text": "et puis de proposer des solutions. Alors il y en a quelques-uns. Je pense à des gens comme Jacques Sapir, Etienne Chouard, Emmanuel Todd,"
+    },
+    {
+      "id": 413,
+      "start": 2548.82,
+      "end": 2554.78,
+      "start_timestamp": "00:42:28.820",
+      "end_timestamp": "00:42:34.780",
+      "text": "ou même plus récemment Olivier Delamarche. Mais c'est vrai que ça reste compliqué d'aborder ce sujet dans les médias."
+    },
+    {
+      "id": 414,
+      "start": 2554.78,
+      "end": 2559.5,
+      "start_timestamp": "00:42:34.780",
+      "end_timestamp": "00:42:39.500",
+      "text": "— C'est la même chose, malheureusement, sur tous les sujets. — Mais quelle mesure on propose ? — Aujourd'hui... Alors, je vais vous..."
+    },
+    {
+      "id": 415,
+      "start": 2559.5,
+      "end": 2562.46,
+      "start_timestamp": "00:42:39.500",
+      "end_timestamp": "00:42:42.460",
+      "text": "— Concrètement, je vais vous poser pas de questions, mais concrètement, vous proposez quoi ? — Je vais vous donner un vrai sujet aussi."
+    },
+    {
+      "id": 416,
+      "start": 2562.46,
+      "end": 2567.66,
+      "start_timestamp": "00:42:42.460",
+      "end_timestamp": "00:42:47.660",
+      "text": "— Quelle mesure on propose ? — Et qui est exactement le même. Le sujet de l'euro. Aujourd'hui, tous les économistes sont d'accord"
+    },
+    {
+      "id": 417,
+      "start": 2567.66,
+      "end": 2573.58,
+      "start_timestamp": "00:42:47.660",
+      "end_timestamp": "00:42:53.580",
+      "text": "pour vous dire que l'euro ne fonctionne pas. Qu'est-ce qu'on fait ? Eh ben on continue. Parce qu'on veut pas réunir"
+    },
+    {
+      "id": 418,
+      "start": 2573.58,
+      "end": 2579.94,
+      "start_timestamp": "00:42:53.580",
+      "end_timestamp": "00:42:59.940",
+      "text": "un certain nombre de gens autour de la table en se disant, comment peut-on sortir en limitant les dégâts ?"
+    },
+    {
+      "id": 419,
+      "start": 2579.94,
+      "end": 2585.66,
+      "start_timestamp": "00:42:59.940",
+      "end_timestamp": "00:43:05.660",
+      "text": "C'est ça, le problème de l'euro. En limitant les dégâts. Mais ne me regardez pas comme si j'étais un aérien."
+    },
+    {
+      "id": 420,
+      "start": 2585.66,
+      "end": 2592.98,
+      "start_timestamp": "00:43:05.660",
+      "end_timestamp": "00:43:12.980",
+      "text": "Tous les économistes, aujourd'hui, même les plus grands, se disent... — Si on n'avait pas l'euro, on serait à la ramasse depuis très très longtemps."
+    },
+    {
+      "id": 421,
+      "start": 2592.98,
+      "end": 2600.54,
+      "start_timestamp": "00:43:12.980",
+      "end_timestamp": "00:43:20.540",
+      "text": "— Non, l'euro nous a mis à la ramasse. Alors arrêtons là-dessus. Mais vous êtes... On est toujours... On est toujours..."
+    },
+    {
+      "id": 422,
+      "start": 2600.7,
+      "end": 2606.7,
+      "start_timestamp": "00:43:20.700",
+      "end_timestamp": "00:43:26.700",
+      "text": "Vu le mur de bigoterie auquel on se heurte dans les médias quand il faut parler de la sortie de l'euro, on peut comprendre"
+    },
+    {
+      "id": 423,
+      "start": 2606.7,
+      "end": 2612.78,
+      "start_timestamp": "00:43:26.700",
+      "end_timestamp": "00:43:32.780",
+      "text": "que certains soient un peu timides. Je pense à des gens comme Onfray, Montebourg, Charles Gave, ou même des représentants"
+    },
+    {
+      "id": 424,
+      "start": 2612.78,
+      "end": 2619.3,
+      "start_timestamp": "00:43:32.780",
+      "end_timestamp": "00:43:39.300",
+      "text": "des Gilets jaunes comme François Boulot. Alors c'est vrai que lui, il fait pas mal de pédagogie sur le rôle de l'UE dans nos emmerdes."
+    },
+    {
+      "id": 425,
+      "start": 2619.3,
+      "end": 2626.46,
+      "start_timestamp": "00:43:39.300",
+      "end_timestamp": "00:43:46.460",
+      "text": "Mais niveau solution, il continue de proposer une autre Europe auquel il ne croit pas lui-même. Et ça, c'est un problème."
+    },
+    {
+      "id": 426,
+      "start": 2626.54,
+      "end": 2633.74,
+      "start_timestamp": "00:43:46.540",
+      "end_timestamp": "00:43:53.740",
+      "text": "Il y en a beaucoup qui sont, je ne sais pourquoi, parce qu'il y a un parti politique que j'estime beaucoup parce qu'il fait la critique"
+    },
+    {
+      "id": 427,
+      "start": 2633.74,
+      "end": 2642.7,
+      "start_timestamp": "00:43:53.740",
+      "end_timestamp": "00:44:02.700",
+      "text": "des crédités européens et dans une critique argumentée qui est sur l'article 50 et le Frexit. Bon."
+    },
+    {
+      "id": 428,
+      "start": 2642.7,
+      "end": 2649.74,
+      "start_timestamp": "00:44:02.700",
+      "end_timestamp": "00:44:09.740",
+      "text": "Je pense, premièrement, qu'effectivement, ce terme de Frexit n'est pas adapté juste dans la terminologie."
+    },
+    {
+      "id": 429,
+      "start": 2649.74,
+      "end": 2654.38,
+      "start_timestamp": "00:44:09.740",
+      "end_timestamp": "00:44:14.380",
+      "text": "Je ne parle que de terminologie, je ne parle pas de mise en oeuvre de l'article 50 ou pas, mais du Frexit."
+    },
+    {
+      "id": 430,
+      "start": 2654.46,
+      "end": 2663.98,
+      "start_timestamp": "00:44:14.460",
+      "end_timestamp": "00:44:23.980",
+      "text": "Parce qu'effectivement, ça donne le sentiment d'un rôle binationaliste, qu'on va s'isoler. C'est comme ça qu'il est, c'est comme ça qu'il est, attendez-moi."
+    },
+    {
+      "id": 431,
+      "start": 2665.98,
+      "end": 2675.02,
+      "start_timestamp": "00:44:25.980",
+      "end_timestamp": "00:44:35.020",
+      "text": "Je vous parle en termes de stratégie. Voilà, c'est qu'en fait, l'opinion publique, il faut bien comprendre que ça fait des années et des années,"
+    },
+    {
+      "id": 432,
+      "start": 2675.02,
+      "end": 2683.5,
+      "start_timestamp": "00:44:35.020",
+      "end_timestamp": "00:44:43.500",
+      "text": "qu'effectivement, on nous met dans un tina. Il n'y a pas d'alternative possible. Et si vous sortez des traites européens et de l'UE, c'est le chaos."
+    },
+    {
+      "id": 433,
+      "start": 2683.58,
+      "end": 2692.14,
+      "start_timestamp": "00:44:43.580",
+      "end_timestamp": "00:44:52.140",
+      "text": "Voilà ce qui est dit, et on fait peur aux gens avec ça. Et en fait, du coup, le Frexit, pur et simple, aujourd'hui, je ne suis pas du tout certain"
+    },
+    {
+      "id": 434,
+      "start": 2692.14,
+      "end": 2699.98,
+      "start_timestamp": "00:44:52.140",
+      "end_timestamp": "00:44:59.980",
+      "text": "que ça emporte une majorité dans l'opinion publique. Donc c'est pour ça que je proposais, fédérons-nous sur une chose, la sortie des traités européens."
+    },
+    {
+      "id": 435,
+      "start": 2699.98,
+      "end": 2702.98,
+      "start_timestamp": "00:44:59.980",
+      "end_timestamp": "00:45:02.980",
+      "text": "Ça, c'est sûr, on ne peut pas rester dans les traités."
+    },
+    {
+      "id": 436,
+      "start": 2702.98,
+      "end": 2706.14,
+      "start_timestamp": "00:45:02.980",
+      "end_timestamp": "00:45:06.140",
+      "text": "Ça veut rien dire. Ça veut rien dire."
+    },
+    {
+      "id": 437,
+      "start": 2706.14,
+      "end": 2710.5,
+      "start_timestamp": "00:45:06.140",
+      "end_timestamp": "00:45:10.500",
+      "text": "Ces gens t'expliquent qu'il faut pas parler de Frexit parce que ça fait peur aux gens à cause de la propagande."
+    },
+    {
+      "id": 438,
+      "start": 2710.5,
+      "end": 2719.42,
+      "start_timestamp": "00:45:10.500",
+      "end_timestamp": "00:45:19.420",
+      "text": "Mais eux-mêmes ne font pas beaucoup d'efforts pour contrer cette propagande. Et pire, ils la confirment à l'envie en répétant que le Frexit est une annerie, par exemple."
+    },
+    {
+      "id": 439,
+      "start": 2719.42,
+      "end": 2726.06,
+      "start_timestamp": "00:45:19.420",
+      "end_timestamp": "00:45:26.060",
+      "text": "Ben écoutez, je vais vous répondre très rapidement. Le Frexit, c'est une annerie. Si je peux me permettre, ce qu'il faut faire, c'est le bruxit."
+    },
+    {
+      "id": 440,
+      "start": 2726.06,
+      "end": 2729.34,
+      "start_timestamp": "00:45:26.060",
+      "end_timestamp": "00:45:29.340",
+      "text": "Ils finissent même par répéter la propagande qu'ils dénonçaient."
+    },
+    {
+      "id": 441,
+      "start": 2730.34,
+      "end": 2739.18,
+      "start_timestamp": "00:45:30.340",
+      "end_timestamp": "00:45:39.180",
+      "text": "Je partage tout à fait l'argument de ceux qui sont au Frexit et qui nous disent qu'on ne peut pas changer des traités puisqu'il y a 27 paiements et on obtiendra donc jamais une unanimité."
+    },
+    {
+      "id": 442,
+      "start": 2739.18,
+      "end": 2741.02,
+      "start_timestamp": "00:45:39.180",
+      "end_timestamp": "00:45:41.020",
+      "text": "On est tout à fait d'accord."
+    },
+    {
+      "id": 443,
+      "start": 2741.02,
+      "end": 2747.58,
+      "start_timestamp": "00:45:41.020",
+      "end_timestamp": "00:45:47.580",
+      "text": "Maintenant, la question qui se pose, c'est qu'à partir du moment où on mettait le pied dans la porte pour sortir des traités, le sujet n'est pas juridique."
+    },
+    {
+      "id": 444,
+      "start": 2747.58,
+      "end": 2753.62,
+      "start_timestamp": "00:45:47.580",
+      "end_timestamp": "00:45:53.620",
+      "text": "Il est économique. Il est commercial. Il y a la question de la réponse des marchés financiers. Comment vont-ils réagir ?"
+    },
+    {
+      "id": 445,
+      "start": 2753.62,
+      "end": 2759.9,
+      "start_timestamp": "00:45:53.620",
+      "end_timestamp": "00:45:59.900",
+      "text": "Comment on fait pour assurer la transition avec la monnaie ? Parce que si on n'a pas assuré la transition pour pouvoir émettre de l'argent"
+    },
+    {
+      "id": 446,
+      "start": 2759.9,
+      "end": 2767.34,
+      "start_timestamp": "00:45:59.900",
+      "end_timestamp": "00:46:07.340",
+      "text": "à la banque centrale, ils vont nous menacer en tout cas et peut-être même nous augmenter nos taux d'intérêt. Donc il faut s'y préparer."
+    },
+    {
+      "id": 447,
+      "start": 2767.34,
+      "end": 2771.38,
+      "start_timestamp": "00:46:07.340",
+      "end_timestamp": "00:46:11.380",
+      "text": "Ensuite, on va avoir effectivement l'Allemagne qui va réagir."
+    },
+    {
+      "id": 448,
+      "start": 2771.38,
+      "end": 2777.02,
+      "start_timestamp": "00:46:11.380",
+      "end_timestamp": "00:46:17.020",
+      "text": "Toutes ces questions sont intéressantes et importantes. Mais on est d'accord qu'ils ne les posent pas pour qu'on en discute."
+    },
+    {
+      "id": 449,
+      "start": 2777.02,
+      "end": 2784.82,
+      "start_timestamp": "00:46:17.020",
+      "end_timestamp": "00:46:24.820",
+      "text": "Il les brandit comme de bonnes raisons pour ne pas parler du Frexit, tel l'éditorialiste moyen sur BFM. Bon, au moins, il est raccord"
+    },
+    {
+      "id": 450,
+      "start": 2784.82,
+      "end": 2792.82,
+      "start_timestamp": "00:46:24.820",
+      "end_timestamp": "00:46:32.820",
+      "text": "avec le thème, parce que des fois, ça part en couille. Il y en a qui sont prêts à dire n'importe quoi pour détourner les gens des nécessités."
+    },
+    {
+      "id": 451,
+      "start": 2792.82,
+      "end": 2798.78,
+      "start_timestamp": "00:46:32.820",
+      "end_timestamp": "00:46:38.780",
+      "text": "Je veux dire que je suis un peu tombé de ma chaise quand j'ai entendu un certain Hakim Lowy, le fondateur d'Objectif RIC,"
+    },
+    {
+      "id": 452,
+      "start": 2798.78,
+      "end": 2806.86,
+      "start_timestamp": "00:46:38.780",
+      "end_timestamp": "00:46:46.860",
+      "text": "affirmer dans une réunion publique de Gilets jaunes que le Brexit allait durer des décennies parce que ce serait très long de détricoter Airbus."
+    },
+    {
+      "id": 453,
+      "start": 2806.86,
+      "end": 2808.94,
+      "start_timestamp": "00:46:46.860",
+      "end_timestamp": "00:46:48.940",
+      "text": "Donc il ne faut pas le faire."
+    },
+    {
+      "id": 454,
+      "start": 2836.86,
+      "end": 2843.42,
+      "start_timestamp": "00:47:16.860",
+      "end_timestamp": "00:47:23.420",
+      "text": "J'attends de sortir de l'Europe pour mettre un RIC en place. Bon bah alors vraiment, je pense que la France, on a déjà pas fait"
+    },
+    {
+      "id": 455,
+      "start": 2843.42,
+      "end": 2849.9,
+      "start_timestamp": "00:47:23.420",
+      "end_timestamp": "00:47:29.900",
+      "text": "un référendum pour en sortir, donc on n'y est pas. Ce qui veut dire qu'avant 20 ans, on discute encore du RIC, hein."
+    },
+    {
+      "id": 456,
+      "start": 2849.9,
+      "end": 2854.78,
+      "start_timestamp": "00:47:29.900",
+      "end_timestamp": "00:47:34.780",
+      "text": "— Pierre. — J'en tiens. — Comment est-il ? — Un champion du monde."
+    },
+    {
+      "id": 457,
+      "start": 2854.78,
+      "end": 2860.38,
+      "start_timestamp": "00:47:34.780",
+      "end_timestamp": "00:47:40.380",
+      "text": "Je voudrais pas rentrer dans le bashing, mais il y a quand même des limites au foutage de gueule. Le gars sait très bien qu'il est en train de mentir"
+    },
+    {
+      "id": 458,
+      "start": 2860.38,
+      "end": 2865.9,
+      "start_timestamp": "00:47:40.380",
+      "end_timestamp": "00:47:45.900",
+      "text": "à propos d'Airbus. Tout comme ceux qui vous proposent de changer l'Europe ou de désobéir aux traités savent très bien"
+    },
+    {
+      "id": 459,
+      "start": 2865.98,
+      "end": 2871.82,
+      "start_timestamp": "00:47:45.980",
+      "end_timestamp": "00:47:51.820",
+      "text": "que c'est des impasses auxquelles ils ne croient pas eux-mêmes, en plus. Ce qui est très malsain dans cette affaire, c'est qu'ils militent"
+    },
+    {
+      "id": 460,
+      "start": 2871.82,
+      "end": 2877.98,
+      "start_timestamp": "00:47:51.820",
+      "end_timestamp": "00:47:57.980",
+      "text": "à juste titre pour le RIC en contestant l'idée bourgeoise que le peuple serait trop con pour décider des sujets importants."
+    },
+    {
+      "id": 461,
+      "start": 2877.98,
+      "end": 2885.18,
+      "start_timestamp": "00:47:57.980",
+      "end_timestamp": "00:48:05.180",
+      "text": "Mais dès qu'il s'agit du Frexit, bah ils considèrent eux-mêmes que le peuple est trop con, trop apeuré pour arriver à comprendre son intérêt."
+    },
+    {
+      "id": 462,
+      "start": 2885.18,
+      "end": 2892.94,
+      "start_timestamp": "00:48:05.180",
+      "end_timestamp": "00:48:12.940",
+      "text": "— Le progrès, il ressemble furieusement à une dictature. C'est quand même extraordinaire. Donc c'est bien pour ça que nous, bon, assez pragmatiquement,"
+    },
+    {
+      "id": 463,
+      "start": 2893.02,
+      "end": 2897.58,
+      "start_timestamp": "00:48:13.020",
+      "end_timestamp": "00:48:17.580",
+      "text": "on demande le référendum d'initiative citoyenne. Oh là là, malheureux, vous n'y pensez pas, vous êtes le peuple, vous êtes complètement débile,"
+    },
+    {
+      "id": 464,
+      "start": 2897.58,
+      "end": 2906.54,
+      "start_timestamp": "00:48:17.580",
+      "end_timestamp": "00:48:26.540",
+      "text": "vous ne pourrez pas statuer sur ces questions. Bon, écoutez, vu le résultat que vous avez produit depuis 40 ans, a priori, on ne pourra pas faire pire que vous."
+    },
+    {
+      "id": 465,
+      "start": 2906.54,
+      "end": 2915.42,
+      "start_timestamp": "00:48:26.540",
+      "end_timestamp": "00:48:35.420",
+      "text": "A priori, on peut s'en tenir à cet argument-là. Et alors, moi, j'étais sur une chaîne d'information en continu, bien connue,"
+    },
+    {
+      "id": 466,
+      "start": 2915.42,
+      "end": 2922.06,
+      "start_timestamp": "00:48:35.420",
+      "end_timestamp": "00:48:42.060",
+      "text": "avec un présentateur reconnu pour sa subtilité et son sens de la modération. J'étais sur CNews."
+    },
+    {
+      "id": 467,
+      "start": 2923.34,
+      "end": 2933.42,
+      "start_timestamp": "00:48:43.340",
+      "end_timestamp": "00:48:53.420",
+      "text": "Et il me dit, mais comment ça, RIC ? Vous voulez rétablir la peine de mort ? Je lui dis, écoutez, franchement, je n'ai jamais entendu parler de la peine de mort"
+    },
+    {
+      "id": 468,
+      "start": 2933.42,
+      "end": 2939.18,
+      "start_timestamp": "00:48:53.420",
+      "end_timestamp": "00:48:59.180",
+      "text": "sur les ronds-points. Ah bah d'accord, alors à ce moment-là, on va faire un référendum sur l'euro, c'est ça que vous voulez."
+    },
+    {
+      "id": 469,
+      "start": 2939.18,
+      "end": 2949.74,
+      "start_timestamp": "00:48:59.180",
+      "end_timestamp": "00:49:09.740",
+      "text": "Bah pourquoi pas ? Je veux dire, c'est un sujet quand même, la gestion de la monnaie, etc. Bon, mais non, nous sommes trop cons pour pouvoir décider."
+    },
+    {
+      "id": 470,
+      "start": 2949.74,
+      "end": 2955.06,
+      "start_timestamp": "00:49:09.740",
+      "end_timestamp": "00:49:15.060",
+      "text": "Tiens, tiens, tiens. On peut faire un RIC sur l'euro, maintenant ? Il craint plus d'effrayer les gens ?"
+    },
+    {
+      "id": 471,
+      "start": 2955.06,
+      "end": 2961.1,
+      "start_timestamp": "00:49:15.060",
+      "end_timestamp": "00:49:21.100",
+      "text": "Vous voyez bien que toutes ces contradictions ne font que décrédibiliser ce qu'ils les font. Elles sont condamnables sur le plan moral"
+    },
+    {
+      "id": 472,
+      "start": 2961.1,
+      "end": 2968.9,
+      "start_timestamp": "00:49:21.100",
+      "end_timestamp": "00:49:28.900",
+      "text": "et contre-productives dans les faits. Parce que si personne ne pose jamais la question de la sortie de l'UE et de l'euro, alors personne ne débat jamais"
+    },
+    {
+      "id": 473,
+      "start": 2968.9,
+      "end": 2974.66,
+      "start_timestamp": "00:49:28.900",
+      "end_timestamp": "00:49:34.660",
+      "text": "de la méthode pour en sortir, des conséquences négatives et positives à en attendre et des solutions pour les gérer."
+    },
+    {
+      "id": 474,
+      "start": 2974.66,
+      "end": 2981.38,
+      "start_timestamp": "00:49:34.660",
+      "end_timestamp": "00:49:41.380",
+      "text": "Et comme il n'y a pas de plan de sortie, l'inconnu fait peur aux gens et personne ne propose de sortir. C'est le serpent qui se mord la queue."
+    },
+    {
+      "id": 475,
+      "start": 2981.38,
+      "end": 2987.14,
+      "start_timestamp": "00:49:41.380",
+      "end_timestamp": "00:49:47.140",
+      "text": "Ça en est à tel point que la plupart des gens sont encore persuadés qu'on a plus davantage à rester dans l'UE et dans l'euro"
+    },
+    {
+      "id": 476,
+      "start": 2987.14,
+      "end": 2993.62,
+      "start_timestamp": "00:49:47.140",
+      "end_timestamp": "00:49:53.620",
+      "text": "qu'à en sortir. Résultat, ils passent leur temps à manifester contre les conséquences des causes qu'ils ne soutiennent"
+    },
+    {
+      "id": 477,
+      "start": 2993.62,
+      "end": 2999.3,
+      "start_timestamp": "00:49:53.620",
+      "end_timestamp": "00:49:59.300",
+      "text": "comme en ce moment avec la réforme des retraites. Cette réforme a été exigée par la Commission européenne"
+    },
+    {
+      "id": 478,
+      "start": 2999.3,
+      "end": 3004.66,
+      "start_timestamp": "00:49:59.300",
+      "end_timestamp": "00:50:04.660",
+      "text": "dans le but d'harmoniser les systèmes de retraite au niveau européen afin de maintenir la cohésion de l'euro."
+    },
+    {
+      "id": 479,
+      "start": 3004.66,
+      "end": 3008.18,
+      "start_timestamp": "00:50:04.660",
+      "end_timestamp": "00:50:08.180",
+      "text": "S'il n'y avait pas l'euro, on n'aurait jamais fait cette putain de réforme."
+    },
+    {
+      "id": 480,
+      "start": 3008.18,
+      "end": 3016.22,
+      "start_timestamp": "00:50:08.180",
+      "end_timestamp": "00:50:16.220",
+      "text": "« Pour nous, Français, c'est une chance. » On touche ici à l'un des points de blocage les plus importants de la politique française."
+    },
+    {
+      "id": 481,
+      "start": 3016.22,
+      "end": 3022.58,
+      "start_timestamp": "00:50:16.220",
+      "end_timestamp": "00:50:22.580",
+      "text": "En fait, la construction européenne et toutes les politiques mauvaises qui en découlent ne tiennent que par la somme des lâchetés"
+    },
+    {
+      "id": 482,
+      "start": 3022.58,
+      "end": 3028.66,
+      "start_timestamp": "00:50:22.580",
+      "end_timestamp": "00:50:28.660",
+      "text": "et des aveuglements de ses opposants. Il est grand temps que ces gens arrêtent de faire des propositions auxquelles ils ne croient pas eux-mêmes"
+    },
+    {
+      "id": 483,
+      "start": 3028.66,
+      "end": 3035.3,
+      "start_timestamp": "00:50:28.660",
+      "end_timestamp": "00:50:35.300",
+      "text": "et qu'ils osent dire que le Frexit est nécessaire pour que les Français puissent faire le deuil de ce projet et commencent à envisager la suite."
+    },
+    {
+      "id": 484,
+      "start": 3035.3,
+      "end": 3042.58,
+      "start_timestamp": "00:50:35.300",
+      "end_timestamp": "00:50:42.580",
+      "text": "Car si on est encore dans l'UE et dans l'euro à la prochaine crise, on le payera extrêmement cher."
+    },
+    {
+      "id": 485,
+      "start": 3042.58,
+      "end": 3047.86,
+      "start_timestamp": "00:50:42.580",
+      "end_timestamp": "00:50:47.860",
+      "text": "Rien ne sert de rester dans la zone euro si, lorsque vous faites face à un choc, ce dernier s'aggrave."
+    },
+    {
+      "id": 486,
+      "start": 3047.86,
+      "end": 3053.34,
+      "start_timestamp": "00:50:47.860",
+      "end_timestamp": "00:50:53.340",
+      "text": "Il serait coûteux de quitter l'euro, mais y rester est également très coûteux. Tout le monde le sait."
+    },
+    {
+      "id": 487,
+      "start": 3053.34,
+      "end": 3059.46,
+      "start_timestamp": "00:50:53.340",
+      "end_timestamp": "00:50:59.460",
+      "text": "L'absence totale de festivités pour commémorer les 20 ans de la plus belle réalisation de la construction européenne"
+    },
+    {
+      "id": 488,
+      "start": 3059.46,
+      "end": 3061.86,
+      "start_timestamp": "00:50:59.460",
+      "end_timestamp": "00:51:01.860",
+      "text": "en est l'aveu le plus éclatant."
+    },
+    {
+      "id": 489,
+      "start": 3061.86,
+      "end": 3069.98,
+      "start_timestamp": "00:51:01.860",
+      "end_timestamp": "00:51:09.980",
+      "text": "Moi, j'ai été dans des cabinets ministériels. Je sais ce que les ministres et les présidents disent lorsque les portes capitonnées sont fermées,"
+    },
+    {
+      "id": 490,
+      "start": 3069.98,
+      "end": 3077.82,
+      "start_timestamp": "00:51:09.980",
+      "end_timestamp": "00:51:17.820",
+      "text": "où on a toute une classe politique qui sait très bien que c'est un désastre, que ça ne marche pas, mais qui sait très bien que si jamais ils le disent,"
+    },
+    {
+      "id": 491,
+      "start": 3077.82,
+      "end": 3085.74,
+      "start_timestamp": "00:51:17.820",
+      "end_timestamp": "00:51:25.740",
+      "text": "alors ils sont flingués médiatiquement, morts politiquement. C'est ça, la réalité de la situation française."
+    },
+    {
+      "id": 492,
+      "start": 3085.74,
+      "end": 3095.54,
+      "start_timestamp": "00:51:25.740",
+      "end_timestamp": "00:51:35.540",
+      "text": "Vous avez vu, même Sarkozy, sur France Inter, c'était il y a une semaine. Il l'a avoué. Il a dit... Bon, il faut dire des choses telles qu'elles sont."
+    },
+    {
+      "id": 493,
+      "start": 3095.54,
+      "end": 3100.98,
+      "start_timestamp": "00:51:35.540",
+      "end_timestamp": "00:51:40.980",
+      "text": "Ça fait 60 ans de construction européenne. Ça marche plus. Il faut tout reprendre à zéro. Il l'a dit ou il l'a pas dit ?"
+    },
+    {
+      "id": 494,
+      "start": 3100.98,
+      "end": 3109.78,
+      "start_timestamp": "00:51:40.980",
+      "end_timestamp": "00:51:49.780",
+      "text": "Allez voir. Mais c'est dingue, quand vous y réfléchissez. Le débit dit, voilà, ça marche pas. Il faut tout reprendre à zéro."
+    },
+    {
+      "id": 495,
+      "start": 3109.78,
+      "end": 3117.86,
+      "start_timestamp": "00:51:49.780",
+      "end_timestamp": "00:51:57.860",
+      "text": "C'est vrai qu'un ancien président de la République dit ça. Ça nécessiterait quand même un petit débat. De même que Giscard, au moment des Européens, a dit"
+    },
+    {
+      "id": 496,
+      "start": 3117.86,
+      "end": 3130.63,
+      "start_timestamp": "00:51:57.860",
+      "end_timestamp": "00:52:10.630",
+      "text": "« De toute façon, le Parlement européen ne sert à rien ». C'est quand même pas rien. Non ? Je sais pas. On s'habitue à tout, remarquez. Mais bon."
+    },
+    {
+      "id": 497,
+      "start": 3130.63,
+      "end": 3136.55,
+      "start_timestamp": "00:52:10.630",
+      "end_timestamp": "00:52:16.550",
+      "text": "Si vous vous demandez ce qu'il faut faire pour éviter de prendre trop cher à l'échelle individuelle, allez jeter un œil sur la chaîne Grand Angle."
+    },
+    {
+      "id": 498,
+      "start": 3136.55,
+      "end": 3142.31,
+      "start_timestamp": "00:52:16.550",
+      "end_timestamp": "00:52:22.310",
+      "text": "Ils seront mieux vous expliqués que moi. En tout cas, je vous souhaite bonne chance dans le merdier qui s'annonce."
+    },
+    {
+      "id": 499,
+      "start": 3142.31,
+      "end": 3148.95,
+      "start_timestamp": "00:52:22.310",
+      "end_timestamp": "00:52:28.950",
+      "text": "C'est donc ici que se termine cette longue série sur l'euro, pour l'instant. Merci aux tipeurs qui m'ont permis de la réaliser."
+    },
+    {
+      "id": 500,
+      "start": 3148.95,
+      "end": 3156.87,
+      "start_timestamp": "00:52:28.950",
+      "end_timestamp": "00:52:36.870",
+      "text": "Et sachez que vous pouvez aussi financer mon travail en faisant un tour sur la boutique. D'ailleurs, le t-shirt commémoratif de la série sera bientôt disponible,"
+    },
+    {
+      "id": 501,
+      "start": 3156.87,
+      "end": 3163.51,
+      "start_timestamp": "00:52:36.870",
+      "end_timestamp": "00:52:43.510",
+      "text": "en édition limitée. Merci aussi à Gilles de la chaîne Eureka, qui m'a permis de comprendre deux, trois petits trucs."
+    },
+    {
+      "id": 502,
+      "start": 3163.51,
+      "end": 3169.59,
+      "start_timestamp": "00:52:43.510",
+      "end_timestamp": "00:52:49.590",
+      "text": "Et merci à l'équipe du Discord qui sous-titre toutes ces vidéos. D'ailleurs, si le cœur vous en dit, vous pouvez traduire ces sous-titres"
+    },
+    {
+      "id": 503,
+      "start": 3169.59,
+      "end": 3175.55,
+      "start_timestamp": "00:52:49.590",
+      "end_timestamp": "00:52:55.550",
+      "text": "pour rendre cette série disponible dans les 24 langues officielles de l'UE. Ah, c'est tellement pratique."
+    },
+    {
+      "id": 504,
+      "start": 3175.55,
+      "end": 3179.71,
+      "start_timestamp": "00:52:55.550",
+      "end_timestamp": "00:52:59.710",
+      "text": "Sur ce, merci d'avoir regardé cette série jusqu'au bout. Et à la prochaine."
+    }
+  ]
+}

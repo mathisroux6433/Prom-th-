@@ -1,0 +1,372 @@
+Rédige une synthèse documentaire exhaustive en Markdown à partir des seules sources ci-dessous.
+Ne vérifie pas les affirmations à l'extérieur et ne les transforme pas en faits établis. Distingue explicitement les propos de l'auteur, les personnes ou documents cités, les hypothèses et les incertitudes. N'invente rien.
+
+Le document doit contenir le titre, l'auteur ou la chaîne, la date et l'URL, puis l'objet général et la thèse, des chapitres et sous-chapitres, tous les arguments importants, exemples, chiffres et liens logiques, et une conclusion fidèle. Ajoute des horodatages cliquables vers la vidéo. Toute citation entre guillemets doit être exactement vérifiable dans la transcription. Utilise l'index comme contrôle de couverture, sans recopier mécaniquement ses listes. La synthèse doit rester détaillée même pour une vidéo longue et dense.
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "yLEmwlm6VS8",
+  "title": "[20ans de l’€] -1- Une chance pour la France.",
+  "channel": "Trouble Fait",
+  "channel_id": "UCynFUJ4zUVuh3GX7bABTjGQ",
+  "upload_date": "20191025",
+  "duration_seconds": 604,
+  "webpage_url": "https://www.youtube.com/watch?v=yLEmwlm6VS8",
+  "description": "Ça fait 20ans cette année que la France utilise l’euro et rappelez-vous qu’à son introduction on nous avait fait un paquet de promesses. Seulement avec le recul du temps et la crise de l’euro, plus personne n’ose affirmer qu’il est une source d’emploi, d’investissement et de prix bas. C’est plutôt l’inverse qu’on a constaté.\n\nLien vers la playlist de la série :\nhttps://www.youtube.com/playlist?list=PLRFRwS8s4qMrKCLG2RtIBlDWwENzWODd1\n\nTipeee : https://www.tipeee.com/troublefait\nDiscord : https://discordapp.com/invite/FcbJ8vU\nFacebook : https://www.facebook.com/1TroubleFait\nTwitter : https://twitter.com/1TroubleFait\n\nPlus d’infos :\n\nLes voeux du président Jacques CHIRAC aux français 1998 : https://www.youtube.com/watch?v=6jbzgbrLnY4&t=1s\nDébat de l'entre-deux-tours : Marine Le Pen / Emmanuel Macron : https://www.youtube.com/watch?v=iOAbBdlWgz0\nEuro — Wikipédia\nhttps://fr.wikipedia.org/wiki/Euro\nCEP - Centrum für europäische Politik Details\nhttps://www.cep.eu/en/eu-topics/details/cep/20-years-of-the-euro-winners-and-losers.html\nAdopter l'euro sans réformer son économie a coûté cher à la France\nhttps://www.bfmtv.com/economie/adopter-l-euro-sans-reformer-son-economie-a-coute-cher-a-la-france-1640540.html#utm_medium=Social&utm_source=Twitter&Echobox=1551203820\nCoût de l'euro : un pognon de dingue ? \nhttps://francais.rt.com/economie/59763-cout-euro-pognon-dingue-sapir\n20 ans la triple calamité de l'euro - AgoraVox le média citoyen\nhttps://www.agoravox.fr/actualites/economie/article/20-ans-la-triple-calamite-de-l-212481\n\n\nMusiques :\nHalogen - U Got That : https://www.youtube.com/watch?v=9W6AN_eQeZo\nFunky Fella - Another 90's Anthem : https://www.youtube.com/watch?v=eNxNKjxmvug\nProleteR – Memories : https://www.youtube.com/watch?v=1pfBdrCfKAY\nPink Floyd - Money (Instrumental) : https://www.youtube.com/watch?v=zxHQVQR35OE\nGTO OST - Cosplay Mania : https://www.youtube.com/watch?v=guZFr8mLtgk\nGTO - One day record: https://www.youtube.com/watch?v=RRqEG70qM-k",
+  "language": "fr-FR"
+}
+
+INDEX DOCUMENTAIRE :
+{
+  "schema_version": "1.0",
+  "video_id": "yLEmwlm6VS8",
+  "resume_general": "Premier épisode d'une série critique sur les vingt ans de l'euro. L'auteur confronte les promesses françaises de choix, prix bas, investissement, emploi, stabilité et puissance aux estimations d'études qu'il présente comme montrant une forte perte de croissance. Il annonce que la série expliquera Target2, les déséquilibres internes de la zone euro, les scénarios de sortie et les coûts qu'il attribue à la monnaie unique. Il expose explicitement son opinion favorable à une sortie de l'Union européenne et de l'euro et reconnaît employer des raccourcis pédagogiques.",
+  "themes_principaux": [
+    {
+      "theme": "Bilan critique de vingt ans d'euro",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:01:47",
+        "00:02:11"
+      ]
+    },
+    {
+      "theme": "Promesses initiales et coûts allégués",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:02",
+        "00:02:11"
+      ]
+    },
+    {
+      "theme": "Fragilité de l'euro et soldes Target2",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:05:51",
+        "00:06:44"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    {
+      "sujet": "Débat politique sur le retour au franc",
+      "horodatages": [
+        "00:04:18"
+      ]
+    },
+    {
+      "sujet": "Zone monétaire optimale",
+      "horodatages": [
+        "00:08:03"
+      ]
+    },
+    {
+      "sujet": "Plans de sortie allemand et italien",
+      "horodatages": [
+        "00:08:12"
+      ]
+    },
+    {
+      "sujet": "Position politique et limites méthodologiques de l'auteur",
+      "horodatages": [
+        "00:08:32"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "euro",
+    "France",
+    "croissance",
+    "pouvoir d'achat",
+    "inflation",
+    "emploi",
+    "investissement",
+    "Target2",
+    "zone euro",
+    "austérité",
+    "sortie de l'euro",
+    "franc",
+    "convergence"
+  ],
+  "variantes_lexicales": [
+    {
+      "forme": "Target2",
+      "variantes": [
+        "Target",
+        "soldes Target",
+        "dettes et créances Target"
+      ]
+    },
+    {
+      "forme": "sortie de l'euro",
+      "variantes": [
+        "retour au franc",
+        "démantèlement de la zone euro"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Jacques Chirac",
+      "niveau": "developpe",
+      "role": "auteur du discours initial favorable à l'euro",
+      "horodatages": [
+        "00:00:02"
+      ]
+    },
+    {
+      "nom": "Marine Le Pen",
+      "niveau": "mention",
+      "role": "intervenante de l'extrait sur la monnaie nationale",
+      "horodatages": [
+        "00:04:41"
+      ]
+    },
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "mention",
+      "role": "intervenant de l'extrait contradictoire",
+      "horodatages": [
+        "00:04:45"
+      ]
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Centrum für Europäische Politik (CEP)",
+      "niveau": "developpe",
+      "type": "auteur d'une estimation citée",
+      "horodatages": [
+        "00:02:11"
+      ]
+    },
+    {
+      "nom": "Union européenne",
+      "niveau": "developpe",
+      "type": "cadre politique critiqué",
+      "horodatages": [
+        "00:08:41"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "coût contrefactuel",
+      "explication": "écart entre PIB réel et PIB estimé sans euro dans les études citées",
+      "horodatages": [
+        "00:02:21"
+      ]
+    },
+    {
+      "nom": "convergence économique",
+      "explication": "rapprochement attendu des économies de la zone euro",
+      "horodatages": [
+        "00:06:32"
+      ]
+    },
+    {
+      "nom": "zone monétaire optimale",
+      "explication": "cadre annoncé pour expliquer les déséquilibres",
+      "horodatages": [
+        "00:08:03"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "introduction de l'euro",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:02",
+        "00:01:47"
+      ]
+    },
+    {
+      "nom": "crise de l'euro de 2011",
+      "niveau": "mention",
+      "horodatages": [
+        "00:06:03"
+      ]
+    },
+    {
+      "nom": "mouvement des Gilets jaunes",
+      "niveau": "mention",
+      "horodatages": [
+        "00:03:59"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:02",
+      "fin": "00:01:47",
+      "contenu": "discours de Jacques Chirac et promesses de l'euro"
+    },
+    {
+      "debut": "00:01:47",
+      "fin": "00:04:18",
+      "contenu": "bilan et estimations de pertes"
+    },
+    {
+      "debut": "00:04:18",
+      "fin": "00:05:51",
+      "contenu": "controverse politique sur le franc"
+    },
+    {
+      "debut": "00:05:51",
+      "fin": "00:09:49",
+      "contenu": "thèse de fragilité et programme de la série"
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "les promesses initiales sont comparées aux résultats observés",
+      "horodatage": "00:01:47"
+    },
+    {
+      "expression": "Target2 est présenté comme un indicateur de fuite monétaire Nord-Sud",
+      "horodatage": "00:06:44"
+    }
+  ],
+  "citations_exactes": [
+    {
+      "citation": "pour nous français c'est une chance",
+      "horodatage": "00:01:10"
+    },
+    {
+      "citation": "le chiffre n'est pas à prendre au pied de la lettre",
+      "horodatage": "00:04:07"
+    },
+    {
+      "citation": "cette série doit donc être considérée comme un défrichage",
+      "horodatage": "00:09:06"
+    }
+  ]
+}
+
+
+TRANSCRIPTION CORRIGÉE :
+[00:00:02.060 --> 00:00:45.250] l'euro ouvre une ère nouvelle l'euro va changer l'europe et d'abord les
+[00:00:45.250 --> 00:00:51.330] mentalités et je tiens ce soir à vous rendre hommage
+[00:00:51.330 --> 00:00:58.710] l'euro c'est d'abord le fruit de vos efforts et de vos succès c'est aussi
+[00:00:58.710 --> 00:01:06.030] l'expression de votre lucidité et de votre esprit d'ouverture car si vous ne
+[00:01:06.030 --> 00:01:10.790] l'aviez pas voulu si vous ne l'aviez pas rendu possible
+[00:01:10.790 --> 00:01:18.720] nous serions restés en dehors de cette grande aventure pour nous français c'est
+[00:01:18.720 --> 00:01:25.520] une chance l'euro nous apportera plus de choix dans nos achats des prix plus bas
+[00:01:25.520 --> 00:01:30.920] de nouvelles parts de marché de nouvelles possibilités d'investissement
+[00:01:30.920 --> 00:01:37.680] et donc d'emploi il nous apportera plus de stabilité dans un monde
+[00:01:37.680 --> 00:01:45.120] incertain plus de force face aux grands pôles économiques et politiques qui
+[00:01:45.120 --> 00:01:47.800] existent ou se développent sur la planète
+[00:01:47.800 --> 00:01:54.200] salut à tous ça fait 20 ans cette année que la france utilise l'euro et rappelez
+[00:01:54.200 --> 00:01:57.000] vous qu'à son introduction on nous avait fait un paquet de promesses
+[00:01:57.000 --> 00:02:01.800] seulement avec le recul du temps et un truc qu'on appelle la crise de l'euro
+[00:02:01.800 --> 00:02:05.800] bah plus personne nous affirmait qu'il est une source d'emploi d'investissement
+[00:02:05.800 --> 00:02:11.240] et de prix bas c'est plutôt l'inverse qu'on a constaté un rapport récent datant
+[00:02:11.240 --> 00:02:15.080] de février 2019 a estimé qu'une introduction de l'euro aurait coûté
+[00:02:15.080 --> 00:02:21.600] 56 000 euros à chaque français sur 20 ans soit 3600 milliards d'euros
+[00:02:21.720 --> 00:02:28.320] on voit qu'il y a un écart extrêmement important entre le PIB réel celui que
+[00:02:28.320 --> 00:02:33.880] l'on a effectivement et le PIB que l'on aurait pu avoir si on n'avait pas été
+[00:02:33.880 --> 00:02:37.080] dans l'euro vous le voyez au départ évidemment la différence est pas bien
+[00:02:37.080 --> 00:02:42.600] grande c'est normal mais en bout de course en 2018 elle est extrêmement
+[00:02:42.600 --> 00:02:49.400] importante on a retrouvé que d'un point de vue cumulé et bien on n'est pas très
+[00:02:49.400 --> 00:02:54.400] loin des chiffres qui sont donnés par le CEP cette étude donne un écart de
+[00:02:54.400 --> 00:03:01.520] croissance de 3300 milliards vous savez le cp il est arrivé à 3600 milliards
+[00:03:01.520 --> 00:03:05.920] donc ça veut dire que un écart de croissance de plus de 3000 milliards
+[00:03:05.920 --> 00:03:12.440] sur 20 ans c'est absolument crédible qu'est ce que ça veut dire 3000 milliards
+[00:03:12.440 --> 00:03:17.760] plus de 3000 milliards sur 20 ans ça représente grosso modo 50 000 euros
+[00:03:17.760 --> 00:03:22.920] cumulé évidemment pour chaque français depuis le bébé qui vient de
+[00:03:22.920 --> 00:03:27.840] naître jusqu'à la personne qui est très âgé et qui est à la retraite bien
+[00:03:27.840 --> 00:03:32.000] qu'est ce que ça veut dire 50 000 euros ça veut dire allez on va calculer ça
+[00:03:32.000 --> 00:03:37.080] rapidement ça veut dire 2500 euros par an probablement plus aujourd'hui puisque
+[00:03:37.080 --> 00:03:43.640] on voit bien que c'est très croissant 2500 euros par an ça veut dire 200 euros
+[00:03:43.640 --> 00:03:50.160] par mois mais 200 euros par mois ça représente plus de 15% du salaire
+[00:03:50.160 --> 00:03:54.680] mensuel d'un smicard ou de quelqu'un dont le salaire est à peu de choses pré au
+[00:03:54.680 --> 00:03:59.160] smic et là on se dit qu'il y a une vraie perte de pouvoir d'achat et on peut se
+[00:03:59.160 --> 00:04:03.880] demander est ce que cette perte de pouvoir d'achat elle n'est pas d'une
+[00:04:03.880 --> 00:04:07.720] certaine manière la cause profonde du mouvement des gilets jaunes
+[00:04:07.720 --> 00:04:11.560] évidemment le chiffre n'est pas à prendre au pied de la lettre ce qu'il
+[00:04:11.560 --> 00:04:14.920] faut retenir de cette étude c'est l'ordre de grandeur de l'écart entre les
+[00:04:14.920 --> 00:04:19.040] bénéficiaires et les lésés de l'euro ne pouvant plus promettent la
+[00:04:19.040 --> 00:04:22.480] prospérité les mêmes qui nous avaient vendu cette monnaie se contentent
+[00:04:22.480 --> 00:04:26.560] aujourd'hui de traiter de nazis ou de maréchalistes ceux qui la critiquent et
+[00:04:26.560 --> 00:04:30.080] ils affirment de façon complètement péremptoire que la france sombrerait
+[00:04:30.080 --> 00:04:34.840] dans le tiers monde si on avait l'idée saugrenue d'en sortir d'un autre côté
+[00:04:34.840 --> 00:04:39.080] les partisans de la sortie de l'euro les plus visibles dans les médias ne sont pas
+[00:04:39.080 --> 00:04:41.080] plus doués pour nous convaincre de les suivre
+[00:04:41.080 --> 00:04:45.480] il faut retrouver notre monnaie nationale donc on revient au franc c'est essentiel
+[00:04:45.480 --> 00:04:50.680] d'accord essentiel donc vous proposez bien de sortir de l'euro non je vais
+[00:04:50.680 --> 00:04:56.080] renégocier pour que l'euro on s'en libère et on le transforme en monnaie
+[00:04:56.080 --> 00:05:00.420] commune c'est ce qu'il a existé ce qu'il a il était avant qu'il devienne la
+[00:05:00.420 --> 00:05:03.280] monnaie de la france
+[00:05:03.280 --> 00:05:08.840] mais on paiera avec de l'euro que les choses soient très claires non on ne
+[00:05:08.840 --> 00:05:12.680] paiera pas avec de l'euro mais vous le savez bien les banques centrales paieront avec
+[00:05:12.680 --> 00:05:17.160] de l'euro si elles le souhaitent les grandes entreprises paieront avec l'euro
+[00:05:17.160 --> 00:05:19.480] si elles le souhaitent vous le savez très bien ça a existé donc il y aura deux monnaies
+[00:05:19.480 --> 00:05:23.480] non pas pour les français pas pour les particuliers pas pour les
+[00:05:23.480 --> 00:05:26.080] petites entreprises vous savez très bien n'essayez pas à quoi servira l'euro
+[00:05:26.080 --> 00:05:29.520] alors de créer cela mais à quoi servira l'euro c'est une monnaie connue c'est un
+[00:05:29.520 --> 00:05:36.000] panier de de de monnaie vous le savez encore une fois alors ça a existé car
+[00:05:36.000 --> 00:05:41.200] avant mais ça a existé juste avant l'euro juste avant que l'euro devienne
+[00:05:41.200 --> 00:05:47.120] notre monnaie bon physique en france et oui et oui et oui et oui c'est pas
+[00:05:47.120 --> 00:05:49.480] c'était l'euro
+[00:05:51.480 --> 00:05:55.680] moi c'est pas glorieux tout ça mais bon toute cette comédie politico-idéologique
+[00:05:55.680 --> 00:05:59.480] n'a déjà plus d'importance puisque l'euro va disparaître dans les
+[00:05:59.480 --> 00:06:03.800] années qui viennent pour des raisons techniques qu'on le veuille ou non bien
+[00:06:03.800 --> 00:06:06.920] sûr personne ne peut donner de date exacte déjà beaucoup pensaient que la
+[00:06:06.920 --> 00:06:10.960] crise de l'euro en 2011 avait sonné sa fin et ça n'a pas été le cas en fait
+[00:06:10.960 --> 00:06:14.680] tant qu'il y ait une volonté politique suffisamment forte on peut maintenir
+[00:06:14.680 --> 00:06:18.760] cette illusion longtemps mais pas indéfiniment et on verra au cours de
+[00:06:18.760 --> 00:06:22.680] cette série que l'édifice est déjà bien fissuré ce qui me donne à penser
+[00:06:22.680 --> 00:06:26.600] personnellement bien sûr qu'il y a très peu de chances pour que cette monnaie
+[00:06:26.600 --> 00:06:32.760] fête ses 30 ans alors pourquoi bah l'euro a déjà un pied dans la tombe
+[00:06:32.760 --> 00:06:35.960] parce que tout le monde peut constater qu'il a échoué à remplir ses objectifs
+[00:06:35.960 --> 00:06:39.760] officiels de croissance économique et de lutte contre l'inflation et ses
+[00:06:39.760 --> 00:06:44.960] objectifs officieux de convergence des économies de la zone euro c'est
+[00:06:44.960 --> 00:06:47.920] particulièrement visible depuis l'explosion des dettes et des créances
+[00:06:47.920 --> 00:06:51.320] target 2 qui vont constituer la pierre angulaire de la fin de l'euro
+[00:06:51.320 --> 00:06:55.320] non pas que le problème viennent des dettes Target en elle-même puisqu'elles
+[00:06:55.320 --> 00:06:59.720] ne sont pas des dettes au sens où on l'entend communément le problème est
+[00:06:59.720 --> 00:07:02.760] qu'elles indiquent une fuite massive de monnaies des pays du sud de la zone
+[00:07:02.760 --> 00:07:07.280] euro vers les pays du nord conduisant inéluctablement à une crise de la dette
+[00:07:07.280 --> 00:07:11.400] dans les pays du sud les condamnant à l'austérité perpétuelle ce qui
+[00:07:11.400 --> 00:07:16.520] terminera de pousser l'euro dans sa tombe bien sûr on peut toujours dire qu'une
+[00:07:16.520 --> 00:07:20.280] série de réformes pertinentes au niveau européen ou au niveau des états pourrait
+[00:07:20.280 --> 00:07:23.940] régler le problème sauf que les contradictions énormes entre les
+[00:07:23.940 --> 00:07:28.340] intérêts nationaux des états induisent une grosse différence entre vouloir et
+[00:07:28.340 --> 00:07:32.620] pouvoir ainsi le temps passe les choses restent comme elles sont conduisant tôt ou
+[00:07:32.620 --> 00:07:35.980] tard à la sortie d'un ou plusieurs états de la zone euro où elles sont
+[00:07:35.980 --> 00:07:39.300] démantèlement complets dans des conditions plus ou moins brutales
+[00:07:39.300 --> 00:07:44.260] cette série va donc se composer de sept autres vidéos les deux premières
+[00:07:44.260 --> 00:07:47.300] expliqueront comment se forment techniquement les dettes Target et
+[00:07:47.300 --> 00:07:50.900] pourquoi ce ne sont pas vraiment des dettes je vous préviens que si vous n'êtes
+[00:07:50.900 --> 00:07:54.500] pas familier de la création monétaire et que vous n'avez aucune notion de compta
+[00:07:54.500 --> 00:07:59.340] ça va vous paraître un peu technique mais bon il n'y a pas trop le choix
+[00:07:59.340 --> 00:08:03.660] les deux vidéos suivantes expliqueront l'impossibilité de corriger les
+[00:08:03.660 --> 00:08:07.720] déséquilibres économiques à l'origine de l'augmentation des soldes Target à
+[00:08:07.720 --> 00:08:12.260] travers le concept de zone monétaire optimale puis deux autres vidéos
+[00:08:12.260 --> 00:08:16.040] présenteront les plans de sortie de l'euro allemand et italien qui sont les
+[00:08:16.040 --> 00:08:18.860] plus d'actualité ainsi que leurs conséquences sur les
+[00:08:18.860 --> 00:08:24.260] targets en termes politique et monétaire et enfin une dernière vidéo fera la
+[00:08:24.260 --> 00:08:27.860] liste des bienfaits de l'euro pour la france c'est à dire de son coût
+[00:08:27.860 --> 00:08:32.100] énorme et du risque encore plus énorme qu'il nous fait courir en cas de crise
+[00:08:32.100 --> 00:08:37.620] économique majeure je tiens à préciser que cette série va mélanger des faits
+[00:08:37.620 --> 00:08:41.900] techniques des constats politiques et des opinions personnelles et vous n'êtes
+[00:08:41.900 --> 00:08:44.580] pas sans savoir que je suis très favorable à la sortie de l'union
+[00:08:44.580 --> 00:08:47.580] européenne et de l'euro pour autant je vais essayer de vous présenter la
+[00:08:47.580 --> 00:08:50.820] situation dans sa globalité garder aussi à l'esprit que le sujet des
+[00:08:50.820 --> 00:08:55.060] targets n'est pas le plus accessible au quidam tant par son aspect technique que
+[00:08:55.060 --> 00:08:58.700] par son manque d'information et de transparence donc pour que le sujet soit
+[00:08:58.700 --> 00:09:02.780] compréhensible de tous j'ai dû faire des raccourcis et des approximations que
+[00:09:02.780 --> 00:09:06.700] certains ne trouveront pas très académiques mais bon tant pis cette
+[00:09:06.700 --> 00:09:10.180] série doit donc être considérée comme un défrichage d'un sujet totalement
+[00:09:10.180 --> 00:09:13.860] absent du débat public mais qu'il est essentiel de comprendre maintenant pour
+[00:09:13.860 --> 00:09:16.620] pouvoir réagir correctement quand l'échafaudage nous tombera sur la
+[00:09:16.620 --> 00:09:21.460] tronche alors si les experts de l'euro veulent réagir à ces vidéos pour les
+[00:09:21.460 --> 00:09:26.420] commenter les corriger les approfondir leur remarque sont les bienvenus et si
+[00:09:26.420 --> 00:09:29.620] elles sont dans un format vidéo sur youtube je les ajouterai à la playlist
+[00:09:29.620 --> 00:09:34.260] de la série comme contribution au débat sur ce je vous donne rendez-vous dans 48
+[00:09:34.260 --> 00:09:37.340] heures pour le prochain épisode j'ai prévu de publier une vidéo tous les deux
+[00:09:37.340 --> 00:09:40.500] jours pour vous laisser le temps de les digérer une par une même si je pense
+[00:09:40.500 --> 00:09:42.900] que certaines sortiront plus tard vu qu'elles vont me demander plus de
+[00:09:42.900 --> 00:09:49.460] travail bref merci de m'avoir écouté et abonnez vous pour ne pas rater la suite

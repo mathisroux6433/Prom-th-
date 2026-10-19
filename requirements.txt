@@ -1,0 +1,10 @@
+# À installer dans un Python 3.10 à 3.13 (3.12 recommandé).
+yt-dlp>=2025.1.0
+faster-whisper>=1.1.0
+# faster-whisper 1.2.1 utilise un argument retiré dans PyAV 18/19.
+av<18
+
+# Runtime CUDA Windows isolé, aligné sur le pilote 555.97 / CUDA 12.5.
+nvidia-cublas-cu12==12.5.3.2; sys_platform == "win32"
+nvidia-cudnn-cu12==9.3.0.75; sys_platform == "win32"
+nvidia-cuda-nvrtc-cu12==12.5.82; sys_platform == "win32"

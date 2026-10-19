@@ -1,0 +1,865 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 10.45,
+      "end": 17.57,
+      "start_timestamp": "00:00:10.450",
+      "end_timestamp": "00:00:17.570",
+      "text": "Salut à tous. Dans l'épisode précédent, on a vu l'architecture complexe du système bancaire qui permet de faire circuler des euros"
+    },
+    {
+      "id": 1,
+      "start": 17.57,
+      "end": 23.27,
+      "start_timestamp": "00:00:17.570",
+      "end_timestamp": "00:00:23.270",
+      "text": "créés par différentes banques dans différents pays sans risquer de faire apparaître de faux bénéfices ou de fausses pertes"
+    },
+    {
+      "id": 2,
+      "start": 23.27,
+      "end": 30.93,
+      "start_timestamp": "00:00:23.270",
+      "end_timestamp": "00:00:30.930",
+      "text": "par le simple fait d'un transfert de la monnaie. Et aujourd'hui, on va voir comment tout ça a commencé à merder."
+    },
+    {
+      "id": 3,
+      "start": 30.93,
+      "end": 39.57,
+      "start_timestamp": "00:00:30.930",
+      "end_timestamp": "00:00:39.570",
+      "text": "– La Grèce a poussé un soupir de soulagement. Ils ont dit ouf, ça y est, on y est. Et ils ont complètement lâché la bride."
+    },
+    {
+      "id": 4,
+      "start": 39.57,
+      "end": 45.98,
+      "start_timestamp": "00:00:39.570",
+      "end_timestamp": "00:00:45.980",
+      "text": "C'est ça le problème."
+    },
+    {
+      "id": 5,
+      "start": 45.98,
+      "end": 54.18,
+      "start_timestamp": "00:00:45.980",
+      "end_timestamp": "00:00:54.180",
+      "text": "– Avec l'euro, une monnaie qui inspire confiance, les Grecs peuvent emprunter à tout va. Une vie à crédit, de l'argent facile."
+    },
+    {
+      "id": 6,
+      "start": 54.18,
+      "end": 59.3,
+      "start_timestamp": "00:00:54.180",
+      "end_timestamp": "00:00:59.300",
+      "text": "Athènes découvre à son tour les années friques."
+    },
+    {
+      "id": 7,
+      "start": 59.3,
+      "end": 65.1,
+      "start_timestamp": "00:00:59.300",
+      "end_timestamp": "00:01:05.100",
+      "text": "Jusqu'en 2008, l'euro a été une aubaine pour les pays du Sud. Les ménages et les entreprises ont pu s'endetter auprès de leurs banques"
+    },
+    {
+      "id": 8,
+      "start": 65.1,
+      "end": 72.26,
+      "start_timestamp": "00:01:05.100",
+      "end_timestamp": "00:01:12.260",
+      "text": "à faible taux pour consommer et investir. Le but était justement d'opérer un rattrapage économique de ces pays."
+    },
+    {
+      "id": 9,
+      "start": 72.26,
+      "end": 79.14,
+      "start_timestamp": "00:01:12.260",
+      "end_timestamp": "00:01:19.140",
+      "text": "– C'était vraiment un climat qui a duré pendant 5 ans, qui était vraiment un climat extraordinaire pour la Grèce."
+    },
+    {
+      "id": 10,
+      "start": 79.14,
+      "end": 88.38,
+      "start_timestamp": "00:01:19.140",
+      "end_timestamp": "00:01:28.380",
+      "text": "– On a pas acheté l'argent par le chnèvre. On l'a mis dans des forges, des vacances, des bateaux, de l'immobilier."
+    },
+    {
+      "id": 11,
+      "start": 88.38,
+      "end": 93.74,
+      "start_timestamp": "00:01:28.380",
+      "end_timestamp": "00:01:33.740",
+      "text": "Par leurs dépenses, une partie de cet argent atterrissait dans les pays du Nord. Tant que les agents économiques du Nord"
+    },
+    {
+      "id": 12,
+      "start": 93.74,
+      "end": 100.66,
+      "start_timestamp": "00:01:33.740",
+      "end_timestamp": "00:01:40.660",
+      "text": "renvoyaient vers le Sud une somme équivalente par la consommation et surtout par l'investissement, puisqu'il y avait des opportunités,"
+    },
+    {
+      "id": 13,
+      "start": 100.66,
+      "end": 107.3,
+      "start_timestamp": "00:01:40.660",
+      "end_timestamp": "00:01:47.300",
+      "text": "l'euro fonctionnait et le marché interbancaire aussi. Mais la confiance s'est envolée avec la crise des subprimes."
+    },
+    {
+      "id": 14,
+      "start": 107.3,
+      "end": 114.06,
+      "start_timestamp": "00:01:47.300",
+      "end_timestamp": "00:01:54.060",
+      "text": "Et les banques ont arrêté de se faire crédier entre elles de la monnaie centrale pour deux raisons. D'abord parce que les échanges Nord-Sud"
+    },
+    {
+      "id": 15,
+      "start": 114.06,
+      "end": 119.86,
+      "start_timestamp": "00:01:54.060",
+      "end_timestamp": "00:01:59.860",
+      "text": "ont commencé à se déséquilibrer. Les pays du Sud étant les plus exposés à la crise, les agents économiques du Nord"
+    },
+    {
+      "id": 16,
+      "start": 119.86,
+      "end": 125.94,
+      "start_timestamp": "00:01:59.860",
+      "end_timestamp": "00:02:05.940",
+      "text": "ont cessé d'investir dans ces pays et ont même commencé à rapatrier des capitaux, faisant apparaître une asymétrie"
+    },
+    {
+      "id": 17,
+      "start": 125.94,
+      "end": 133.38,
+      "start_timestamp": "00:02:05.940",
+      "end_timestamp": "00:02:13.380",
+      "text": "dans les échanges entre certains pays. Les soldes débiteurs des banques du Sud sur les banques du Nord augmentaient sans cesse,"
+    },
+    {
+      "id": 18,
+      "start": 133.38,
+      "end": 140.5,
+      "start_timestamp": "00:02:13.380",
+      "end_timestamp": "00:02:20.500",
+      "text": "mettant en danger les banques prêteuses. Et deuxièmement, à cause de la dispersion des subprimes dans l'économie par le processus"
+    },
+    {
+      "id": 19,
+      "start": 140.5,
+      "end": 147.14,
+      "start_timestamp": "00:02:20.500",
+      "end_timestamp": "00:02:27.140",
+      "text": "de la titrisation, un grand nombre d'actifs étaient devenus douteux, voire même totalement merdiques. Et même les obligations d'État"
+    },
+    {
+      "id": 20,
+      "start": 147.14,
+      "end": 153.7,
+      "start_timestamp": "00:02:27.140",
+      "end_timestamp": "00:02:33.700",
+      "text": "avaient subi une dépréciation suite à l'abaissement de leurs notes par les agences de notation. Les banques du Nord ont donc arrêté"
+    },
+    {
+      "id": 21,
+      "start": 153.7,
+      "end": 159.5,
+      "start_timestamp": "00:02:33.700",
+      "end_timestamp": "00:02:39.500",
+      "text": "de faire des avances de monnaie centrale aux banques du Sud. Et elles ont aussi refusé d'être payées avec des actifs"
+    },
+    {
+      "id": 22,
+      "start": 159.5,
+      "end": 166.02,
+      "start_timestamp": "00:02:39.500",
+      "end_timestamp": "00:02:46.020",
+      "text": "dont on était devenus incapables d'estimer la valeur réelle. Et comme je l'ai dit, s'échanger des actifs de différentes natures"
+    },
+    {
+      "id": 23,
+      "start": 166.02,
+      "end": 171.98,
+      "start_timestamp": "00:02:46.020",
+      "end_timestamp": "00:02:51.980",
+      "text": "n'est pas le plus pratique à grande échelle. Le marché interbancaire de la zone euro, comme ceux interne aux États,"
+    },
+    {
+      "id": 24,
+      "start": 171.98,
+      "end": 179.14,
+      "start_timestamp": "00:02:51.980",
+      "end_timestamp": "00:02:59.140",
+      "text": "ont donc cessé de fonctionner parce que les banques ne se faisaient plus confiance entre elles. Par conséquent, toutes les transactions"
+    },
+    {
+      "id": 25,
+      "start": 179.14,
+      "end": 186.62,
+      "start_timestamp": "00:02:59.140",
+      "end_timestamp": "00:03:06.620",
+      "text": "interbancaires de la zone euro se soldent maintenant par des transferts réels en monnaie centrale. Il a donc fallu augmenter le matelas."
+    },
+    {
+      "id": 26,
+      "start": 186.62,
+      "end": 193.94,
+      "start_timestamp": "00:03:06.620",
+      "end_timestamp": "00:03:13.940",
+      "text": "Pour maintenir la circulation de la monnaie, et donc l'existence de la zone euro, les banques centrales ont été obligées d'intervenir."
+    },
+    {
+      "id": 27,
+      "start": 193.94,
+      "end": 199.58,
+      "start_timestamp": "00:03:13.940",
+      "end_timestamp": "00:03:19.580",
+      "text": "Elles ont fourni un énorme matelas de monnaie centrale aux banques commerciales en rachetant les actifs pourris qu'elles ne voulaient plus"
+    },
+    {
+      "id": 28,
+      "start": 199.58,
+      "end": 205.42,
+      "start_timestamp": "00:03:19.580",
+      "end_timestamp": "00:03:25.420",
+      "text": "échanger entre elles. Et c'est ainsi que les banques centrales sont devenues les soldes intermédiaires des banques commerciales"
+    },
+    {
+      "id": 29,
+      "start": 205.42,
+      "end": 216.06,
+      "start_timestamp": "00:03:25.420",
+      "end_timestamp": "00:03:36.060",
+      "text": "dans les transferts entre banques et surtout entre États de la zone euro. C'est alors qu'apparaissent les soldes Target."
+    },
+    {
+      "id": 30,
+      "start": 216.06,
+      "end": 223.06,
+      "start_timestamp": "00:03:36.060",
+      "end_timestamp": "00:03:43.060",
+      "text": "Bon, maintenant qu'on a fait le point sur l'historique, voyons ce qui se passe dans notre exemple sans marché interbancaire."
+    },
+    {
+      "id": 31,
+      "start": 223.06,
+      "end": 229.3,
+      "start_timestamp": "00:03:43.060",
+      "end_timestamp": "00:03:49.300",
+      "text": "Prolovitch ordonne à la BNP un paiement chez un fournisseur qui a un compte en Allemagne. La BNP commence par détruire"
+    },
+    {
+      "id": 32,
+      "start": 229.3,
+      "end": 235.86,
+      "start_timestamp": "00:03:49.300",
+      "end_timestamp": "00:03:55.860",
+      "text": "100 € de monnaie BNP sur le compte de Prolovitch. Puis elle va donner ordre à la Banque de France de transférer 100 €"
+    },
+    {
+      "id": 33,
+      "start": 235.86,
+      "end": 242.14,
+      "start_timestamp": "00:03:55.860",
+      "end_timestamp": "00:04:02.140",
+      "text": "de monnaie centrale sur le compte de la Deutsche Bank. Le même schéma va se reproduire. La Banque de France va commencer"
+    },
+    {
+      "id": 34,
+      "start": 242.14,
+      "end": 248.5,
+      "start_timestamp": "00:04:02.140",
+      "end_timestamp": "00:04:08.500",
+      "text": "par détruire 100 € de monnaie Banque de France sur le compte de la BNP. Et elle va les transférer à la Bundesbank,"
+    },
+    {
+      "id": 35,
+      "start": 248.5,
+      "end": 255.54,
+      "start_timestamp": "00:04:08.500",
+      "end_timestamp": "00:04:15.540",
+      "text": "qui va pouvoir créer 100 € de monnaie centrale allemande crédité sur le compte de la Deutsche Bank. Avec cette nouvelle monnaie centrale,"
+    },
+    {
+      "id": 36,
+      "start": 255.54,
+      "end": 265.37,
+      "start_timestamp": "00:04:15.540",
+      "end_timestamp": "00:04:25.370",
+      "text": "la Deutsche Bank va pouvoir créditer le compte de son fournisseur de 100 € tant pis les Deutsche Bank. Et celui-ci va pouvoir livrer son client."
+    },
+    {
+      "id": 37,
+      "start": 265.37,
+      "end": 270.05,
+      "start_timestamp": "00:04:25.370",
+      "end_timestamp": "00:04:30.050",
+      "text": "Gardez en tête que la BCE sert d'intermédiaire entre les banques centrales. Mais je l'ai pas mis dans le schéma pour ne pas"
+    },
+    {
+      "id": 38,
+      "start": 270.05,
+      "end": 277.73,
+      "start_timestamp": "00:04:30.050",
+      "end_timestamp": "00:04:37.730",
+      "text": "complexifier inutilement la suite des explications. On y reviendra un peu plus tard. Ce qu'on appelle « debt target »,"
+    },
+    {
+      "id": 39,
+      "start": 277.73,
+      "end": 284.93,
+      "start_timestamp": "00:04:37.730",
+      "end_timestamp": "00:04:44.930",
+      "text": "en fait, c'est juste la monnaie centrale française qui atterrit à l'actif de la Bundesbank pour qu'elle crée la monnaie centrale allemande"
+    },
+    {
+      "id": 40,
+      "start": 284.93,
+      "end": 291.13,
+      "start_timestamp": "00:04:44.930",
+      "end_timestamp": "00:04:51.130",
+      "text": "dans le cadre d'un transfert de monnaie secondaire d'un système bancaire à un autre au sein de la zone euro."
+    },
+    {
+      "id": 41,
+      "start": 291.13,
+      "end": 296.97,
+      "start_timestamp": "00:04:51.130",
+      "end_timestamp": "00:04:56.970",
+      "text": "Pourtant, on voit pas bien pourquoi on parle de « debt », parce que l'échange est équilibré. La Bundesbank a reçu un actif"
+    },
+    {
+      "id": 42,
+      "start": 296.97,
+      "end": 304.61,
+      "start_timestamp": "00:04:56.970",
+      "end_timestamp": "00:05:04.610",
+      "text": "d'une certaine valeur, puis elle en a créé un autre de même valeur à destination des banques commerciales de son système bancaire."
+    },
+    {
+      "id": 43,
+      "start": 304.61,
+      "end": 310.83,
+      "start_timestamp": "00:05:04.610",
+      "end_timestamp": "00:05:10.830",
+      "text": "Et c'est tout à fait vrai, il n'y a pas de « debt ». Tant qu'un euro français égale un euro allemand égale un euro finlandais, etc.,"
+    },
+    {
+      "id": 44,
+      "start": 310.83,
+      "end": 317.55,
+      "start_timestamp": "00:05:10.830",
+      "end_timestamp": "00:05:17.550",
+      "text": "personne ne doit rien à personne. Le solde target négatif de la France ne signifie pas qu'elle doit cette somme à un autre pays."
+    },
+    {
+      "id": 45,
+      "start": 317.55,
+      "end": 323.59,
+      "start_timestamp": "00:05:17.550",
+      "end_timestamp": "00:05:23.590",
+      "text": "Ça signifie que de l'argent créé en France par les banques commerciales a quitté le pays et se balade dans la zone euro"
+    },
+    {
+      "id": 46,
+      "start": 323.59,
+      "end": 329.71,
+      "start_timestamp": "00:05:23.590",
+      "end_timestamp": "00:05:29.710",
+      "text": "sans avoir fait le chemin inverse. C'est seulement en cas de sortie d'un état de la zone euro que les soldes target deviennent déduits,"
+    },
+    {
+      "id": 47,
+      "start": 329.71,
+      "end": 336.35,
+      "start_timestamp": "00:05:29.710",
+      "end_timestamp": "00:05:36.350",
+      "text": "qui doivent être payés entièrement en euros le jour même de la sortie. C'est une règle inscrite dans les traités européens"
+    },
+    {
+      "id": 48,
+      "start": 336.35,
+      "end": 342.23,
+      "start_timestamp": "00:05:36.350",
+      "end_timestamp": "00:05:42.230",
+      "text": "et qui a été confirmée par Mario Draghi, l'ancien président de la BCE. Il y a quand même un petit flou juridique sur tout ça,"
+    },
+    {
+      "id": 49,
+      "start": 342.23,
+      "end": 347.83,
+      "start_timestamp": "00:05:42.230",
+      "end_timestamp": "00:05:47.830",
+      "text": "mais c'est vrai qu'il est pas illogique que les soldes target échappent à leur redénomination en monnaie nationale"
+    },
+    {
+      "id": 50,
+      "start": 347.83,
+      "end": 354.03,
+      "start_timestamp": "00:05:47.830",
+      "end_timestamp": "00:05:54.030",
+      "text": "pour éviter de déséquilibrer le bilan des banques créditrices. On va prendre un exemple. Imaginons que la France sorte de l'euro"
+    },
+    {
+      "id": 51,
+      "start": 354.03,
+      "end": 361.67,
+      "start_timestamp": "00:05:54.030",
+      "end_timestamp": "00:06:01.670",
+      "text": "et que le nouveau franc se déprécie de 10% par rapport à l'euro. La monnaie centrale française présente sur le compte de la Bundesbank"
+    },
+    {
+      "id": 52,
+      "start": 361.67,
+      "end": 369.47,
+      "start_timestamp": "00:06:01.670",
+      "end_timestamp": "00:06:09.470",
+      "text": "deviendrait 100 francs, qui vaudrait 90 €. La Bundesbank constaterait alors une perte de 10 €, qui serait sûrement absorbée"
+    },
+    {
+      "id": 53,
+      "start": 369.47,
+      "end": 375.79,
+      "start_timestamp": "00:06:09.470",
+      "end_timestamp": "00:06:15.790",
+      "text": "par son capital. Mais selon les règles en vigueur, si cette perte devait mettre la banque en difficulté, elle devrait être"
+    },
+    {
+      "id": 54,
+      "start": 375.79,
+      "end": 382.31,
+      "start_timestamp": "00:06:15.790",
+      "end_timestamp": "00:06:22.310",
+      "text": "recapitalisée par l'État allemand, c'est-à-dire par les contribuables. La Banque de France doit donc remplacer"
+    },
+    {
+      "id": 55,
+      "start": 382.31,
+      "end": 388.39,
+      "start_timestamp": "00:06:22.310",
+      "end_timestamp": "00:06:28.390",
+      "text": "les 100 € de monnaie centrale française par 100 € de monnaie centrale de n'importe quel État restant dans la zone euro."
+    },
+    {
+      "id": 56,
+      "start": 388.39,
+      "end": 394.39,
+      "start_timestamp": "00:06:28.390",
+      "end_timestamp": "00:06:34.390",
+      "text": "Et pour ça, elle va vendre des francs contre des euros sur les marchés financiers. Pour un État comme la France,"
+    },
+    {
+      "id": 57,
+      "start": 394.39,
+      "end": 400.63,
+      "start_timestamp": "00:06:34.390",
+      "end_timestamp": "00:06:40.630",
+      "text": "si le solde n'est que de quelques dizaines de milliards, la dévaluation qui s'en suivrait serait relativement supportable,"
+    },
+    {
+      "id": 58,
+      "start": 400.63,
+      "end": 407.99,
+      "start_timestamp": "00:06:40.630",
+      "end_timestamp": "00:06:47.990",
+      "text": "voire même totalement 1 $. Par contre, si le solde Target devait dépasser, disons, les 500 milliards d'euros,"
+    },
+    {
+      "id": 59,
+      "start": 407.99,
+      "end": 413.39,
+      "start_timestamp": "00:06:47.990",
+      "end_timestamp": "00:06:53.390",
+      "text": "comme c'est le cas pour l'Italie, ce qui représente à peu près 25% de son PIB, on voit mal comment elle pourrait obtenir"
+    },
+    {
+      "id": 60,
+      "start": 413.39,
+      "end": 419.95,
+      "start_timestamp": "00:06:53.390",
+      "end_timestamp": "00:06:59.950",
+      "text": "cette somme en une journée en vendant des lire. Un tel afflux de devises déséquilibrerait complètement le marché des monnaies"
+    },
+    {
+      "id": 61,
+      "start": 419.95,
+      "end": 426.27,
+      "start_timestamp": "00:06:59.950",
+      "end_timestamp": "00:07:06.270",
+      "text": "et entraînerait une dévaluation de la lire gigantesque sans pour autant réussir à payer. On peut donc imaginer"
+    },
+    {
+      "id": 62,
+      "start": 426.27,
+      "end": 431.71,
+      "start_timestamp": "00:07:06.270",
+      "end_timestamp": "00:07:11.710",
+      "text": "que l'État italien viendrait au secours de sa banque centrale pour l'aider à payer cette dette Target avec toutes sortes"
+    },
+    {
+      "id": 63,
+      "start": 431.71,
+      "end": 438.03,
+      "start_timestamp": "00:07:11.710",
+      "end_timestamp": "00:07:18.030",
+      "text": "d'actifs acceptés par la Bundesbank, ce qui reviendrait à piller littéralement le contribuable italien."
+    },
+    {
+      "id": 64,
+      "start": 438.03,
+      "end": 443.99,
+      "start_timestamp": "00:07:18.030",
+      "end_timestamp": "00:07:23.990",
+      "text": "Il y a donc peu de chances pour qu'ils choisissent cette option. En fait, face à une telle somme, l'hypothèse la plus probable"
+    },
+    {
+      "id": 65,
+      "start": 443.99,
+      "end": 449.99,
+      "start_timestamp": "00:07:23.990",
+      "end_timestamp": "00:07:29.990",
+      "text": "est que l'Italie fasse défaut sur toute ou partie de cette dette et que la charge en retombe sur le contribuable allemand"
+    },
+    {
+      "id": 66,
+      "start": 449.99,
+      "end": 454.99,
+      "start_timestamp": "00:07:29.990",
+      "end_timestamp": "00:07:34.990",
+      "text": "et plus largement européen. Car n'oubliez pas que la BCE sert d'intermédiaire dans tout ce merdier."
+    },
+    {
+      "id": 67,
+      "start": 454.99,
+      "end": 461.04,
+      "start_timestamp": "00:07:34.990",
+      "end_timestamp": "00:07:41.040",
+      "text": "Et c'est d'ailleurs pour ça qu'elle va nous intéresser. Mais on en reparlera dans d'autres épisodes."
+    },
+    {
+      "id": 68,
+      "start": 461.04,
+      "end": 466.72,
+      "start_timestamp": "00:07:41.040",
+      "end_timestamp": "00:07:46.720",
+      "text": "Si on respecte à la lettre les règles des traités européens et l'orthodoxie en vigueur dans la gestion des banques centrales,"
+    },
+    {
+      "id": 69,
+      "start": 466.72,
+      "end": 472.52,
+      "start_timestamp": "00:07:46.720",
+      "end_timestamp": "00:07:52.520",
+      "text": "ces deux scénarios me semblent être les plus probables en cas de sortie de la zone euro d'un pays débiteur."
+    },
+    {
+      "id": 70,
+      "start": 472.52,
+      "end": 479.08,
+      "start_timestamp": "00:07:52.520",
+      "end_timestamp": "00:07:59.080",
+      "text": "Soit le solde est petit et il peut payer, soit le solde est trop gros et il fait défaut. Mais si on y réfléchit,"
+    },
+    {
+      "id": 71,
+      "start": 479.08,
+      "end": 485.64,
+      "start_timestamp": "00:07:59.080",
+      "end_timestamp": "00:08:05.640",
+      "text": "il est parfaitement injuste de faire payer cette somme à n'importe quel contribuable et de quelque manière que ce soit."
+    },
+    {
+      "id": 72,
+      "start": 485.64,
+      "end": 493.53,
+      "start_timestamp": "00:08:05.640",
+      "end_timestamp": "00:08:13.530",
+      "text": "C'est ici que commence la partie. Cette dette n'en est pas une. Sur notre schéma, on peut voir que le client a bien payé"
+    },
+    {
+      "id": 73,
+      "start": 493.53,
+      "end": 499.09,
+      "start_timestamp": "00:08:13.530",
+      "end_timestamp": "00:08:19.090",
+      "text": "son fournisseur. Son compte a été débité. L'économie réelle s'arrête à cet échange."
+    },
+    {
+      "id": 74,
+      "start": 499.09,
+      "end": 504.41,
+      "start_timestamp": "00:08:19.090",
+      "end_timestamp": "00:08:24.410",
+      "text": "Tout le mixte entre les banques commerciales et les banques centrales n'est qu'une accumulation d'écriture comptable"
+    },
+    {
+      "id": 75,
+      "start": 504.41,
+      "end": 511.49,
+      "start_timestamp": "00:08:24.410",
+      "end_timestamp": "00:08:31.490",
+      "text": "qui ne sert qu'à faire circuler 100 € d'une banque à une autre, en évitant de faire apparaître de faux bénéfices ou de fausses pertes."
+    },
+    {
+      "id": 76,
+      "start": 511.49,
+      "end": 517.61,
+      "start_timestamp": "00:08:31.490",
+      "end_timestamp": "00:08:37.610",
+      "text": "Dans notre exemple, et je dis bien « dans notre exemple », la monnaie centrale créée n'a qu'une valeur fictive."
+    },
+    {
+      "id": 77,
+      "start": 517.61,
+      "end": 522.53,
+      "start_timestamp": "00:08:37.610",
+      "end_timestamp": "00:08:42.530",
+      "text": "Elle n'a été produite par aucun travail en amont et ne payera aucun travail en aval."
+    },
+    {
+      "id": 78,
+      "start": 522.53,
+      "end": 527.89,
+      "start_timestamp": "00:08:42.530",
+      "end_timestamp": "00:08:47.890",
+      "text": "Jamais cette monnaie ne va se retrouver dans l'économie réelle. Elle est destinée à tourner en circuit fermé"
+    },
+    {
+      "id": 79,
+      "start": 527.89,
+      "end": 533.97,
+      "start_timestamp": "00:08:47.890",
+      "end_timestamp": "00:08:53.970",
+      "text": "entre les comptes des banques commerciales auprès des banques centrales pour faire circuler la monnaie créée par les banques commerciales,"
+    },
+    {
+      "id": 80,
+      "start": 533.97,
+      "end": 539.77,
+      "start_timestamp": "00:08:53.970",
+      "end_timestamp": "00:08:59.770",
+      "text": "qui, elle, est la monnaie de l'économie réelle. C'est tellement vrai qu'on pourrait remplacer la monnaie centrale"
+    },
+    {
+      "id": 81,
+      "start": 539.77,
+      "end": 544.73,
+      "start_timestamp": "00:08:59.770",
+      "end_timestamp": "00:09:04.730",
+      "text": "par des billets de monopolie sans valeur réelle, mais qui seraient simplement tamponés par les banques centrales,"
+    },
+    {
+      "id": 82,
+      "start": 544.73,
+      "end": 553.93,
+      "start_timestamp": "00:09:04.730",
+      "end_timestamp": "00:09:13.930",
+      "text": "sans que ça ne change rien au système. C'est exactement ce qui se passe, en fait. L'argent des abonnés."
+    },
+    {
+      "id": 83,
+      "start": 554.45,
+      "end": 561.09,
+      "start_timestamp": "00:09:14.450",
+      "end_timestamp": "00:09:21.090",
+      "text": "Regardez ce qui se passe. La Bundesbank crée 100 € de billets monopolie allemand. La Banque de France lui donne en échange"
+    },
+    {
+      "id": 84,
+      "start": 561.09,
+      "end": 567.25,
+      "start_timestamp": "00:09:21.090",
+      "end_timestamp": "00:09:27.250",
+      "text": "100 € de billets de monopolie français. Et une fois que la Deutsche Bank les a reçus sur son compte, elle crée 100 € tamponnés"
+    },
+    {
+      "id": 85,
+      "start": 567.25,
+      "end": 572.45,
+      "start_timestamp": "00:09:27.250",
+      "end_timestamp": "00:09:32.450",
+      "text": "Deutsche Bank qui vont servir à l'économie réelle. Dans cette situation, l'évidence saute aux yeux."
+    },
+    {
+      "id": 86,
+      "start": 572.45,
+      "end": 578.73,
+      "start_timestamp": "00:09:32.450",
+      "end_timestamp": "00:09:38.730",
+      "text": "La monnaie centrale et les dettes Target associées n'ont aucune valeur dans ce cas. Ce sont seulement des artifices comptables"
+    },
+    {
+      "id": 87,
+      "start": 578.73,
+      "end": 585.69,
+      "start_timestamp": "00:09:38.730",
+      "end_timestamp": "00:09:45.690",
+      "text": "qui servent à faire circuler la monnaie d'une banque commerciale à une autre. Toutefois, si personne ne perd d'argent"
+    },
+    {
+      "id": 88,
+      "start": 585.69,
+      "end": 592.05,
+      "start_timestamp": "00:09:45.690",
+      "end_timestamp": "00:09:52.050",
+      "text": "au sens où on l'entend communément, il y a quand même une conséquence. Car si la Bundesbank crée de la monnaie,"
+    },
+    {
+      "id": 89,
+      "start": 592.05,
+      "end": 598.53,
+      "start_timestamp": "00:09:52.050",
+      "end_timestamp": "00:09:58.530",
+      "text": "donc de la dette, sans reconnaissance de dette solide en contrepartie, la qualité de sa monnaie, c'est-à-dire sa valeur,"
+    },
+    {
+      "id": 90,
+      "start": 598.53,
+      "end": 606.0,
+      "start_timestamp": "00:09:58.530",
+      "end_timestamp": "00:10:06.000",
+      "text": "va se dégrader. C'est pour ça qu'en cas de sortie d'un pays débiteur de la zone euro que le montant de son solde Target"
+    },
+    {
+      "id": 91,
+      "start": 606.0,
+      "end": 612.8,
+      "start_timestamp": "00:10:06.000",
+      "end_timestamp": "00:10:12.800",
+      "text": "doit être maintenu en euros pour éviter la dépréciation des actifs, c'est-à-dire de la monnaie centrale du pays sortant,"
+    },
+    {
+      "id": 92,
+      "start": 612.8,
+      "end": 619.24,
+      "start_timestamp": "00:10:12.800",
+      "end_timestamp": "00:10:19.240",
+      "text": "détenus par les banques centrales de l'eurosystème. Le terme « dette Target » crée une confusion dans l'esprit des gens"
+    },
+    {
+      "id": 93,
+      "start": 619.24,
+      "end": 624.6,
+      "start_timestamp": "00:10:19.240",
+      "end_timestamp": "00:10:24.600",
+      "text": "qui vont penser qu'elles doivent être payées comme les dettes de M. et Mme Tout-le-Monde, ce qui serait une avissale connerie."
+    },
+    {
+      "id": 94,
+      "start": 624.6,
+      "end": 631.6,
+      "start_timestamp": "00:10:24.600",
+      "end_timestamp": "00:10:31.600",
+      "text": "Car si on devait taxer les contribuables pour payer ses dettes, ça équivaudrait à payer deux fois la même facture."
+    },
+    {
+      "id": 95,
+      "start": 631.6,
+      "end": 637.28,
+      "start_timestamp": "00:10:31.600",
+      "end_timestamp": "00:10:37.280",
+      "text": "Boucher des trous de monnaie dont la valeur est fictive en ponctionnant de la monnaie dont la valeur est réelle"
+    },
+    {
+      "id": 96,
+      "start": 637.28,
+      "end": 642.96,
+      "start_timestamp": "00:10:37.280",
+      "end_timestamp": "00:10:42.960",
+      "text": "aurait des conséquences désastreuses pour l'économie réelle et d'autant plus injustes qu'elle est inutile."
+    },
+    {
+      "id": 97,
+      "start": 642.96,
+      "end": 650.1,
+      "start_timestamp": "00:10:42.960",
+      "end_timestamp": "00:10:50.100",
+      "text": "C'est pas à Prolovitch de payer parce que le transfert de son argent a déséquilibré le bilan de la Banque centrale allemande."
+    },
+    {
+      "id": 98,
+      "start": 650.1,
+      "end": 655.82,
+      "start_timestamp": "00:10:50.100",
+      "end_timestamp": "00:10:55.820",
+      "text": "Bon, faut être réaliste. Les règles des traités européens ne s'appliquent que pour de petits soldes débiteurs."
+    },
+    {
+      "id": 99,
+      "start": 655.82,
+      "end": 660.8,
+      "start_timestamp": "00:10:55.820",
+      "end_timestamp": "00:11:00.800",
+      "text": "Au-delà de quelques % du PIB d'un pays, ça devient compliqué d'obtenir la somme en une journée."
+    },
+    {
+      "id": 100,
+      "start": 660.8,
+      "end": 665.56,
+      "start_timestamp": "00:11:00.800",
+      "end_timestamp": "00:11:05.560",
+      "text": "Alors peut-être qu'en allongeant le délai, on peut encore bricoler. Mais pour des cas comme l'Italie ou l'Espagne,"
+    },
+    {
+      "id": 101,
+      "start": 665.56,
+      "end": 671.56,
+      "start_timestamp": "00:11:05.560",
+      "end_timestamp": "00:11:11.560",
+      "text": "où on dépasse les 20% du PIB, faut oublier les règles des traités. Et c'est aux Banques centrales de s'entendre entre elles"
+    },
+    {
+      "id": 102,
+      "start": 671.56,
+      "end": 676.32,
+      "start_timestamp": "00:11:11.560",
+      "end_timestamp": "00:11:16.320",
+      "text": "pour trouver des solutions qui n'impactent pas ou peu l'économie réelle."
+    },
+    {
+      "id": 103,
+      "start": 676.32,
+      "end": 681.08,
+      "start_timestamp": "00:11:16.320",
+      "end_timestamp": "00:11:21.080",
+      "text": "Tout ça mériterait d'être un peu développé, mais j'en dis pas plus pour l'instant. On y reviendra dans les épisodes"
+    },
+    {
+      "id": 104,
+      "start": 681.08,
+      "end": 685.92,
+      "start_timestamp": "00:11:21.080",
+      "end_timestamp": "00:11:25.920",
+      "text": "sur les plans de sortie allemand et italien. En attendant, je vous donne rendez-vous pour la suite."
+    },
+    {
+      "id": 105,
+      "start": 685.92,
+      "end": 691.44,
+      "start_timestamp": "00:11:25.920",
+      "end_timestamp": "00:11:31.440",
+      "text": "Et je vous rassure, à partir de là, c'est moins technique et plus politique. On verra pourquoi l'existence de ces soldes"
+    },
+    {
+      "id": 106,
+      "start": 691.44,
+      "end": 696.88,
+      "start_timestamp": "00:11:31.440",
+      "end_timestamp": "00:11:36.880",
+      "text": "de Target, qui ne cessent de se creuser, permettent de dire que l'euro est une monnaie en sursis."
+    }
+  ]
+}

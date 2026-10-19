@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "video_id": "f9_i3mYLFpA",
+  "resume_general": "Entretien de Thinkerview avec l'économiste Thomas Grjebine et l'ingénieur Nicolas Meilhan consacré à la fragilisation industrielle de la France, de l'Allemagne et de l'Union européenne. Les intervenants relient la crise du modèle européen à la monnaie forte, aux déséquilibres internes de la zone euro, au coût de l'énergie, au retard d'anticipation face à la stratégie industrielle chinoise et à l'insuffisance d'instruments protectionnistes. Ils discutent aussi de dette, de protection sociale, d'immobilier, de compétitivité, d'automobile électrique, de taxe carbone aux frontières, de métaux critiques et de pistes de réindustrialisation. Les propos sont argumentatifs et parfois contradictoires; l'index restitue leurs analyses sans les valider extérieurement.",
+  "themes_principaux": [
+    {"theme": "Euro, monnaie forte et divergences européennes", "niveau": "developpe", "horodatages": ["00:04:16", "00:06:01", "01:05:00", "02:39:30"]},
+    {"theme": "Désindustrialisation française et crise du modèle allemand", "niveau": "developpe", "horodatages": ["00:10:36", "00:20:02", "00:40:13", "01:39:30", "02:00:00"]},
+    {"theme": "Stratégie industrielle chinoise et concurrence commerciale", "niveau": "developpe", "horodatages": ["00:10:05", "00:20:51", "01:19:30", "01:40:01", "02:30:01"]},
+    {"theme": "Énergie, gaz, nucléaire et compétitivité", "niveau": "developpe", "horodatages": ["00:28:00", "00:30:06", "00:40:36", "01:43:00"]},
+    {"theme": "Protectionnisme, droits de douane et politique industrielle", "niveau": "developpe", "horodatages": ["01:42:00", "01:49:30", "02:20:08", "02:30:22"]}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Épargne personnelle, marchés financiers et stabilité de l'euro", "horodatages": ["00:02:45", "00:04:01"]},
+    {"sujet": "Dépenses publiques, retraites et protection sociale", "horodatages": ["00:49:30", "00:55:00"]},
+    {"sujet": "Dette publique, investissement et croissance", "horodatages": ["00:58:30", "01:00:01"]},
+    {"sujet": "Austérité et ajustement interne en Grèce, Italie et Espagne", "horodatages": ["01:07:30", "01:10:00"]},
+    {"sujet": "Crises immobilières et allocation du crédit", "horodatages": ["01:19:30", "01:30:03"]},
+    {"sujet": "Automobile électrique, batteries et implantation d'usines", "horodatages": ["00:20:51", "01:49:30", "02:10:01"]},
+    {"sujet": "Mécanisme d'ajustement carbone aux frontières", "horodatages": ["02:20:08"]},
+    {"sujet": "Métaux critiques, terres rares et industrie de défense", "horodatages": ["02:29:30", "02:30:01"]},
+    {"sujet": "Responsabilité des élites politiques et économiques", "horodatages": ["00:10:18", "00:39:30", "02:45:00"]}
+  ],
+  "mots_cles": [
+    "euro", "Union européenne", "zone euro", "industrie", "désindustrialisation", "réindustrialisation", "balance commerciale", "déficit commercial", "compétitivité", "Chine", "Allemagne", "France", "énergie", "gaz", "nucléaire", "automobile", "véhicule électrique", "droits de douane", "protectionnisme", "libre-échange", "politique industrielle", "dette publique", "austérité", "inflation", "salaires", "productivité", "MACF", "terres rares", "souveraineté"
+  ],
+  "variantes_lexicales": [
+    {"forme": "MACF", "variantes": ["mécanisme d'ajustement carbone aux frontières", "taxe carbone en frontière"]},
+    {"forme": "deutsche mark", "variantes": ["mark allemand", "politique du franc fort"]},
+    {"forme": "réindustrialisation", "variantes": ["politique industrielle", "relocalisation", "implantation d'usines"]},
+    {"forme": "droits de douane", "variantes": ["tarifs", "taxes à l'importation", "protection douanière"]},
+    {"forme": "véhicule électrique", "variantes": ["voiture électrique", "automobile électrique"]}
+  ],
+  "personnes": [
+    {"nom": "Thomas Grjebine", "niveau": "developpe", "role": "invité, économiste au CEPII puis à Sciences Po après fusion avec l'OFCE", "horodatages": ["00:00:24", "00:00:30"]},
+    {"nom": "Nicolas Meilhan", "niveau": "developpe", "role": "invité, ingénieur et spécialiste des transports, de l'énergie et de l'industrie", "horodatages": ["00:01:31", "00:01:34"]},
+    {"nom": "Donald Trump", "niveau": "mention", "role": "président américain cité à propos de Nord Stream et des politiques commerciales", "horodatages": ["00:30:16", "02:29:00"]},
+    {"nom": "Joe Biden", "niveau": "mention", "role": "président américain cité à propos de Nord Stream", "horodatages": ["00:30:23"]},
+    {"nom": "Vladimir Poutine", "niveau": "mention", "role": "président russe cité à propos des approvisionnements gaziers", "horodatages": ["00:30:39"]},
+    {"nom": "Georges Pompidou", "niveau": "mention", "role": "président cité pour la politique industrielle française des années 1970", "horodatages": ["00:40:13"]},
+    {"nom": "François Mitterrand", "niveau": "developpe", "role": "président cité dans l'histoire du franc fort et de la construction monétaire européenne", "horodatages": ["02:40:24"]},
+    {"nom": "Jacques Delors", "niveau": "mention", "role": "acteur cité de la construction de l'euro", "horodatages": ["02:40:30"]}
+  ],
+  "organismes": [
+    {"nom": "Thinkerview", "niveau": "developpe", "type": "média et producteur de l'entretien", "horodatages": ["00:00:20"]},
+    {"nom": "CEPII", "niveau": "developpe", "type": "centre de recherche économique", "horodatages": ["00:00:31"]},
+    {"nom": "OFCE", "niveau": "mention", "type": "centre de recherche fusionné avec le CEPII selon l'invité", "horodatages": ["00:00:36"]},
+    {"nom": "Sciences Po", "niveau": "mention", "type": "institution de rattachement de Thomas Grjebine", "horodatages": ["00:00:39"]},
+    {"nom": "France Stratégie", "niveau": "developpe", "type": "institution où Nicolas Meilhan dit avoir été conseiller scientifique", "horodatages": ["00:02:02", "02:35:09"]},
+    {"nom": "Union européenne", "niveau": "developpe", "type": "ensemble politique et économique au centre de la discussion", "horodatages": ["00:04:16", "02:20:16"]},
+    {"nom": "Banque centrale européenne", "niveau": "developpe", "type": "institution monétaire évoquée dans les débats sur inflation, euro et crises", "horodatages": ["00:07:00", "01:07:00"]},
+    {"nom": "Volkswagen", "niveau": "developpe", "type": "constructeur utilisé comme exemple de la dépendance industrielle allemande à la Chine", "horodatages": ["02:10:12"]},
+    {"nom": "Toyota", "niveau": "mention", "type": "constructeur cité pour son usine de Valenciennes", "horodatages": ["01:50:18"]}
+  ],
+  "concepts": [
+    {"nom": "dévaluation interne", "explication": "ajustement par les salaires, l'emploi et l'austérité lorsqu'une dévaluation monétaire nationale n'est plus possible", "horodatages": ["01:08:00", "02:41:04"]},
+    {"nom": "modèle exportateur allemand", "explication": "production industrielle allemande, modération salariale, sous-traitance à l'Est et débouchés extérieurs", "horodatages": ["00:20:02", "02:00:00"]},
+    {"nom": "surcapacités chinoises", "explication": "capacité industrielle et investissements chinois considérés comme supérieurs à la demande intérieure", "horodatages": ["01:19:30", "01:40:01"]},
+    {"nom": "souveraineté industrielle", "explication": "capacité à produire les biens stratégiques et à maintenir emplois, savoir-faire et autonomie", "horodatages": ["00:01:23", "01:49:30"]},
+    {"nom": "allocation dirigée du crédit", "explication": "réorientation rapide de l'investissement chinois de l'immobilier vers le manufacturier", "horodatages": ["01:20:00"]},
+    {"nom": "coût complet de production", "explication": "écart allégué de 30 à 40 % entre productions européenne et chinoise", "horodatages": ["01:40:21", "02:00:16"]},
+    {"nom": "monnaie forte", "explication": "orientation monétaire associée au franc fort, au deutsche mark puis à l'euro", "horodatages": ["00:05:40", "02:40:42"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "politique du franc fort", "niveau": "developpe", "periode": "à partir du milieu des années 1980", "horodatages": ["00:05:40", "02:39:30"]},
+    {"nom": "chocs pétroliers des années 1970", "niveau": "mention", "horodatages": ["00:41:00"]},
+    {"nom": "crise financière et immobilière de 2008", "niveau": "developpe", "horodatages": ["01:20:27", "01:30:03"]},
+    {"nom": "crise des dettes souveraines européennes", "niveau": "developpe", "horodatages": ["01:07:30", "02:41:02"]},
+    {"nom": "crise sanitaire du Covid-19", "niveau": "mention", "horodatages": ["00:20:39"]},
+    {"nom": "Nord Stream", "niveau": "developpe", "horodatages": ["00:30:06"]},
+    {"nom": "Mécanisme d'ajustement carbone aux frontières", "niveau": "developpe", "horodatages": ["02:20:16"]},
+    {"nom": "droits de douane européens sur les véhicules électriques chinois", "niveau": "developpe", "horodatages": ["01:50:29"]},
+    {"nom": "chute du mur de Berlin et réunification allemande", "niveau": "developpe", "horodatages": ["02:40:08"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:18", "fin": "00:10:00", "contenu": "présentation des invités, industrie, euro et franc fort"},
+    {"debut": "00:10:00", "fin": "00:28:00", "contenu": "essor chinois et fonctionnement historique du modèle industriel allemand"},
+    {"debut": "00:28:00", "fin": "00:39:30", "contenu": "énergie européenne, Russie, gaz, Nord Stream et prix de l'électricité"},
+    {"debut": "00:39:30", "fin": "00:49:30", "contenu": "politique industrielle française depuis les années 1970"},
+    {"debut": "00:49:30", "fin": "01:05:00", "contenu": "protection sociale, dette, investissement et gestion publique"},
+    {"debut": "01:05:00", "fin": "01:18:00", "contenu": "zone euro, crise des dettes et ajustements par l'austérité"},
+    {"debut": "01:18:00", "fin": "01:36:00", "contenu": "allocation du crédit, immobilier et cycles économiques"},
+    {"debut": "01:36:00", "fin": "01:49:30", "contenu": "menace chinoise sur l'industrie européenne et écarts de coûts"},
+    {"debut": "01:49:30", "fin": "02:05:00", "contenu": "implantation d'usines, automobile et limites de la réponse européenne"},
+    {"debut": "02:05:00", "fin": "02:20:00", "contenu": "dépendance du patronat et des grands groupes allemands au marché chinois"},
+    {"debut": "02:20:00", "fin": "02:34:00", "contenu": "MACF, commerce, métaux critiques, terres rares et rivalité sino-américaine"},
+    {"debut": "02:34:00", "fin": "02:50:15", "contenu": "propositions, histoire politique de l'euro et conclusion pessimiste"}
+  ],
+  "expressions_representatives": [
+    {"expression": "l'industrie est centrale pour la richesse et la souveraineté", "horodatage": "00:01:23"},
+    {"expression": "le modèle industriel allemand a longtemps reposé sur la production nationale et les exportations", "horodatage": "00:20:02"},
+    {"expression": "la Chine peut réorienter le crédit vers l'investissement manufacturier", "horodatage": "01:20:00"},
+    {"expression": "l'Europe ne peut durablement concurrencer un producteur annoncé 30 à 40 % moins cher", "horodatage": "01:40:21"},
+    {"expression": "une usine étrangère n'apporte les emplois recherchés que si elle est implantée dans le pays", "horodatage": "01:50:03"},
+    {"expression": "les métaux et terres rares constituent un levier dans la rivalité commerciale", "horodatage": "02:30:01"}
+  ],
+  "citations_exactes": [
+    {"citation": "Je pense que l'industrie, c'est très important pour préserver notre richesse et en termes de souveraineté.", "horodatage": "00:01:23"},
+    {"citation": "La difficulté, c'est que les Chinois, parallèlement, eux, ils développent une stratégie industrielle très forte", "horodatage": "00:20:51"},
+    {"citation": "On développe des lignes à grande vitesse, notamment la ligne Paris-Lyon.", "horodatage": "00:40:36"},
+    {"citation": "Donc, ils augmentent la TVA, ils font des réformes très dures.", "horodatage": "01:10:05"},
+    {"citation": "Il y a presque 30 à 40% d'écart de coûts de production.", "horodatage": "01:40:26"},
+    {"citation": "Moi, j'ai rien contre les voitures chinoises, etc. Par contre, tu les produis chez moi.", "horodatage": "01:50:03"},
+    {"citation": "Ce qu'on appelle le MACF, mécanisme d'ajustement carbone frontière", "horodatage": "02:20:24"},
+    {"citation": "et je pense que l'Europe est bientôt morte", "horodatage": "02:50:09"}
+  ]
+}

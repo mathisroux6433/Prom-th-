@@ -1,0 +1,198 @@
+Crée un index documentaire fidèle en JSON strict. Ne juge pas la véracité. Distingue pour personnes, organismes et événements le niveau 'mention' ou 'developpe'. N'invente rien. Les citations_exactes doivent être verbatim ; les expressions_representatives ne sont pas des citations. Chaque élément thématique utile porte si possible des horodatages. Retourne uniquement un objet suivant cette structure :
+{
+  "citations_exactes": [],
+  "concepts": [],
+  "evenements_lois_reglementations": [],
+  "expressions_representatives": [],
+  "mots_cles": [],
+  "organismes": [],
+  "personnes": [],
+  "reperes_temporels": [],
+  "resume_general": "",
+  "schema_version": "1.0",
+  "sujets_secondaires": [],
+  "themes_principaux": [],
+  "variantes_lexicales": [],
+  "video_id": "CjuQQJm2LnI"
+}
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "CjuQQJm2LnI",
+  "title": "[20ans de l’€] -5- La mort clinique de l’Euro (2/2)",
+  "channel": "Trouble Fait",
+  "channel_id": "UCynFUJ4zUVuh3GX7bABTjGQ",
+  "upload_date": "20191102",
+  "duration_seconds": 1162,
+  "webpage_url": "https://www.youtube.com/watch?v=CjuQQJm2LnI",
+  "description": "L’augmentation des soldes Target2 indiquent une fuite massive de monnaie de certains pays de la zone euro (notamment  de l’Italie, l’Espagne, le Portugal et de la Grèce) vers d’autres pays de cette zone (en premier lieu l’Allemagne suivi par le Luxembourg, les Pays-Bas et la Finlande).\nL’augmentation constante de cette fuite de monnaie, qui se compte déjà en centaines de milliards, va rendre de plus en plus intenable le maintien d’une parité de 1 pour 1 entre les monnaies de ces pays. \nLe but de cette vidéo va être de comprendre pourquoi il y a une telle asymétrie dans les échanges entre ces pays et pourquoi rien n’a été fait pour corriger le problème alors qu’il va entrainer la fin de l’euro.\n\n\nLien vers la playlist de la série :\nhttps://www.youtube.com/playlist?list=PLRFRwS8s4qMrKCLG2RtIBlDWwENzWODd1\n\nTipeee : https://www.tipeee.com/troublefait\nDiscord : https://discordapp.com/invite/FcbJ8vU\nFacebook : https://www.facebook.com/1TroubleFait\nTwitter : https://twitter.com/1TroubleFait\n\nPlus d’infos :\nLes racines de la crise Cairn.info\nhttps://urlz.fr/aUjb\nLe crépuscule de l'euro – La tribune\nhttps://urlz.fr/aUmt\nRéformes Hartz — Wikipédia\nhttps://fr.wikipedia.org/wiki/R%C3%A9formes_Hartz\nL'Europe de Jean Monnet\nhttps://urlz.fr/aUjc\n\nSolde de la balance commerciale dans quelques pays de l'Union européenne en 2017 Insee\nhttps://www.insee.fr/fr/statistiques/2381432\nLes Crises : 1123 Évolution du commerce extérieur allemand\nhttps://www.les-crises.fr/evol-commerce-ext-allemand/\nLes Crises : 1122 Le commerce extérieur allemand en 2013\nhttps://www.les-crises.fr/commerce-ext-allemand-2013/\nAllemagne - Balance commerciale (US$ courant) Statistiques\nhttps://urlz.fr/aUjd\n2017-10-4p-N77-COMPETITIVITE.pdf\nhttps://www.entreprises.gouv.fr/files/files/directions_services/etudes-et-statistiques/4p-DGE/2017-10-4p-N77-COMPETITIVITE.pdf\nChangement d'heure  le casse-tête européen\nhttps://urlz.fr/aUmn\nDe Gaulle ce qu’il disait de l’Europe - Gaullisme.fr\nhttps://urlz.fr/aUmu\n\nDynamiques d'ajustement et mobilité du travail au sein de la zone euro Cairn.info\nhttps://urlz.fr/aUmv\nDes chômeurs du Nord invités à s’exiler à… Prague - Le Parisien\nhttps://urlz.fr/aUjB\nMultilinguisme - EUROPA Union Européenne\nhttps://europa.eu/european-union/about-eu/eu-languages_fr\nL'Angola, terre de refuge pour les Portugais\nhttps://urlz.fr/aUjj\nTravailleur détaché — Wikipédia\nhttps://fr.wikipedia.org/wiki/Travailleur_d%C3%A9tach%C3%A9\nTravailleurs détachés  les chiffres s’emballent en France\nhttps://urlz.fr/aUjl\nStatistiques trimestrielles Pôle emploi\nhttps://statistiques.pole-emploi.org/stmt/publication\n\nLes Italie populistes et un gouvernement introuvable - Le Cercle Aristote\nhttps://urlz.fr/aUmi\nAllemagne pauvres en pays riche ARTE Reportage – YouTube\nhttps://www.youtube.com/watch?v=r3RdzemA4a4\nLe taux de propriétaires en France parmi les plus bas en Europe ! - Le blog de l’immobilier \nhttps://urlz.fr/aUjy\nUNSERE SCHÖNEN DEUTSCHEN EUROS – Our precious German Euros EUROPA 2015 – YouTube\nhttps://www.youtube.com/watch?v=ktqKNu4N9Ds\nCrise entre l’Italie et l’UE «L’Italie fera défaut et sortira de l’euro» - Sputnik France\nhttps://urlz.fr/aUml\n20 ans la triple calamité de l'euro - AgoraVox \nhttps://urlz.fr/aUmm\nLe coût du fédéralisme dans la zone Euro – RussEurope\nhttps://russeurope.hypotheses.org/453\nCEP - Centrum für europäische Politik Details\nhttps://urlz.fr/aUmx\nAdopter l'euro sans réformer son économie a coûté cher à la France- BFMTV\nhttps://urlz.fr/aUjv\nMES, TSCG Des traités... très mal traités … ! – ADEN\nhttp://www.associationeconomienumerique.fr/tscg-traites-tres-mal-traites/\nPacte budgétaire européen — Wikipédia\nhttps://fr.wikipedia.org/wiki/Pacte_budg%C3%A9taire_europ%C3%A9en\nMécanisme européen de stabilité — Wikipédia\nhttps://fr.wikipedia.org/wiki/M%C3%A9canisme_europ%C3%A9en_de_stabilit%C3%A9\nLe franc de 1945 à 1998 le serpent et le système :\nhttp://ordrespontane.blogspot.com/2013/05/le-franc-de-1945-1998-le-serpent-et-le.html\n\n\nMusiques :\nOurs Samplus - Minor Alpha: https://www.youtube.com/watch?v=idSfUUlm67A\nOurs Samplus #29 - Artificier Masqué : https://www.youtube.com/watch?v=836NXtjPmpk\nOurs Samplus #43 – Magnolia : https://www.youtube.com/watch?v=QpCJoOL5PAg\nFunky Fella - Another 90's Anthem : https://www.youtube.com/watch?v=eNxNKjxmvug\nOurs Samplus #30 – Toys : https://www.youtube.com/watch?v=ghvakIl35-w\nFunky Fella - Bring it Back : https://www.youtube.com/watch?v=gFELAl46HtU\nOurs Samplus #32 – Badaswing : https://www.youtube.com/watch?v=_4prkEI7zTw\nRUDE - Eternal Youth : https://www.youtube.com/watch?v=DhHGDOgjie4\nProleter - What Lana Says : https://www.youtube.com/watch?v=MdZ08MFxst8",
+  "language": "fr-FR"
+}
+
+TRANSCRIPTION :
+[00:00:10.510 --> 00:00:15.670] Salut à tous. On était en train de voir que l'euro n'est pas une zone monétaire optimale, parce qu'elle ne comporte
+[00:00:15.670 --> 00:00:21.630] aucun des mécanismes qui permettent de compenser un choc asymétrique. On a vu que l'harmonisation sociale et fiscale
+[00:00:21.630 --> 00:00:28.950] est une illusion irréalisable. Il ne reste donc que deux solutions pour rendre l'euro viable. Créer un mécanisme
+[00:00:28.950 --> 00:00:35.630] de répartition des richesses et encourager la mobilité des travailleurs. On va commencer par ce dernier.
+[00:00:35.630 --> 00:00:40.230] C'est un phénomène qui se produit naturellement. Lorsqu'une région est sinistrée économiquement,
+[00:00:40.230 --> 00:00:45.470] ses habitants sans emploi la quittent petit à petit pour aller dans les régions plus dynamiques à la recherche
+[00:00:45.470 --> 00:00:52.590] d'un avenir meilleur. Dans l'UE, en théorie, nous avons le droit d'aller travailler n'importe où.
+[00:00:52.590 --> 00:00:59.230] C'est une des libertés fondamentales du marché commun garantie par les traités. Certains voudraient croire
+[00:00:59.230 --> 00:01:03.790] que les États seraient comme des hôtels et que nous passerions de l'un à l'autre en fonction des seules
+[00:01:03.790 --> 00:01:09.150] opportunités économiques, rendant le facteur travail aussi mobile que le capital.
+[00:01:33.790 --> 00:01:39.550] « Toutes les nations sont des hôtels. » Malheureusement pour Attali, à nouveau, la mobilité des travailleurs
+[00:01:39.550 --> 00:01:45.830] au sein d'un pays après un choc asymétrique est un phénomène de long terme qui s'étale sur 10 à 15 ans.
+[00:01:45.830 --> 00:01:50.870] Donc ce sera jamais un mécanisme suffisamment flexible pour remplacer des taux de change qui sont capables
+[00:01:50.870 --> 00:01:56.470] de refléter un changement majeur en quelques secondes. En plus, les barrières culturelles et linguistiques
+[00:01:56.470 --> 00:02:03.770] entre les pays de l'UE réduisent fortement cette mobilité. L'UE compte 24 langues officielles pour 28 États.
+[00:02:03.770 --> 00:02:10.130] Et 3 alphabets différents. D'un pays à l'autre, les lois, l'administration, les entreprises, les services,
+[00:02:10.130 --> 00:02:15.730] les modes de vie changent. Si bien que quitter Calais pour Toulouse n'est pas du tout la même démarche
+[00:02:15.730 --> 00:02:26.400] que quitter Calais pour Francfort, Dublin ou Budapest. Déménager n'est déjà pas évident pour tout le monde.
+[00:02:26.400 --> 00:02:31.200] Alors s'expatrier, il est encore moins, surtout si vous faites ce choix par seules contraintes économiques,
+[00:02:31.200 --> 00:02:36.320] et surtout si vous avez une famille avec des gosses. Et n'oublions pas aussi que la vague de suicide
+[00:02:36.320 --> 00:02:43.280] chez France Télécom avait été causée par une politique incessante de mobilité du personnel pour les pousser à la démission.
+[00:02:43.280 --> 00:02:50.040] Donc c'est un mécanisme forcément limité et trop lent. Mais en plus, dans l'UE, la mobilité des travailleurs
+[00:02:50.040 --> 00:02:55.400] finit par fonctionner à l'envers à cause des écarts de salaire importants entre les États, ce qui renforce
+[00:02:55.400 --> 00:03:00.600] ces déséquilibres au lieu d'aider à les corriger. — Oh, c'est ballot, hein, c'est ballot.
+[00:03:00.600 --> 00:03:08.840] L'écart maximal de salaire planché dans les pays de l'UE est de 1 pour 10. En général, un Français qui partirait
+[00:03:08.840 --> 00:03:14.480] travailler dans un pays de l'Est devrait apprendre une nouvelle langue pour voir son salaire divisé par 3 ou 4,
+[00:03:14.480 --> 00:03:20.880] si on se base sur le salaire minimum. On fait rarement l'effort de s'expatrier pour s'appauvrir.
+[00:03:20.880 --> 00:03:27.400] L'écart de niveau de salaire a donc un double effet pervers. Les chômeurs des pays à haut revenu refusent d'aller travailler
+[00:03:27.400 --> 00:03:33.560] dans les pays à faible revenu, même s'ils y trouvaient un emploi. On le voit concrètement en France lorsqu'un employeur
+[00:03:33.560 --> 00:03:38.600] licencie des salariés français et propose de les reclasser dans des usines en Pologne ou en Roumanie.
+[00:03:38.600 --> 00:03:45.040] C'est perçu comme un affront par les salariés. Et à l'inverse. Les travailleurs des pays à faible revenu
+[00:03:45.040 --> 00:03:51.020] tentent d'aller travailler dans les pays à haut revenu, même s'il y a peu d'emploi, pour tenter de gagner un peu plus d'argent.
+[00:03:51.020 --> 00:03:57.040] Ce mouvement est encouragé par la directive des travailleurs détachés, qui permet à un employeur de payer les cotisations
+[00:03:57.040 --> 00:04:04.800] en fonction du pays d'origine de son employé. Ainsi, malgré ces 3,5 millions de chômeurs de catégorie A,
+[00:04:04.800 --> 00:04:10.200] la France fait venir de plus en plus de travailleurs détachés. Il y a eu plus de 500 000 contrats en 2017,
+[00:04:10.200 --> 00:04:18.000] dont la durée varie de quelques jours à plus d'un an. Pour résumer, la mobilité des travailleurs au sein de l'UE
+[00:04:18.000 --> 00:04:25.800] est un mécanisme lent de base, mais en plus grippé et qui fonctionne à l'envers. Les travailleurs ne se déplacent pas
+[00:04:25.800 --> 00:04:31.560] en fonction des opportunités d'emploi, mais en fonction des opportunités de rémunération. Et celles-ci dépendent
+[00:04:31.560 --> 00:04:36.440] beaucoup plus du niveau de vie de chaque État que de la qualification individuelle des travailleurs.
+[00:04:36.440 --> 00:04:42.040] Il n'y a donc pas un marché commun européen de l'emploi, mais un ensemble de marchés nationaux ouverts
+[00:04:42.040 --> 00:04:47.200] et en concurrence les uns avec les autres, tant pour attirer les employés que les employeurs.
+[00:04:47.200 --> 00:04:53.600] On retrouve ici la schizophrénie idéologique de l'UE. Le marché encourage à la concurrence entre les États,
+[00:04:53.600 --> 00:05:01.040] alors que la survie de l'euro exige qu'on fonde ces États dans un système harmonisé pour éviter le dumping.
+[00:05:01.040 --> 00:05:09.040] Le dernier mécanisme qui pourrait compenser les déséquilibres est le transfert de richesses. Là encore, c'est très simple à comprendre.
+[00:05:09.040 --> 00:05:14.800] Les résidents des zones avantagées par l'euro doivent payer pour les résidents des zones désavantagées.
+[00:05:25.040 --> 00:05:34.400] L'Italie est le parfait exemple de cette redistribution. Le nord du pays, bénéficiant d'un tissu industriel
+[00:05:34.400 --> 00:05:40.240] tourné vers l'exportation, se porte plutôt bien. Et plus on descend vers le sud du pays, davantage tourné
+[00:05:40.240 --> 00:05:46.240] vers l'agriculture et le tourisme, plus le chômage augmente, jusqu'à des niveaux comparables à la Grèce.
+[00:05:46.240 --> 00:05:51.760] Malgré un haut niveau d'harmonisation et une mobilité totale des travailleurs en Italie qui n'est pas freinée
+[00:05:51.760 --> 00:05:57.360] par des barrières culturelles ou linguistiques, on voit qu'il y a un écart de richesse structurel entre le nord
+[00:05:57.360 --> 00:06:03.880] et le sud du pays. Cet écart est compensé par un système permanent de prélèvement et de redistribution.
+[00:06:03.880 --> 00:06:10.480] En gros, les habitants du nord subventionnent le niveau de vie des habitants du sud. Il n'y a plus qu'à faire la même chose
+[00:06:10.480 --> 00:06:17.760] au niveau européen. Sauf que, en l'état actuel des choses, instaurer un mécanisme de redistribution équivalent
+[00:06:17.760 --> 00:06:24.800] dans l'UE ou dans la zone euro, c'est un défi pédagogique majeur. Je vous laisse expliquer à un Roumain
+[00:06:24.800 --> 00:06:30.320] qui gagne 400 balles par mois, qu'il va devoir payer une taxe européenne pour payer le chômage d'un Français
+[00:06:30.320 --> 00:06:36.280] qui touche le double de son salaire en moyenne. Ça vaut aussi pour les travailleurs allemands qui se sont considérablement
+[00:06:36.280 --> 00:06:41.920] appauvris pour doper la compétitivité de leur pays. Il faudrait leur expliquer qu'ils ont été trop efficaces,
+[00:06:41.920 --> 00:06:47.200] qu'ils ont fait trop de sacrifices, et que maintenant, par solidarité européenne, ils vont devoir donner de l'argent
+[00:06:47.200 --> 00:06:53.600] aux Espagnols, aux Italiens et autres qui ont pourtant conservé plus d'avantages sociaux qu'eux, qui partent à la retraite
+[00:06:53.600 --> 00:07:00.080] plus tôt ou qui ont plus de patrimoine. Dans les pays du Sud, environ 75% des ménages sont propriétaires
+[00:07:00.080 --> 00:07:07.000] de leur logement, alors qu'ils ne sont que 52% en Allemagne. Par ailleurs, 40% des Allemands n'ont aucun patrimoine.
+[00:07:07.000 --> 00:07:13.680] Ça veut dire même pas un euro à la banque à la fin du mois. C'est la misère. Or, pour l'Allemagne, on ne parle pas
+[00:07:13.680 --> 00:07:21.220] d'une petite somme. Il s'agirait de transférer 8% à 10% de son PIB aux autres États de la zone euro, soit environ
+[00:07:21.220 --> 00:07:26.960] 200 milliards d'euros chaque année. C'est pour cette raison que les milieux patronaux allemands étaient opposés à l'euro
+[00:07:26.960 --> 00:07:33.080] dans les années 90, car malgré l'avantage qu'ils allaient en tirer, ils avaient peur de devoir un jour payer
+[00:07:33.080 --> 00:07:40.480] pour la casse sociale chez leurs voisins. Encore une fois, on reboucle avec cette histoire de schizophrénie idéologique
+[00:07:40.480 --> 00:07:46.060] entre concurrence et convergence, parce que la création d'un mécanisme de redistribution européen,
+[00:07:46.060 --> 00:08:00.200] ça servirait justement à lisser les effets du dumping social et fiscal qui est créé par les règles des traités européens.
+[00:08:00.200 --> 00:08:06.160] Bon, dans tous les cas, un mécanisme de redistribution n'est pas vendable à ses contributeurs s'il n'y a pas une harmonisation
+[00:08:06.160 --> 00:08:12.680] sociale et fiscale entre ses contributeurs. Pire, il serait même dangereux de le faire sans cette harmonisation,
+[00:08:12.680 --> 00:08:18.600] parce que ça placerait les dirigeants face à ce qu'on appelle un aléa moral, en ouvrant la voie aux excès inverses
+[00:08:18.600 --> 00:08:26.140] du dumping social et fiscal. Je m'explique. Un dirigeant d'un pays de la zone euro pourrait se sentir complètement
+[00:08:26.140 --> 00:08:31.180] déresponsabilisé sur la politique qu'il mène, puisqu'il n'a pas à craindre que sa monnaie s'effondre
+[00:08:31.180 --> 00:08:36.340] vu qu'il est dans l'euro, et il n'a pas à craindre l'augmentation des chômages et des déficits publics,
+[00:08:36.340 --> 00:08:41.740] puisqu'il peut compter sur les autres États pour payer les pots cassés au nom de la solidarité européenne.
+[00:08:41.740 --> 00:08:48.740] Donc ça passerait par un mécanisme de redistribution quelconque, mutualisation des dettes, chômage européen, etc.
+[00:08:48.740 --> 00:08:54.340] En d'autres termes, des contribuables devraient payer les conséquences d'une politique pour laquelle ils n'ont jamais voté
+[00:08:54.340 --> 00:09:01.380] et dont ils n'ont jamais profité, ce qui est non démocratique, parfaitement inacceptable et contraire à l'article 125
+[00:09:01.380 --> 00:09:06.920] du traité sur le fonctionnement de l'UE. Donc vous allez vous faire brûler en place publique si vous essayez
+[00:09:06.920 --> 00:09:13.440] de faire payer les dettes des Espagnols aux contribuables allemands. Il n'y a qu'à voir les articles incendiaires
+[00:09:13.440 --> 00:09:19.600] que la presse allemande avait publiés durant la crise de l'euro, traitant les Grecs de feignants, de profiteurs, de fraudeurs
+[00:09:19.600 --> 00:09:25.400] et leur recommandant de se mettre au boulot et de vendre l'acropole si c'était nécessaire, pourvu qu'ils remboursent les prêts
+[00:09:25.400 --> 00:09:30.720] que l'Allemagne leur avait octroyés quand ils n'arrivaient plus à se financer sur les marchés financiers.
+[00:09:30.720 --> 00:09:35.720] Ce mépris des mauvais élèves de la rigueur budgétaire est aussi présent dans les instances européennes,
+[00:09:35.720 --> 00:09:43.440] où les pays du Sud sont appelés le Club Med ou encore les Pigs. Des associations ont bien tenté de faire culpabiliser
+[00:09:43.440 --> 00:09:54.570] les Allemands pour qu'ils soient un petit peu plus solidaires, mais sans grand succès.
+[00:10:12.090 --> 00:10:19.810] On en arrive en fait à la situation qui avait été anticipée par Milton Friedman en 97. Le marché commun européen est l'exemple
+[00:10:19.810 --> 00:10:44.350] d'une situation non favorable à l'Union monétaire. Elle est composée de nations séparées, dont les résidents parlent différentes langues,
+[00:10:44.350 --> 00:10:51.790] ont différentes coutumes et ont des compétences différentes. Le marché commun européen est l'exemple d'une situation
+[00:10:51.790 --> 00:10:58.470] non favorable à l'Union monétaire. Elle est composée de nations séparées, dont les résidents parlent différentes langues,
+[00:10:58.470 --> 00:11:05.430] ont différentes coutumes et ont une bien plus grande loyauté et un plus grand attachement à leur propre pays qu'à un marché commun
+[00:11:05.430 --> 00:11:11.950] ou à l'idée d'Europe. L'euro va exacerber les tensions politiques en convertissant des chocs divergents
+[00:11:11.950 --> 00:11:19.450] qui auraient pu être corrigés par les taux de change en des problèmes politiques qui vont diviser ces nations.
+[00:11:19.450 --> 00:11:26.810] Le sauvetage de l'euro a été l'un de ces problèmes politiques qui a divisé les nations. En 2012, l'Allemagne avait conditionné
+[00:11:26.810 --> 00:11:33.730] son aide au Pays du Sud à l'adoption du TSCG pour tenter de se prémunir contre l'allé amorale dont on parlait tout à l'heure.
+[00:11:33.730 --> 00:11:39.730] Le fameux pacte budgétaire européen prévoit un ensemble de règles contraignantes visant à limiter les dérives budgétaires
+[00:11:39.730 --> 00:11:46.170] des États de la zone euro. C'est dans le cadre de ce traité que les États doivent faire valider leur budget annuel
+[00:11:46.170 --> 00:11:54.890] par la Commission européenne, qui doit s'assurer que la politique de chaque gouvernement soit le plus conforme possible à la survie de l'euro.
+[00:11:54.890 --> 00:12:01.730] Essentiellement, le TSCG, c'est pas grand-chose. Ce n'est que la reprise de règles qui était déjà présente dans le traité d'Amsterdam en 1993
+[00:12:01.730 --> 00:12:08.010] a sorti de sanctions qui étaient pas prévues au départ. Mais ça n'a pas empêché les États les plus problématiques de la zone euro
+[00:12:08.010 --> 00:12:13.450] de continuer d'afficher des déficits et de creuser leur endettement, bien qu'ils aient consenti de nombreux efforts
+[00:12:13.450 --> 00:12:19.610] pour être dans les clous du traité. Comprenez qu'ils ont viré des fonctionnaires, privatisé des trucs, raboté des pensions de retraite
+[00:12:19.610 --> 00:12:24.730] et de chômage, etc., quoi. Les réformes inévitables qu'on connaît bien maintenant.
+[00:12:24.730 --> 00:12:31.130] En France, les lois de travail et autres CICE ne servaient pas à créer de la croissance et des emplois comme annoncé,
+[00:12:31.130 --> 00:12:36.530] mais bien à augmenter les marges des entreprises pour qu'elles redeviennent compétitives, afin de sauver l'euro.
+[00:12:36.530 --> 00:12:43.410] Car cette question du manque de compétitivité ne se poserait pas si on avait le franc. On aurait une monnaie dont la parité serait cohérente
+[00:12:43.410 --> 00:12:50.450] avec notre niveau de compétitivité générale. Et on n'aurait pas besoin de faire toutes ces politiques de dévaluation interne.
+[00:12:50.450 --> 00:12:56.330] Pour ces raisons, l'euro pose un problème de démocratie. Est-ce que c'est au peuple de s'adapter aux outils économiques,
+[00:12:56.330 --> 00:13:02.330] ou est-ce que c'est aux outils économiques de s'adapter au peuple ? La réponse de la pensée dominante à cette question
+[00:13:02.330 --> 00:13:09.170] transparaît dans l'étude du CEP citée en introduction de cette série de vidéos. Les experts indiquent que le coût de l'euro,
+[00:13:09.170 --> 00:13:16.170] estimé à 3 600 milliards d'euros pour la France sur 20 ans, n'est pas lié à l'euro, mais au manque de réformes
+[00:13:16.170 --> 00:13:24.890] structurelles nécessaires pour rétablir la compétitivité de la France dans le cadre de l'euro. En somme, ce n'est pas la faute de la monnaie,
+[00:13:24.890 --> 00:13:32.570] mais la faute des États qui ne se sont pas pliés assez vite aux contraintes de la monnaie. Pour ma part, j'ai une opinion légèrement différente.
+[00:13:32.570 --> 00:13:39.370] Mais on va s'écarter de notre sujet, elle. En définitive, le TSCG a poussé les États à plus de rigueur budgétaire,
+[00:13:39.370 --> 00:13:45.890] mais sans pour autant réussir à enrayer l'augmentation des dettes, dont les États les plus endettés. Et ce traité n'a rien fait
+[00:13:45.890 --> 00:13:51.230] pour pallier aux conséquences des écarts de compétitivité dans la zone euro, si ce n'est que le respect de ces règles
+[00:13:51.230 --> 00:13:59.110] était la condition sine qua non pour accéder au MES en cas de pépin. Alors le MES, j'en avais pas encore parlé.
+[00:13:59.110 --> 00:14:05.230] C'est un autre bidule qui a été créé au moment de la crise. C'est un fonds de garantie au capital de 80 milliards d'euros
+[00:14:05.230 --> 00:14:11.510] qui peut fournir jusqu'à 700 milliards d'euros de prêt aux pays de la zone euro sur endettés qui perdraient leur accès
+[00:14:11.510 --> 00:14:17.790] au financement par les marchés, comme ça avait été le cas pendant la crise de 2011. Sachez que les Français ont été taxés
+[00:14:17.790 --> 00:14:26.450] à hauteur de 16,6 milliards pour abonder ce machin, dont les règles de gouvernance digne de l'URSS échappent à tout contrôle démocratique.
+[00:14:26.450 --> 00:14:30.410] Pour nous, Français, c'est une chance.
+[00:14:30.410 --> 00:14:37.110] Pourtant, en 2011-2012, l'idée d'une union fiscale et budgétaire était séduisante comme solution à la crise.
+[00:14:37.110 --> 00:14:42.810] Et cette idée a d'ailleurs été portée par de nombreux politiciens et experts qui comptaient bien profiter de la crise
+[00:14:42.810 --> 00:14:49.250] pour obliger les États à sauter le pas. Mais cette union a resté au stade des mots face à l'impossibilité de s'entendre
+[00:14:49.250 --> 00:14:56.790] sur un socle commun. Au plus fort de la crise de l'euro, le TSCG accompagné du MES a été le compromis le plus avancé
+[00:14:56.790 --> 00:15:03.770] qui a pu être obtenu en termes d'harmonisation et de répartition. Donc malgré les stratagèmes des concepteurs de l'euro,
+[00:15:03.770 --> 00:15:12.310] le grand saut fédéraliste n'a pas eu lieu. Et il n'aura probablement jamais lieu. On va résumer un peu tout ça.
+[00:15:12.310 --> 00:15:18.870] La mise en place de l'euro dans des pays qui ont trop de différences entre leurs modèles sociaux et fiscaux a entraîné des écarts
+[00:15:18.870 --> 00:15:25.890] de compétitivité. Et aucun des mécanismes censés corriger ces conséquences ne fonctionne ou n'existent.
+[00:15:25.890 --> 00:15:30.830] Il n'y a pas de change flottant, évidemment, puisque les taux de change sont figés à 1 pour 1.
+[00:15:30.830 --> 00:15:36.150] La magie du marché des capitaux a ses limites et elle a cessé de fonctionner après la crise de 2008.
+[00:15:36.150 --> 00:15:41.510] Il n'y a pas d'État fédéral européen qui pourrait intervenir avec un budget et des règles communes.
+[00:15:41.510 --> 00:15:48.790] Et si vous comptez sur la seule mobilité des travailleurs pour tout corriger, la zone euro va devenir un sacré bordel linguistique.
+[00:15:49.670 --> 00:15:55.270] Cette absence de mécanismes a conduit à des faillites, des délocalisations, du chômage, de l'endettement public
+[00:15:55.270 --> 00:16:01.110] et des récessions dans les pays les moins compétitifs de la zone euro, qui sont en fait maintenus dans un État
+[00:16:01.110 --> 00:16:09.750] de crise économique perpétuelle à cause du manque d'argent. La monnaie, la cève de l'économie, ne circule plus correctement.
+[00:16:09.750 --> 00:16:15.070] En d'autres termes, l'euro est techniquement foutu. Aujourd'hui, il n'est maintenu que pour des raisons idéologiques,
+[00:16:15.070 --> 00:16:22.510] et sûrement pas pour des bienfaits économiques quelconques. Le bilan de ces effets est clairement négatif, même pour l'Allemagne,
+[00:16:22.510 --> 00:16:27.030] qui bouffera son pain noir quand tout l'échafaudage lui tombera sur la gueule.
+[00:16:27.030 --> 00:16:33.670] Il faut avoir à l'esprit qu'entre 1960 et 2001, le Nouveau Franc n'avait cessé de se déprécier face au Deutschmark.
+[00:16:33.670 --> 00:16:39.990] Et c'est pas parce qu'on a décidé que ces deux monnaies allaient s'échanger ad vitam et ternam à un taux fixe de 1 pour 1
+[00:16:39.990 --> 00:16:49.070] que cette tendance a disparu. La richesse, ça ne se décrète pas. Depuis 2001, donc, les écarts de compétitivité se creusent,
+[00:16:49.070 --> 00:16:56.230] malgré la multiplication des réformes et des efforts. Et comme les parités des monnaies sont figées, les conséquences se traduisent
+[00:16:56.230 --> 00:17:03.030] par un marasme économique dans le Sud et des excédents commerciaux gigantesques en Allemagne, accompagnés d'une envolée
+[00:17:03.030 --> 00:17:10.670] des soldes Target 2 qui va de pair. Pour que l'euro fonctionne dans les conditions actuelles, c'est-à-dire sans fédéralisme
+[00:17:10.670 --> 00:17:16.950] ou d'autres mécanismes, il faudrait que les travailleurs des pays les moins compétitifs que l'Allemagne acceptent d'être toujours
+[00:17:16.950 --> 00:17:22.910] plus pauvres que les travailleurs allemands. Et au vu du mouvement des Gilets jaunes, ça ne semble pas être une alternative
+[00:17:22.910 --> 00:17:25.310] acceptable pour les Français.
+[00:17:25.310 --> 00:17:31.310] — Et moi, j'ai discuté avec un député qui a dîné la semaine dernière avec Scheuble, l'ancien ministre des Finances allemand,
+[00:17:31.310 --> 00:17:38.870] qui est pas un rigolo, comme tout le monde le sait. Et ils ont parlé d'Emmanuel Macron, et il lui a dit « Emmanuel Macron, game over ».
+[00:17:38.870 --> 00:17:45.110] C'est-à-dire que les Allemands considèrent que la France est terminée, il ne fera plus aucune réforme, game over.
+[00:17:45.110 --> 00:17:50.830] Et la question que se posent les Allemands et que se pose M. Scheuble, c'est est-ce que finalement la France est réformable ou pas ?
+[00:17:50.830 --> 00:17:53.470] Parce qu'en ce qui concerne Macron, c'est game over.
+[00:17:53.470 --> 00:17:59.790] Bon bah voilà. Game over. On arrive au bout de ce qu'on peut imposer. Donc maintenant, le système commence à être bloqué.
+[00:17:59.790 --> 00:18:06.350] Et l'avenir est relativement simple à prévoir. Au fur et à mesure que les écarts de compétitivité entre les pays de la zone euro
+[00:18:06.350 --> 00:18:13.830] vont se creuser, la conciliation impossible entre le maintien de l'euro et le maintien du niveau de vie des gens va créer
+[00:18:13.830 --> 00:18:21.190] un désordre social de plus en plus important jusqu'à mener à l'explosion de l'euro, ou au génocide des travailleurs récalcitrants.
+[00:18:21.190 --> 00:18:27.590] Ça, c'est possible aussi. Bon, pour l'instant, Macron leur crève les yeux. On verra bien s'il va plus loin.
+[00:18:27.590 --> 00:18:34.290] L'euro est aujourd'hui l'équivalent d'un mort clinique qui attend des débranchés. Sur le plan biologique, sa vie,
+[00:18:34.290 --> 00:18:40.650] ses présences sous forme de billets et de numéros sur nos comptes. Mais sur le plan technique, la monnaie ne circule plus.
+[00:18:40.650 --> 00:18:48.610] Et je vois mal comment on pourrait réveiller ce cadavre. Contrairement à nos dirigeants, dont la suffisance n'est légale que la stupidité,
+[00:18:48.610 --> 00:18:54.810] les Allemands ont bien compris qu'il était temps de réfléchir à des stratégies pour se tirer de ce merdier sans trop de casse.
+[00:18:54.810 --> 00:19:00.650] Sans trop de casse pour eux, hein, évidemment. Les Italiens sont aussi prêts au départ, mais pas de la même façon
+[00:19:00.650 --> 00:19:05.150] et pas pour les mêmes raisons. Ce sera les sujets des prochains épisodes de cette série.

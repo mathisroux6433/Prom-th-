@@ -1,0 +1,140 @@
+Crée un index documentaire fidèle en JSON strict. Ne juge pas la véracité. Distingue pour personnes, organismes et événements le niveau 'mention' ou 'developpe'. N'invente rien. Les citations_exactes doivent être verbatim ; les expressions_representatives ne sont pas des citations. Chaque élément thématique utile porte si possible des horodatages. Retourne uniquement un objet suivant cette structure :
+{
+  "citations_exactes": [],
+  "concepts": [],
+  "evenements_lois_reglementations": [],
+  "expressions_representatives": [],
+  "mots_cles": [],
+  "organismes": [],
+  "personnes": [],
+  "reperes_temporels": [],
+  "resume_general": "",
+  "schema_version": "1.0",
+  "sujets_secondaires": [],
+  "themes_principaux": [],
+  "variantes_lexicales": [],
+  "video_id": "Q99fEqQfuW4"
+}
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "Q99fEqQfuW4",
+  "title": "[20ans de l’€] -3- L’origine des \"fausses\" dettes Target2",
+  "channel": "Trouble Fait",
+  "channel_id": "UCynFUJ4zUVuh3GX7bABTjGQ",
+  "upload_date": "20191029",
+  "duration_seconds": 718,
+  "webpage_url": "https://www.youtube.com/watch?v=Q99fEqQfuW4",
+  "description": "Les soldes Target2 apparaissent à cause de la circulation de la monnaie d’un état vers un autre état dans la zone euro.  Le but de cette vidéo (en 2 parties) sera donc de comprendre ce mystère : \nPourquoi la circulation des euros créé des dettes entre les états quand ils traversent une frontière ?\nLa réponse à cette question en apparence anodine, technique et chiante se comptera en milliers de milliards d’euro quand l’euro explosera.\n\nLien vers la playlist de la série :\nhttps://www.youtube.com/playlist?list=PLRFRwS8s4qMrKCLG2RtIBlDWwENzWODd1\n\nTipeee : https://www.tipeee.com/troublefait\nDiscord : https://discordapp.com/invite/FcbJ8vU\nFacebook : https://www.facebook.com/1TroubleFait\nTwitter : https://twitter.com/1TroubleFait\n\nPlus d’infos :\nLes Crises : 1/3 La Monnaie Banque Centrale – ou pourquoi la BCE n’a pas injecté 1000 Md€ :\nhttps://www.les-crises.fr/la-monnaie-banque-centrale-1/\nLes Crises : 2/3 La Monnaie Banque Centrale – explications :\nhttps://www.les-crises.fr/la-monnaie-banque-centrale-2/\nLes Crises : 3/3 La Monnaie Banque Centrale paiements internationaux et EuroSystème :\nhttps://www.les-crises.fr/la-monnaie-banque-centrale-4/\nLes Crises : 0110 Les soldes TARGET2 :\nhttps://www.les-crises.fr/soldes-target2/\nLes Crises : 0113 Synthèse des mouvements interbancaires :\nhttps://www.les-crises.fr/synthese-des-mouvements-bce/\nLes Crises : 0101 Évolution des dépôts bancaires dans la zone euro :\nhttps://www.les-crises.fr/depots-eurozone/\nLes déséquilibres TARGET2, de nouveau au centre de l’attention :\nhttps://urlz.fr/aT2V\nCompensation - La finance pour tous\nhttps://urlz.fr/aT32\nMonnaie, Compensation et règlements interbancaires\nhttp://www.bayard-macroeconomie.com/compensationetreglementsinterbancaires.html\nPourquoi les banques déposent-elles leurs liquidités à la facilité de dépôt de la BCE : https://urlz.fr/aT33\nUne monnaie stable :\nhttp://www.nbbmuseum.be/doc/chap5f.pdf\nTARGET2 - Banque de France Banque de France\nhttps://urlz.fr/aT2W\nTarget 2 architecture, modules, gestion de la liquidité...\nhttps://urlz.fr/aT2X\nTARGET2 un élément de la nouvelle architecture financière de l’économie européenne – Persée :\nhttps://urlz.fr/aT2Y\nL'essentiel du postmarché - Paiements_Salvat :\nhttps://urlz.fr/aT2Z\nLes déséquilibres TARGET2, de nouveau au centre de l’attention :\nhttps://urlz.fr/aT30\nJean-Pierre CHEVALLIER » Target 2 pour les nuls :\nhttps://urlz.fr/aT31\nLes conséquences fiscales du programme d'achat d'obligations de la BCE Cairn.info :\nhttps://www.cairn.info/revue-d-economie-financiere-2014-1-page-47.htm\n\n\nMusiques :\nGreat Teacher Onizuka music 10: https://www.youtube.com/watch?v=3onReaNc4RM\nOurs Samplus #22 - Burning Around: https://www.youtube.com/watch?v=K6eL6rlLYu8\nOurs Samplus #43 – Magnolia : https://www.youtube.com/watch?v=QpCJoOL5PAg\nProleteR – Memories : https://www.youtube.com/watch?v=1pfBdrCfKAY\nOurs Samplus #32 – Badaswing : https://www.youtube.com/watch?v=_4prkEI7zTw\nOurs Samplus #30 – Toys : https://www.youtube.com/watch?v=ghvakIl35-w",
+  "language": "fr-FR"
+}
+
+TRANSCRIPTION :
+[00:00:10.450 --> 00:00:17.570] Salut à tous. Dans l'épisode précédent, on a vu l'architecture complexe du système bancaire qui permet de faire circuler des euros
+[00:00:17.570 --> 00:00:23.270] créés par différentes banques dans différents pays sans risquer de faire apparaître de faux bénéfices ou de fausses pertes
+[00:00:23.270 --> 00:00:30.930] par le simple fait d'un transfert de la monnaie. Et aujourd'hui, on va voir comment tout ça a commencé à merder.
+[00:00:30.930 --> 00:00:39.570] – La Grèce a poussé un soupir de soulagement. Ils ont dit ouf, ça y est, on y est. Et ils ont complètement lâché la bride.
+[00:00:39.570 --> 00:00:45.980] C'est ça le problème.
+[00:00:45.980 --> 00:00:54.180] – Avec l'euro, une monnaie qui inspire confiance, les Grecs peuvent emprunter à tout va. Une vie à crédit, de l'argent facile.
+[00:00:54.180 --> 00:00:59.300] Athènes découvre à son tour les années friques.
+[00:00:59.300 --> 00:01:05.100] Jusqu'en 2008, l'euro a été une aubaine pour les pays du Sud. Les ménages et les entreprises ont pu s'endetter auprès de leurs banques
+[00:01:05.100 --> 00:01:12.260] à faible taux pour consommer et investir. Le but était justement d'opérer un rattrapage économique de ces pays.
+[00:01:12.260 --> 00:01:19.140] – C'était vraiment un climat qui a duré pendant 5 ans, qui était vraiment un climat extraordinaire pour la Grèce.
+[00:01:19.140 --> 00:01:28.380] – On a pas acheté l'argent par le chnèvre. On l'a mis dans des forges, des vacances, des bateaux, de l'immobilier.
+[00:01:28.380 --> 00:01:33.740] Par leurs dépenses, une partie de cet argent atterrissait dans les pays du Nord. Tant que les agents économiques du Nord
+[00:01:33.740 --> 00:01:40.660] renvoyaient vers le Sud une somme équivalente par la consommation et surtout par l'investissement, puisqu'il y avait des opportunités,
+[00:01:40.660 --> 00:01:47.300] l'euro fonctionnait et le marché interbancaire aussi. Mais la confiance s'est envolée avec la crise des subprimes.
+[00:01:47.300 --> 00:01:54.060] Et les banques ont arrêté de se faire crédier entre elles de la monnaie centrale pour deux raisons. D'abord parce que les échanges Nord-Sud
+[00:01:54.060 --> 00:01:59.860] ont commencé à se déséquilibrer. Les pays du Sud étant les plus exposés à la crise, les agents économiques du Nord
+[00:01:59.860 --> 00:02:05.940] ont cessé d'investir dans ces pays et ont même commencé à rapatrier des capitaux, faisant apparaître une asymétrie
+[00:02:05.940 --> 00:02:13.380] dans les échanges entre certains pays. Les soldes débiteurs des banques du Sud sur les banques du Nord augmentaient sans cesse,
+[00:02:13.380 --> 00:02:20.500] mettant en danger les banques prêteuses. Et deuxièmement, à cause de la dispersion des subprimes dans l'économie par le processus
+[00:02:20.500 --> 00:02:27.140] de la titrisation, un grand nombre d'actifs étaient devenus douteux, voire même totalement merdiques. Et même les obligations d'État
+[00:02:27.140 --> 00:02:33.700] avaient subi une dépréciation suite à l'abaissement de leurs notes par les agences de notation. Les banques du Nord ont donc arrêté
+[00:02:33.700 --> 00:02:39.500] de faire des avances de monnaie centrale aux banques du Sud. Et elles ont aussi refusé d'être payées avec des actifs
+[00:02:39.500 --> 00:02:46.020] dont on était devenus incapables d'estimer la valeur réelle. Et comme je l'ai dit, s'échanger des actifs de différentes natures
+[00:02:46.020 --> 00:02:51.980] n'est pas le plus pratique à grande échelle. Le marché interbancaire de la zone euro, comme ceux interne aux États,
+[00:02:51.980 --> 00:02:59.140] ont donc cessé de fonctionner parce que les banques ne se faisaient plus confiance entre elles. Par conséquent, toutes les transactions
+[00:02:59.140 --> 00:03:06.620] interbancaires de la zone euro se soldent maintenant par des transferts réels en monnaie centrale. Il a donc fallu augmenter le matelas.
+[00:03:06.620 --> 00:03:13.940] Pour maintenir la circulation de la monnaie, et donc l'existence de la zone euro, les banques centrales ont été obligées d'intervenir.
+[00:03:13.940 --> 00:03:19.580] Elles ont fourni un énorme matelas de monnaie centrale aux banques commerciales en rachetant les actifs pourris qu'elles ne voulaient plus
+[00:03:19.580 --> 00:03:25.420] échanger entre elles. Et c'est ainsi que les banques centrales sont devenues les soldes intermédiaires des banques commerciales
+[00:03:25.420 --> 00:03:36.060] dans les transferts entre banques et surtout entre États de la zone euro. C'est alors qu'apparaissent les soldes Target.
+[00:03:36.060 --> 00:03:43.060] Bon, maintenant qu'on a fait le point sur l'historique, voyons ce qui se passe dans notre exemple sans marché interbancaire.
+[00:03:43.060 --> 00:03:49.300] Prolovitch ordonne à la BNP un paiement chez un fournisseur qui a un compte en Allemagne. La BNP commence par détruire
+[00:03:49.300 --> 00:03:55.860] 100 € de monnaie BNP sur le compte de Prolovitch. Puis elle va donner ordre à la Banque de France de transférer 100 €
+[00:03:55.860 --> 00:04:02.140] de monnaie centrale sur le compte de la Deutsche Bank. Le même schéma va se reproduire. La Banque de France va commencer
+[00:04:02.140 --> 00:04:08.500] par détruire 100 € de monnaie Banque de France sur le compte de la BNP. Et elle va les transférer à la Bundesbank,
+[00:04:08.500 --> 00:04:15.540] qui va pouvoir créer 100 € de monnaie centrale allemande crédité sur le compte de la Deutsche Bank. Avec cette nouvelle monnaie centrale,
+[00:04:15.540 --> 00:04:25.370] la Deutsche Bank va pouvoir créditer le compte de son fournisseur de 100 € tant pis les Deutsche Bank. Et celui-ci va pouvoir livrer son client.
+[00:04:25.370 --> 00:04:30.050] Gardez en tête que la BCE sert d'intermédiaire entre les banques centrales. Mais je l'ai pas mis dans le schéma pour ne pas
+[00:04:30.050 --> 00:04:37.730] complexifier inutilement la suite des explications. On y reviendra un peu plus tard. Ce qu'on appelle « debt target »,
+[00:04:37.730 --> 00:04:44.930] en fait, c'est juste la monnaie centrale française qui atterrit à l'actif de la Bundesbank pour qu'elle crée la monnaie centrale allemande
+[00:04:44.930 --> 00:04:51.130] dans le cadre d'un transfert de monnaie secondaire d'un système bancaire à un autre au sein de la zone euro.
+[00:04:51.130 --> 00:04:56.970] Pourtant, on voit pas bien pourquoi on parle de « debt », parce que l'échange est équilibré. La Bundesbank a reçu un actif
+[00:04:56.970 --> 00:05:04.610] d'une certaine valeur, puis elle en a créé un autre de même valeur à destination des banques commerciales de son système bancaire.
+[00:05:04.610 --> 00:05:10.830] Et c'est tout à fait vrai, il n'y a pas de « debt ». Tant qu'un euro français égale un euro allemand égale un euro finlandais, etc.,
+[00:05:10.830 --> 00:05:17.550] personne ne doit rien à personne. Le solde target négatif de la France ne signifie pas qu'elle doit cette somme à un autre pays.
+[00:05:17.550 --> 00:05:23.590] Ça signifie que de l'argent créé en France par les banques commerciales a quitté le pays et se balade dans la zone euro
+[00:05:23.590 --> 00:05:29.710] sans avoir fait le chemin inverse. C'est seulement en cas de sortie d'un état de la zone euro que les soldes target deviennent déduits,
+[00:05:29.710 --> 00:05:36.350] qui doivent être payés entièrement en euros le jour même de la sortie. C'est une règle inscrite dans les traités européens
+[00:05:36.350 --> 00:05:42.230] et qui a été confirmée par Mario Draghi, l'ancien président de la BCE. Il y a quand même un petit flou juridique sur tout ça,
+[00:05:42.230 --> 00:05:47.830] mais c'est vrai qu'il est pas illogique que les soldes target échappent à leur redénomination en monnaie nationale
+[00:05:47.830 --> 00:05:54.030] pour éviter de déséquilibrer le bilan des banques créditrices. On va prendre un exemple. Imaginons que la France sorte de l'euro
+[00:05:54.030 --> 00:06:01.670] et que le nouveau franc se déprécie de 10% par rapport à l'euro. La monnaie centrale française présente sur le compte de la Bundesbank
+[00:06:01.670 --> 00:06:09.470] deviendrait 100 francs, qui vaudrait 90 €. La Bundesbank constaterait alors une perte de 10 €, qui serait sûrement absorbée
+[00:06:09.470 --> 00:06:15.790] par son capital. Mais selon les règles en vigueur, si cette perte devait mettre la banque en difficulté, elle devrait être
+[00:06:15.790 --> 00:06:22.310] recapitalisée par l'État allemand, c'est-à-dire par les contribuables. La Banque de France doit donc remplacer
+[00:06:22.310 --> 00:06:28.390] les 100 € de monnaie centrale française par 100 € de monnaie centrale de n'importe quel État restant dans la zone euro.
+[00:06:28.390 --> 00:06:34.390] Et pour ça, elle va vendre des francs contre des euros sur les marchés financiers. Pour un État comme la France,
+[00:06:34.390 --> 00:06:40.630] si le solde n'est que de quelques dizaines de milliards, la dévaluation qui s'en suivrait serait relativement supportable,
+[00:06:40.630 --> 00:06:47.990] voire même totalement 1 $. Par contre, si le solde Target devait dépasser, disons, les 500 milliards d'euros,
+[00:06:47.990 --> 00:06:53.390] comme c'est le cas pour l'Italie, ce qui représente à peu près 25% de son PIB, on voit mal comment elle pourrait obtenir
+[00:06:53.390 --> 00:06:59.950] cette somme en une journée en vendant des lire. Un tel afflux de devises déséquilibrerait complètement le marché des monnaies
+[00:06:59.950 --> 00:07:06.270] et entraînerait une dévaluation de la lire gigantesque sans pour autant réussir à payer. On peut donc imaginer
+[00:07:06.270 --> 00:07:11.710] que l'État italien viendrait au secours de sa banque centrale pour l'aider à payer cette dette Target avec toutes sortes
+[00:07:11.710 --> 00:07:18.030] d'actifs acceptés par la Bundesbank, ce qui reviendrait à piller littéralement le contribuable italien.
+[00:07:18.030 --> 00:07:23.990] Il y a donc peu de chances pour qu'ils choisissent cette option. En fait, face à une telle somme, l'hypothèse la plus probable
+[00:07:23.990 --> 00:07:29.990] est que l'Italie fasse défaut sur toute ou partie de cette dette et que la charge en retombe sur le contribuable allemand
+[00:07:29.990 --> 00:07:34.990] et plus largement européen. Car n'oubliez pas que la BCE sert d'intermédiaire dans tout ce merdier.
+[00:07:34.990 --> 00:07:41.040] Et c'est d'ailleurs pour ça qu'elle va nous intéresser. Mais on en reparlera dans d'autres épisodes.
+[00:07:41.040 --> 00:07:46.720] Si on respecte à la lettre les règles des traités européens et l'orthodoxie en vigueur dans la gestion des banques centrales,
+[00:07:46.720 --> 00:07:52.520] ces deux scénarios me semblent être les plus probables en cas de sortie de la zone euro d'un pays débiteur.
+[00:07:52.520 --> 00:07:59.080] Soit le solde est petit et il peut payer, soit le solde est trop gros et il fait défaut. Mais si on y réfléchit,
+[00:07:59.080 --> 00:08:05.640] il est parfaitement injuste de faire payer cette somme à n'importe quel contribuable et de quelque manière que ce soit.
+[00:08:05.640 --> 00:08:13.530] C'est ici que commence la partie. Cette dette n'en est pas une. Sur notre schéma, on peut voir que le client a bien payé
+[00:08:13.530 --> 00:08:19.090] son fournisseur. Son compte a été débité. L'économie réelle s'arrête à cet échange.
+[00:08:19.090 --> 00:08:24.410] Tout le mixte entre les banques commerciales et les banques centrales n'est qu'une accumulation d'écriture comptable
+[00:08:24.410 --> 00:08:31.490] qui ne sert qu'à faire circuler 100 € d'une banque à une autre, en évitant de faire apparaître de faux bénéfices ou de fausses pertes.
+[00:08:31.490 --> 00:08:37.610] Dans notre exemple, et je dis bien « dans notre exemple », la monnaie centrale créée n'a qu'une valeur fictive.
+[00:08:37.610 --> 00:08:42.530] Elle n'a été produite par aucun travail en amont et ne payera aucun travail en aval.
+[00:08:42.530 --> 00:08:47.890] Jamais cette monnaie ne va se retrouver dans l'économie réelle. Elle est destinée à tourner en circuit fermé
+[00:08:47.890 --> 00:08:53.970] entre les comptes des banques commerciales auprès des banques centrales pour faire circuler la monnaie créée par les banques commerciales,
+[00:08:53.970 --> 00:08:59.770] qui, elle, est la monnaie de l'économie réelle. C'est tellement vrai qu'on pourrait remplacer la monnaie centrale
+[00:08:59.770 --> 00:09:04.730] par des billets de monopolie sans valeur réelle, mais qui seraient simplement tamponés par les banques centrales,
+[00:09:04.730 --> 00:09:13.930] sans que ça ne change rien au système. C'est exactement ce qui se passe, en fait. L'argent des abonnés.
+[00:09:14.450 --> 00:09:21.090] Regardez ce qui se passe. La Bundesbank crée 100 € de billets monopolie allemand. La Banque de France lui donne en échange
+[00:09:21.090 --> 00:09:27.250] 100 € de billets de monopolie français. Et une fois que la Deutsche Bank les a reçus sur son compte, elle crée 100 € tamponnés
+[00:09:27.250 --> 00:09:32.450] Deutsche Bank qui vont servir à l'économie réelle. Dans cette situation, l'évidence saute aux yeux.
+[00:09:32.450 --> 00:09:38.730] La monnaie centrale et les dettes Target associées n'ont aucune valeur dans ce cas. Ce sont seulement des artifices comptables
+[00:09:38.730 --> 00:09:45.690] qui servent à faire circuler la monnaie d'une banque commerciale à une autre. Toutefois, si personne ne perd d'argent
+[00:09:45.690 --> 00:09:52.050] au sens où on l'entend communément, il y a quand même une conséquence. Car si la Bundesbank crée de la monnaie,
+[00:09:52.050 --> 00:09:58.530] donc de la dette, sans reconnaissance de dette solide en contrepartie, la qualité de sa monnaie, c'est-à-dire sa valeur,
+[00:09:58.530 --> 00:10:06.000] va se dégrader. C'est pour ça qu'en cas de sortie d'un pays débiteur de la zone euro que le montant de son solde Target
+[00:10:06.000 --> 00:10:12.800] doit être maintenu en euros pour éviter la dépréciation des actifs, c'est-à-dire de la monnaie centrale du pays sortant,
+[00:10:12.800 --> 00:10:19.240] détenus par les banques centrales de l'eurosystème. Le terme « dette Target » crée une confusion dans l'esprit des gens
+[00:10:19.240 --> 00:10:24.600] qui vont penser qu'elles doivent être payées comme les dettes de M. et Mme Tout-le-Monde, ce qui serait une avissale connerie.
+[00:10:24.600 --> 00:10:31.600] Car si on devait taxer les contribuables pour payer ses dettes, ça équivaudrait à payer deux fois la même facture.
+[00:10:31.600 --> 00:10:37.280] Boucher des trous de monnaie dont la valeur est fictive en ponctionnant de la monnaie dont la valeur est réelle
+[00:10:37.280 --> 00:10:42.960] aurait des conséquences désastreuses pour l'économie réelle et d'autant plus injustes qu'elle est inutile.
+[00:10:42.960 --> 00:10:50.100] C'est pas à Prolovitch de payer parce que le transfert de son argent a déséquilibré le bilan de la Banque centrale allemande.
+[00:10:50.100 --> 00:10:55.820] Bon, faut être réaliste. Les règles des traités européens ne s'appliquent que pour de petits soldes débiteurs.
+[00:10:55.820 --> 00:11:00.800] Au-delà de quelques % du PIB d'un pays, ça devient compliqué d'obtenir la somme en une journée.
+[00:11:00.800 --> 00:11:05.560] Alors peut-être qu'en allongeant le délai, on peut encore bricoler. Mais pour des cas comme l'Italie ou l'Espagne,
+[00:11:05.560 --> 00:11:11.560] où on dépasse les 20% du PIB, faut oublier les règles des traités. Et c'est aux Banques centrales de s'entendre entre elles
+[00:11:11.560 --> 00:11:16.320] pour trouver des solutions qui n'impactent pas ou peu l'économie réelle.
+[00:11:16.320 --> 00:11:21.080] Tout ça mériterait d'être un peu développé, mais j'en dis pas plus pour l'instant. On y reviendra dans les épisodes
+[00:11:21.080 --> 00:11:25.920] sur les plans de sortie allemand et italien. En attendant, je vous donne rendez-vous pour la suite.
+[00:11:25.920 --> 00:11:31.440] Et je vous rassure, à partir de là, c'est moins technique et plus politique. On verra pourquoi l'existence de ces soldes
+[00:11:31.440 --> 00:11:36.880] de Target, qui ne cessent de se creuser, permettent de dire que l'euro est une monnaie en sursis.

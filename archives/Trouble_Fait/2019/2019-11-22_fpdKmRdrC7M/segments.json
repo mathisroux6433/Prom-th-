@@ -1,0 +1,2369 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 6.64,
+      "start_timestamp": "00:00:00.000",
+      "end_timestamp": "00:00:06.640",
+      "text": "Salut à tous. À ce stade de cette série, on va partir du principe que l'euro va disparaître dans un délai relativement court"
+    },
+    {
+      "id": 1,
+      "start": 6.64,
+      "end": 12.4,
+      "start_timestamp": "00:00:06.640",
+      "end_timestamp": "00:00:12.400",
+      "text": "à cause des déséquilibres dont on a parlé dans les précédents épisodes. En effet, je vois pas trop par quel miracle"
+    },
+    {
+      "id": 2,
+      "start": 12.4,
+      "end": 18.96,
+      "start_timestamp": "00:00:12.400",
+      "end_timestamp": "00:00:18.960",
+      "text": "des gens qui ne s'entendent sur rien jusqu'à maintenant vont soudainement être d'accord sur tout pour sauver une construction idéologique"
+    },
+    {
+      "id": 3,
+      "start": 18.96,
+      "end": 26.84,
+      "start_timestamp": "00:00:18.960",
+      "end_timestamp": "00:00:26.840",
+      "text": "somme toute facultative et qui fait plus de mal que de bien. Au vu des conséquences désastreuses de l'euro pour l'économie des pays du Sud,"
+    },
+    {
+      "id": 4,
+      "start": 26.84,
+      "end": 32.6,
+      "start_timestamp": "00:00:26.840",
+      "end_timestamp": "00:00:32.600",
+      "text": "on pourrait penser qu'ils seront les premiers à vouloir quitter ce système, et qu'au contraire, l'Allemagne fera tout pour les retenir"
+    },
+    {
+      "id": 5,
+      "start": 32.6,
+      "end": 40.32,
+      "start_timestamp": "00:00:32.600",
+      "end_timestamp": "00:00:40.320",
+      "text": "et maintenir l'intégrité de l'euro dont elle tire profit. Dont elle tire profit en apparence. Eh oui, car contre toute attente,"
+    },
+    {
+      "id": 6,
+      "start": 40.32,
+      "end": 60.82,
+      "start_timestamp": "00:00:40.320",
+      "end_timestamp": "00:01:00.820",
+      "text": "la fin de l'euro pourrait bien être causée par l'Allemagne, pour qui la stabilité monétaire est un dogme plus fort que l'euro."
+    },
+    {
+      "id": 7,
+      "start": 60.82,
+      "end": 67.62,
+      "start_timestamp": "00:01:00.820",
+      "end_timestamp": "00:01:07.620",
+      "text": "Les Allemands ont en effet été marqués par l'épisode d'hyperinflation qu'ils ont connu entre 1918 et 1923."
+    },
+    {
+      "id": 8,
+      "start": 67.62,
+      "end": 79.26,
+      "start_timestamp": "00:01:07.620",
+      "end_timestamp": "00:01:19.260",
+      "text": "La valeur de 1 marque or était passée de 1 marque papier à 1000 milliards de marques papier, entraînant une apocalypse monétaire."
+    },
+    {
+      "id": 9,
+      "start": 79.26,
+      "end": 89.66,
+      "start_timestamp": "00:01:19.260",
+      "end_timestamp": "00:01:29.660",
+      "text": "Aussi, après la Seconde Guerre mondiale, le patriotisme n'étant plus trop à la mode, surtout en Allemagne, la fierté nationale a trouvé refuge dans la monnaie."
+    },
+    {
+      "id": 10,
+      "start": 89.66,
+      "end": 96.5,
+      "start_timestamp": "00:01:29.660",
+      "end_timestamp": "00:01:36.500",
+      "text": "Avoir une monnaie forte et stable est devenu un impératif moral pour tous les Allemands, mais aussi un impératif économique,"
+    },
+    {
+      "id": 11,
+      "start": 96.5,
+      "end": 101.82,
+      "start_timestamp": "00:01:36.500",
+      "end_timestamp": "00:01:41.820",
+      "text": "en raison de leur système de retraite par capitalisation. Vous avez besoin que l'argent que vous avez placé il y a 40 ans"
+    },
+    {
+      "id": 12,
+      "start": 101.82,
+      "end": 108.5,
+      "start_timestamp": "00:01:41.820",
+      "end_timestamp": "00:01:48.500",
+      "text": "ait à peu près la même valeur au moment où vous prenez votre retraite. Du coup, tous les Allemands sont prêts à de nombreux sacrifices"
+    },
+    {
+      "id": 13,
+      "start": 108.5,
+      "end": 116.06,
+      "start_timestamp": "00:01:48.500",
+      "end_timestamp": "00:01:56.060",
+      "text": "pour lutter contre l'inflation. Et pour ça, ils ont adopté des règles strictes. La Bundesbank est indépendante du pouvoir politique,"
+    },
+    {
+      "id": 14,
+      "start": 116.06,
+      "end": 122.26,
+      "start_timestamp": "00:01:56.060",
+      "end_timestamp": "00:02:02.260",
+      "text": "qui ne peut pas actionner la planche à billets pour financer les dépenses de l'État. Celui-ci est donc contraint de recourir au marché privé"
+    },
+    {
+      "id": 15,
+      "start": 122.26,
+      "end": 129.54,
+      "start_timestamp": "00:02:02.260",
+      "end_timestamp": "00:02:09.540",
+      "text": "et de gérer rigoureusement son budget pour obtenir les meilleurs taux possibles. Pour lutter contre l'inflation, la Bundesbank"
+    },
+    {
+      "id": 16,
+      "start": 129.54,
+      "end": 136.58,
+      "start_timestamp": "00:02:09.540",
+      "end_timestamp": "00:02:16.580",
+      "text": "contrôle l'offre de crédit des banques commerciales en contrôlant minutieusement la base monétaire, c'est-à-dire l'offre de monnaie centrale,"
+    },
+    {
+      "id": 17,
+      "start": 136.58,
+      "end": 141.1,
+      "start_timestamp": "00:02:16.580",
+      "end_timestamp": "00:02:21.100",
+      "text": "par des politiques de taux d'intérêt, qu'elle monte ou qu'elle baisse en fonction de ce qu'elle veut faire."
+    },
+    {
+      "id": 18,
+      "start": 141.1,
+      "end": 150.22,
+      "start_timestamp": "00:02:21.100",
+      "end_timestamp": "00:02:30.220",
+      "text": "Et pour être sûr de pouvoir à chaque instant retirer de la monnaie du système, elle suit des règles strictes pour sa mise à disposition."
+    },
+    {
+      "id": 19,
+      "start": 150.22,
+      "end": 156.34,
+      "start_timestamp": "00:02:30.220",
+      "end_timestamp": "00:02:36.340",
+      "text": "Elle n'est octroyée que par des prêts, de préférence à court terme et toujours solidement garantie."
+    },
+    {
+      "id": 20,
+      "start": 156.34,
+      "end": 163.38,
+      "start_timestamp": "00:02:36.340",
+      "end_timestamp": "00:02:43.380",
+      "text": "Comme on l'a vu dans l'épisode 2 et 3, les banques commerciales doivent déposer à la Bundesbank des actifs qualifiés déligibles"
+    },
+    {
+      "id": 21,
+      "start": 163.38,
+      "end": 169.38,
+      "start_timestamp": "00:02:43.380",
+      "end_timestamp": "00:02:49.380",
+      "text": "du même montant que leur emprunt. Pour rappel, il s'agit bien souvent d'obligations d'État ou d'entreprise."
+    },
+    {
+      "id": 22,
+      "start": 169.38,
+      "end": 176.02,
+      "start_timestamp": "00:02:49.380",
+      "end_timestamp": "00:02:56.020",
+      "text": "Les actions sont aussi acceptées, mais avec une décode de 20 à 30%. En cas de faillite de la banque commerciale,"
+    },
+    {
+      "id": 23,
+      "start": 176.02,
+      "end": 181.74,
+      "start_timestamp": "00:02:56.020",
+      "end_timestamp": "00:03:01.740",
+      "text": "la banque centrale se remboursera en vendant les actifs qu'elle a pris en garantie. L'objectif de la Bundesbank,"
+    },
+    {
+      "id": 24,
+      "start": 181.74,
+      "end": 189.3,
+      "start_timestamp": "00:03:01.740",
+      "end_timestamp": "00:03:09.300",
+      "text": "c'est d'éviter à tout prix de faire une perte financière qui l'empêcherait techniquement de retirer de l'économie le montant de cette perte."
+    },
+    {
+      "id": 25,
+      "start": 189.3,
+      "end": 195.7,
+      "start_timestamp": "00:03:09.300",
+      "end_timestamp": "00:03:15.700",
+      "text": "En gros, ça voudrait dire qu'elle a créé de la monnaie, mais en échange de rien, et donc que la monnaie s'est dépréciée."
+    },
+    {
+      "id": 26,
+      "start": 195.7,
+      "end": 201.46,
+      "start_timestamp": "00:03:15.700",
+      "end_timestamp": "00:03:21.460",
+      "text": "Si vous remarquez des similitudes avec les règles en vigueur dans la zone euro, c'est normal."
+    },
+    {
+      "id": 27,
+      "start": 201.46,
+      "end": 206.78,
+      "start_timestamp": "00:03:21.460",
+      "end_timestamp": "00:03:26.780",
+      "text": "Craignant le retour d'une Allemagne forte après la réunification, Mitterrand avait poussé à la création de l'euro,"
+    },
+    {
+      "id": 28,
+      "start": 206.78,
+      "end": 212.22,
+      "start_timestamp": "00:03:26.780",
+      "end_timestamp": "00:03:32.220",
+      "text": "espérant contraindre les Allemands à la solidarité européenne. Les Allemands, d'abord réticents,"
+    },
+    {
+      "id": 29,
+      "start": 212.22,
+      "end": 220.3,
+      "start_timestamp": "00:03:32.220",
+      "end_timestamp": "00:03:40.300",
+      "text": "ont fini par accepter à la seule condition que ce soit un euro marque, aligné sur les considérations idéologiques allemandes."
+    },
+    {
+      "id": 30,
+      "start": 220.3,
+      "end": 226.46,
+      "start_timestamp": "00:03:40.300",
+      "end_timestamp": "00:03:46.460",
+      "text": "Du coup, l'ABCE est indépendante du pouvoir politique, et elle se situe à Frankfurt, la ville de la Bundesbank."
+    },
+    {
+      "id": 31,
+      "start": 226.46,
+      "end": 230.74,
+      "start_timestamp": "00:03:46.460",
+      "end_timestamp": "00:03:50.740",
+      "text": "Elle a interdiction de recourir à la planche à billets et de financer les États. L'inflation ne doit pas"
+    },
+    {
+      "id": 32,
+      "start": 230.74,
+      "end": 239.1,
+      "start_timestamp": "00:03:50.740",
+      "end_timestamp": "00:03:59.100",
+      "text": "dépasser 2%. Le déficit budgétaire des États doit être inférieur à 3% du PIB, etc., etc. C'est aussi l'Allemagne"
+    },
+    {
+      "id": 33,
+      "start": 239.1,
+      "end": 244.98,
+      "start_timestamp": "00:03:59.100",
+      "end_timestamp": "00:04:04.980",
+      "text": "qui a choisi d'utiliser ce système compliqué de monnaie centrale qui ne se mélange pas, justement pour que l'euro"
+    },
+    {
+      "id": 34,
+      "start": 244.98,
+      "end": 254.18,
+      "start_timestamp": "00:04:04.980",
+      "end_timestamp": "00:04:14.180",
+      "text": "soit facilement réversible en cas de pépin, du genre devoir transférer 8 à 10% de son PIP par an aux États les plus pauvres."
+    },
+    {
+      "id": 35,
+      "start": 254.18,
+      "end": 261.38,
+      "start_timestamp": "00:04:14.180",
+      "end_timestamp": "00:04:21.380",
+      "text": "En 1993, Margaret Thatcher avait préféré rester « en dehors de cette grande aventure »."
+    },
+    {
+      "id": 36,
+      "start": 261.38,
+      "end": 267.74,
+      "start_timestamp": "00:04:21.380",
+      "end_timestamp": "00:04:27.740",
+      "text": "Vous n'avez pas ancré l'Allemagne à l'Europe. Vous avez ancré l'Europe à une Allemagne nouvelle, unifiée et dominante."
+    },
+    {
+      "id": 37,
+      "start": 267.74,
+      "end": 273.98,
+      "start_timestamp": "00:04:27.740",
+      "end_timestamp": "00:04:33.980",
+      "text": "À la fin, mes amis, vous constaterez que cela ne peut pas fonctionner. Elle avait compris que l'euro détruirait l'économie"
+    },
+    {
+      "id": 38,
+      "start": 273.98,
+      "end": 281.39,
+      "start_timestamp": "00:04:33.980",
+      "end_timestamp": "00:04:41.390",
+      "text": "des pays les moins compétitifs tout en menant à des politiques inflationnistes insupportables pour les Allemands."
+    },
+    {
+      "id": 39,
+      "start": 281.39,
+      "end": 288.31,
+      "start_timestamp": "00:04:41.390",
+      "end_timestamp": "00:04:48.310",
+      "text": "Sortant de la réunion, préparant le traité de Maastricht, Mitterrand s'exclama au contraire « J'ai cloué la main de l'Allemagne"
+    },
+    {
+      "id": 40,
+      "start": 288.31,
+      "end": 297.5,
+      "start_timestamp": "00:04:48.310",
+      "end_timestamp": "00:04:57.500",
+      "text": "sur la table de l'euro ». Finalement, c'est bien Thatcher qui avait raison. Il avait cloué la zone euro sur la table de l'Allemagne."
+    },
+    {
+      "id": 41,
+      "start": 297.5,
+      "end": 318.27,
+      "start_timestamp": "00:04:57.500",
+      "end_timestamp": "00:05:18.270",
+      "text": "Et maintenant, une allégorie du couple franco-allemand. Mais les Allemands ont laissé passer un petit détail."
+    },
+    {
+      "id": 42,
+      "start": 318.27,
+      "end": 324.15,
+      "start_timestamp": "00:05:18.270",
+      "end_timestamp": "00:05:24.150",
+      "text": "Ils y étaient bien obligés pour permettre la circulation des euros entre les pays. Au sein du système Target 2,"
+    },
+    {
+      "id": 43,
+      "start": 324.15,
+      "end": 330.83,
+      "start_timestamp": "00:05:24.150",
+      "end_timestamp": "00:05:30.830",
+      "text": "en échange de sa monnaie centrale, la Bundesbank ne reçoit pas de beaux actifs, bien sûr, qui vont garder leur valeur."
+    },
+    {
+      "id": 44,
+      "start": 330.83,
+      "end": 336.23,
+      "start_timestamp": "00:05:30.830",
+      "end_timestamp": "00:05:36.230",
+      "text": "Elle ne reçoit que la monnaie centrale en provenance des autres pays de la zone euro, qui s'est accumulée"
+    },
+    {
+      "id": 45,
+      "start": 336.23,
+      "end": 343.23,
+      "start_timestamp": "00:05:36.230",
+      "end_timestamp": "00:05:43.230",
+      "text": "pour atteindre un montant avoisinant les 1 000 milliards d'euros. Ces actifs ne rapportent rien, sont invendables"
+    },
+    {
+      "id": 46,
+      "start": 343.23,
+      "end": 351.03,
+      "start_timestamp": "00:05:43.230",
+      "end_timestamp": "00:05:51.030",
+      "text": "et sont exposés à un risque de redénomination ou de défaut majeur, pour ne pas dire certain. Par conséquent,"
+    },
+    {
+      "id": 47,
+      "start": 351.03,
+      "end": 357.63,
+      "start_timestamp": "00:05:51.030",
+      "end_timestamp": "00:05:57.630",
+      "text": "selon ses propres règles de classement, la Bundesbank considère tous ces actifs comme des créances pourries irrécouvrables."
+    },
+    {
+      "id": 48,
+      "start": 357.63,
+      "end": 363.59,
+      "start_timestamp": "00:05:57.630",
+      "end_timestamp": "00:06:03.590",
+      "text": "Et elle n'a plus qu'à attendre qu'un état débiteur sorte de l'euro pour constater la perte. En d'autres termes,"
+    },
+    {
+      "id": 49,
+      "start": 363.59,
+      "end": 369.19,
+      "start_timestamp": "00:06:03.590",
+      "end_timestamp": "00:06:09.190",
+      "text": "l'euro profite à l'exportateur allemand qui voit son activité économique se développer, mais pas à l'Allemagne"
+    },
+    {
+      "id": 50,
+      "start": 369.19,
+      "end": 376.59,
+      "start_timestamp": "00:06:09.190",
+      "end_timestamp": "00:06:16.590",
+      "text": "prise dans son ensemble. Parce qu'à la fin, les Allemands devront éponger la perte d'une manière ou d'une autre."
+    },
+    {
+      "id": 51,
+      "start": 376.67,
+      "end": 381.59,
+      "start_timestamp": "00:06:16.670",
+      "end_timestamp": "00:06:21.590",
+      "text": "– Mais on nous a souvent dit que les Allemands avaient bénéficié de l'euro. – Mais ça, c'est pas vrai."
+    },
+    {
+      "id": 52,
+      "start": 381.59,
+      "end": 385.35,
+      "start_timestamp": "00:06:21.590",
+      "end_timestamp": "00:06:25.350",
+      "text": "– Alors justement, c'est ça le problème. – C'est pas vrai, parce qu'en quoi en aurait-ils bénéficié ?"
+    },
+    {
+      "id": 53,
+      "start": 385.35,
+      "end": 389.67,
+      "start_timestamp": "00:06:25.350",
+      "end_timestamp": "00:06:29.670",
+      "text": "Ils en auraient bénéficié parce qu'ils seraient devenus des champions du monde de l'exportation."
+    },
+    {
+      "id": 54,
+      "start": 389.67,
+      "end": 393.79,
+      "start_timestamp": "00:06:29.670",
+      "end_timestamp": "00:06:33.790",
+      "text": "Mais enfin, ils sont champions du monde de l'exportation parce qu'ils exportent vers la zone euro."
+    },
+    {
+      "id": 55,
+      "start": 393.79,
+      "end": 399.11,
+      "start_timestamp": "00:06:33.790",
+      "end_timestamp": "00:06:39.110",
+      "text": "Et c'est surtout ça qui fait qu'ils sont champions du monde de l'exportation. Et quel est le but d'exporter ?"
+    },
+    {
+      "id": 56,
+      "start": 399.11,
+      "end": 406.03,
+      "start_timestamp": "00:06:39.110",
+      "end_timestamp": "00:06:46.030",
+      "text": "C'est pas de gagner un titre de compétition, je suis le meilleur exporteur, on s'en fiche, c'est de gagner des sous."
+    },
+    {
+      "id": 57,
+      "start": 406.07,
+      "end": 408.71,
+      "start_timestamp": "00:06:46.070",
+      "end_timestamp": "00:06:48.710",
+      "text": "Et là, ils ne gagnent pas des sous, sinon de manière fictive."
+    },
+    {
+      "id": 58,
+      "start": 408.71,
+      "end": 412.43,
+      "start_timestamp": "00:06:48.710",
+      "end_timestamp": "00:06:52.430",
+      "text": "Regardez ce qui se passe au niveau de l'Allemagne."
+    },
+    {
+      "id": 59,
+      "start": 412.43,
+      "end": 419.19,
+      "start_timestamp": "00:06:52.430",
+      "end_timestamp": "00:06:59.190",
+      "text": "Vous avez un vendeur de voiture qui a réussi à vendre une voiture allemande à un client italien."
+    },
+    {
+      "id": 60,
+      "start": 419.19,
+      "end": 425.15,
+      "start_timestamp": "00:06:59.190",
+      "end_timestamp": "00:07:05.150",
+      "text": "Un exemple vraiment canonique qui ressort dans toutes les conférences, dans toutes les interviews."
+    },
+    {
+      "id": 61,
+      "start": 425.15,
+      "end": 427.47,
+      "start_timestamp": "00:07:05.150",
+      "end_timestamp": "00:07:07.470",
+      "text": "Qu'arrive-t-il à ce vendeur de voiture ?"
+    },
+    {
+      "id": 62,
+      "start": 427.47,
+      "end": 430.83,
+      "start_timestamp": "00:07:07.470",
+      "end_timestamp": "00:07:10.830",
+      "text": "Eh bien, il touche le prix de la voiture et il est content."
+    },
+    {
+      "id": 63,
+      "start": 430.83,
+      "end": 434.35,
+      "start_timestamp": "00:07:10.830",
+      "end_timestamp": "00:07:14.350",
+      "text": "Mais qu'arrive-t-il au niveau du pays tout entier, de l'Allemagne tout entière ? Non."
+    },
+    {
+      "id": 64,
+      "start": 434.43,
+      "end": 440.15,
+      "start_timestamp": "00:07:14.430",
+      "end_timestamp": "00:07:20.150",
+      "text": "Parce qu'en fait, ce n'est pas un italien ou une institution italienne qui a payé."
+    },
+    {
+      "id": 65,
+      "start": 440.15,
+      "end": 442.31,
+      "start_timestamp": "00:07:20.150",
+      "end_timestamp": "00:07:22.310",
+      "text": "C'est la Bundesbank qui a payé."
+    },
+    {
+      "id": 66,
+      "start": 442.31,
+      "end": 446.15,
+      "start_timestamp": "00:07:22.310",
+      "end_timestamp": "00:07:26.150",
+      "text": "Le vendeur de voiture, donc ça se rattrape quoi."
+    },
+    {
+      "id": 67,
+      "start": 446.15,
+      "end": 448.43,
+      "start_timestamp": "00:07:26.150",
+      "end_timestamp": "00:07:28.430",
+      "text": "La somme des deux, c'est..."
+    },
+    {
+      "id": 68,
+      "start": 448.43,
+      "end": 449.79,
+      "start_timestamp": "00:07:28.430",
+      "end_timestamp": "00:07:29.790",
+      "text": "– Par quel biais a-t-elle payé ?"
+    },
+    {
+      "id": 69,
+      "start": 449.79,
+      "end": 456.51,
+      "start_timestamp": "00:07:29.790",
+      "end_timestamp": "00:07:36.510",
+      "text": "– Elle a payé en créditant le compte bancaire du vendeur de voiture."
+    },
+    {
+      "id": 70,
+      "start": 456.51,
+      "end": 457.71,
+      "start_timestamp": "00:07:36.510",
+      "end_timestamp": "00:07:37.710",
+      "text": "– Voilà. – D'accord."
+    },
+    {
+      "id": 71,
+      "start": 457.71,
+      "end": 461.03,
+      "start_timestamp": "00:07:37.710",
+      "end_timestamp": "00:07:41.030",
+      "text": "Mais au total, qu'est-ce qui est entré en Allemagne en fait d'argent ?"
+    },
+    {
+      "id": 72,
+      "start": 461.03,
+      "end": 464.47,
+      "start_timestamp": "00:07:41.030",
+      "end_timestamp": "00:07:44.470",
+      "text": "Uniquement des créances Target."
+    },
+    {
+      "id": 73,
+      "start": 464.47,
+      "end": 470.15,
+      "start_timestamp": "00:07:44.470",
+      "end_timestamp": "00:07:50.150",
+      "text": "Et ce n'est pas exactement un actif de très haute sûreté."
+    },
+    {
+      "id": 74,
+      "start": 470.15,
+      "end": 472.59,
+      "start_timestamp": "00:07:50.150",
+      "end_timestamp": "00:07:52.590",
+      "text": "Donc ils exportent, mais pour rien."
+    },
+    {
+      "id": 75,
+      "start": 472.59,
+      "end": 479.67,
+      "start_timestamp": "00:07:52.590",
+      "end_timestamp": "00:07:59.670",
+      "text": "Et exportant pour rien, le bénéfice de l'exportation qui est celui en général qu'on leur prête,"
+    },
+    {
+      "id": 76,
+      "start": 479.67,
+      "end": 484.95,
+      "start_timestamp": "00:07:59.670",
+      "end_timestamp": "00:08:04.950",
+      "text": "on dit d'eux qu'ils sont contents de l'euro parce qu'ils peuvent exporter, mais en fait, c'est un bénéfice fictif."
+    },
+    {
+      "id": 77,
+      "start": 484.95,
+      "end": 487.83,
+      "start_timestamp": "00:08:04.950",
+      "end_timestamp": "00:08:07.830",
+      "text": "Les Allemands vont donc casquer pour les Target."
+    },
+    {
+      "id": 78,
+      "start": 487.83,
+      "end": 491.55,
+      "start_timestamp": "00:08:07.830",
+      "end_timestamp": "00:08:11.550",
+      "text": "Mais on n'est pas obligé de taxer les gens comme on pourrait le penser de prime abord."
+    },
+    {
+      "id": 79,
+      "start": 491.55,
+      "end": 495.03,
+      "start_timestamp": "00:08:11.550",
+      "end_timestamp": "00:08:15.030",
+      "text": "Il existe une autre solution pour gérer cette perte, parce que les banques centrales"
+    },
+    {
+      "id": 80,
+      "start": 495.03,
+      "end": 500.23,
+      "start_timestamp": "00:08:15.030",
+      "end_timestamp": "00:08:20.230",
+      "text": "sont les seuls acteurs économiques qui peuvent avoir des fonds propres négatifs sans pour autant faire faillite,"
+    },
+    {
+      "id": 81,
+      "start": 500.23,
+      "end": 505.43,
+      "start_timestamp": "00:08:20.230",
+      "end_timestamp": "00:08:25.430",
+      "text": "puisqu'elles sont elles-mêmes la monnaie. Elles peuvent donc faire ce que personne d'autre ne peut faire,"
+    },
+    {
+      "id": 82,
+      "start": 505.43,
+      "end": 511.55,
+      "start_timestamp": "00:08:25.430",
+      "end_timestamp": "00:08:31.550",
+      "text": "boucher un trou dans les comptes par une simple écriture comptable."
+    },
+    {
+      "id": 83,
+      "start": 511.55,
+      "end": 516.51,
+      "start_timestamp": "00:08:31.550",
+      "end_timestamp": "00:08:36.510",
+      "text": "Elle a reçu 100 € via Target, et elle a créé 100 € allemands pour son système bancaire."
+    },
+    {
+      "id": 84,
+      "start": 516.51,
+      "end": 522.23,
+      "start_timestamp": "00:08:36.510",
+      "end_timestamp": "00:08:42.230",
+      "text": "Si demain, il y a un défaut sur les Target et que cette créance se volatilise, elle peut monétiser cette perte"
+    },
+    {
+      "id": 85,
+      "start": 522.23,
+      "end": 528.99,
+      "start_timestamp": "00:08:42.230",
+      "end_timestamp": "00:08:48.990",
+      "text": "en remplaçant la créance par des billets de banque, des billets qui peuvent être réels ou virtuels. Ça n'a pas d'importance."
+    },
+    {
+      "id": 86,
+      "start": 528.99,
+      "end": 534.75,
+      "start_timestamp": "00:08:48.990",
+      "end_timestamp": "00:08:54.750",
+      "text": "En général, imprimer des billets sans contrepartie est inflationniste, surtout si vous le faites pour financer"
+    },
+    {
+      "id": 87,
+      "start": 534.75,
+      "end": 539.99,
+      "start_timestamp": "00:08:54.750",
+      "end_timestamp": "00:08:59.990",
+      "text": "des gaspillages budgétaires. Mais là, on est dans un cas particulier avec les Target, parce que la monnaie"
+    },
+    {
+      "id": 88,
+      "start": 539.99,
+      "end": 546.03,
+      "start_timestamp": "00:08:59.990",
+      "end_timestamp": "00:09:06.030",
+      "text": "circule déjà dans l'économie allemande, et les 1000 milliards y sont toujours. Donc si l'afflux de monnaie"
+    },
+    {
+      "id": 89,
+      "start": 546.03,
+      "end": 551.99,
+      "start_timestamp": "00:09:06.030",
+      "end_timestamp": "00:09:11.990",
+      "text": "en provenance des autres pays de la zone euro avait dû créer de l'inflation en Allemagne, ce serait déjà le cas."
+    },
+    {
+      "id": 90,
+      "start": 551.99,
+      "end": 558.83,
+      "start_timestamp": "00:09:11.990",
+      "end_timestamp": "00:09:18.830",
+      "text": "En d'autres termes, remplacer les Target par des billets, ça revient à figer la situation monétaire à un instant T,"
+    },
+    {
+      "id": 91,
+      "start": 558.83,
+      "end": 564.69,
+      "start_timestamp": "00:09:18.830",
+      "end_timestamp": "00:09:24.690",
+      "text": "et c'est reconnaître que les Target n'ont jamais rien valu. Ou en tout cas pas autant qu'on ne le pensait."
+    },
+    {
+      "id": 92,
+      "start": 564.69,
+      "end": 571.03,
+      "start_timestamp": "00:09:24.690",
+      "end_timestamp": "00:09:31.030",
+      "text": "Faire ça, techniquement, c'est une possibilité. Mais pour les Allemands, c'est une hérésie totale,"
+    },
+    {
+      "id": 93,
+      "start": 571.03,
+      "end": 576.95,
+      "start_timestamp": "00:09:31.030",
+      "end_timestamp": "00:09:36.950",
+      "text": "parce que ça revient à admettre qu'ils ont déprécié leur monnaie pour faire un joli cadeau au pays du Sud."
+    },
+    {
+      "id": 94,
+      "start": 576.95,
+      "end": 583.17,
+      "start_timestamp": "00:09:36.950",
+      "end_timestamp": "00:09:43.170",
+      "text": "Et ça, c'est mort. Leur monnaie avait une certaine valeur quand ils se rentraient dans l'euro,"
+    },
+    {
+      "id": 95,
+      "start": 583.17,
+      "end": 590.11,
+      "start_timestamp": "00:09:43.170",
+      "end_timestamp": "00:09:50.110",
+      "text": "et ils comptent bien retrouver la même à la sortie. Ni plus, ni moins. Quand la Bundesbank a créé 100 € de monnaie,"
+    },
+    {
+      "id": 96,
+      "start": 590.11,
+      "end": 596.55,
+      "start_timestamp": "00:09:50.110",
+      "end_timestamp": "00:09:56.550",
+      "text": "c'était en contrepartie d'un actif d'une valeur équivalente. Si cet actif devait perdre toute ou partie de sa valeur,"
+    },
+    {
+      "id": 97,
+      "start": 596.55,
+      "end": 602.19,
+      "start_timestamp": "00:09:56.550",
+      "end_timestamp": "00:10:02.190",
+      "text": "ils chercheraient à faire payer la différence à quelqu'un pour être sûrs que la monnaie conserve sa valeur."
+    },
+    {
+      "id": 98,
+      "start": 602.19,
+      "end": 607.43,
+      "start_timestamp": "00:10:02.190",
+      "end_timestamp": "00:10:07.430",
+      "text": "Ce raisonnement est motivé par une considération idéologique légèrement rigide, qui n'est pas dénuée"
+    },
+    {
+      "id": 99,
+      "start": 607.43,
+      "end": 613.99,
+      "start_timestamp": "00:10:07.430",
+      "end_timestamp": "00:10:13.990",
+      "text": "d'un certain bon sens, mais qui a déjà poussé les Allemands à sacrifier leur économie sur l'autel de la monnaie."
+    },
+    {
+      "id": 100,
+      "start": 613.99,
+      "end": 618.91,
+      "start_timestamp": "00:10:13.990",
+      "end_timestamp": "00:10:18.910",
+      "text": "Pour qu'une banque centrale ne fasse jamais de pertes, les Allemands ont adopté un raisonnement très simple."
+    },
+    {
+      "id": 101,
+      "start": 618.91,
+      "end": 623.95,
+      "start_timestamp": "00:10:18.910",
+      "end_timestamp": "00:10:23.950",
+      "text": "Ils estiment qu'elle doit obéir aux mêmes règles de bonne gestion qu'une entreprise lambda."
+    },
+    {
+      "id": 102,
+      "start": 623.95,
+      "end": 630.23,
+      "start_timestamp": "00:10:23.950",
+      "end_timestamp": "00:10:30.230",
+      "text": "Et quand une entreprise lambda fait une perte supérieure à ses fonds propres, il faut que ses actionnaires la recapitalisent"
+    },
+    {
+      "id": 103,
+      "start": 630.23,
+      "end": 636.75,
+      "start_timestamp": "00:10:30.230",
+      "end_timestamp": "00:10:36.750",
+      "text": "s'ils veulent l'avoir continué à fonctionner. En d'autres termes, si la Bundesbank fait une grosse perte sur les targets,"
+    },
+    {
+      "id": 104,
+      "start": 636.75,
+      "end": 643.63,
+      "start_timestamp": "00:10:36.750",
+      "end_timestamp": "00:10:43.630",
+      "text": "l'État allemand verrait sa dette augmenter du même montant que cette perte. Si vous voulez, ils prennent le problème"
+    },
+    {
+      "id": 105,
+      "start": 643.63,
+      "end": 649.63,
+      "start_timestamp": "00:10:43.630",
+      "end_timestamp": "00:10:49.630",
+      "text": "par l'autre bout. Au lieu de monétiser la perte, ce qui a un impact minime sur l'économie mais déprécie la monnaie,"
+    },
+    {
+      "id": 106,
+      "start": 649.63,
+      "end": 655.87,
+      "start_timestamp": "00:10:49.630",
+      "end_timestamp": "00:10:55.870",
+      "text": "ils vont chercher à retirer de la monnaie du système, comme si c'était une espèce de trou perçu. Ça permet de conserver"
+    },
+    {
+      "id": 107,
+      "start": 655.87,
+      "end": 661.51,
+      "start_timestamp": "00:10:55.870",
+      "end_timestamp": "00:11:01.510",
+      "text": "la valeur de la monnaie. Par contre, ça contracte l'économie. Et quand vous contractez une économie qui est déjà"
+    },
+    {
+      "id": 108,
+      "start": 661.51,
+      "end": 668.51,
+      "start_timestamp": "00:11:01.510",
+      "end_timestamp": "00:11:08.510",
+      "text": "au bord de la récession, comme c'est le cas en ce moment, eh ben ça fait très mal. C'est pour ça que les Allemands sont inquiets"
+    },
+    {
+      "id": 109,
+      "start": 668.51,
+      "end": 673.99,
+      "start_timestamp": "00:11:08.510",
+      "end_timestamp": "00:11:13.990",
+      "text": "de l'augmentation des soldes target. Ils considèrent qu'ils sont en train d'offrir des Mercedes au pays du Sud"
+    },
+    {
+      "id": 110,
+      "start": 673.99,
+      "end": 681.71,
+      "start_timestamp": "00:11:13.990",
+      "end_timestamp": "00:11:21.710",
+      "text": "sans contrepartie valable, et qu'à la fin, leurs contribuables payeront la note via des impôts. On est d'accord que les deux solutions"
+    },
+    {
+      "id": 111,
+      "start": 681.71,
+      "end": 688.47,
+      "start_timestamp": "00:11:21.710",
+      "end_timestamp": "00:11:28.470",
+      "text": "pour gérer une perte ont des avantages et des inconvénients. Et selon les cas, on peut très bien choisir l'une ou l'autre des solutions."
+    },
+    {
+      "id": 112,
+      "start": 688.47,
+      "end": 695.81,
+      "start_timestamp": "00:11:28.470",
+      "end_timestamp": "00:11:35.810",
+      "text": "Mais justement, dans le cas des targets, l'idéologie dominante et les traités poussent à une politique monétaire restrictive,"
+    },
+    {
+      "id": 113,
+      "start": 695.81,
+      "end": 701.91,
+      "start_timestamp": "00:11:35.810",
+      "end_timestamp": "00:11:41.910",
+      "text": "alors que monétiser la perte me semble être une solution plus intelligente, plus juste et plus logique"
+    },
+    {
+      "id": 114,
+      "start": 701.91,
+      "end": 708.39,
+      "start_timestamp": "00:11:41.910",
+      "end_timestamp": "00:11:48.390",
+      "text": "d'un point de vue politique et social. C'est simplement la conséquence négative de l'euro pour l'Allemagne."
+    },
+    {
+      "id": 115,
+      "start": 708.39,
+      "end": 713.39,
+      "start_timestamp": "00:11:48.390",
+      "end_timestamp": "00:11:53.390",
+      "text": "J'intégrerai un peu mieux ce point de vue dans la prochaine vidéo sur l'Italie, où on verra aussi les solutions"
+    },
+    {
+      "id": 116,
+      "start": 713.39,
+      "end": 718.87,
+      "start_timestamp": "00:11:53.390",
+      "end_timestamp": "00:11:58.870",
+      "text": "qui s'offrent à l'Italie pour régler cette question des targets, autre que le défaut pur et simple."
+    },
+    {
+      "id": 117,
+      "start": 718.87,
+      "end": 727.78,
+      "start_timestamp": "00:11:58.870",
+      "end_timestamp": "00:12:07.780",
+      "text": "Ça me permet d'éviter les redites, et ça servira de conclusion sur le sujet des targets."
+    },
+    {
+      "id": 118,
+      "start": 727.78,
+      "end": 733.66,
+      "start_timestamp": "00:12:07.780",
+      "end_timestamp": "00:12:13.660",
+      "text": "Il n'y a pas que l'augmentation des soldes target qui irritent les Allemands et leur donne envie de quitter système."
+    },
+    {
+      "id": 119,
+      "start": 733.66,
+      "end": 740.98,
+      "start_timestamp": "00:12:13.660",
+      "end_timestamp": "00:12:20.980",
+      "text": "Suite à la crise de l'euro, la BCE a dû s'écarter des dogmes monétaires en ayant recours à des politiques non conventionnelles"
+    },
+    {
+      "id": 120,
+      "start": 740.98,
+      "end": 749.22,
+      "start_timestamp": "00:12:20.980",
+      "end_timestamp": "00:12:29.220",
+      "text": "pour sauver l'euro. En gros, ils font tourner la planche à billets. Et ils la font tourner pour financer des bêtises et des déficits."
+    },
+    {
+      "id": 121,
+      "start": 749.22,
+      "end": 755.7,
+      "start_timestamp": "00:12:29.220",
+      "end_timestamp": "00:12:35.700",
+      "text": "Normalement, l'article 123 du TFUE interdit à la BCE de financer directement les États."
+    },
+    {
+      "id": 122,
+      "start": 755.7,
+      "end": 762.74,
+      "start_timestamp": "00:12:35.700",
+      "end_timestamp": "00:12:42.740",
+      "text": "Mais les traités ne disent rien quant au financement indirect par des rachats de titres déjà émis sur le marché secondaire."
+    },
+    {
+      "id": 123,
+      "start": 762.74,
+      "end": 770.02,
+      "start_timestamp": "00:12:42.740",
+      "end_timestamp": "00:12:50.020",
+      "text": "Alors tant pis si les Allemands râlent. Et puis c'est ça ou la fin de l'euro. Au cours de la décennie, la BCE a donc lancé"
+    },
+    {
+      "id": 124,
+      "start": 770.02,
+      "end": 776.74,
+      "start_timestamp": "00:12:50.020",
+      "end_timestamp": "00:12:56.740",
+      "text": "plusieurs programmes de rachat de titres qui n'avaient pas tous le même objectif. Elle a commencé ses emplettes en 2010"
+    },
+    {
+      "id": 125,
+      "start": 776.74,
+      "end": 784.62,
+      "start_timestamp": "00:12:56.740",
+      "end_timestamp": "00:13:04.620",
+      "text": "avec le Security Market Program, devenu ensuite le programme OMT, opération monétaire sur titres, qui consistait à acheter"
+    },
+    {
+      "id": 126,
+      "start": 784.62,
+      "end": 790.98,
+      "start_timestamp": "00:13:04.620",
+      "end_timestamp": "00:13:10.980",
+      "text": "sur le marché secondaire les dettes des États les plus en difficulté pour faire baisser leur taux d'intérêt."
+    },
+    {
+      "id": 127,
+      "start": 790.98,
+      "end": 795.9,
+      "start_timestamp": "00:13:10.980",
+      "end_timestamp": "00:13:15.900",
+      "text": "Le but était d'éviter que les spéculateurs qui pariaient sur la fin de l'euro n'entraînent la fin de l'euro"
+    },
+    {
+      "id": 128,
+      "start": 795.9,
+      "end": 803.06,
+      "start_timestamp": "00:13:15.900",
+      "end_timestamp": "00:13:23.060",
+      "text": "par un effet autoréalisateur suite à l'explosion des taux d'intérêt des États. À partir de 2011,"
+    },
+    {
+      "id": 129,
+      "start": 803.06,
+      "end": 808.98,
+      "start_timestamp": "00:13:23.060",
+      "end_timestamp": "00:13:28.980",
+      "text": "la BCE a commencé à accorder aux banques des LTRO, des prêts de monnaie centrale avec des durées de 3 ans,"
+    },
+    {
+      "id": 130,
+      "start": 808.98,
+      "end": 816.94,
+      "start_timestamp": "00:13:28.980",
+      "end_timestamp": "00:13:36.940",
+      "text": "pour un montant dépassant 1 000 milliards d'euros. Puis fin 2014, il y a eu les TLTRO avec des maturités de 4 ans."
+    },
+    {
+      "id": 131,
+      "start": 816.94,
+      "end": 825.18,
+      "start_timestamp": "00:13:36.940",
+      "end_timestamp": "00:13:45.180",
+      "text": "Là aussi, le dogme de la Bundesbank qui veut que ces prêts n'excèdent pas des maturités de 3 à 6 mois n'est pas respecté."
+    },
+    {
+      "id": 132,
+      "start": 825.18,
+      "end": 829.82,
+      "start_timestamp": "00:13:45.180",
+      "end_timestamp": "00:13:49.820",
+      "text": "L'objectif de ces prêts est différent des rachats de titres. Comme on l'a vu dans les épisodes 2 et 3,"
+    },
+    {
+      "id": 133,
+      "start": 829.82,
+      "end": 834.9,
+      "start_timestamp": "00:13:49.820",
+      "end_timestamp": "00:13:54.900",
+      "text": "il s'agissait de fournir aux banques un matelas de liquidité pour qu'elles puissent faire circuler la monnaie"
+    },
+    {
+      "id": 134,
+      "start": 834.9,
+      "end": 842.06,
+      "start_timestamp": "00:13:54.900",
+      "end_timestamp": "00:14:02.060",
+      "text": "en l'absence de marchés interbancaires. Ça aussi, c'était absolument vital à la survie de l'euro."
+    },
+    {
+      "id": 135,
+      "start": 842.06,
+      "end": 850.7,
+      "start_timestamp": "00:14:02.060",
+      "end_timestamp": "00:14:10.700",
+      "text": "Enfin, à partir de 2015, il y a eu les fameux QE, quantitative easing. Cette fois, le but est de lutter contre la déflation"
+    },
+    {
+      "id": 136,
+      "start": 850.7,
+      "end": 856.82,
+      "start_timestamp": "00:14:10.700",
+      "end_timestamp": "00:14:16.820",
+      "text": "et de relancer l'économie en rachetant aux banques des obligations d'État et aussi d'entreprises pour pousser les banques"
+    },
+    {
+      "id": 137,
+      "start": 856.82,
+      "end": 862.9,
+      "start_timestamp": "00:14:16.820",
+      "end_timestamp": "00:14:22.900",
+      "text": "à faire crédit plus facilement, quitte à ce que la BCE rachète ensuite des créances risquées. Les QE sont critiqués"
+    },
+    {
+      "id": 138,
+      "start": 862.9,
+      "end": 869.66,
+      "start_timestamp": "00:14:22.900",
+      "end_timestamp": "00:14:29.660",
+      "text": "pour leur risque inflationniste et ou de gonflement de bulles désactifs, ce qui rend les Allemands systématiquement"
+    },
+    {
+      "id": 139,
+      "start": 869.66,
+      "end": 876.02,
+      "start_timestamp": "00:14:29.660",
+      "end_timestamp": "00:14:36.020",
+      "text": "grincheux, entre autres. Mais en fait, la réalisation de ces risques est justement l'objectif poursuivi par la BCE"
+    },
+    {
+      "id": 140,
+      "start": 876.02,
+      "end": 882.34,
+      "start_timestamp": "00:14:36.020",
+      "end_timestamp": "00:14:42.340",
+      "text": "pour relancer l'économie, avec des résultats discutables. Mais c'est un autre sujet."
+    },
+    {
+      "id": 141,
+      "start": 882.34,
+      "end": 890.14,
+      "start_timestamp": "00:14:42.340",
+      "end_timestamp": "00:14:50.140",
+      "text": "En 2013, 35 000 Allemands avaient déposé un recours devant le Tribunal constitutionnel allemand contre le programme OMT,"
+    },
+    {
+      "id": 142,
+      "start": 890.14,
+      "end": 896.98,
+      "start_timestamp": "00:14:50.140",
+      "end_timestamp": "00:14:56.980",
+      "text": "estimant qu'il s'agit d'un programme illégal de financement des pays membres de la zone euro par des moyens détournés."
+    },
+    {
+      "id": 143,
+      "start": 896.98,
+      "end": 903.66,
+      "start_timestamp": "00:14:56.980",
+      "end_timestamp": "00:15:03.660",
+      "text": "La Bundesbank a enfoncé le clou lors du procès en affirmant que ce n'est le rôle d'aucune banque centrale de garantir"
+    },
+    {
+      "id": 144,
+      "start": 903.66,
+      "end": 907.54,
+      "start_timestamp": "00:15:03.660",
+      "end_timestamp": "00:15:07.540",
+      "text": "la pérennité de l'Union monétaire européenne."
+    },
+    {
+      "id": 145,
+      "start": 907.54,
+      "end": 913.34,
+      "start_timestamp": "00:15:07.540",
+      "end_timestamp": "00:15:13.340",
+      "text": "Cette simple phrase nous fait comprendre que les dirigeants de la Bundesbank, et plus largement du monde économique allemand,"
+    },
+    {
+      "id": 146,
+      "start": 913.34,
+      "end": 919.02,
+      "start_timestamp": "00:15:13.340",
+      "end_timestamp": "00:15:19.020",
+      "text": "auraient préféré que certains États sortent de la zone euro ou qu'on y mette fin dès 2010, plutôt que de se lancer"
+    },
+    {
+      "id": 147,
+      "start": 919.02,
+      "end": 926.14,
+      "start_timestamp": "00:15:19.020",
+      "end_timestamp": "00:15:26.140",
+      "text": "dans ces politiques monétaires non conventionnelles. Mais l'euro étant défendu par des extrémistes qui squattent les plateaux de télé,"
+    },
+    {
+      "id": 148,
+      "start": 926.14,
+      "end": 932.98,
+      "start_timestamp": "00:15:26.140",
+      "end_timestamp": "00:15:32.980",
+      "text": "il est risqué pour un politicien de prendre position contre l'euro, même en Allemagne. Bien que cela soit en train de changer"
+    },
+    {
+      "id": 149,
+      "start": 932.98,
+      "end": 941.82,
+      "start_timestamp": "00:15:32.980",
+      "end_timestamp": "00:15:41.820",
+      "text": "dernièrement, en Allemagne comme ailleurs. Début octobre 2019, à l'occasion de la fin du mandat de Mario Draghi à la tête de la BCE,"
+    },
+    {
+      "id": 150,
+      "start": 941.82,
+      "end": 949.5,
+      "start_timestamp": "00:15:41.820",
+      "end_timestamp": "00:15:49.500",
+      "text": "d'anciens hauts cadres de banque centrale ou de la BCE d'origine française, allemande, autrichienne et hollandaise,"
+    },
+    {
+      "id": 151,
+      "start": 949.5,
+      "end": 955.5,
+      "start_timestamp": "00:15:49.500",
+      "end_timestamp": "00:15:55.500",
+      "text": "ont signé une nouvelle tribune très critique sur la politique monétaire de Draghi. Je dis nouvelle parce qu'elle fait suite à d'autres"
+    },
+    {
+      "id": 152,
+      "start": 955.5,
+      "end": 963.1,
+      "start_timestamp": "00:15:55.500",
+      "end_timestamp": "00:16:03.100",
+      "text": "qu'on verra au cours de cette vidéo. Une phrase en particulier a attiré l'attention. La suspicion que derrière ces mesures,"
+    },
+    {
+      "id": 153,
+      "start": 963.1,
+      "end": 969.38,
+      "start_timestamp": "00:16:03.100",
+      "end_timestamp": "00:16:09.380",
+      "text": "celle que je viens de citer, il y aurait l'intention de protéger les États les plus endettés de la hausse des taux d'intérêt,"
+    },
+    {
+      "id": 154,
+      "start": 969.38,
+      "end": 975.18,
+      "start_timestamp": "00:16:09.380",
+      "end_timestamp": "00:16:15.180",
+      "text": "apparaît de plus en plus fondée. — Oh, je sens que vous êtes complotistes, vous."
+    },
+    {
+      "id": 155,
+      "start": 975.18,
+      "end": 982.62,
+      "start_timestamp": "00:16:15.180",
+      "end_timestamp": "00:16:22.620",
+      "text": "— Mario Draghi étant italien, cette suspicion revient à remettre en cause l'indépendance de la BCE. Et par là, le mythe selon lequel"
+    },
+    {
+      "id": 156,
+      "start": 982.62,
+      "end": 990.14,
+      "start_timestamp": "00:16:22.620",
+      "end_timestamp": "00:16:30.140",
+      "text": "les pays de l'UE seraient unis dans la diversité à la poursuite d'un intérêt commun européen. Jusqu'à il y a peu,"
+    },
+    {
+      "id": 157,
+      "start": 990.14,
+      "end": 997.1,
+      "start_timestamp": "00:16:30.140",
+      "end_timestamp": "00:16:37.100",
+      "text": "ce genre de propos était tenu par des eurosceptiques populistes. Maintenant, c'est tenu par des hauts cadres du système."
+    },
+    {
+      "id": 158,
+      "start": 997.1,
+      "end": 1009.11,
+      "start_timestamp": "00:16:37.100",
+      "end_timestamp": "00:16:49.110",
+      "text": "Petit à petit, le dogme se fissure. Au-delà des pressions de l'inquisition médiatique, si les dirigeants allemands"
+    },
+    {
+      "id": 159,
+      "start": 1009.11,
+      "end": 1014.07,
+      "start_timestamp": "00:16:49.110",
+      "end_timestamp": "00:16:54.070",
+      "text": "sont aussi frileux sur la sortie de l'euro, je pense que c'est parce qu'ils craignent que ce soit le début de la fin"
+    },
+    {
+      "id": 160,
+      "start": 1014.07,
+      "end": 1019.95,
+      "start_timestamp": "00:16:54.070",
+      "end_timestamp": "00:16:59.950",
+      "text": "de toute la construction européenne. Or, les Allemands souhaitent conserver les avantages qu'ils tirent de l'UE,"
+    },
+    {
+      "id": 161,
+      "start": 1019.95,
+      "end": 1026.2,
+      "start_timestamp": "00:16:59.950",
+      "end_timestamp": "00:17:06.200",
+      "text": "parce qu'ils sont beaucoup plus concrets que ceux de l'euro. Il faut se rappeler que l'Allemagne n'a pas toujours été"
+    },
+    {
+      "id": 162,
+      "start": 1026.2,
+      "end": 1035.32,
+      "start_timestamp": "00:17:06.200",
+      "end_timestamp": "00:17:15.320",
+      "text": "la locomotive de l'Europe. À la fin de la Seconde Guerre mondiale, c'était un pays rasé, ruiné, pestiféré, morcelé, occupé."
+    },
+    {
+      "id": 163,
+      "start": 1035.32,
+      "end": 1041.64,
+      "start_timestamp": "00:17:15.320",
+      "end_timestamp": "00:17:21.640",
+      "text": "La signature du traité de Rome en 1957, qui place Walter Einstein à la tête de la Commission européenne, représente"
+    },
+    {
+      "id": 164,
+      "start": 1041.64,
+      "end": 1048.84,
+      "start_timestamp": "00:17:21.640",
+      "end_timestamp": "00:17:28.840",
+      "text": "une grande opportunité pour les Allemands que de Gaulle avait bien comprise. Je pense que si Walter Einstein est à sa manière"
+    },
+    {
+      "id": 165,
+      "start": 1048.84,
+      "end": 1056.36,
+      "start_timestamp": "00:17:28.840",
+      "end_timestamp": "00:17:36.360",
+      "text": "un Européen sincère, c'est parce qu'il est d'abord un Allemand ambitieux pour sa patrie. Car dans l'Europe, tel qu'il la voudrait,"
+    },
+    {
+      "id": 166,
+      "start": 1056.36,
+      "end": 1063.12,
+      "start_timestamp": "00:17:36.360",
+      "end_timestamp": "00:17:43.120",
+      "text": "il y a le cadre où son pays pourrait gratuitement retrouver la respectabilité et l'égalité des droits que la frénésie"
+    },
+    {
+      "id": 167,
+      "start": 1063.12,
+      "end": 1071.08,
+      "start_timestamp": "00:17:43.120",
+      "end_timestamp": "00:17:51.080",
+      "text": "de la défaite d'Hitler lui en fait perdre, puis acquérir le poids prépondérant, que lui vaudra sans doute sa capacité économique."
+    },
+    {
+      "id": 168,
+      "start": 1071.08,
+      "end": 1078.12,
+      "start_timestamp": "00:17:51.080",
+      "end_timestamp": "00:17:58.120",
+      "text": "Enfin, obtenir que la querelle de ses frontières et de son unité soit assumée par un puissant ensemble d'après la doctrine"
+    },
+    {
+      "id": 169,
+      "start": 1078.12,
+      "end": 1084.92,
+      "start_timestamp": "00:17:58.120",
+      "end_timestamp": "00:18:04.920",
+      "text": "à laquelle, comme ministre des Affaires étrangères de la République fédérale, il a Naguerre donné son nom."
+    },
+    {
+      "id": 170,
+      "start": 1084.92,
+      "end": 1092.32,
+      "start_timestamp": "00:18:04.920",
+      "end_timestamp": "00:18:12.320",
+      "text": "De Gaulle avait le tiercé, mais dans le désordre. On a d'abord payé pour l'unification de l'Allemagne tout au long des années 90"
+    },
+    {
+      "id": 171,
+      "start": 1092.32,
+      "end": 1099.44,
+      "start_timestamp": "00:18:12.320",
+      "end_timestamp": "00:18:19.440",
+      "text": "à travers la politique monétaire. L'inflation engendrée par l'intégration de l'Allemagne de l'Est a conduit la Bundesbank"
+    },
+    {
+      "id": 172,
+      "start": 1099.44,
+      "end": 1106.96,
+      "start_timestamp": "00:18:19.440",
+      "end_timestamp": "00:18:26.960",
+      "text": "à prendre unilatéralement des mesures d'austérité drastiques sur lesquelles ses voisins de l'Europe des Quinze ont dû s'aligner"
+    },
+    {
+      "id": 173,
+      "start": 1106.96,
+      "end": 1112.32,
+      "start_timestamp": "00:18:26.960",
+      "end_timestamp": "00:18:32.320",
+      "text": "au nom des critères de convergence économique du traité de Maastricht qui venaient d'être signés."
+    },
+    {
+      "id": 174,
+      "start": 1112.32,
+      "end": 1118.52,
+      "start_timestamp": "00:18:32.320",
+      "end_timestamp": "00:18:38.520",
+      "text": "Du coup, les conséquences négatives de l'unification ont été assumées par un puissant ensemble."
+    },
+    {
+      "id": 175,
+      "start": 1118.52,
+      "end": 1125.76,
+      "start_timestamp": "00:18:38.520",
+      "end_timestamp": "00:18:45.760",
+      "text": "On estime quand même que les habitants de la RFA ont transféré l'équivalent de 1 300 milliards d'euros aux habitants de la RDA,"
+    },
+    {
+      "id": 176,
+      "start": 1125.76,
+      "end": 1134.12,
+      "start_timestamp": "00:18:45.760",
+      "end_timestamp": "00:18:54.120",
+      "text": "ce qui n'aide sans doute pas à les rendre réceptifs aujourd'hui à l'idée d'une union de transfert avec les pays du Sud de la zone euro."
+    },
+    {
+      "id": 177,
+      "start": 1134.12,
+      "end": 1142.48,
+      "start_timestamp": "00:18:54.120",
+      "end_timestamp": "00:19:02.480",
+      "text": "Ensuite, grâce à ses capacités économiques et à l'euro aligné sur le marque, elle a obtenu un poids prépondérant dans l'UE."
+    },
+    {
+      "id": 178,
+      "start": 1142.48,
+      "end": 1150.6,
+      "start_timestamp": "00:19:02.480",
+      "end_timestamp": "00:19:10.600",
+      "text": "Et maintenant, elle travaille à retrouver la respectabilité et l'égalité de droit que la frénésie de la défaite d'Hitler lui ont fait perdre."
+    },
+    {
+      "id": 179,
+      "start": 1150.64,
+      "end": 1158.68,
+      "start_timestamp": "00:19:10.640",
+      "end_timestamp": "00:19:18.680",
+      "text": "Pour cela, elle plaçait pion depuis des années dans les institutions européennes, trustant tous les postes d'encadrement du machin."
+    },
+    {
+      "id": 180,
+      "start": 1158.68,
+      "end": 1164.24,
+      "start_timestamp": "00:19:18.680",
+      "end_timestamp": "00:19:24.240",
+      "text": "Aux dernières nouvelles, Ursula von der Leyen, la prochaine présidente allemande de la Commission européenne,"
+    },
+    {
+      "id": 181,
+      "start": 1164.24,
+      "end": 1169.92,
+      "start_timestamp": "00:19:24.240",
+      "end_timestamp": "00:19:29.920",
+      "text": "est en train de faire pression pour imposer des directeurs de cabinet allemands à tous les commissaires européens,"
+    },
+    {
+      "id": 182,
+      "start": 1169.92,
+      "end": 1176.46,
+      "start_timestamp": "00:19:29.920",
+      "end_timestamp": "00:19:36.460",
+      "text": "qui eux sont de nationalités différentes. Même à Libération, ils ont trouvé sa démarche paranoïaque,"
+    },
+    {
+      "id": 183,
+      "start": 1176.46,
+      "end": 1182.44,
+      "start_timestamp": "00:19:36.460",
+      "end_timestamp": "00:19:42.440",
+      "text": "germano-centrée, et teinté d'un nationalisme hors d'âge."
+    },
+    {
+      "id": 184,
+      "start": 1182.44,
+      "end": 1188.68,
+      "start_timestamp": "00:19:42.440",
+      "end_timestamp": "00:19:48.680",
+      "text": "Vis-à-vis de la France, plus spécialement, ça passe par deux choses. Mettre la main sur la bombe nucléaire"
+    },
+    {
+      "id": 185,
+      "start": 1188.68,
+      "end": 1195.44,
+      "start_timestamp": "00:19:48.680",
+      "end_timestamp": "00:19:55.440",
+      "text": "par le truchement d'une armée européenne, alors que le traité de Moscou interdit à l'Allemagne de posséder des bombes nucléaires."
+    },
+    {
+      "id": 186,
+      "start": 1195.44,
+      "end": 1202.4,
+      "start_timestamp": "00:19:55.440",
+      "end_timestamp": "00:20:02.400",
+      "text": "Et deuxièmement, obtenir un siège permanent au Conseil de sécurité des Nations unies, soit pour elle-même,"
+    },
+    {
+      "id": 187,
+      "start": 1202.4,
+      "end": 1210.51,
+      "start_timestamp": "00:20:02.400",
+      "end_timestamp": "00:20:10.510",
+      "text": "soit en piquant celui de la France, qui deviendrait un siège européen, mais que l'Allemagne piloterait évidemment."
+    },
+    {
+      "id": 188,
+      "start": 1210.51,
+      "end": 1216.95,
+      "start_timestamp": "00:20:10.510",
+      "end_timestamp": "00:20:16.950",
+      "text": "Le traité d'Aix-la-Chapelle marque un pas de géant vers ses objectifs. Il a été signé début 2019 par Macron"
+    },
+    {
+      "id": 189,
+      "start": 1216.95,
+      "end": 1221.63,
+      "start_timestamp": "00:20:16.950",
+      "end_timestamp": "00:20:21.630",
+      "text": "au nom de l'amitié franco-allemande et d'une coopération européenne toujours plus renforcée."
+    },
+    {
+      "id": 190,
+      "start": 1221.63,
+      "end": 1227.79,
+      "start_timestamp": "00:20:21.630",
+      "end_timestamp": "00:20:27.790",
+      "text": "Bref, au nom de la collaboration la plus crasse qu'on ait vue depuis les années 40."
+    },
+    {
+      "id": 191,
+      "start": 1227.79,
+      "end": 1234.19,
+      "start_timestamp": "00:20:27.790",
+      "end_timestamp": "00:20:34.190",
+      "text": "L'article 4 dispose que la France et l'Allemagne se prêtent aide et assistance par tous les moyens dont ils disposent,"
+    },
+    {
+      "id": 192,
+      "start": 1234.19,
+      "end": 1242.59,
+      "start_timestamp": "00:20:34.190",
+      "end_timestamp": "00:20:42.590",
+      "text": "y compris la force armée, en cas d'agression armée contre leur territoire, ce qui inclut a priori les bombes nucléaires."
+    },
+    {
+      "id": 193,
+      "start": 1242.59,
+      "end": 1248.11,
+      "start_timestamp": "00:20:42.590",
+      "end_timestamp": "00:20:48.110",
+      "text": "Et l'article 8 nous apprend que l'admission de la République fédérale d'Allemagne en tant que membre permanent"
+    },
+    {
+      "id": 194,
+      "start": 1248.11,
+      "end": 1254.51,
+      "start_timestamp": "00:20:48.110",
+      "end_timestamp": "00:20:54.510",
+      "text": "du Conseil de sécurité des Nations unies est une priorité de la diplomatie franco-allemande."
+    },
+    {
+      "id": 195,
+      "start": 1254.51,
+      "end": 1259.99,
+      "start_timestamp": "00:20:54.510",
+      "end_timestamp": "00:20:59.990",
+      "text": "Voilà que nous payons des impôts pour sanctuariser le territoire allemand et défendre les intérêts de l'Allemagne."
+    },
+    {
+      "id": 196,
+      "start": 1259.99,
+      "end": 1265.71,
+      "start_timestamp": "00:20:59.990",
+      "end_timestamp": "00:21:05.710",
+      "text": "Évidemment, Macron n'a obtenu aucune contrepartie en échange des nombreuses concessions du traité d'Aix-la-Chapelle,"
+    },
+    {
+      "id": 197,
+      "start": 1265.71,
+      "end": 1271.07,
+      "start_timestamp": "00:21:05.710",
+      "end_timestamp": "00:21:11.070",
+      "text": "ni pour la France. Mais ça, on s'en doutait. Mais pas non plus pour les intérêts d'une Union européenne"
+    },
+    {
+      "id": 198,
+      "start": 1271.07,
+      "end": 1275.23,
+      "start_timestamp": "00:21:11.070",
+      "end_timestamp": "00:21:15.230",
+      "text": "ou d'une zone euro renforcée qui fonctionnerait mieux."
+    },
+    {
+      "id": 199,
+      "start": 1275.23,
+      "end": 1281.63,
+      "start_timestamp": "00:21:15.230",
+      "end_timestamp": "00:21:21.630",
+      "text": "Quelques semaines après la signature de ce traité, en mars 2019, Macron s'était permis de publier dans les journaux de toute l'UE"
+    },
+    {
+      "id": 200,
+      "start": 1281.63,
+      "end": 1288.35,
+      "start_timestamp": "00:21:21.630",
+      "end_timestamp": "00:21:28.350",
+      "text": "une lettre aux citoyens de l'Europe pour inciter à plus d'intégration européenne, en préconisant plus de coopération"
+    },
+    {
+      "id": 201,
+      "start": 1288.35,
+      "end": 1298.03,
+      "start_timestamp": "00:21:28.350",
+      "end_timestamp": "00:21:38.030",
+      "text": "pour l'investissement, la politique sociale, l'écologie, un protectionnisme européen, etc., quoi. Le blabla habituel."
+    },
+    {
+      "id": 202,
+      "start": 1298.03,
+      "end": 1303.39,
+      "start_timestamp": "00:21:38.030",
+      "end_timestamp": "00:21:43.390",
+      "text": "L'occasion pour les Allemands de rappeler leur point de vue en matière d'intégration. Merkel n'a pas déni répondre"
+    },
+    {
+      "id": 203,
+      "start": 1303.39,
+      "end": 1311.07,
+      "start_timestamp": "00:21:43.390",
+      "end_timestamp": "00:21:51.070",
+      "text": "à son énième discours mielleux sur l'Europe, laissant cette tâche ingrate au n°2 de son parti, Mme Akaka."
+    },
+    {
+      "id": 204,
+      "start": 1311.07,
+      "end": 1317.23,
+      "start_timestamp": "00:21:51.070",
+      "end_timestamp": "00:21:57.230",
+      "text": "Elle s'est dit tout à fait favorable à une Europe plus forte, plus intégrée, travaillant davantage ensemble,"
+    },
+    {
+      "id": 205,
+      "start": 1317.23,
+      "end": 1324.19,
+      "start_timestamp": "00:21:57.230",
+      "end_timestamp": "00:22:04.190",
+      "text": "dont l'avenir passe forcément par une représentation de l'UE au conseil permanent de l'ONU. Autrement dit, la France doit donner"
+    },
+    {
+      "id": 206,
+      "start": 1324.19,
+      "end": 1332.31,
+      "start_timestamp": "00:22:04.190",
+      "end_timestamp": "00:22:12.310",
+      "text": "son siège au nom de l'intégration européenne et fermer sa gueule. Par contre, l'étatisme européen, la communautarisation des dettes,"
+    },
+    {
+      "id": 207,
+      "start": 1332.31,
+      "end": 1338.23,
+      "start_timestamp": "00:22:12.310",
+      "end_timestamp": "00:22:18.230",
+      "text": "l'européanisation des systèmes de protection sociale et du salaire minimum sont de mauvaises voies d'intégration"
+    },
+    {
+      "id": 208,
+      "start": 1338.23,
+      "end": 1347.43,
+      "start_timestamp": "00:22:18.230",
+      "end_timestamp": "00:22:27.430",
+      "text": "qui fragiliserait l'Europe. Elle a écrit l'Europe. On peut difficilement présenter un point de vue plus germano-centré"
+    },
+    {
+      "id": 209,
+      "start": 1347.43,
+      "end": 1355.03,
+      "start_timestamp": "00:22:27.430",
+      "end_timestamp": "00:22:35.030",
+      "text": "sur ce que l'UE doit être et doit faire. Ce qui est à l'Allemagne est à l'Allemagne, et ce qui est à l'Europe est à l'Allemagne."
+    },
+    {
+      "id": 210,
+      "start": 1355.03,
+      "end": 1359.83,
+      "start_timestamp": "00:22:35.030",
+      "end_timestamp": "00:22:39.830",
+      "text": "C'est en cela que l'UE est très importante pour les Allemands, parce qu'ils peuvent plus trop être des patriotes allemands"
+    },
+    {
+      "id": 211,
+      "start": 1359.83,
+      "end": 1365.83,
+      "start_timestamp": "00:22:39.830",
+      "end_timestamp": "00:22:45.830",
+      "text": "défendant leurs intérêts nationaux. Par contre, ils peuvent être de fervents partisans d'une Europe plus forte,"
+    },
+    {
+      "id": 212,
+      "start": 1365.83,
+      "end": 1391.56,
+      "start_timestamp": "00:22:45.830",
+      "end_timestamp": "00:23:11.560",
+      "text": "une Europe allemande, une sorte de quatrième Reich. C'était bien la pète de s'être cassé le cul à les foutre dehors en 1945."
+    },
+    {
+      "id": 213,
+      "start": 1391.56,
+      "end": 1397.12,
+      "start_timestamp": "00:23:11.560",
+      "end_timestamp": "00:23:17.120",
+      "text": "Il s'agit donc pour l'Allemagne de conserver les avantages qu'elle tire de l'UE tout en se dégageant de l'euro,"
+    },
+    {
+      "id": 214,
+      "start": 1397.12,
+      "end": 1403.76,
+      "start_timestamp": "00:23:17.120",
+      "end_timestamp": "00:23:23.760",
+      "text": "qui est devenu une menace pour elle depuis la crise de 2010, avec l'explosion des soldes Target et l'apparition des mesures"
+    },
+    {
+      "id": 215,
+      "start": 1403.76,
+      "end": 1413.12,
+      "start_timestamp": "00:23:23.760",
+      "end_timestamp": "00:23:33.120",
+      "text": "monétaires non conventionnelles de la BCE. Alors, James Weinman, le président de la Bundesbank à l'époque, a eu une idée."
+    },
+    {
+      "id": 216,
+      "start": 1413.12,
+      "end": 1419.64,
+      "start_timestamp": "00:23:33.120",
+      "end_timestamp": "00:23:39.640",
+      "text": "Une idée qui peut mettre fin à l'euro de manière imperceptible et sans que les coupables puissent être clairement identifiés."
+    },
+    {
+      "id": 217,
+      "start": 1419.64,
+      "end": 1426.2,
+      "start_timestamp": "00:23:39.640",
+      "end_timestamp": "00:23:46.200",
+      "text": "En 2012, il a envoyé une lettre à Mario Draghi, alors président de la BCE, pour lui faire une proposition toute bête."
+    },
+    {
+      "id": 218,
+      "start": 1426.2,
+      "end": 1433.2,
+      "start_timestamp": "00:23:46.200",
+      "end_timestamp": "00:23:53.200",
+      "text": "« N'en tire les dettes Target II avec un collatéral ». Vous ne comprenez pas ce que ça signifie. C'est normal."
+    },
+    {
+      "id": 219,
+      "start": 1433.2,
+      "end": 1441.48,
+      "start_timestamp": "00:23:53.200",
+      "end_timestamp": "00:24:01.480",
+      "text": "En utilisant des termes jargonneux, on évite que des gens non autorisés à penser, comme vous, se mettent à penser."
+    },
+    {
+      "id": 220,
+      "start": 1441.48,
+      "end": 1446.68,
+      "start_timestamp": "00:24:01.480",
+      "end_timestamp": "00:24:06.680",
+      "text": "Le collatéral, c'est le nom qu'on donne à la garantie d'un prêt. Si vous ne payez pas votre emprunt immobilier,"
+    },
+    {
+      "id": 221,
+      "start": 1446.68,
+      "end": 1454.32,
+      "start_timestamp": "00:24:06.680",
+      "end_timestamp": "00:24:14.320",
+      "text": "la banque se payera en vendant votre maison. Votre maison est le collatéral du prêt. L'idée est donc toute bête."
+    },
+    {
+      "id": 222,
+      "start": 1454.32,
+      "end": 1463.28,
+      "start_timestamp": "00:24:14.320",
+      "end_timestamp": "00:24:23.280",
+      "text": "En profitant de sa position extrêmement créditrice dans le système Target, l'Allemagne pourrait imposer unilatéralement une nouvelle règle."
+    },
+    {
+      "id": 223,
+      "start": 1463.28,
+      "end": 1469.88,
+      "start_timestamp": "00:24:23.280",
+      "end_timestamp": "00:24:29.880",
+      "text": "Pour créer de la monnaie centrale allemande, la Bundesbank pourrait exiger les mêmes garanties aux banques centrales de la zone euro"
+    },
+    {
+      "id": 224,
+      "start": 1469.88,
+      "end": 1476.2,
+      "start_timestamp": "00:24:29.880",
+      "end_timestamp": "00:24:36.200",
+      "text": "qu'elle exige pour les banques commerciales. À partir de là, finit les Target qui s'accumulent, ou, dit autrement,"
+    },
+    {
+      "id": 225,
+      "start": 1476.2,
+      "end": 1482.12,
+      "start_timestamp": "00:24:36.200",
+      "end_timestamp": "00:24:42.120",
+      "text": "finit la monnaie centrale des autres pays de la zone euro qui s'accumulent. Pour valider un transfert vers l'Allemagne,"
+    },
+    {
+      "id": 226,
+      "start": 1482.12,
+      "end": 1489.4,
+      "start_timestamp": "00:24:42.120",
+      "end_timestamp": "00:24:49.400",
+      "text": "une banque centrale de la zone euro devrait fournir à la Bundesbank un actif éligible du même montant que la transaction."
+    },
+    {
+      "id": 227,
+      "start": 1489.4,
+      "end": 1495.2,
+      "start_timestamp": "00:24:49.400",
+      "end_timestamp": "00:24:55.200",
+      "text": "Et cet actif, vous commencez à les connaître maintenant, ça peut être de l'or, des actions, toutes sortes de titres,"
+    },
+    {
+      "id": 228,
+      "start": 1495.24,
+      "end": 1503.12,
+      "start_timestamp": "00:24:55.240",
+      "end_timestamp": "00:25:03.120",
+      "text": "mais ce sera surtout des obligations d'État allemands. Tant que les échanges entre votre pays et l'Allemagne sont équilibrés ou stables,"
+    },
+    {
+      "id": 229,
+      "start": 1503.12,
+      "end": 1511.4,
+      "start_timestamp": "00:25:03.120",
+      "end_timestamp": "00:25:11.400",
+      "text": "il n'y a pas de problème. Mais quand vous avez une fuite de monnaie constante et importante vers l'Allemagne, ce système vous vide de votre richesse."
+    },
+    {
+      "id": 230,
+      "start": 1511.4,
+      "end": 1518.12,
+      "start_timestamp": "00:25:11.400",
+      "end_timestamp": "00:25:18.120",
+      "text": "Ce serait le cas notamment de l'Italie et de l'Espagne, qui seraient très vite à court de collatérale. Par conséquent,"
+    },
+    {
+      "id": 231,
+      "start": 1518.12,
+      "end": 1525.32,
+      "start_timestamp": "00:25:18.120",
+      "end_timestamp": "00:25:25.320",
+      "text": "cette idée en apparence innocente et technique va conduire à l'expulsion de certains États de la zone euro en quelques semaines,"
+    },
+    {
+      "id": 232,
+      "start": 1525.32,
+      "end": 1531.4,
+      "start_timestamp": "00:25:25.320",
+      "end_timestamp": "00:25:31.400",
+      "text": "ce qui peut entraîner la fin de cette grande aventure. Car n'oubliez pas que l'euro, c'est juste un ensemble de monnaies nationales"
+    },
+    {
+      "id": 233,
+      "start": 1531.4,
+      "end": 1541.56,
+      "start_timestamp": "00:25:31.400",
+      "end_timestamp": "00:25:41.560",
+      "text": "dont on a décidé qu'elles s'appelleraient toutes euro et qu'elles s'échangeraient à un taux fixe de 1 pour 1 sans limite de durée ni de montant."
+    },
+    {
+      "id": 234,
+      "start": 1541.56,
+      "end": 1548.9,
+      "start_timestamp": "00:25:41.560",
+      "end_timestamp": "00:25:48.900",
+      "text": "Or, le nantissement des transferts Target constitue une limite au montant qu'on peut échanger, car les banques centrales des pays du Sud,"
+    },
+    {
+      "id": 235,
+      "start": 1548.9,
+      "end": 1556.4,
+      "start_timestamp": "00:25:48.900",
+      "end_timestamp": "00:25:56.400",
+      "text": "notamment, se trouveront tôt ou tard dans l'incapacité de fournir des actifs éligibles pour valider un transfert vers l'Allemagne."
+    },
+    {
+      "id": 236,
+      "start": 1556.4,
+      "end": 1562.8,
+      "start_timestamp": "00:25:56.400",
+      "end_timestamp": "00:26:02.800",
+      "text": "À partir de là, les autres banques centrales qui peuvent encore échanger avec la Bundesbank refuseront le transfert de celles"
+    },
+    {
+      "id": 237,
+      "start": 1562.8,
+      "end": 1568.72,
+      "start_timestamp": "00:26:02.800",
+      "end_timestamp": "00:26:08.720",
+      "text": "qui ne le peuvent plus pour ne pas servir d'intermédiaire et devoir donner de beaux actifs à la Bundesbank"
+    },
+    {
+      "id": 238,
+      "start": 1568.72,
+      "end": 1575.02,
+      "start_timestamp": "00:26:08.720",
+      "end_timestamp": "00:26:15.020",
+      "text": "en échange de la monnaie centrale pourrie des pays du Sud. C'est pour cette raison technique que cette règle,"
+    },
+    {
+      "id": 239,
+      "start": 1575.02,
+      "end": 1583.3,
+      "start_timestamp": "00:26:15.020",
+      "end_timestamp": "00:26:23.300",
+      "text": "d'abord imposée par l'Allemagne, sera obligatoirement adoptée par tous, sans qu'il y ait pour autant de modifications des traités."
+    },
+    {
+      "id": 240,
+      "start": 1583.3,
+      "end": 1591.04,
+      "start_timestamp": "00:26:23.300",
+      "end_timestamp": "00:26:31.040",
+      "text": "Dit autrement, dans ce système, un pays à accès à la zone euro, tant que ses échanges avec les autres pays, sont équilibrés."
+    },
+    {
+      "id": 241,
+      "start": 1591.04,
+      "end": 1597.88,
+      "start_timestamp": "00:26:31.040",
+      "end_timestamp": "00:26:37.880",
+      "text": "Puis dans la limite du solde négatif qu'il est capable de collatéraliser. Par exemple, la France qui a un solde"
+    },
+    {
+      "id": 242,
+      "start": 1597.88,
+      "end": 1604.88,
+      "start_timestamp": "00:26:37.880",
+      "end_timestamp": "00:26:44.880",
+      "text": "régulièrement négatif, mais qui est aussi entre plus 30 et moins 60 milliards, c'est pas un problème, parce que c'est un montant"
+    },
+    {
+      "id": 243,
+      "start": 1604.88,
+      "end": 1612.42,
+      "start_timestamp": "00:26:44.880",
+      "end_timestamp": "00:26:52.420",
+      "text": "peu élevé par rapport à la taille du pays, et c'est stable. Mais si votre solde négatif est en augmentation constante et rapide,"
+    },
+    {
+      "id": 244,
+      "start": 1612.42,
+      "end": 1618.76,
+      "start_timestamp": "00:26:52.420",
+      "end_timestamp": "00:26:58.760",
+      "text": "bah vous finissez à poil. Et quand vous avez plus de collatérales à fournir, votre monnaie est traité comme une monnaie étrangère,"
+    },
+    {
+      "id": 245,
+      "start": 1618.76,
+      "end": 1625.77,
+      "start_timestamp": "00:26:58.760",
+      "end_timestamp": "00:27:05.770",
+      "text": "et elle s'échangera sur le marché des changes. Imaginons que l'Italie soit placée dans cette situation."
+    },
+    {
+      "id": 246,
+      "start": 1625.77,
+      "end": 1634.65,
+      "start_timestamp": "00:27:05.770",
+      "end_timestamp": "00:27:14.650",
+      "text": "Un beau jour, une transaction vers l'Allemagne d'un importateur via Target sera refusée par manque de collatérales."
+    },
+    {
+      "id": 247,
+      "start": 1634.65,
+      "end": 1639.77,
+      "start_timestamp": "00:27:14.650",
+      "end_timestamp": "00:27:19.770",
+      "text": "Eh ben sa banque n'aura pas d'autre choix que de se tourner vers le marché des changes pour acheter des euros allemands"
+    },
+    {
+      "id": 248,
+      "start": 1639.77,
+      "end": 1648.55,
+      "start_timestamp": "00:27:19.770",
+      "end_timestamp": "00:27:28.550",
+      "text": "contre des euros italiens. Et par l'effet de l'offre et de la demande, il devra forcément payer un taux de change supérieur à 1 pour 1."
+    },
+    {
+      "id": 249,
+      "start": 1648.55,
+      "end": 1654.77,
+      "start_timestamp": "00:27:28.550",
+      "end_timestamp": "00:27:34.770",
+      "text": "L'euro sera mort. Et pourtant, cette fiction pourra se maintenir pendant plusieurs mois, parce que les billets continueront"
+    },
+    {
+      "id": 250,
+      "start": 1654.77,
+      "end": 1659.73,
+      "start_timestamp": "00:27:34.770",
+      "end_timestamp": "00:27:39.730",
+      "text": "de circuler, les monnaies continueront de s'appeler euros, donc le quidam y verra que du feu."
+    },
+    {
+      "id": 251,
+      "start": 1659.73,
+      "end": 1664.35,
+      "start_timestamp": "00:27:39.730",
+      "end_timestamp": "00:27:44.350",
+      "text": "Peut-être que sur certains achats sur Internet, il paiera des frais supplémentaires, mais sans comprendre"
+    },
+    {
+      "id": 252,
+      "start": 1664.35,
+      "end": 1671.13,
+      "start_timestamp": "00:27:44.350",
+      "end_timestamp": "00:27:51.130",
+      "text": "qu'il s'agit de l'application d'un taux de change. Il se dira que ça vient de sa banque ou que c'est une taxe quelconque."
+    },
+    {
+      "id": 253,
+      "start": 1671.13,
+      "end": 1677.49,
+      "start_timestamp": "00:27:51.130",
+      "end_timestamp": "00:27:57.490",
+      "text": "Cette idée lancée par le président de la Bundesbank est longtemps restée discrète. Puis elle a été reprise"
+    },
+    {
+      "id": 254,
+      "start": 1677.49,
+      "end": 1685.61,
+      "start_timestamp": "00:27:57.490",
+      "end_timestamp": "00:28:05.610",
+      "text": "par des économistes s'exprimant dans la presse spécialisée. Puis une tribune signée par 154 économistes allemands"
+    },
+    {
+      "id": 255,
+      "start": 1685.61,
+      "end": 1692.89,
+      "start_timestamp": "00:28:05.610",
+      "end_timestamp": "00:28:12.890",
+      "text": "a demandé au gouvernement de rejeter le plan de réforme de la zone euro proposé par Macron en 2018. Hein ? Déjà ?"
+    },
+    {
+      "id": 256,
+      "start": 1692.89,
+      "end": 1700.57,
+      "start_timestamp": "00:28:12.890",
+      "end_timestamp": "00:28:20.570",
+      "text": "Donc le mec se prend un vent par année. Et à la place d'arrêter les QE, de solder régulièrement les soldes Target,"
+    },
+    {
+      "id": 257,
+      "start": 1700.57,
+      "end": 1706.97,
+      "start_timestamp": "00:28:20.570",
+      "end_timestamp": "00:28:26.970",
+      "text": "ce qui revient à ce que je vous ai expliqué, et d'inclure dans les traités une clause de sortie ordonnée de la zone euro"
+    },
+    {
+      "id": 258,
+      "start": 1706.97,
+      "end": 1713.81,
+      "start_timestamp": "00:28:26.970",
+      "end_timestamp": "00:28:33.810",
+      "text": "qui n'existe pas actuellement. Cette clause a encore été réclamée tout récemment par le président de la Banque centrale hongroise,"
+    },
+    {
+      "id": 259,
+      "start": 1713.81,
+      "end": 1720.65,
+      "start_timestamp": "00:28:33.810",
+      "end_timestamp": "00:28:40.650",
+      "text": "qui a appelé les Européens à admettre que l'euro était une erreur. On devine que son pays n'entrera pas dans l'euro."
+    },
+    {
+      "id": 260,
+      "start": 1720.65,
+      "end": 1726.33,
+      "start_timestamp": "00:28:40.650",
+      "end_timestamp": "00:28:46.330",
+      "text": "Mais revenons-en à l'Allemagne. Quelques mois après la tribune des économistes, l'idée de Weidmann entrait"
+    },
+    {
+      "id": 261,
+      "start": 1726.33,
+      "end": 1733.41,
+      "start_timestamp": "00:28:46.330",
+      "end_timestamp": "00:28:53.410",
+      "text": "dans la sphère politique. Le président du Conseil économique de la CDU, le parti Merkel au pouvoir depuis 13 ans,"
+    },
+    {
+      "id": 262,
+      "start": 1733.41,
+      "end": 1740.53,
+      "start_timestamp": "00:28:53.410",
+      "end_timestamp": "00:29:00.530",
+      "text": "s'est exprimé à ce sujet dans deux articles. Il affirme qu'il est urgent de limiter ou de disposer d'un hantissement"
+    },
+    {
+      "id": 263,
+      "start": 1740.53,
+      "end": 1747.09,
+      "start_timestamp": "00:29:00.530",
+      "end_timestamp": "00:29:07.090",
+      "text": "sur les soldes Target en hausse. Il indique que la solution la plus cohérente serait de geler les soldes actuels"
+    },
+    {
+      "id": 264,
+      "start": 1747.09,
+      "end": 1753.81,
+      "start_timestamp": "00:29:07.090",
+      "end_timestamp": "00:29:13.810",
+      "text": "et d'introduire un nouveau système Target 3. Comme aux États-Unis, les créances doivent être régulièrement compensées"
+    },
+    {
+      "id": 265,
+      "start": 1753.81,
+      "end": 1762.53,
+      "start_timestamp": "00:29:13.810",
+      "end_timestamp": "00:29:22.530",
+      "text": "et garanties par des garanties telles que l'or ou des titres gouvernementaux. Voilà où nous en sommes."
+    },
+    {
+      "id": 266,
+      "start": 1762.53,
+      "end": 1768.33,
+      "start_timestamp": "00:29:22.530",
+      "end_timestamp": "00:29:28.330",
+      "text": "Si vous voulez plus d'infos sur le sujet, je vous renvoie aux articles de Vincent Brousseau sur la sortie furtive de l'euro,"
+    },
+    {
+      "id": 267,
+      "start": 1768.33,
+      "end": 1773.81,
+      "start_timestamp": "00:29:28.330",
+      "end_timestamp": "00:29:33.810",
+      "text": "que les Allemands appellent Target 3, et que j'ai largement pompé pour faire cette vidéo. Je crois d'ailleurs"
+    },
+    {
+      "id": 268,
+      "start": 1773.81,
+      "end": 1778.37,
+      "start_timestamp": "00:29:33.810",
+      "end_timestamp": "00:29:38.370",
+      "text": "que c'est le seul à parler de ce sujet en France. Et c'est lui qui a introduit toutes ces informations"
+    },
+    {
+      "id": 269,
+      "start": 1778.37,
+      "end": 1784.61,
+      "start_timestamp": "00:29:38.370",
+      "end_timestamp": "00:29:44.610",
+      "text": "pour un public francophone. J'ajouterai sans doute quelques-unes de ces vidéos à la playlist de cette série."
+    },
+    {
+      "id": 270,
+      "start": 1784.61,
+      "end": 1790.21,
+      "start_timestamp": "00:29:44.610",
+      "end_timestamp": "00:29:50.210",
+      "text": "Tout ça pour dire que cette idée fait son chemin. Et si un jour, vous entendez parler à la télé d'une réforme"
+    },
+    {
+      "id": 271,
+      "start": 1790.21,
+      "end": 1797.13,
+      "start_timestamp": "00:29:50.210",
+      "end_timestamp": "00:29:57.130",
+      "text": "de la zone euro initiée par l'Allemagne avec les mots Target 3 qui traînent dans un coin, gardez de l'argent liquide"
+    },
+    {
+      "id": 272,
+      "start": 1797.13,
+      "end": 1812.71,
+      "start_timestamp": "00:29:57.130",
+      "end_timestamp": "00:30:12.710",
+      "text": "sous le coude. Un peu d'or, ça fait pas de mal. Et profitez du feu d'artifice, parce que l'euro disparaîtra peu de temps après."
+    },
+    {
+      "id": 273,
+      "start": 1812.71,
+      "end": 1818.27,
+      "start_timestamp": "00:30:12.710",
+      "end_timestamp": "00:30:18.270",
+      "text": "Avec l'application de Target 3, tous les risques seront supprimés pour la Bundesbank, qui sera toujours payée"
+    },
+    {
+      "id": 274,
+      "start": 1818.27,
+      "end": 1824.23,
+      "start_timestamp": "00:30:18.270",
+      "end_timestamp": "00:30:24.230",
+      "text": "avec des actifs éligibles. Et elle sera ravie de voir l'euro fonctionner ainsi le plus longtemps possible."
+    },
+    {
+      "id": 275,
+      "start": 1824.23,
+      "end": 1830.27,
+      "start_timestamp": "00:30:24.230",
+      "end_timestamp": "00:30:30.270",
+      "text": "L'Allemagne aura l'avantage de bénéficier de l'euro pour ses exportations, mais sans l'inconvénient de voir s'accumuler"
+    },
+    {
+      "id": 276,
+      "start": 1830.27,
+      "end": 1836.31,
+      "start_timestamp": "00:30:30.270",
+      "end_timestamp": "00:30:36.310",
+      "text": "les créances pourries de certaines banques centrales. Par contre, pour les pays du Sud, c'est la double peine."
+    },
+    {
+      "id": 277,
+      "start": 1836.31,
+      "end": 1842.15,
+      "start_timestamp": "00:30:36.310",
+      "end_timestamp": "00:30:42.150",
+      "text": "Le taux de change surévalué de l'euro continuera d'endicaper leur économie. Et à l'intérieur de la zone euro,"
+    },
+    {
+      "id": 278,
+      "start": 1842.15,
+      "end": 1849.43,
+      "start_timestamp": "00:30:42.150",
+      "end_timestamp": "00:30:49.430",
+      "text": "ils se feront pomper le peu de richesse qu'il leur reste simplement pour que les autres États acceptent leur transfert de monnaie."
+    },
+    {
+      "id": 279,
+      "start": 1849.43,
+      "end": 1856.23,
+      "start_timestamp": "00:30:49.430",
+      "end_timestamp": "00:30:56.230",
+      "text": "Cette situation extrêmement injuste conduira tôt ou tard l'un de ces États à constater ce qui sera devenu"
+    },
+    {
+      "id": 280,
+      "start": 1856.23,
+      "end": 1861.91,
+      "start_timestamp": "00:30:56.230",
+      "end_timestamp": "00:31:01.910",
+      "text": "une réalisation de fait. Il sortira de l'euro et récupérera le contrôle de sa monnaie nationale"
+    },
+    {
+      "id": 281,
+      "start": 1861.91,
+      "end": 1869.95,
+      "start_timestamp": "00:31:01.910",
+      "end_timestamp": "00:31:09.950",
+      "text": "avant que son économie ne devienne un raisin sec. Il accusera l'Allemagne d'avoir saboté l'euro, tandis que"
+    },
+    {
+      "id": 282,
+      "start": 1869.95,
+      "end": 1875.87,
+      "start_timestamp": "00:31:09.950",
+      "end_timestamp": "00:31:15.870",
+      "text": "l'Allemagne l'accusera de ne pas avoir fait les réformes structurelles nécessaires au maintien de l'euro."
+    },
+    {
+      "id": 283,
+      "start": 1875.87,
+      "end": 1881.99,
+      "start_timestamp": "00:31:15.870",
+      "end_timestamp": "00:31:21.990",
+      "text": "Le sujet étant très technique et comportant une bonne part d'idéologie, les deux ont à la fois raison et tort,"
+    },
+    {
+      "id": 284,
+      "start": 1881.99,
+      "end": 1888.83,
+      "start_timestamp": "00:31:21.990",
+      "end_timestamp": "00:31:28.830",
+      "text": "et on peut en discuter longuement. Mais aux yeux du public, seul celui qui prendra la décision finale de sortir de l'euro"
+    },
+    {
+      "id": 285,
+      "start": 1888.83,
+      "end": 1895.87,
+      "start_timestamp": "00:31:28.830",
+      "end_timestamp": "00:31:35.870",
+      "text": "sera identifié comme le responsable de toutes les conséquences qui pourraient en découler. Ainsi, l'Allemagne mettra fin à l'euro"
+    },
+    {
+      "id": 286,
+      "start": 1895.87,
+      "end": 1901.75,
+      "start_timestamp": "00:31:35.870",
+      "end_timestamp": "00:31:41.750",
+      "text": "sans jamais le dire, sans en être directement responsable et sans que le Kidam ne puisse s'en rendre compte."
+    },
+    {
+      "id": 287,
+      "start": 1901.75,
+      "end": 1908.35,
+      "start_timestamp": "00:31:41.750",
+      "end_timestamp": "00:31:48.350",
+      "text": "Tout se passera dans la coulisse, en douceur, s'étalant sur plusieurs mois, évitant le plus possible qu'un choc"
+    },
+    {
+      "id": 288,
+      "start": 1908.35,
+      "end": 1915.19,
+      "start_timestamp": "00:31:48.350",
+      "end_timestamp": "00:31:55.190",
+      "text": "n'entraîne avec lui le reste de la construction européenne. Tout se passera comme si des gens totalement favorables à l'euro"
+    },
+    {
+      "id": 289,
+      "start": 1915.19,
+      "end": 1922.15,
+      "start_timestamp": "00:31:55.190",
+      "end_timestamp": "00:32:02.150",
+      "text": "avaient dû cesser d'y participer pour des raisons techniques, obscures et regrettables. Si la sortie d'un État"
+    },
+    {
+      "id": 290,
+      "start": 1922.15,
+      "end": 1927.75,
+      "start_timestamp": "00:32:02.150",
+      "end_timestamp": "00:32:07.750",
+      "text": "devait entraîner la fin de l'euro, les dirigeants du premier pays sortant serviront sûrement de bouc émissaire"
+    },
+    {
+      "id": 291,
+      "start": 1927.75,
+      "end": 1934.23,
+      "start_timestamp": "00:32:07.750",
+      "end_timestamp": "00:32:14.230",
+      "text": "et seront traités de mauvais européens, de saboteurs de cette belle idée de paix et de prospérité qu'était l'euro,"
+    },
+    {
+      "id": 292,
+      "start": 1934.23,
+      "end": 1940.63,
+      "start_timestamp": "00:32:14.230",
+      "end_timestamp": "00:32:20.630",
+      "text": "permettant ainsi à tous les autres dirigeants de prendre des postures de grands européens tout en étant ravis"
+    },
+    {
+      "id": 293,
+      "start": 1940.63,
+      "end": 1947.71,
+      "start_timestamp": "00:32:20.630",
+      "end_timestamp": "00:32:27.710",
+      "text": "de pouvoir bazarder l'euro. Mais bon, c'est sûr que si tout le monde est déjà au courant, ça marchera moins bien."
+    },
+    {
+      "id": 294,
+      "start": 1947.71,
+      "end": 1951.03,
+      "start_timestamp": "00:32:27.710",
+      "end_timestamp": "00:32:31.030",
+      "text": "Alors, chuuut, il faut pas le dire."
+    }
+  ]
+}

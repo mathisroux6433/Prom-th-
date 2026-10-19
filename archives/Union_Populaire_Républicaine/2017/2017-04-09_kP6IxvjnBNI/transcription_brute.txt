@@ -1,0 +1,1148 @@
+[00:00:42.540 --> 00:00:55.050] Et puis on a pris ça au dernier moment et donc je suis vraiment content que le succès qui arrive actuellement se met en place.
+[00:00:55.050 --> 00:01:01.050] J'étais d'ailleurs, petite anecdote, j'étais hier soir à Paris pour la présentation du programme de François Asselineau
+[00:01:01.050 --> 00:01:07.050] et je peux vous assurer que le cadre de l'UPR qui sont là depuis quelques années, moi ça fait 5 ans que je fais l'UPR,
+[00:01:07.050 --> 00:01:10.050] on était vraiment stupéfaits de ce qui se passait.
+[00:01:10.050 --> 00:01:18.050] Ça nous est passé complètement parce que 1000 personnes, François Asselineau, à la fin quand il est descendu, il y avait 30 journalistes autour de lui.
+[00:01:18.050 --> 00:01:21.050] C'est vraiment impressionnant.
+[00:01:21.050 --> 00:01:28.050] Et imaginez donc, parce que la plupart qui sont ici, je sais qu'ils seront là le 25, on a déjà inscrit je crois 5000 personnes,
+[00:01:28.050 --> 00:01:32.050] on envise les 6000, la salle de collège 12000.
+[00:01:32.050 --> 00:01:38.460] Il y aura bien sûr de quoi cet événement international, toute la presse sera là.
+[00:01:38.460 --> 00:01:42.460] Donc ça va être un événement incroyable qui va nous donner beaucoup d'énergie pour la suite.
+[00:01:42.460 --> 00:01:51.460] Donc on est montrés nombreux dans cette salle, c'est filmé donc je vais vous demander de ne pas faire trop de bruit.
+[00:01:51.460 --> 00:01:57.460] Je vais vous présenter notre conférencier.
+[00:01:57.460 --> 00:02:03.460] Donc Vincent Brousseau, pour ceux qui ne connaissent pas, c'est, et puis je ne pense pas que je vous ai exagéré,
+[00:02:03.460 --> 00:02:08.460] c'est en tout cas un des plus grands spécialistes français de l'euro.
+[00:02:08.460 --> 00:02:13.460] Donc voilà, il a rejoint l'UPR, a travaillé je crois 15 ans à la BCE.
+[00:02:13.460 --> 00:02:15.460] Il se présentera tout à l'heure, c'est un bon garçon.
+[00:02:15.460 --> 00:02:17.460] Donc voilà, on le remercie d'être ici.
+[00:02:17.460 --> 00:02:20.460] Bon, je vais laisser la parole, je suis toujours un peu bavard.
+[00:02:20.460 --> 00:02:35.630] Bonjour à tous et merci d'être venus si nombreux à cette conférence sur le retour au franc
+[00:02:35.630 --> 00:02:39.630] et sur le fait que la France sorte de la zone euro.
+[00:02:40.630 --> 00:02:47.900] C'est un sujet qui a été remis à l'actualité par notre parti, l'UPR, Union Populaire Républicaine,
+[00:02:47.900 --> 00:02:53.900] qui a été créé, comme on vient de vous le dire, il y a 10 ans, le 25 mars 2007, par François Asselineau,
+[00:02:53.900 --> 00:02:58.900] un inspecteur général des Finances, anciennement des cabinets ministériels
+[00:02:58.900 --> 00:03:00.900] et on peut l'espérer futur président de la République,
+[00:03:00.900 --> 00:03:05.900] mais il est en tout cas officiellement candidat à la présidentielle de cette année.
+[00:03:05.900 --> 00:03:07.900] Est-ce que vous m'entendez bien ?
+[00:03:07.900 --> 00:03:12.910] Il n'y a pas de plainte ?
+[00:03:12.910 --> 00:03:23.910] Donc voilà votre candidat, c'est le mien aussi, et voilà l'effet de l'obtention des parrainages.
+[00:03:23.910 --> 00:03:28.910] Vous avez la courbe grise qui représentait une espèce de petit modèle qu'on avait
+[00:03:28.910 --> 00:03:33.910] pour prévoir ou prédire le nombre de candidats et qui a collé à la réalité,
+[00:03:33.910 --> 00:03:37.910] pardon pas de candidats d'adhérents, et qui a collé à la réalité,
+[00:03:37.910 --> 00:03:45.910] laquelle réalité est représentée par la courbe bleue et rouge les années 2013, 2014, 2015 et la plus grande partie de l'année 2016.
+[00:03:45.910 --> 00:03:49.910] Et puis après, la réalité a commencé à dépasser ce modèle.
+[00:03:49.910 --> 00:03:54.910] Vous voyez ici qu'il y a un décollage qui s'accentue d'une manière presque verticale
+[00:03:54.910 --> 00:04:06.460] lorsque la nouvelle est connue que les fameux 500 parrainages ont été obtenus par le parti contre tout attente.
+[00:04:06.460 --> 00:04:12.460] Le programme d'une partie peut se résumer en un mot et ce mot c'est recouvrer la souveraineté nationale,
+[00:04:12.460 --> 00:04:18.460] enfin une phrase, et cette phrase c'est recouvrer la souveraineté nationale dans son intégralité.
+[00:04:18.460 --> 00:04:25.460] Alors ce programme est en fait très grand mais il implique en particulier trois choses qui sont de quitter l'OTAN,
+[00:04:25.460 --> 00:04:29.460] de quitter l'Union européenne et de quitter l'euro.
+[00:04:29.460 --> 00:04:35.460] Alors cette conférence sera plutôt focalisée sur la question de l'euro où il y a plein de choses mystérieuses
+[00:04:35.460 --> 00:04:41.930] et comme mon camarade vous l'a dit, nous essayons de faire de l'éducation populaire
+[00:04:41.930 --> 00:04:47.930] d'autant plus que le fait qu'il y ait une orable mystère qui entoure toutes ces choses financières et euro-esque,
+[00:04:47.930 --> 00:04:54.930] ça déconcerte les gens et ça les laisse se faire facilement impressionner par la propagande adverse
+[00:04:54.930 --> 00:05:01.930] qui peuvent leur faire croire toutes sortes de choses calamiteuses si jamais ils votaient pour un parti qui voudrait quitter l'euro.
+[00:05:02.930 --> 00:05:07.930] Ce que nous essaierons d'expliquer c'est que non seulement c'est une bonne chose de quitter l'euro,
+[00:05:07.930 --> 00:05:14.930] mais en plus que c'est une urgence.
+[00:05:14.930 --> 00:05:20.930] C'est-à-dire que ce qui est en préparation c'est, vous le savez sûrement, la désagrégation de l'euro
+[00:05:20.930 --> 00:05:23.930] et ça indépendamment du résultat des élections françaises,
+[00:05:23.930 --> 00:05:32.930] puisqu'il y a des protestations qui viennent de plus en plus de Milan dans d'autres pays tels que l'Italie, la Hollande,
+[00:05:32.930 --> 00:05:40.930] puisque la Grèce risque d'être exclue car tel est la volonté du ministre allemand de l'économie.
+[00:05:40.930 --> 00:05:52.930] Il existe encore d'autres pays de la zone euro qui considèrent plus ou moins en catémini leur plan de sortie.
+[00:05:52.930 --> 00:05:59.930] Nous savons que l'euro ne va pas survivre, mais ce qui s'est produit durant la vie de l'euro,
+[00:05:59.930 --> 00:06:06.930] et ce dont on ne vous a probablement pas bien informé au niveau des médias traditionnels tels que TF1 ou Le Monde,
+[00:06:06.930 --> 00:06:15.930] c'est que le fonctionnement même de l'euro induit la formation de dettes entre les banques centrales elles-mêmes.
+[00:06:15.930 --> 00:06:22.930] Ce qui est en train de se produire, c'est que ces dettes sont devenues dans la plupart des cas trop grosses pour être repayées,
+[00:06:22.930 --> 00:06:35.930] ce qui signifie que si un débiteur important sortait, il créerait une perte à la BCE qui serait répartie chez les banques centrales des pays restants,
+[00:06:35.930 --> 00:06:38.930] et un rapide calcul vous montrera qu'on fera à la fin de la conférence,
+[00:06:38.930 --> 00:06:44.930] que la part à quoi de part qui serait à la BCE serait trop grosse pour être supportée par la BCE.
+[00:06:44.930 --> 00:06:50.930] Donc il y a une raison réellement valable de non seulement faire le Frexit, mais encore de ne pas traiter.
+[00:06:50.930 --> 00:06:58.930] C'est peut-être une question de mois avant que l'Italie ne sorte de la zone euro, et il faut qu'à ce moment-là nous-mêmes n'y soyons plus.
+[00:06:59.930 --> 00:07:09.930] Ceci, bien entendu, n'est proposé que dans le programme de François Asselineau, puisque nos adversaires ont des programmes qui sont un peu différents.
+[00:07:09.930 --> 00:07:22.930] Je parle des adversaires qui sont présentés comme non pas pro-euro mais anti-euro, mais qui ne sont pas si anti-euro que ça.
+[00:07:22.930 --> 00:07:31.930] Notre programme à nous, ça n'est pas de modifier les traités, et ça n'est pas de construire l'euro autrement ou de le reconstruire autrement.
+[00:07:31.930 --> 00:07:36.930] Et ça n'est pas non plus de remplacer l'euro aux monnaies unies par l'euro aux monnaies communes.
+[00:07:36.930 --> 00:07:41.930] Cette formule, vous le savez, est employée par Marine Le Pen, elle est également employée par Mélenchou,
+[00:07:41.930 --> 00:07:50.930] et je l'ai entendu, je crois, dans la bouche de gens comme Chevenement ou l'économiste Jacques Sapir.
+[00:07:50.930 --> 00:08:00.930] Et cette histoire de remplacer l'euro-monnaie unique par l'euro-monnaie commune a un sens un peu nébuleux, mais en tout cas ça n'est pas synonyme de quitter l'euro.
+[00:08:00.930 --> 00:08:08.930] Si vous vouliez quitter l'euro, vous n'auriez pas particulièrement envie de le remplacer tel qu'il est maintenant par d'une autre façon, ça vous serait égal puisque vous voudriez le quitter.
+[00:08:09.930 --> 00:08:16.930] Notre programme n'est pas de revenir au SME, qui est le système monétaire ou le serpent monétaire, il y a eu deux variantes qui ont existé dans le passé,
+[00:08:16.930 --> 00:08:23.930] et ce n'est pas non plus de recréer cet EQ qui a existé avant l'euro, ni non plus des bandes de fluctuations prédéfinies,
+[00:08:23.930 --> 00:08:30.930] soit entre les monnaies européennes elles-mêmes, soit entre chaque monnaie européenne et l'EQ, c'est rien de tout ça.
+[00:08:30.930 --> 00:08:42.930] Notre programme, et là je vous affirme que nous sommes le seul parti politique, le seul dans la France à proposer cela, c'est juste une monnaie nationale et rien d'autre à côté.
+[00:08:42.930 --> 00:08:50.930] En d'autres termes, on veut revenir à la situation d'une part qui était la nôtre avant la zone euro,
+[00:08:50.930 --> 00:08:57.930] et d'autre part qui est la situation courante de pays très exotiques et très peu connus dont nous n'avons vaguement entendu parler,
+[00:08:57.930 --> 00:09:05.930] comme la Suisse et l'Angleterre, lesquels, quoi qu'étant sur le continent européen,
+[00:09:05.930 --> 00:09:12.930] se permettent d'avoir une monnaie nationale, le franc suisse ou la livre sterling, et rien d'autre à côté.
+[00:09:12.930 --> 00:09:18.930] Donc vous voyez, s'il ne me retenait qu'une seule chose de cette conférence, j'aimerais que ce soit celle-ci.
+[00:09:18.930 --> 00:09:24.930] Notre programme est véritablement unique, il n'est pas copié par nos adversaires,
+[00:09:24.930 --> 00:09:30.930] et il est le seul à vouloir que nous fassions comme la Suisse ou comme l'Angleterre.
+[00:09:30.930 --> 00:09:33.930] Il n'y a que l'UPR qui propose cela.
+[00:09:33.930 --> 00:09:38.930] Alors comme je vous l'ai dit dans l'intro, c'est très urgent de faire ça,
+[00:09:38.930 --> 00:09:45.930] parce qu'il y a cette menace, je vais passer la conférence à vous expliquer, qui s'ouvre et qui va se manifester d'ici quelques mois,
+[00:09:45.930 --> 00:09:53.520] mais nous voulons aller vers une situation qui n'est pas totalement exotique,
+[00:09:53.520 --> 00:09:57.520] puisqu'elle existe dans des pays qui finalement se portent assez bien,
+[00:09:57.520 --> 00:10:00.520] et qui est la situation de presque tous les pays du monde.
+[00:10:00.520 --> 00:10:11.520] En effet, j'ai cité la Suisse et l'Angleterre, mais j'aurais pu tout aussi bien citer l'Amérique, la Russie, le Japon, la Chine, l'Australie, le Canada.
+[00:10:11.520 --> 00:10:18.520] La situation normale sur cette planète est une nation, une monnaie nationale, et c'est tout.
+[00:10:18.520 --> 00:10:25.850] C'est en fait ce qui a lieu presque partout et presque tout le temps.
+[00:10:25.850 --> 00:10:30.850] Alors comment est venue cette construction européenne ?
+[00:10:30.850 --> 00:10:37.850] Nous, à l'UPR, nous disons que cette construction européenne ne procédait pas d'une impulsion qui viendrait d'Europe,
+[00:10:37.850 --> 00:10:42.850] mais qu'elle a suivi une impulsion qui était gouvernementale et qui venait des États-Unis.
+[00:10:42.850 --> 00:10:47.850] Alors ceux d'entre vous qui ont regardé François Asselineau lundi soir au 20h de TF1,
+[00:10:47.850 --> 00:10:53.850] ont vu que le journaliste qu'il interviewait présentait cette idée comme étant la nôtre, ce qui était vrai,
+[00:10:53.850 --> 00:11:02.850] mais en donnant l'impression qu'elle était ridicule ou stupide, la dévalorisant.
+[00:11:02.850 --> 00:11:13.850] Est-ce que vraiment il est impossible de croire que le fédérateur extérieur qui a causé ce processus de fédération interne de l'Europe est véritablement extérieur ?
+[00:11:13.850 --> 00:11:20.850] Ça lui paraissait, si vous lisiez ses jeux de mimi, son langage corporel et tout ça, comme une chose extraordinaire,
+[00:11:20.850 --> 00:11:27.850] il n'y avait pas une ligne de confiance et il en était à se demander visiblement comment ça se faisait qu'un url ou une url pareille ait pu avoir les 500 parrainages.
+[00:11:27.850 --> 00:11:41.850] Or, cette idée n'est pas si exotique et si étrange puisqu'elle a été exprimée en toute lettre par un personnage que TF1 n'oserait pas qualifier de complotiste,
+[00:11:41.850 --> 00:11:47.850] qui était le général de Gaulle lorsqu'il officiait en qualité de président de la République française.
+[00:11:47.850 --> 00:11:52.850] C'est pour ça que la conférence prévoit, je ne sais pas si je vais réussir à le faire parce qu'on ne l'a pas testé avant,
+[00:11:52.850 --> 00:12:02.850] de vous montrer une conférence de presse qui a été tenue par le général de Gaulle je pense l'année 1961 ou 1962,
+[00:12:02.850 --> 00:12:11.850] devant des journalistes où il a très précisément expliqué cette idée qui paraissait si étrange aux commentateurs de TF1 de l'indice fort.
+[00:12:11.850 --> 00:12:22.850] Nous allons donc tenter de faire marcher la vidéo et pour vous passer le son qui est la partie importante, je vais essayer de coller le micro sur les haut-parleurs.
+[00:12:22.850 --> 00:12:27.850] Si ça ne marche pas, je vous la commenterai moi-même et vous me ferez confiance puisque de toute façon,
+[00:12:27.850 --> 00:12:31.850] vous pouvez la retrouver assez facilement sur l'internet au fin de vérification.
+[00:12:31.850 --> 00:12:43.580] Y a-t-il une Allemagne, y a-t-il une Italie, y a-t-il une Hollande, y a-t-il une Belgique, y a-t-il une Luxembourg
+[00:12:43.580 --> 00:12:58.580] qui soient prêts à faire sur une question importante pour eux au point de vue national et au point de vue international
+[00:12:58.580 --> 00:13:05.580] ce qui leur paraîtrait mauvais parce que ça leur serait commandé par d'autres.
+[00:13:05.580 --> 00:13:13.580] Parce que le peuple français, le peuple allemand, le peuple italien, le peuple hollandais, le peuple belge, le peuple luxembourgeois
+[00:13:13.580 --> 00:13:20.580] sont prêts à se soumettre à des lois que voteraient des députés étrangers
+[00:13:20.580 --> 00:13:30.950] dès lors que ces lois iraient à l'encontre de leur volonté profonde.
+[00:13:30.950 --> 00:13:42.950] Mais ce n'est pas vrai. Il n'y a pas moyen alors qu'il est de faire en sorte qu'une majorité puisse contraindre
+[00:13:42.950 --> 00:13:52.220] une majorité étrangère, puisse contraindre des nations récalcitrantes.
+[00:13:52.220 --> 00:14:02.220] Il est vrai que dans cette Europe, intégrée, comme on dit, il n'y aurait peut-être pas de politique du tout.
+[00:14:02.220 --> 00:14:12.220] Ça simplifierait beaucoup les choses. Et puis, en effet, dès lors qu'il n'y aurait pas de France, pas d'Europe, qu'il n'y aurait qu'une politique,
+[00:14:12.220 --> 00:14:19.220] faute qu'on puisse en imposer une à chacun des six États, on s'abstiendrait d'enfer.
+[00:14:19.220 --> 00:14:32.570] Mais alors, peut-être, tout ce monde se mettrait à la suite de quelqu'un du dehors et qui, lui, en aurait une.
+[00:14:32.570 --> 00:14:42.570] Il y aurait peut-être un fédérateur, mais il ne serait pas européen. Et ce ne serait pas l'Europe intégrée.
+[00:14:42.570 --> 00:14:51.570] Ce serait tout autre chose de beaucoup plus large et de beaucoup plus étendue, avec, je le répète, un fédérateur.
+[00:14:51.570 --> 00:14:56.570] La vidéo est bien passée et je pense que vous avez saisi l'esprit de ce que racontait le général de Gaulle.
+[00:14:56.570 --> 00:15:03.570] En gros, le général de Gaulle aurait été classé, comme on le dit, lundi soir sur TF1.
+[00:15:04.570 --> 00:15:11.570] Cependant, rappelons-nous que le général de Gaulle avait une stature qui n'était pas comparable à celle du journaliste,
+[00:15:11.570 --> 00:15:18.570] qui s'est permis de traiter cette idée de complotiste. Donc remettons les choses dans leurs perspectives
+[00:15:18.570 --> 00:15:27.570] et admettons que parfois, on essaye plus ou moins bien de nous bourrer le mou.
+[00:15:28.570 --> 00:15:37.570] L'idée est de regarder les traces de l'implication américaine dans les débuts de la procédure de construction européenne,
+[00:15:37.570 --> 00:15:45.570] et ce depuis les années qui ont immédiatement suivi la guerre. Mais je vais aujourd'hui plutôt me concentrer
+[00:15:45.570 --> 00:15:55.570] sur ce qui s'est passé dans l'époque la plus récente, c'est-à-dire à partir de 2011, pour cette raison que c'est exactement là
+[00:15:55.570 --> 00:16:05.570] que nous, l'UPR, nous subissons une critique. Donc on veut nous faire croire que l'Amérique ne serait pas
+[00:16:05.570 --> 00:16:18.860] à l'origine du processus de construction européenne. Alors je vous rappelle une chose, c'est que la crise de l'euro a commencé
+[00:16:18.860 --> 00:16:26.860] en 2011. Et le 16 septembre 2011, vous trouvez un article de La Tribune, et La Tribune, c'est pas du tout un média
+[00:16:26.860 --> 00:16:32.860] que TF1 aurait qualifié de complotiste, c'est plutôt un média du même camp, qui s'intitulait
+[00:16:32.860 --> 00:16:37.860] « Quand le trésor américain rappelle les Européens à l'ordre ». Littéralement, c'est pas moi qui fais le titre,
+[00:16:37.860 --> 00:16:45.860] c'est le titre de La Tribune. Alors une qui n'est pas complotiste, et ça date du 16 septembre 2011. La phrase exacte
+[00:16:45.860 --> 00:16:50.860] que j'ai encadrée, c'est « Le secrétaire au trésor Timothy Geithner rappelle les Européens à mettre un terme
+[00:16:50.860 --> 00:16:56.860] aux propos inconsigérés sur un possible démantèlement de l'euro ». Alors je voudrais faire de l'ordre et rappeler
+[00:16:56.860 --> 00:17:03.860] la chose suivante, qui est que les États-Unis ne font pas partie de la zone euro, et ils ne font pas non plus partie
+[00:17:03.860 --> 00:17:12.860] de l'Union Européenne. Ceci étant bien compris, on peut se demander à quel titre Lydon ne serait-ce qu'un conseil,
+[00:17:12.860 --> 00:17:23.180] et à plus forte raison un ordre, à des chefs, enfin des ministres des finances de pays qui ne sont pas normalement
+[00:17:23.180 --> 00:17:31.180] officiellement et formellement leurs satellites. Ça n'a de sens que si les États-Unis, et j'entends par là
+[00:17:31.180 --> 00:17:37.180] non pas le peuple américain, non pas les sociétés privées américaines, mais bel et bien le gouvernement américain
+[00:17:37.180 --> 00:17:44.180] souhaite le maintien et l'approfondissement du processus d'intégration européenne.
+[00:17:44.180 --> 00:17:53.580] Cette anecdote de M. Geithner qui va en Europe est d'autant plus marquante que si M. Geithner s'est invité
+[00:17:53.580 --> 00:17:57.580] au sommet Ekoffing où il a fait ses déclarations. C'est-à-dire qu'il n'y avait pas été invité,
+[00:17:57.580 --> 00:18:02.580] ça se produisait dans une petite ville polonaise, nous d'ailleurs c'est une grande ville, c'est l'ancienne Breslau
+[00:18:02.580 --> 00:18:08.580] qui s'appelle maintenant Wroclaw et il n'était pas du tout prévu qu'il vienne parce que c'était un sommet Ekoffing,
+[00:18:08.580 --> 00:18:13.580] donc un sommet entre les ministères de l'économie et des finances des pays de la zone euro.
+[00:18:13.580 --> 00:18:20.580] Parmi lesquels ne comptent pas les États-Unis, il s'est invité tout seul et il a pris la direction des opérations
+[00:18:20.580 --> 00:18:28.580] tout seul et on l'a laissé faire, ce qui en soi est déjà assez significatif, mais on l'a laissé faire pour qu'ils disent
+[00:18:28.580 --> 00:18:34.860] arrêter vos propos inconsigérés sur un possible démantèlement de l'euro, alors qu'ils y sont américains,
+[00:18:34.860 --> 00:18:38.860] ils disent qu'ils ont à faire que l'euro soit démantelé ou pas démantelé.
+[00:18:38.860 --> 00:18:50.140] C'était en septembre 2011, mais la situation ne s'est pas améliorée en juillet 2012 et ce même M. Geithner fait la chose suivante,
+[00:18:50.140 --> 00:18:57.140] il prend son avion et il va déranger son collègue allemand, M. Schauble, sur le lieu de ses vacances,
+[00:18:57.140 --> 00:19:04.140] M. Schauble a l'habitude de passer ses vacances d'été au bord de la mer du Nord dans un endroit qui s'appelle Idylt
+[00:19:04.140 --> 00:19:12.390] et donc M. Geithner vient à Schauble et s'invite encore une fois, c'est pas moi qui le dis, c'est Der Spiegel.
+[00:19:12.390 --> 00:19:19.390] Der Spiegel est un média que certainement TF1 ne qualifierait pas de complotiste et Der Spiegel, je vous donne le lien
+[00:19:19.390 --> 00:19:24.390] pour que vous puissiez vérifier, explique la chose suivante qui est la phrase en quatre gens rouges que je vais vous traduire
+[00:19:24.390 --> 00:19:33.440] Cette rencontre qui a bien duré une heure et demie est venue à l'initiative de l'America et son objectif a été clair.
+[00:19:33.440 --> 00:19:38.440] Du point de vue des États-Unis, le gouvernement fédéral allemand, c'est-à-dire le gouvernement allemand,
+[00:19:38.440 --> 00:19:44.440] en fait trop peu pour éviter une escalade supplémentaire de la crise de l'euro.
+[00:19:44.440 --> 00:19:52.440] Là encore, je pose la question, en quoi un ministre américain peut-il avoir une raison de s'intéresser à ça ?
+[00:19:52.440 --> 00:19:56.440] Est-ce que par hasard les pays de la zone euro font partie des États-Unis ? Je ne crois pas.
+[00:19:56.440 --> 00:20:00.440] Est-ce que par hasard les États-Unis font partie de la zone euro ? Il ne me semble pas.
+[00:20:00.440 --> 00:20:08.440] Qu'est-ce que c'est que cette façon de venir donner des ordres aux gens si le projet n'est pas véritablement quelque chose
+[00:20:08.440 --> 00:20:12.440] qui suit une impulsion américaine ? Ça n'aurait aucun sens.
+[00:20:12.440 --> 00:20:20.440] Et je cite des médias qui sont tout à fait acceptables pour TF1, c'est pas du tout du web conspirationniste et complotiste.
+[00:20:20.440 --> 00:20:30.440] Donc notre ami Geithner finit un beau jour par être viré de son poste et comme beaucoup d'anciens politiciens,
+[00:20:30.440 --> 00:20:34.440] ce qu'il sait, c'est qu'il écrit un livre à succès. Un éditeur va lui payer très cher.
+[00:20:34.440 --> 00:20:44.440] Et Geithner, qui doit avoir des choses à raconter, commence à dire qu'est-ce qui s'est passé pendant cette fameuse conférence de Zilt.
+[00:20:45.440 --> 00:20:49.440] C'était une conférence financière entre lui et son collègue allemand.
+[00:20:49.440 --> 00:20:57.440] C'est assez incorrect en soi de révéler ce qui s'est dit. C'est très incorrect, très impoli, tout à fait garanti,
+[00:20:57.440 --> 00:21:10.170] mais c'est très instructif parce qu'il révèle que Chauvel avait déjà à ce moment-là l'intention de sortir la graisse de la zone euro en 2012.
+[00:21:10.170 --> 00:21:14.170] Ça a été donc révélé quand le livre est paru en 2014.
+[00:21:14.170 --> 00:21:20.170] Alors si Chauvel avait déjà en 2012 l'intention de virer la graisse, tout ce qu'on vous a raconté au moins depuis 2012
+[00:21:20.170 --> 00:21:26.170] sur le fait que l'euro était révocable et irréversible était un mensonge commis siamant.
+[00:21:26.170 --> 00:21:33.170] Parce que s'il en avait été ainsi, le ministre allemand n'aurait pas pu avoir cette intention puisqu'il aurait su que c'était pas possible.
+[00:21:33.170 --> 00:21:37.170] D'accord ? C'est assez logique.
+[00:21:38.170 --> 00:21:45.170] Alors le but de Chauvel était soi-disant, selon M. Geithner, de terrifier le reste de l'Europe.
+[00:21:45.170 --> 00:21:50.170] C'est-à-dire qu'il s'attendait, Chauvel, et en quoi il a parfaitement raison parce que c'est bel et bien ce qui va se passer,
+[00:21:50.170 --> 00:21:55.170] à ce que la graisse, une fois sortie de l'euro, soit transformée en un champ de ruines fumante.
+[00:21:55.170 --> 00:22:06.170] Et car ainsi les autres pays qui pourraient être tentés de quitter l'euro, auraient peur que leurs électeurs ne voudraient pas voter pour des partis qui feraient la sortie de l'euro.
+[00:22:06.170 --> 00:22:11.170] Donc, n'y pensez pas, ce M. Chauvel.
+[00:22:11.170 --> 00:22:15.170] Donc, Geithner, qui est probablement un petit peu moins subtil, révèle tout ça. On est frivantouille, noir sur blanc.
+[00:22:15.170 --> 00:22:19.170] Comment ça s'est passé ? Qu'est-ce que Chauvel lui a dit ? Pourquoi c'était comme ça ?
+[00:22:19.170 --> 00:22:24.170] Et je vois aussi, en fin de compte, que c'est lui qui lui a dit, mais je ne veux pas que j'y sorte la graisse de la zone euro parce que...
+[00:22:24.170 --> 00:22:31.170] Encore une fois, les États-Unis, ils ne sont pas censés se mêler d'un projet qui, selon TF1, est d'origine purement européenne,
+[00:22:31.170 --> 00:22:36.170] ont donné un ordre, alors que ça ne les intéressait pas.
+[00:22:36.170 --> 00:22:40.170] Alors après Geithner, il y a un dont son suprécheur s'appelait M. Liu.
+[00:22:40.170 --> 00:22:48.170] Et M. Liu, le 29 mai 2015, c'est le Wall Street Journal qui dit ça, et vous admettrez que le Wall Street Journal ne sera pas qualifié par TF1 de médias conspirationnistes.
+[00:22:48.170 --> 00:22:57.170] Le Wall Street Journal dit, Chauvel-Liu exige une rapide résolution du problème du bail-out de la graisse.
+[00:22:57.170 --> 00:23:04.170] Ce qui se passait à ce moment-là, c'est que chacun est resté sur ses positions, et l'association n'avançait pas,
+[00:23:04.170 --> 00:23:14.170] et donc on ne savait pas comment on allait résoudre la question de l'aide qu'on devait envoyer à la graisse pour qu'elle ne fasse pas faillite.
+[00:23:14.170 --> 00:23:27.170] 8 juillet 2015, M. Liu demande du régiment et exige un compromis avec la graisse sur ce surendettement.
+[00:23:27.170 --> 00:23:36.170] Un compromis, c'est-à-dire qu'il exige que les créanciers de la graisse, qui sont donc les autres pays de la zone euro,
+[00:23:36.170 --> 00:23:44.170] qu'on renonce à la partie de leur créance. Qu'est-ce que c'est que ces États-Unis qui viennent voir des pays comme l'Allemagne, la France, l'Italie,
+[00:23:44.170 --> 00:23:50.170] et qui disent, oui, la graisse te doit tant, mais je veux que tu renonces. Est-ce qu'ils ont le droit de faire ça ?
+[00:23:50.170 --> 00:23:57.170] Mais est-ce que ce comportement ne montre pas que le projet est véritablement d'inspiration et d'obéissance américaine ?
+[00:23:57.170 --> 00:24:05.170] Car au fond, qui dépense le plus d'énergie, de crédit, d'influence et d'argent pour faire survivre le projet européen ?
+[00:24:05.170 --> 00:24:12.170] Ce n'est pas un gouvernement européen, c'est le gouvernement américain que vous voyez intervenir à chaque fois que le risque se précise
+[00:24:12.170 --> 00:24:21.170] et qui donne ses ordres dans le but de maintenir, de proroger, de faire perdurer la construction européenne.
+[00:24:21.170 --> 00:24:30.170] Autant pour un projet qui serait d'inspiration européenne, censé nous permettre de faire de l'or contre les États-Unis.
+[00:24:30.170 --> 00:24:39.170] Ça ridiculise totalement cet argument pourtant ultra classique de la propagande européiste et que vous avez certainement entendu cent mille fois,
+[00:24:39.170 --> 00:24:44.170] comme quoi l'Europe nous servirait à faire le poids. Si l'Europe nous servait à faire le poids,
+[00:24:45.170 --> 00:24:51.170] les États-Unis non seulement n'auraient pas tenté d'empêcher l'effondrement de la construction européenne,
+[00:24:51.170 --> 00:24:53.170] mais encore ils l'auraient accéléré.
+[00:24:53.170 --> 00:25:01.980] Alors après M. Liu, nous avons M. Kerry. M. Kerry, comme vous le savez, était dans la précédente administration
+[00:25:01.980 --> 00:25:05.980] un ministre des Affaires étrangères des États-Unis. D'accord ?
+[00:25:05.980 --> 00:25:13.980] Et il se trouve que des menaces pèsent sur le projet européen qui cette fois-ci n'ont plus rien à voir avec l'euro,
+[00:25:13.980 --> 00:25:18.980] mais avec la présence ou l'absence de la Grande-Bretagne dans l'Union européenne.
+[00:25:18.980 --> 00:25:22.980] Rappelez-vous qu'à ce SAD, aucun pays n'est jamais sorti de l'Union européenne.
+[00:25:22.980 --> 00:25:26.980] Alors M. Kerry s'invite, c'est une habitude, dans le débat du Brexit.
+[00:25:26.980 --> 00:25:34.980] Et vous voyez une dépêche de Reuters qui est un média qui serait tout à fait validée par TF1 comme non-conspirationniste et non-complodiste.
+[00:25:34.980 --> 00:25:41.980] Cette dépêche de Reuters dont je vous donne le lien, et vous pouvez vérifier que je ne l'ai pas inventée, indique la chose suivante.
+[00:25:41.980 --> 00:25:47.980] Kerry déclare que les États-Unis ont un intérêt profond au maintien de la Grande-Bretagne dans l'Union européenne.
+[00:25:47.980 --> 00:25:53.980] Et ensuite il cite la phrase exacte, de toute évidence les États-Unis ont un intérêt profond dans votre succès européen,
+[00:25:53.980 --> 00:26:02.980] tout comme dans le maintien d'un Royaume-Uni très fort au sein d'une Union européenne forte à Tilly à la conférence sur la sécurité de Munich.
+[00:26:02.980 --> 00:26:10.980] Est-ce que c'est bien normal qu'un ministre d'une grande puissance étrangère vienne dire aux électeurs anglais
+[00:26:10.980 --> 00:26:13.980] ceux qui doivent voter ? Pourquoi ça ne choque pas ?
+[00:26:13.980 --> 00:26:19.980] Est-ce que ça n'aurait pas choqué si c'était M. Poutine qui était venu dire aux électeurs anglais
+[00:26:19.980 --> 00:26:23.980] je ferais très chers électeurs anglais que vous votiez dans tel sens parce que ça m'arrangerait ?
+[00:26:23.980 --> 00:26:27.980] Je pense qu'à ce moment-là on aurait effectivement entendu des réactions.
+[00:26:27.980 --> 00:26:33.980] Mais on n'a pas entendu de réactions lorsque M. Kerry s'est invité dans le débat du Brexit
+[00:26:33.980 --> 00:26:41.980] pour pousser les électeurs britanniques à faire survivre un projet dans lequel, selon TF1, ils n'ont aucun intérêt.
+[00:26:41.980 --> 00:26:48.980] C'était peut-être parce que Kerry n'avait pas le gratuits de M. Poutine et chef d'État et que Kerry il est seulement ministre.
+[00:26:48.980 --> 00:26:53.980] Mais après M. Kerry il y a M. Obama qui lui était bel et bien chef d'État et président de l'État-Unis.
+[00:26:53.980 --> 00:26:59.980] Obama s'invite dans le débat du Brexit. Alors remarquez s'il vous plaît l'énormité de l'ingérence, l'énormité.
+[00:26:59.980 --> 00:27:04.980] Un chef d'État étranger qui vient dire à des électeurs d'un certain nombre d'hier « vous devez voter dans tel sens ».
+[00:27:04.980 --> 00:27:08.980] Comment est-ce seulement supportable ? Je pose la question.
+[00:27:08.980 --> 00:27:17.980] Comment se fait-il que TF1 propre, tellement acharné à chasser la théorie complotiste et conspiratrice, ne se souvient pas choqué là
+[00:27:17.980 --> 00:27:22.980] et reporter la chose sans s'indigner excessivement ?
+[00:27:22.980 --> 00:27:32.720] Comment peut-on encore croire à la théorie selon laquelle l'Union Européenne serait contrepoids aux États-Unis ?
+[00:27:32.720 --> 00:27:37.720] Si l'Union Européenne faisait contrepoids aux États-Unis, ne faudrait-il pas s'attendre à ce que Obama s'invite dans le débat du Brexit
+[00:27:37.720 --> 00:27:43.720] pour accélérer la sortie de l'Angleterre de l'Union Européenne ?
+[00:27:43.720 --> 00:27:48.720] Mais ce n'est pas ce qu'il a fait. Il a appelé les électeurs anglais à rester dans l'Union Européenne.
+[00:27:48.720 --> 00:27:58.580] Vous avez le lien Obama to visit London to keep the UK in the European Union. C'était le 12 mars 2016.
+[00:27:58.580 --> 00:28:08.580] Comme vous le savez, cette démarche n'a pas été couronnée de succès et les anglais ont voté ce que Obama ne voulait pas qu'il votasse.
+[00:28:08.580 --> 00:28:10.580] Histoire ne dit pas ce que pensait Poutine.
+[00:28:10.580 --> 00:28:19.560] Cette chose européenne a été construite en utilisant ce qu'on appelle la méthode monnaie, qui a des synonymes.
+[00:28:19.560 --> 00:28:27.560] On l'appelle également la méthode du cliquet. On l'appelle encore la méthode du pas à pas ou la méthode des petits pas.
+[00:28:28.560 --> 00:28:35.560] Cette méthode suit un schéma. Elle a plusieurs noms mais son schéma est très clair et il est très simple et il est constant.
+[00:28:35.560 --> 00:28:42.560] Le fait qu'il soit constant va permettre de prédire les actions qu'il conditionne.
+[00:28:42.560 --> 00:28:47.560] Quel est le schéma de la méthode monnaie ? Vous devez d'abord obtenir une concession.
+[00:28:47.560 --> 00:28:50.560] Nous l'appelerons A cette concession.
+[00:28:51.560 --> 00:28:58.560] Une fois que vous avez obtenu cette concession et qu'elle est rentrée et que vous ne la perdrez plus jamais, c'est pour ça qu'elle s'appelle un cliquet.
+[00:28:58.560 --> 00:29:08.560] Vous devez commencer à dire que A ne fonctionne pas si nous n'obstons pas aussi telle autre concession, concession B, qui est nécessaire pour faire fonctionner A.
+[00:29:08.560 --> 00:29:22.560] Alors il se passe un certain débat au bout duquel les européistes obtiennent la concession B puisqu'elle est nécessaire à ce que A fonctionne et que A ne fonctionnerait pas ou ne servirait à rien si on n'avait pas B aussi.
+[00:29:22.560 --> 00:29:28.560] Une fois que vous avez obtenu B, devinez ce que propose la méthode des petits pas.
+[00:29:28.560 --> 00:29:37.560] C'est-à-dire que B ne fonctionne pas si on n'a pas aussi la concession C, qui est une concession encore plus grande.
+[00:29:37.560 --> 00:29:45.560] Donc au bout d'un moment, vous obtenez la concession C. C'est le troisième cliquet que vous avez enregistré.
+[00:29:45.560 --> 00:29:57.560] Et comme ça, petit pas par petit pas, vous finissez par obtenir des transferts de souveraineté de plus en plus importants et, dans l'histoire des européistes, de plus en plus irréversibles.
+[00:29:57.560 --> 00:30:01.560] Telle est la méthode du cliquet.
+[00:30:01.560 --> 00:30:07.790] Regardez par exemple ce qui se passe le 27 août 2015.
+[00:30:07.790 --> 00:30:13.790] Vous allez regarder deux discours de deux importants personnages qui ont été tenus à la fin août 2015.
+[00:30:13.790 --> 00:30:19.860] Le premier de ces personnages importants est M. Benoît Curie.
+[00:30:19.860 --> 00:30:22.860] Alors qui est Benoît Curie ? Il n'est peut-être pas tellement connu du grand public.
+[00:30:22.860 --> 00:30:26.860] C'est l'un des six membres du directoire de la BCE.
+[00:30:26.860 --> 00:30:36.860] Et c'est le seul qui soit de nationalité française, ce qui fait qu'il est souvent regardé comme le représentant de la France au directoire de la BCE, bien qu'un tel presse formé n'existe pas.
+[00:30:36.860 --> 00:30:48.860] Il est également, du fait de ses capacités personnelles et aussi du fait de l'absence de capacités personnelles de quatre des autres membres, le numéro deux de fête de la BCE.
+[00:30:48.860 --> 00:30:59.140] Donc, ce M. Curie, un jour, écrit quelque chose sur le site officiel de la BCE.
+[00:30:59.140 --> 00:31:04.140] Vous voyez le lien ici qui nous permettrait de retrouver ce texte d'anthologie, un changé.
+[00:31:04.140 --> 00:31:11.140] Il écrit la chose suivante à un moment où, comme vous le savez, l'union monétaire est faite.
+[00:31:11.140 --> 00:31:14.140] Puisque août 2015, l'euro est là depuis un certain temps.
+[00:31:14.140 --> 00:31:17.140] Mais celle qui n'est pas faite, c'est l'union budgétaire.
+[00:31:18.140 --> 00:31:21.140] Puisque, comme vous l'avez peut-être entendu dire, il y a des réticences.
+[00:31:21.140 --> 00:31:35.140] C'est à cette occasion que Angela Merkel a dit que cette chose-là ne se fera pas sauf sur mon corps mort, sauf par-dessus mon corps décédé, over my dead body, ce qui montre un manque d'enthousiasme certain.
+[00:31:36.140 --> 00:31:45.060] Alors, Benoît Curie monte au créneau et il écrit.
+[00:31:45.060 --> 00:31:50.060] Ce plus grand partage des risques suppose également des politiques budgétaires responsables.
+[00:31:50.060 --> 00:31:56.060] Je devrais vous expliquer pour que ça soit tout à fait clair la différence exacte entre monétaire et budgétaire.
+[00:31:56.060 --> 00:32:07.060] Alors, monétaire, politique monétaire, c'est tout ce qui est les taux d'intérêt appliqués à la monnaie centrale, la monnaie légale, et surtout les taux d'intérêt courts,
+[00:32:07.060 --> 00:32:13.060] et aussi la quantité d'argent central, d'argent légal que vous mettez ou ne mettez pas en circulation.
+[00:32:13.060 --> 00:32:19.060] Ça, ça s'appelle la politique monétaire et elle a donc été mutualisée avec la création et la mise en service de la BCE.
+[00:32:19.060 --> 00:32:23.060] Tandis que la politique budgétaire, c'est autre chose, c'est tout ce qui concerne les impôts.
+[00:32:23.060 --> 00:32:31.060] Aussi bien la façon de les prendre, de les recouvrer, de dire j'impose ceci et j'impose cela, que de les dépenser.
+[00:32:31.060 --> 00:32:35.060] C'est-à-dire avec cet argent, je vais faire ceci et je vais faire cela et encore ceci et encore cela.
+[00:32:35.060 --> 00:32:37.060] Ça, c'est la politique budgétaire.
+[00:32:37.060 --> 00:32:42.060] Donc, nous sommes donc à un moment où la politique monétaire a été fédéralisée, mais pas la politique budgétaire,
+[00:32:42.060 --> 00:32:45.060] et Curie écrit la chose suivante.
+[00:32:45.060 --> 00:32:49.060] Ce plus grand partage des risques suppose également des politiques budgétaires responsables
+[00:32:49.060 --> 00:32:54.060] dans l'intérêt bien compris de chaque pays, mais aussi de ses voisins.
+[00:32:54.060 --> 00:33:00.060] Mais aussi de ses voisins, ça veut dire que votre politique budgétaire doit être faite en tenant compte des intérêts des voisins.
+[00:33:00.060 --> 00:33:05.060] Ce n'est pas le cas jusqu'à présent, puisqu'en fait vous faites votre politique théoriquement pour votre propre intérêt.
+[00:33:05.060 --> 00:33:10.060] Je veux le dire clairement ici, on ne peut pas prôner l'Europe de la solidarité
+[00:33:10.060 --> 00:33:16.060] et d'en croire que la politique économique d'un métaire membre de la zone euro est la serre de son seul parlement.
+[00:33:16.060 --> 00:33:23.060] Donc là, ce type qui est un gros haut gradé digitel vient d'écrire sur un site officiel que selon lui,
+[00:33:23.060 --> 00:33:27.060] les prérogatives du parlement français doivent être diminués.
+[00:33:27.060 --> 00:33:29.060] Je pense que ça tombe sous le coup de la loi.
+[00:33:29.060 --> 00:33:35.270] Ça tombe carrément sous le coup de la loi, mais figurez-vous qu'il n'a pas été inquiété et que le texte est encore trouvable.
+[00:33:35.270 --> 00:33:40.270] Il y a encore marqué, je veux le dire clairement ici, on ne peut pas prôner.
+[00:33:41.270 --> 00:33:44.270] Le métaire membre de la zone euro est la serre de son seul parlement.
+[00:33:44.270 --> 00:33:47.270] C'est une contradiction, dit-il, que la crise a expliqué au grand jour.
+[00:33:47.270 --> 00:33:50.270] C'est peut-être une contradiction, mais c'est la loi.
+[00:33:50.270 --> 00:34:00.270] Le parlement français est le seul qui décide de la politique économique d'un métaire membre, en l'occurrence de la France.
+[00:34:00.270 --> 00:34:02.270] Les états membres là particulièrement.
+[00:34:02.270 --> 00:34:10.580] Par conséquent, non seulement il y a lieu de croire que la politique économique d'un métaire membre de la zone euro est la serre de son seul parlement,
+[00:34:10.580 --> 00:34:14.580] mais encore il est interdit, à l'offre de dire le contraire.
+[00:34:14.580 --> 00:34:19.580] Vous voyez qu'il fait bon marché de cette interdiction et il continue dans ce texte.
+[00:34:19.580 --> 00:34:28.580] Mise en œuvre en commun d'un projet politique à rare, d'un projet politique et d'une stratégie économique suppose en outre de renforcer notre union politique.
+[00:34:28.580 --> 00:34:35.580] Pour remédier aux déficits exécutifs, c'est-à-dire pour réduire la difficulté à décider que j'évoquais précédemment,
+[00:34:35.580 --> 00:34:41.580] nous devons privilégier le partage des décisions affectant l'avenir de la zone euro au sein d'institutions communes,
+[00:34:41.580 --> 00:34:44.580] répondant par un mandat et un contrôle démocratique européen.
+[00:34:44.580 --> 00:34:50.580] Et la phrase finale qui est, peut-on imaginer à un seul instant que le conseil des gouvernements de l'ABC aurait pu faire face à la crise
+[00:34:50.580 --> 00:34:55.580] s'il n'était qu'un club de 19 gouvernements décidant par consensus, c'est un gros coup de bluff.
+[00:34:55.580 --> 00:34:56.580] Oui, on peut très bien l'imaginer.
+[00:34:56.580 --> 00:35:04.580] En fait, même si l'ABC n'avait pas existé, la crise aurait été réglée exactement de la même manière.
+[00:35:04.580 --> 00:35:11.580] Parce que l'impulsion pour régler la crise est venue du seul gouvernement des États-Unis.
+[00:35:11.580 --> 00:35:14.580] Pour une fois, je n'en jeterai pas la pierre, la décision qu'ils ont prise à cette occasion,
+[00:35:14.580 --> 00:35:18.580] la crise à laquelle fait Allusion Curie, était la bonne.
+[00:35:18.580 --> 00:35:21.580] Donc les États-Unis ont accessoirement sauvé le monde à ce moment-là.
+[00:35:21.580 --> 00:35:23.580] Vous voyez que je ne suis pas entièrement anti-américain,
+[00:35:23.580 --> 00:35:30.580] mais il est faux de dire que le fait que le conseil des gouvernements de l'ABC ait été ceci ou cela ait eu la moindre influence.
+[00:35:30.580 --> 00:35:33.580] Ça, ce n'est pas vrai.
+[00:35:33.580 --> 00:35:35.580] Le discours de Benoît Hacqueret appelle plusieurs remarques,
+[00:35:35.580 --> 00:35:40.580] et notamment, il tombe plusieurs fois sur le coup de la loi,
+[00:35:40.580 --> 00:35:44.580] et si la loi sur la haute trahison existait encore, là, il était cuit.
+[00:35:44.580 --> 00:35:47.580] C'était bon. Enfin, c'était mauvais.
+[00:35:47.580 --> 00:35:57.580] Alors, un autre individu qui s'amuse à faire des discours qui sapent l'international s'appelle Emmanuel Macron.
+[00:35:57.580 --> 00:35:59.580] Vous en avez peut-être entendu parler.
+[00:35:59.580 --> 00:36:04.580] Mais bien entendu, Macron ne l'a pas donné ses réponses en allemand. Il parle anglais presque uniquement.
+[00:36:04.580 --> 00:36:13.930] Ce qui est reporté par le Doge side, dans le lien internet que vous voyez ici,
+[00:36:13.930 --> 00:36:21.930] c'est la crise de l'euro et les négociations autour du paquet de sauvetage pour la Grèce
+[00:36:21.930 --> 00:36:30.930] ont prouvé que l'union monétaire ne peut pas fonctionner comme elle a jusqu'à 13 ans fonctionné.
+[00:36:30.930 --> 00:36:38.930] Le statu quo la conduirait à l'autodestruction parce que les forces centrifuges sont trop grandes,
+[00:36:38.930 --> 00:36:42.930] aussi bien du point de vue politique qu'économique.
+[00:36:42.930 --> 00:36:52.660] Et ce texte-là, en fait, invite, tient à une demande,
+[00:36:52.660 --> 00:37:00.660] à ce que l'union monétaire soit complétée par quelque chose de plus qui est, en fait, l'union budgétaire.
+[00:37:00.660 --> 00:37:05.660] Et alors c'est exactement ainsi que je l'avais décrit en présentant une conférence sur l'euro,
+[00:37:05.660 --> 00:37:10.660] une version ancestrale de celle-là, pendant le 6 juin 2015.
+[00:37:10.660 --> 00:37:13.660] Alors le 6 juin 2015, je le disais...
+[00:37:13.660 --> 00:37:18.660] Le 6 juin 2015, j'insiste, c'était avant la date du discours de Curie qui était le 27 août,
+[00:37:18.660 --> 00:37:21.660] et avant celle du discours de Macron qui était le 31 août.
+[00:37:21.660 --> 00:37:24.660] Le 6 juin est dans le passé par rapport à ces deux dates.
+[00:37:24.660 --> 00:37:29.660] Et je le disais pourtant, l'état de suivante sera de demander la mise en commun des politiques budgétaires.
+[00:37:29.660 --> 00:37:35.900] La méthode du cliquet étant ce qu'elle est, du fait que maintenant l'union monétaire a été acquise,
+[00:37:35.900 --> 00:37:41.900] l'état de suivante doit être la mise en commun des politiques budgétaires.
+[00:37:41.900 --> 00:37:49.900] Et l'argument, disais-je encore, sera de dire que l'union monétaire ne peut pas fonctionner sans ce nouveau partage de souveraineté.
+[00:37:49.900 --> 00:37:51.900] Vous voyez, je prédisais deux choses.
+[00:37:51.900 --> 00:37:58.900] Ce qui allait être demandé d'une part, et l'argument au nom duquel ça serait demandé d'autre part.
+[00:37:59.900 --> 00:38:03.900] Je vais vous montrer le conférendum utilisé le 6 juin, comme ça vous verrez que je triche pas.
+[00:38:03.900 --> 00:38:10.900] Et vous pouvez vérifier, parce que cette conférence du 6 juin 2015 a été postée sur l'Internet après le 6 juin 2015,
+[00:38:10.900 --> 00:38:14.900] mais avant le 27 août, le 31 août 2015.
+[00:38:15.900 --> 00:38:24.900] Donc si vous cliquez là-dessus, sur ce lien-là, vous verrez à partir de 49 minutes et 30 secondes que je vous explique exactement tout ça.
+[00:38:25.900 --> 00:38:30.900] Et depuis, donc, M. Keuré et M. Macron se sont les confrondis exactement comme je l'avais prévu.
+[00:38:30.900 --> 00:38:35.900] Donc voici une transparente activité, à part le machin rouge qui dit « copie des transparents »,
+[00:38:35.900 --> 00:38:38.900] qui évidemment a été inventé, se transparentisait.
+[00:38:38.900 --> 00:38:43.900] Le but ultime, c'est l'union politique de l'Europe achevant de transformer ainsi les tas de nations en copies vides.
+[00:38:43.900 --> 00:38:45.900] La stratégie du grignotage.
+[00:38:45.900 --> 00:38:48.900] Chaque étape est présentée comme regard obligatoire la suivante.
+[00:38:48.900 --> 00:38:56.410] La politique monétaire commune implique la demande pour une politique budgétaire commune.
+[00:38:56.410 --> 00:39:04.940] La politique budgétaire commune va ensuite être la raison de demander une union politique.
+[00:39:04.940 --> 00:39:11.940] Vous avez tout ça dans les discours de M. Keuré et Macron que nous venons de voir et qui ont été tenus plus tard,
+[00:39:11.940 --> 00:39:18.940] que moi, lisant ce transparent, devant une petite assistance en France.
+[00:39:18.940 --> 00:39:22.940] Alors, comment est-ce possible ? Il y a trois possibilités.
+[00:39:22.940 --> 00:39:29.940] La première possibilité, c'est que Macron et Keuré, tous les diras du système, obéissent à ce que je dis.
+[00:39:29.940 --> 00:39:35.940] Je dis un truc, et ils le disent. Mais ça n'est pas très probable.
+[00:39:35.940 --> 00:39:39.940] La deuxième possibilité, c'est que j'ai le pouvoir de voir l'avenir,
+[00:39:39.940 --> 00:39:43.940] et je peux deviner à l'avance quelles sont les décisions des gens et ce qu'ils vont faire.
+[00:39:43.940 --> 00:39:46.940] Mais ça non plus, ça n'est pas tellement probable.
+[00:39:46.940 --> 00:39:52.940] La seule possibilité réaliste et la seule qui reste, c'est que j'ai suffisamment bien compris le mécanisme
+[00:39:52.940 --> 00:39:57.940] pour savoir qu'est-ce qu'il va faire après et c'est pourquoi je peux faire des prédictions
+[00:39:57.940 --> 00:40:03.380] qui n'ont aucune influence politique occulte, aucun pouvoir mystérieux.
+[00:40:03.380 --> 00:40:09.380] C'est juste de l'information et de la raison. Et vous voyez qu'on peut deviner à l'avance ce qui va être dit.
+[00:40:09.380 --> 00:40:15.380] Alors, si vous gardez ça en tête et que vous écoutez maintenant le programme de Macron,
+[00:40:15.380 --> 00:40:20.380] vous allez retrouver cet élément souvent. Il va vous dire non seulement pour le jeu européen,
+[00:40:20.380 --> 00:40:25.380] maintenant ça c'est vague pour le jeu européen, d'accord, mais ce qu'il veut, c'est le transfert,
+[00:40:25.380 --> 00:40:30.380] un, de la sauveté budgétaire, et deux, il veut amener à l'union politique.
+[00:40:30.380 --> 00:40:38.700] Il est très net là-dessus, et c'est normal, puisque c'est ça que la méthode des petit pas exige.
+[00:40:38.700 --> 00:40:45.870] Il y a un processus qui a été entamé il y a très longtemps et qui utilise toujours la même méthode inventée,
+[00:40:45.870 --> 00:40:50.870] ou en tout cas inventée d'une façon pratique, par Jean Bonnet.
+[00:40:50.870 --> 00:41:00.780] Je vous rappelle rapidement comment on a vendu à l'électorat des différents pays européens,
+[00:41:00.780 --> 00:41:07.180] et tout particulièrement à notre électorat à nous, la nécessité d'avoir l'Union européenne.
+[00:41:07.180 --> 00:41:16.180] Les arguments qui nous ont été présentés ont été les suivants au cours des décennies 80, 90 et demi-termes.
+[00:41:17.180 --> 00:41:22.180] D'abord, figurez-vous que l'euro et l'union européenne apportent la croissance.
+[00:41:22.180 --> 00:41:27.180] Je ne sais pas si vous avez remarqué, grâce au fait que vous avez l'euro et l'union européenne,
+[00:41:27.180 --> 00:41:31.180] vous avez la croissance et vous avez aussi le plein emploi.
+[00:41:31.180 --> 00:41:38.820] Le saviez-vous, dans une croissance de rêve de plein emploi, parce que vous avez choisi l'euro et l'union européenne.
+[00:41:38.820 --> 00:41:42.820] Et les arguments d'autres natures qui n'étaient pas économiques ont été des arguments stratégiques.
+[00:41:42.820 --> 00:41:48.820] L'euro et l'union européenne permettent de faire contrepoids, respectivement aux dollars et aux États-Unis.
+[00:41:48.820 --> 00:41:54.820] Cette histoire de gros poids, je vous le rappelle, est celle qui est directement battue en brèche
+[00:41:54.820 --> 00:42:01.820] par les efforts désespérés des gouvernants américains pour empêcher la dissolution tant de l'euro que de l'union européenne.
+[00:42:01.820 --> 00:42:09.860] De l'euro dans le cas de la crise grecque et de l'union européenne dans le cas du Brexit.
+[00:42:09.860 --> 00:42:13.860] Ce sont des arguments, et ça a donné lieu à quelques perles.
+[00:42:13.860 --> 00:42:18.860] Il y a ici une liste de perles que j'aime beaucoup, qui date bien du début des années 90.
+[00:42:18.860 --> 00:42:25.860] Donc, Valéry Fiscard d'Estaing a déclaré, sans rire, au micro de RTL le 30 juillet 92, la chose suivante.
+[00:42:25.860 --> 00:42:30.860] Si le td est en réapplication, dit-il, finalement, la communauté européenne les traite une croissance économique
+[00:42:30.860 --> 00:42:33.860] plus forte qu'un emploi amélioré.
+[00:42:33.860 --> 00:42:35.860] Affirmait-il.
+[00:42:35.860 --> 00:42:40.860] Malheureusement, les opportunistes ne sont pas tenus par les promesses qu'ils font au micro des radios.
+[00:42:40.860 --> 00:42:44.860] On ne peut pas aller le reposer une fois qu'elle ne se soit réalisée.
+[00:42:44.860 --> 00:42:51.230] Ce que pensons, un individu utilisateur de croix, Jacques Attali, il me semble,
+[00:42:51.230 --> 00:42:55.230] en a profité pour faire la déclaration fracassante suivante.
+[00:42:55.230 --> 00:43:00.230] Lorsque le traité de Maast sera tapiqué, il est évident qu'il y aura une très forte croissance qui en découlera,
+[00:43:00.230 --> 00:43:05.230] car nous aurons un grand espace économique avec une monnaie unique.
+[00:43:05.230 --> 00:43:10.230] Vous apprenez donc qu'il est évident que vous viez au milieu d'une très forte croissance.
+[00:43:10.230 --> 00:43:16.230] Jacques Chirac, qui découvrait le sujet avant un peu la mèche, en disant l'euro n'est pas une fin en soi,
+[00:43:16.230 --> 00:43:22.230] ah tiens, vraiment, il signifiera pour nous plus de croissance, plus d'emploi, plus de pouvoir d'achat,
+[00:43:22.230 --> 00:43:26.230] plus d'échange, une France plus forte.
+[00:43:26.230 --> 00:43:30.230] Présidé dans les vœux qu'il a fournés aux Français en 2001.
+[00:43:30.230 --> 00:43:34.230] J'aimerais convaincre chaque Français que le traité d'Union européenne se traduira en France
+[00:43:34.230 --> 00:43:37.230] par plus de croissance, plus d'emploi et plus de solidarité.
+[00:43:37.230 --> 00:43:44.230] C'est une sabinade, c'est-à-dire une création de Michel Sapin, ministre de l'Économie de l'époque,
+[00:43:44.230 --> 00:43:49.230] qui apparaît dans le Figaro du 20 de 1992.
+[00:43:49.230 --> 00:43:53.230] Vous voyez que celui-là, il est de gauche, alors il doit se démarquer des trois précédents
+[00:43:53.230 --> 00:43:58.230] en disant pas seulement plus d'emploi et plus de croissance, mais il rajoute plus de solidarité.
+[00:43:58.230 --> 00:44:04.230] Ça ne mange pas de pain, vous pouvez mesurer l'emploi, vous pouvez mesurer la croissance avec des chiffres,
+[00:44:04.230 --> 00:44:07.230] mais plus de solidarité, vous ne pouvez pas.
+[00:44:07.230 --> 00:44:11.230] Il n'existe pas de produit solidaritaire, des choses comme ça.
+[00:44:11.230 --> 00:44:14.230] Maastricht constitue les trois clés de l'avenir.
+[00:44:14.230 --> 00:44:17.230] La monnaie nique, ce sera moins de chômeur et plus de prospérité.
+[00:44:17.230 --> 00:44:22.230] La mort politique étrangère commune, ce sera moins d'impuissance et plus de sécurité.
+[00:44:22.230 --> 00:44:25.500] Je ne sais pas ce que vous en pensez.
+[00:44:25.500 --> 00:44:27.500] Notre moins d'impuissance, c'est notre plus de sécurité.
+[00:44:27.500 --> 00:44:30.500] Et la citoyenneté, ce sera moins de bureaucratie et plus de démocratie.
+[00:44:30.500 --> 00:44:33.500] Voilà ce que prophétisait Michel Roqueur le 20 de septembre 1922
+[00:44:33.500 --> 00:44:35.500] dans les collègues du journal de France.
+[00:44:35.500 --> 00:44:39.500] Journal qui est encore aujourd'hui extrêmement entouré.
+[00:44:39.500 --> 00:44:43.500] Alors, la plus belle, c'est celle de Pierre Berrigovois.
+[00:44:43.500 --> 00:44:46.500] Contour de 1992-1932.
+[00:44:46.500 --> 00:44:48.500] Les droits associés aux restaurants les mêmes.
+[00:44:48.500 --> 00:44:50.500] On conservera la sécurité sociale.
+[00:44:50.500 --> 00:44:54.330] J'espère que vous êtes rassurés.
+[00:44:54.330 --> 00:44:59.330] France, l'union économique et malétaire, c'est la voie royale pour lutter contre le chômage.
+[00:44:59.330 --> 00:45:04.330] Ça, c'est une deuxième sapinade, datée du 11 septembre 1980.
+[00:45:04.330 --> 00:45:05.330] Ils peuvent dire n'importe quoi.
+[00:45:05.330 --> 00:45:06.330] Vous comprenez le truc.
+[00:45:06.330 --> 00:45:11.330] Ils ne sont pas punissables quand ça ne tombe pas juste.
+[00:45:11.330 --> 00:45:16.330] Alors, on va comparer, n'est-ce pas, les résultats réellement obtenus avec ces promesses.
+[00:45:16.330 --> 00:45:20.330] Donc, ici, on se concentre sur la croissance.
+[00:45:20.330 --> 00:45:24.330] À gauche, vous avez un graphique qui compare la croissance dans l'Union européenne,
+[00:45:24.330 --> 00:45:28.330] les euro, moins dans l'Union européenne, ceux qui ne sont pas dans l'euro.
+[00:45:28.330 --> 00:45:31.330] Donc, ceux qui ne sont pas dans l'euro, c'est l'euro.
+[00:45:31.330 --> 00:45:34.330] Et ceux qui sont dans l'euro, c'est les plus élevés à la surface générale.
+[00:45:34.330 --> 00:45:38.330] Ceux qui n'ont pas l'euro font plus de croissance, et ce, d'une manière assez persistante,
+[00:45:38.330 --> 00:45:40.330] que ceux qui sont dans l'euro.
+[00:45:40.330 --> 00:45:44.330] Autant pour, la monnaie économique apportera, etc., etc.
+[00:45:44.330 --> 00:45:46.330] Mais faisons une comparaison très continentale.
+[00:45:46.330 --> 00:45:48.330] On reprend à poser la même question, mais cette fois-ci,
+[00:45:48.330 --> 00:45:52.330] en comparant les États-Unis pour les Unis et le Japon avec la surface générale.
+[00:45:52.330 --> 00:45:55.330] Donc, qui est-ce qui grandit le plus vite ?
+[00:45:55.330 --> 00:45:59.330] Ça m'a l'air d'être la fois les États-Unis, qui sont ces graphiques-là.
+[00:45:59.330 --> 00:46:02.330] Mais qui est-ce qui grandit le plus lentement ?
+[00:46:02.330 --> 00:46:04.330] Qui est la moindre croissance ? C'est le Belge.
+[00:46:04.330 --> 00:46:09.330] Qui est le Belge, je regarde, est pire que cette, de la zone.
+[00:46:09.330 --> 00:46:10.330] Alors, bien entendu.
+[00:46:10.330 --> 00:46:17.380] Donc, on a inversé pour ce qui est du chômage.
+[00:46:17.380 --> 00:46:20.380] Parce que le chômage, c'est désagréable, tandis qu'en face, c'est agréable.
+[00:46:20.380 --> 00:46:24.380] Par conséquent, là, vous allez voir que les pays européens,
+[00:46:24.380 --> 00:46:27.380] mais qui ne sont pas dans l'euro, ont moins de chômage que les pays européens,
+[00:46:27.380 --> 00:46:30.380] mais qui sont dans l'euro. C'est ce graphique-là.
+[00:46:30.380 --> 00:46:36.380] Et le pays qui a plus de chômage, le plus élevé,
+[00:46:36.380 --> 00:46:39.380] sur la comparaison entre les quatre, c'est bien entendu la zone.
+[00:46:39.380 --> 00:46:43.380] Donc ça, c'est mettre en face des résultats.
+[00:46:43.380 --> 00:46:47.850] On va lui mettre en face des promesses.
+[00:46:47.850 --> 00:46:49.850] Vous avez d'abord la liste de nos pères,
+[00:46:49.850 --> 00:46:52.850] qui était essentiellement une liste de phrases qu'ils prenaient à chaque fois,
+[00:46:52.850 --> 00:46:54.850] toujours, pour un imbécile.
+[00:46:54.850 --> 00:47:00.850] Et vous avez dans les graphiques ce que je l'appellerais
+[00:47:01.850 --> 00:47:04.850] Ils nous disent que c'est la crise.
+[00:47:04.850 --> 00:47:07.850] Même si c'était la crise, c'est la crise pour tout le monde.
+[00:47:07.850 --> 00:47:10.850] Et pourquoi est-ce que Balu c'est là ?
+[00:47:10.850 --> 00:47:16.850] Alors, l'argumentaire européiste descend parfois au degré zéro.
+[00:47:16.850 --> 00:47:20.850] Ce degré zéro, c'est l'argument d'autorité.
+[00:47:20.850 --> 00:47:23.850] C'est essentiellement à dire, vous n'avez pas le droit de dire non parce que c'est comme ça.
+[00:47:23.850 --> 00:47:26.850] Ça, c'est un argument qui n'est pas admis en scholastique,
+[00:47:26.850 --> 00:47:29.850] ni dans l'épisodium logique, normalement,
+[00:47:29.850 --> 00:47:32.850] qui est parfois utilisé par les journalistes.
+[00:47:32.850 --> 00:47:34.850] Et je vous donne ici deux exemples.
+[00:47:34.850 --> 00:47:38.190] Vous avez loupé du 6 mars 2005,
+[00:47:38.190 --> 00:47:43.840] un journaliste de note aux Français de dire non.
+[00:47:43.840 --> 00:47:45.840] Alors, pourquoi est-ce que nous, le nord, n'avons pas le droit
+[00:47:45.840 --> 00:47:47.840] aux Français de dire non ?
+[00:47:47.840 --> 00:47:51.840] Il n'explique pas, c'est une affirmation simple, sans provocum,
+[00:47:51.840 --> 00:47:53.840] uniquement assénée,
+[00:47:53.840 --> 00:47:56.840] et qui ne peut passer que parce qu'elle est faite sans contradictoire.
+[00:47:56.840 --> 00:47:59.840] Il n'y avait personne en face de lui pour lui dire non.
+[00:47:59.840 --> 00:48:02.840] Donc ça, c'est ce qu'on appelle un argument d'autorité.
+[00:48:02.840 --> 00:48:05.840] L'argument d'autorité, le plus récent, c'est...
+[00:48:05.840 --> 00:48:09.280] C'est de l'autorité sans parmi les célèbres,
+[00:48:09.280 --> 00:48:11.280] c'est celui de Juncker, évidemment.
+[00:48:11.280 --> 00:48:18.460] Il ne peut pas y avoir le choix démocratique.
+[00:48:18.460 --> 00:48:20.460] En tout cas, si vous avez l'intention, comme ça,
+[00:48:20.460 --> 00:48:23.460] d'envoiter des élections en manière qui ne passent pas européennes,
+[00:48:23.460 --> 00:48:26.710] et bien en fait, Juncker vous dit que vous ne devez pas aller voter
+[00:48:26.710 --> 00:48:28.710] parce qu'il ne saurait qu'il y aura le choix démocratique
+[00:48:28.710 --> 00:48:30.710] contre les traités européens.
+[00:48:30.710 --> 00:48:35.080] Et vous êtes des malpensants.
+[00:48:35.080 --> 00:48:37.080] Donc ça, c'est le degré de COC, l'inventifiant d'autorité,
+[00:48:37.080 --> 00:48:39.080] c'est-à-dire qu'on n'a même pas un souci.
+[00:48:39.080 --> 00:48:43.080] Vous n'y rentrez même pas pour trouver une justification,
+[00:48:43.080 --> 00:48:47.680] voilà, une justification nouvelle.
+[00:48:47.680 --> 00:48:49.680] On dit simplement, c'est comme ça.
+[00:48:49.680 --> 00:48:52.680] Est-ce que mon degré est plus bas que l'argument d'autorité
+[00:48:52.680 --> 00:48:54.680] qui dit que le degré est zéro?
+[00:48:54.680 --> 00:48:56.680] Et bien oui, mon degré est un peu plus bas,
+[00:48:56.680 --> 00:48:58.680] et le degré moins, enfin, c'est ce qu'on appelle
+[00:48:58.680 --> 00:49:00.680] l'argument d'établissement.
+[00:49:00.680 --> 00:49:02.680] L'argument d'établissement est un truc qui fonctionne
+[00:49:02.680 --> 00:49:04.680] en déclinibilisant l'adversaire,
+[00:49:04.680 --> 00:49:08.340] contre l'événement, et surtout
+[00:49:08.340 --> 00:49:11.780] sur le cas aux animés d'argument d'établissement.
+[00:49:11.780 --> 00:49:13.780] Enfin, je veux dire, ça ne sert à rien d'événement,
+[00:49:13.780 --> 00:49:15.780] parce que de toute façon, les habitants expandent.
+[00:49:15.780 --> 00:49:17.780] Et il y en a quatre qui sont récurrents
+[00:49:17.780 --> 00:49:19.780] et qui sont toujours récurrents.
+[00:49:19.780 --> 00:49:21.780] Le type 1, c'est la diabolisation.
+[00:49:21.780 --> 00:49:25.780] Ça consiste à dire, il y a six sous-catégories,
+[00:49:25.780 --> 00:49:29.780] vous êtes un nazi, un fasciste, un bichiste,
+[00:49:29.780 --> 00:49:32.780] un raciste, un antisémite et un négatiliste.
+[00:49:32.780 --> 00:49:34.780] On n'a pas tous les six à la fois.
+[00:49:34.780 --> 00:49:36.780] Un ou deux, simplement.
+[00:49:36.780 --> 00:49:38.780] Alors ça, c'est la diabolisation qui est utilisée,
+[00:49:38.780 --> 00:49:40.780] qui commence à être utilisée contre nous.
+[00:49:40.780 --> 00:49:45.780] Le deuxième, c'est l'agitation d'être un fauteur de guerre.
+[00:49:45.780 --> 00:49:46.780] Elle est un peu moins utilisée.
+[00:49:46.780 --> 00:49:48.780] La troisième, c'est la prophétie apocalyptique.
+[00:49:48.780 --> 00:49:51.780] La prophétie apocalyptique consiste à affirmer
+[00:49:51.780 --> 00:49:57.850] que si jamais un mauvais choix,
+[00:49:57.850 --> 00:49:59.850] comme par exemple voter hors de l'euro
+[00:49:59.850 --> 00:50:01.850] ou voter hors de l'Union européenne,
+[00:50:01.850 --> 00:50:03.850] des catastrophes extraordinaires vont s'en suivre.
+[00:50:03.850 --> 00:50:07.850] Vous perdrez votre toit, vous perdrez votre maison,
+[00:50:07.850 --> 00:50:09.850] vous serez réduits à la grandisité,
+[00:50:09.850 --> 00:50:12.850] des dinosaures parcourront le pays et vous mangeront,
+[00:50:14.130 --> 00:50:15.130] vous serez radioactifs,
+[00:50:15.130 --> 00:50:18.130] ça sera Mad Max et ça sera votre vote.
+[00:50:18.130 --> 00:50:20.130] Donc ça, c'est la prophétie apocalyptique
+[00:50:20.130 --> 00:50:22.130] dont on a fait une surconsommation
+[00:50:22.130 --> 00:50:27.130] pendant la campagne du Brexit.
+[00:50:27.130 --> 00:50:29.130] Puisque je vous rappelle que Donald Tusk a été,
+[00:50:29.130 --> 00:50:32.130] Donald Tusk était un politicien polonais
+[00:50:32.130 --> 00:50:34.130] qui joue je ne sais quel rôle dans l'Europe.
+[00:50:34.130 --> 00:50:37.130] Il a été jusqu'à dire que si jamais le vote
+[00:50:37.130 --> 00:50:38.130] était en faveur du Brexit,
+[00:50:38.130 --> 00:50:41.130] alors il y aurait la Troisième Guerre mondiale.
+[00:50:41.130 --> 00:50:43.130] Donc nous avons été, je vous en informe,
+[00:50:43.130 --> 00:50:45.130] dévastés par une pluie de bombes nucléaires
+[00:50:45.130 --> 00:50:49.130] résultant d'échanges entre l'armée russe
+[00:50:49.130 --> 00:50:52.130] et l'armée américaine et nous sommes tous morts.
+[00:50:52.130 --> 00:50:54.130] Et enfin, le quatrième type, c'est l'accusation
+[00:50:54.130 --> 00:50:57.130] d'être un mal comprenant et d'être un incompétent.
+[00:50:57.130 --> 00:50:58.130] Ça consiste à venir me dire à moi
+[00:50:58.130 --> 00:50:59.130] mais vous ne savez pas ce que c'est que l'euro,
+[00:50:59.130 --> 00:51:01.130] vous ne savez pas comment ça marche.
+[00:51:01.130 --> 00:51:02.130] Et c'est très faisable,
+[00:51:02.130 --> 00:51:04.130] il suffit que je n'aie pas de droit de réponse.
+[00:51:04.130 --> 00:51:07.130] Si c'est un éditorialiste qui fait ça,
+[00:51:08.130 --> 00:51:12.130] il n'est pas du tout obligé de me laisser protester.
+[00:51:12.130 --> 00:51:13.130] Alors une variante plus récente,
+[00:51:13.130 --> 00:51:15.130] c'est justement ce dont on parlait tout à l'heure,
+[00:51:15.130 --> 00:51:17.130] le complotisme ou le conspirationnisme.
+[00:51:17.130 --> 00:51:18.130] Parce que naturellement,
+[00:51:18.130 --> 00:51:20.130] les complotistes et les conspirationnistes, enfin les vrais,
+[00:51:20.130 --> 00:51:22.130] c'est des gens qui se font des films
+[00:51:22.130 --> 00:51:24.130] et qui se racontent des histoires bizarres
+[00:51:24.130 --> 00:51:27.130] que personne dans son bon sens ne peut véritablement croire.
+[00:51:27.130 --> 00:51:32.470] Donc l'accusation d'être mal comprenant
+[00:51:32.470 --> 00:51:35.470] fonctionne très bien en assimilant votre adversaire politique
+[00:51:35.470 --> 00:51:38.470] à un complotiste ou à un conspirationnisme.
+[00:51:38.470 --> 00:51:39.470] Bon alors ces quatre types,
+[00:51:39.470 --> 00:51:42.470] vous remarquerez qu'ils ont tous ce même schéma.
+[00:51:42.470 --> 00:51:46.470] Une fois que vous avez été accusé d'être un nazi ultra-groite,
+[00:51:46.470 --> 00:51:47.470] fauteur de guerre,
+[00:51:47.470 --> 00:51:50.470] dont les conseils conduiraient à la fin du monde
+[00:51:50.470 --> 00:51:52.470] et qui en plus ne comprend rien,
+[00:51:52.470 --> 00:51:53.470] et qui est un complotiste,
+[00:51:53.470 --> 00:51:55.470] vous ne pouvez pas vous justifier parce que de toute façon,
+[00:51:55.470 --> 00:51:57.470] quelque chose que vous puissiez dire,
+[00:51:57.470 --> 00:52:01.470] étant donné que vous êtes un nazi mal comprenant, etc., etc.,
+[00:52:01.470 --> 00:52:02.470] ça n'a aucune valeur.
+[00:52:02.470 --> 00:52:04.470] Et voilà pourquoi c'est un argument titanisant.
+[00:52:04.470 --> 00:52:08.470] Je vous invite à observer avec quelle maestria et quelle virtuosité
+[00:52:08.470 --> 00:52:11.470] les arguments titanisants sont utilisés contre ceux
+[00:52:11.470 --> 00:52:13.470] qui auraient l'idée de prôner un frexit.
+[00:52:13.470 --> 00:52:14.470] Vous avez une occasion,
+[00:52:14.470 --> 00:52:16.470] il y a une élection présidentielle en cours,
+[00:52:16.470 --> 00:52:19.470] et donc vous allez entendre des arguments et des contre-arguments.
+[00:52:19.470 --> 00:52:23.470] Entraînez-vous à repérer et à typer,
+[00:52:23.470 --> 00:52:28.070] selon la typologie des arguments titanisants,
+[00:52:28.070 --> 00:52:31.070] les arguments titanisants qui pourraient être donnés contre votre cause.
+[00:52:31.070 --> 00:52:35.070] Vous verrez que c'est près de la musique.
+[00:52:35.070 --> 00:52:38.070] C'est systématique, c'est structuré, c'est récurrent,
+[00:52:38.070 --> 00:52:40.070] c'est où on en voit tout le temps.
+[00:52:40.070 --> 00:52:44.640] Evidemment, ça paraît un petit peu inquiétant au début, mais on s'y fait.
+[00:52:44.640 --> 00:52:48.850] Alors l'argumentaire européiste,
+[00:52:48.850 --> 00:52:51.850] de degrés moins en ayant pas suffi,
+[00:52:51.850 --> 00:52:52.850] ils ont inventé le projet TFIIR.
+[00:52:52.850 --> 00:52:56.850] Le projet TFIIR est une variante des prophésies apocalyptiques,
+[00:52:56.850 --> 00:52:58.850] c'est-à-dire que c'est une forte concentration
+[00:52:58.850 --> 00:53:01.850] de prophésies apocalyptiques multidimensionnelles dans tous les sens.
+[00:53:01.850 --> 00:53:03.850] Et cet argument fonctionne.
+[00:53:03.850 --> 00:53:06.850] Il a naturellement été rodé pendant la campagne RISC.
+[00:53:06.850 --> 00:53:08.850] Il fonctionne en jouant sur les peurs
+[00:53:08.850 --> 00:53:11.850] et sur l'impression de ne pas comprendre que peut avoir la population des électeurs.
+[00:53:11.850 --> 00:53:14.850] Donc vous avez des électeurs qui ne savent pas trop,
+[00:53:14.850 --> 00:53:18.850] peuvent avoir l'impression de ne pas comprendre tel ou tel sujet économique.
+[00:53:18.850 --> 00:53:21.850] Et alors en jouant sur leurs peurs, comme ils ne sont pas sûrs d'eux,
+[00:53:21.850 --> 00:53:25.850] on peut les amener à voter dans le bon sens,
+[00:53:25.850 --> 00:53:29.850] qui est en général le maintien de quelque chose d'européen.
+[00:53:29.850 --> 00:53:32.850] Alors les motifs récurrents du projet TFIIR sont
+[00:53:32.850 --> 00:53:34.850] le poids de la dette va augmenter,
+[00:53:34.850 --> 00:53:37.850] les hypothèques et les contrats privés que vous avez souscrits
+[00:53:37.850 --> 00:53:39.850] vont se multiplier par dix et vous serez ruinés.
+[00:53:39.850 --> 00:53:43.850] Les produits importés, le pétrole, les fruits exotiques,
+[00:53:43.850 --> 00:53:45.850] enfin tout est n'importe quoi,
+[00:53:45.850 --> 00:53:52.850] les ordinateurs vont devenir tout à fait inabordables pour vous.
+[00:53:52.850 --> 00:53:57.850] Et enfin vous ne recevrez plus les subventions européennes,
+[00:53:57.850 --> 00:53:59.850] dont apparemment vous viviez jusque là.
+[00:53:59.850 --> 00:54:02.850] Alors commençons par le plus facile qui est les subventions européennes.
+[00:54:02.850 --> 00:54:06.850] Mais je vous rappelle, pour tout le monde ça n'est pas un rappel,
+[00:54:06.850 --> 00:54:08.850] il y a des gens qui ne font pas attention à ça,
+[00:54:08.850 --> 00:54:12.850] que les subventions européennes sont payées avec notre argent à nous, de nous.
+[00:54:12.850 --> 00:54:14.850] Et même qu'on en perd.
+[00:54:14.850 --> 00:54:17.850] C'est-à-dire que quand l'Union Européenne affiche fièrement
+[00:54:17.850 --> 00:54:19.850] qu'elle a réparé tel ou tel édifice,
+[00:54:19.850 --> 00:54:23.850] qu'elle a contribué à la réparation de tel édifice,
+[00:54:23.850 --> 00:54:26.850] c'est pas elle qui a donné l'argent, c'est nous.
+[00:54:26.850 --> 00:54:28.850] Et en plus elle nous en a piqué au passage.
+[00:54:28.850 --> 00:54:32.850] Donc, perdre les subventions européennes ça serait plus un avantage,
+[00:54:32.850 --> 00:54:34.850] c'est un inconvénient si on va par là.
+[00:54:34.850 --> 00:54:37.850] Mais c'est présenté dans le cadre du projet CIIR comme un inconvénient,
+[00:54:37.850 --> 00:54:39.850] et par des gens qui sont très sérieux même.
+[00:54:39.850 --> 00:54:43.850] J'ai été épaté de voir sur ma propre ligne Twitter
+[00:54:43.850 --> 00:54:47.850] combien de pro-Bresit disaient sans rire,
+[00:54:47.850 --> 00:54:49.850] pardon, d'anti-Bresit disaient sans rire,
+[00:54:49.850 --> 00:54:55.850] alors compatriotes pro-Bresit que vous allez perdre les subventions européennes
+[00:54:55.850 --> 00:54:57.850] et que vous n'arriverez jamais à vous en tirer,
+[00:54:57.850 --> 00:55:00.850] alors qu'eux-mêmes devaient très bien savoir comment ça marchait.
+[00:55:00.850 --> 00:55:03.850] Alors sinon c'est à se demander pourquoi c'est des preuves d'économie.
+[00:55:03.850 --> 00:55:07.160] Car ce sont des preuves d'économie.
+[00:55:07.160 --> 00:55:11.160] Les produits importés, le pétrole et les fruits exotiques vont devenir inaccessibles,
+[00:55:11.160 --> 00:55:15.160] et c'est en effet bien connu que des pays tels que la Suisse et l'Angleterre
+[00:55:15.160 --> 00:55:19.160] n'importent pas de pétrole et de fruits exotiques parce que ils n'ont pas l'euro.
+[00:55:19.160 --> 00:55:21.160] Et donc ils ne peuvent pas, n'ayant pas l'euro,
+[00:55:21.160 --> 00:55:24.160] acheter des produits étrangers tels que le pétrole et les fruits exotiques.
+[00:55:24.160 --> 00:55:28.160] Et vous pouvez marcher dans l'Angleterre sans risquer de vous faire écraser
+[00:55:28.160 --> 00:55:31.160] puisque ça ne roule plus.
+[00:55:31.160 --> 00:55:34.540] Et ensuite c'est pareil.
+[00:55:34.540 --> 00:55:36.540] Les hypothèques et les contrats privés,
+[00:55:36.540 --> 00:55:41.540] ça s'est fondé sur le fait que vous n'avez pas envie d'aller lire les petits caractères.
+[00:55:41.540 --> 00:55:46.540] Et sur cet autre fait que si vous aviez le courage d'aller lire les petits caractères,
+[00:55:46.540 --> 00:55:50.540] vous auriez toujours la peur de ne pas comprendre exactement ce que ça veut dire
+[00:55:50.540 --> 00:55:51.540] et de vous faire mettre dedans.
+[00:55:51.540 --> 00:55:53.540] C'est une peur tout à fait légitime.
+[00:55:53.540 --> 00:55:57.540] Mais je vous rappelle quand même que vous aviez des hypothèques et des contrats privés
+[00:55:57.540 --> 00:56:01.540] lorsque la chose est passée du franc à l'euro.
+[00:56:01.540 --> 00:56:07.580] Donc ce n'est pas totalement quelque chose d'inconnu ce qui va vous arriver.
+[00:56:07.580 --> 00:56:13.860] Cette histoire que les hypothèques et les contrats privés vont voluer
+[00:56:13.860 --> 00:56:15.860] dans un sens qui vous est extrêmement défavorable,
+[00:56:15.860 --> 00:56:20.860] si elle avait été vraie, vous l'auriez déjà vécu en 1999.
+[00:56:20.860 --> 00:56:25.300] Je ne crois pas pourtant que ça soit arrivé.
+[00:56:25.300 --> 00:56:29.300] Quant au point de la dette qui va augmenter, ça c'est la plus belle.
+[00:56:29.300 --> 00:56:33.300] Elle est utilisée sciemment par des gens qui savent que ça n'est pas vrai.
+[00:56:33.300 --> 00:56:38.300] J'étais mais outré et scandalisé quand j'entendais Alain Juppé utiliser cet argument
+[00:56:38.300 --> 00:56:41.300] dans la campagne des européennes de 2014.
+[00:56:41.300 --> 00:56:46.300] Cet argument je vous le rappelle consiste à dire que si jamais le franc réapparaît,
+[00:56:46.300 --> 00:56:52.300] comme la dette de l'Etat français resterait en euro et que le franc se déprécierait par rapport à l'euro,
+[00:56:52.300 --> 00:56:57.300] du coup le poids sur les épaules françaises de cette dette deviendrait beaucoup plus grand.
+[00:56:57.300 --> 00:57:00.300] Nous sommes tous familiers avec cet argument qui est complètement faux.
+[00:57:00.300 --> 00:57:05.300] Je suis vraiment bien placé pour le savoir parce que moi, fin 2013,
+[00:57:05.300 --> 00:57:09.300] je travaillais à la BCE et pas n'importe où je travaillais sur les procédures d'exit.
+[00:57:09.300 --> 00:57:12.300] Oui, parce qu'en 2013 la BCE travaillait sur les procédures d'exit.
+[00:57:12.300 --> 00:57:16.300] Elle n'a pas trop communiqué sur le fait mais elle travaillait sur les procédures d'exit.
+[00:57:16.300 --> 00:57:18.300] Et du moins j'étais placé au centre.
+[00:57:18.300 --> 00:57:20.300] C'est-à-dire que je voyais tout.
+[00:57:20.300 --> 00:57:22.300] Les juristes me parlaient, les comptables me parlaient,
+[00:57:22.300 --> 00:57:24.300] les économistes me parlaient, les financiers me parlaient.
+[00:57:24.300 --> 00:57:26.300] C'était fabuleux.
+[00:57:26.300 --> 00:57:30.300] Donc absolument certain de ce que la BCE pense de cette question.
+[00:57:30.300 --> 00:57:34.300] Et cette question c'est que si la dette de l'État,
+[00:57:34.300 --> 00:57:37.300] enfin la réponse c'est que si la dette de l'État est en droit domestique,
+[00:57:37.300 --> 00:57:41.300] ce qui est le cas pour la dette française mais pas pour la dette grecque,
+[00:57:41.300 --> 00:57:45.300] alors la redénomination dans la nouvelle monnaie domestique est automatique.
+[00:57:45.300 --> 00:57:48.300] Il ne requiert rien. Elle est de fait.
+[00:57:48.300 --> 00:57:53.300] Donc quand Juppé vous dit le poids de la dette va augmenter parce qu'on sera sortis de l'euro,
+[00:57:53.300 --> 00:57:56.300] non seulement ce n'est pas vrai mais lui il sait que ce n'est pas vrai.
+[00:57:56.300 --> 00:57:59.300] Il est impensable que ce type énarque, inspecteur des finances
+[00:57:59.300 --> 00:58:02.300] et qui a un réseau d'informateurs tout à fait extraordinaire
+[00:58:02.300 --> 00:58:05.300] ne sache pas ce que je sais moi.
+[00:58:05.300 --> 00:58:07.300] Ça n'est pas plausible.
+[00:58:07.300 --> 00:58:09.300] Quand vous entendez Nicolas Sarkozy dire la même chose,
+[00:58:09.300 --> 00:58:13.300] bon là d'accord il y a doute parce que Sarkozy n'est pas un type qui connaît très bien
+[00:58:13.300 --> 00:58:15.300] et il dit essentiellement ce qu'on veut dire.
+[00:58:15.300 --> 00:58:17.300] Donc il peut être de bonne foi.
+[00:58:17.300 --> 00:58:19.300] Mais si c'est Juppé ce n'est pas possible.
+[00:58:19.300 --> 00:58:21.300] Si c'est Moscovici ce n'est pas possible.
+[00:58:21.300 --> 00:58:24.300] Les gens qui vous disent ça mentent si à ment.
+[00:58:24.300 --> 00:58:26.300] Et délibérément.
+[00:58:26.300 --> 00:58:31.580] Donc le projet TIR qui a servi beaucoup dans le vote Brexit
+[00:58:31.580 --> 00:58:33.580] va servir aussi dans cette élection présidentielle
+[00:58:33.580 --> 00:58:36.580] et puis aussi dans l'élection législative qui va suivre
+[00:58:36.580 --> 00:58:39.580] pour expliquer à des votants et à des électeurs terrifiés
+[00:58:39.580 --> 00:58:43.580] que si jamais vous quittez l'Union Européenne et ou l'euro,
+[00:58:43.580 --> 00:58:46.580] les pires malheurs vont vous arriver.
+[00:58:46.580 --> 00:58:48.580] Et c'est jamais vrai.
+[00:58:49.580 --> 00:58:55.580] Mais alors, je rappelais vous que ce que je voulais vous expliquer principalement dans cette conférence,
+[00:58:55.580 --> 00:58:57.580] moi je vais faire mon petit projet TIR à moi
+[00:58:57.580 --> 00:59:02.580] et je vais vous expliquer que vous allez avoir une catastrophe si jamais vous restez dans l'euro.
+[00:59:02.580 --> 00:59:04.580] Je vous ai dit ça au début.
+[00:59:04.580 --> 00:59:06.580] Ils ne s'en souviennent plus.
+[00:59:06.580 --> 00:59:10.580] Bon, j'avais dit ça au début, c'était avant l'interruption de l'ordinateur
+[00:59:10.580 --> 00:59:13.580] et j'avais dit que ça serait horrible.
+[00:59:13.580 --> 00:59:17.580] Alors pour que vous le comprenez bien, il m'est nécessaire de vous expliquer ce que c'est que l'euro
+[00:59:17.580 --> 00:59:19.580] et pour que je vous explique ce que c'est que l'euro,
+[00:59:19.580 --> 00:59:22.580] il m'est nécessaire de vous expliquer ce que c'est que l'argent en général.
+[00:59:22.580 --> 00:59:24.580] Et pour vous expliquer ce que c'est que l'argent en général,
+[00:59:24.580 --> 00:59:27.580] il m'est nécessaire de vous expliquer comment ça a évolué au cours de l'histoire.
+[00:59:27.580 --> 00:59:29.580] Donc on va faire un petit peu l'histoire, pas trop,
+[00:59:29.580 --> 00:59:32.580] mais vous devrez, et je ne fais pas ça gratuitement,
+[00:59:32.580 --> 00:59:37.580] enfin j'entends par là, vous avez besoin de ça pour comprendre des choses essentielles qui sont
+[00:59:37.580 --> 00:59:40.580] 1. Pourquoi il y a une faille dans l'euro ?
+[00:59:40.580 --> 00:59:44.580] 2. Comment cette faille va se futurer ?
+[00:59:44.580 --> 00:59:49.860] Et 3. Pourquoi c'est dangereux de façon concrète et immédiate pour nous les Français ?
+[00:59:49.860 --> 00:59:53.860] Alors allons-y pour l'exploration de ce que c'est que l'argent.
+[00:59:53.860 --> 00:59:56.860] Alors l'argent a commencé par l'ancien temps, avant 1914,
+[00:59:56.860 --> 01:00:04.860] et là d'une date mystérieuse qui est située entre la date du Bouddha et la date d'Alexandre le Grand,
+[01:00:04.860 --> 01:00:09.860] il t'apparut une habitude qui devait perdurer jusqu'à la première guerre mondiale
+[01:00:09.860 --> 01:00:13.860] et cette habitude était considérée que l'argent était tel ou tel métal précieux.
+[01:00:13.860 --> 01:00:18.860] Le plus souvent c'était l'or, parfois c'était l'or en conjonction avec l'argent,
+[01:00:18.860 --> 01:00:21.860] mais c'était du métal précieux.
+[01:00:21.860 --> 01:00:25.860] Ce n'est pas un choix anodin parce que le métal précieux, et surtout pour les technologies de l'époque,
+[01:00:25.860 --> 01:00:28.860] ce n'est pas un truc qu'on peut créer.
+[01:00:28.860 --> 01:00:32.860] Vous ne pouvez pas fabriquer de l'or ou de l'argent métal.
+[01:00:32.860 --> 01:00:39.820] Alors les diverses monnaies nationales étaient ne valaient alors que par leur poids d'or,
+[01:00:39.820 --> 01:00:43.820] c'est-à-dire que vous pouviez avoir une pièce de 20 marques allemandes avec un bel aigle,
+[01:00:43.820 --> 01:00:46.820] tout ça, le chiffre 20 dessus, 36, c'était en or,
+[01:00:46.820 --> 01:00:53.820] et puis une autre pièce avec le beau portrait de Napoléon III et son blason superbe bien découpé
+[01:00:53.820 --> 01:00:56.820] et puis marqué 100 francs en chiffres et en lettres,
+[01:00:56.820 --> 01:01:02.820] mais les valeurs de ces pièces étaient simplement le rapport du grammage d'or qu'il y avait dans l'une et l'autre.
+[01:01:02.820 --> 01:01:05.820] Donc de facto ce que vous aviez c'était une monnaie unique.
+[01:01:06.820 --> 01:01:13.820] Elles n'étaient, ces pièces, j'entends, que les différentes subdivisions d'une seule et même chose.
+[01:01:13.820 --> 01:01:15.820] Mais les choses ont changé.
+[01:01:15.820 --> 01:01:21.820] De 1914 au années 70, il s'est produit un processus qui est très mal connu et très mal compris du public,
+[01:01:21.820 --> 01:01:26.820] qui a été graduel, qui n'a pas été le résultat d'un plan concerté,
+[01:01:26.820 --> 01:01:31.820] ni entre les gouvernements, ni par quelques pouvoirs occultes que ce soit,
+[01:01:31.820 --> 01:01:38.820] c'est simplement une accumulation de petites décisions indépendantes faites pour des raisons pratiques à brève échéance,
+[01:01:38.820 --> 01:01:45.820] qui fait glisser de 1914 aux années 70 ce système qui avait été presque éternel,
+[01:01:45.820 --> 01:01:49.820] enfin qui datait de l'aube de l'histoire,
+[01:01:49.820 --> 01:01:54.820] et qui est le seul que vous ayez en tête parce qu'il vous est arrivé par votre biais culturel,
+[01:01:54.820 --> 01:01:59.820] tout ce qui est film, livre, pièce de théâtre, une littérature apprise à l'école, etc.
+[01:01:59.820 --> 01:02:02.820] Tout est toujours avec des histoires qui se sont passées avant 1914.
+[01:02:02.820 --> 01:02:05.820] La façon dont vous pensez l'argent, c'est ce système métallique,
+[01:02:05.820 --> 01:02:09.820] et on sait qu'on a quitté ce système métallique, non pas du fait concerté,
+[01:02:09.820 --> 01:02:13.820] non pas du fait d'un plan concerté, mais parce que cela devait être,
+[01:02:13.820 --> 01:02:17.820] et cela devait être principalement sous la contrainte de l'expansion de la taille de l'économie mondiale.
+[01:02:17.820 --> 01:02:19.820] Je ne sais pas si vous réalisez, mais entre la première guerre mondiale et maintenant,
+[01:02:19.820 --> 01:02:22.820] le PIB du monde s'est multiplié par 40.
+[01:02:23.820 --> 01:02:27.820] Mais vous devez bien comprendre que le stock d'or physique présent sur la planète Terre,
+[01:02:27.820 --> 01:02:29.820] lui, il ne s'est pas multiplié par 40.
+[01:02:29.820 --> 01:02:33.820] On n'a pas trouvé des mines d'or de manière à... bien sûr que non.
+[01:02:33.820 --> 01:02:37.820] Donc, si c'était resté ancré sur l'or, on aurait sans doute rencontré un petit problème quelque part à un moment donné.
+[01:02:37.820 --> 01:02:41.820] Mais ça ne s'est pas fait, et maintenant, nous avons donc un système qui est entièrement différent,
+[01:02:41.820 --> 01:02:43.820] et je suis obligé de dire qu'il est généralement assez mal compris.
+[01:02:43.820 --> 01:02:46.820] C'est pourquoi je vais vous insister sur la façon dont il est fait,
+[01:02:46.820 --> 01:02:51.820] parce que si vous maîtrisez ça, alors là, vous verrez pourquoi l'euro est mal fait.
+[01:02:51.820 --> 01:02:54.820] Parce que sinon, ça va vous rester mystérieux.
+[01:02:54.820 --> 01:02:58.820] Or, nous faisons à l'UPR, comme vous le savez, de l'éducation populaire,
+[01:02:58.820 --> 01:03:00.820] et dont je remplis mon rôle d'éducateur populaire,
+[01:03:00.820 --> 01:03:03.820] en vous faisant comprendre, un, comment c'est fait maintenant,
+[01:03:03.820 --> 01:03:06.820] et deux, pourquoi dans le cas de l'euro, c'est buggé.
+[01:03:06.820 --> 01:03:14.510] Alors le cas normal aujourd'hui, c'est-à-dire post-or, est un cas qui est simple,
+[01:03:14.510 --> 01:03:18.510] et qui est le cas qui est valable en Suisse, en Angleterre, en Amérique, au Japon,
+[01:03:18.510 --> 01:03:21.510] qui était valable avant 1998 en France et en Allemagne,
+[01:03:21.510 --> 01:03:25.510] avant la réunification allemande en Allemagne de l'Est et en Allemagne de l'Ouest,
+[01:03:25.510 --> 01:03:28.510] qui est valable aujourd'hui dans la Corée du Nord comme dans la Corée du Sud,
+[01:03:28.510 --> 01:03:34.510] en Argentine comme dans le Brésil, aux Zimbabwe comme en Suisse, enfin partout.
+[01:03:34.510 --> 01:03:36.510] C'est-à-dire que c'est le cas général,
+[01:03:36.510 --> 01:03:40.510] et ça compte pour les monnaies fortes, les monnaies faibles, les monnaies moyennes, tout.
+[01:03:40.510 --> 01:03:43.510] Et il est construit d'une certaine façon, qui est toujours la même, qui est récurrente,
+[01:03:43.510 --> 01:03:45.510] donc il s'apprend facilement.
+[01:03:45.510 --> 01:03:48.510] Toujours construit de la manière suivante.
+[01:03:48.510 --> 01:03:52.510] Il y a une banque centrale qui porte parfois le nom d'institut monétaire.
+[01:03:52.510 --> 01:03:56.510] Et là, si elle fait une reconnaissance de dette qui est sans maturité, c'est-à-dire qui est à vue,
+[01:03:56.510 --> 01:04:00.510] c'est-à-dire qu'il n'y a pas une reconnaissance de dette à la date du 22 janvier 2020,
+[01:04:00.510 --> 01:04:02.510] mais qui est une reconnaissance de dette immédiatement exigible,
+[01:04:02.510 --> 01:04:05.510] donc cette chose-là s'appelle à vue, dette à vue,
+[01:04:05.510 --> 01:04:10.510] et bien si jamais elle a signé une reconnaissance de dette à vue,
+[01:04:10.510 --> 01:04:16.510] le législateur décide que cette reconnaissance de dette a un pouvoir libératoire,
+[01:04:16.510 --> 01:04:19.510] c'est-à-dire que nul dans le territoire de la juridiction
+[01:04:19.510 --> 01:04:23.510] n'a le droit de le refuser en paiement de quoi que ce soit,
+[01:04:23.510 --> 01:04:26.510] ou pour l'extinction de quelques dettes que ce soit.
+[01:04:26.510 --> 01:04:30.510] Et on parle aussi de cours légals et forcés, et puis il y a des synonymes dans d'autres langues.
+[01:04:30.510 --> 01:04:34.510] Cette reconnaissance de dette à vue prend deux formes principalement, enfin même uniquement.
+[01:04:34.510 --> 01:04:38.510] L'une d'entre elles que vous connaissez bien est physique, papier et anonyme,
+[01:04:38.510 --> 01:04:40.510] et c'est les billets de banque.
+[01:04:40.510 --> 01:04:43.510] L'autre que vous connaissez vraisemblablement moins est électronique et nominative,
+[01:04:43.510 --> 01:04:46.510] et c'est les comptes courants que les banques commerciales peuvent avoir à la Banque centrale,
+[01:04:46.510 --> 01:04:49.510] comme par exemple la BNP a un compte courant à la Banque de France,
+[01:04:49.510 --> 01:04:53.510] et le contenu de cette chose-là a le pouvoir libératoire.
+[01:04:53.510 --> 01:04:57.510] Ou le compte courant que le trésor public a à la Banque de France, c'est pareil,
+[01:04:57.510 --> 01:05:00.510] parce que tout ça c'est reconnaissance de dette à vue de la Banque de France,
+[01:05:00.510 --> 01:05:04.510] et que le législateur a dit, les reconnaissances de dette à vue de la Banque de France
+[01:05:04.510 --> 01:05:10.510] ont pouvoir libératoire et nul n'est autorisé à les refuser en paiement dans le territoire de ma juridiction,
+[01:05:10.510 --> 01:05:12.510] donc l'hexagone plus la corse.
+[01:05:16.080 --> 01:05:18.080] C'est-à-dire tout de suite.
+[01:05:18.080 --> 01:05:24.080] C'est-à-dire, si je vous donne un titre de dette avec la maturité du 1er janvier 2020,
+[01:05:24.080 --> 01:05:30.080] d'accord, vous ne pourrez pas venir me réclamer d'argent avant le 1er janvier 2020.
+[01:05:30.080 --> 01:05:34.080] C'est la maturité. Maturité zéro, c'est immédiatement exigible.
+[01:05:34.080 --> 01:05:38.080] Et c'est là qu'on parle de dette à vue, ou de créance à vue, ou de compte à vue,
+[01:05:38.080 --> 01:05:41.080] ou de tout à vue, enfin, à vue ça veut dire ça.
+[01:05:41.080 --> 01:05:44.080] Ça va ? Donc la loi est très spécifique.
+[01:05:44.080 --> 01:05:50.080] Une dette de la Banque de France, à terme, c'est-à-dire pas à vue,
+[01:05:50.080 --> 01:05:57.080] c'est-à-dire pour telle date du futur, n'est pas munie du pouvoir libératoire.
+[01:05:57.080 --> 01:05:59.080] Elle ne l'est pas, même si c'est demain.
+[01:05:59.080 --> 01:06:05.080] Mais si elle est à vue, elle l'est, et la loi interdit qu'on refuse ça en paiement de quelque chose qu'on vendrait,
+[01:06:05.080 --> 01:06:09.080] bien au service, ou rémission d'une dette, ou quoi que ce soit.
+[01:06:09.080 --> 01:06:14.080] Alors ça c'est la base, et vous remarquerez que ça change un petit peu par rapport à l'ancien système,
+[01:06:14.080 --> 01:06:19.080] qui est celui que vous connaissez grâce au roman de Victor Hugo et d'Alexandre Dumas.
+[01:06:19.080 --> 01:06:23.080] Et la monnaie n'est plus gagée sur l'or.
+[01:06:23.080 --> 01:06:26.080] Parce que ce qui fait tout le travail, c'est ce truc légal.
+[01:06:26.080 --> 01:06:30.080] Il n'y a plus besoin de la moindre connexion à l'or, et de fait il n'y a plus la moindre connexion à l'or.
+[01:06:30.080 --> 01:06:34.080] C'est-à-dire que l'or lui-même n'a plus d'ailleurs de pouvoir libératoire nulle part.
+[01:06:34.080 --> 01:06:39.080] Vous pouvez, si vous aimez l'or, en enterrer dans votre jardin, ou faire la collection des pièces, très bien.
+[01:06:39.080 --> 01:06:44.080] Vous pouvez considérer que ça va prendre de la valeur, ça se peut, mais ça n'est pas un mode de paiement
+[01:06:44.080 --> 01:06:48.080] dont vous pouvez empêcher qu'il soit refusé.
+[01:06:48.080 --> 01:06:53.080] C'est quelque chose maintenant, c'est comme des diamants, c'est comme des tableaux, c'est comme des timbres rares,
+[01:06:53.080 --> 01:06:55.080] ça peut avoir de la valeur, mais c'est tout, c'est pas de l'argent.
+[01:06:55.080 --> 01:06:59.420] La monnaie n'est plus gagée sur l'or, elle n'est pas gagée non plus sur quoi que ce soit d'autre.
+[01:06:59.420 --> 01:07:03.420] Elle n'est pas gagée sur des chamblés, elle n'est pas gagée sur des forêts, elle n'est pas gagée sur des usines,
+[01:07:03.420 --> 01:07:08.420] elle n'est gagée sur rien, elle n'est pas gagée sur la croyance, elle n'est pas gagée du tout.
+[01:07:08.420 --> 01:07:13.420] Elle est non gagée, tout ce qui fait qu'elle a de la valeur, c'est cette histoire de pouvoir libératoire.
+[01:07:13.420 --> 01:07:20.420] C'est seulement le cours légal et forcé qui lui confère sa valeur, qui peut d'ailleurs exister ou ne pas exister.
+[01:07:20.420 --> 01:07:24.420] Le dollar du Zimbabwe et le franc suisse sont construits exactement de la même façon.
+[01:07:24.420 --> 01:07:27.420] Or vous savez que l'un d'entre eux est une monnaie forte et l'autre non.
+[01:07:27.420 --> 01:07:31.420] Donc ce mode de construction de la monnaie n'applique pas que ça va être une monnaie forte.
+[01:07:31.420 --> 01:07:34.420] C'est une possibilité parmi d'autres.
+[01:07:34.420 --> 01:07:39.420] Et évidemment ça dépend de ce que vous pouvez acheter dans le pays, essentiellement.
+[01:07:39.420 --> 01:07:45.420] Donc apparemment on peut acheter moins de choses dans le Zimbabwe que dans la Suisse, ce qui fait que...
+[01:07:45.420 --> 01:07:48.420] Et je veux aussi signaler qu'elle n'est pas créée ex nihilo.
+[01:07:48.420 --> 01:07:53.420] C'est-à-dire qu'il y a tout un tas de fantasmes sur la monnaie est créée ex nihilo et bon, non.
+[01:07:53.420 --> 01:07:58.420] Cette monnaie, quand elle est mise en circulation par la banque centrale, elle est soit prêtée, soit c'est parce qu'elle a acheté quelque chose.
+[01:07:58.420 --> 01:08:00.420] Donc elle est jamais produite contre rien.
+[01:08:00.420 --> 01:08:05.420] Dans le premier cas, la banque centrale va détenir une créance sur l'emprunteur.
+[01:08:05.420 --> 01:08:08.420] Dans le deuxième cas, elle va détenir de l'actif qu'elle a acheté.
+[01:08:08.420 --> 01:08:17.420] Mais ces choses-là rentrent au bilan de la banque centrale, côté actif, au moment où, côté passif, se crée cette dette à vue avec le pouvoir machin libératoire.
+[01:08:17.420 --> 01:08:20.830] Et ceci induit une notion qui est fondamentale.
+[01:08:20.830 --> 01:08:28.830] Vous allez croire que je fais de la philosophie dont l'intérêt est limité en vous expliquant la circularité.
+[01:08:28.830 --> 01:08:34.830] Prenez-y garde, c'est tout à fait essentiel parce que c'est ça qui encode la faille de l'euro.
+[01:08:34.830 --> 01:08:38.830] C'est-à-dire que quand vous aurez compris ça, vous aurez aussi compris pourquoi l'euro n'était pas viable.
+[01:08:38.830 --> 01:08:44.830] Mais si vous vous fâchez dans la notion de circularité, alors vous ne saurez jamais pourquoi l'euro n'était pas viable.
+[01:08:44.830 --> 01:08:46.830] Faites donc un effort.
+[01:08:46.830 --> 01:08:48.830] Qu'est-ce que la circularité ?
+[01:08:48.830 --> 01:08:57.830] Bon, c'est une caractéristique du système qui est postérieure au système du métal précieux et qui n'est pas tellement compris du public et n'est pas du tout expliqué dans le livre, pas sur l'internet.
+[01:08:57.830 --> 01:09:03.830] Encore que j'ai vu une mention à ça dans le Wikipédia anglais sur le fonctionnement de la banque de l'Angleterre.
+[01:09:03.830 --> 01:09:09.830] Je ne l'ai pas recopié malheureusement, mais il faut savoir que c'est de ça qu'ils vont parler pour le repérer, sinon on passe à côté.
+[01:09:09.830 --> 01:09:15.830] Donc, cette circularité est absolument essentielle pour comprendre le point fait de l'euro et c'est pour ça que je vous embête avec ça.
+[01:09:15.830 --> 01:09:17.830] Faites l'effort. Faites l'effort.
+[01:09:17.830 --> 01:09:24.830] On aurait pu construire l'euro de telle façon que la circularité ne soit pas un problème, en reproduisant exactement la construction des autres monnaies.
+[01:09:24.830 --> 01:09:26.830] Mais on s'y est pris d'une manière un peu différente.
+[01:09:26.830 --> 01:09:33.830] Et alors, dans cette manière un peu différente, qui est celle qui a été effectivement employée, grâce à l'influence des Allemands,
+[01:09:33.830 --> 01:09:41.830] parce que les Français voulaient une manière plus claire, et bien ça fait que la circularité devient l'origine du point faible de l'euro.
+[01:09:41.830 --> 01:09:43.830] Et donc il y a un point faible et donc l'euro va craquer.
+[01:09:43.830 --> 01:09:51.500] Alors voilà la circularité. Ce que vous voyez dans le carré, vous le voyez tous bien ? C'est lisible.
+[01:09:52.500 --> 01:09:55.500] Alors c'est marqué, donc c'est un document en papier.
+[01:09:55.500 --> 01:10:01.500] Et dessus il y a marqué « Je promets de payer aux porteurs à première demande », ce qui n'est pas la notion de « à vue »,
+[01:10:01.500 --> 01:10:05.500] « à première demande la somme de 50 livres sterling » et en dessous vous avez la signature.
+[01:10:05.500 --> 01:10:11.940] Pas besoin de date puisque c'est à première demande. Donc ce papier, en fait, c'est un billet.
+[01:10:11.940 --> 01:10:19.940] « Je promets de payer aux porteurs à première demande la somme de 50 livres sterling » et puis mettons que vous vous l'ayez dans votre poche.
+[01:10:19.940 --> 01:10:26.940] Donc vous avez ce papier et vous attendez patiemment la fin de la conférence pour venir me voir et me dire, en exhibant le papier,
+[01:10:26.940 --> 01:10:32.940] « Rends-moi mes 50 livres. Paye-moi les 50 livres. Je veux les 50. On va vous les 50 livres. »
+[01:10:32.940 --> 01:10:41.940] Et là ce que je fais, je prends son papier « Je promets de payer aux porteurs », la somme de 50 livres sterling dans la main gauche,
+[01:10:41.940 --> 01:10:48.940] je le fais passer dans la main droite et je lui repeille, non pas un billet de 50 livres comme il s'y attendait naïvement,
+[01:10:48.940 --> 01:10:59.940] mais le même document. Ceci est ce qu'on appelle le paiement circulaire et qui est la représentation de la circularité.
+[01:10:59.940 --> 01:11:03.940] Est-ce que j'ai le droit de faire ça ? Est-ce que je peux le rembourser en lui redonnant le même billet, à votre avis ?
+[01:11:03.940 --> 01:11:10.940] Ah oui, j'ai le droit ? Vous pensez que j'ai le droit ? Dans ce cas-là, je pense que nous devrions nouer de fructueuses relations commerciales
+[01:11:10.940 --> 01:11:16.940] car de tas d'idées m'a bien écrit. Non, je ne peux pas, ce serait de l'escroquerie.
+[01:11:16.940 --> 01:11:22.940] Et ça se comprend facilement, enfin, si je vous dois mille et qu'au lieu de vous payer mille,
+[01:11:22.940 --> 01:11:28.940] je vous donne le billet sur lequel j'avais marqué que je vous faisais mille, vous n'allez pas être contents, non ?
+[01:11:28.940 --> 01:11:35.940] Donc la circularité n'est pas acceptable. Retenez ça, ça va être crucial pour la suite, la circularité n'est pas acceptable.
+[01:11:35.940 --> 01:11:41.940] S'il y avait une deuxième chose que vous deviez retenir de cette conférence et rien d'autre, c'est que la circularité n'est pas acceptable.
+[01:11:41.940 --> 01:11:52.940] Mais il y a un cas et un seul où la circularité est non seulement acceptable mais acceptée, non seulement acceptée mais obligatoire.
+[01:11:52.940 --> 01:12:04.940] Et ce seul cas est obtenu quand je remplace la signature qui était la mienne tout à l'heure par une autre signature
+[01:12:04.940 --> 01:12:11.940] qui est dans le cas de cet exemple la signature de la Banque d'Angleterre. Donc vous avez exactement le même payet
+[01:12:11.940 --> 01:12:18.940] sauf que le « je promets de payer aux porteurs à première demande la salle de 50 livres sterling » n'est plus signé de mon nom, il n'est signé de la Banque d'Angleterre.
+[01:12:19.940 --> 01:12:26.940] Et dans ce cas, bien que la seule chose qui ait changé, ça soit la signature, la circularité est acceptable et elle est acceptée.
+[01:12:26.940 --> 01:12:33.940] Pourquoi ? Parce qu'il y a un bout de papier sur lequel la Banque d'Angleterre marque « je promets de payer aux porteurs à première demande la salle de 50 livres sterling »,
+[01:12:33.940 --> 01:12:40.940] c'est un billet de 50 livres sterling et réciproquement. Donc c'est ce que je marque là.
+[01:12:40.940 --> 01:12:45.940] En effet, un billet « livre sterling » n'est pas autre chose qu'une reconnaissance de dette à vue aux porteurs par la Banque d'Angleterre.
+[01:12:45.940 --> 01:12:49.940] Et je vous donne des exemples avec un ancien billet et un billet plus moderne.
+[01:12:49.940 --> 01:12:59.940] Donc sur ce merveilleux ancien billet qui date de l'année 1938, c'est marqué « Banque d'Angleterre, je promets de payer aux porteurs sur sa demande la somme de 5 livres ».
+[01:12:59.940 --> 01:13:09.500] C'était un billet de 5 livres. Puis il y avait la signature du type qui représentait la Banque d'Angleterre, vous la voyez là en bas. C'était comme ça.
+[01:13:09.500 --> 01:13:13.500] Alors vous pouvez me dire si vous êtes vraiment pinailleux, est-ce que vous auriez raison d'être ?
+[01:13:13.500 --> 01:13:21.500] Oui mais ça c'était un billet de 1938 et c'était pendant la fameuse phrase de transition que vous nous avez expliquée entre la Première Guerre mondiale et les années 70.
+[01:13:21.500 --> 01:13:28.500] Donc en fait c'est pas comme ça. Mais non. Parce que si vous regardez un billet plus moderne et que vous prenez votre loupe et même votre microscope
+[01:13:28.500 --> 01:13:35.500] et que vous allez chercher en dessous de la mention « Banque d'Angleterre », vous trouvez la petite formule, toujours la même.
+[01:13:35.500 --> 01:13:47.500] C'est quelque chose d'universel que vous verrez aussi sur des billets américains et italiens avec des formulations qui paraissent variées mais qui veulent dire la même chose.
+[01:13:47.500 --> 01:13:53.500] Sur le billet de 1 dollar traditionnel, vous aviez la formule « This not is legal tender for all debt public and private »,
+[01:13:53.500 --> 01:14:03.500] ce qui veut dire exactement que vous ne pouvez pas les refuser en paiement de quelque dette que ce soit privée au public, ce qui donc est le privilège de pouvoir libératoire.
+[01:14:04.500 --> 01:14:14.500] Et sur les billets italiens, c'est écrit d'une manière plus sobre qui est billet d'état à cours légal que vous voyez là.
+[01:14:14.500 --> 01:14:17.500] Ce n'était pas marqué sur les billets français mais c'était le même principe.
+[01:14:17.500 --> 01:14:26.500] Donc cette histoire que la circularité est en général inacceptable mais acceptable dans un seul cas et que ce seul cas est celui-là est très importante.
+[01:14:26.500 --> 01:14:31.500] Toute la faiblesse de l'euro revient là-dessus.
+[01:14:31.500 --> 01:14:36.880] La circularité est uniquement possible parce que le billet fait partie de l'argent à pouvoir libératoire.
+[01:14:36.880 --> 01:14:39.880] Dans le cas du billet, on reprend notre exemple du billet anglais.
+[01:14:39.880 --> 01:14:46.880] Le billet est « legal tender », il a un pouvoir libératoire et alors par conséquent, ce qui se passe c'est que si la banque dans le terre,
+[01:14:46.880 --> 01:14:50.880] ou d'ailleurs quand la banque dans le terre vous rembourse sa dette avec le même certificat de dette,
+[01:14:50.880 --> 01:14:59.880] vous ne pouvez pas le refuser parce que la loi fait que sur la juridiction anglaise, il n'est pas refusable comme un moyen d'éteindre la dette.
+[01:14:59.880 --> 01:15:03.880] C'est pourquoi la circularité devient contrainte.
+[01:15:03.880 --> 01:15:06.880] Etant contrainte et obligatoire, elle devient acceptée et étant acceptée, elle est acceptable.
+[01:15:06.880 --> 01:15:10.880] Mais c'est le seul cas et apprenez bien à les distinguer.
+[01:15:10.880 --> 01:15:14.880] Si vous avez les distingués, vous allez voir ce qui se passe avec l'euro.
+[01:15:14.880 --> 01:15:17.880] La monnaie centrale qui munit ce privilège a deux composantes.
+[01:15:17.880 --> 01:15:23.880] Composante numéro 1, les billets. Composante numéro 2, les comptes nus, comme je l'ai dit, des comptes ouverts à la banque centrale elle-même.
+[01:15:23.880 --> 01:15:30.880] Donc je fais un petit graph pour vous le rappeler avec une icône billet et une icône ordinateur
+[01:15:30.880 --> 01:15:34.880] pour que vous ayez en tête que tout ce que je vous raconte ce n'est pas seulement les billets,
+[01:15:34.880 --> 01:15:39.880] mais c'est toute la dette à vue de la banque centrale qui en général est sous forme électronique et nominative.
+[01:15:39.880 --> 01:15:45.880] Les billets étant la forme papier et pas nominative parce que c'est aux porteurs.
+[01:15:45.880 --> 01:15:52.880] Donc vous avez deux composantes de la monnaie légale pour laquelle la circularité est valable.
+[01:15:52.880 --> 01:15:54.880] Maintenant on va commencer à comparer le cas simple et le cas euro.
+[01:15:54.880 --> 01:16:01.880] Donc dans le cas simple qui était je vous le rappelle celui de la Suisse, de l'Angleterre, de l'Amérique, du Japon, de nous avant l'euro et de tout le monde,
+[01:16:01.880 --> 01:16:05.880] on a un petit peu modifié pour faire une union monétaire parce que n'est-ce pas il y a des choses qui changent.
+[01:16:05.880 --> 01:16:06.880] Quoi ?
+[01:16:06.880 --> 01:16:12.880] Déjà il y a plusieurs banques centrales là où il n'y en avait qu'une. Ceci est une modification de taille.
+[01:16:12.880 --> 01:16:19.880] Et ensuite leur reconnaissance de dette à vue ont toujours pouvoir libératoire dans leur propre juridiction.
+[01:16:19.880 --> 01:16:27.880] Et enfin le cas des billets il est forcément spécial puisqu'il y en avait plusieurs, puisque ce sont des billets qui servent à plusieurs banques centrales.
+[01:16:27.880 --> 01:16:31.880] Donc il est clair que les billets vont avoir quelque chose de différent par rapport au cas habituel.
+[01:16:31.880 --> 01:16:37.880] Le cas honnête franc et simple d'un billet de 1000 francs Suisse ou d'un billet de 50 livres sterling,
+[01:16:37.880 --> 01:16:46.880] un billet de 50 euros il faut forcément qu'il y ait une différence quelque part puisque le système est basé sur plusieurs et non pas sur une seule banque centrale.
+[01:16:46.880 --> 01:16:52.880] Alors dans le cas euro contre le cas normal il y a deux différences et ces deux différences on va voir se concentrent sur deux domaines,
+[01:16:52.880 --> 01:16:56.880] les billets comme je viens de le dire et un autre machin qui s'appelle les targets dont je vais vous parler.
+[01:16:56.880 --> 01:17:04.880] Et ces deux différences se résument en fait toutes les deux à une seule chose et qui est la constitution progressive de dette et créances entre les banques centrales elles-mêmes.
+[01:17:04.880 --> 01:17:11.880] Là normalement vous devez connecter avec ce que j'ai dit au début de la conférence où j'ai dit qu'un problème allait arriver par là.
+[01:17:11.880 --> 01:17:15.880] Donc en grec on appelle ça un talon de la chile et en français une vulnérabilité.
+[01:17:15.880 --> 01:17:24.160] On va voir comment la crise a appuyé sur ce point faible mais avant remarquons un truc, il y a une porte de sortie cachée.
+[01:17:24.160 --> 01:17:32.020] Alors je pense que vous n'avez jamais entendu parler de cette porte de sortie cachée sauf si vous avez écouté mes conférences dans le passé.
+[01:17:32.020 --> 01:17:38.020] Mais en interne on la connaît bien à BCE et on la comprend particulièrement bien depuis qu'on a dû travailler sur les procédures d'exit.
+[01:17:38.020 --> 01:17:45.020] Alors cette porte de sortie cachée c'est que puisque l'argent qui existe aujourd'hui en Europe c'est toujours des états-vues de différentes banques centrales
+[01:17:45.020 --> 01:17:55.020] comme la Banque de France ou la Banque centrale d'Allemagne mais que ces banques centrales ont gardé leur existence juridique, leur individualité et tout ça,
+[01:17:55.020 --> 01:18:01.000] et bien il en résulte que les euros sont déjà de plusieurs natures.
+[01:18:01.000 --> 01:18:07.000] Il existe des euros qui sont définis comme créances à vue sur la Banque de France tandis que d'autres sont définis comme créances à vue sur la Bundesbank
+[01:18:07.000 --> 01:18:10.000] et d'autres encore sont définis comme créances à vue sur la Banque du Portugal.
+[01:18:10.000 --> 01:18:18.000] Ces trois institutions ne sont pas identiques, leur signature n'est pas identique et par conséquent nous avons là au moins trois sortes d'euros différents.
+[01:18:18.000 --> 01:18:32.000] Ce qui permet une porte de sortie puisque, en quelque sorte, les futurs PZTAS, Lire, Marc et Franc, on dirait qu'ils n'existent pas mais ils existent déjà.
+[01:18:33.000 --> 01:18:44.000] C'est le contenu des comptes en banque, des banques commerciales résidant en France, Italie, Espagne, Portugal, lesquels sont déjà présents.
+[01:18:44.000 --> 01:18:49.000] En fait, défaire l'euro c'est plus facile qu'il n'y croit, il suffit de découper suivant le pointillé.
+[01:18:49.000 --> 01:19:09.470] C'est-à-dire vos euros ont déjà un typage national, sauf les billets, comme on l'a vu, puisque les billets font référence à l'ensemble des banques centrales nationales et pas à une seule.
+[01:19:09.470 --> 01:19:18.140] Alors les targets c'est un truc que les gens ne comprennent pas et ils ne comprennent pas parce que ça paraît technique et incompréhensible.
+[01:19:18.140 --> 01:19:25.140] De ce fait-là, c'est très souvent commenté en dépit du bon sens et c'est aussi assez peu compris du public.
+[01:19:25.140 --> 01:19:33.570] La solution n'est pas d'expliquer les targets en partant des textes de loi, etc.
+[01:19:33.570 --> 01:19:43.570] Parce que vous allez être encore plus effrayé par le côté technique et incompréhensible et vous quitterez cette conférence en disant que tout est technique et incompréhensible et que vous n'avez pas compris, ce qui n'est pas le but d'un éducateur populaire.
+[01:19:43.570 --> 01:19:55.570] Donc je vais donc recourir, je vais me débarrasser du jargon technique et pour vous expliquer ce que c'est qu'une target, je vais utiliser une métaphore que je vais représenter sous la forme d'une anecdote.
+[01:19:55.570 --> 01:20:09.570] Donc vous figurez moi qui prends des vacances dans un petit port de Pêche-Breton, au cœur de l'hiver, dans un coin totalement isolé et déconnecté du reste du monde, je suis avec des amis.
+[01:20:09.570 --> 01:20:23.980] Et un beau jour, j'ai envie de lecture. Donc qu'est-ce que je fais ? Je vais chez l'unique commerçant du Bled où il y a la possibilité d'acheter des livres.
+[01:20:23.980 --> 01:20:35.980] Un des copains avec qui je suis en vacances m'accompagne. Alors là je farfouille dans les rayonnages, je finis par trouver mon bonheur, je récupère un livre, je m'amène à la caisse et puis c'est 22,50 euros.
+[01:20:35.980 --> 01:20:45.980] Et je m'aperçois que je ne peux pas payer parce que ma carte bleue ne passe pas ou parce que j'ai oublié de prendre de l'argent ou enfin je ne peux pas sortir le livre de la librairie.
+[01:20:45.980 --> 01:21:00.980] Dramme. Donc qu'est-ce que je fais ? Fort logiquement, je dis à mon copain paye pour moi. Et assez logiquement aussi, bien qu'il soit près de ses sous, il paye pour moi en rochonnant et nous sortons dans la grande rue du petit port de Pêche.
+[01:21:00.980 --> 01:21:13.980] Et moi j'ai le livre sous le bras. Et c'est mon livre, c'est pas le sien. D'accord ? Alors si vous avez suivi toute l'histoire, vous devez admettre qu'à cette occasion j'ai contracté une dette de 22,50 euros envers mon camarade.
+[01:21:13.980 --> 01:21:30.260] Est-ce qu'il y a le moindre doute ? Je dois donc 22,50 à mon camarade. C'est inévitable. Eh bien ça c'est une Target. Donc quand vous entendez parler de Target 2, c'est exactement cette chose là et nulle autre.
+[01:21:30.260 --> 01:21:41.260] En effet, ça se passe ainsi. Imaginez que M. Verdi, qui habite à Milan, désire envoyer 100 000 euros à M. Schmitt qui habite à Frankfurt.
+[01:21:41.260 --> 01:21:52.260] M. Verdi est un client du crédito italiano de Milan tandis que M. Schmitt est un client de la Commerzbank Frankfurt.
+[01:21:53.260 --> 01:22:01.260] Que va-t-il se passer ? M. Verdi va dire au crédito italiano de débiter 100 000 euros de son compte courant à lui pour les envoyer plus loin.
+[01:22:01.260 --> 01:22:13.260] Le crédito italiano va donc débiter le compte courant de Verdi de 100 000 euros et dire à la Banque italienne qu'elle débite son compte courant à lui de 100 000 euros pour les envoyer plus loin. D'accord ?
+[01:22:13.260 --> 01:22:19.260] Tout ça c'est assez logique mais on arrive au passage entre la Banque d'Italie et la Bundesbank.
+[01:22:19.260 --> 01:22:24.260] Et là la Banque d'Italie, elle devrait envoyer 100 000 euros à la Bundesbank mais comment elle va faire ?
+[01:22:24.260 --> 01:22:31.260] En effet, la Banque d'Italie n'a pas de compte à la Bundesbank et la Bundesbank n'a pas de compte à la Banque d'Italie.
+[01:22:31.260 --> 01:22:39.260] Par ailleurs, la Commerzbank Frankfurt, qu'il s'agit d'atteindre au final, elle a peut-être un compte à la Bundesbank mais elle n'a pas de compte à la Banque d'Italie.
+[01:22:39.260 --> 01:22:47.260] Et donc, comment on peut faire la Banque d'Italie pour donner 100 000 euros à la Commerzbank Frankfurt ?
+[01:22:47.260 --> 01:22:54.260] La réponse est, c'est impossible. Par conséquent, la Banque d'Italie se tourne vers la Bundesbank et lui demande de payer pour elle.
+[01:22:54.260 --> 01:23:03.260] Et la Bundesbank s'exécute en ronchonnant, elle donne 100 000 euros, elle crédite de 100 000 euros le compte de la Commerzbank Frankfurt qui est à son four, etc.
+[01:23:03.260 --> 01:23:07.260] Elle crédite le compte de M. Schmidt et voilà, tout est fait.
+[01:23:07.260 --> 01:23:17.950] Alors, est-ce que vous comprenez qu'à cette occasion, la Banque d'Italie a contracté une dette de 100 000 euros envers la Bundesbank ?
+[01:23:17.950 --> 01:23:28.950] Est-ce qu'il peut y avoir le moindre doute ? Non, bien sûr, parce que la Bundesbank est mon copain et la Banque d'Italie, c'est moi dans la librairie.
+[01:23:29.950 --> 01:23:42.950] C'est ainsi que vous avez les Targets qui naissent petit à petit parce qu'au fil des années, alors que l'euro existe, il existe toujours la constitution de ces dettes et créances entre les différentes banques centrales.
+[01:23:42.950 --> 01:23:51.950] Or, on pensait, naturellement les européistes optimistes pensaient que ça n'aurait aucune importance pour la raison que ces sommes resteraient assez limitées
+[01:23:51.950 --> 01:23:57.950] et puis qu'elles fluctueraient dans un sens et dans l'autre et que au total, ça se compenserait et que voilà.
+[01:23:57.950 --> 01:24:08.950] Le problème, c'est que ça ne s'est pas tourné comme ça. Les choses se sont produites différemment et finalement, il y en a certains qui se sont retrouvés extrêmement créditeurs et d'autres qui se sont retrouvés extrêmement débiteurs.
+[01:24:08.950 --> 01:24:21.610] Et quand ça atteint un certain montant, l'inquiétude naît. C'est-à-dire que vous pouvez vous sentir serein que je vous dois 5 000 euros ou que vous me deviez 5 000 euros,
+[01:24:21.610 --> 01:24:29.610] mais si c'était 50 millions d'euros, vous ne seriez pas serein que je sois le créditeur ou le débiteur parce que si vous êtes mon créditeur de 50 millions d'euros,
+[01:24:29.610 --> 01:24:36.610] vous pouvez facilement imaginer que je sois malhonnête ou qu'il m'arrive un accident et que les 50 millions d'euros, vous vous assierez dessus.
+[01:24:36.610 --> 01:24:42.610] Et si c'est vous le débiteur, vous serez également pas très à l'aise parce que qui sait ce que je suis capable de faire pour récupérer 50 millions d'euros.
+[01:24:42.610 --> 01:24:50.610] Vous ne me connaissez pas. Enfin, vous vivriez dans l'insécurité. Donc, lorsque ces chiffres sont trop grands, ça provoque de l'inquiétude
+[01:24:50.610 --> 01:24:58.610] et ça va provoquer pas plus que de l'inquiétude, ça va aussi provoquer de la rancœur. Nous allons donc examiner comment sont les targets, comment ils ont évolué au cours du temps.
+[01:24:58.610 --> 01:25:06.610] Alors pourquoi c'est symétrique ? Alors c'est symétrique parce que naturellement un euro dû est forcément dû à quelqu'un.
+[01:25:06.610 --> 01:25:13.610] Et par conséquent, tout euro de dette dans ce système fermé est l'euro de créance de quelqu'un d'autre dans le même système fermé.
+[01:25:13.610 --> 01:25:22.610] Par conséquent, si je compte les créances en positif et les dettes en négatif ainsi qu'il est naturel, j'ai nécessairement un joli dessin qui a une forme entièrement symétrique.
+[01:25:22.610 --> 01:25:29.610] Vous voyez que chaque bosse de la partie basse correspond exactement à une bosse de la partie haute. C'est obligé ?
+[01:25:29.610 --> 01:25:37.610] C'est forcément la même surface en haut et en bas. Vous pensez à la dage Hermécien, ce qui est en haut est comme ce qui est en bas. En fait, il parlait des targets.
+[01:25:41.810 --> 01:25:48.810] Par contre, un truc qui n'est pas symétrique, c'est le coloris. Il y a de vastes zones rouges et de petites zones oranges.
+[01:25:48.810 --> 01:25:59.810] Ça, c'est pas symétrique. Parce que certaines banques centrales de la zone euro ont de grandes positions débitrices ou créditrices tandis que d'autres n'en ont pas tellement.
+[01:25:59.810 --> 01:26:07.810] Soit parce que le pays est petit, soit parce qu'elles ont été prudentes. Par exemple, la France est un pays qui n'est pas petit et vous voyez que sa position orange n'est pas grosse.
+[01:26:07.810 --> 01:26:19.810] Vous voyez l'orange là ? Ça se compare pas tellement au jaune vif canarie de l'Espagne ou au jaune orangé de l'Italie. Là, nous avons de la superficie.
+[01:26:19.810 --> 01:26:27.810] Et bien entendu, le pays le plus créditeur, c'est l'Allemagne. Il est en rouge parce que c'est le couleur de la colère et que cette histoire met l'Allemagne en colère.
+[01:26:27.810 --> 01:26:40.810] L'Allemagne est rouge de colère d'avoir hérité une somme qui est maintenant de 814 milliards de ce qui semble être des créances douteuses. Pourquoi ? Parce que qu'est-ce que l'Allemagne a à redouter ?
+[01:26:40.810 --> 01:26:52.810] Non, elle a surtout à redouter qu'elle n'est héritée de créances à paiement circulaire. La circularité est les targets. La circularité est une source de mécontentement chez les créditeurs.
+[01:26:52.810 --> 01:27:02.810] Nous sommes dans le cas où la circularité est inacceptable. Elle est inacceptable parce que la Bundesbank elle-même est maîtriste de monnaie à pouvoir légal.
+[01:27:02.810 --> 01:27:15.810] Et donc, quel avantage elle a à avoir des reconnaissances de dette comme ça sur la banque d'Italie ? En plus, elle peut les contester parce que dans sa juridiction à elle, il n'y a que sa reconnaissance de dette à vue sur elle qui est pouvoir libératoire.
+[01:27:16.810 --> 01:27:23.810] Donc pourquoi est-ce qu'elle devrait détenir comme ça des reconnaissances de dette à vue de la banque d'Italie qui n'a pas le pouvoir libératoire dans l'Allemagne ? On est d'accord ?
+[01:27:23.810 --> 01:27:37.810] Donc elle est très mécontente. Nous sommes retombés dans le cas où la circularité est inacceptable ou en autres termes, la Bundesbank est dans le cas de ce monsieur et la banque d'Italie est dans le cas de moi quand on faisait l'exemple avec les 50 livres sterling.
+[01:27:37.810 --> 01:27:45.810] Sauf que là, on ne le fait pas pour 50 livres sterling, ce qui irait encore, on le fait pour 814 milliards d'euros, ce qui est beaucoup plus problématique.
+[01:27:45.810 --> 01:27:59.820] Et en plus, non seulement ça, mais c'est un risque épouvantable. Parce que qu'est-ce qui va se passer si jamais il y a un gros débuteur qui quitte l'euro ? Ah, et bien il va se passer une perte.
+[01:27:59.820 --> 01:28:17.060] Donc le mécontentement commence à devenir visible. Alors la Bundesbank avait compris le truc dès 2010 et en interne dans l'eurosystème, on savait qu'elle était mécontente parce que les Bundesbankaires, c'est à peu près à ce moment-là qu'ils ont commencé à nous parler systématiquement sur un ton désagréable et acerbe.
+[01:28:17.060 --> 01:28:28.060] Mais les autres acteurs économiques allemands, par la suite, ont aussi compris. Et un certain euroscepticisme ne s'est développé non pas dans la population, mais chez les grands acteurs économiques et financiers.
+[01:28:28.060 --> 01:28:41.060] Et puis enfin, ça a contaminé d'autres pays qui sont les pays qui sont hauts dans le graphique. La Finlande, la Hollande. Vous pouvez constater la présence d'euroscepticisme montant dans la Finlande et dans la Hollande.
+[01:28:41.060 --> 01:28:51.060] Bon, alors pourquoi la Bundesbank a-t-elle des états d'âme ? Elle a des états d'âme parce que de son point de vue, en fait on la roule.
+[01:28:51.060 --> 01:29:07.060] Cette construction que je viens de vous expliquer, c'est comme si on transformait en marque les monnaies d'autres états. C'est comme si le jour de l'union de l'euro, tout ce qui était Peseta, l'Ire italienne et autres Français, c'était transformé d'un coup de baguette magique en marque.
+[01:29:07.060 --> 01:29:16.060] Alors ça c'est bien, du point de vue de ceux qui sont dans les pays du Sud, mais c'est un peu vexant du point de vue de l'Allemagne parce que finalement sa signature à elle valait cher.
+[01:29:16.060 --> 01:29:27.060] Parce que, du moins c'est l'explication qu'elle s'en donne, le peuple allemand avait bien travaillé vertueusement et avait mis des décennies d'efforts à bâtir la confiance et à être très vertueux, etc.
+[01:29:27.060 --> 01:29:35.060] Donc c'était, on galvaudait leur signature en quelque sorte. C'est quelque chose qui leur avait coûté cher et qui était gratuitement offert à tous leurs petits camarades.
+[01:29:35.060 --> 01:29:45.060] De leur point de vue, ça revenait à un pillage. Donc voilà pourquoi il y a eu une position larvée, manifestée par cette rhétorique hostile dont je vous ai parlé, des votes négatifs au Conseil,
+[01:29:45.060 --> 01:29:59.570] et qui a culminé avec un authentique procès dans lequel la Bundesbank et la BCE ont plaidé l'une contre l'autre.
+[01:29:59.570 --> 01:30:15.570] Ça s'est produit il y a deux ou trois ans. Je me rappelle parce que j'avais co-écrit la partie pleudoirie de côté BCE. Je l'avais rendue aussi tranchante que possible par pure vélenie.
+[01:30:15.570 --> 01:30:29.570] Donc ce procès a confirmé le désaccord fondamental qui existait entre la BCE et la Bundesbank. La BCE est intéressée à survivre en tant que telle,
+[01:30:29.570 --> 01:30:34.570] et la Bundesbank est intéressée en réalité à ce que cette histoire d'euros ne dure pas trop.
+[01:30:34.570 --> 01:30:49.350] Alors, je vous ai parlé des billets et je vous ai parlé des Targets. Les Targets, c'est clair, c'est ces dettes interbancaires qui se sont constituées lorsque l'on a envoyé de l'argent à travers une frontière.
+[01:30:49.350 --> 01:31:00.350] Et les billets ne peuvent pas être analysés de manière indépendante des Targets parce qu'au fond, si vous êtes capable d'envoyer 100 000 euros de France en Allemagne comme ça par un transfert bancaire,
+[01:31:00.350 --> 01:31:11.350] vous seriez aussi capable de faire que vous récupérez 100 000 euros en billets à la Banque de France, que vous les mettez dans votre voiture, que vous conduisez jusqu'à une ville allemande
+[01:31:11.350 --> 01:31:23.350] et que là vous les remettiez à la caisse de la Bundesbank la plus proche. Ça ferait le même effet, vous êtes d'accord. Vous auriez dans les deux cas transféré 100 000 euros de France en Allemagne,
+[01:31:23.350 --> 01:31:29.350] mais dans un cas, vous auriez créé ce qu'on appelle une dette target et une créance target entre la Bundesbank et la Banque de France.
+[01:31:29.350 --> 01:31:44.350] Et dans l'autre cas, vous auriez fait que la Banque de France aurait mis en circulation pour 100 000 euros de billets et que la Banque d'Allemagne aurait retiré de la circulation 100 000 euros de billets.
+[01:31:44.350 --> 01:31:53.350] Et il faut donc que ça fasse la même chose. Donc première chose, ce que vous voyez, c'est que lorsque une banque centrale met en circulation un billet d'euros,
+[01:31:53.350 --> 01:32:04.350] à ce moment-là, elle incrémente une dette qu'elle a vis-à-vis des autres, du même montant, et quand elle retire de la circulation un billet d'euros, elle le décrémente du même montant.
+[01:32:04.350 --> 01:32:10.350] Et la deuxième chose, c'est que les targets et les billets ne peuvent pas être séparés, ils sont analysables ensemble.
+[01:32:10.350 --> 01:32:20.350] Évidemment, dans le bilan formalisé et officiel de ces banques centrales, ils vont aller dans des cases différentes, c'est-à-dire que l'un des deux blocs, je ne me rappelle plus,
+[01:32:20.350 --> 01:32:31.350] mais mettons que ça soit, sauf erreur, A093 et L14, ça va être les targets, A pour A, donc ça ne va pas dans les mêmes cases, mais le résultat global est le même.
+[01:32:33.760 --> 01:32:48.870] Alors, ceci fait apparaître la notion de prime de sortie. La prime de sortie est quelque chose que vous avez lorsque vous additionnez la dette due au titre des billets
+[01:32:48.870 --> 01:33:04.730] et la dette ou la créance due au titre des targets. Et ça représente aussi la somme qui doit être réglée si vous quittez la zone euro, la somme que votre banque centrale doit régler si vous quittez la zone euro.
+[01:33:04.730 --> 01:33:13.730] Alors le problème c'est qu'elle est trop grosse pour être payée dans plusieurs cas, parce que déjà les billets c'est assez considérable, et ensuite il peut y avoir en plus que vous l'avez vu des dettes targets
+[01:33:13.730 --> 01:33:25.730] qui sont elles aussi d'un montant vraiment sérieux. Donc, la prime de sortie n'avait jamais été reconnue par la BCE, parce que ça aurait montré qu'une sortie était possible.
+[01:33:25.730 --> 01:33:32.730] Et naturellement, il est dans la nature de la BCE de ne pas souhaiter informer la population qu'une sortie est possible.
+[01:33:32.730 --> 01:33:42.730] Moi j'avais fait un article explicatif en août 2015 que vous pouvez encore trouver qui explique non seulement ce que c'est que la prime de sortie mais encore comment elle se calcule avec tous les codes et machins et qui donne des exemples, etc.
+[01:33:42.730 --> 01:33:57.730] Mais en janvier 2017, c'est-à-dire il y a deux mois, Draghi a écrit une lettre à des euro-parlementaires européens, enfin italiens, et cette lettre était la première reconnaissance de l'existence de la prime de sortie.
+[01:33:57.730 --> 01:34:01.730] Alors ce n'est pas qu'il a marqué les mots prime de sortie de l'or, mais la chose dont il parle, c'est ça.
+[01:34:01.730 --> 01:34:11.730] Cette lettre a été rédigée d'une manière extrêmement exacte. Je vais vous la montrer, ou plutôt je vous montre le fac similé de la version anglaise que vous trouvez sur le site de la BCE.
+[01:34:11.730 --> 01:34:25.730] Alors il y a une seule phrase qui compte, mais par chance c'est la dernière phrase, et les trois paragraphes qui précèdent c'est du délayage où Draghi explique mille et mille choses sur les targets.
+[01:34:25.730 --> 01:34:47.730] Mais la toute dernière phrase ne parle plus des targets, si vous la lisez et que vous la traduisez exactement, ça dit, si un pays devait quitter l'eurosystème, sa banque centrale nationale, les dettes comme les créances envers la BCE devraient être réglées en totalité.
+[01:34:47.730 --> 01:34:56.730] Totalité, pas que les targets. Pas que les targets, donc targets plus billets. Sincèrement, Mario Draghi.
+[01:34:56.730 --> 01:35:05.730] Quand il écrit ça à de pauvres parlementaires italiens, en réalité dans la lettre originale en langue italienne, ce qu'il est en train de dire c'est la chose suivante.
+[01:35:05.730 --> 01:35:18.730] Si jamais l'Italie quitte la zone euro, vous de redevez à la BCE la somme immédiatement exigible, non pas demain mais tout de suite, de 500 milliards d'euros.
+[01:35:18.730 --> 01:35:30.140] Vous voyez casse. Parce que c'est en gros 150 de billets et 350 de targets.
+[01:35:30.140 --> 01:35:37.140] Alors il est bien évident que le jour où ça arrive, la banque d'Italie perd le pouvoir de créer des euros parce qu'elle sort de l'euro.
+[01:35:37.140 --> 01:35:43.140] Quand on sort de l'euro, on perd le pouvoir de créer des euros. Et là quelqu'un vient lui dire, tu me dois 500 milliards d'euros, paye.
+[01:35:43.140 --> 01:35:48.140] Et vous venez juste d'être dépossédé du pouvoir de créer des euros. Comment vous faites ?
+[01:35:48.140 --> 01:35:57.140] Et bien la réponse est que vous ne pouvez pas. Il est impossible, mais alors rigoureusement impossible, de payer 500 milliards d'euros quand on n'est pas soi-même émetteur de l'euro.
+[01:35:57.140 --> 01:36:01.140] Où voudriez-vous les trouver ? Personne au monde ne pourrait trouver ça.
+[01:36:01.140 --> 01:36:11.140] Et par conséquent, ce qui va se passer, c'est que la banque d'Italie, tôt ou tard, peut-être que la reconnaissance officielle de la chose prendra quelques jours, voire même quelques mois,
+[01:36:11.140 --> 01:36:16.140] mais inévitablement à la fin, la banque centrale européenne est obligée de dire, ah ben j'ai fait une perte.
+[01:36:16.140 --> 01:36:25.140] Et alors la BCE, étant fait que lui est pour 500 milliards, elle va voir ses actionnaires, dont la Banque de France, et lui dit, voilà, c'est bête, j'ai fait une perte de 500 milliards d'euros, mais tu es mon actionnaire,
+[01:36:25.140 --> 01:36:39.580] donc tu vas en apurer le quart. Je te demande donc un paiement immédiat de 125 milliards d'euros. Et là la Banque de France dit, loups, où est-ce que je trouve 125 milliards d'euros ?
+[01:36:39.580 --> 01:36:47.580] La réponse est que la Banque de France ne peut pas trouver 125 milliards d'euros. Donc la seule solution raisonnable d'un point de vue franco-français, et ça c'est ce que nous nous préconisons,
+[01:36:47.580 --> 01:36:54.580] c'est qu'au moment précis où l'Italie sort de la zone euro, nous, on est sortis avant. Alors qu'est-ce qui va arriver à la France ?
+[01:36:54.580 --> 01:36:59.580] Alors qu'est-ce qui va arriver à la France ? Ça, je vois que c'est une question qui paraît très cruciale à beaucoup de personnes.
+[01:36:59.580 --> 01:37:14.690] Alors la France, en fait, est dans une situation très agréable parce que son chiffre, d'abord son chiffre a l'air gros, mais quand on le regarde, il a deux raisons de contrôlables,
+[01:37:14.690 --> 01:37:25.690] qui n'existent pas dans le cas de l'Italie, ou dans le cas de la Grèce, ou dans le cas de l'Espagne. Vous voyez ici, commençons par les targets, cette petite chose orange représente à peu près 40 milliards.
+[01:37:25.690 --> 01:37:40.690] Donc ces 40 milliards, c'est ce que la France devrait, si elle sortait, au titre des targets. Mais fort heureusement, elles proviennent, non pas du fait que les Français sortent leur argent en catigny des frontières,
+[01:37:40.690 --> 01:37:46.690] mais simplement du fait que les banques françaises ont tendance à placer leur trésorerie à Francfort plutôt qu'à Paris.
+[01:37:46.690 --> 01:37:59.690] Sauf en fin de semestre et en fin de nouvel an pour avoir un bilan joliment présenté. Donc ça veut dire que tous les 30 juin et tous les premiers, enfin 30 décembre, 31 décembre,
+[01:37:59.690 --> 01:38:12.690] vous avez tout à coup le seul target de la France qui ouvre, revient à zéro, et puis le lendemain, il revient à moins 40, parce que l'effet de Windows dressing, de nettoyage du bilan a été opéré.
+[01:38:12.690 --> 01:38:17.690] Donc cette chose orange est là, mais c'est une chose orange qui, comment dirais-je, est assez contrôlable.
+[01:38:17.690 --> 01:38:23.690] Dans la mesure où il suffirait que la Banque de France dise aux banques résidentes en France de ne plus faire ça pour qu'elles ne le fassent plus.
+[01:38:23.690 --> 01:38:32.690] En effet, contrairement à un mythe assez bien enraciné, les banques commerciales ont peur de l'État et jamais elles ne s'opposeraient à lui frontalement.
+[01:38:33.690 --> 01:38:37.690] Si la Banque de France leur donne un ordre, cet ordre sera suivi d'effet.
+[01:38:37.690 --> 01:38:45.690] Alors, au titre des billets, puisque la France a mis en circulation 100 milliards à peu près, on va garder cet ordre de grandeur, j'ai pas le chiffre récent,
+[01:38:45.690 --> 01:38:58.690] 100 milliards de billets ont été mis en circulation par la Banque de France. Si la Banque de France quitte la zone euro, elle est donc redevable de 100 milliards au titre des billets à ses ex-petites copines.
+[01:38:58.690 --> 01:39:03.690] Mais, rappelez-vous que cette dette-là se décrémente si elle retire de la circulation des billets.
+[01:39:03.690 --> 01:39:10.690] Si elle retire 5 euros de billets, elle ne doit plus que 100 milliards moins 5 et ainsi de suite.
+[01:39:10.690 --> 01:39:16.690] Or, la Banque de France est en position de retirer tous les billets parce que les Français n'ont pas l'habitude de tésoriser leurs billets.
+[01:39:16.690 --> 01:39:23.690] Ça, je le dis pas en l'air, on regarde le comportement des billets tésques en quelque sorte des différents peuples européens
+[01:39:23.690 --> 01:39:28.690] et on voit ceux qui ont été affectés par la crise et ceux qui n'ont pas été affectés par la crise.
+[01:39:28.690 --> 01:39:37.690] Les Français ont conservé le même comportement vis-à-vis de leurs billets après la crise 2008 alors que les Italiens et les Grecs ont adopté un comportement tout à fait différent
+[01:39:37.690 --> 01:39:44.690] dans lequel ils empilaient les billets, ils s'en foutent tout de suite, ils les rangent dans des matelas ou dans des coffres ou les enterrent dans leur jardin.
+[01:39:44.690 --> 01:39:51.690] Donc, de toute façon, on peut s'en rendre compte aussi par le fait que l'économie italienne est plus petite que l'économie française d'un peu.
+[01:39:51.690 --> 01:39:59.690] Elle est un peu plus petite mais que les Italiens ont émis en circulation près du double de billets que la France.
+[01:39:59.690 --> 01:40:04.690] Donc, c'est bien clair qu'il y a des tésoriseurs en Italie mais il n'y en a pas en France.
+[01:40:04.690 --> 01:40:14.690] Et ça, ça veut dire que la Banque de France, quand elle va dire que le billet euro n'a plus cours en France,
+[01:40:14.690 --> 01:40:19.690] il faut rapporter les billets euros et vous aurez la place des billets francs,
+[01:40:19.690 --> 01:40:25.690] en gros, les gens vont le faire parce qu'ils avaient ces billets non pas pour cacher leur petite économie ou pour les mettre en sécurité
+[01:40:25.690 --> 01:40:29.690] mais simplement pour faire leur course et qu'il va bien falloir qu'ils continuent à faire leur course.
+[01:40:29.690 --> 01:40:37.690] Donc, ça veut dire que ces 100 milliards qui ont les répouvantables sont réductibles dans le cas de la France alors que dans le cas de l'Italie, ils ne le sont pas seulement à la moitié.
+[01:40:37.690 --> 01:40:44.690] Donc, je veux bien que la dette totale de la Banque centrale de l'Italie passe de 500 à, disons, 440 mais ça n'ira pas plus bas.
+[01:40:44.690 --> 01:40:46.690] Et 440, c'est déjà de toute façon une catastrophe.
+[01:40:46.690 --> 01:40:52.000] On va sortir avec une admission modique, modérée.
+[01:40:52.000 --> 01:40:56.440] Par contre, ma question, c'était que Smith & Wissor aient voué 500 millions d'euros.
+[01:40:56.440 --> 01:40:58.440] Oui, 500 milliards, 500 milliards.
+[01:40:58.440 --> 01:41:02.440] D'accord, elle ne peut pas les payer mais est-ce qu'elle va pas se faire poursuivre des faits?
+[01:41:02.440 --> 01:41:04.440] Oui, elle peut très bien se faire poursuivre des faits.
+[01:41:04.440 --> 01:41:06.440] Mais ça va être suivi de...
+[01:41:06.440 --> 01:41:08.440] Mais ça va être suivi de rien du tout parce qu'elle ne les a pas.
+[01:41:09.440 --> 01:41:11.440] On ne peut pas tourner un S.
+[01:41:12.440 --> 01:41:14.440] Si, on attend qu'il éclose...
+[01:41:14.440 --> 01:41:16.440] Non, non, il y a un vrai problème.
+[01:41:16.440 --> 01:41:22.440] La Russie a été systématiquement poursuivie sur des convois, des carreaux ou à travers.
+[01:41:22.440 --> 01:41:24.440] Oui, mais là, on parle de sommes beaucoup plus grandes.
+[01:41:24.440 --> 01:41:32.440] Avec cette explication, pourquoi M. Chauve envisageait-il que la dette sorte?
+[01:41:32.440 --> 01:41:34.440] Non, ce n'est pas qu'il envisageait qu'il le souhaite.
+[01:41:34.440 --> 01:41:36.440] La raison pour laquelle il la souhaite, c'est la suivante.
+[01:41:36.440 --> 01:41:38.440] Il sait très bien, comme je l'ai dit d'ailleurs en début de conférence,
+[01:41:38.440 --> 01:41:42.440] que quand la Grèce sera sortie de la zone euro, ce sera le chaos et l'enfer sur terre.
+[01:41:42.440 --> 01:41:45.440] Mais justement, il veut que ça serve d'exemple pour que les autres pays
+[01:41:45.440 --> 01:41:49.440] qui pourraient être tentés d'en faire autant ne le fassent pas.
+[01:41:49.440 --> 01:41:52.440] Il ne veut pas la Grèce parce qu'il a compris que de toute façon, elle ne resterait pas
+[01:41:52.440 --> 01:41:58.440] et qu'il veut rentabiliser la sortie de la Grèce en faisant qu'elle serve à quelque chose de son point de vue.
+[01:41:58.440 --> 01:42:02.440] Et donc de son point de vue, c'est bien de l'exécuter parce qu'à ce moment-là,
+[01:42:02.440 --> 01:42:06.440] au moins, ça servira à effrayer d'éventuels autres candidats.
+[01:42:06.440 --> 01:42:09.440] Mais il sait que la Grèce est perdue, c'est clair.
+[01:42:15.440 --> 01:42:18.440] Oui, la situation est que la Grèce reste dans l'euro.
+[01:42:18.440 --> 01:42:21.440] Mais je ne sais pas jusqu'à quand elle va rester dans l'euro parce que...
+[01:42:21.440 --> 01:42:25.440] Bon, déjà, Chauve ne veut pas qu'elle reste dans l'euro, c'est un point.
+[01:42:25.440 --> 01:42:30.440] Et ensuite, la population grecque est à bout depuis un certain temps.
+[01:42:30.440 --> 01:42:38.980] Je ne sais pas si elle est contenable, c'est-à-dire si on peut la contraindre.
+[01:42:38.980 --> 01:42:41.980] Mais l'avenir le dira comme je l'ai dit en début de conférence,
+[01:42:41.980 --> 01:42:44.980] je ne suis pas capable de lire l'avenir, mais je trouve qu'il y a un risque grec.
+[01:42:52.980 --> 01:42:55.980] Non, pas nécessairement. Je vous assure que si nous, on sort avant,
+[01:42:55.980 --> 01:42:59.980] on ne va pas se mettre la tour de la table après. C'est-à-dire qu'ils se débrouillent entre eux.
+[01:42:59.980 --> 01:43:03.980] Alors l'Italie, elle, c'est celle qui ne peut pas s'en sortir
+[01:43:03.980 --> 01:43:06.980] puisque c'est elle dont la dette commence le problème.
+[01:43:06.980 --> 01:43:09.980] Mais j'ai beau retourner le problème dans ma tête dans tous les sens,
+[01:43:09.980 --> 01:43:12.980] je ne vois aucune façon de récupérer un remboursement raisonnable
+[01:43:12.980 --> 01:43:15.980] pour une somme pareille sur l'Italie. Il n'y a rien à faire quoi.
+[01:43:15.980 --> 01:43:20.980] Ou alors il faudrait occuper militairement le pays et le tondre de façon systématique.
+[01:43:20.980 --> 01:43:23.980] Mais nos critères moraux actuels ne tolèrent plus.
+[01:43:23.980 --> 01:43:27.980] Peut-être que ça aurait été possible au 17ème chèque, mais aujourd'hui ça se fera pas quoi.
+[01:43:31.340 --> 01:43:34.340] Alors ce qui s'est passé, c'est qu'on n'a pas fait attention pendant 15 ans.
+[01:43:34.340 --> 01:43:37.340] Les petits ruisseaux font les grandes rivières.
+[01:43:37.340 --> 01:43:41.340] Si l'Italie était restée en dehors de la zone euro, il ne se serait rien passé
+[01:43:41.340 --> 01:43:46.340] parce que chaque fois que, comme ça, un petit peu d'argent va glisser de l'Italie vers l'Allemagne,
+[01:43:46.340 --> 01:43:50.340] au lieu que ça crée une dette de la Banque centrale de l'Italie vers la Banque centrale de l'Allemagne,
+[01:43:50.340 --> 01:43:54.340] ça aurait simplement un petit peu bougé le cours de la lire contre le Marc.
+[01:43:54.340 --> 01:43:57.340] C'est ça qui aurait absorbé. Et donc aujourd'hui,
+[01:43:57.340 --> 01:44:00.340] la Banque centrale de l'Italie ne serait pas du tout endettée envers la Banque centrale de l'Allemagne,
+[01:44:00.340 --> 01:44:02.340] et évidemment la lire pourrait moins chère.
+[01:44:02.340 --> 01:44:05.340] Mais ça, on est familier avec cette situation.
+[01:44:05.340 --> 01:44:09.340] C'est sa vocation, en quelque sorte, si j'ose dire, de valoir moins chère.
+[01:44:09.340 --> 01:44:12.340] Et c'est aussi pourquoi, le valait moins cher, on peut retourner la question à l'autre sens et dire
+[01:44:12.340 --> 01:44:15.340] comment ça se fait qu'avant, la lire baissait toujours par rapport au Marc ?
+[01:44:15.340 --> 01:44:18.340] Car vous savez qu'avant, la lire baissait toujours par rapport au Marc ?
+[01:44:18.340 --> 01:44:20.340] Vous vous souviendrez de cela ?
+[01:44:20.340 --> 01:44:23.340] Et bien, c'est parce que, justement, ils n'étaient pas en union monétaire.
+[01:44:23.340 --> 01:44:33.340] Et donc, la conclusion est qu'on est aujourd'hui à un stade véritablement inquiétant.
+[01:44:33.340 --> 01:44:35.340] Il peut se produire des catastrophes tout à fait réelles.
+[01:44:35.340 --> 01:44:37.340] On vous les a annoncés depuis longtemps.
+[01:44:37.340 --> 01:44:39.340] Je ne sais pas trop pourquoi on ne nous croyait pas.
+[01:44:39.340 --> 01:44:42.340] Pourtant, il y a des gens parmi nous qui ont une certaine expertise technique.
+[01:44:42.340 --> 01:44:45.340] Moi-même, j'ai une certaine expertise technique, on pourrait me croire.
+[01:44:45.340 --> 01:44:52.340] Mais on est au bord d'un chaos provoqué par ce qui est finalement une construction
+[01:44:52.340 --> 01:44:54.340] qui a été utopique et qui a été mal pensée.
+[01:44:54.340 --> 01:45:00.340] Je préconise que la seule solution raisonnable est de se carapater avant que ça nous attache,
+[01:45:00.340 --> 01:45:02.340] avant que ça nous touche.
+[01:45:02.340 --> 01:45:06.340] Ça ne permettra pas d'éviter tous les problèmes parce que le fait que
+[01:45:06.340 --> 01:45:10.340] les pays voisins soient touchés compte tenu que l'on a des relations commerciales avec eux,
+[01:45:10.340 --> 01:45:14.340] ça va nous impacter aussi, mais au moins, on amortira le choc.
+[01:45:14.340 --> 01:45:18.340] C'est pourquoi les Français devraient considérer le Frexit non seulement
+[01:45:18.340 --> 01:45:22.340] comme une possibilité bienvenue, non seulement comme quelque chose d'impliqué
+[01:45:22.340 --> 01:45:26.340] par le recouvrement de la souveraineté nationale,
+[01:45:26.340 --> 01:45:30.340] mais encore et d'abord comme une urgence pour éviter un ennui très grave.
+[01:45:30.340 --> 01:45:35.340] Et je rappelle qu'il n'y a que notre parti politique qui propose ce Frexit pur et bien.
+[01:45:35.340 --> 01:45:39.340] Tous les autres, même s'ils sont présentés par les médias comme europhobes,
+[01:45:39.340 --> 01:45:44.340] proposent en fait des projets qui sont fondés sur la renégociation,
+[01:45:44.340 --> 01:45:47.340] la modification de l'existence et jamais la sortie.
+[01:45:47.340 --> 01:45:50.340] Et donc, c'est très important d'avoir ça en tête.
+[01:45:50.340 --> 01:45:53.340] Si vous êtes convaincus de ce que je vous ai raconté n'est pas une invention,
+[01:45:53.340 --> 01:45:56.340] le seul vote raisonnable, c'est le vote pour Mont-Candido.
