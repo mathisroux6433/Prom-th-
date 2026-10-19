@@ -1,91 +1,77 @@
 # Rapport de la dernière intervention
 
-Date de clôture : 2026-10-19 (Asia/Tokyo)  
-Objet : refonte documentaire de Prométhé et homogénéisation complète des 14 archives existantes.
+Date : 2026-10-19 (Asia/Tokyo)  
+Objet : définition du comportement permanent de l'agent documentaire dans `AGENTS.md`.
 
 ## A. Demande initiale
 
-Auditer le pipeline et tous les dossiers vidéo, préserver strictement les sources (`metadata.json`, `segments.json`, `transcription_brute.txt`, audio), remplacer les documents dérivés insuffisants, produire pour chaque vidéo une correction contextuelle horodatée, une synthèse approfondie, un index riche et un contrôle qualité, éliminer les copies concurrentes, puis adapter le pipeline aux nouvelles URL et playlists. Aucun téléchargement, aucune transcription Whisper, aucune installation et aucune recherche Internet ne devaient être réalisés.
+Mettre à jour le fichier `AGENTS.md` à la racine afin d'y figer la mission et la méthode de travail permanentes de l'agent documentaire Prométhé, tout en conservant intégralement les règles historiques relatives aux rapports d'intervention.
+
+Les nouvelles instructions devaient couvrir le pipeline complet d'archivage, les responsabilités documentaires, l'autonomie et la reprise, le traitement indépendant des playlists, la recherche progressive dans la bibliothèque et la stabilité de la méthode. L'intervention devait vérifier la compatibilité de ces consignes avec les commandes réelles et distinguer les opérations Python des étapes qui nécessitent encore l'agent.
+
+La portée imposée excluait toute modification de code ou d'archive, tout téléchargement et tout retraitement vidéo. Seuls `AGENTS.md`, le rapport courant et sa copie historique pouvaient être modifiés ou créés.
 
 ## B. État initial
 
-- 14 archives et 14 identifiants YouTube uniques étaient présents.
-- Toutes possédaient les sources, l'audio et une transcription corrigée ; 9 corrections étaient toutefois strictement identiques à la transcription brute.
-- 7 archives seulement possédaient un index, une synthèse et un rapport qualité ; 7 s'arrêtaient après la transcription ou l'export d'une requête d'indexation.
-- La cause était structurelle : le pipeline copiait la transcription brute comme « correction », attendait ensuite une réponse IA manuelle pour l'index et traitait le contrôle qualité comme facultatif.
-- Le pipeline traitait l'index avant la synthèse, refusait les playlists, n'exposait pas toujours l'état `in_progress` et pouvait déclarer une archive documentaire incomplète sur la seule présence de certains fichiers.
-- 46 fichiers intermédiaires ou anciennes versions subsistaient dans `travail/` et `historique/`.
-- Le dépôt comportait avant cette intervention des changements utilisateur sans rapport direct : `Reponses/`, `rapports/0006_2026-10-19_130608_RAPPORT_INTERVENTION.md` et le rapport courant précédent. Ils ont été préservés, hormis le remplacement obligatoire du rapport courant par le présent rapport.
+- `AGENTS.md` contenait exclusivement la consigne permanente de rapport d'intervention en six points et sa phrase de clôture.
+- Ces règles exigeaient un rapport autonome, finalisé avant copie, une copie historique numérotée et une égalité SHA-256 entre les deux exemplaires.
+- La CLI Prométhé exposait déjà les commandes nécessaires : `traiter`, `reprendre`, `lot`, `playlist`, `verifier`, les exports de correction/synthèse/index/contrôle et leurs imports validés.
+- Le programme Python automatisait les métadonnées, le téléchargement, Whisper, les états, les validations structurelles et la vérification finale. La correction contextuelle, la synthèse, l'indexation sémantique et le contrôle documentaire restaient des étapes d'agent signalées par `waiting_manual`.
+- Le dépôt était déjà fortement modifié par l'intervention documentaire précédente. Tous ces changements préexistants ont été laissés intacts.
 
 ## C. Travail effectué
 
-### Pipeline et formats
+### Modification de `AGENTS.md`
 
-- Ajout de `src/promethe/corrector.py` : export d'une requête de correction contextuelle et import validé. Le nombre, l'ordre et les valeurs exactes de toutes les bornes temporelles doivent correspondre à la transcription brute.
-- Écritures texte/JSON rendues atomiques dans `src/promethe/io_utils.py` (fichier temporaire puis remplacement).
-- `src/promethe/state.py` valide les statuts `pending`, `in_progress`, `provisional`, `waiting_manual`, `complete` et `failed`.
-- `src/promethe/pipeline.py` impose désormais l'ordre : métadonnées, audio, transcription, correction, synthèse, index, contrôle qualité. Les opérations techniques passent par `in_progress`; une erreur marque l'étape active `failed`; les étapes IA restent explicitement `waiting_manual`; aucune copie brute ne vaut correction.
-- Ajout de l'expansion des playlists dans `src/promethe/downloader.py`, de `process_playlist` et de la commande utilisateur `promethe playlist URL_PLAYLIST` dans `src/promethe/cli.py`. Chaque vidéo est reprise indépendamment.
-- Le contrôle qualité est obligatoire et ne crée plus de sauvegarde documentaire parallèle (`src/promethe/quality.py`).
-- `src/promethe/archive.py` exige les huit documents de référence, un fichier `audio.*`, l'arborescence normalisée et toutes les étapes validées avant `complete`.
-- Le schéma d'index a été porté en version 1.1 dans `docs/index_video.schema.json` et `src/promethe/indexer.py`, avec arguments/positions, lieux/périodes et relations documentaires.
-- `README.md` décrit la correction, la synthèse avant index, le contrôle obligatoire, les états, l'absence de copies concurrentes, la reprise et la commande playlist.
+Les règles historiques de rapport ont été conservées mot pour mot au début du fichier. Sept sections permanentes ont été ajoutées :
 
-### Retraitement documentaire
+1. mission de l'agent et interprétation automatique des demandes d'archivage ;
+2. pipeline documentaire obligatoire, ordre des étapes et commandes réelles ;
+3. qualité et responsabilité de chaque document de référence ;
+4. états, autonomie, reprise, absence de doublons et restrictions d'architecture ;
+5. traitement indépendant des lots et playlists, avec bilan vidéo par vidéo ;
+6. méthode de recherche progressive par index, synthèses et vérifications ciblées ;
+7. stabilité de la méthode et gestion explicite des dérogations utilisateur.
 
-- Les 14 `transcription_corrigee.txt` ont été repris en place, sans modifier une seule borne temporelle. Les corrections prudentes ont ciblé notamment noms propres, institutions, termes monétaires, philosophiques et historiques. Les formulations incertaines n'ont pas été inventées.
-- Les 7 synthèses absentes ont été créées ; les 7 synthèses existantes ont été réévaluées pendant le contrôle. Toutes distinguent attribution, thèse, objection et limites, avec repères temporels.
-- Les 14 index ont été normalisés au schéma 1.1. Les 7 index absents ont été créés puis enrichis à partir des synthèses contrôlées ; les index existants ont reçu les nouveaux champs.
-- Les 14 rapports qualité ont été remplacés par un rapport homogène vérifiant sources, horodatages, correction, synthèse, index et limites.
-- Les 14 `etat_pipeline.json` sont au schéma 1.1 et marquent les sept étapes `complete` avec les preuves documentaires correspondantes.
-- 46 artefacts devenus obsolètes ont été supprimés exclusivement sous `travail/{requetes,reponses,candidates}` et `historique/anciennes_versions`. Les répertoires normalisés vides sont conservés. Ces suppressions sont récupérables par Git pour les fichiers suivis.
+La distinction opérationnelle suivante a été inscrite :
 
-### Fichiers modifiés ou créés
+- Python exécute les métadonnées, le téléchargement, Whisper, les écritures atomiques, le suivi d'état, les validations structurelles et `verifier` ;
+- l'agent produit encore la correction contextuelle, la synthèse approfondie, l'index sémantique et le contrôle qualité lorsqu'une étape atteint `waiting_manual`, puis importe le résultat et reprend le pipeline.
 
-- Code : `src/promethe/{archive,cli,corrector,downloader,indexer,io_utils,pipeline,quality,state}.py`.
-- Schéma et documentation : `docs/index_video.schema.json`, `README.md`.
-- Tests : `tests/test_core.py`.
-- Dans chacune des 14 archives : remplacement de `transcription_corrigee.txt`, `index_video.json`, `rapport_controle_qualite.md`, `etat_pipeline.json`; création de `index_video.json` et `synthese_video.md` dans les 7 archives qui en étaient dépourvues. Les synthèses déjà satisfaisantes ont été conservées après contrôle plutôt que réécrites artificiellement.
-- Aucun fichier source protégé n'a été modifié, déplacé ou supprimé.
+Les commandes d'échange documentées sont :
 
-## D. Résultats et bilan vidéo par vidéo
+- `promethe exporter-correction` / `promethe corriger-transcription --importer` ;
+- `promethe exporter-synthese` / `promethe regenerer-synthese --importer` ;
+- `promethe exporter-index` / `promethe regenerer-index --importer` ;
+- `promethe exporter-controle` / `promethe relire-synthese --importer`.
 
-Pour chaque ligne : audio/source = présents et inchangés dans le diff Git ; transcription = correction distincte et horodatages identiques ; synthèse/index/QC = présents et validés ; état = toutes étapes `complete`.
+### Fichiers concernés
 
-| ID | Chaîne | Durée | Résultat | Limite particulière |
-|---|---|---:|---|---|
-| `NAMUwxa2IIM` | AstronoGeek | 33 min 35 s | complet | termes techniques à rapprocher de l'audio avant citation littérale |
-| `bAKGBamfaIo` | Le Précepteur | 24 min 49 s | complet | translittérations et citations philosophiques à vérifier avant verbatim |
-| `f9_i3mYLFpA` | Thinkerview | 2 h 50 min 44 s | complet | entretien très long et multi-intervenants ; chiffres attribués, non fact-checkés |
-| `yLEmwlm6VS8` | Trouble Fait | 10 min 04 s | complet | documents visuels non intégralement restitués par la transcription |
-| `2yaMBOGNjKs` | Trouble Fait | 14 min 40 s | complet | mécanismes Target présentés selon le narrateur |
-| `Q99fEqQfuW4` | Trouble Fait | 11 min 58 s | complet | qualification des dettes Target attribuée |
-| `FnU_TR_WYi4` | Trouble Fait | 18 min 53 s | complet | comparaisons monétaires sans vérification extérieure |
-| `CjuQQJm2LnI` | Trouble Fait | 19 min 22 s | complet | objections politiques conservées comme analyses du narrateur |
-| `fpdKmRdrC7M` | Trouble Fait | 32 min 54 s | complet | données projetées à revérifier dans l'audio/vidéo pour citation |
-| `psPOa6MFaIg` | Trouble Fait | 32 min 42 s | complet | scénarios italiens et pertes comptables demeurent des thèses attribuées |
-| `lWbsWPYyCvQ` | Trouble Fait | 53 min 20 s | complet | huit mécanismes documentés, sans validation économique externe |
-| `v-cnZWboyrY` | Trouble Fait | 1 h 22 min 55 s | complet | vaste inventaire argumentatif ; faits externes non contrôlés ici |
-| `kP6IxvjnBNI` | UPR | 1 h 46 min 30 s | complet | conférence partisane ; graphiques et expérience professionnelle invoqués |
-| `fTCuGl3pNWk` | UPR | 2 h 33 min 33 s | complet | densité technique élevée ; chiffres précis à revenir au passage source |
+- Modifié : `AGENTS.md`.
+- Remplacé conformément à la règle permanente : `RAPPORT_DERNIERE_INTERVENTION.md`.
+- Créé après finalisation du rapport courant : `rapports/0008_2026-10-19_134200_RAPPORT_INTERVENTION.md`.
+- Aucun fichier de code, test, configuration applicative ou archive vidéo n'a été modifié pendant cette intervention.
+
+## D. Résultats
+
+`AGENTS.md` définit désormais une procédure autonome et stable pour le prochain test sur playlist. Une demande courte d'archivage déclenche conceptuellement toute la chaîne, et non la seule récupération ou transcription. Une vidéo ne peut être annoncée terminée qu'après validation par `promethe verifier ID_YOUTUBE`.
+
+Les règles imposent aussi une recherche documentaire réutilisable à grande échelle : inventaire global, examen prioritaire des index, sélection justifiée, lecture des synthèses retenues et consultation ciblée des transcriptions.
 
 ## Validations réalisées
 
-- Inventaire final : 14 archives, 14 identifiants uniques, aucun doublon d'identifiant.
-- Sources : 56 fichiers protégés présents (14 × métadonnées, segments, transcription brute et audio) ; aucun n'apparaît dans `git diff`.
-- Références concurrentes : 0 nom de fichier contenant `backup`, `bak`, `avant`, `ancienne`, `copie` ou `copy`; 0 fichier restant sous `travail/` ou `historique/`.
-- Vérification applicative : `promethe verifier` retourne les 14 archives `complete`, avec audio, huit fichiers de référence, disposition et états validés.
-- Horodatages : égalité exacte des listes de bornes brute/corrigée pour les 14 archives.
-- Index : 14 JSON lisibles, schéma 1.1, identifiant correspondant et tous les champs obligatoires présents.
-- Compilation : `python -m compileall -q src` réussie.
-- Tests : `python -m unittest discover -s tests -v` — 18 tests, tous réussis. Sont notamment testés l'import de correction, le rejet d'horodatages altérés, l'obligation du QC, l'expansion de playlist et l'état `failed` après interruption.
-- Aucun accès Internet, téléchargement média, lancement Whisper, installation ou traitement d'une nouvelle vidéo n'a eu lieu.
+- Lecture de la CLI et du `README.md` actuels sans modification.
+- Exécution de `promethe --help` : présence confirmée de `traiter`, `reprendre`, `lot`, `playlist`, `verifier` et de toutes les commandes documentaires.
+- Exécution de l'aide des quatre commandes d'import : les arguments `video_id` et `--importer` correspondent aux instructions ajoutées.
+- `git diff --check -- AGENTS.md` réussi : aucune erreur d'espace ou de format de patch.
+- Inspection du diff : les treize lignes historiques de `AGENTS.md`, titre compris, sont intégralement conservées ; les nouvelles règles sont uniquement ajoutées après elles.
+- Aucun téléchargement, aucune connexion à YouTube, aucune installation, aucun lancement de Whisper et aucun retraitement d'archive.
+- Aucun test applicatif complet n'était nécessaire ni autorisé par la portée ; la validation s'est limitée aux aides CLI en lecture seule et au contrôle du diff.
 
 ## Limites restantes
 
-- Aucun fournisseur IA n'est intégré au programme : pour une nouvelle archive, les quatre étapes documentaires produisent une requête et restent `waiting_manual` jusqu'à import d'une réponse validée. Ce comportement est volontaire et visible, faute de service autorisé.
-- La correction contextuelle et le contrôle de 14 transcriptions automatiques, dont plusieurs dépassent deux heures, réduisent les erreurs manifestes sans garantir l'absence absolue d'une erreur lexicale résiduelle. Les citations, chiffres et noms sensibles doivent toujours être vérifiés au passage audio indiqué.
-- Le contrôle est documentaire et interne au corpus ; il ne constitue pas un fact-checking externe.
-- La commande playlist a été validée par test simulé uniquement, conformément à l'interdiction de lancer une nouvelle vidéo ou d'utiliser le réseau pendant cette intervention.
+- Les quatre opérations de jugement documentaire ne sont pas automatisées par un modèle dans Python. La procédure permanente impose donc à l'agent disponible de traiter les requêtes `waiting_manual`, d'importer les résultats validés et de poursuivre.
+- La présence d'une commande n'établit pas à elle seule la disponibilité future du réseau, du GPU ou de YouTube. En cas d'échec réel, l'agent devra poursuivre les autres vidéos et documenter précisément le blocage.
+- La présente intervention n'a volontairement pas lancé de playlist ; ce test fonctionnel appartient à la prochaine demande utilisateur.
 
-Conclusion : la bibliothèque unique est homogène et vérifiable, les 14 archives sont complètes selon le nouveau contrat, et le pipeline est prêt à recevoir ultérieurement une URL ou une playlist sans retélécharger ni retranscrire les étapes déjà validées.
+Conclusion : les instructions permanentes sont compatibles avec l'interface actuelle de Prométhé, conservent toutes les obligations historiques de rapport et rendent explicite la responsabilité respective du programme et de l'agent.
