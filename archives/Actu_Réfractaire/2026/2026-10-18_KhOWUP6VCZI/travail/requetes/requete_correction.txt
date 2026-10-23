@@ -1,0 +1,280 @@
+Corrige contextuellement la transcription horodatée ci-dessous.
+
+Règles obligatoires : conserve exactement une ligne par segment et exactement les deux horodatages de chaque ligne ; ne résume pas ; ne reformule pas le registre oral ; corrige seulement les erreurs de reconnaissance établies par le contexte (noms propres, institutions, lieux, événements, termes techniques et expressions manifestement mal reconnues). Si une forme reste incertaine, conserve-la et ajoute immédiatement `[incertain]`. Retourne uniquement la transcription complète corrigée.
+
+MÉTADONNÉES :
+{'schema_version': '1.0', 'id': 'KhOWUP6VCZI', 'title': "17 OCTOBRE : C'ÉTAIT MAGNIFIQUE ! 😍 (On recommence samedi ?)", 'channel': 'Actu Réfractaire', 'channel_id': 'UCFemKOoYVrTGUhuVzuNPt4A', 'upload_date': '20261018', 'duration_seconds': 1035, 'webpage_url': 'https://www.youtube.com/watch?v=KhOWUP6VCZI', 'description': "🔴Soutiens Actu Réfractaire ici : https://fr.tipeee.com/lecanardrefractaire\n\n✊  PARTICIPEZ AUX ACTIONS POUR LE CANARD ✊ \nINSTA : https://www.instagram.com/channel/AbY1IgoGACJehBrb/?igsh=MWl6ZDZweXg4dXp1Zg==\nWHATAPP : https://chat.whatsapp.com/J9xgJDkoYC5B562WzWOURf?mode=gi_t\n\n------------------\n👉Paypal : contact@lecanardrefractaire.org \n👉Chèque : Le canard réfractaire - 13 rue Edouard Ollivro - 22200 Guingamp\nNous ne relevons pas des articles 200 & 238bis du code général des impôts, donc pas de déduction fiscale possible pour le moment\n📝Trésorerie : https://docs.google.com/spreadsheets/d/1sXx2VQeueU3oelsVMS9lulGK7LqxMHO31m-IsU3KFHY/edit?gid=1748302227#gid=1748302227\n\n------------------\n🔊 ECOUTER LE PODCAST : \nDEEZER : https://www.deezer.com/fr/show/1000236005\nSPOTIFY : https://open.spotify.com/show/06cApMIWNAB5v1otC0IjKm\n\n------------------\n📱NOS RÉSEAUX : \nTélégram : https://t.me/CanardRefractaire\nSnapchat : https://www.snapchat.com/add/canarefractaire\nInsta : https://www.instagram.com/lecanardrefractaire/\nTwitter : https://twitter.com/canard_media\nTiktok : https://www.tiktok.com/@canardrefractaire\nMail : contact@lecanardrefractaire.org\n\n------------------\nSOURCES : https://docs.google.com/document/d/1HTBjl5QPlXzFtE6-08JGBpncxufguVwcp2UtwWJor_4/edit?usp=sharing\n\n🦆 l'équipe sur cette vidéo : \nEcriture : Nina Aymeric\nTournage : Yohan\nMontage : Yohan\n\n------------------\nMUSIQUE : \nIntro/outro :  @Lamiseultoutseul  \nChaine : https://www.youtube.com/channel/UChTFvv0UlicW2tZyyWt8jpw\nDernier son : https://www.youtube.com/watch?v=xCEi2ljlSGk\n\nEFFET : \nTransition : https://www.youtube.com/watch?v=cwnzygvHhGM\n\n#actu #actualité #information #journal #france #monde\n\nLogo & Monogramme AR © Studio Poil de Chameau\n------------------\nL'équipe complète du Canard Réfractaire : \nCamille, Yohan, Nina, Aymeric, Debbie, Pixel, Betsy, Antoine, Kuro, Sibylle, Glu, Noémie, Maxime, Agit Prod, Nico, Jad, Moran, Paul", 'language': 'fr-FR'}
+
+TRANSCRIPTION BRUTE :
+[00:00:00.000 --> 00:00:01.000] La journée d'hier.
+[00:00:01.000 --> 00:00:03.280] Voilà, c'était quelque chose les gars.
+[00:00:03.280 --> 00:00:06.040] Bon, nous n'étions à Rennes et on va vous raconter tout ce qui s'est passé et on va
+[00:00:06.040 --> 00:00:11.000] rentrer en détail aussi dans le débat sur les pillages, les violences, les trucs qui
+[00:00:11.000 --> 00:00:12.000] ont décramé, machin.
+[00:00:12.000 --> 00:00:15.360] Donc on va vraiment rentrer dans le détail mais sur Canard Réfractaire très bientôt.
+[00:00:15.360 --> 00:00:18.560] Non non, aujourd'hui là ce qu'on va faire, c'est qu'on va faire un tour d'horizon des
+[00:00:18.560 --> 00:00:23.320] actions qui ont eu lieu ce 17 octobre, notamment les actions pacifiques et vous allez voir
+[00:00:23.320 --> 00:00:24.880] qu'il y en a eu des tonnes magnifiques.
+[00:00:24.880 --> 00:00:25.880] Et on va commencer à Paris.
+[00:00:26.000 --> 00:00:30.960] Voilà, il y avait un cortège qui était déclaré qu'il devait traverser Paris.
+[00:00:30.960 --> 00:00:34.760] Bizarrement, étrangement ça n'a pas du tout été suivi, d'ailleurs à l'hier du matin
+[00:00:34.760 --> 00:00:35.760] il y avait des trucs qui se passaient.
+[00:00:35.760 --> 00:00:40.000] Il n'y avait qu'à voir Vendôme, à l'Elysée, ou même dans les champs, dans ces lieux du
+[00:00:40.000 --> 00:00:43.400] pouvoir et du fric là où on n'a pas le droit d'aller normalement.
+[00:00:43.400 --> 00:00:47.440] Et puis regardez-moi ensuite ces cortèges qui se rejoignent et explosent de joie.
+[00:00:47.440 --> 00:00:51.080] 110 000 personnes, rien qu'à Paris et c'est les chiffres de la préfecture.
+[00:00:51.080 --> 00:00:55.640] En vrai en France on était près de 800 000 selon les organisateurs, enfin organisateurs,
+[00:00:55.680 --> 00:00:59.720] il faut se rappeler quand même que à la base c'était une blague tout ça, le 17 octobre
+[00:00:59.720 --> 00:01:02.920] personne n'a appelé vraiment ce truc là, les syndicats se sont raccrochés vite fait
+[00:01:02.920 --> 00:01:08.040] mais ça a juste tourné entre nous sur TikTok et ça a suffi pour rassembler 800 000 personnes
+[00:01:08.040 --> 00:01:09.840] parce que c'était au bon moment pour les bonnes raisons.
+[00:01:09.840 --> 00:01:13.680] Non mais regarde à République ces images magnifiques avec une rue noire de monde.
+[00:01:13.680 --> 00:01:16.160] Il y a même un copain qui nous a envoyé ces images vers 15h.
+[00:01:16.160 --> 00:01:20.440] A 15h30 le cortège descend vers la Bastille tout en se séparant à plein d'endroits.
+[00:01:20.440 --> 00:01:25.600] Et à 18h, bien après la fin de la manif déclarée, des cortèges spontanés y étaient
+[00:01:25.600 --> 00:01:27.080] encore jusqu'à tard dans la nuit.
+[00:01:27.080 --> 00:01:30.360] Et évidemment c'était la même chose dans toute la France, dans toutes les grandes villes.
+[00:01:30.360 --> 00:01:34.680] A Marseille ça démarre tôt avec le rond-point du Prado avec des gilets jaunes qui étaient
+[00:01:34.680 --> 00:01:38.600] déjà là et t'as des centaines de lycéens qui débarquent pour les rejoindre.
+[00:01:38.600 --> 00:01:41.080] L'après midi c'est des dizaines de milliers de personnes dans la rue.
+[00:01:41.080 --> 00:01:44.760] Au point où t'as un habitué sur X qui nous dit qu'il n'a jamais vu autant de monde en
+[00:01:44.760 --> 00:01:45.760] manif.
+[00:01:45.760 --> 00:01:50.360] La préfecture elle, elle a compté 7000 à 8000 émeutiers, pas des manifestants, des
+[00:01:50.360 --> 00:01:53.760] émeutiers donc un mélange de gilets jaunes et de lycéens, c'est comme ça qu'ils les
+[00:01:53.760 --> 00:01:54.760] appellent.
+[00:01:54.760 --> 00:01:59.160] Et évidemment la télé vous a surtout montré les vitrines barricadées, machin machin.
+[00:01:59.160 --> 00:02:03.400] En vérité la rue était pleine de 20 000 personnes selon les autorités donc beaucoup
+[00:02:03.400 --> 00:02:04.400] plus en vrai.
+[00:02:04.400 --> 00:02:07.440] Et fin d'après midi la place des terreaux est encore noire de monde.
+[00:02:07.440 --> 00:02:12.720] A Toulouse la CGT compte 80 000 personnes et parle carrément de déferlante, ça a débandé
+[00:02:12.720 --> 00:02:14.400] au delà de tout ce qui était prévu.
+[00:02:14.400 --> 00:02:18.240] À Nantes ces 20 000 personnes selon les autorités c'est du jamais vu depuis les retraites,
+[00:02:18.240 --> 00:02:21.320] en vrai ça dépasse largement les lycéens, aujourd'hui c'est tout le monde qui y va.
+[00:02:21.320 --> 00:02:25.560] À Strasbourg la place Kleber était pleine à craquer et comme à l'habitude là-bas
+[00:02:25.560 --> 00:02:26.720] ça chante la marseillaise.
+[00:02:26.720 --> 00:02:36.830] Et le soir la foule ne s'arrête pas à la préfecture, non elle marche jusqu'au parlement
+[00:02:36.830 --> 00:02:39.790] européen puisque le message ne s'adresse pas seulement à Paris.
+[00:02:39.790 --> 00:02:42.390] Alors dans les médias on vous parle des grandes villes et des violences mais il y a beaucoup
+[00:02:42.390 --> 00:02:45.270] de choses qui se passaient à côté dans les villes plutôt moyennes.
+[00:02:45.270 --> 00:02:49.830] En Bretagne ça bloquait des ronds-points dès 6h30 du mat, à Rennes plus d'un millier
+[00:02:49.830 --> 00:02:53.430] de personnes bloquent le rond-point de clonets et ça au début d'après-midi.
+[00:02:53.430 --> 00:02:57.870] Regardez-moi la place de la république là, au moins le ph était carrément gratuit,
+[00:02:57.870 --> 00:02:58.870] merci beaucoup les gars.
+[00:02:58.870 --> 00:03:03.070] À Arles le cortège se baladait sur l'autoroute, à Amiens c'est entre 15 000 et 20 000 personnes
+[00:03:03.070 --> 00:03:07.110] qui se sont réunies, à Angers plus de 10 000, à La Rochelle c'est 6 000 personnes
+[00:03:07.110 --> 00:03:11.190] sur l'arrocade et regardez ces belles images de Lille ou encore de Dunkerque.
+[00:03:11.190 --> 00:03:14.830] Ah oui il y a Saint-Brieu aussi où les lycéens et les syndicalistes ont fait la jonction
+[00:03:14.830 --> 00:03:19.310] et à Auxerre c'est carrément les agriculteurs en tracteur qui ouvrent le cortège.
+[00:03:19.310 --> 00:03:23.470] A Montbellard plus d'un millier et ça monte encore, ça allait jusqu'à Bayonne où l'autoroute
+[00:03:23.470 --> 00:03:27.310] a été bloquée, et même à Dublain devant l'ambassade de France, c'est quand même
+[00:03:27.310 --> 00:03:28.470] fou ce qu'on est capable de faire.
+[00:03:28.470 --> 00:03:31.550] Et puis évidemment la télé parle que des vitrines parce qu'il faut avoir de l'empathie
+[00:03:31.550 --> 00:03:34.550] sur les vitrines, c'est comme ça qu'on sauve la république évidemment, sauf qu'en réalité
+[00:03:34.550 --> 00:03:38.350] t'as eu des images qui étaient magnifiques et évidemment elles ne tournent pas en boucle
+[00:03:38.350 --> 00:03:39.350] sur les chaînes de télé.
+[00:03:39.350 --> 00:03:43.070] Et du coup on va en parler ici sur Canard évidemment en commençant par la petite bande-son du
+[00:03:43.070 --> 00:03:44.070] mouvement.
+[00:03:57.200 --> 00:04:01.400] Ça c'était l'Orchestre du Nouveau Monde à 400 musiciens pour mettre l'ambiance.
+[00:04:01.400 --> 00:04:04.120] Et quand les Lacrimos arrivent ils se passent quoi ? Eh bien ils continuent à jouer.
+[00:04:16.700 --> 00:04:21.380] À Manusque c'est ronde et fanfare au péage gratuit, à Gap eh ben ça danse, à Angoulême
+[00:04:21.380 --> 00:04:23.540] c'est carrément la fanfare qui bloque le rond-point.
+[00:04:23.540 --> 00:04:27.700] Au Havre mardi, Medin improvise un concert devant la Maison des Syndicats.
+[00:04:27.700 --> 00:04:41.060] Et d'ailleurs vous avez vu il y avait Gradur aussi qui finissait un concert la veille à
+[00:04:41.060 --> 00:04:45.100] Bercy et tout le monde avait sur scène un beau petit gilet jaune, voilà c'est ça la
+[00:04:45.100 --> 00:04:46.100] France qu'on aime.
+[00:04:46.100 --> 00:04:47.500] Ensuite il y a eu le défilé des costumes.
+[00:04:47.500 --> 00:04:51.780] Les élèves de l'école Boulle ont fabriqué un cheval de trois géants et ils l'ont fait
+[00:04:51.780 --> 00:04:53.420] défiler dans les rues de Paris.
+[00:04:53.420 --> 00:04:56.340] À Montpellier des chevaliers en armure avaient prévu de venir.
+[00:04:56.340 --> 00:04:59.620] Et il y a même Spiderman qui distribue des serviettes hygiéniques oui oui.
+[00:04:59.620 --> 00:05:04.020] Et regardez cette image magnifique, peut-être la plus belle d'entre toutes, la statue de
+[00:05:04.020 --> 00:05:10.220] la République donc à Paris avec un gilet jaune inscrit « 2026, la police mutile les
+[00:05:10.260 --> 00:05:14.700] lycéens ». Voilà, vous voulez nous cacher les violences de la police, nous on va les
+[00:05:14.700 --> 00:05:16.580] mettre sur les plus belles statues de Paris.
+[00:05:16.580 --> 00:05:19.500] Ah oui à Paris t'as aussi Batman et le Kringer qui sont de la partie.
+[00:05:19.500 --> 00:05:21.620] En vrai partout c'était la fête.
+[00:05:21.620 --> 00:05:25.700] Bon arrête évidemment t'avais un petit mur de sons de teuf mais c'était quand même
+[00:05:25.700 --> 00:05:27.300] pas mal, on a pu taper du pied c'était cool.
+[00:05:27.300 --> 00:05:31.060] Et puis quoi de plus beau que de se marier ce 17 octobre ?
+[00:05:31.060 --> 00:05:44.980] À Saint-Pierre-de-la-Réunion on danse le Maloya devant la sous-préfecture.
+[00:05:44.980 --> 00:05:47.860] En messe c'est une battle d'horreur devant un millier de spectateurs.
+[00:05:47.900 --> 00:05:51.340] À Paris place de cliché, à l'arrivée du cortège, nouvelle battle d'horreur évidemment.
+[00:05:51.340 --> 00:05:54.700] À Grenoble des manifestants piquent carrément le train touristique.
+[00:05:54.700 --> 00:05:58.140] Et vu sous cet angle, c'est encore plus drôle, c'est vraiment comique ce mouvement.
+[00:05:58.140 --> 00:06:02.300] Et si vous étiez à Paris c'est l'appart à 5 euros pour trinquer pour le dernier jour
+[00:06:02.300 --> 00:06:03.300] du Macron.
+[00:06:03.300 --> 00:06:07.060] Et Nina allait-elle à Morlaix où plus de 3000 personnes se sont détournées du trajet
+[00:06:07.060 --> 00:06:09.180] habituel pour aller bloquer les voies de chemin de fer.
+[00:06:09.180 --> 00:06:21.490] Et puis bloquer quelques ronds pour avoir tout ça dans une ambiance incroyable et puis
+[00:06:21.490 --> 00:06:25.050] après c'est le retour à un village solidaire avec des concerts, une garderie pour les
+[00:06:25.050 --> 00:06:29.050] petits choux, une gratuiterie et une cantine pour nous régaler.
+[00:06:29.050 --> 00:06:32.290] Vraiment Morlaix digne de sa réputation, on n'en parlera jamais assez de Morlaix sur
+[00:06:32.290 --> 00:06:33.290] Actu refactor.
+[00:06:33.290 --> 00:06:36.130] Et puis oui il y a d'ailleurs à Morlaix mais c'est pareil dans plein de villes, tout ça
+[00:06:36.130 --> 00:06:38.010] s'est passé sans violence.
+[00:06:38.010 --> 00:06:41.930] D'ailleurs point commun dont on parlera sur la prochaine vidéo là, il n'y avait pas
+[00:06:41.930 --> 00:06:45.850] de flics à Morlaix, vraiment très peu, même à Rennes il y avait très très peu de flics,
+[00:06:45.850 --> 00:06:49.650] étrangement on a pu faire un peu tout ce qu'on voulait, on va revenir là-dessus un
+[00:06:49.650 --> 00:06:52.250] peu sur ce que ça veut dire politiquement de pourquoi est-ce que ça s'est passé de
+[00:06:52.250 --> 00:06:55.490] cette façon mais voilà, petite information comme ça pour vous teaser la prochaine vidéo.
+[00:06:55.490 --> 00:06:58.690] Après des fois il y avait des flics mais on les a fait reculer comme ici à Angoulême.
+[00:06:58.690 --> 00:07:02.410] Et regardez là, c'est carrément une voiture de police qui recule face à la foule.
+[00:07:02.410 --> 00:07:06.610] Et puis il y a ces images que vous ne verrez jamais sur CNews, comme un pompier qui prend
+[00:07:06.610 --> 00:07:08.890] feu alors tout le monde se précipite pour l'aider.
+[00:07:08.890 --> 00:07:11.890] Ailleurs des manifestants empêchent un homme de s'en prendre à un camion de pompier.
+[00:07:11.890 --> 00:07:15.130] Un peu bizarre d'ailleurs, pourquoi est-ce qu'il s'en prend au camion de pompier ? Étrange
+[00:07:15.130 --> 00:07:17.130] hein ? Vraiment bizarre.
+[00:07:17.130 --> 00:07:18.130] Bizarre bizarre.
+[00:07:18.130 --> 00:07:22.170] Et il y a un motard aussi qui sert d'escorte aux pompiers à travers la foule.
+[00:07:22.170 --> 00:07:23.170] C'est magnifique.
+[00:07:23.170 --> 00:07:27.810] Et partout les barrages s'ouvrent le temps de laisser passer les pompiers sous les applaudissements.
+[00:07:27.810 --> 00:07:29.850] Et puis ils se renferment juste derrière parce qu'il ne faut pas déconner quand
+[00:07:29.850 --> 00:07:30.850] même.
+[00:07:30.850 --> 00:07:34.650] Et oui à Marseille mais même à Rennes, partout en fait la foule les acclame et partout aussi
+[00:07:34.650 --> 00:07:36.250] on prend soin les uns des autres.
+[00:07:36.250 --> 00:07:39.370] Avec des petits gestes invisibles qu'aucune caméra télé ne filme.
+[00:07:39.370 --> 00:07:42.330] Et nous on était en manifestation à Rennes, je vous raconte ça mais en gros on était
+[00:07:42.330 --> 00:07:46.530] avec Fred et Olivier et à un moment ils reçoivent une grenade tu vois et ça explose sur les
+[00:07:46.530 --> 00:07:47.530] pieds de Fred.
+[00:07:47.530 --> 00:07:51.610] Elle reçoit un petit bout de déclat comme ça qui lui ripe la jambe direct à des street
+[00:07:51.610 --> 00:07:54.890] médics qui l'ont pris, qui l'ont isolé, qui l'ont soigné mais vraiment comme
+[00:07:54.890 --> 00:07:57.490] il faut qu'ils ont pris soin d'elle et au final tout va bien.
+[00:07:57.490 --> 00:07:59.810] Et vraiment c'est plein de petits gestes comme ça où dès que tu as quelqu'un qui
+[00:07:59.810 --> 00:08:05.130] n'est pas bien, hop ça balance du Sérum Fils, ça aide, ça accompagne s'il y a des
+[00:08:05.130 --> 00:08:06.130] malaises ou quoi que ce soit.
+[00:08:06.130 --> 00:08:09.010] Tu as une auto-gestion dans ces groupes qui sont incroyables.
+[00:08:09.010 --> 00:08:13.330] Ce qui fait que même quand tu as des lacrimaux, des Gli F4 qui explosent etc, tu ne te sens
+[00:08:13.330 --> 00:08:14.330] jamais en danger.
+[00:08:14.330 --> 00:08:17.010] C'est assez particulier comme ambiance, on en reparlera dans la prochaine vidéo mais
+[00:08:17.010 --> 00:08:19.730] tu ne te sens jamais en danger tellement tu as une solidarité qui est forte là-dedans.
+[00:08:19.730 --> 00:08:22.410] Bon bref, on reprend le fil de nos actions là.
+[00:08:49.730 --> 00:09:03.090] Un manoeuvre que sur un rond-point, c'est même plus vivre, c'est la survie.
+[00:09:03.090 --> 00:09:14.160] A Paris, une infirmière libérale, et cette phrase qui répond à tous les plateaux télé
+[00:09:14.160 --> 00:09:15.160] de la journée.
+[00:09:15.160 --> 00:09:54.970] À Bordeaux, le cortège lycéen étudiant-travailleur ne demande qu'une chose, et Brut a pris aussi
+[00:09:54.970 --> 00:09:57.290] le temps de tendre leur micro et écouter-les.
+[00:09:57.290 --> 00:10:01.530] Mon fils, il n'a pas de porte au lycée, aux toilettes, voyez pourquoi on se bat contre
+[00:10:01.530 --> 00:10:02.530] la merde.
+[00:10:02.530 --> 00:10:09.210] On est là, il vous casse et tout.
+[00:10:09.210 --> 00:10:10.970] Alors dis-moi, qu'est-ce qui t'amène ici aujourd'hui ?
+[00:10:10.970 --> 00:10:15.450] C'est juste des prix, des prix de base pour se nourrir.
+[00:10:15.450 --> 00:10:16.970] C'est un peu compliqué de parler, je ne sais pas si on m'entend bien.
+[00:10:16.970 --> 00:10:17.970] C'est chaud hein là.
+[00:10:17.970 --> 00:10:19.970] Ouais la base, c'est assez chaud.
+[00:10:19.970 --> 00:10:22.970] Parcours supôtiques, il y a un vrai carnage, on ne sait même pas ce qu'on veut faire à
+[00:10:22.970 --> 00:10:23.970] 18 ans.
+[00:10:23.970 --> 00:10:25.970] En classe, comme ça, on trouve que c'est assez compliqué.
+[00:10:25.970 --> 00:10:26.970] La orientation.
+[00:10:27.450 --> 00:10:31.650] Et pendant ce temps-là, si vous étiez dans les médias de propagande des puissants, que
+[00:10:31.650 --> 00:10:35.850] ce soit d'état ou du privé, au final ils ont à peu près le même discours, vous avez
+[00:10:35.850 --> 00:10:39.370] pu entendre le discours de Le Cornu, voilà notre premier ministre, oui c'est lui, notre
+[00:10:39.370 --> 00:10:40.370] premier ministre.
+[00:10:40.370 --> 00:10:41.370] Il a dit pas mal de trucs.
+[00:10:41.370 --> 00:10:45.010] En vrai, ça a commencé dès la veille, avec BFM, où ils disent oui, ça redoute des actes
+[00:10:45.010 --> 00:10:46.010] de violence.
+[00:10:46.010 --> 00:10:49.130] À Lyon, on vous montre surtout les commerçants qui se barricadent, et dans l'après-midi,
+[00:10:49.130 --> 00:10:51.810] la préfecture de police de Paris donne le ton sur X.
+[00:10:51.810 --> 00:10:55.170] Plusieurs centaines d'individus hostiles demeurent place de la République pour s'en
+[00:10:55.170 --> 00:10:58.090] prendre aux forces de l'ordre et de secours et tout brûler.
+[00:10:58.090 --> 00:11:01.650] Avec des images, des voitures qui brûlent, des kiosques qui brûlent en boucle.
+[00:11:01.650 --> 00:11:04.570] Donc en gros, les manifestants c'est tous des casseurs, les casseurs c'est tous des
+[00:11:04.570 --> 00:11:10.570] gens démoniaques qui brûlent le pays parce qu'ils sont anarchistes, et en fait tout
+[00:11:10.570 --> 00:11:13.210] ça c'est contrôlé par les filles, parce qu'évidemment au bout du bout c'est la faute
+[00:11:13.210 --> 00:11:14.210] des filles.
+[00:11:14.210 --> 00:11:17.610] Sur France Info, le maire de Saint-Denis-Bali-Bagaïoko s'adresse directement au lycère.
+[00:11:26.170 --> 00:11:30.730] Sur RMC, t'as une camarade de la CGT qui renvoie le gouvernement à ses responsabilités.
+[00:11:30.730 --> 00:11:35.170] Il faut que le gouvernement fasse très attention parce qu'on ne peut pas répondre à une mobilisation
+[00:11:35.170 --> 00:11:38.930] sociale à partir de la place Beauvau, à partir du ministère de l'Intérieur, il faut des
+[00:11:38.930 --> 00:11:43.170] réponses politiques, il faut que le gouvernement apporte des réponses politiques sur son
+[00:11:43.170 --> 00:11:46.570] budget, sur la question des salaires, sur le blocage des prix du carburant.
+[00:11:46.570 --> 00:11:51.170] A Sud Radio, Damien, ouvrier et gilet jaune marseillais résument tout en une seule phrase.
+[00:11:55.170 --> 00:12:17.690] Dans la presse locale, Oman, Marco, 67 ans, gilet jaune de la première heure, explique
+[00:12:17.690 --> 00:12:19.170] qu'il est venu pour nos jeunes.
+[00:12:19.170 --> 00:12:22.370] Et même le commandant de la CRS-8 a appelé ses troupes à...
+[00:12:22.370 --> 00:12:39.370] Et le soir même, Serfia, pas franchement un média militant, doit admettre que de
+[00:12:39.370 --> 00:12:41.570] nombreuses manifestations se sont déroulées sans heurts.
+[00:12:41.570 --> 00:12:45.130] Mais encore une fois, on va revenir là-dessus plus en détail sur notre prochaine vidéo
+[00:12:45.130 --> 00:12:46.130] sur Canard.
+[00:12:46.130 --> 00:12:49.570] On va rentrer dans le tas et on va prendre position fermement là-dessus, vous allez voir,
+[00:12:49.570 --> 00:12:50.570] ça va être cool.
+[00:12:50.570 --> 00:12:52.970] Mais pour l'instant, c'est l'heure de la conclusion de tout ce qui s'est passé à
+[00:12:52.970 --> 00:12:53.970] peu près là.
+[00:12:53.970 --> 00:12:57.610] Le cornu, il voit dans cette journée une volonté très organisée de frapper fort, avec des
+[00:12:57.610 --> 00:13:00.490] centaines de milliers de personnes dans la rue et pour lui c'est l'ultra gauche.
+[00:13:00.490 --> 00:13:04.730] Et il le dit lui-même, les forces de police sont totalement dépassées, ils ne pourront
+[00:13:04.730 --> 00:13:06.290] pas tenir plusieurs jours.
+[00:13:06.290 --> 00:13:09.890] Donc plus on va tenir de l'autre côté, plus ça va être facile de les faire plier
+[00:13:09.890 --> 00:13:10.890] de l'autre.
+[00:13:10.890 --> 00:13:14.290] Et oui, dans les cortèges, on est beaucoup beaucoup beaucoup à ne pas avoir envie d'attendre
+[00:13:14.290 --> 00:13:19.210] le 5 novembre avec les directions syndicales pour faire les petites marches habituelles.
+[00:13:19.210 --> 00:13:22.210] D'ailleurs, il y en a qui parlent du 24, c'est-à-dire de samedi prochain.
+[00:13:22.210 --> 00:13:25.250] Voilà, on reprend le rythme des manifs tous les samedis, ça vous dit pas ça ?
+[00:13:25.250 --> 00:13:28.970] D'ailleurs, dès ce dimanche, les lycéens tiennent leur deuxième coordination nationale
+[00:13:28.970 --> 00:13:30.690] et les étudiants leur toute première.
+[00:13:30.690 --> 00:13:34.210] L'appel est parti de l'agé de Grenoble et il y a une pétition qui circule déjà pour
+[00:13:34.210 --> 00:13:35.890] l'amnistie des lycéens poursuivis.
+[00:13:35.890 --> 00:13:38.050] Et on partage ce cheminot qui était là lui aussi.
+[00:13:38.050 --> 00:13:43.130] Sur une brèche, et en fait c'est le moment aussi de taper tous ensemble, les lycéens,
+[00:13:43.130 --> 00:13:48.250] ils nous montrent la voie, vraiment ils nous montrent la voie de où il faut aller, vers
+[00:13:49.210 --> 00:13:52.930] Et donc là, le mot d'ordre, c'est pas de savoir oui, est-ce que c'est bien, non,
+[00:13:52.930 --> 00:13:54.490] non, c'est de rentrer dans la bataille les gars.
+[00:13:54.490 --> 00:13:57.530] On va tous rentrer dans la bataille à notre façon mais on va le faire.
+[00:13:57.530 --> 00:14:01.290] On a chacun et chacune un rôle à jouer, que ce soit dans les manifs, dans les affrontements
+[00:14:01.290 --> 00:14:05.130] pour faire un manger, pour garder les enfants, pour faire de la musique et motiver les troupes
+[00:14:05.130 --> 00:14:09.730] ou organiser des actions directes en zoom zoom et même parler autour de nous pour convaincre
+[00:14:09.730 --> 00:14:11.450] ou pour préparer l'élection à venir.
+[00:14:11.450 --> 00:14:15.330] A chacun nos méthodes mais on a une colère qui est commune, pourquoi ? Parce qu'on fait
+[00:14:15.330 --> 00:14:16.330] partie du même camp.
+[00:14:16.370 --> 00:14:19.530] Et c'est peut-être ça le truc le plus important au final qu'il faut retenir pour aujourd'hui,
+[00:14:19.530 --> 00:14:22.730] c'est que pendant des années et des années voire des décennies, on nous a promis que
+[00:14:22.730 --> 00:14:26.530] des trucs macabres, de la crise écologique, la crise de la dette, maintenant la crise
+[00:14:26.530 --> 00:14:29.330] de l'IA, tout est en train de brûler partout parce que le réchauffement climatique et
+[00:14:29.330 --> 00:14:32.130] les guerres et on aura pu se résigner face à tout ça.
+[00:14:32.130 --> 00:14:35.130] D'autant plus qu'on a déjà voulu changer le système, on les a fait les grèves,
+[00:14:35.130 --> 00:14:38.050] on les a fait les élections, on les a fait les manifestations, on les a déjà bloqué
+[00:14:38.050 --> 00:14:42.250] les ronds-points, on aura pu se dire on a tout essayé, on arrête là, c'est terminé.
+[00:14:42.290 --> 00:14:45.330] Et la prochaine génération, ils ont quasiment se démerdé, sauf que ça s'est pas passé
+[00:14:45.330 --> 00:14:46.330] comme ça.
+[00:14:46.330 --> 00:14:48.490] Parce que la prochaine génération, ils ont vu tout ce qu'on a fait, ils se sont dit
+[00:14:48.490 --> 00:14:51.770] c'est comme ça qu'on résiste en fait, c'est comme ça qu'on est français, c'est
+[00:14:51.770 --> 00:14:54.130] en faisant tout ce qu'ils ont fait déjà les vieux avant, on va faire exactement la
+[00:14:54.130 --> 00:14:55.130] même chose.
+[00:14:55.130 --> 00:14:59.090] Et là samedi, on les a rejoint et on s'est solidarisé avec eux.
+[00:14:59.090 --> 00:15:03.090] Même si on a échoué sur plein de manifs, sur plein de blocages, on continue à être
+[00:15:03.090 --> 00:15:05.810] là, à se relever et à mener bataille ensemble.
+[00:15:05.810 --> 00:15:10.290] Au point où nous avons réussi à poser par nous-mêmes cette date du 17 octobre, de nous
+[00:15:10.330 --> 00:15:13.850] organiser partout dans le pays pour faire une des plus grandes dates de mobilisation
+[00:15:13.850 --> 00:15:14.850] de ces dernières années.
+[00:15:14.850 --> 00:15:19.130] Nous n'avons jamais été aussi mûres et mâtures pour mener ce genre d'action.
+[00:15:19.130 --> 00:15:23.690] Une brèche est ouverte et croyez-moi, on va aider des milliers et des milliers à pas
+[00:15:23.690 --> 00:15:26.250] se contenter de la regarder cette brèche, mais à s'y engouffrer.
+[00:15:26.250 --> 00:15:30.250] Et donc les samedis, peut-être que ça peut être le jour de nos manifs, de nos actions
+[00:15:30.250 --> 00:15:34.530] et de créer tous ces endroits où finalement eux ne peuvent plus gouverner, ne peuvent
+[00:15:34.530 --> 00:15:38.770] plus diriger, ne peuvent plus réprimer parce qu'on sera suffisamment nombreux pour agir
+[00:15:38.770 --> 00:15:41.330] tous ensemble et transformer cette société en profondeur.
+[00:15:41.330 --> 00:15:45.290] Sachant qu'au même moment, la Gen Z du monde entier bat le pavé en Inde, en Espagne, au
+[00:15:45.290 --> 00:15:47.530] Mexique, en Italie, en Albanie, à Bruxelles.
+[00:15:47.530 --> 00:15:51.970] Mais ça aussi, on vous en parlera dans les jours à venir sur ActuRefractaire, donc pensez
+[00:15:51.970 --> 00:15:56.570] à vous abonner, très important, sur ActuRefractaire et sur CanardRefractaire pour suivre l'évolution
+[00:15:56.570 --> 00:15:58.010] de ce mouvement historique.
+[00:15:58.010 --> 00:16:02.930] Et les pillages, on les condamne avec une plus grande fermeté, c'est la République
+[00:16:02.930 --> 00:16:03.930] qui est attaquée.
+[00:16:03.930 --> 00:16:06.130] Ou pas, vous allez voir ça bientôt.
+[00:16:06.210 --> 00:16:09.450] A l'écriture, c'était Aymeric et Nina, aujourd'hui je me suis occupé du montage
+[00:16:09.450 --> 00:16:12.850] et c'est Nina aussi qui s'occupe de la miniature, j'espère que ça vous a plu et c'est le
+[00:16:12.850 --> 00:16:16.930] premier épisode de toute une série de vidéos sur le 17 et la suite, évidemment on sera
+[00:16:16.930 --> 00:16:20.290] en fond dedans, vous nous connaissez au CanardRefractaire, on adore ce qui est en train de se passer
+[00:16:20.290 --> 00:16:23.810] et on va faire en sorte de vous le couvrir dans la façon la plus unique et la plus utile
+[00:16:23.810 --> 00:16:24.810] possible.
+[00:16:24.810 --> 00:16:27.490] Pensez surtout à partager cette vidéo, c'est le plus important aujourd'hui pour que les
+[00:16:27.490 --> 00:16:31.610] gens connaissent véritablement ce que nous avons tous collectivement organisé dans cette
+[00:16:31.610 --> 00:16:35.250] journée historique au-delà de tout ce que nous présente la télé de propagande.
+[00:16:35.370 --> 00:16:39.530] Et pour soutenir notre média assez unique dans son approche à la fois sur le terrain
+[00:16:39.530 --> 00:16:42.970] et pour vous donner une vision d'ensemble et puis pour rentrer un peu dans la théorie,
+[00:16:42.970 --> 00:16:46.170] dans l'analyse, on fait tout ça aujourd'hui, les mouvements sociaux, on adore ça donc
+[00:16:46.170 --> 00:16:49.770] on est dans notre petit cocon là, on va vous préparer de belles choses mais pour ça il
+[00:16:49.770 --> 00:16:52.890] nous faut de l'argent pour pouvoir continuer à travailler tous les jours, tous les jours
+[00:16:52.890 --> 00:16:56.430] donc il y a le Tipeee qui est en description ce qui nous permet d'être totalement indépendants
+[00:16:56.430 --> 00:17:00.330] de l'Etat et des milliardaires et donc de produire ce genre de contenu de résistance.
+[00:17:00.330 --> 00:17:03.690] Bon, AmirRefractaire, hier c'était incroyable et j'espère qu'il y aura une suite très
+[00:17:03.690 --> 00:17:06.010] rapidement donc à la manif des bisous.

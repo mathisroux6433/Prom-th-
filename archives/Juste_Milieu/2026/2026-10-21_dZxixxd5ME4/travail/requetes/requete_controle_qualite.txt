@@ -1,0 +1,382 @@
+Effectue un contrôle qualité documentaire de la synthèse ci-dessous.
+
+Compare-la uniquement à l'index et à la transcription corrigée archivés. N'effectue aucun fact-checking externe. Contrôle les chiffres, dates, pourcentages, populations statistiques, inversions de sens, raisonnements déformés, attributions, horodatages, citations exactes, arguments importants omis et la cohérence avec l'index.
+
+Corrige seulement les erreurs confirmées par les sources. Ne réécris pas inutilement les passages conformes. Si une incertitude ne peut pas être tranchée, conserve la formulation prudente. Retourne uniquement un objet JSON strict suivant cette structure :
+{
+  "schema_version": "1.0",
+  "video_id": "dZxixxd5ME4",
+  "verdict": "conforme ou corrigee",
+  "problems": [
+    {
+      "category": "chiffre|date|population|sens|attribution|horodatage|citation|omission|coherence",
+      "severity": "mineure|importante|critique",
+      "description": "problème constaté",
+      "source_evidence": "preuve précise tirée des sources archivées",
+      "timestamp": "HH:MM:SS ou chaîne vide",
+      "correction": "correction effectuée ou recommandée"
+    }
+  ],
+  "revised_synthesis": "texte Markdown intégral, ou @file:nom_du_fichier.md"
+}
+
+Le champ revised_synthesis doit toujours contenir le document Markdown complet : corrigé si nécessaire, sinon identique. Pour une synthèse très longue, il peut contenir `@file:nom_du_fichier.md` et le fichier Markdown doit être placé à côté du JSON de réponse ; seuls les noms de fichiers simples sont acceptés. Le verdict vaut "conforme" si aucune correction n'est requise, "corrigee" si des corrections ont été appliquées.
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "dZxixxd5ME4",
+  "title": "La vérité sur le 17 OCTOBRE",
+  "channel": "Juste Milieu.",
+  "channel_id": "UCXh5HwvbyfD-GUVHLng9aGQ",
+  "upload_date": "20261021",
+  "duration_seconds": 555,
+  "webpage_url": "https://www.youtube.com/watch?v=dZxixxd5ME4",
+  "description": "Le 17 octobre, ils ont protégé des CHOCOLATS. 🍫\n\nDate annoncée depuis un mois, gouvernement pris au dépourvu, Louvre moins gardé que les chocolateries. On vous raconte.\n\n📩 Rejoignez le canal Telegram Juste Milieu ⏩ https://t.me/+iAouqlEPm7wwYTFk \n\nToute l'actualité Juste Milieu est à retrouver sur : https://juste-milieu.fr/\n\nSuivez Juste Milieu sur : \n\n🔥 Facebook = https://www.facebook.com/JusteMilieu0/\n📚 Twitter = https://twitter.com/JusteMilieu3\n📷  Instagram = https://www.instagram.com/justemilieu_off/\n🎥 TikTok = https://www.tiktok.com/@juste.milieu?lang=fr\n📩 Mail : remy@juste-milieu.fr\n\n#17Octobre #HumourPolitique #Macron",
+  "language": "fr-FR"
+}
+
+SYNTHÈSE À RELIRE :
+# La vérité sur le 17 octobre
+
+- **Chaîne :** Juste Milieu
+- **Date :** 21 octobre 2026
+- **Durée :** 9 min 15 s
+- **URL :** https://www.youtube.com/watch?v=dZxixxd5ME4
+
+## Objet et ton
+
+Cette courte chronique humoristique revient sur les incohérences perçues dans la gestion du 17 octobre. Le présentateur dit ne pas comprendre comment un événement annoncé depuis un mois a pu surprendre le gouvernement, tandis que certains commerces auraient été davantage protégés que des institutions ou sites majeurs.
+
+## Revendications et cadrage
+
+Au [début](https://www.youtube.com/watch?v=dZxixxd5ME4&t=0s), la chronique juxtapose manifestations, émeutes et déclarations politiques. Elle critique les réactions concluant trop vite que la journée n'avait aucune revendication ([2:03](https://www.youtube.com/watch?v=dZxixxd5ME4&t=123s)). Le format ne cherche pas à dresser un inventaire exhaustif des demandes : il utilise la satire pour souligner le décalage entre discours officiels et préparation matérielle.
+
+## Responsabilités et priorités
+
+Le cœur du propos est que les mêmes causes et responsables sont invoqués de manière répétitive sans expliquer les choix opérationnels ([4:00](https://www.youtube.com/watch?v=dZxixxd5ME4&t=240s)). La description résume l'image centrale : des chocolateries protégées alors que le Louvre aurait été moins gardé. Cette comparaison est un procédé polémique destiné à questionner les priorités, non une analyse complète de tous les dispositifs.
+
+Les références culturelles et plaisanteries, dont une allusion aux *Valseuses*, rythment la critique ([6:03](https://www.youtube.com/watch?v=dZxixxd5ME4&t=363s)). La conclusion imagine avec ironie la position du responsable chargé d'assumer les décisions de sécurité ([8:00](https://www.youtube.com/watch?v=dZxixxd5ME4&t=480s)).
+
+La vidéo défend donc moins une thèse causale précise qu'un constat d'incohérence : anticipation publique de la date, surprise affichée par le pouvoir, protection sélective et récit médiatique simplifié.
+
+
+INDEX DOCUMENTAIRE :
+{
+  "arguments_positions": [
+    {
+      "position": "Le gouvernement ne pouvait ignorer une date annoncée depuis un mois",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "position": "Le récit d'une mobilisation sans revendications est trop simplificateur",
+      "horodatages": [
+        "00:02:03"
+      ]
+    },
+    {
+      "position": "Les priorités de protection paraissent incohérentes",
+      "horodatages": [
+        "00:04:00",
+        "00:08:00"
+      ]
+    }
+  ],
+  "citations_exactes": [],
+  "concepts": [
+    {
+      "nom": "satire politique",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "nom": "priorités sécuritaires",
+      "horodatages": [
+        "00:08:00"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "17 octobre 2026",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "chocolateries mieux protégées que le Louvre",
+      "horodatages": [
+        "00:08:00"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "Louvre",
+      "niveau": "mention",
+      "horodatages": [
+        "00:08:00"
+      ]
+    },
+    {
+      "nom": "France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "17 octobre",
+    "gouvernement",
+    "anticipation",
+    "chocolateries",
+    "Louvre",
+    "revendications",
+    "humour politique"
+  ],
+  "organismes": [
+    {
+      "nom": "gouvernement français",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "mention",
+      "horodatages": [
+        "00:04:00"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "date annoncée",
+      "relation": "contraste avec",
+      "cible": "surprise gouvernementale",
+      "horodatages": [
+        "00:00:00"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:03:00",
+      "titre": "Incompréhension et revendications"
+    },
+    {
+      "debut": "00:03:00",
+      "fin": "00:06:00",
+      "titre": "Responsabilités répétées"
+    },
+    {
+      "debut": "00:06:00",
+      "fin": "00:09:15",
+      "titre": "Satire des priorités sécuritaires"
+    }
+  ],
+  "resume_general": "Chronique satirique sur l'impréparation apparente de l'État et l'incohérence des protections lors du 17 octobre.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "référence au film Les Valseuses",
+      "horodatages": [
+        "00:06:03"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "gestion gouvernementale du 17 octobre",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "theme": "cadrage des revendications",
+      "horodatages": [
+        "00:02:03"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "17 octobre",
+      "variantes": [
+        "événements",
+        "mobilisation"
+      ]
+    }
+  ],
+  "video_id": "dZxixxd5ME4"
+}
+
+
+TRANSCRIPTION CORRIGÉE :
+[00:00:00.000 --> 00:00:03.560] Alors moi, le 17 octobre, j'ai absolument rien compris.
+[00:00:03.560 --> 00:00:06.940] Bon alors j'ai essayé de regarder comme tout le monde les infos pour voir un peu ce
+[00:00:06.940 --> 00:00:11.280] qui s'était passé, les incendies, les manifs, les pillages et tout, et là j'ai vu que
+[00:00:11.280 --> 00:00:15.400] des journalistes qui chialaient en disant « ouais il y a des gens, ils se sont dissimulés
+[00:00:15.400 --> 00:00:18.880] pour piller les français ». Au début je croyais qu'ils parlaient du conseil des ministres.
+[00:00:18.880 --> 00:00:24.400] Bon alors si on essaie de récapituler le bordel, le gouvernement n'était pas prêt.
+[00:00:24.400 --> 00:00:28.980] Alors que ça fait un mois qu'on leur a dit, la date du 17 octobre, elle a été annoncée
+[00:00:28.980 --> 00:00:32.820] je ne sais pas par qui, et les médias sont en boucle depuis un mois en disant « ça
+[00:00:32.820 --> 00:00:36.780] va déborder, ça va déborder, ça va déborder ». Résultat, ça a débordé.
+[00:00:36.780 --> 00:00:40.700] Tout avait été annoncé au gouvernement, je veux dire ils étaient en conduite accompagnée.
+[00:00:40.700 --> 00:00:42.660] Et ben ils ont quand même réussi à foirer.
+[00:00:42.660 --> 00:00:47.140] Si tu veux, c'est l'équivalent de quand tu rates un coloriage avec des contours, que
+[00:00:47.140 --> 00:00:52.180] vraiment tu débordes de partout, que ta coccinelle à la fin elle ressemble à Roselyne Bachelot,
+[00:00:52.180 --> 00:00:53.620] ben t'as trop débordé.
+[00:00:53.620 --> 00:00:55.580] Bon ben là, ils ont beaucoup débordé.
+[00:00:55.580 --> 00:00:58.540] Mais c'est vrai qu'il y a eu des trucs bizarres dans ces manifestations.
+[00:00:58.660 --> 00:01:02.340] Moi j'ai regardé la télé comme tout le monde, on a vu des mecs, ils ont braqué des
+[00:01:02.340 --> 00:01:03.340] francs prix.
+[00:01:03.340 --> 00:01:08.380] Tu te fais chier à outrepasser la loi pour prendre un petit écolier ! On dirait Brigitte
+[00:01:08.380 --> 00:01:09.380] Macron.
+[00:01:09.380 --> 00:01:12.540] Bon après, j'ai vu aussi à la télé que les pillards, ils n'avaient pas touché aux
+[00:01:12.540 --> 00:01:16.660] produits à base de porc, et aux albums de Patrick Bruel, il y a peut-être un lien.
+[00:01:16.660 --> 00:01:19.580] Bon par contre, il y en a qui ont dormi tranquille, c'est les libraires.
+[00:01:19.580 --> 00:01:22.940] Alors là, les libraires, ils étaient peinards, ils ont pu faire des gros dodo.
+[00:01:22.940 --> 00:01:25.740] Bon en même temps, c'est pas étonnant que les gens ne s'en prennent pas au livre.
+[00:01:25.740 --> 00:01:29.660] Ça fait des décennies qu'on explique que vous allez devenir quelqu'un de meilleur
+[00:01:29.660 --> 00:01:31.300] en achetant un t-shirt Louis Vuitton.
+[00:01:31.300 --> 00:01:34.940] Bon alors au passage, tu les voles aussi, parce que la marge de Louis Vuitton sur ton
+[00:01:34.940 --> 00:01:36.820] t-shirt, c'est le PIB de la Thaïlande.
+[00:01:36.820 --> 00:01:40.740] Tu voles les consommateurs à chaque passage en caisse, donc c'est vrai que les pillages
+[00:01:40.740 --> 00:01:43.700] dans les magasins de luxe, j'ai tendance à appeler ça un match nul.
+[00:01:43.700 --> 00:01:47.500] Mais c'est un peu le résumé de l'époque, hein, à trop vouloir faire croire aux gens
+[00:01:47.500 --> 00:01:51.460] que la consommation était la seule manière possible d'être heureux, bah ils ont fini
+[00:01:51.460 --> 00:01:52.460] par le croire.
+[00:01:52.460 --> 00:01:56.220] Peut-être qu'un jour tout le monde va finir par comprendre que dans la vie on est plus
+[00:01:56.220 --> 00:01:59.740] heureux avec Zadig de Voltaire qu'habiller en Zadig et Voltaire.
+[00:01:59.740 --> 00:02:03.940] Bon alors côté peuple, les médias ont essayé d'éteindre le truc, tu vois, ils ont dit
+[00:02:03.940 --> 00:02:08.620] très vite « oui, toute façon le 17 octobre c'est de la merde, il n'y a pas de revendications ».
+[00:02:08.620 --> 00:02:12.980] Bah c'est pas qu'il n'y a pas de revendications, c'est qu'il y a 68 millions de français.
+[00:02:12.980 --> 00:02:16.140] À chaque manifestation, il y a trop de revendications.
+[00:02:16.140 --> 00:02:19.820] Bah déjà l'argument premier de tous les français, quel que soit le sujet, quelle que
+[00:02:19.820 --> 00:02:24.660] soit la cause, l'argument premier c'est « oh putain ». Le français il se lève,
+[00:02:24.660 --> 00:02:27.780] sa première revendication c'est « putain ». Peut-être pour ça qu'on en a mis
+[00:02:27.780 --> 00:02:28.780] au pouvoir d'ailleurs.
+[00:02:28.780 --> 00:02:32.060] Non mais je veux dire, c'est complètement dingue d'attendre des français qu'ils
+[00:02:32.060 --> 00:02:34.340] aient à peu près tous la même revendication.
+[00:02:34.340 --> 00:02:38.620] En France, ça fait des siècles qu'on a des débats aussi puissants que « pain au chocolat
+[00:02:38.620 --> 00:02:43.180] ou chocolatine ». Et t'attendre ces gens-là qu'ils aient une revendication sociale unique,
+[00:02:43.180 --> 00:02:47.060] ça n'a pas de sens, il n'y a aucun mouvement populaire en France où des millions de français
+[00:02:47.060 --> 00:02:50.380] avaient la même revendication, même pendant la révolution.
+[00:02:50.380 --> 00:02:52.980] Voilà, demande aux Vendéens, il y a eu un désaccord.
+[00:02:52.980 --> 00:02:57.300] Et politiquement c'est pas mieux, les politiciens non plus ils ont pas les mêmes revendications,
+[00:02:57.300 --> 00:02:58.620] puis c'est pas toujours très clair.
+[00:02:58.620 --> 00:03:01.980] Les mecs de droite ils te disent « ouais y a trop de fonctionnaires, faut économiser
+[00:03:01.980 --> 00:03:05.220] l'argent public ». Bah quand ça part en cacahuètes, ils se plaignent qu'il n'y a pas assez de
+[00:03:05.220 --> 00:03:06.220] flics.
+[00:03:06.220 --> 00:03:08.820] Et la gauche c'est pareil, ils te disent « ouais de toute façon il faudrait plus
+[00:03:08.820 --> 00:03:12.180] de fonctionnaires pour faire fonctionner le pays ». Quand les fonctionnaires de police
+[00:03:12.180 --> 00:03:14.260] font le boulot et leur mettent sur la gueule, ils sont pas contents.
+[00:03:14.260 --> 00:03:18.500] Mais là où on est balèze en France quand même avec cette histoire de 17 octobre, c'est
+[00:03:18.500 --> 00:03:21.100] qu'on a inventé les manifestations quantiques.
+[00:03:21.100 --> 00:03:25.300] Ouais, c'est la première fois parce qu'en fait les manifestations en France c'est
+[00:03:25.300 --> 00:03:27.100] la faute de tout le monde et personne.
+[00:03:27.100 --> 00:03:30.620] En même temps, c'est à dire qu'avant le 17 octobre, avant même que ça parte en
+[00:03:30.620 --> 00:03:35.140] cacahuètes terribles, tout le monde connaissait déjà le coupable, enfin SON coupable.
+[00:03:35.140 --> 00:03:39.380] La gauche accusait les riches, la droite accusait la France insoumise, l'extrême droite
+[00:03:39.380 --> 00:03:42.340] accusait les arabes, BFM accusait les russes.
+[00:03:42.340 --> 00:03:46.420] Oui là je peux vous dire que la France elle déroule le tapis rouge à Matryoshka, Matryoshka
+[00:03:46.420 --> 00:03:50.860] ça vient du terme « poupée russe », c'est cette machine de désinformation russe qui
+[00:03:50.860 --> 00:03:52.140] exploite nos fractures.
+[00:03:52.140 --> 00:03:57.040] C'est quand même dingue, la moindre manifestation en France, en fait les gens y vont pour conforter
+[00:03:57.040 --> 00:04:00.700] ce qu'ils pensent déjà et que quoi qu'il arrive, c'est de toute façon toujours le
+[00:04:00.700 --> 00:04:02.180] même coupable, toujours la même cause.
+[00:04:02.180 --> 00:04:05.660] Ah ben ceux qui dirigent en haut, je peux te dire qu'ils ont pas de problème d'insomnie
+[00:04:05.660 --> 00:04:06.660] avec ces conneries.
+[00:04:06.660 --> 00:04:10.340] En France, nos manifestations c'est un peu comme un match amical, ça compte pas et ça
+[00:04:10.340 --> 00:04:11.340] change rien au classement.
+[00:04:11.340 --> 00:04:15.380] Alors heureusement, heureusement en France, nos politiciens sont là pour prendre des
+[00:04:15.380 --> 00:04:16.380] mesures.
+[00:04:16.380 --> 00:04:19.060] Ils ont pris la mesure de la gravité de la situation.
+[00:04:19.060 --> 00:04:23.300] On a eu une ministre par exemple le 19 octobre, elle s'est dit « putain là faut faire
+[00:04:23.300 --> 00:04:26.260] quelque chose, la France part en couille », elle a décidé de se déguiser en abat-jour.
+[00:04:30.260 --> 00:04:34.140] Et dans l'opposition c'est pas mieux, on a eu des débats de très haut niveau pour
+[00:04:34.140 --> 00:04:39.700] répondre à la situation en France, Sébastien Chenu du RN sur Twitter, il a demandé à
+[00:04:39.700 --> 00:04:43.500] Marine Tandelier, enfin il lui a écrit le 17 octobre, il a écrit « ferme la STP ».
+[00:04:43.500 --> 00:04:45.500] Et réponse de Marine Tandelier, non.
+[00:04:45.500 --> 00:04:47.940] D'or tranquille Jean Jaurès, le pays est bien tenu.
+[00:04:47.940 --> 00:04:52.020] Ah il y en a eu un autre, je ne sais pas si vous vous rappelez, Cédric Hau, il était
+[00:04:52.020 --> 00:04:57.100] secrétaire d'État chargé de la transition du numérique et des stabilos boss fluo, il
+[00:04:57.100 --> 00:05:02.060] était ministre il y a 4 ans, environ sous Macron, le 19 octobre, donc 2 jours après
+[00:05:02.060 --> 00:05:05.860] la grande folie, il a fait un grand tuite parce qu'il s'est recyclé dans les affaires,
+[00:05:05.860 --> 00:05:09.540] enfin il s'est recyclé, c'est le principe des ordures, et il a parlé de la pâte à
+[00:05:09.540 --> 00:05:10.380] proutes.
+[00:05:10.380 --> 00:05:15.140] Si si, il travaille sur un projet d'entreprise qui fait des trucs pour concurrencer la pâte
+[00:05:15.140 --> 00:05:18.820] à proutes, et il a écrit une phrase par exemple comme « face à une telle concurrence, c'est
+[00:05:18.820 --> 00:05:21.340] sûr, sur le terrain des proutes, la pâte gagne ».
+[00:05:21.340 --> 00:05:25.580] Donc le pays a feu à sang et on a un ancien ministre qui évoque la pâte à proutes.
+[00:05:25.580 --> 00:05:28.620] Bon tu me diras, c'est pas étonnant, la pâte à proutes c'est comme un ministre
+[00:05:28.620 --> 00:05:31.820] de Macron, quand tu mets les doigts dedans c'est rigolo, mais globalement c'est vrai
+[00:05:31.820 --> 00:05:32.820] que ça sert à rien.
+[00:05:32.820 --> 00:05:35.740] Non mais on n'est pas aidé, on n'est pas aidé en France, je veux dire, moi j'ai
+[00:05:35.740 --> 00:05:40.060] bientôt regardé les manifs, on n'est pas aidé, on a quand même les anticapitalistes
+[00:05:40.060 --> 00:05:41.300] les plus cons du monde.
+[00:05:41.300 --> 00:05:45.260] Les mecs profitent des pillages pour voler des objets et les revendre sur Internet.
+[00:05:45.260 --> 00:05:47.500] Ah bah le capitalisme est tranquille avec des gens comme ça.
+[00:05:47.500 --> 00:05:52.220] Des décennies de lutte anticapitaliste, des tonnes de merguez à la fête de l'UMA pour
+[00:05:52.220 --> 00:05:55.420] finir avec des révolutionnaires qui pensent que Marx c'est une planète.
+[00:05:55.420 --> 00:05:59.220] Et pendant ce temps, chez les Macron, je peux vous dire qu'on est impeccable.
+[00:05:59.220 --> 00:06:03.580] Ah le résumé de l'ambiance chez les Macron me fait penser à cette phrase de Depardieu
+[00:06:03.580 --> 00:06:04.740] dans Les Valseuses tu sais.
+[00:06:04.740 --> 00:06:08.460] On n'est pas bien là ? Paisible, à la fraîche, décontracté du gland ?
+[00:06:08.460 --> 00:06:11.700] Ah je te l'ai dit, le 17 octobre c'était annoncé, la date tout le monde était au
+[00:06:11.700 --> 00:06:14.420] courant, c'était même pas un contrôle surprise.
+[00:06:14.420 --> 00:06:16.420] Et bah Macron, la veille, lui il était cool.
+[00:06:16.420 --> 00:06:18.380] Ah et concert de Céline Duran le 16 octobre.
+[00:06:18.380 --> 00:06:30.070] Monsieur le Président, le pays est à feu et à sang, demain ce sera une catastrophe
+[00:06:30.070 --> 00:06:31.470] si on fait rien, il faut s'organiser.
+[00:06:31.470 --> 00:06:38.310] J'ai compris tous les mots, j'ai bien compris merci, raisonnable et nouveau.
+[00:06:38.310 --> 00:06:42.070] Monsieur le Président, il y a urgence, à partir de demain matin, le pays va vraiment
+[00:06:42.070 --> 00:06:43.070] être secoué.
+[00:06:43.070 --> 00:06:48.670] Paris, oh mais putain, vous aimez pas Céline Dion ou pas ? Mais moi j'étais au courant,
+[00:06:48.670 --> 00:06:54.390] il est super ce concert, mais je sais qu'il y a 17 octobre, mais bon, il y a Céline Dion,
+[00:06:54.390 --> 00:06:58.150] moi j'adore Céline Dion monsieur, j'ai un point commun avec Céline Dion, c'est qu'on
+[00:06:58.150 --> 00:07:00.230] a dû se taper un vieux monsieur pour réussir.
+[00:07:00.230 --> 00:07:04.750] Bon alors finalement Macron a fait un discours le 18 octobre, après avoir fini d'écouter
+[00:07:04.750 --> 00:07:07.070] sur Spotify deux trois musiques de Céline.
+[00:07:07.150 --> 00:07:11.710] Je vous résume le discours d'un pays à feu et à sang, Macron président de la République
+[00:07:11.710 --> 00:07:16.230] est arrivé, il a dit « en vrai, ça va ». C'est ce qu'il a dit à 68 millions de
+[00:07:16.230 --> 00:07:22.630] français, il a dit « ok, il y a eu des incendies, ok ça dégage des fumées toxiques, mais
+[00:07:22.630 --> 00:07:28.910] ça va ». Il faut se mettre dans la psychologie de Macron, pour lui tout va bien, il nous l'avait
+[00:07:28.910 --> 00:07:33.950] dit en 2018, il avait dit s'il y a un responsable qui vient le chercher, en vrai tant qu'ils
+[00:07:34.030 --> 00:07:37.230] ne sont pas venus le chercher, lui il se dit « ça va ». Et puis quand même il y a eu
+[00:07:37.230 --> 00:07:41.550] une grosse mesure politique qui a été prise et ça, ça résume parfaitement ce qui s'est
+[00:07:41.550 --> 00:07:46.670] passé le 17 octobre, les chocolateries de la famille Tronieux à Amiens et au Touquet
+[00:07:46.670 --> 00:07:48.150] ont été surprotégées.
+[00:07:48.150 --> 00:07:59.410] Louvre est moins protégée que les chocolateries de la famille Tronieux, ouais, là j'ai
+[00:07:59.410 --> 00:08:00.410] pas de vanne.
+[00:08:00.410 --> 00:08:03.730] Si, j'ai peut-être une vanne, c'est qu'il faut quand même imaginer le responsable des
+[00:08:03.730 --> 00:08:08.010] forces de l'ordre local qui a reçu la consigne, tu te dis qu'à un moment donné les mecs
+[00:08:08.010 --> 00:08:11.130] faut se sortir les doigts du côté des forces de l'ordre, parce que là vous acceptez
+[00:08:11.130 --> 00:08:12.130] des trucs de fou.
+[00:08:12.130 --> 00:08:17.650] Oui Philippe, sécurité maximale sur le secteur Amiens, d'accord ? On est en place du côté
+[00:08:17.650 --> 00:08:22.170] de la mairie, des lieux culturels et de tous les endroits sensibles à protéger.
+[00:08:22.170 --> 00:08:29.330] Mais non Philippe, ces chocolateries Tronieux, on a une consigne de l'Élysée, c'est qu'apparemment
+[00:08:29.330 --> 00:08:31.170] Brigitte a peur pour ses cacahuètes enrôbées.
+[00:08:31.170 --> 00:08:35.490] Alors après, moi ça fait naître une réflexion, une idée, vous en faites ce que vous voulez,
+[00:08:35.490 --> 00:08:38.810] dans les temps qui courent, de toute façon, moi ce que je veux dire c'est que vous n'avez
+[00:08:38.810 --> 00:08:43.170] pas l'impression qu'on cherche trop souvent des coupables à côté de nous, plutôt qu'en
+[00:08:43.170 --> 00:08:44.170] haut.
+[00:08:44.170 --> 00:08:47.930] Non mais peut-être que c'est vrai, ces manifestations, ça doit être un peu la faute de LFI, des
+[00:08:47.930 --> 00:08:52.530] racailles de banlieues, des flics, du capitalisme, tout ce que vous voulez, je ne dis pas.
+[00:08:52.530 --> 00:08:57.370] Mais juste que quand ton président préfère protéger des chocolats que des citoyens,
+[00:08:57.370 --> 00:09:02.530] la menace numéro un, ce n'est pas tout de suite les banlieusards, LFI ou les flics,
+[00:09:02.530 --> 00:09:04.170] peut-être que ça vient d'un peu plus en haut.
+[00:09:04.490 --> 00:09:06.890] C'est le principe même du divisé pour mieux régner.
+[00:09:06.890 --> 00:09:09.370] Comme quoi, ça marche bien cette connerie.

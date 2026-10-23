@@ -1,0 +1,895 @@
+Effectue un contrôle qualité documentaire de la synthèse ci-dessous.
+
+Compare-la uniquement à l'index et à la transcription corrigée archivés. N'effectue aucun fact-checking externe. Contrôle les chiffres, dates, pourcentages, populations statistiques, inversions de sens, raisonnements déformés, attributions, horodatages, citations exactes, arguments importants omis et la cohérence avec l'index.
+
+Corrige seulement les erreurs confirmées par les sources. Ne réécris pas inutilement les passages conformes. Si une incertitude ne peut pas être tranchée, conserve la formulation prudente. Retourne uniquement un objet JSON strict suivant cette structure :
+{
+  "schema_version": "1.0",
+  "video_id": "6z4pbY0EBoE",
+  "verdict": "conforme ou corrigee",
+  "problems": [
+    {
+      "category": "chiffre|date|population|sens|attribution|horodatage|citation|omission|coherence",
+      "severity": "mineure|importante|critique",
+      "description": "problème constaté",
+      "source_evidence": "preuve précise tirée des sources archivées",
+      "timestamp": "HH:MM:SS ou chaîne vide",
+      "correction": "correction effectuée ou recommandée"
+    }
+  ],
+  "revised_synthesis": "texte Markdown intégral, ou @file:nom_du_fichier.md"
+}
+
+Le champ revised_synthesis doit toujours contenir le document Markdown complet : corrigé si nécessaire, sinon identique. Pour une synthèse très longue, il peut contenir `@file:nom_du_fichier.md` et le fichier Markdown doit être placé à côté du JSON de réponse ; seuls les noms de fichiers simples sont acceptés. Le verdict vaut "conforme" si aucune correction n'est requise, "corrigee" si des corrections ont été appliquées.
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "6z4pbY0EBoE",
+  "title": "DES MANIFS DE \"LYCÉENS\" POUR DÉTOURNER L'ATTENTION 🇫🇷💥",
+  "channel": "Tatiana Ventôse",
+  "channel_id": "UC0cT8BZdFUmC0vgr1XS7aPA",
+  "upload_date": "20261007",
+  "duration_seconds": 1709,
+  "webpage_url": "https://www.youtube.com/watch?v=6z4pbY0EBoE",
+  "description": "📕 C O M M A N D E R  M O N   L I V R E 📘\nhttps://lefildactueditions.com\n\n⤵️  S O U T E N I R   M O N   T R A V A I L ⤵️\nhttps://www.tipeee.com/tatiana-ventose\n\n🛎 S ' A B O N N E R 🛎\nhttps://www.youtube.com/channel/UC0cT8BZdFUmC0vgr1XS7aPA/?sub_confirmation=1\n\n🐾  I N S T A  : https://www.instagram.com/tatianaventose/\n\n🐾  T W I T T E R : https://twitter.com/TatianaVentose\n\n🐾  F A C E B O O K : https://www.facebook.com/Tatiana-Ventôse-1949154848644734\n\n🐾 T I K T O K : https://www.tiktok.com/@tatianaventose\n\n🐾 T E L E G R A M : https://t.me/joinchat/Tx1JTVD-5-jJyAMC\n\n🎙 M E S  V I D É O S   F O R M A T   P O D C A S T 🎙\nhttps://podcast.ausha.co/tatiana-ventose-le-podcast\n\nC R É D I T S\nGénériques : Yohann Delozier & Tatiana Ventôse, 2026\nMontage et réalisation : Tatiana Ventôse, 2026",
+  "language": "fr-FR"
+}
+
+SYNTHÈSE À RELIRE :
+# Des manifs de « lycéens » pour détourner l'attention
+
+- **Chaîne :** Tatiana Ventôse
+- **Date :** 7 octobre 2026
+- **Durée :** 28 min 29 s
+- **URL :** https://www.youtube.com/watch?v=6z4pbY0EBoE
+
+## Objet et thèse
+
+Tatiana Ventôse critique la qualification de « mouvement lycéen » appliquée aux mobilisations et violences d'octobre. Elle soutient que des organisations politiques, syndicales et médiatiques ont présenté comme révolte scolaire un phénomène composite mêlant revendications réelles, mise en scène militante, dégradations et opportunisme. Cette focalisation détournerait l'attention des catégories productives et populaires qu'elle estime plus déterminantes.
+
+## Revendications scolaires et violences
+
+La vidéo reconnaît des problèmes concrets dans les établissements : bâtiments dégradés, manque de personnel, cantines, orientation et conditions d'étude. Elle refuse toutefois que ces difficultés servent à justifier agressions, incendies ou pillages ([1:01](https://www.youtube.com/watch?v=6z4pbY0EBoE&t=61s)). Elle juge contradictoire de demander davantage d'enseignants tout en agressant des personnels ou en détériorant les lieux ([4:01](https://www.youtube.com/watch?v=6z4pbY0EBoE&t=241s)).
+
+L'autrice reproche notamment à certains médias, dont L'Humanité, et à des responsables de gauche de romantiser des images de poubelles en feu et de présenter la radicalité comme voie normale vers des moyens supplémentaires ([5:05](https://www.youtube.com/watch?v=6z4pbY0EBoE&t=305s)). Ces appréciations sont les siennes et ne sont pas confrontées aux intéressés.
+
+## Une structure sociale jugée impuissante
+
+À partir d'environ [13:01](https://www.youtube.com/watch?v=6z4pbY0EBoE&t=781s), la vidéo affirme que le mouvement ne constitue pas le début d'une révolution. Les lycéens dépendraient des adultes et d'organisations établies, tandis que les syndicats et partis ramèneraient la mobilisation vers la revendication classique de moyens publics. La comparaison avec les Gilets jaunes sert de contraste : ceux-ci auraient exprimé directement les intérêts de travailleurs, indépendants et habitants périphériques ignorés des appareils traditionnels.
+
+## Détournement de l'enjeu économique
+
+La dernière partie énumère les catégories que l'autrice juge absentes du cadrage : agriculteurs, artisans, salariés, chefs d'entreprise soumis aux taxes et producteurs confrontés à la désindustrialisation ([18:00](https://www.youtube.com/watch?v=6z4pbY0EBoE&t=1080s)). Elle accuse une partie de la gauche de ne toujours pas comprendre la dynamique sociale révélée en 2018 et de ramener le débat à l'antifascisme ou à une scénographie de révolte adolescente.
+
+La conclusion appelle les adultes à sortir de cette « comédie » et à organiser une réponse politique fondée sur la production, la souveraineté et les intérêts matériels des classes populaires ([26:01](https://www.youtube.com/watch?v=6z4pbY0EBoE&t=1561s)).
+
+
+INDEX DOCUMENTAIRE :
+{
+  "arguments_positions": [
+    {
+      "position": "Les difficultés scolaires ne justifient ni pillages ni agressions",
+      "horodatages": [
+        "00:01:01",
+        "00:04:01"
+      ]
+    },
+    {
+      "position": "Le mouvement lycéen est instrumentalisé et ne constitue pas une révolution",
+      "horodatages": [
+        "00:09:03",
+        "00:13:01"
+      ]
+    },
+    {
+      "position": "Le cadrage détourne l'attention des catégories productives",
+      "horodatages": [
+        "00:18:00",
+        "00:24:01"
+      ]
+    }
+  ],
+  "citations_exactes": [],
+  "concepts": [
+    {
+      "nom": "instrumentalisation",
+      "horodatages": [
+        "00:09:03"
+      ]
+    },
+    {
+      "nom": "structure de classe",
+      "horodatages": [
+        "00:13:01",
+        "00:18:00"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "Gilets jaunes de 2018",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:21:01"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "révolte adolescente mise en scène",
+      "horodatages": [
+        "00:08:05",
+        "00:12:01"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:22:01"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "lycéens",
+    "école publique",
+    "violences",
+    "pillages",
+    "syndicats",
+    "gauche",
+    "Gilets jaunes",
+    "producteurs"
+  ],
+  "organismes": [
+    {
+      "nom": "L'Humanité",
+      "niveau": "mention",
+      "horodatages": [
+        "00:05:05"
+      ]
+    },
+    {
+      "nom": "France Culture",
+      "niveau": "mention",
+      "horodatages": [
+        "00:22:01"
+      ]
+    }
+  ],
+  "personnes": [],
+  "relations_documentaires": [
+    {
+      "source": "problèmes scolaires",
+      "relation": "sont utilisés pour légitimer selon l'autrice",
+      "cible": "mobilisation violente",
+      "horodatages": [
+        "00:03:01"
+      ]
+    },
+    {
+      "source": "mouvement lycéen",
+      "relation": "occulte",
+      "cible": "revendications des producteurs",
+      "horodatages": [
+        "00:18:00"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:07:00",
+      "titre": "École et contradictions des violences"
+    },
+    {
+      "debut": "00:07:00",
+      "fin": "00:13:00",
+      "titre": "Mise en scène de la radicalité"
+    },
+    {
+      "debut": "00:13:00",
+      "fin": "00:18:00",
+      "titre": "Pourquoi ce n'est pas une révolution"
+    },
+    {
+      "debut": "00:18:00",
+      "fin": "00:24:00",
+      "titre": "Catégories productives absentes"
+    },
+    {
+      "debut": "00:24:00",
+      "fin": "00:28:29",
+      "titre": "Critique politique et appel aux adultes"
+    }
+  ],
+  "resume_general": "Critique d'un mouvement lycéen jugé instrumentalisé, violent et socialement incapable de porter une révolution populaire.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "état matériel des lycées",
+      "horodatages": [
+        "00:01:01"
+      ]
+    },
+    {
+      "sujet": "antifascisme",
+      "horodatages": [
+        "00:25:01"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "mouvement lycéen",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "theme": "structure sociale des mobilisations",
+      "horodatages": [
+        "00:13:01"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "mouvement lycéen",
+      "variantes": [
+        "manifs de lycéens",
+        "mobilisation"
+      ]
+    },
+    {
+      "canonique": "violences",
+      "variantes": [
+        "pillages",
+        "agressions",
+        "émeutes"
+      ]
+    }
+  ],
+  "video_id": "6z4pbY0EBoE"
+}
+
+
+TRANSCRIPTION CORRIGÉE :
+[00:00:00.000 --> 00:00:03.320] C'est quand même pas possible qu'ils tombent dans le panneau à chaque fois.
+[00:00:03.320 --> 00:00:06.800] À la moindre émeute de racailles qui crament des poubelles,
+[00:00:06.800 --> 00:00:09.040] les mecs pensent que c'est la révolution.
+[00:00:09.040 --> 00:00:12.080] Est-ce qu'ils se rendent compte de ce qu'est la France aujourd'hui ?
+[00:00:12.080 --> 00:00:18.660] Bonjour à tous et bienvenue dans la France libre.
+[00:00:18.660 --> 00:00:24.540] Je suis Tatiana Vantauze et non, ceci n'est ni un nouveau mai 68,
+[00:00:24.540 --> 00:00:28.900] ni le grand soir, ni le début de la convergence des luttes ou je ne sais quoi.
+[00:00:28.900 --> 00:00:32.340] Contrairement à ce que s'imaginent tout un tas de gens
+[00:00:32.380 --> 00:00:37.060] qui, ce faisant, joue complètement le jeu du pouvoir
+[00:00:37.060 --> 00:00:41.060] qui utilise les mouvements de l'IC1 avec des gros guillemets
+[00:00:41.060 --> 00:00:46.940] pour détourner l'attention des problèmes réels de la France d'aujourd'hui.
+[00:00:46.940 --> 00:00:49.060] Donc je voudrais revenir un petit peu sur tout ça.
+[00:00:49.060 --> 00:00:53.580] Je ne vais pas partager des images parce que vous les avez toutes vues
+[00:00:53.580 --> 00:00:57.100] et de toute façon, si à ce stade vous êtes encore convaincus
+[00:00:57.100 --> 00:01:01.220] qu'il s'agit d'un simple mouvement de gentils IC1 qui milite
+[00:01:01.220 --> 00:01:05.220] pour plus de services publics et pour plus de moyens
+[00:01:05.220 --> 00:01:09.340] pour étudier dans de meilleures conditions, vous faites partie du problème
+[00:01:09.340 --> 00:01:12.380] et ce n'est clairement pas à vous que je m'adresse.
+[00:01:12.380 --> 00:01:16.140] Ceux à qui je voudrais m'adresser ici, en revanche, c'est tous ceux
+[00:01:16.140 --> 00:01:20.180] qui, j'ai envie de dire comme d'habitude, comme très souvent,
+[00:01:20.180 --> 00:01:23.940] se retrouvent réduits au silence, invisibilisés,
+[00:01:23.940 --> 00:01:27.540] à savoir la majorité silencieuse qui est confrontée
+[00:01:27.540 --> 00:01:30.420] à l'effondrement imminent de l'économie nationale
+[00:01:30.420 --> 00:01:35.380] et dont personne ne parle et dont les médias et la classe dirigeante
+[00:01:35.380 --> 00:01:39.820] et tous ces idiots utiles ne parlent pas, préférant se focaliser
+[00:01:39.820 --> 00:01:43.900] sur les lycéens avec des drapeaux palestiniens
+[00:01:43.900 --> 00:01:46.260] qui réclament de pouvoir dormir en classe.
+[00:01:46.260 --> 00:01:49.900] Ceux à qui je voudrais m'adresser ici, ce sont donc tous ces Français
+[00:01:49.900 --> 00:01:55.180] qui, comme d'habitude, bossent et vont devoir payer à la fois en hausse d'impôt,
+[00:01:55.180 --> 00:01:58.420] en augmentation des tarifs des assurances, bien sûr,
+[00:01:58.460 --> 00:02:03.940] les dégradations liées à ce mouvement qui payent déjà par leur travail
+[00:02:03.940 --> 00:02:08.900] la scolarité de ces gamins qui trouvent que l'école, c'est trop dur.
+[00:02:08.900 --> 00:02:12.100] Donc tous ces gens qui payent aussi par leur travail
+[00:02:12.100 --> 00:02:17.380] les enseignants et autres fonctionnaires qui ont formé ces gamins
+[00:02:17.380 --> 00:02:20.020] à la fainéantise et à la victimisation permanente
+[00:02:20.020 --> 00:02:24.820] et qui payent aussi par leur travail tous ces élus et ces députés
+[00:02:24.820 --> 00:02:27.420] qui jouent les tchégévarins en couche culotte
+[00:02:27.420 --> 00:02:33.180] et passent leur temps à donner des leçons de révolution au reste du pays.
+[00:02:33.180 --> 00:02:35.540] Voilà à qui je voudrais m'adresser aujourd'hui.
+[00:02:35.540 --> 00:02:39.700] Ceux à qui tous ces gens que je viens de citer finalement ne s'adressent jamais,
+[00:02:39.700 --> 00:02:45.300] dont ils se contre-tappent et qui représentent pourtant la majorité des Français.
+[00:02:45.300 --> 00:02:52.580] Et je voudrais aussi m'adresser à tous ceux qui de bonne foi croient à cette fable
+[00:02:52.620 --> 00:02:56.740] selon laquelle ce mouvement lycéen serait le point de départ
+[00:02:56.740 --> 00:03:01.300] d'un mouvement général de révolte contre le gouvernement
+[00:03:01.300 --> 00:03:09.300] et qui au nom de cela soutiennent le chaos, soutiennent les pillages, soutiennent les violences
+[00:03:09.300 --> 00:03:12.740] au prétexte qu'on ne ferait pas d'omelette sans casser des œufs
+[00:03:12.740 --> 00:03:17.340] et qu'on ne ferait pas la révolution sans brûler des lycées rénovés il y a dix ans.
+[00:03:17.380 --> 00:03:22.780] Et à ces gens-là, particulièrement, je voudrais leur dire combien ils se fourvoient
+[00:03:22.780 --> 00:03:29.100] mais surtout leur apporter une analyse de la situation qui j'espère leur sera utile
+[00:03:29.100 --> 00:03:34.780] et qui leur permettra de ne plus tomber comme c'est le cas depuis des années
+[00:03:34.780 --> 00:03:38.820] dans tous les pièges tendus par les dirigeants
+[00:03:38.820 --> 00:03:43.580] pour les détourner des problèmes réels, ceux-là de la France réelle.
+[00:03:43.580 --> 00:03:50.340] Qu'ils se mettent cela dans le crâne, ce n'est ni la révolution, ni mai 68, ni rien de tout ça.
+[00:03:50.340 --> 00:03:57.980] Dès la première journée nationale de ce mouvement, on a vu malheureusement des violences sans précédent
+[00:03:57.980 --> 00:04:01.980] des lynchages, y compris d'enseignants d'ailleurs, alors que les gamins étaient censés protester
+[00:04:01.980 --> 00:04:06.300] pour avoir plus d'enseignants justement, c'est pas en les agressant et en les aspergeant des sens
+[00:04:06.300 --> 00:04:10.260] que vous allez faire en sorte qu'il y ait plus de monde qui se présente au concours de l'éducation nationale.
+[00:04:10.660 --> 00:04:15.820] On a vu des agressions, on a vu des pillages, on a vu des incendies dont notamment
+[00:04:15.820 --> 00:04:20.620] l'incendie le plus spectaculaire pour réclamer plus de moyens globalement pour l'éducation
+[00:04:20.620 --> 00:04:26.260] qui est un lycée à Nantes qui a été rénové il y a une dizaine d'années, qui a un mur d'escalade,
+[00:04:26.260 --> 00:04:31.940] deux gymnases, une verrière avec des espaces verts et qui est le symbole des moyens investis dans l'éducation.
+[00:04:31.940 --> 00:04:38.180] Donc c'est un petit peu dommage de cramer un truc tout neuf pour dénoncer le fait que tout est vétuste.
+[00:04:39.140 --> 00:04:46.260] Donc on a vu ça dès la première journée nationale de mobilisation des lycéens avec des gros guillemets
+[00:04:46.260 --> 00:04:51.060] et ce mouvement contrairement à beaucoup d'autres mouvements étudiants ou lycéens
+[00:04:51.060 --> 00:04:59.260] qui ont pu avoir lieu toutes ces dernières décennies, il se caractérisait par son absence de revendications très claires.
+[00:04:59.260 --> 00:05:05.980] On a pu voir et y compris dans des médias qui soutenaient le mouvement,
+[00:05:05.980 --> 00:05:12.260] je pense à des médias comme l'Humanité qui a fait des petites vidéos où ils interviewent en micro-trottoir des élèves
+[00:05:12.260 --> 00:05:21.740] et les élèves se plaignent du fait que c'est des journées de cours 8h-18h, c'est trop long, qu'il y ait plus d'argent.
+[00:05:21.740 --> 00:05:29.540] On a vu des gamins nous expliquer qu'ils ne peuvent pas dormir en classe parce que les enseignants ne sont pas contents.
+[00:05:29.540 --> 00:05:32.260] On ne peut pas dormir en classe parce que les professeurs ne sont pas d'accord avec ça.
+[00:05:32.300 --> 00:05:39.100] Donc il y a eu tout un tas de ces revendications là qui sont en fait une espèce de révolte infantile,
+[00:05:39.100 --> 00:05:44.020] somme toute bien naturelle, le gamin qui n'a pas envie de se lever le matin pour aller à l'école apprendre des choses
+[00:05:44.020 --> 00:05:49.100] parce que c'est difficile, c'est de la discipline, ça demande de la rigueur, on leur demande des efforts
+[00:05:49.100 --> 00:05:53.740] et ça s'appelle l'éducation et ce n'est pas quelque chose de très facile.
+[00:05:53.740 --> 00:05:59.660] Néanmoins là où normalement le rôle des adultes, des gens qui représentent l'autorité,
+[00:05:59.660 --> 00:06:05.820] c'est normalement de cadrer ces gamins là, de leur dire si t'es pas content, t'es pas obligé d'aller à l'école
+[00:06:05.820 --> 00:06:08.460] et tu peux très bien aller bosser et puis débrouille-toi.
+[00:06:08.460 --> 00:06:12.700] Là ils ont encouragé, soutenu ces mouvements avec ces revendications.
+[00:06:12.700 --> 00:06:18.340] Au final on constate quand même que beaucoup d'enseignants et particulièrement chez les jeunes générations d'enseignants
+[00:06:18.340 --> 00:06:24.220] sont issus du même moule que leurs élèves et ont même, tout comme leurs élèves d'ailleurs,
+[00:06:24.220 --> 00:06:28.340] du coup c'est logique, des difficultés à s'exprimer dans un français à peu près correct
+[00:06:28.340 --> 00:06:33.540] ou à formuler ne serait-ce que des idées à peu près cohérentes en sachant pourquoi ils sont là.
+[00:06:33.540 --> 00:06:38.860] Donc ça a été soutenu par un certain nombre de représentants du corps enseignant
+[00:06:38.860 --> 00:06:44.100] et aussi et surtout évidemment, vous l'avez tous vu, cela a été soutenu et encouragé
+[00:06:44.100 --> 00:06:49.060] par certains représentants politiques et notamment des gens de la France insoumise
+[00:06:49.060 --> 00:06:52.700] et ensuite plus largement des gens issus de la gauche et du milieu syndical.
+[00:06:52.700 --> 00:06:57.900] Mais ce sont vraiment les élus de la France insoumise qui ont exhorté
+[00:06:57.940 --> 00:07:04.140] et d'ailleurs qui tentaient depuis plusieurs semaines de pousser à ce qu'il y ait un mouvement de jeunesse
+[00:07:04.140 --> 00:07:10.140] comme ils le disent, de toute façon ce sont les lycéens et les jeunes sont encore à peu près les seuls
+[00:07:10.140 --> 00:07:15.180] avec les fonctionnaires d'ailleurs qui écoutent les députés insoumis.
+[00:07:15.180 --> 00:07:21.100] D'ailleurs les députés et élus insoumis quand on les entend parler on se dit qu'il y a du souci à se faire
+[00:07:21.100 --> 00:07:28.220] Puisque les élus censés montrer l'exemple à la jeunesse s'abaisse à leur niveau
+[00:07:28.220 --> 00:07:33.340] en leur expliquant qu'une jeunesse mobilisée c'était plus dangereux qu'une bombe atomique
+[00:07:33.340 --> 00:07:35.340] je cite Mathilde Panot
+[00:07:48.640 --> 00:07:51.520] qui partage des battles d'Aura.
+[00:07:51.520 --> 00:07:54.400] Alors oui j'ai découvert l'existence des battles d'Aura.
+[00:07:55.360 --> 00:07:59.000] Si vous ne savez pas, vous ne voulez pas savoir.
+[00:07:59.000 --> 00:08:05.720] Voire qui sont allés se mobiliser aux côtés des lycéens en attisant les flammes
+[00:08:05.720 --> 00:08:11.400] parfois même littéralement, en dansant autour de poubelles enflammées au son du tam-tam
+[00:08:11.400 --> 00:08:18.040] qui sont allés filmer des vidéos TikTok avec des lycéens habillés tout en noir au visage masqué.
+[00:08:18.040 --> 00:08:23.720] Ceci constitue évidemment, personne n'est dû, plus une tentative de récupération politique
+[00:08:23.800 --> 00:08:28.360] voire d'allumer la mèche de la part de la France Insoumise
+[00:08:28.360 --> 00:08:30.680] avec Jean-Luc Mélenchon bien sûr derrière.
+[00:08:30.680 --> 00:08:33.560] Et c'est une tentative évidemment de la part de la France Insoumise
+[00:08:33.560 --> 00:08:37.480] de lancer un mouvement social qu'ils espèrent pouvoir contrôler
+[00:08:37.480 --> 00:08:42.520] puisqu'il n'y a rien de plus manipulable qu'un adolescent à qui on va dire
+[00:08:42.520 --> 00:08:50.440] mais oui tu as raison les journées 8h-18h c'est trop dur, vas-y réclame plus d'argent
+[00:08:50.920 --> 00:08:54.840] c'est ça un réclame de l'argent public et on te le donnera.
+[00:08:54.840 --> 00:08:58.680] Donc il n'y a rien de plus manipulable qu'un gamin
+[00:08:58.680 --> 00:09:03.560] chez qui on nourrit cette tendance narcissique et victimaire
+[00:09:03.560 --> 00:09:07.320] en lui promettant que c'est comme ça que l'on va obtenir ce que l'on veut
+[00:09:07.320 --> 00:09:10.120] et de toute façon c'est une génération qui a été biberonnée à ça
+[00:09:10.120 --> 00:09:13.880] par les enseignants en partie, par l'éducation nationale
+[00:09:13.880 --> 00:09:18.760] mais bref la France Insoumise a donc essayé de lancer ce mouvement
+[00:09:18.840 --> 00:09:21.960] avec des jeunes qu'ils espéraient pouvoir contrôler
+[00:09:21.960 --> 00:09:27.560] malheureusement les jeunes en question sont tout à fait hors de contrôle
+[00:09:27.560 --> 00:09:31.800] donc les tentatives de jouer les marionnettistes de la part de Mélenchon
+[00:09:31.800 --> 00:09:35.160] n'ont pas empêché de très très nombreux débordements
+[00:09:35.160 --> 00:09:40.040] et fait nouveau par rapport à tous les précédents mouvements sociaux
+[00:09:40.040 --> 00:09:44.440] c'est que les débordements en question ont eu lieu dès le premier jour
+[00:09:44.440 --> 00:09:46.520] des manifestations à l'échelle nationale
+[00:09:46.520 --> 00:09:50.680] là le mouvement a été si j'ose dire initié par ces casseurs là
+[00:09:50.680 --> 00:09:54.360] et c'est ensuite que la France Insoumise notamment
+[00:09:54.360 --> 00:09:57.880] et aussi certains responsables politiques et syndicaux ont essayé de greffer
+[00:09:57.880 --> 00:09:59.800] des revendications politiques
+[00:09:59.800 --> 00:10:04.680] mais le point de départ ça a été les violences, les incendies de bâtiments publics
+[00:10:04.680 --> 00:10:07.880] les agressions, les lynchages et les pillages
+[00:10:07.880 --> 00:10:11.320] on a vu dans la foulée toutes les images partagées par les médias
+[00:10:11.320 --> 00:10:13.080] favorables en plus à ce mouvement
+[00:10:13.160 --> 00:10:17.160] qui n'ont fait au final que confirmer l'absence de clarté
+[00:10:17.160 --> 00:10:20.520] la vacuité je pourrais dire des revendications
+[00:10:20.520 --> 00:10:23.480] qui apparaissent on va le dire à la majorité des français
+[00:10:23.480 --> 00:10:25.800] et y compris à un certain nombre de jeunes
+[00:10:25.800 --> 00:10:30.680] qui eux sont dans des lycées pro, qui sont en apprentissage, qui travaillent etc
+[00:10:30.680 --> 00:10:34.920] comme complètement déconnectés de la réalité
+[00:10:34.920 --> 00:10:37.960] Je passe plus de temps à l'école que chez moi
+[00:10:37.960 --> 00:10:41.800] donc je comprends que l'école c'est important, que je dois apprendre
+[00:10:41.880 --> 00:10:45.320] mais ce n'est pas en nous gonfrant comme des oies
+[00:10:45.320 --> 00:10:46.680] qu'on va plus s'apprendre
+[00:10:46.680 --> 00:10:49.480] tous les jours on flamme chose, on se réveille, on mange, on va à l'école
+[00:10:49.480 --> 00:10:50.680] on fait nos leçons, on dort
+[00:10:50.680 --> 00:10:52.360] on prend 20 minutes à commencer un roux
+[00:10:52.360 --> 00:10:53.960] pourquoi ? parce qu'on est allé changer d'étape
+[00:10:53.960 --> 00:10:56.120] des chaises dans une autre salle parce qu'on est trop dans la salle
+[00:10:56.120 --> 00:10:59.400] on suffoque, on fait des malaises, on fait des crises d'asthme
+[00:10:59.400 --> 00:11:01.960] l'infirmière elle est là presque jamais d'accord ?
+[00:11:01.960 --> 00:11:03.560] là on en a marre, on en a marre
+[00:11:03.560 --> 00:11:05.240] même les vêtements, on oublie sur nos vêtements
+[00:11:05.240 --> 00:11:07.320] même pas sur nos vêtements, sur nos corps
+[00:11:07.320 --> 00:11:08.520] qu'ils portent dans les vêtements
+[00:11:08.520 --> 00:11:10.440] vous pouvez même dire, hey peut-être elle va mettre
+[00:11:10.520 --> 00:11:11.960] elle va mettre des bordeaux, on va aller lui dire
+[00:11:11.960 --> 00:11:13.480] moi je mets des bordeaux, je pense que j'ai la poitrine
+[00:11:13.480 --> 00:11:14.440] on va me dire quelque chose
+[00:11:14.440 --> 00:11:16.760] on dirait pas on est des classes, on dirait on est un élevage
+[00:11:16.760 --> 00:11:19.720] j'ai vu même en pensant à ce sketch des inconnus
+[00:11:19.720 --> 00:11:21.800] sur l'éducation où il y a les gamins à la fin
+[00:11:21.800 --> 00:11:24.200] qui sont à dire, c'est pas juste, on n'est pas payés etc
+[00:11:24.200 --> 00:11:26.360] et il y a des gamins qui disent ça
+[00:11:26.360 --> 00:11:29.240] et il y a d'ailleurs des politiques qui relayent
+[00:11:29.240 --> 00:11:32.280] ce truc là en disant, oui oui il faut payer les gamins
+[00:11:32.280 --> 00:11:36.680] mais payer les gamins pour aller à l'école
+[00:11:36.680 --> 00:11:38.680] vous vous rendez compte en fait de...
+[00:11:38.760 --> 00:11:40.760] on est vraiment passés de l'autre côté
+[00:11:51.030 --> 00:11:54.310] avec des pancartes bourrées de fautes de français
+[00:11:54.310 --> 00:11:57.110] il y en a, je vous jure que je l'ai vu
+[00:11:57.110 --> 00:11:59.110] c'est sur France 3 région
+[00:11:59.110 --> 00:12:01.910] avec les lycéens de Nantes qui préparent leurs pancartes
+[00:12:01.910 --> 00:12:04.070] et sur la pancarte on voit écrit pipi caca
+[00:12:05.510 --> 00:12:08.310] et donc ce que tout cela montre au final
+[00:12:08.790 --> 00:12:12.470] c'est surtout qu'on a tout un tas de jeunes
+[00:12:12.470 --> 00:12:14.710] à qui on donne la parole, qu'on a mis en avant
+[00:12:14.710 --> 00:12:18.550] on a encouragé une jeunesse, une génération
+[00:12:18.550 --> 00:12:20.630] voire deux, tout entière
+[00:12:20.630 --> 00:12:24.150] à n'avoir aucun goût de l'effort
+[00:12:24.150 --> 00:12:27.030] à n'avoir strictement aucune discipline
+[00:12:27.030 --> 00:12:30.470] à n'avoir finalement aucune conscience
+[00:12:30.470 --> 00:12:33.190] même de la chance qu'ils ont d'aller à l'école
+[00:12:33.190 --> 00:12:34.710] pour y apprendre des choses
+[00:12:34.710 --> 00:12:37.670] ça montre qu'il y a un vrai problème
+[00:12:37.750 --> 00:12:40.230] et qu'il y a quelque chose, paradoxalement
+[00:12:40.230 --> 00:12:44.070] qui est rapporté par les enseignants
+[00:12:44.070 --> 00:12:45.750] par les personnels de l'éducation nationale
+[00:12:45.750 --> 00:12:48.870] qui disent, on a une génération de débiles
+[00:12:48.870 --> 00:12:50.390] et de feignasses
+[00:12:50.390 --> 00:12:52.070] et souvent les deux combinés
+[00:12:52.070 --> 00:12:53.910] et ça c'est évidemment confirmé
+[00:12:53.910 --> 00:12:57.270] par le fameux classement international PISA
+[00:12:57.270 --> 00:12:59.910] dont on a parlé assez longuement dans le fil d'actu
+[00:12:59.910 --> 00:13:01.670] donc je vous renvoie à cette vidéo si ça vous intéresse
+[00:13:01.670 --> 00:13:05.430] et donc ce mouvement, loin de constituer des prémisses d'une révolution
+[00:13:05.430 --> 00:13:07.430] vient confirmer un ressenti
+[00:13:07.590 --> 00:13:09.030] de beaucoup de français
+[00:13:09.030 --> 00:13:11.830] sur des générations à qui on a fait miroiter
+[00:13:11.830 --> 00:13:13.830] que tout finalement leur était dû
+[00:13:13.830 --> 00:13:15.830] le bac, le téléphone
+[00:13:15.830 --> 00:13:18.310] le droit de dormir en cours
+[00:13:18.310 --> 00:13:20.310] de faire ce qu'ils veulent en fait
+[00:13:20.310 --> 00:13:25.350] et que chaque exigence d'effort ou de rigueur
+[00:13:25.350 --> 00:13:26.550] c'est fasciste
+[00:13:26.550 --> 00:13:29.190] et que si on veut quelque chose
+[00:13:29.190 --> 00:13:31.670] de l'argent, ou globalement c'est ça
+[00:13:31.670 --> 00:13:32.790] c'est donner des sous
+[00:13:32.790 --> 00:13:35.030] on l'obtient si on se plaint
+[00:13:35.030 --> 00:13:36.790] et qu'on joue les victimes
+[00:13:36.790 --> 00:13:39.430] et là c'est exactement ce qui est en train de se passer avec ce mouvement
+[00:13:39.430 --> 00:13:41.430] avec ah mon dieu la police est violente
+[00:13:41.430 --> 00:13:42.310] la police est violente
+[00:13:42.310 --> 00:13:46.070] alors le nombre de gens qui ont été blessés par des lycéens
+[00:13:46.070 --> 00:13:49.430] est largement supérieur au nombre de gens qui ont été blessés par la police
+[00:13:49.430 --> 00:13:54.070] si vraiment il y avait une répression des lycéens par la police
+[00:13:54.070 --> 00:13:58.390] les mecs n'en seraient pas à aller chercher comme victimes de la police
+[00:13:58.390 --> 00:14:00.550] des gamins qui sont revenus à la charge
+[00:14:00.550 --> 00:14:02.550] à insulter, à agresser des policiers
+[00:14:02.550 --> 00:14:05.110] ou à aller ramasser des grenades de désencerclement
+[00:14:05.190 --> 00:14:07.190] ou à se mettre le feu au slibard
+[00:14:07.190 --> 00:14:09.190] en essayant de jeter un cocktail molotov
+[00:14:09.190 --> 00:14:11.190] je vous jure, ça existe, ces images
+[00:14:11.190 --> 00:14:13.190] le gamin essaye de lancer un cocktail molotov
+[00:14:13.190 --> 00:14:15.190] et il se met le feu à lui-même
+[00:14:15.190 --> 00:14:21.350] parce qu'il n'a pas les moyens intellectuels de faire autrement
+[00:14:21.350 --> 00:14:23.350] c'est terrible
+[00:14:23.350 --> 00:14:26.070] on voit des petits racailles en train d'essayer d'ouvrir un bidon d'essence
+[00:14:26.070 --> 00:14:27.590] on dirait des poules avec un couteau
+[00:14:27.590 --> 00:14:29.590] on est juste en train de constater ce qui se passe
+[00:14:29.590 --> 00:14:30.390] tout le monde
+[00:14:30.390 --> 00:14:32.390] et vous pouvez nous traiter d'extrême droite
+[00:14:32.390 --> 00:14:34.390] parce qu'on constate
+[00:14:34.390 --> 00:14:36.390] vous n'échapperez pas à la vérité
+[00:14:36.390 --> 00:14:38.390] par ailleurs, il y a un autre aspect
+[00:14:38.390 --> 00:14:40.390] qui est quand même extrêmement important
+[00:14:40.390 --> 00:14:42.390] de ces mouvements
+[00:14:42.390 --> 00:14:44.390] c'est que les images des blocages des lycées
+[00:14:44.390 --> 00:14:46.390] ont confirmé un autre ressenti
+[00:14:46.390 --> 00:14:48.390] qui dépasse très largement
+[00:14:48.390 --> 00:14:50.390] le cadre des questions d'éducation
+[00:14:50.390 --> 00:14:52.390] c'est l'insécurité culturelle
+[00:14:52.390 --> 00:14:54.390] des français
+[00:14:54.390 --> 00:14:56.390] qui se sentent remplacés
+[00:14:56.390 --> 00:14:58.390] par des populations immigrées
+[00:14:58.390 --> 00:15:00.390] extra-européennes
+[00:15:00.390 --> 00:15:02.390] perçues comme violentes
+[00:15:02.390 --> 00:15:04.390] ingérables
+[00:15:04.390 --> 00:15:06.390] commettant des délits et des crimes
+[00:15:06.390 --> 00:15:08.390] en toute impunité
+[00:15:08.390 --> 00:15:10.390] des gens totalement inassimilables
+[00:15:10.390 --> 00:15:12.390] pour qui les français
+[00:15:12.390 --> 00:15:14.390] doivent payer
+[00:15:14.390 --> 00:15:16.390] les images des blocus en question
+[00:15:16.390 --> 00:15:18.390] font ressurgir de manière assez criante
+[00:15:18.390 --> 00:15:20.390] ce ressenti
+[00:15:20.390 --> 00:15:22.390] et cette insécurité culturelle
+[00:15:22.390 --> 00:15:24.390] des français
+[00:15:24.390 --> 00:15:26.390] y compris d'ailleurs d'un certain nombre de français
+[00:15:26.390 --> 00:15:28.390] issus de l'immigration
+[00:15:28.390 --> 00:15:30.390] qui en ont assez
+[00:15:30.390 --> 00:15:32.390] d'être assimilés
+[00:15:32.390 --> 00:15:34.390] à cette racaille
+[00:15:34.390 --> 00:15:36.390] de la diversité
+[00:15:36.390 --> 00:15:38.390] qui tire parti de n'importe quel
+[00:15:38.390 --> 00:15:40.390] prétexte pour aller
+[00:15:40.390 --> 00:15:42.390] brûler des voitures, pour aller piller des magasins
+[00:15:42.390 --> 00:15:44.390] pour aller agresser des gens etc
+[00:15:44.390 --> 00:15:46.390] et qui même bien souvent n'ont pas besoin de prétexte
+[00:15:46.390 --> 00:15:48.390] mais qui en tout cas utilise
+[00:15:48.390 --> 00:15:50.390] le moindre mouvement
+[00:15:50.390 --> 00:15:52.390] pour se déchaîner en groupe
+[00:15:52.390 --> 00:15:54.390] de manière on ne peut plus tribale
+[00:15:54.390 --> 00:15:56.390] et les images des blocages elles confirment exactement
+[00:15:56.390 --> 00:15:58.390] ce ressenti là
+[00:15:58.390 --> 00:16:00.390] montre de surcroît
+[00:16:00.390 --> 00:16:02.390] que ce ne sont pas
+[00:16:02.390 --> 00:16:04.390] les immigrés
+[00:16:04.390 --> 00:16:06.390] qui s'assimilent à la population locale
+[00:16:06.390 --> 00:16:08.390] mais exactement le contraire
+[00:16:08.390 --> 00:16:10.390] on voit un certain nombre
+[00:16:10.390 --> 00:16:12.390] de petits blonds
+[00:16:12.390 --> 00:16:14.390] aux yeux bleus
+[00:16:14.390 --> 00:16:16.390] qui ont adopté les codes
+[00:16:16.390 --> 00:16:18.390] le langage, l'attitude
+[00:16:18.390 --> 00:16:20.390] des fauteurs de troubles
+[00:16:20.390 --> 00:16:22.390] les langages avec les wesh wesh
+[00:16:22.390 --> 00:16:24.390] wallah frère, machin
+[00:16:24.390 --> 00:16:26.390] ça c'est typique
+[00:16:26.390 --> 00:16:28.390] de cette espèce de petite délinquance
+[00:16:28.390 --> 00:16:30.390] complètement fantasmée par la gauche
+[00:16:30.390 --> 00:16:32.390] comme étant le peuple je ne sais quoi
+[00:16:32.390 --> 00:16:34.390] et ces gens qu'on le veuille ou non
+[00:16:34.390 --> 00:16:36.390] dans l'esprit collectif
+[00:16:36.390 --> 00:16:38.390] sont associés
+[00:16:38.390 --> 00:16:40.390] à tous ces immigrés
+[00:16:40.390 --> 00:16:42.390] extra-européens que le gouvernement
+[00:16:42.390 --> 00:16:44.390] fait rentrer de manière incontrôlée
+[00:16:44.390 --> 00:16:46.390] en France puisque les frontières
+[00:16:46.390 --> 00:16:48.390] c'est fasciste et qu'on ne peut
+[00:16:48.390 --> 00:16:50.390] pas empêcher des gens de rentrer
+[00:16:50.390 --> 00:16:52.390] il y a plein de pays qui le font
+[00:16:52.390 --> 00:16:54.390] je sais pas pourquoi nous on pourrait pas mais enfin bon
+[00:16:54.390 --> 00:16:56.390] c'est encore une autre question
+[00:16:56.390 --> 00:16:58.390] et que l'on laisse en plus
+[00:16:58.390 --> 00:17:00.390] commettre des crimes et des délits
+[00:17:00.390 --> 00:17:02.390] de manière impunie
+[00:17:02.390 --> 00:17:04.390] avec en plus Laval
+[00:17:04.390 --> 00:17:06.390] de toute cette gauche
+[00:17:06.390 --> 00:17:08.390] qui soutient
+[00:17:08.390 --> 00:17:10.390] ces populations parce qu'elle les voit
+[00:17:10.390 --> 00:17:12.390] comme les nouveaux misérables
+[00:17:12.390 --> 00:17:14.390] et tout ça, ça a tendance à énerver
+[00:17:14.390 --> 00:17:16.390] un bon paquet de français
+[00:17:16.390 --> 00:17:18.390] issus ou pas de l'immigration
+[00:17:18.390 --> 00:17:20.390] qui paye
+[00:17:20.390 --> 00:17:22.390] continuellement pour ce cirque
+[00:17:22.390 --> 00:17:24.390] vous pouvez tout à fait m'en vouloir
+[00:17:24.390 --> 00:17:26.390] de dire cela, je sais déjà
+[00:17:26.390 --> 00:17:28.390] que nous ne manquerons pas de venir se déchaîner
+[00:17:28.390 --> 00:17:30.390] dans les commentaires, les gauchistes
+[00:17:30.390 --> 00:17:32.390] qui viendront m'expliquer que c'est raciste, que c'est
+[00:17:32.390 --> 00:17:34.390] fasciste, que c'est ci, que c'est ça, de dire ça
+[00:17:34.390 --> 00:17:36.390] mais c'est la stricte vérité
+[00:17:36.390 --> 00:17:38.390] encore une fois vous n'échapperez pas
+[00:17:38.390 --> 00:17:40.390] à la réalité à un moment ou à un autre
+[00:17:40.390 --> 00:17:42.390] et c'est d'ailleurs la raison
+[00:17:42.390 --> 00:17:44.390] pour laquelle ça ne fera
+[00:17:44.390 --> 00:17:46.390] pas un nouveau mai 68
+[00:17:46.390 --> 00:17:48.390] c'est la raison pour laquelle personne
+[00:17:48.390 --> 00:17:50.390] ne se mettra
+[00:17:50.390 --> 00:17:52.390] et se rangera derrière ces lycéens
+[00:17:52.390 --> 00:17:54.390] hormis les
+[00:17:54.390 --> 00:17:56.390] habituels électeurs de la gauche
+[00:17:56.390 --> 00:17:58.390] les étudiants
+[00:17:58.390 --> 00:18:00.390] les cadres de la fonction publique
+[00:18:00.390 --> 00:18:02.390] et tout ce qui s'en suit, profs, syndicalistes
+[00:18:02.390 --> 00:18:04.390] et autres petits bourgeois
+[00:18:04.390 --> 00:18:06.390] convaincus dans une belle attitude néocolonialiste
+[00:18:06.390 --> 00:18:08.390] d'ailleurs
+[00:18:08.390 --> 00:18:10.390] que cette racaille violente va être
+[00:18:10.390 --> 00:18:12.390] en fait la base de leur révolution
+[00:18:12.390 --> 00:18:14.390] puisque ce sont des immigrés
+[00:18:14.390 --> 00:18:16.390] et que comme c'est des immigrés ils sont opprimés
+[00:18:16.390 --> 00:18:18.390] et que comme ils sont opprimés c'est la Nouvelle France
+[00:18:18.390 --> 00:18:20.390] et comme c'est la Nouvelle France bah c'est le peuple
+[00:18:20.390 --> 00:18:22.390] et la logique elle est là
+[00:18:22.390 --> 00:18:24.390] elle est terrible
+[00:18:24.390 --> 00:18:26.390] elle est pauvre et médiocre en plus
+[00:18:26.390 --> 00:18:28.390] intellectuellement mais c'est tout à fait
+[00:18:28.390 --> 00:18:30.390] la logique de la gauche. Là dessus
+[00:18:30.390 --> 00:18:32.390] il y a tout un tas de gens
+[00:18:32.390 --> 00:18:34.390] qui je pense de bonne foi
+[00:18:34.390 --> 00:18:36.390] viennent
+[00:18:36.390 --> 00:18:38.390] nous exhorter à la
+[00:18:38.390 --> 00:18:40.390] convergence des luttes
+[00:18:40.390 --> 00:18:42.390] pour faire comme en mai 68
+[00:18:42.390 --> 00:18:44.390] d'ailleurs ils nous disent déjà
+[00:18:44.390 --> 00:18:46.390] que c'est le plus gros mouvement de jeunesse depuis mai 68
+[00:18:46.390 --> 00:18:48.390] alors déjà pas du tout
+[00:18:48.390 --> 00:18:50.390] rien que le CPE
+[00:18:50.390 --> 00:18:52.390] auquel moi j'ai participé il y avait des millions
+[00:18:52.390 --> 00:18:54.390] de personnes dans la rue
+[00:18:54.390 --> 00:18:56.390] donc déjà c'est pas le plus gros mouvement de jeunesse
+[00:18:56.390 --> 00:18:58.390] mais enfin bon c'est pas grave
+[00:18:58.390 --> 00:19:00.390] et donc tous ces gens appellent les gilets jaunes
+[00:19:00.390 --> 00:19:02.390] les chefs d'entreprise qui en ont marre du matraquage fiscal
+[00:19:02.390 --> 00:19:04.390] tous les français en colère contre prix de l'essence
+[00:19:04.390 --> 00:19:06.390] à rejoindre
+[00:19:06.390 --> 00:19:08.390] ces mouvements lycéens
+[00:19:08.390 --> 00:19:10.390] et je suis quand même pas la seule à voir l'absurdité
+[00:19:10.390 --> 00:19:12.390] de cette logique qui consiste à
+[00:19:12.390 --> 00:19:14.390] espérer que les français qui en ont assez
+[00:19:14.390 --> 00:19:16.390] de payer pour des branleurs
+[00:19:16.390 --> 00:19:18.390] et de voir des racailles saccager la France
+[00:19:18.390 --> 00:19:20.390] vont se ranger derrière
+[00:19:20.390 --> 00:19:22.390] des branleurs qui râlent
+[00:19:22.390 --> 00:19:24.390] parce qu'ils vont à l'école
+[00:19:24.390 --> 00:19:26.390] et des racailles qui brûlent
+[00:19:26.390 --> 00:19:28.390] qui cassent en se faisant passer pour des victimes
+[00:19:28.390 --> 00:19:30.390] de surcroît
+[00:19:30.390 --> 00:19:32.390] vous voyez bien qu'il y a quelque chose qui ne colle pas
+[00:19:32.390 --> 00:19:34.390] et maintenant en plus que la gauche
+[00:19:34.390 --> 00:19:36.390] essaye d'organiser le truc
+[00:19:36.390 --> 00:19:38.390] en le reprenant à son compte politiquement
+[00:19:38.390 --> 00:19:40.390] que la fonction publique
+[00:19:40.390 --> 00:19:42.390] s'est greffée sur le mouvement avec
+[00:19:42.390 --> 00:19:44.390] les militants syndicaux habituels etc
+[00:19:44.390 --> 00:19:46.390] ça rajoute encore un
+[00:19:46.390 --> 00:19:48.390] répulsif supplémentaire
+[00:19:48.390 --> 00:19:50.390] à ce mouvement
+[00:19:50.390 --> 00:19:53.670] c'est tout ce que les français détestent
+[00:19:53.670 --> 00:19:55.670] il y a tout dedans
+[00:19:55.670 --> 00:19:57.670] la racaille qui commet des crimes et des délits
+[00:19:57.670 --> 00:19:59.670] la génération de branleurs
+[00:19:59.670 --> 00:20:01.670] qui se plaint que l'école c'est trop dur
+[00:20:01.670 --> 00:20:03.670] les gauchistes
+[00:20:03.670 --> 00:20:05.670] qui nous expliquent que ça c'est le peuple
+[00:20:05.670 --> 00:20:07.670] et que ça va être la révolution
+[00:20:07.670 --> 00:20:09.670] et tous les métiers de service
+[00:20:09.670 --> 00:20:11.670] qui bénéficient de la redistribution
+[00:20:11.670 --> 00:20:13.670] et qui ne te donnent pas compte d'où vient l'argent
+[00:20:13.670 --> 00:20:15.670] avec lequel ils sont payés
+[00:20:15.670 --> 00:20:17.670] c'est tout ce que la France rejette
+[00:20:17.670 --> 00:20:19.670] c'est tout ce que les français détestent
+[00:20:19.670 --> 00:20:21.670] et le pire c'est que les gens
+[00:20:21.670 --> 00:20:23.670] qui viennent t'expliquer
+[00:20:23.670 --> 00:20:25.670] et de bonne foi en plus
+[00:20:25.670 --> 00:20:27.670] qui espèrent un sursaut, une révolte
+[00:20:27.670 --> 00:20:29.670] et en plus qui sont plus ou moins agressifs
+[00:20:29.670 --> 00:20:31.670] quand tu leur dis ça n'arrivera pas
+[00:20:31.670 --> 00:20:33.670] tu te rends pas compte, c'est le départ de quelque chose
+[00:20:33.670 --> 00:20:35.670] il y a des départs de feu de poubelle
+[00:20:35.670 --> 00:20:37.670] mais c'est tout
+[00:20:37.670 --> 00:20:39.670] ça va pas être le départ d'autre chose
+[00:20:39.670 --> 00:20:41.670] Est-ce que ces gens font pour tomber
+[00:20:41.670 --> 00:20:43.670] dans le panneau systématiquement
+[00:20:43.670 --> 00:20:45.670] ah systématiquement
+[00:20:45.670 --> 00:20:47.670] depuis qu'il y a eu les gilets jaunes et qu'ils n'ont pas vu venir
+[00:20:47.670 --> 00:20:49.670] parce que c'est ça en fait le fond du truc
+[00:20:49.670 --> 00:20:51.670] c'est que tous ces gens n'ont pas vu venir les gilets jaunes
+[00:20:51.670 --> 00:20:53.670] ils avaient pas compris
+[00:20:53.670 --> 00:20:55.670] la France périphérique à l'époque
+[00:20:55.670 --> 00:20:57.670] ils avaient pas compris les mouvements historiques
+[00:20:57.670 --> 00:20:59.670] et sociologiques qui se passent
+[00:20:59.670 --> 00:21:01.670] dans la France profonde en fait
+[00:21:01.670 --> 00:21:03.670] en 2018 et ils ne les comprennent toujours pas aujourd'hui
+[00:21:03.670 --> 00:21:05.670] et c'est pour ça qu'ils tombent dans le panneau à chaque fois
+[00:21:05.670 --> 00:21:07.670] c'est pour ça que quand il y a les émeutes
+[00:21:07.670 --> 00:21:09.670] qui sont en lieu pour le délinquant Nael
+[00:21:09.670 --> 00:21:11.670] ils tombent dans le panneau et ils viennent t'insulter
+[00:21:11.670 --> 00:21:13.670] parce que tu ne crois pas que ça va être
+[00:21:13.670 --> 00:21:15.670] ces petites racailles qui vont faire la révolution
+[00:21:15.670 --> 00:21:17.670] qui tombent dans le panneau quand il y a les mouvements
+[00:21:17.670 --> 00:21:19.670] de la fonction publique
+[00:21:19.670 --> 00:21:21.670] qui se mobilisent contre la réforme des retraites
+[00:21:21.670 --> 00:21:23.670] alors qu'ils ont voté Macron
+[00:21:23.670 --> 00:21:25.670] qui avait promis de faire la réforme des retraites
+[00:21:25.670 --> 00:21:27.670] et à chaque fois on te dit
+[00:21:27.670 --> 00:21:29.670] oui c'est le début de la révolution etc
+[00:21:29.670 --> 00:21:31.670] et à chaque fois non parce que ces gens ne comprennent pas
+[00:21:31.670 --> 00:21:33.670] ce qui se passe en France
+[00:21:33.670 --> 00:21:35.670] aujourd'hui et c'est peut-être pour ça d'ailleurs
+[00:21:35.670 --> 00:21:37.670] c'est aussi agressif c'est parce qu'ils savent inconsciemment
+[00:21:37.670 --> 00:21:39.670] que c'est voué à l'échec
+[00:21:39.670 --> 00:21:41.670] mais qu'ils veulent se convaincre
+[00:21:41.670 --> 00:21:43.670] à chaque feu de poubelle
+[00:21:43.670 --> 00:21:45.670] que cette fois c'est la bonne
+[00:21:45.670 --> 00:21:47.670] que ça va être le grand soir
+[00:21:47.670 --> 00:21:49.670] et parce que d'un côté il y a cette culpabilité
+[00:21:49.670 --> 00:21:51.670] d'être passé à côté du mouvement des gilets jaunes
+[00:21:51.670 --> 00:21:53.670] qu'ils ont ensuite d'ailleurs essayé de récupérer
+[00:21:53.670 --> 00:21:55.670] mais après quelques semaines
+[00:21:55.670 --> 00:21:57.670] après avoir été
+[00:21:57.670 --> 00:21:59.670] paralysé et médusé
+[00:21:59.670 --> 00:22:01.670] devant cette France qui se mobilisait
+[00:22:01.670 --> 00:22:03.670] et qu'ils n'avaient pas vu venir parce que France Culture
+[00:22:03.670 --> 00:22:05.670] n'en parle pas et TF1 n'en parle pas
+[00:22:05.670 --> 00:22:07.670] de la France périphérique
+[00:22:07.670 --> 00:22:09.670] et là ils n'en parlent toujours pas les médias
+[00:22:09.670 --> 00:22:11.670] donc il y a ça et il y a aussi sans doute
+[00:22:11.670 --> 00:22:13.670] ce côté où ils veulent revivre
+[00:22:13.670 --> 00:22:15.670] les grands mouvements sociaux
+[00:22:15.670 --> 00:22:17.670] de leur jeunesse
+[00:22:17.670 --> 00:22:19.670] que ça soit le CPE pour ma génération
+[00:22:19.670 --> 00:22:21.670] le mouvement contre la loi de vaquer
+[00:22:21.670 --> 00:22:23.670] pour la génération X
+[00:22:23.670 --> 00:22:25.670] voire mai 68 pour les boomers
+[00:22:25.670 --> 00:22:27.670] sauf que la différence avec mai 68
+[00:22:27.670 --> 00:22:29.670] c'est qu'en mai 68 il y a eu une énorme
+[00:22:29.670 --> 00:22:31.670] grève ouvrière que c'était la plus grosse grève
+[00:22:31.670 --> 00:22:33.670] de l'histoire de France récente
+[00:22:33.670 --> 00:22:35.670] et que bah oui c'est con
+[00:22:35.670 --> 00:22:37.670] c'était à l'époque où la gauche parlait encore
+[00:22:37.670 --> 00:22:39.670] aux ouvriers et ne les méprisaient pas
+[00:22:39.670 --> 00:22:41.670] les ouvriers
+[00:22:41.670 --> 00:22:43.670] ils votaient communistes
+[00:22:43.670 --> 00:22:45.670] ils votaient pas RN
+[00:22:45.670 --> 00:22:47.670] c'est QFD hein
+[00:22:47.670 --> 00:22:49.670] et ça serait pas grave en fait
+[00:22:49.670 --> 00:22:51.670] de se tromper si ça ne faisait pas le jeu de la macronie
+[00:22:51.670 --> 00:22:53.670] et c'est ça le problème
+[00:22:53.670 --> 00:22:55.670] avec tous ces gens qui refusent
+[00:22:55.670 --> 00:22:57.670] de regarder la réalité de la France en face
+[00:22:57.670 --> 00:22:59.670] et qui s'imaginent que là c'est
+[00:22:59.670 --> 00:23:01.670] des racailles de 14 ans et avec Hamza Al-Adouan
+[00:23:01.670 --> 00:23:03.670] qui vont faire la révolution
+[00:23:03.670 --> 00:23:05.670] ils font précisément le jeu
+[00:23:05.670 --> 00:23:07.670] de la macronie
+[00:23:07.670 --> 00:23:09.670] qui a embauché là en l'occurrence
+[00:23:09.670 --> 00:23:11.670] Mélenchon comme chef d'orchestre
+[00:23:11.670 --> 00:23:13.670] où chacun joue sa partition
+[00:23:13.670 --> 00:23:15.670] et où effectivement ça donne une cacophonie
+[00:23:15.670 --> 00:23:17.670] absolument insupportable pour tous les gens
+[00:23:17.670 --> 00:23:19.670] autour à la fois des jeunes
+[00:23:19.670 --> 00:23:21.670] confrontés effectivement certes
+[00:23:21.670 --> 00:23:23.670] à de réels problèmes
+[00:23:23.670 --> 00:23:25.670] dans l'éducation mais qui dans l'ensemble
+[00:23:25.670 --> 00:23:27.670] montrent surtout que le problème c'est l'absence
+[00:23:27.670 --> 00:23:29.670] d'éducation, l'absence de cadre, l'absence
+[00:23:29.670 --> 00:23:31.670] de discipline et parmi ceci
+[00:23:31.670 --> 00:23:33.670] des éléments incontrôlables qui n'attendent
+[00:23:33.670 --> 00:23:35.670] qu'un prétexte pour
+[00:23:35.670 --> 00:23:37.670] venir mettre le feu au pays sans aucune
+[00:23:37.670 --> 00:23:39.670] revendication politique. Dans cet orchestre
+[00:23:39.670 --> 00:23:41.670] on a des personnels
+[00:23:41.670 --> 00:23:43.670] éducatifs, des cadres de la
+[00:23:43.670 --> 00:23:45.670] fonction publique, des syndicalistes, des militants
+[00:23:45.670 --> 00:23:47.670] professionnels, des élus
+[00:23:47.670 --> 00:23:49.670] de gauche, tous ces gens
+[00:23:49.670 --> 00:23:51.670] qui ont le même profil
+[00:23:51.670 --> 00:23:53.670] d'ailleurs sociologiques c'est assez hallucinant
+[00:23:53.670 --> 00:23:55.670] qui sont
+[00:23:55.670 --> 00:23:57.670] les bénéficiaires de la redistribution
+[00:23:57.670 --> 00:23:59.670] de la richesse produite, richesse que l'on
+[00:23:59.670 --> 00:24:01.670] taxe en permanence aux producteurs
+[00:24:01.670 --> 00:24:03.670] producteurs qui sont complètement passés
+[00:24:03.670 --> 00:24:05.670] sous silence comme d'habitude
+[00:24:05.670 --> 00:24:07.670] puisqu'ils habitent dans la France
+[00:24:07.670 --> 00:24:09.670] périphérique, eux ils n'ont pas de problème
+[00:24:09.670 --> 00:24:11.670] c'est les pauvres banlieusards, les pauvres banlieusards c'est eux le peuple
+[00:24:11.670 --> 00:24:13.670] c'est eux les misérables. Voilà
+[00:24:13.670 --> 00:24:15.670] donc tous ces gens chez qui on a nourri
+[00:24:15.670 --> 00:24:17.670] le narcissisme qui n'ont à
+[00:24:17.670 --> 00:24:19.670] la bouche que plainte et victimisation
+[00:24:19.670 --> 00:24:21.670] permanente, qui confondent
+[00:24:21.670 --> 00:24:23.670] mettre le bordel et faire
+[00:24:23.670 --> 00:24:25.670] une révolution politique
+[00:24:25.670 --> 00:24:27.670] qui ont oublié aussi
+[00:24:27.670 --> 00:24:29.670] qui payent leur salaire
+[00:24:29.670 --> 00:24:31.670] de fonctionnaire et les dégradations
+[00:24:31.670 --> 00:24:33.670] occasionnées d'ailleurs par leurs cosplays
+[00:24:33.670 --> 00:24:35.670] de Che Guevara et Eco Plus
+[00:24:35.670 --> 00:24:37.670] et oui je dis Eco Plus parce que
+[00:24:37.670 --> 00:24:39.670] si les révolutionnaires avaient un truc pour eux
+[00:24:39.670 --> 00:24:41.670] c'est qu'ils avaient
+[00:24:41.670 --> 00:24:43.670] une forme de discipline, oui même à Cuba
+[00:24:43.670 --> 00:24:45.670] et tous ces gens qui sont devenus
+[00:24:45.670 --> 00:24:47.670] finalement débiles à force
+[00:24:47.670 --> 00:24:49.670] de confort d'entre soi, qui ne se
+[00:24:49.670 --> 00:24:51.670] confrontent plus du tout à la France
+[00:24:51.670 --> 00:24:53.670] réelle et qui préfèrent
+[00:24:53.670 --> 00:24:55.670] se bercer d'illusions
+[00:24:55.670 --> 00:24:57.670] et qui s'empresseront d'aller remettre
+[00:24:57.670 --> 00:24:59.670] un bulletin pour le
+[00:24:59.670 --> 00:25:01.670] système parce que en face
+[00:25:01.670 --> 00:25:03.670] il y a vraiment le danger de l'extrême droite
+[00:25:03.670 --> 00:25:05.670] et l'extrême droite en question c'est qui ?
+[00:25:05.670 --> 00:25:07.670] Ce que vous appelez l'extrême droite en fait
+[00:25:07.670 --> 00:25:09.670] c'est la majorité des français maintenant
+[00:25:09.670 --> 00:25:11.670] une immense majorité
+[00:25:11.670 --> 00:25:13.670] des français
+[00:25:13.670 --> 00:25:15.670] et c'est pas parce que vous allez
+[00:25:15.670 --> 00:25:17.670] vous enfoncer
+[00:25:17.670 --> 00:25:19.670] toujours plus loin dans vos délires
+[00:25:19.670 --> 00:25:21.670] que ça va changer quoi que ce soit
+[00:25:21.670 --> 00:25:23.670] parce que pendant ce temps, pendant qu'ils jouent
+[00:25:23.670 --> 00:25:25.670] aux révolutionnaires de salon, les français
+[00:25:25.670 --> 00:25:27.670] qui financent leurs conneries, qui constatent l'effondrement
+[00:25:27.670 --> 00:25:29.670] du niveau, aussi bien
+[00:25:29.670 --> 00:25:31.670] des élèves que des enseignants d'ailleurs
+[00:25:31.670 --> 00:25:33.670] et à qui finalement
+[00:25:33.670 --> 00:25:35.670] tous ces révolutionnaires là
+[00:25:35.670 --> 00:25:37.670] viennent donner des leçons de tolérance, des leçons
+[00:25:37.670 --> 00:25:39.670] de politique, et bien tous ces gens en fait
+[00:25:39.670 --> 00:25:41.670] ils sont encore invisibilisés, donc c'est encore
+[00:25:41.670 --> 00:25:43.670] la macronie qui gagne à
+[00:25:43.670 --> 00:25:45.670] effacer du paysage, la France
+[00:25:45.670 --> 00:25:47.670] qui en a gros, la France qui
+[00:25:47.670 --> 00:25:49.670] vraiment là
+[00:25:49.670 --> 00:25:51.670] n'en peut plus. Ceux qui
+[00:25:51.670 --> 00:25:53.670] travaillent, qui produisent la
+[00:25:53.670 --> 00:25:55.670] richesse réelle du pays
+[00:25:55.670 --> 00:25:57.670] ceux qui font tourner la France au quotidien
+[00:25:57.670 --> 00:25:59.670] et à qui on demande toujours
+[00:25:59.670 --> 00:26:01.670] plus pour financer
+[00:26:01.670 --> 00:26:03.670] cette absurde comédie parce que
+[00:26:03.670 --> 00:26:05.670] sans eux en fait, si on ne pouvait
+[00:26:05.670 --> 00:26:07.670] pas les taxer encore toujours plus eux
+[00:26:07.670 --> 00:26:09.670] et bien tout ce cirque s'effondrerait
+[00:26:09.670 --> 00:26:11.670] et toute cette France là
+[00:26:11.670 --> 00:26:13.670] en fait elle est en train de ronger son frein
+[00:26:13.670 --> 00:26:15.670] elle attend patiemment, avec
+[00:26:15.670 --> 00:26:17.670] un calme et une discipline
+[00:26:17.670 --> 00:26:19.670] Olympien et
+[00:26:19.670 --> 00:26:21.670] extraordinaire, au vu des circonstances
+[00:26:21.670 --> 00:26:23.670] que leur heure arrive
+[00:26:23.670 --> 00:26:25.670] et le gouvernement
+[00:26:25.670 --> 00:26:27.670] et ses idiots utiles et bien
+[00:26:27.670 --> 00:26:29.670] il déploie des trésors d'ingéniosité
+[00:26:29.670 --> 00:26:31.670] pour masquer cette
+[00:26:31.670 --> 00:26:33.670] colère, cette colère venue
+[00:26:33.670 --> 00:26:35.670] des profondeurs de la France, pas la nouvelle
+[00:26:35.670 --> 00:26:37.670] France, mais la France éternelle
+[00:26:37.670 --> 00:26:39.670] celle qui ne se rend pas, celle qui ne se soumet
+[00:26:39.670 --> 00:26:41.670] pas aux tyrans ni aux envahisseurs
+[00:26:41.670 --> 00:26:43.670] et qui finit toujours
+[00:26:43.670 --> 00:26:45.670] par mener son petit bout de chemin
+[00:26:45.670 --> 00:26:47.670] et cette colère là, celle qui vient des profondeurs
+[00:26:47.670 --> 00:26:49.670] de la France, ce n'est pas
+[00:26:49.670 --> 00:26:51.670] un feu de paille, ou un feu de poubelle
+[00:26:51.670 --> 00:26:53.670] en l'occurrence, déclenché par des
+[00:26:53.670 --> 00:26:55.670] idiots au service du pouvoir
+[00:26:55.670 --> 00:26:57.670] elle ne peut pas être
+[00:26:57.670 --> 00:26:59.670] détournée, elle ne pourra pas être
+[00:26:59.670 --> 00:27:01.670] contenue, parce qu'elle provient
+[00:27:01.670 --> 00:27:03.670] d'une expérience
+[00:27:03.670 --> 00:27:05.670] et d'une compréhension
+[00:27:05.670 --> 00:27:07.670] par le vécu, par la vie en fait
+[00:27:07.670 --> 00:27:09.670] tout simplement, dans le
+[00:27:09.670 --> 00:27:11.670] monde réel. Chez des Français à qui
+[00:27:11.670 --> 00:27:13.670] tu ne peux pas la faire
+[00:27:13.670 --> 00:27:15.670] en fait, chez qui la
+[00:27:15.670 --> 00:27:17.670] propagande médiatique ne fonctionne plus
+[00:27:17.670 --> 00:27:19.670] chez qui les mensonges ne fonctionnent plus
+[00:27:19.670 --> 00:27:21.670] et qui refusent
+[00:27:21.670 --> 00:27:23.670] de s'inventer une réalité parallèle
+[00:27:23.670 --> 00:27:25.670] qui leur permet encore de se dire
+[00:27:25.670 --> 00:27:27.670] que tout va bien, que tout va comme avant
+[00:27:27.670 --> 00:27:29.670] et qu'on peut rêver
+[00:27:29.670 --> 00:27:31.670] au grand soir avec Daniel Cohn-Bendit
+[00:27:31.670 --> 00:27:33.670] ou Jean-Luc Mélenchon. Cette colère là
+[00:27:33.670 --> 00:27:35.670] ce n'est pas le feu de poubelle
+[00:27:35.670 --> 00:27:37.670] c'est la braise sous la cendre
+[00:27:37.670 --> 00:27:39.670] sourde, calme,
+[00:27:39.670 --> 00:27:41.670] implacable, à attendre la meilleure
+[00:27:41.670 --> 00:27:43.670] occasion de s'exprimer. Mais
+[00:27:43.670 --> 00:27:45.670] quand elle partira
+[00:27:45.670 --> 00:27:47.670] il n'y a rien qui pourra la canaliser. Et c'est cette
+[00:27:47.670 --> 00:27:49.670] colère là, venue des profondeurs de la
+[00:27:49.670 --> 00:27:51.670] France, qui donnera à notre pays
+[00:27:51.670 --> 00:27:53.670] l'énergie de redevenir
+[00:27:53.670 --> 00:27:55.670] ce qui n'aurait jamais dû cesser d'être.
+[00:27:55.670 --> 00:27:57.670] Alors laissons les enfants
+[00:27:57.670 --> 00:27:59.670] de 16 à 77 ans
+[00:27:59.670 --> 00:28:01.670] s'amuser dans leurs cours
+[00:28:01.670 --> 00:28:03.670] de récré, les adultes eux
+[00:28:03.670 --> 00:28:05.670] ont très bien compris ce qui était en train de se passer
+[00:28:05.670 --> 00:28:07.670] et ils se préparent. Courage à
+[00:28:07.670 --> 00:28:09.670] tous, prenez soin de vous
+[00:28:09.670 --> 00:28:11.670] et vive la France libre.

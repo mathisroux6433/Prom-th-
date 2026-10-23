@@ -1,0 +1,280 @@
+{
+  "arguments_positions": [
+    {
+      "position": "La mobilisation a été beaucoup plus vaste que les images de feu ne le suggèrent",
+      "horodatages": [
+        "00:04:01",
+        "00:06:03"
+      ]
+    },
+    {
+      "position": "Plus de 70 % du traitement télévisé aurait porté sur la violence",
+      "horodatages": [
+        "00:10:03",
+        "00:11:00"
+      ]
+    },
+    {
+      "position": "Le gouvernement exploite le cadrage sécuritaire pour promouvoir sa politique",
+      "horodatages": [
+        "00:20:00",
+        "00:21:00"
+      ]
+    }
+  ],
+  "citations_exactes": [
+    {
+      "texte": "Liberté, égalité, fraternité.",
+      "horodatage": "00:36:00"
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "comptage multi-source",
+      "horodatages": [
+        "00:04:01",
+        "00:05:00"
+      ]
+    },
+    {
+      "nom": "cadrage par la violence",
+      "horodatages": [
+        "00:10:03"
+      ]
+    },
+    {
+      "nom": "identification policière",
+      "horodatages": [
+        "00:11:51"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "17 octobre 2026",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:01"
+      ]
+    },
+    {
+      "nom": "loi casseur-payeur",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:21:00"
+      ]
+    },
+    {
+      "nom": "décision CEDH de 2025",
+      "niveau": "mention",
+      "horodatages": [
+        "00:16:00"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "la France du travail",
+      "horodatages": [
+        "00:06:37"
+      ]
+    },
+    {
+      "expression": "focalisation sur 0,1 à 0,2 %",
+      "horodatages": [
+        "00:24:00"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "Lille",
+      "niveau": "mention",
+      "horodatages": [
+        "00:09:00"
+      ]
+    },
+    {
+      "nom": "Limoges",
+      "niveau": "mention",
+      "horodatages": [
+        "00:07:01"
+      ]
+    },
+    {
+      "nom": "Saint-Étienne",
+      "niveau": "mention",
+      "horodatages": [
+        "00:01:05"
+      ]
+    },
+    {
+      "nom": "Lyon",
+      "niveau": "mention",
+      "horodatages": [
+        "00:08:01"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "17 octobre",
+    "550000",
+    "comptage",
+    "violence",
+    "temps d'antenne",
+    "police",
+    "matricule",
+    "sommations",
+    "casseur-payeur",
+    "pauvreté"
+  ],
+  "organismes": [
+    {
+      "nom": "ministère de l'Intérieur",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:04:38"
+      ]
+    },
+    {
+      "nom": "Cour européenne des droits de l'homme",
+      "niveau": "mention",
+      "horodatages": [
+        "00:16:00"
+      ]
+    },
+    {
+      "nom": "Confédération paysanne",
+      "niveau": "mention",
+      "horodatages": [
+        "00:07:01"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:22:03",
+        "00:29:00"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "images de feu",
+      "relation": "éclipsent",
+      "cible": "mobilisation pacifique",
+      "horodatages": [
+        "00:02:01"
+      ]
+    },
+    {
+      "source": "cadrage sécuritaire",
+      "relation": "favorise selon LIMIT",
+      "cible": "loi casseur-payeur",
+      "horodatages": [
+        "00:21:00"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:04:38",
+      "titre": "Chronologie et images dominantes"
+    },
+    {
+      "debut": "00:04:38",
+      "fin": "00:08:42",
+      "titre": "Comptage et France du travail"
+    },
+    {
+      "debut": "00:08:42",
+      "fin": "00:11:51",
+      "titre": "Feu et temps d'antenne"
+    },
+    {
+      "debut": "00:11:51",
+      "fin": "00:19:47",
+      "titre": "Police sans matricule"
+    },
+    {
+      "debut": "00:19:47",
+      "fin": "00:24:51",
+      "titre": "Stratégie du chaos"
+    },
+    {
+      "debut": "00:24:51",
+      "fin": "00:28:07",
+      "titre": "Raisons sociales"
+    },
+    {
+      "debut": "00:28:07",
+      "fin": "00:36:16",
+      "titre": "Perspectives politiques"
+    }
+  ],
+  "resume_general": "Enquête vidéo de LIMIT sur la participation, la sociologie, le traitement médiatique et le maintien de l'ordre lors du 17 octobre.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "méthode de comptage",
+      "horodatages": [
+        "00:04:38"
+      ]
+    },
+    {
+      "sujet": "pauvreté et pouvoir d'achat",
+      "horodatages": [
+        "00:26:00",
+        "00:27:02"
+      ]
+    },
+    {
+      "sujet": "finitude des ressources",
+      "horodatages": [
+        "00:34:01"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "ampleur de la mobilisation",
+      "horodatages": [
+        "00:04:01"
+      ]
+    },
+    {
+      "theme": "traitement médiatique",
+      "horodatages": [
+        "00:10:03"
+      ]
+    },
+    {
+      "theme": "maintien de l'ordre",
+      "horodatages": [
+        "00:11:51"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "forces de l'ordre",
+      "variantes": [
+        "police",
+        "policiers"
+      ]
+    },
+    {
+      "canonique": "violences",
+      "variantes": [
+        "feu",
+        "casse",
+        "chaos"
+      ]
+    }
+  ],
+  "video_id": "Iwp81BcwNx8"
+}

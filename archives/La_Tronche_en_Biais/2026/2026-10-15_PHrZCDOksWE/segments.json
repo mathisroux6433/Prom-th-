@@ -1,0 +1,2473 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.5,
+      "end": 9.49,
+      "start_timestamp": "00:00:00.500",
+      "end_timestamp": "00:00:09.490",
+      "text": "On va parler des violences dans les manifestations lycéennes, c'est un peu tout ce qui intéresse"
+    },
+    {
+      "id": 1,
+      "start": 9.49,
+      "end": 16.25,
+      "start_timestamp": "00:00:09.490",
+      "end_timestamp": "00:00:16.250",
+      "text": "les médias. Les manifestations lycéennes provoquent des réactions et des propos outranciers,"
+    },
+    {
+      "id": 2,
+      "start": 16.25,
+      "end": 21.79,
+      "start_timestamp": "00:00:16.250",
+      "end_timestamp": "00:00:21.790",
+      "text": "exagérés, radicalisés. Vous l'avez vu comme moi. Nous assistons à des retranchements"
+    },
+    {
+      "id": 3,
+      "start": 21.79,
+      "end": 26.53,
+      "start_timestamp": "00:00:21.790",
+      "end_timestamp": "00:00:26.530",
+      "text": "réflexes qui consistent à accuser le corps d'en face d'être un ramassis d'abrutis"
+    },
+    {
+      "id": 4,
+      "start": 26.53,
+      "end": 31.53,
+      "start_timestamp": "00:00:26.530",
+      "end_timestamp": "00:00:31.530",
+      "text": "sanguinaire. Et c'est sans doute pas vrai en fait. Probablement que les gens d'en"
+    },
+    {
+      "id": 5,
+      "start": 31.53,
+      "end": 35.33,
+      "start_timestamp": "00:00:31.530",
+      "end_timestamp": "00:00:35.330",
+      "text": "face, même si on ne les aime pas, ce n'est pas des abrutis sanguinaire. Demandez-vous."
+    },
+    {
+      "id": 6,
+      "start": 35.33,
+      "end": 42.85,
+      "start_timestamp": "00:00:35.330",
+      "end_timestamp": "00:00:42.850",
+      "text": "Nous voyons des gens raisonnables dégoiser des rhétoriques lunaires, des débats sans"
+    },
+    {
+      "id": 7,
+      "start": 42.85,
+      "end": 48.09,
+      "start_timestamp": "00:00:42.850",
+      "end_timestamp": "00:00:48.090",
+      "text": "queue ni tête envahir nos réseaux et le cirque médiatique se régaler d'une polémique"
+    },
+    {
+      "id": 8,
+      "start": 48.09,
+      "end": 52.05,
+      "start_timestamp": "00:00:48.090",
+      "end_timestamp": "00:00:52.050",
+      "text": "qui fait l'audimat, en mettant en scène une opposition où tous les avis auraient"
+    },
+    {
+      "id": 9,
+      "start": 52.05,
+      "end": 58.25,
+      "start_timestamp": "00:00:52.050",
+      "end_timestamp": "00:00:58.250",
+      "text": "la même valeur. Retour au pugila après une page de réclame. Bon. Donc il y a un problème"
+    },
+    {
+      "id": 10,
+      "start": 58.25,
+      "end": 64.29,
+      "start_timestamp": "00:00:58.250",
+      "end_timestamp": "00:01:04.290",
+      "text": "dans la manière aussi d'en débattre entre nous et dont on est informé sur cette question."
+    },
+    {
+      "id": 11,
+      "start": 64.29,
+      "end": 69.81,
+      "start_timestamp": "00:01:04.290",
+      "end_timestamp": "00:01:09.810",
+      "text": "Vous savez très très bien que nous n'acceptons pas l'idée que tous les avis aient la même"
+    },
+    {
+      "id": 12,
+      "start": 69.81,
+      "end": 75.37,
+      "start_timestamp": "00:01:09.810",
+      "end_timestamp": "00:01:15.370",
+      "text": "valeur sur la forme de la Terre, sur les droits de l'homme, sur le théorium de Pythagore"
+    },
+    {
+      "id": 13,
+      "start": 75.37,
+      "end": 80.37,
+      "start_timestamp": "00:01:15.370",
+      "end_timestamp": "00:01:20.370",
+      "text": "ou sur l'impact des activités humaines sur le climat. Parce que certains de ces avis"
+    },
+    {
+      "id": 14,
+      "start": 80.37,
+      "end": 85.21,
+      "start_timestamp": "00:01:20.370",
+      "end_timestamp": "00:01:25.210",
+      "text": "sont mieux informés, mieux connectés au corps plus des savoirs, ils concourent davantage"
+    },
+    {
+      "id": 15,
+      "start": 85.21,
+      "end": 91.29,
+      "start_timestamp": "00:01:25.210",
+      "end_timestamp": "00:01:31.290",
+      "text": "aux biens communs, aux biens communs, notion importante, que les élucubrations contraires."
+    },
+    {
+      "id": 16,
+      "start": 91.29,
+      "end": 97.01,
+      "start_timestamp": "00:01:31.290",
+      "end_timestamp": "00:01:37.010",
+      "text": "Et de fait, les médias responsables ne donnent pas du temps d'antenne aux propos"
+    },
+    {
+      "id": 17,
+      "start": 97.01,
+      "end": 102.09,
+      "start_timestamp": "00:01:37.010",
+      "end_timestamp": "00:01:42.090",
+      "text": "antiscientifiques. Ce n'est pas trivial, ça montre ce que nous attendons des grands"
+    },
+    {
+      "id": 18,
+      "start": 102.09,
+      "end": 109.21,
+      "start_timestamp": "00:01:42.090",
+      "end_timestamp": "00:01:49.210",
+      "text": "médias et qu'ils font en général être raisonnables. Sur le maintien de l'ordre,"
+    },
+    {
+      "id": 19,
+      "start": 109.21,
+      "end": 114.29,
+      "start_timestamp": "00:01:49.210",
+      "end_timestamp": "00:01:54.290",
+      "text": "sur l'efficacité des méthodes, sur les résultats des doctrines appliquées en France et ailleurs,"
+    },
+    {
+      "id": 20,
+      "start": 114.29,
+      "end": 118.85,
+      "start_timestamp": "00:01:54.290",
+      "end_timestamp": "00:01:58.850",
+      "text": "il y a aussi des avis qui relèvent de l'élucubration et d'autres qui s'accordent"
+    },
+    {
+      "id": 21,
+      "start": 118.85,
+      "end": 123.73,
+      "start_timestamp": "00:01:58.850",
+      "end_timestamp": "00:02:03.730",
+      "text": "avec les connaissances établies. Dans cette chronique, je vais éviter de participer"
+    },
+    {
+      "id": 22,
+      "start": 123.73,
+      "end": 128.49,
+      "start_timestamp": "00:02:03.730",
+      "end_timestamp": "00:02:08.490",
+      "text": "à ce cafarnaum autant que je peux. Je ne vais pas vous donner mon avis personnel sur"
+    },
+    {
+      "id": 23,
+      "start": 128.49,
+      "end": 133.13,
+      "start_timestamp": "00:02:08.490",
+      "end_timestamp": "00:02:13.130",
+      "text": "les revendications, et pourtant j'en ai. Je ne vais pas mettre en concurrence les douleurs"
+    },
+    {
+      "id": 24,
+      "start": 133.13,
+      "end": 136.65,
+      "start_timestamp": "00:02:13.130",
+      "end_timestamp": "00:02:16.650",
+      "text": "des uns et des autres, alors que je pourrais le faire, j'ai une idée. Je ne vais pas"
+    },
+    {
+      "id": 25,
+      "start": 136.65,
+      "end": 141.93,
+      "start_timestamp": "00:02:16.650",
+      "end_timestamp": "00:02:21.930",
+      "text": "accuser tel parti politique d'avoir telle intention cachée, pourtant on a des indices."
+    },
+    {
+      "id": 26,
+      "start": 142.25,
+      "end": 147.49,
+      "start_timestamp": "00:02:22.250",
+      "end_timestamp": "00:02:27.490",
+      "text": "Je ne vais pas me dresser sur des ergots indignés pour distribuer des cartons rouges contre"
+    },
+    {
+      "id": 27,
+      "start": 147.49,
+      "end": 152.97,
+      "start_timestamp": "00:02:27.490",
+      "end_timestamp": "00:02:32.970",
+      "text": "les racailles qui brûlent des lycées ou les fachos qui tabassent des gamins, et pourtant"
+    },
+    {
+      "id": 28,
+      "start": 152.97,
+      "end": 159.33,
+      "start_timestamp": "00:02:32.970",
+      "end_timestamp": "00:02:39.330",
+      "text": "on pourrait s'énerver contre tout le monde. Mon propos va essayer d'être scientifique,"
+    },
+    {
+      "id": 29,
+      "start": 159.33,
+      "end": 165.21,
+      "start_timestamp": "00:02:39.330",
+      "end_timestamp": "00:02:45.210",
+      "text": "et donc il ne va pas s'aligner docilement avec la ligne de « votre parti préféré"
+    },
+    {
+      "id": 30,
+      "start": 165.21,
+      "end": 171.25,
+      "start_timestamp": "00:02:45.210",
+      "end_timestamp": "00:02:51.250",
+      "text": "», donc d'avance mes excuses. Nous devons tous lutter contre l'instinct qui nous pousse"
+    },
+    {
+      "id": 31,
+      "start": 171.25,
+      "end": 176.17,
+      "start_timestamp": "00:02:51.250",
+      "end_timestamp": "00:02:56.170",
+      "text": "à détester les idées qui contredisent la doxa du groupe auquel nous nous identifions."
+    },
+    {
+      "id": 32,
+      "start": 176.17,
+      "end": 182.45,
+      "start_timestamp": "00:02:56.170",
+      "end_timestamp": "00:03:02.450",
+      "text": "C'est une exigence de l'esprit critique. Et vous noterez que j'ai ressenti le besoin"
+    },
+    {
+      "id": 33,
+      "start": 182.45,
+      "end": 187.53,
+      "start_timestamp": "00:03:02.450",
+      "end_timestamp": "00:03:07.530",
+      "text": "de vous adresser cette longue introductive mise en garde, c'est donc que je sentais"
+    },
+    {
+      "id": 34,
+      "start": 187.53,
+      "end": 194.77,
+      "start_timestamp": "00:03:07.530",
+      "end_timestamp": "00:03:14.770",
+      "text": "qu'il fallait le faire. Maintenant, entrons dans le vif du sujet. Et pour ça, on a des"
+    },
+    {
+      "id": 35,
+      "start": 194.77,
+      "end": 200.85,
+      "start_timestamp": "00:03:14.770",
+      "end_timestamp": "00:03:20.850",
+      "text": "faits divers, on a des éléments comme ça, on a des images, on a des vidéos. À Lens,"
+    },
+    {
+      "id": 36,
+      "start": 200.85,
+      "end": 208.57,
+      "start_timestamp": "00:03:20.850",
+      "end_timestamp": "00:03:28.570",
+      "text": "un adolescent de 15 ans à la main arrachée par une grenade EF Sun pendant le blocage du lycée"
+    },
+    {
+      "id": 37,
+      "start": 208.57,
+      "end": 216.49,
+      "start_timestamp": "00:03:28.570",
+      "end_timestamp": "00:03:36.490",
+      "text": "Béal. À Saint-Ouen, Lomone, Eden, 14 ans, reçoit un tir de lance-grenade lacrymogène Cougar au"
+    },
+    {
+      "id": 38,
+      "start": 216.49,
+      "end": 223.37,
+      "start_timestamp": "00:03:36.490",
+      "end_timestamp": "00:03:43.370",
+      "text": "visage, double fracture de la mâchoire, dent du haut brisé, dent du bas arraché. À Argenteuil,"
+    },
+    {
+      "id": 39,
+      "start": 223.61,
+      "end": 228.01,
+      "start_timestamp": "00:03:43.610",
+      "end_timestamp": "00:03:48.010",
+      "text": "une enquête est ouverte après la blessure à l'œil d'un lycéen de 16 ans, suspecté d'avoir été"
+    },
+    {
+      "id": 40,
+      "start": 228.01,
+      "end": 233.93,
+      "start_timestamp": "00:03:48.010",
+      "end_timestamp": "00:03:53.930",
+      "text": "causé par un tir de LBD. Et il y en a d'autres, c'est les trois plus graves qu'on a vu passer"
+    },
+    {
+      "id": 41,
+      "start": 233.93,
+      "end": 239.65,
+      "start_timestamp": "00:03:53.930",
+      "end_timestamp": "00:03:59.650",
+      "text": "récemment. Reuters documente 28 blessures attribuées à l'intervention policière pendant les"
+    },
+    {
+      "id": 42,
+      "start": 239.65,
+      "end": 246.13,
+      "start_timestamp": "00:03:59.650",
+      "end_timestamp": "00:04:06.130",
+      "text": "manifestations lycéennes. 15 font partie des dossiers examinés par l'IGPN. Les cas recensés"
+    },
+    {
+      "id": 43,
+      "start": 246.13,
+      "end": 251.21,
+      "start_timestamp": "00:04:06.130",
+      "end_timestamp": "00:04:11.210",
+      "text": "impliquent les LBD, les grenades assourdissantes, les grenades lacrymogènes, les coups de matraque"
+    },
+    {
+      "id": 44,
+      "start": 251.61,
+      "end": 259.41,
+      "start_timestamp": "00:04:11.610",
+      "end_timestamp": "00:04:19.410",
+      "text": "et les charges à cheval. Reuters rapporte aussi 6 877 arrestations, c'est un chiffre record,"
+    },
+    {
+      "id": 45,
+      "start": 259.41,
+      "end": 266.53,
+      "start_timestamp": "00:04:19.410",
+      "end_timestamp": "00:04:26.530",
+      "text": "principalement des mineurs et environ 700 policiers blessés. Reuters, dont l'article"
+    },
+    {
+      "id": 46,
+      "start": 266.53,
+      "end": 271.13,
+      "start_timestamp": "00:04:26.530",
+      "end_timestamp": "00:04:31.130",
+      "text": "convenra parce que leur page est verrolée par les pubs, interroge Sébastien Rocher,"
+    },
+    {
+      "id": 47,
+      "start": 271.13,
+      "end": 277.85,
+      "start_timestamp": "00:04:31.130",
+      "end_timestamp": "00:04:37.850",
+      "text": "directeur de recherche au CNRS et spécialiste des questions de police. Selon lui, la France se"
+    },
+    {
+      "id": 48,
+      "start": 277.93,
+      "end": 283.13,
+      "start_timestamp": "00:04:37.930",
+      "end_timestamp": "00:04:43.130",
+      "text": "distinguant d'Europe par l'usage de ses armes et par le nombre de victimes. Nous sommes une"
+    },
+    {
+      "id": 49,
+      "start": 283.13,
+      "end": 288.61,
+      "start_timestamp": "00:04:43.130",
+      "end_timestamp": "00:04:48.610",
+      "text": "exception, cocorico. Le 7 octobre, devant la Commission des lois de l'Assemblée nationale,"
+    },
+    {
+      "id": 50,
+      "start": 288.61,
+      "end": 294.73,
+      "start_timestamp": "00:04:48.610",
+      "end_timestamp": "00:04:54.730",
+      "text": "Laurent Nunez, ministre de l'Intérieur, affirme que les blessures d'élèves relèvent très"
+    },
+    {
+      "id": 51,
+      "start": 294.73,
+      "end": 299.73,
+      "start_timestamp": "00:04:54.730",
+      "end_timestamp": "00:04:59.730",
+      "text": "majoritairement d'accidents ou de projetiles lancés par d'autres lycéens, d'autres manifestants"
+    },
+    {
+      "id": 52,
+      "start": 299.73,
+      "end": 304.61,
+      "start_timestamp": "00:04:59.730",
+      "end_timestamp": "00:05:04.610",
+      "text": "en tout cas. Et pourtant, il suspend les grenades assourdissantes dans le cadre des mouvements"
+    },
+    {
+      "id": 53,
+      "start": 304.61,
+      "end": 310.17,
+      "start_timestamp": "00:05:04.610",
+      "end_timestamp": "00:05:10.170",
+      "text": "lycéens, mais maintient les autres armes intermédiaires, dont les LBD, qu'ils jugent"
+    },
+    {
+      "id": 54,
+      "start": 310.17,
+      "end": 315.53,
+      "start_timestamp": "00:05:10.170",
+      "end_timestamp": "00:05:15.530",
+      "text": "indispensables face à une violence extrême. Les blessures des forces de l'ordre, elles nous"
+    },
+    {
+      "id": 55,
+      "start": 315.53,
+      "end": 323.77,
+      "start_timestamp": "00:05:15.530",
+      "end_timestamp": "00:05:23.770",
+      "text": "renseignent sur l'intensité des affrontements, mais prenons soin toutefois de ne pas en inférer que"
+    },
+    {
+      "id": 56,
+      "start": 323.77,
+      "end": 329.77,
+      "start_timestamp": "00:05:23.770",
+      "end_timestamp": "00:05:29.770",
+      "text": "la mutilation de mineurs par des armes de police serait un dommage symétrique, acceptable parce"
+    },
+    {
+      "id": 57,
+      "start": 329.77,
+      "end": 336.41,
+      "start_timestamp": "00:05:29.770",
+      "end_timestamp": "00:05:36.410",
+      "text": "quand même ils se rebellent, ces petits cons, donc il faut les mutiler. La force publique, elle agit au"
+    },
+    {
+      "id": 58,
+      "start": 336.41,
+      "end": 342.85,
+      "start_timestamp": "00:05:36.410",
+      "end_timestamp": "00:05:42.850",
+      "text": "nom de l'Etat, avec des armes, des ordres, une hiérarchie, des gens qui sont formés dans cette métier,"
+    },
+    {
+      "id": 59,
+      "start": 342.85,
+      "end": 348.37,
+      "start_timestamp": "00:05:42.850",
+      "end_timestamp": "00:05:48.370",
+      "text": "qui sont payés pour ça, et une obligation de contrôle. La responsabilité, elle est donc purielle,"
+    },
+    {
+      "id": 60,
+      "start": 348.37,
+      "end": 355.85,
+      "start_timestamp": "00:05:48.370",
+      "end_timestamp": "00:05:55.850",
+      "text": "et elle incombe en réalité, ne soyez pas surpris, elle incombe en partie sur chacun de nous et de"
+    },
+    {
+      "id": 61,
+      "start": 355.85,
+      "end": 362.57,
+      "start_timestamp": "00:05:55.850",
+      "end_timestamp": "00:06:02.570",
+      "text": "vous, on est citoyens, c'est en notre nom que les agents de l'Etat utilisent ces armes, et c'est"
+    },
+    {
+      "id": 62,
+      "start": 362.57,
+      "end": 369.65,
+      "start_timestamp": "00:06:02.570",
+      "end_timestamp": "00:06:09.650",
+      "text": "donc bien différent d'un acte individuel, aussi qu'enalable soit-il. Un petit connard qui brûle"
+    },
+    {
+      "id": 63,
+      "start": 369.65,
+      "end": 375.61,
+      "start_timestamp": "00:06:09.650",
+      "end_timestamp": "00:06:15.610",
+      "text": "une porte de lycée, ou un agent des forces de l'ordre qui matraque quelqu'un, il y a un des deux"
+    },
+    {
+      "id": 64,
+      "start": 375.61,
+      "end": 381.33,
+      "start_timestamp": "00:06:15.610",
+      "end_timestamp": "00:06:21.330",
+      "text": "qui est payé par mon argent pour le faire. Plus de 6000 interpellations en deux semaines, alors ça"
+    },
+    {
+      "id": 65,
+      "start": 381.33,
+      "end": 387.77,
+      "start_timestamp": "00:06:21.330",
+      "end_timestamp": "00:06:27.770",
+      "text": "peut indiquer qu'un mouvement est particulièrement désordonné et problématique, ou bien que la"
+    },
+    {
+      "id": 66,
+      "start": 387.77,
+      "end": 394.33,
+      "start_timestamp": "00:06:27.770",
+      "end_timestamp": "00:06:34.330",
+      "text": "répression est particulièrement sévère. Le chiffre seul nous éclaire mal, après tout on a en Iran"
+    },
+    {
+      "id": 67,
+      "start": 394.33,
+      "end": 400.37,
+      "start_timestamp": "00:06:34.330",
+      "end_timestamp": "00:06:40.370",
+      "text": "des exécutions publiques de manifestants, parce que ça prouve que les manifestants étaient excessifs."
+    },
+    {
+      "id": 68,
+      "start": 400.37,
+      "end": 408.05,
+      "start_timestamp": "00:06:40.370",
+      "end_timestamp": "00:06:48.050",
+      "text": "Nous ignorons combien d'arrestations ont visé la bonne personne, et par ailleurs sans distance de"
+    },
+    {
+      "id": 69,
+      "start": 408.05,
+      "end": 413.81,
+      "start_timestamp": "00:06:48.050",
+      "end_timestamp": "00:06:53.810",
+      "text": "tir, sans ordre écrit, sans identification de l'unité engagée et sans suite disciplinaire,"
+    },
+    {
+      "id": 70,
+      "start": 413.81,
+      "end": 419.33,
+      "start_timestamp": "00:06:53.810",
+      "end_timestamp": "00:06:59.330",
+      "text": "la proportionnalité d'un tir de LBD reste invérifiable. Et vous verrez que mon propos"
+    },
+    {
+      "id": 71,
+      "start": 419.33,
+      "end": 428.05,
+      "start_timestamp": "00:06:59.330",
+      "end_timestamp": "00:07:08.050",
+      "text": "sera là, de se demander comment on évalue, avec quelle méthode on procède. Or, il nous manque des"
+    },
+    {
+      "id": 72,
+      "start": 428.05,
+      "end": 434.29,
+      "start_timestamp": "00:07:08.050",
+      "end_timestamp": "00:07:14.290",
+      "text": "données pertinentes, et donc le débat va tourner à vide. L'Etat ne peut pas demander à être cru"
+    },
+    {
+      "id": 73,
+      "start": 434.29,
+      "end": 440.05,
+      "start_timestamp": "00:07:14.290",
+      "end_timestamp": "00:07:20.050",
+      "text": "sur l'efficacité de sa doctrine sans fournir les moyens de la vérifier. Et vous verrez revenir"
+    },
+    {
+      "id": 74,
+      "start": 440.05,
+      "end": 446.41,
+      "start_timestamp": "00:07:20.050",
+      "end_timestamp": "00:07:26.410",
+      "text": "au fil de mon propos le problème de la transparence, de l'évaluation et de la responsabilité des choix"
+    },
+    {
+      "id": 75,
+      "start": 446.41,
+      "end": 452.21,
+      "start_timestamp": "00:07:26.410",
+      "end_timestamp": "00:07:32.210",
+      "text": "politiques. Parlons un peu de psychologie sociale et de psychologie des foules, qui a abandonné"
+    },
+    {
+      "id": 76,
+      "start": 452.21,
+      "end": 459.41,
+      "start_timestamp": "00:07:32.210",
+      "end_timestamp": "00:07:39.410",
+      "text": "depuis longtemps l'image de la masse irrationnelle contaminée par l'émotion. Le modèle de l'identité"
+    },
+    {
+      "id": 77,
+      "start": 459.41,
+      "end": 467.81,
+      "start_timestamp": "00:07:39.410",
+      "end_timestamp": "00:07:47.810",
+      "text": "sociale élaborée décrit des identités de groupes qui se construisent pendant l'événement. Des"
+    },
+    {
+      "id": 78,
+      "start": 467.81,
+      "end": 473.77,
+      "start_timestamp": "00:07:47.810",
+      "end_timestamp": "00:07:53.770",
+      "text": "personnes venues avec des intentions différentes se perçoivent comme un même groupe quand la"
+    },
+    {
+      "id": 79,
+      "start": 473.77,
+      "end": 478.93,
+      "start_timestamp": "00:07:53.770",
+      "end_timestamp": "00:07:58.930",
+      "text": "police les traite de la même façon. C'est crucial. Une étude, pendant, sur les supporters de"
+    },
+    {
+      "id": 80,
+      "start": 478.93,
+      "end": 485.85,
+      "start_timestamp": "00:07:58.930",
+      "end_timestamp": "00:08:05.850",
+      "text": "football au Portugal lors de l'euro 2004, relie le faible niveau de désordre chez les supporters,"
+    },
+    {
+      "id": 81,
+      "start": 485.85,
+      "end": 493.73,
+      "start_timestamp": "00:08:05.850",
+      "end_timestamp": "00:08:13.730",
+      "text": "anglais, à un style policier non paramilitaire, jugé plus légitime, et à la capacité de la"
+    },
+    {
+      "id": 82,
+      "start": 493.73,
+      "end": 500.45,
+      "start_timestamp": "00:08:13.730",
+      "end_timestamp": "00:08:20.450",
+      "text": "foule à marginaliser ces éléments violents. J'apporte une nuance. Cette littérature porte"
+    },
+    {
+      "id": 83,
+      "start": 500.45,
+      "end": 506.09,
+      "start_timestamp": "00:08:20.450",
+      "end_timestamp": "00:08:26.090",
+      "text": "sur le moment de l'interaction une explication plus structurelle, mais un peu datée, prédit qu'un"
+    },
+    {
+      "id": 84,
+      "start": 506.09,
+      "end": 511.93,
+      "start_timestamp": "00:08:26.090",
+      "end_timestamp": "00:08:31.930",
+      "text": "climat de tension préalable pèse davantage que le style policier du jour. Les données disponibles"
+    },
+    {
+      "id": 85,
+      "start": 511.93,
+      "end": 517.05,
+      "start_timestamp": "00:08:31.930",
+      "end_timestamp": "00:08:37.050",
+      "text": "ne permettent pas, toujours, je dirais même pas souvent, de départager les deux. Bien sûr,"
+    },
+    {
+      "id": 86,
+      "start": 517.05,
+      "end": 522.57,
+      "start_timestamp": "00:08:37.050",
+      "end_timestamp": "00:08:42.570",
+      "text": "la police ne crée pas toutes les violences. Des groupes peuvent rechercher l'affrontement,"
+    },
+    {
+      "id": 87,
+      "start": 522.57,
+      "end": 527.97,
+      "start_timestamp": "00:08:42.570",
+      "end_timestamp": "00:08:47.970",
+      "text": "attaquer les établissements, incendier, lancer des mortiers, frapper des agents, puis se disperser."
+    },
+    {
+      "id": 88,
+      "start": 527.97,
+      "end": 535.81,
+      "start_timestamp": "00:08:47.970",
+      "end_timestamp": "00:08:55.810",
+      "text": "Le lycée Loritz à Nancy à Dapatchemois, la porte a flambé et il est fermé. C'est volontaire,"
+    },
+    {
+      "id": 89,
+      "start": 535.81,
+      "end": 540.69,
+      "start_timestamp": "00:08:55.810",
+      "end_timestamp": "00:09:00.690",
+      "text": "déjà on l'en fait. Ce n'est pas la police qui l'est à forcer. Mais le style policier modifie"
+    },
+    {
+      "id": 90,
+      "start": 540.69,
+      "end": 547.01,
+      "start_timestamp": "00:09:00.690",
+      "end_timestamp": "00:09:07.010",
+      "text": "néanmoins les rapports entre groupes. Une action ciblée peut aider la foule à isoler ces éléments"
+    },
+    {
+      "id": 91,
+      "start": 547.01,
+      "end": 553.57,
+      "start_timestamp": "00:09:07.010",
+      "end_timestamp": "00:09:13.570",
+      "text": "violents. Une action vécue comme collective, opaque ou arbitraire, peut souder des personnes"
+    },
+    {
+      "id": 92,
+      "start": 553.57,
+      "end": 559.29,
+      "start_timestamp": "00:09:13.570",
+      "end_timestamp": "00:09:19.290",
+      "text": "qui n'étaient pas solidaires au départ. L'identité de groupe, la catégorisation des participants et"
+    },
+    {
+      "id": 93,
+      "start": 559.29,
+      "end": 564.21,
+      "start_timestamp": "00:09:19.290",
+      "end_timestamp": "00:09:24.210",
+      "text": "l'interprétation de la contrainte modifient le jugement porté sur l'action policière. Une"
+    },
+    {
+      "id": 94,
+      "start": 564.21,
+      "end": 570.33,
+      "start_timestamp": "00:09:24.210",
+      "end_timestamp": "00:09:30.330",
+      "text": "opération conforme au cadre formel peut être perçue comme injuste quand la contrainte atteint"
+    },
+    {
+      "id": 95,
+      "start": 570.33,
+      "end": 575.53,
+      "start_timestamp": "00:09:30.330",
+      "end_timestamp": "00:09:35.530",
+      "text": "un groupe plus large que les auteurs de violence. Qu'est-ce que vous voulez, nous les humains,"
+    },
+    {
+      "id": 96,
+      "start": 575.53,
+      "end": 581.93,
+      "start_timestamp": "00:09:35.530",
+      "end_timestamp": "00:09:41.930",
+      "text": "on n'aime pas trop les punitions collectives. C'est comme ça. Et je me demande qui peut prétendre"
+    },
+    {
+      "id": 97,
+      "start": 581.93,
+      "end": 587.37,
+      "start_timestamp": "00:09:41.930",
+      "end_timestamp": "00:09:47.370",
+      "text": "qu'il n'était pas au courant. La désescalade, elle est soumise à des conditions opérationnelles. Une"
+    },
+    {
+      "id": 98,
+      "start": 587.37,
+      "end": 592.25,
+      "start_timestamp": "00:09:47.370",
+      "end_timestamp": "00:09:52.250",
+      "text": "foule, elle coopère, parfois ça arrive plus facilement, quand elle comprend les ordres,"
+    },
+    {
+      "id": 99,
+      "start": 592.25,
+      "end": 596.81,
+      "start_timestamp": "00:09:52.250",
+      "end_timestamp": "00:09:56.810",
+      "text": "quand elle peut quitter les lieux. Et donc peut-être que les effets de NAS qu'on aime bien faire en"
+    },
+    {
+      "id": 100,
+      "start": 596.81,
+      "end": 604.01,
+      "start_timestamp": "00:09:56.810",
+      "end_timestamp": "00:10:04.010",
+      "text": "France sont pas intelligents. Quand les agences sont identifiables avec un numéro réo, c'est"
+    },
+    {
+      "id": 101,
+      "start": 604.01,
+      "end": 609.05,
+      "start_timestamp": "00:10:04.010",
+      "end_timestamp": "00:10:09.050",
+      "text": "obligatoire. Quand la force vise des comportements précis et quand les blessures donnent lieu à des"
+    },
+    {
+      "id": 102,
+      "start": 609.05,
+      "end": 614.65,
+      "start_timestamp": "00:10:09.050",
+      "end_timestamp": "00:10:14.650",
+      "text": "enquêtes suivies d'effets. Et chaque opération laisse une mémoire également. Une manifestation"
+    },
+    {
+      "id": 103,
+      "start": 614.65,
+      "end": 620.49,
+      "start_timestamp": "00:10:14.650",
+      "end_timestamp": "00:10:20.490",
+      "text": "qui se disperse dans la confusion avec des tirs impossibles à attribuer et des blessures sans"
+    },
+    {
+      "id": 104,
+      "start": 620.57,
+      "end": 628.09,
+      "start_timestamp": "00:10:20.570",
+      "end_timestamp": "00:10:28.090",
+      "text": "suite visible, qui paraissent être exercées avec impunité, prépare la défiance au coup d'après."
+    },
+    {
+      "id": 105,
+      "start": 628.09,
+      "end": 632.73,
+      "start_timestamp": "00:10:28.090",
+      "end_timestamp": "00:10:32.730",
+      "text": "Une doctrine de maintien de l'ordre ne produit donc pas seulement un bilan le jour même,"
+    },
+    {
+      "id": 106,
+      "start": 632.73,
+      "end": 638.89,
+      "start_timestamp": "00:10:32.730",
+      "end_timestamp": "00:10:38.890",
+      "text": "elle fabrique les conditions du prochain face à face. Et en France évidemment, vu l'état des"
+    },
+    {
+      "id": 107,
+      "start": 638.89,
+      "end": 643.77,
+      "start_timestamp": "00:10:38.890",
+      "end_timestamp": "00:10:43.770",
+      "text": "actions policières, à la prochaine manif, les gens qui manifestent seront encore plus remontés"
+    },
+    {
+      "id": 108,
+      "start": 643.77,
+      "end": 650.01,
+      "start_timestamp": "00:10:43.770",
+      "end_timestamp": "00:10:50.010",
+      "text": "qu'ils étaient au coup d'avant. La force ne produit pas toujours le même effet. Pourquoi ? La"
+    },
+    {
+      "id": 109,
+      "start": 650.01,
+      "end": 654.49,
+      "start_timestamp": "00:10:50.010",
+      "end_timestamp": "00:10:54.490",
+      "text": "littérature sur la répression des mouvements sociaux ne dit pas que toute force policière aggrave"
+    },
+    {
+      "id": 110,
+      "start": 654.49,
+      "end": 660.09,
+      "start_timestamp": "00:10:54.490",
+      "end_timestamp": "00:11:00.090",
+      "text": "toujours la situation. La sociologue Jennifer Earle, spécialiste de la répression des mouvements"
+    },
+    {
+      "id": 111,
+      "start": 660.09,
+      "end": 666.05,
+      "start_timestamp": "00:11:00.090",
+      "end_timestamp": "00:11:06.050",
+      "text": "sociaux, distingue plusieurs formes de répression et elle refuse de traiter la contrainte comme une"
+    },
+    {
+      "id": 112,
+      "start": 666.05,
+      "end": 672.33,
+      "start_timestamp": "00:11:06.050",
+      "end_timestamp": "00:11:12.330",
+      "text": "catégorie unique. C'est plus compliqué que ça. Le politiste Christian Davenport, spécialiste des"
+    },
+    {
+      "id": 113,
+      "start": 672.33,
+      "end": 679.69,
+      "start_timestamp": "00:11:12.330",
+      "end_timestamp": "00:11:19.690",
+      "text": "rapports entre répression d'état et mobilisation politique, montre que la force peut produire des"
+    },
+    {
+      "id": 114,
+      "start": 679.69,
+      "end": 685.69,
+      "start_timestamp": "00:11:19.690",
+      "end_timestamp": "00:11:25.690",
+      "text": "effets contradictoires. Elle peut dissuader, elle peut disperser ou déplacer mobilisation. Elle peut"
+    },
+    {
+      "id": 115,
+      "start": 685.69,
+      "end": 691.13,
+      "start_timestamp": "00:11:25.690",
+      "end_timestamp": "00:11:31.130",
+      "text": "aussi radicaliser certains groupes, renforcer la solidarité entre manifestants ou se retourner"
+    },
+    {
+      "id": 116,
+      "start": 691.13,
+      "end": 698.33,
+      "start_timestamp": "00:11:31.130",
+      "end_timestamp": "00:11:38.330",
+      "text": "contre l'autorité qu'il exerce. Est-ce que c'est ce qu'on va observer ? Si bien possible. L'argument"
+    },
+    {
+      "id": 117,
+      "start": 698.33,
+      "end": 705.73,
+      "start_timestamp": "00:11:38.330",
+      "end_timestamp": "00:11:45.730",
+      "text": "policier, dans sa version forte, on le trouve sur le site du ministère de l'Intérieur. Il tient"
+    },
+    {
+      "id": 118,
+      "start": 705.73,
+      "end": 711.17,
+      "start_timestamp": "00:11:45.730",
+      "end_timestamp": "00:11:51.170",
+      "text": "en quelques propositions, face à des groupes rapides qui attaquent, qui incendient, qui frappent,"
+    },
+    {
+      "id": 119,
+      "start": 711.17,
+      "end": 716.69,
+      "start_timestamp": "00:11:51.170",
+      "end_timestamp": "00:11:56.690",
+      "text": "puis se dispersent, une ligne statique, elle est rapidement débordée et ils estiment avoir besoin"
+    },
+    {
+      "id": 120,
+      "start": 716.69,
+      "end": 726.37,
+      "start_timestamp": "00:11:56.690",
+      "end_timestamp": "00:12:06.370",
+      "text": "d'équipements et de stratégies différentes. Le LBD et la grenade évitent, nous dit-on, le contact"
+    },
+    {
+      "id": 121,
+      "start": 726.37,
+      "end": 733.17,
+      "start_timestamp": "00:12:06.370",
+      "end_timestamp": "00:12:13.170",
+      "text": "rapproché et le recours à l'arme létale. Encore heureux, sans eux, le retrait expose des personnes,"
+    },
+    {
+      "id": 122,
+      "start": 733.89,
+      "end": 737.81,
+      "start_timestamp": "00:12:13.890",
+      "end_timestamp": "00:12:17.810",
+      "text": "le corps à corps produit d'autres blessures et la matraque n'est pas une solution douce. Et bien,"
+    },
+    {
+      "id": 123,
+      "start": 737.81,
+      "end": 745.57,
+      "start_timestamp": "00:12:17.810",
+      "end_timestamp": "00:12:25.570",
+      "text": "cet argument, il est testable. Si les armes intermédiaires réduisent les blessures graves"
+    },
+    {
+      "id": 124,
+      "start": 745.57,
+      "end": 752.61,
+      "start_timestamp": "00:12:25.570",
+      "end_timestamp": "00:12:32.610",
+      "text": "en évitant le contact, les données doivent le montrer. Si elles ajoutent des mutilations sans"
+    },
+    {
+      "id": 125,
+      "start": 752.61,
+      "end": 760.73,
+      "start_timestamp": "00:12:32.610",
+      "end_timestamp": "00:12:40.730",
+      "text": "réduire le dommage global, les données doivent le montrer aussi. En l'absence de résultats, je"
+    },
+    {
+      "id": 126,
+      "start": 760.73,
+      "end": 767.21,
+      "start_timestamp": "00:12:40.730",
+      "end_timestamp": "00:12:47.210",
+      "text": "suspends mon jugement, je fais preuve d'esprit critique et de zététique, voire même d'époqué,"
+    },
+    {
+      "id": 127,
+      "start": 767.21,
+      "end": 774.33,
+      "start_timestamp": "00:12:47.210",
+      "end_timestamp": "00:12:54.330",
+      "text": "et donc je me demande où sont les preuves que la bonne décision est prise sur ces questions. Si"
+    },
+    {
+      "id": 128,
+      "start": 774.33,
+      "end": 780.69,
+      "start_timestamp": "00:12:54.330",
+      "end_timestamp": "00:13:00.690",
+      "text": "les gens qui sont en responsabilité prennent des décisions sans savoir ce qu'elles valent, est-ce"
+    },
+    {
+      "id": 129,
+      "start": 780.69,
+      "end": 784.29,
+      "start_timestamp": "00:13:00.690",
+      "end_timestamp": "00:13:04.290",
+      "text": "qu'ils méritent d'être à leur place ou est-ce qu'il faudrait les lourder à coup de pompe dans"
+    },
+    {
+      "id": 130,
+      "start": 784.29,
+      "end": 791.49,
+      "start_timestamp": "00:13:04.290",
+      "end_timestamp": "00:13:11.490",
+      "text": "le train ? Je veux que poser la question. Qu'est-ce qui se passe au niveau international ? Les"
+    },
+    {
+      "id": 131,
+      "start": 791.49,
+      "end": 796.45,
+      "start_timestamp": "00:13:11.490",
+      "end_timestamp": "00:13:16.450",
+      "text": "spécialistes de la question de la gestion policière des protestations, ce qu'on appelle la protest"
+    },
+    {
+      "id": 132,
+      "start": 796.45,
+      "end": 802.33,
+      "start_timestamp": "00:13:16.450",
+      "end_timestamp": "00:13:22.330",
+      "text": "policing, ne procèdent pas en additionnant les blessés issus de sources incompatibles parce que"
+    },
+    {
+      "id": 133,
+      "start": 802.33,
+      "end": 809.65,
+      "start_timestamp": "00:13:22.330",
+      "end_timestamp": "00:13:29.650",
+      "text": "les pays ne comptent pas pareil. Ils comparent des styles policiers, des cultures institutionnelles,"
+    },
+    {
+      "id": 134,
+      "start": 809.65,
+      "end": 816.45,
+      "start_timestamp": "00:13:29.650",
+      "end_timestamp": "00:13:36.450",
+      "text": "des doctrines d'intervention et les formes de tolérance, les seuils de coercition et les"
+    },
+    {
+      "id": 135,
+      "start": 816.45,
+      "end": 822.73,
+      "start_timestamp": "00:13:36.450",
+      "end_timestamp": "00:13:42.730",
+      "text": "modes de contrôle. La police des manifestations se joue dans une tension permanente entre défense"
+    },
+    {
+      "id": 136,
+      "start": 822.73,
+      "end": 831.41,
+      "start_timestamp": "00:13:42.730",
+      "end_timestamp": "00:13:51.410",
+      "text": "de l'ordre public et reconnaissance du droit de manifester. Les démocraties diffèrent dans ce"
+    },
+    {
+      "id": 137,
+      "start": 831.41,
+      "end": 837.37,
+      "start_timestamp": "00:13:51.410",
+      "end_timestamp": "00:13:57.370",
+      "text": "qu'elles tolèrent, dispersent, criminalisent ou négocient et donc la doctrine policière, elle est"
+    },
+    {
+      "id": 138,
+      "start": 837.37,
+      "end": 843.09,
+      "start_timestamp": "00:13:57.370",
+      "end_timestamp": "00:14:03.090",
+      "text": "une variable politique et pas seulement un choix technique, c'est les deux. Les travaux"
+    },
+    {
+      "id": 139,
+      "start": 843.09,
+      "end": 848.33,
+      "start_timestamp": "00:14:03.090",
+      "end_timestamp": "00:14:08.330",
+      "text": "américains sur la police des manifestations montrent que la réponse policière ne dépend pas seulement"
+    },
+    {
+      "id": 140,
+      "start": 848.33,
+      "end": 854.49,
+      "start_timestamp": "00:14:08.330",
+      "end_timestamp": "00:14:14.490",
+      "text": "de ce que font les manifestants. Je vais répéter, la réponse policière ne dépend pas seulement de"
+    },
+    {
+      "id": 141,
+      "start": 854.49,
+      "end": 861.89,
+      "start_timestamp": "00:14:14.490",
+      "end_timestamp": "00:14:21.890",
+      "text": "ce que font les manifestants, elle réagit aussi à des catégories et donc à ce qu'ils sont. Dans"
+    },
+    {
+      "id": 142,
+      "start": 861.89,
+      "end": 871.05,
+      "start_timestamp": "00:14:21.890",
+      "end_timestamp": "00:14:31.050",
+      "text": "une étude portant sur des manifestations dans l'état de New York entre 68 et 73, les événements"
+    },
+    {
+      "id": 143,
+      "start": 871.05,
+      "end": 877.53,
+      "start_timestamp": "00:14:31.050",
+      "end_timestamp": "00:14:37.530",
+      "text": "impliquant des groupes socialement moins protégés ou des organisations militantes identifiées attirent"
+    },
+    {
+      "id": 144,
+      "start": 877.53,
+      "end": 886.25,
+      "start_timestamp": "00:14:37.530",
+      "end_timestamp": "00:14:46.250",
+      "text": "plus souvent une action policière. Autrement dit, deux rassemblements également calmes ne sont pas"
+    },
+    {
+      "id": 145,
+      "start": 886.25,
+      "end": 892.25,
+      "start_timestamp": "00:14:46.250",
+      "end_timestamp": "00:14:52.250",
+      "text": "nécessairement lus de la même manière par l'autorité. Le profil politique et social des"
+    },
+    {
+      "id": 146,
+      "start": 892.25,
+      "end": 900.05,
+      "start_timestamp": "00:14:52.250",
+      "end_timestamp": "00:15:00.050",
+      "text": "groupes peut modifier le niveau de suspicion, de surveillance ou de coercition. En France, dans les"
+    },
+    {
+      "id": 147,
+      "start": 900.05,
+      "end": 907.37,
+      "start_timestamp": "00:15:00.050",
+      "end_timestamp": "00:15:07.370",
+      "text": "années 80-90, le maintien de l'ordre reposait davantage sur la distance, sur la négociation,"
+    },
+    {
+      "id": 148,
+      "start": 907.37,
+      "end": 913.77,
+      "start_timestamp": "00:15:07.370",
+      "end_timestamp": "00:15:13.770",
+      "text": "le compromis et le sous-emploi des moyens coercitifs disponibles. Depuis les années 2000,"
+    },
+    {
+      "id": 149,
+      "start": 913.77,
+      "end": 922.61,
+      "start_timestamp": "00:15:13.770",
+      "end_timestamp": "00:15:22.610",
+      "text": "il résiste au tournant européen vers la désescalade. Les pays européens ont fait évoluer"
+    },
+    {
+      "id": 150,
+      "start": 922.61,
+      "end": 927.29,
+      "start_timestamp": "00:15:22.610",
+      "end_timestamp": "00:15:27.290",
+      "text": "leur doctrine et en France, on ne le fait pas. Et ce tournant, c'est quoi ? C'est dialogue avec"
+    },
+    {
+      "id": 151,
+      "start": 927.29,
+      "end": 934.49,
+      "start_timestamp": "00:15:27.290",
+      "end_timestamp": "00:15:34.490",
+      "text": "les organisateurs, qui sont des citoyens, communication avant, pendant et même après la"
+    },
+    {
+      "id": 152,
+      "start": 934.49,
+      "end": 938.49,
+      "start_timestamp": "00:15:34.490",
+      "end_timestamp": "00:15:38.490",
+      "text": "manifestation, facilitation du cortège, le but n'est pas d'empêcher que les gens circulent mais de"
+    },
+    {
+      "id": 153,
+      "start": 938.49,
+      "end": 944.29,
+      "start_timestamp": "00:15:38.490",
+      "end_timestamp": "00:15:44.290",
+      "text": "les aider à circuler pour que ça se passe bien et plus vite, et distinction nette entre manifestants"
+    },
+    {
+      "id": 154,
+      "start": 944.29,
+      "end": 952.13,
+      "start_timestamp": "00:15:44.290",
+      "end_timestamp": "00:15:52.130",
+      "text": "ordinaires et groupes violents. Cette évolution, elle se voit dans le recours à des unités et à"
+    },
+    {
+      "id": 155,
+      "start": 952.13,
+      "end": 959.17,
+      "start_timestamp": "00:15:52.130",
+      "end_timestamp": "00:15:59.170",
+      "text": "des réflexes venus de la police urbaine en France. Une manifestation, elle n'est plus seulement encadrée"
+    },
+    {
+      "id": 156,
+      "start": 959.17,
+      "end": 965.53,
+      "start_timestamp": "00:15:59.170",
+      "end_timestamp": "00:16:05.530",
+      "text": "par des forces spécialisées dans la tenue à distance des foules, elle peut être traitée avec"
+    },
+    {
+      "id": 157,
+      "start": 965.53,
+      "end": 971.73,
+      "start_timestamp": "00:16:05.530",
+      "end_timestamp": "00:16:11.730",
+      "text": "des logiques d'interpellation rapide, de contact et d'usage d'armes comme le LBD. On passe d'une"
+    },
+    {
+      "id": 158,
+      "start": 971.73,
+      "end": 978.85,
+      "start_timestamp": "00:16:11.730",
+      "end_timestamp": "00:16:18.850",
+      "text": "police qui tient un cortège à distance à une police qui entre dans la foule pour saisir, disperser"
+    },
+    {
+      "id": 159,
+      "start": 978.85,
+      "end": 985.41,
+      "start_timestamp": "00:16:18.850",
+      "end_timestamp": "00:16:25.410",
+      "text": "et frapper certains individus. Les sociologues Olivier Filleul, spécialiste des mouvements sociaux"
+    },
+    {
+      "id": 160,
+      "start": 985.41,
+      "end": 993.13,
+      "start_timestamp": "00:16:25.410",
+      "end_timestamp": "00:16:33.130",
+      "text": "et Fabien Jobard, spécialiste de la police, parlent d'un splendide isolement français. La France"
+    },
+    {
+      "id": 161,
+      "start": 993.13,
+      "end": 1000.81,
+      "start_timestamp": "00:16:33.130",
+      "end_timestamp": "00:16:40.810",
+      "text": "continue de défendre une doctrine qu'une partie de ses voisins européens a révisée. Pourquoi ? Dans"
+    },
+    {
+      "id": 162,
+      "start": 1000.81,
+      "end": 1007.41,
+      "start_timestamp": "00:16:40.810",
+      "end_timestamp": "00:16:47.410",
+      "text": "politique du désordre, les mêmes auteurs décrivent ensuite une brutalisation engagée depuis le début"
+    },
+    {
+      "id": 163,
+      "start": 1007.41,
+      "end": 1014.85,
+      "start_timestamp": "00:16:47.410",
+      "end_timestamp": "00:16:54.850",
+      "text": "des années 2010 avec dispersion rapide, agents envoyés au contact, arrestations, armes intermédiaires"
+    },
+    {
+      "id": 164,
+      "start": 1014.85,
+      "end": 1021.89,
+      "start_timestamp": "00:16:54.850",
+      "end_timestamp": "00:17:01.890",
+      "text": "et, écoutez bien, tolérance plus faible envers la manifestation en tant que conflit politique"
+    },
+    {
+      "id": 165,
+      "start": 1021.89,
+      "end": 1030.66,
+      "start_timestamp": "00:17:01.890",
+      "end_timestamp": "00:17:10.660",
+      "text": "légitime. Il se passe quelque chose de l'ordre de vous manifester, vous avez le droit, oui mais bon,"
+    },
+    {
+      "id": 166,
+      "start": 1030.66,
+      "end": 1036.38,
+      "start_timestamp": "00:17:10.660",
+      "end_timestamp": "00:17:16.380",
+      "text": "oui mais bon, la rue n'est pas à vous, quand même, calmez-vous. En gros, on est en train de"
+    },
+    {
+      "id": 167,
+      "start": 1036.38,
+      "end": 1044.18,
+      "start_timestamp": "00:17:16.380",
+      "end_timestamp": "00:17:24.180",
+      "text": "renier les droits des citoyens. C'est un peu comme ça que que je comprends leur travail. La"
+    },
+    {
+      "id": 168,
+      "start": 1044.18,
+      "end": 1052.34,
+      "start_timestamp": "00:17:24.180",
+      "end_timestamp": "00:17:32.340",
+      "text": "doctrine française affirme cibler les comportements violents. Qui est contre ? Personne n'est contre."
+    },
+    {
+      "id": 169,
+      "start": 1052.34,
+      "end": 1060.62,
+      "start_timestamp": "00:17:32.340",
+      "end_timestamp": "00:17:40.620",
+      "text": "Mais les outils employés frappent plus large. Les grenades, les nasses, les charges, les tirs dans"
+    },
+    {
+      "id": 170,
+      "start": 1060.62,
+      "end": 1066.34,
+      "start_timestamp": "00:17:40.620",
+      "end_timestamp": "00:17:46.340",
+      "text": "les scènes mobiles, les interpellations groupées, ça cible mal. Faut pas nous prendre pour des"
+    },
+    {
+      "id": 171,
+      "start": 1066.34,
+      "end": 1074.06,
+      "start_timestamp": "00:17:46.340",
+      "end_timestamp": "00:17:54.060",
+      "text": "jambons. Le ministère revendique la proportionnalité mais ne publie pas les données qui vont"
+    },
+    {
+      "id": 172,
+      "start": 1074.06,
+      "end": 1083.1,
+      "start_timestamp": "00:17:54.060",
+      "end_timestamp": "00:18:03.100",
+      "text": "permettre de la vérifier. Le contrôle interne ne suffit pas à lever le doute. L'IGPN enquête sur"
+    },
+    {
+      "id": 173,
+      "start": 1083.1,
+      "end": 1089.52,
+      "start_timestamp": "00:18:03.100",
+      "end_timestamp": "00:18:09.520",
+      "text": "les policiers, ça c'est bien, mais elle appartient à la police nationale. C'est les policiers qui"
+    },
+    {
+      "id": 174,
+      "start": 1089.52,
+      "end": 1096.4,
+      "start_timestamp": "00:18:09.520",
+      "end_timestamp": "00:18:16.400",
+      "text": "jugent les policiers. Comment ça peut être crédible ? Vous ? On ne sait pas. Quand des"
+    },
+    {
+      "id": 175,
+      "start": 1096.4,
+      "end": 1103.4,
+      "start_timestamp": "00:18:16.400",
+      "end_timestamp": "00:18:23.400",
+      "text": "manifestations politiques se terminent par des mineurs mutilés, ce contrôle interne, il devient"
+    },
+    {
+      "id": 176,
+      "start": 1103.4,
+      "end": 1108.64,
+      "start_timestamp": "00:18:23.400",
+      "end_timestamp": "00:18:28.640",
+      "text": "une anomalie démocratique. L'Etat ne peut pas employer la force, défendre sa doctrine, puis"
+    },
+    {
+      "id": 177,
+      "start": 1108.64,
+      "end": 1113.96,
+      "start_timestamp": "00:18:28.640",
+      "end_timestamp": "00:18:33.960",
+      "text": "demander que l'enquête sur ses propres violences reste sous son anti-contrôle. Personne ne peut"
+    },
+    {
+      "id": 178,
+      "start": 1113.96,
+      "end": 1121.36,
+      "start_timestamp": "00:18:33.960",
+      "end_timestamp": "00:18:41.360",
+      "text": "croire cela. Ça ne passe pas, ça ne passe plus. Et peut-être qu'ils font bien leur travail mais"
+    },
+    {
+      "id": 179,
+      "start": 1121.36,
+      "end": 1126.52,
+      "start_timestamp": "00:18:41.360",
+      "end_timestamp": "00:18:46.520",
+      "text": "dans ce cas-là, ils n'ont rien à craindre. C'est bien l'argument qu'on le dit pour imposer des"
+    },
+    {
+      "id": 180,
+      "start": 1126.52,
+      "end": 1130.52,
+      "start_timestamp": "00:18:46.520",
+      "end_timestamp": "00:18:50.520",
+      "text": "caméras partout. Ceux qui n'enfreinent pas la loi n'ont rien à cacher. La police non plus n'a rien à"
+    },
+    {
+      "id": 181,
+      "start": 1130.52,
+      "end": 1134.88,
+      "start_timestamp": "00:18:50.520",
+      "end_timestamp": "00:18:54.880",
+      "text": "cacher. Pourquoi est-ce qu'on n'a pas accès à tout ça ? C'est bizarre. Qu'est-ce que demandent les"
+    },
+    {
+      "id": 182,
+      "start": 1134.88,
+      "end": 1141.36,
+      "start_timestamp": "00:18:54.880",
+      "end_timestamp": "00:19:01.360",
+      "text": "institutions internationales ? Parce que la France, figurez-vous qu'elle n'est pas critiquée que par"
+    },
+    {
+      "id": 183,
+      "start": 1141.36,
+      "end": 1148.4,
+      "start_timestamp": "00:19:01.360",
+      "end_timestamp": "00:19:08.400",
+      "text": "les syndicats ou par les youtubeurs à barbe et cravate rouge. L'OSCE, l'Organisation pour la"
+    },
+    {
+      "id": 184,
+      "start": 1148.4,
+      "end": 1155.24,
+      "start_timestamp": "00:19:08.400",
+      "end_timestamp": "00:19:15.240",
+      "text": "sécurité et la coopération en Europe, via son bureau des institutions démocratiques et des droits"
+    },
+    {
+      "id": 185,
+      "start": 1155.24,
+      "end": 1163.36,
+      "start_timestamp": "00:19:15.240",
+      "end_timestamp": "00:19:23.360",
+      "text": "de l'homme, a publié un manuel sur la police des rassemblements en 2016. Ce standard international"
+    },
+    {
+      "id": 186,
+      "start": 1163.36,
+      "end": 1170.76,
+      "start_timestamp": "00:19:23.360",
+      "end_timestamp": "00:19:30.760",
+      "text": "établit que la police doit faciliter l'exercice du droit de réunion pacifique, préparer ses"
+    },
+    {
+      "id": 187,
+      "start": 1170.76,
+      "end": 1176.4,
+      "start_timestamp": "00:19:30.760",
+      "end_timestamp": "00:19:36.400",
+      "text": "interventions, limiter l'usage de la force et rendre ses décisions contrôlables après coup."
+    },
+    {
+      "id": 188,
+      "start": 1176.4,
+      "end": 1181.52,
+      "start_timestamp": "00:19:36.400",
+      "end_timestamp": "00:19:41.520",
+      "text": "La France a été directement visée à plusieurs reprises par des textes internationaux. En 2019,"
+    },
+    {
+      "id": 189,
+      "start": 1181.52,
+      "end": 1186.24,
+      "start_timestamp": "00:19:41.520",
+      "end_timestamp": "00:19:46.240",
+      "text": "dans le contexte des Gilets jaunes, trois titulaires de mandats des procédures spéciales"
+    },
+    {
+      "id": 190,
+      "start": 1186.24,
+      "end": 1192.92,
+      "start_timestamp": "00:19:46.240",
+      "end_timestamp": "00:19:52.920",
+      "text": "de l'ONU interviennent sur la France. Ils écrivent « Nous avons reçu des allégations graves"
+    },
+    {
+      "id": 191,
+      "start": 1192.92,
+      "end": 1199.48,
+      "start_timestamp": "00:19:52.920",
+      "end_timestamp": "00:19:59.480",
+      "text": "d'usage excessif de la force. Plus de 1700 personnes auraient été blessées à la suite de"
+    },
+    {
+      "id": 192,
+      "start": 1199.48,
+      "end": 1205.36,
+      "start_timestamp": "00:19:59.480",
+      "end_timestamp": "00:20:05.360",
+      "text": "manifestations dans tout le pays ». Ils ajoutent que les restrictions aux droits ont entraîné,"
+    },
+    {
+      "id": 193,
+      "start": 1205.36,
+      "end": 1210.96,
+      "start_timestamp": "00:20:05.360",
+      "end_timestamp": "00:20:10.960",
+      "text": "je cite, « un nombre élevé d'interpellations et de garde à vue, des fouilles et confiscations de"
+    },
+    {
+      "id": 194,
+      "start": 1210.96,
+      "end": 1216.28,
+      "start_timestamp": "00:20:10.960",
+      "end_timestamp": "00:20:16.280",
+      "text": "matériel de manifestants, ainsi que des blessures graves causées par un usage disproportionné"
+    },
+    {
+      "id": 195,
+      "start": 1216.28,
+      "end": 1221.68,
+      "start_timestamp": "00:20:16.280",
+      "end_timestamp": "00:20:21.680",
+      "text": "d'armes dites non létales, telles que les grenades, et les lanceurs de balles de défense"
+    },
+    {
+      "id": 196,
+      "start": 1221.68,
+      "end": 1228.28,
+      "start_timestamp": "00:20:21.680",
+      "end_timestamp": "00:20:28.280",
+      "text": "ou flash ball ». Ils encouragent enfin la France à repenser ses politiques en matière de maintien"
+    },
+    {
+      "id": 197,
+      "start": 1228.28,
+      "end": 1234.52,
+      "start_timestamp": "00:20:28.280",
+      "end_timestamp": "00:20:34.520",
+      "text": "de l'ordre. Le Conseil de l'Europe formule une demande encore plus directe. En février 2019,"
+    },
+    {
+      "id": 198,
+      "start": 1234.6,
+      "end": 1241.48,
+      "start_timestamp": "00:20:34.600",
+      "end_timestamp": "00:20:41.480",
+      "text": "la commissaire aux droits de l'homme, Dunja Mijatovic, encourage les autorités françaises"
+    },
+    {
+      "id": 199,
+      "start": 1241.48,
+      "end": 1247.12,
+      "start_timestamp": "00:20:41.480",
+      "end_timestamp": "00:20:47.120",
+      "text": "à publier les données chiffrées, peu détaillées, sur les blessés et à revoir la doctrine d'emploi"
+    },
+    {
+      "id": 200,
+      "start": 1247.12,
+      "end": 1252.56,
+      "start_timestamp": "00:20:47.120",
+      "end_timestamp": "00:20:52.560",
+      "text": "des armes de force intermédiaire. Dans l'attente de cette révision, elle demande de suspendre"
+    },
+    {
+      "id": 201,
+      "start": 1252.56,
+      "end": 1257.56,
+      "start_timestamp": "00:20:52.560",
+      "end_timestamp": "00:20:57.560",
+      "text": "l'usage du LBD dans le cadre des opérations de maintien de l'ordre. Si on l'avait écouté,"
+    },
+    {
+      "id": 202,
+      "start": 1257.56,
+      "end": 1262.6,
+      "start_timestamp": "00:20:57.560",
+      "end_timestamp": "00:21:02.600",
+      "text": "il y aurait un œil en plus sur la tête d'un gamin. Le Parlement européen reprend le problème"
+    },
+    {
+      "id": 203,
+      "start": 1262.6,
+      "end": 1268.56,
+      "start_timestamp": "00:21:02.600",
+      "end_timestamp": "00:21:08.560",
+      "text": "en 2024 selon le de la mesure. Il demande aux États membres de recueillir les données sur tous"
+    },
+    {
+      "id": 204,
+      "start": 1268.56,
+      "end": 1275.92,
+      "start_timestamp": "00:21:08.560",
+      "end_timestamp": "00:21:15.920",
+      "text": "les cas de recours à la force afin de documenter l'usage de la force, son mauvais usage, ses"
+    },
+    {
+      "id": 205,
+      "start": 1275.92,
+      "end": 1282.32,
+      "start_timestamp": "00:21:15.920",
+      "end_timestamp": "00:21:22.320",
+      "text": "conséquences inattendues, les blessures, les décès et leurs causes. Le même texte vise explicitement"
+    },
+    {
+      "id": 206,
+      "start": 1282.32,
+      "end": 1287.0,
+      "start_timestamp": "00:21:22.320",
+      "end_timestamp": "00:21:27.000",
+      "text": "la France. Il souligne que la police française est plus lourdement armée que la plupart de ses"
+    },
+    {
+      "id": 207,
+      "start": 1287.0,
+      "end": 1293.0,
+      "start_timestamp": "00:21:27.000",
+      "end_timestamp": "00:21:33.000",
+      "text": "homologues dans l'Union et se dit préoccupée par des arrestations arbitraires lors des manifestations"
+    },
+    {
+      "id": 208,
+      "start": 1293.0,
+      "end": 1299.24,
+      "start_timestamp": "00:21:33.000",
+      "end_timestamp": "00:21:39.240",
+      "text": "avec des personnes relâchées après quelques heures sans charge. Ça veut dire qu'on instrumentalise"
+    },
+    {
+      "id": 209,
+      "start": 1299.24,
+      "end": 1304.92,
+      "start_timestamp": "00:21:39.240",
+      "end_timestamp": "00:21:44.920",
+      "text": "l'arrestation. Ces textes montrent que les institutions internationales éprouvent le"
+    },
+    {
+      "id": 210,
+      "start": 1304.92,
+      "end": 1310.52,
+      "start_timestamp": "00:21:44.920",
+      "end_timestamp": "00:21:50.520",
+      "text": "besoin de demander à la France de documenter son usage de la force dans le cadre des manifestations."
+    },
+    {
+      "id": 211,
+      "start": 1310.52,
+      "end": 1316.6,
+      "start_timestamp": "00:21:50.520",
+      "end_timestamp": "00:21:56.600",
+      "text": "La demande n'a pas d'hier. Ut-elle été entendue que les blessures graves de ces derniers jours"
+    },
+    {
+      "id": 212,
+      "start": 1316.6,
+      "end": 1322.84,
+      "start_timestamp": "00:21:56.600",
+      "end_timestamp": "00:22:02.840",
+      "text": "auraient sans doute été évitées ? Dès lors, qui est responsable des mutilations évitables ?"
+    },
+    {
+      "id": 213,
+      "start": 1322.84,
+      "end": 1329.64,
+      "start_timestamp": "00:22:02.840",
+      "end_timestamp": "00:22:09.640",
+      "text": "Va-t-on faire porter toute la responsabilité aux agents sur le terrain ? Ce serait un petit"
+    },
+    {
+      "id": 214,
+      "start": 1329.64,
+      "end": 1335.04,
+      "start_timestamp": "00:22:09.640",
+      "end_timestamp": "00:22:15.040",
+      "text": "peu lâche. Allez, on va dire que c'est à cause des victimes peut-être. Parlons du mot intermédiaire."
+    },
+    {
+      "id": 215,
+      "start": 1335.04,
+      "end": 1342.76,
+      "start_timestamp": "00:22:15.040",
+      "end_timestamp": "00:22:22.760",
+      "text": "Armement de force intermédiaire. Ça, ça désigne une place dans la gradation de la force. Une arme"
+    },
+    {
+      "id": 216,
+      "start": 1342.76,
+      "end": 1348.04,
+      "start_timestamp": "00:22:22.760",
+      "end_timestamp": "00:22:28.040",
+      "text": "employée dans la situation où le recours à l'arme létale n'est pas justifiée, mais où la contrainte"
+    },
+    {
+      "id": 217,
+      "start": 1348.04,
+      "end": 1353.2,
+      "start_timestamp": "00:22:28.040",
+      "end_timestamp": "00:22:33.200",
+      "text": "reste jugée nécessaire et proportionnée. L'instruction ministérielle, qu'on assoit les yeux,"
+    },
+    {
+      "id": 218,
+      "start": 1353.2,
+      "end": 1358.88,
+      "start_timestamp": "00:22:33.200",
+      "end_timestamp": "00:22:38.880",
+      "text": "sur la grenade de désencerclement, parle de situations intermédiaires et précise que cette"
+    },
+    {
+      "id": 219,
+      "start": 1358.88,
+      "end": 1364.24,
+      "start_timestamp": "00:22:38.880",
+      "end_timestamp": "00:22:44.240",
+      "text": "arme n'est ni conçue ni destinée à tuer. Bah c'est bien. Elle ajoute pourtant qu'elle n'en demeure"
+    },
+    {
+      "id": 220,
+      "start": 1364.24,
+      "end": 1372.64,
+      "start_timestamp": "00:22:44.240",
+      "end_timestamp": "00:22:52.640",
+      "text": "pas moins une arme, dont il ne faut pas sous-estimer la dangerosité. On a pu le constater. Une revue"
+    },
+    {
+      "id": 221,
+      "start": 1372.64,
+      "end": 1381.48,
+      "start_timestamp": "00:22:52.640",
+      "end_timestamp": "00:23:01.480",
+      "text": "systématique de 2017 sur les projectiles à impact cinétique recense des blessés, des incapacités"
+    },
+    {
+      "id": 222,
+      "start": 1381.48,
+      "end": 1387.8,
+      "start_timestamp": "00:23:01.480",
+      "end_timestamp": "00:23:07.800",
+      "text": "permanentes et des morts. Les auteurs signalent des biais de publication, de sélection et de"
+    },
+    {
+      "id": 223,
+      "start": 1387.8,
+      "end": 1394.16,
+      "start_timestamp": "00:23:07.800",
+      "end_timestamp": "00:23:14.160",
+      "text": "documentation. Ils ajoutent que l'hétérogénéité des études empêche une méta-analyse et ne permet"
+    },
+    {
+      "id": 224,
+      "start": 1394.16,
+      "end": 1400.16,
+      "start_timestamp": "00:23:14.160",
+      "end_timestamp": "00:23:20.160",
+      "text": "pas d'estimer précisément la prévalence des blessures et des décès liés à ces armes. Autrement"
+    },
+    {
+      "id": 225,
+      "start": 1400.24,
+      "end": 1405.84,
+      "start_timestamp": "00:23:20.240",
+      "end_timestamp": "00:23:25.840",
+      "text": "dit, on constate des mutilations mais on ne dispose pas du dénivelateur qui permettrait de calculer"
+    },
+    {
+      "id": 226,
+      "start": 1405.84,
+      "end": 1412.72,
+      "start_timestamp": "00:23:25.840",
+      "end_timestamp": "00:23:32.720",
+      "text": "proprement le risque de partir ou par personne exposée. Comment dans ces conditions évaluer"
+    },
+    {
+      "id": 227,
+      "start": 1412.72,
+      "end": 1419.56,
+      "start_timestamp": "00:23:32.720",
+      "end_timestamp": "00:23:39.560",
+      "text": "cette utilisation ? Je vous rappelle qu'on fait des études pour tester si la prière peut sauver"
+    },
+    {
+      "id": 228,
+      "start": 1419.56,
+      "end": 1424.04,
+      "start_timestamp": "00:23:39.560",
+      "end_timestamp": "00:23:44.040",
+      "text": "des vies lorsque les gens se font opérer du cœur, mais on ne peut pas financer des études qui vont"
+    },
+    {
+      "id": 229,
+      "start": 1424.04,
+      "end": 1428.84,
+      "start_timestamp": "00:23:44.040",
+      "end_timestamp": "00:23:48.840",
+      "text": "vérifier si l'usage de la force dans la rue est justifié. Il y a peut-être un petit problème"
+    },
+    {
+      "id": 230,
+      "start": 1429.4,
+      "end": 1433.92,
+      "start_timestamp": "00:23:49.400",
+      "end_timestamp": "00:23:53.920",
+      "text": "dans le financement de la recherche. À ma connaissance, il n'existe pas d'étude évaluée"
+    },
+    {
+      "id": 231,
+      "start": 1433.92,
+      "end": 1442.32,
+      "start_timestamp": "00:23:53.920",
+      "end_timestamp": "00:24:02.320",
+      "text": "par les pères portant spécifiquement sur les grenades à soi-disant de française. Pourquoi ? Cette"
+    },
+    {
+      "id": 232,
+      "start": 1442.32,
+      "end": 1449.8,
+      "start_timestamp": "00:24:02.320",
+      "end_timestamp": "00:24:09.800",
+      "text": "absence de recul sur un usage pourtant déjà ancien rejoint mon propos principal, où est"
+    },
+    {
+      "id": 233,
+      "start": 1449.8,
+      "end": 1456.88,
+      "start_timestamp": "00:24:09.800",
+      "end_timestamp": "00:24:16.880",
+      "text": "l'évaluation scientifique de ces politiques qui nous impacte tous et qui impacte actuellement"
+    },
+    {
+      "id": 234,
+      "start": 1456.88,
+      "end": 1464.52,
+      "start_timestamp": "00:24:16.880",
+      "end_timestamp": "00:24:24.520",
+      "text": "nos enfants. Si aucune évaluation d'ampleur ne peut être produite, il devient légitime de parler"
+    },
+    {
+      "id": 235,
+      "start": 1464.52,
+      "end": 1472.04,
+      "start_timestamp": "00:24:24.520",
+      "end_timestamp": "00:24:32.040",
+      "text": "d'agnotologie. L'agnotologie, ce n'est pas seulement une ignorance regrettable, c'est une"
+    },
+    {
+      "id": 236,
+      "start": 1472.04,
+      "end": 1478.8,
+      "start_timestamp": "00:24:32.040",
+      "end_timestamp": "00:24:38.800",
+      "text": "ignorance organisée. On fait exprès de ne pas savoir, on ne mesure pas, on casse le thermomètre. Ne"
+    },
+    {
+      "id": 237,
+      "start": 1478.8,
+      "end": 1484.92,
+      "start_timestamp": "00:24:38.800",
+      "end_timestamp": "00:24:44.920",
+      "text": "pas mesurer, ne pas publier, ne pas construire les données qui permettraient de trancher, c'est aussi"
+    },
+    {
+      "id": 238,
+      "start": 1484.92,
+      "end": 1491.96,
+      "start_timestamp": "00:24:44.920",
+      "end_timestamp": "00:24:51.960",
+      "text": "une manière de fuir les responsabilités. Ça permet de présenter comme maîtriser une décision peut-être"
+    },
+    {
+      "id": 239,
+      "start": 1491.96,
+      "end": 1499.36,
+      "start_timestamp": "00:24:51.960",
+      "end_timestamp": "00:24:59.360",
+      "text": "dangereuse ou comme exemplaire une doctrine peut-être inefficace. Je fais une parenthèse sur les gaz"
+    },
+    {
+      "id": 240,
+      "start": 1499.36,
+      "end": 1506.88,
+      "start_timestamp": "00:24:59.360",
+      "end_timestamp": "00:25:06.880",
+      "text": "lacrymogènes parce que là aussi c'est pas clair. Parmi les outils du maintien de l'ordre se trouvent"
+    },
+    {
+      "id": 241,
+      "start": 1506.88,
+      "end": 1514.4,
+      "start_timestamp": "00:25:06.880",
+      "end_timestamp": "00:25:14.400",
+      "text": "des gaz massivement employés, j'en ai eu les hérités il y a quelques jours à ma fenêtre chez moi."
+    },
+    {
+      "id": 242,
+      "start": 1514.4,
+      "end": 1522.41,
+      "start_timestamp": "00:25:14.400",
+      "end_timestamp": "00:25:22.410",
+      "text": "Vous pouvez être exposés à ces gaz largement utilisés si vous êtes un manifestant, si vous"
+    },
+    {
+      "id": 243,
+      "start": 1522.41,
+      "end": 1527.81,
+      "start_timestamp": "00:25:22.410",
+      "end_timestamp": "00:25:27.810",
+      "text": "travaillez comme policier ou si vous habitez dans une rue qu'on a gazée, pas de chance. La France"
+    },
+    {
+      "id": 244,
+      "start": 1527.81,
+      "end": 1536.53,
+      "start_timestamp": "00:25:27.810",
+      "end_timestamp": "00:25:36.530",
+      "text": "utilise le CS ou deux chlorobenzilène malononitrile, je n'ai pas révisé ma biologie"
+    },
+    {
+      "id": 245,
+      "start": 1536.53,
+      "end": 1543.65,
+      "start_timestamp": "00:25:36.530",
+      "end_timestamp": "00:25:43.650",
+      "text": "organique, ma chimie organique. Elle utilise donc cette molécule dans les moyens lacrymogènes."
+    },
+    {
+      "id": 246,
+      "start": 1543.65,
+      "end": 1549.65,
+      "start_timestamp": "00:25:43.650",
+      "end_timestamp": "00:25:49.650",
+      "text": "Le ministère de l'Intérieur reconnaît lui-même que d'autres pays utilisent d'autres molécules"
+    },
+    {
+      "id": 247,
+      "start": 1549.65,
+      "end": 1555.13,
+      "start_timestamp": "00:25:49.650",
+      "end_timestamp": "00:25:55.130",
+      "text": "actives comme l'Océ ou le Pava. Il faut donc éviter de parler de gaz lacrymogène comme d'une"
+    },
+    {
+      "id": 248,
+      "start": 1555.13,
+      "end": 1562.57,
+      "start_timestamp": "00:25:55.130",
+      "end_timestamp": "00:26:02.570",
+      "text": "catégorie uniforme. Le dossier d'Alexander Sammel et d'André Picot, qui est sous vos yeux, publié"
+    },
+    {
+      "id": 249,
+      "start": 1562.57,
+      "end": 1568.53,
+      "start_timestamp": "00:26:02.570",
+      "end_timestamp": "00:26:08.530",
+      "text": "par l'association toxicologie chimie de Paris, soutient que la molécule utilisée en France peut"
+    },
+    {
+      "id": 250,
+      "start": 1568.53,
+      "end": 1575.85,
+      "start_timestamp": "00:26:08.530",
+      "end_timestamp": "00:26:15.850",
+      "text": "produire des effets toxiques et à plus long terme, notamment par métabolisation avec libération de"
+    },
+    {
+      "id": 251,
+      "start": 1575.85,
+      "end": 1582.29,
+      "start_timestamp": "00:26:15.850",
+      "end_timestamp": "00:26:22.290",
+      "text": "cyanure. Il insiste sur les expositions répétées, les fortes doses, les personnes vulnérables,"
+    },
+    {
+      "id": 252,
+      "start": 1582.29,
+      "end": 1588.73,
+      "start_timestamp": "00:26:22.290",
+      "end_timestamp": "00:26:28.730",
+      "text": "les policiers exposés régulièrement, les manifestants, les riverains et les quartiers gazés. Sa conclusion,"
+    },
+    {
+      "id": 253,
+      "start": 1588.73,
+      "end": 1596.09,
+      "start_timestamp": "00:26:28.730",
+      "end_timestamp": "00:26:36.090",
+      "text": "politique et nette, les gouvernements qui utilisent le CS doivent prendre les décisions contraignantes"
+    },
+    {
+      "id": 254,
+      "start": 1596.41,
+      "end": 1603.41,
+      "start_timestamp": "00:26:36.410",
+      "end_timestamp": "00:26:43.410",
+      "text": "de protection de la santé publique. Moi, j'ai vu de mes yeux, dans ma rue, la cour de l'école primaire"
+    },
+    {
+      "id": 255,
+      "start": 1603.41,
+      "end": 1611.29,
+      "start_timestamp": "00:26:43.410",
+      "end_timestamp": "00:26:51.290",
+      "text": "envahie par les gaz. Ça m'a un petit peu dérangé. Le ministère conteste la portée de ce dossier,"
+    },
+    {
+      "id": 256,
+      "start": 1611.29,
+      "end": 1617.45,
+      "start_timestamp": "00:26:51.290",
+      "end_timestamp": "00:26:57.450",
+      "text": "pourquoi pas, il affirme, et c'est vrai qu'il ne s'agit pas d'une étude clinique sur les effets du CS chez"
+    },
+    {
+      "id": 257,
+      "start": 1617.45,
+      "end": 1621.29,
+      "start_timestamp": "00:26:57.450",
+      "end_timestamp": "00:27:01.290",
+      "text": "l'homme et d'une synthèse bibliographique, oui mais bon il y avait des coûts, peut-être que ça vaut le coup"
+    },
+    {
+      "id": 258,
+      "start": 1622.29,
+      "end": 1629.01,
+      "start_timestamp": "00:27:02.290",
+      "end_timestamp": "00:27:09.010",
+      "text": "Il insiste sur la faible toxicité du CS, sur le caractère généralement réversible des symptômes et"
+    },
+    {
+      "id": 259,
+      "start": 1629.01,
+      "end": 1634.21,
+      "start_timestamp": "00:27:09.010",
+      "end_timestamp": "00:27:14.210",
+      "text": "sur l'absence de remontées significatives chez les policiers exposés. Pas sûr que les policiers soient"
+    },
+    {
+      "id": 260,
+      "start": 1634.21,
+      "end": 1641.69,
+      "start_timestamp": "00:27:14.210",
+      "end_timestamp": "00:27:21.690",
+      "text": "incités fortement à parler, il n'y a qu'à voir les témoignages au parlement actuellement de policiers"
+    },
+    {
+      "id": 261,
+      "start": 1641.69,
+      "end": 1647.85,
+      "start_timestamp": "00:27:21.690",
+      "end_timestamp": "00:27:27.850",
+      "text": "qui témoignent qu'on les a blacklistés et qu'on les a menacés lorsqu'ils relevaient des comportements"
+    },
+    {
+      "id": 262,
+      "start": 1647.85,
+      "end": 1653.85,
+      "start_timestamp": "00:27:27.850",
+      "end_timestamp": "00:27:33.850",
+      "text": "anormaux. Si le ministère a raison, c'est super, alors on attend qu'il publie les données sanitaires"
+    },
+    {
+      "id": 263,
+      "start": 1653.85,
+      "end": 1659.61,
+      "start_timestamp": "00:27:33.850",
+      "end_timestamp": "00:27:39.610",
+      "text": "qui permettent de vérifier qu'il a bien raison. S'il a raison, il n'a rien à cacher. Où sont les données ?"
+    },
+    {
+      "id": 264,
+      "start": 1659.61,
+      "end": 1667.17,
+      "start_timestamp": "00:27:39.610",
+      "end_timestamp": "00:27:47.170",
+      "text": "La littérature médicale ne permet pas de balayer le sujet en fait. Une revue systématique consacrée"
+    },
+    {
+      "id": 265,
+      "start": 1667.17,
+      "end": 1673.97,
+      "start_timestamp": "00:27:47.170",
+      "end_timestamp": "00:27:53.970",
+      "text": "au CS rapporte des effets durables et des situations menaçant la vie avec des risques particuliers"
+    },
+    {
+      "id": 266,
+      "start": 1673.97,
+      "end": 1681.01,
+      "start_timestamp": "00:27:53.970",
+      "end_timestamp": "00:28:01.010",
+      "text": "en espaces clos et un besoin de meilleure surveillance des personnes exposées. Une autre revue"
+    },
+    {
+      "id": 267,
+      "start": 1681.01,
+      "end": 1687.65,
+      "start_timestamp": "00:28:01.010",
+      "end_timestamp": "00:28:07.650",
+      "text": "systématique sur les irritants chimiques utilisés en maintien de l'ordre recense 5131 personnes"
+    },
+    {
+      "id": 268,
+      "start": 1687.65,
+      "end": 1694.81,
+      "start_timestamp": "00:28:07.650",
+      "end_timestamp": "00:28:14.810",
+      "text": "blessées dans 31 études, 2 décès et 58 incapacités permanentes et identifie comme facteur aggravant les"
+    },
+    {
+      "id": 269,
+      "start": 1694.81,
+      "end": 1701.53,
+      "start_timestamp": "00:28:14.810",
+      "end_timestamp": "00:28:21.530",
+      "text": "espaces clos, les expositions prolongées et les quantités élevées d'agents chimiques. À la lumière"
+    },
+    {
+      "id": 270,
+      "start": 1701.53,
+      "end": 1708.25,
+      "start_timestamp": "00:28:21.530",
+      "end_timestamp": "00:28:28.250",
+      "text": "de ces travaux, on aimerait que l'Etat étudie de près l'usage de ces produits et nous garantisse"
+    },
+    {
+      "id": 271,
+      "start": 1708.25,
+      "end": 1714.17,
+      "start_timestamp": "00:28:28.250",
+      "end_timestamp": "00:28:34.170",
+      "text": "à nous citoyens que tout est mis en place pour éviter les dommages aux personnes. Et on en est"
+    },
+    {
+      "id": 272,
+      "start": 1714.17,
+      "end": 1722.37,
+      "start_timestamp": "00:28:34.170",
+      "end_timestamp": "00:28:42.370",
+      "text": "loin. C'est l'opacité qui règne. Un État qui sature des rues, des abords de lycée ou des places"
+    },
+    {
+      "id": 273,
+      "start": 1722.37,
+      "end": 1730.81,
+      "start_timestamp": "00:28:42.370",
+      "end_timestamp": "00:28:50.810",
+      "text": "publiques avec un agent chimique irritant doit documenter les expositions qu'il impose. Si j'adore"
+    },
+    {
+      "id": 274,
+      "start": 1730.81,
+      "end": 1738.17,
+      "start_timestamp": "00:28:50.810",
+      "end_timestamp": "00:28:58.170",
+      "text": "dit au moins. Petite conclusion, la doctrine française, elle demande à être jugée sur sa promesse,"
+    },
+    {
+      "id": 275,
+      "start": 1738.17,
+      "end": 1744.77,
+      "start_timestamp": "00:28:58.170",
+      "end_timestamp": "00:29:04.770",
+      "text": "maintenir l'ordre, protéger les personnes, limiter les blessures, préserver le droit de manifester et"
+    },
+    {
+      "id": 276,
+      "start": 1744.77,
+      "end": 1753.01,
+      "start_timestamp": "00:29:04.770",
+      "end_timestamp": "00:29:13.010",
+      "text": "éviter aux agents le contact direct avec des groupes violents. Cette promesse, elle était stable. Si"
+    },
+    {
+      "id": 277,
+      "start": 1753.01,
+      "end": 1760.01,
+      "start_timestamp": "00:29:13.010",
+      "end_timestamp": "00:29:20.010",
+      "text": "les LBD, les grenades, les NAS, les charges, les tirs lancémogènes et les intervérations massives"
+    },
+    {
+      "id": 278,
+      "start": 1760.21,
+      "end": 1767.25,
+      "start_timestamp": "00:29:20.210",
+      "end_timestamp": "00:29:27.250",
+      "text": "réduisent le dommage total, l'Etat peut produire les données qui le montrent. Il doit le faire. Si"
+    },
+    {
+      "id": 279,
+      "start": 1767.25,
+      "end": 1773.53,
+      "start_timestamp": "00:29:27.250",
+      "end_timestamp": "00:29:33.530",
+      "text": "ces outils ajoutent des mutilations, de la défiance et de l'escalade sans bénéfice des montrés,"
+    },
+    {
+      "id": 280,
+      "start": 1773.53,
+      "end": 1779.93,
+      "start_timestamp": "00:29:33.530",
+      "end_timestamp": "00:29:39.930",
+      "text": "l'Etat doit le savoir. Il va le dire et il doit changer de doctrine. Les connaissances disponibles"
+    },
+    {
+      "id": 281,
+      "start": 1779.93,
+      "end": 1786.81,
+      "start_timestamp": "00:29:39.930",
+      "end_timestamp": "00:29:46.810",
+      "text": "ne permettent pas de calculer proprement l'effet net de cette doctrine. Nous n'avons pas de comparaison"
+    },
+    {
+      "id": 282,
+      "start": 1786.81,
+      "end": 1794.01,
+      "start_timestamp": "00:29:46.810",
+      "end_timestamp": "00:29:54.010",
+      "text": "robuste, à contexte égal entre un dispositif avec LBD et grenades et une doctrine alternative. Nous"
+    },
+    {
+      "id": 283,
+      "start": 1794.01,
+      "end": 1799.97,
+      "start_timestamp": "00:29:54.010",
+      "end_timestamp": "00:29:59.970",
+      "text": "n'avons pas de taux public de blessures graves par tir, par grenade, par interpellation, par unité"
+    },
+    {
+      "id": 284,
+      "start": 1799.97,
+      "end": 1807.77,
+      "start_timestamp": "00:29:59.970",
+      "end_timestamp": "00:30:07.770",
+      "text": "engagée ou par type d'opération. Cette ignorance, presque organisée, elle n'y sent pas la doctrine,"
+    },
+    {
+      "id": 285,
+      "start": 1807.77,
+      "end": 1814.17,
+      "start_timestamp": "00:30:07.770",
+      "end_timestamp": "00:30:14.170",
+      "text": "elle accuse l'absence d'évaluation. Nous savons que les armes intermédiaires peuvent mutiler,"
+    },
+    {
+      "id": 286,
+      "start": 1814.17,
+      "end": 1820.81,
+      "start_timestamp": "00:30:14.170",
+      "end_timestamp": "00:30:20.810",
+      "text": "on l'a vu. Nous savons aussi, grâce aux travaux sur les foules, qu'une contrainte perçue comme"
+    },
+    {
+      "id": 287,
+      "start": 1820.81,
+      "end": 1828.57,
+      "start_timestamp": "00:30:20.810",
+      "end_timestamp": "00:30:28.570",
+      "text": "collective opaque ou injuste peut souder des personnes qui n'étaient pas solidaires au départ et rendre"
+    },
+    {
+      "id": 288,
+      "start": 1828.57,
+      "end": 1834.65,
+      "start_timestamp": "00:30:28.570",
+      "end_timestamp": "00:30:34.650",
+      "text": "l'action policière moins légitime aux yeux du groupe. Les institutions internationales demandent"
+    },
+    {
+      "id": 289,
+      "start": 1834.65,
+      "end": 1841.81,
+      "start_timestamp": "00:30:34.650",
+      "end_timestamp": "00:30:41.810",
+      "text": "depuis des années à la France de documenter l'usage de la force, les blessures, interpellation et les"
+    },
+    {
+      "id": 290,
+      "start": 1841.81,
+      "end": 1849.65,
+      "start_timestamp": "00:30:41.810",
+      "end_timestamp": "00:30:49.650",
+      "text": "décès. L'alternative à la doctrine actuelle ne consiste pas à laisser brûler les lycées ni"
+    },
+    {
+      "id": 291,
+      "start": 1849.65,
+      "end": 1855.25,
+      "start_timestamp": "00:30:49.650",
+      "end_timestamp": "00:30:55.250",
+      "text": "à exposer les agents encore à corps. Une doctrine plus respectueuse du droit de manifester ne signifie"
+    },
+    {
+      "id": 292,
+      "start": 1855.25,
+      "end": 1862.21,
+      "start_timestamp": "00:30:55.250",
+      "end_timestamp": "00:31:02.210",
+      "text": "pas l'absence de police, elle signifie préparation au rassemblement, dialogue avec les organisateurs,"
+    },
+    {
+      "id": 293,
+      "start": 1862.21,
+      "end": 1869.89,
+      "start_timestamp": "00:31:02.210",
+      "end_timestamp": "00:31:09.890",
+      "text": "communication lisible, voie de sortie, distinction entre manifestants et auteurs des violences. Force"
+    },
+    {
+      "id": 294,
+      "start": 1870.01,
+      "end": 1875.61,
+      "start_timestamp": "00:31:10.010",
+      "end_timestamp": "00:31:15.610",
+      "text": "ciblée, soit le comportement précis, traçabilité des tirs, qu'on sache qui a tiré quoi ou comment,"
+    },
+    {
+      "id": 295,
+      "start": 1875.61,
+      "end": 1882.05,
+      "start_timestamp": "00:31:15.610",
+      "end_timestamp": "00:31:22.050",
+      "text": "identification des unités, enquête indépendante et conséquence réelle quand la force publique"
+    },
+    {
+      "id": 296,
+      "start": 1882.05,
+      "end": 1891.33,
+      "start_timestamp": "00:31:22.050",
+      "end_timestamp": "00:31:31.330",
+      "text": "blesse ou mutile. Tout ça, c'est connu, mais c'est ignoré. Une force publique démocratique elle"
+    },
+    {
+      "id": 297,
+      "start": 1891.33,
+      "end": 1896.05,
+      "start_timestamp": "00:31:31.330",
+      "end_timestamp": "00:31:36.050",
+      "text": "doit prouver que ses choix protègent davantage qu'ils ne détruisent. Après un travail de"
+    },
+    {
+      "id": 298,
+      "start": 1896.05,
+      "end": 1902.89,
+      "start_timestamp": "00:31:36.050",
+      "end_timestamp": "00:31:42.890",
+      "text": "documentation, vous constatez comme moi qu'au delà des violences et des blessures, on a un"
+    },
+    {
+      "id": 299,
+      "start": 1902.89,
+      "end": 1908.65,
+      "start_timestamp": "00:31:42.890",
+      "end_timestamp": "00:31:48.650",
+      "text": "problème qui est structurel. L'absence des études qui permettraient de juger sérieusement la doctrine,"
+    },
+    {
+      "id": 300,
+      "start": 1908.65,
+      "end": 1914.17,
+      "start_timestamp": "00:31:48.650",
+      "end_timestamp": "00:31:54.170",
+      "text": "ces évaluations ne sont pas arché compliquées, elles sont interportées, il suffirait de financer"
+    },
+    {
+      "id": 301,
+      "start": 1914.17,
+      "end": 1919.97,
+      "start_timestamp": "00:31:54.170",
+      "end_timestamp": "00:31:59.970",
+      "text": "quelques travaux, c'est coûte moins cher que d'équiper les policiers comme des robocops. Tant"
+    },
+    {
+      "id": 302,
+      "start": 1919.97,
+      "end": 1925.73,
+      "start_timestamp": "00:31:59.970",
+      "end_timestamp": "00:32:05.730",
+      "text": "que ces évaluations ne sont pas produites, personne ne peut présenter la doctrine française comme"
+    },
+    {
+      "id": 303,
+      "start": 1925.73,
+      "end": 1931.53,
+      "start_timestamp": "00:32:05.730",
+      "end_timestamp": "00:32:11.530",
+      "text": "rationnellement établie. Si un ministre vient nous dire qu'il a raison d'agir comme il agit,"
+    },
+    {
+      "id": 304,
+      "start": 1931.53,
+      "end": 1938.69,
+      "start_timestamp": "00:32:11.530",
+      "end_timestamp": "00:32:18.690",
+      "text": "soit il nous ment, soit il nous cache des choses. Le bénéfice du doute ne peut pas plaider en faveur"
+    },
+    {
+      "id": 305,
+      "start": 1938.69,
+      "end": 1945.05,
+      "start_timestamp": "00:32:18.690",
+      "end_timestamp": "00:32:25.050",
+      "text": "de la force armée qui refuse l'audit de ses résultats. L'approche rationnelle de cette question"
+    },
+    {
+      "id": 306,
+      "start": 1945.05,
+      "end": 1951.89,
+      "start_timestamp": "00:32:25.050",
+      "end_timestamp": "00:32:31.890",
+      "text": "amène logiquement à exiger des responsables qu'ils fassent publier les travaux indépendants,"
+    },
+    {
+      "id": 307,
+      "start": 1951.89,
+      "end": 1960.13,
+      "start_timestamp": "00:32:31.890",
+      "end_timestamp": "00:32:40.130",
+      "text": "à partir desquels on pourra justifier la doctrine actuelle ou œuvrer intelligemment à son évolution."
+    }
+  ]
+}

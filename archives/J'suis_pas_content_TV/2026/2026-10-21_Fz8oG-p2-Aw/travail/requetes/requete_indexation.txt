@@ -1,0 +1,402 @@
+Crée un index documentaire fidèle en JSON strict. Ne juge pas la véracité. Distingue pour personnes, organismes et événements le niveau 'mention' ou 'developpe'. N'invente rien. Les citations_exactes doivent être verbatim ; les expressions_representatives ne sont pas des citations. Chaque élément thématique utile porte si possible des horodatages. Retourne uniquement un objet suivant cette structure :
+{
+  "arguments_positions": [],
+  "citations_exactes": [],
+  "concepts": [],
+  "evenements_lois_reglementations": [],
+  "expressions_representatives": [],
+  "lieux_periodes": [],
+  "mots_cles": [],
+  "organismes": [],
+  "personnes": [],
+  "relations_documentaires": [],
+  "reperes_temporels": [],
+  "resume_general": "",
+  "schema_version": "1.1",
+  "sujets_secondaires": [],
+  "themes_principaux": [],
+  "variantes_lexicales": [],
+  "video_id": "Fz8oG-p2-Aw"
+}
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "Fz8oG-p2-Aw",
+  "title": "🔥MANIFS VS EMEUTES : Macron organise le chaos ? [Le Débrieff]",
+  "channel": "J'suis pas content TV",
+  "channel_id": "UC9NB2nXjNtRabu3YLPB16Hg",
+  "upload_date": "20261021",
+  "duration_seconds": 1962,
+  "webpage_url": "https://www.youtube.com/watch?v=Fz8oG-p2-Aw",
+  "description": "▇ Pour me soutenir sur T I P E E E : https://www.tipeee.com/j-suis-pas-content\n▇ Réseaux Sociaux :\nD I S C O R D : https://discord.gg/R5J9f27\nT W I T T E R : https://twitter.com/gregtabibian\n▇ Contact mail : contact.jspc.blog@gmail.com\n\n▇ Réalisation du générique : Jahbulon\n▇ Musique du générique : Eddy Pero : https://youtu.be/AZw2rpOOHi4\n▇ Musiques durant l'épisode par :\nANTHOX COLABOY : https://soundcloud.com/anthox-colaboy\nEDDY PERO : https://www.youtube.com/user/Eddyperoguitars\nMENTHOLINE : https://soundcloud.com/mentholine\n\n▇ Articles mentionnés / Pour aller plus loin :",
+  "language": "fr-FR"
+}
+
+TRANSCRIPTION :
+[00:00:00.000 --> 00:00:07.200] Bon on va faire une petite vidéo quand même sur ces événements là, je vais faire une petite pause dans le montage des vidéos beaucoup plus intéressantes qui sortiront prochainement.
+[00:00:07.200 --> 00:00:14.480] On y met les moyens minimaux, parce que pour deux raisons, déjà parce que plus le temps passe, plus on fait ces nouvelles vidéos très quali,
+[00:00:14.480 --> 00:00:24.160] et moi j'ai envie de mettre le moindre centime de production, parce que ces vidéos, comme je vous l'ai dit, on découpent du commentaire de l'actualité,
+[00:00:24.160 --> 00:00:28.400] particulièrement du commentaire mouvant, puisque d'une minute à l'autre tout change,
+[00:00:29.360 --> 00:00:40.320] et deuxièmement parce que ce qui se passe en ce moment me paraît d'une... c'est tellement évident en fait, c'est tellement, en tout cas en ce qui me concerne l'éléphant au milieu du couloir,
+[00:00:40.320 --> 00:00:49.840] que je n'ai pas envie de donner plus d'énergie que ça, c'est normal que je m'exprime, je vais le faire ici, je vais donner mon avis sur tout ça,
+[00:00:49.840 --> 00:01:02.240] mais alors n'attendez pas à 40 000 inserts, 10 000 auteurs ou je ne sais quelle connerie, je réserve ça pour des analyses plus de fond qui viendront ultérieurement,
+[00:01:02.240 --> 00:01:09.680] et en parlant de ce qui viendra ultérieurement, il y a aussi un micro-trottoir, puisqu'on a enregistré, comment ils disent chez Frontier, une immersion.
+[00:01:09.680 --> 00:01:18.800] On est en immersion pendant plus de dix heures au cœur des mouvements, et le plural est important du 17, et ça, ça sortira demain.
+[00:01:18.800 --> 00:01:28.640] Et si je parle des événements du 17, c'est pour aller un petit peu à contre-courant d'une très grande partie du discours politico-médiatique,
+[00:01:28.640 --> 00:01:40.320] qui traite ce qui s'est passé le 17 comme un mouvement, en l'occurrence une manifestation qui dégénère, alors que ce n'est pas un mouvement,
+[00:01:40.320 --> 00:01:47.600] ça se voit, c'est deux mouvements, deux choses différentes qui se sont déroulées, la seconde s'est engreffée à la première,
+[00:01:47.600 --> 00:01:55.920] mais elle n'avait pas besoin de la première pour exister, parce que ce genre de casse et de pillage, on les a quand on gagne une Ligue des Champions, quoi.
+[00:01:55.920 --> 00:02:02.160] Alors dans des proportions bien évidemment moindres, mais je parle des actes en tant que tels.
+[00:02:02.160 --> 00:02:08.320] Alors je ne suis pas en train de vous faire la distinction du gentil manifestant et du méchant casseur, qui est d'une débilité inouïe,
+[00:02:08.320 --> 00:02:15.520] parce qu'il y a plusieurs profils de manifestants, je passais la journée avec eux, et bien sûr qu'on ne peut pas mettre sur le même plan Titoin,
+[00:02:15.520 --> 00:02:21.120] qui est venu faire des battles d'orain en famille, on a donné la parole à des familles qui étaient là au manif,
+[00:02:21.120 --> 00:02:31.280] avec le black bloc, ou le militant le plus énervé, qui va directement s'en prendre au flic, casser des vitrines, mais pas piller des magasins par contre,
+[00:02:31.280 --> 00:02:37.440] et puis au milieu de ça, la vague intermédiaire qui fait des barricades en vélibes et qui balance des bouteilles en plastique.
+[00:02:37.440 --> 00:02:43.680] Ça ce sont des degrés de violence, mais à l'intérieur d'une manifestation politique.
+[00:02:43.760 --> 00:02:54.880] Ces gens qui sont venus au fur et à mesure, puis après, qui n'y avait plus qu'eux pendant toute la partie nocturne, pendant tout le reboot de American Nightmare,
+[00:02:54.880 --> 00:03:00.080] ces gens-là ne sont pas là pour des raisons politiques.
+[00:03:00.080 --> 00:03:06.640] Leur présence, leur existence peut être la cause de choses qui sont politiques, mais ils n'ont aucune conscience politique,
+[00:03:06.640 --> 00:03:10.480] aucune conscience de classe au moment où ils effectuent ces actions-là.
+[00:03:10.480 --> 00:03:21.200] Ils sont là dans l'optique de pillages, de saccages et de manifestations de violences, et il suffit de parler avec ces gens pour le voir.
+[00:03:21.200 --> 00:03:33.040] Et pourtant, il n'y a aucune distinction qui va être faite entre ces gens-là et la frange même violente des gens qui sont encore dans la manifestation.
+[00:03:34.000 --> 00:03:39.600] Et cette volonté de les amalgamer, elle vient des deux spectres de l'échitier politique.
+[00:03:39.600 --> 00:03:47.200] Elle vient de la droite, après on avait peu de marge de manoeuvre parce que dès la première fac bloquée,
+[00:03:47.200 --> 00:03:53.920] enfin dès le premier lycée bloqué, avant même la moindre violence, on avait déjà la petite Louise sur frontière qui nous disait,
+[00:03:53.920 --> 00:03:56.400] mais c'est illégal, c'est le début de l'islamisme.
+[00:03:56.400 --> 00:03:58.960] C'est vrai que c'était compliqué de trouver sa place.
+[00:03:59.520 --> 00:04:07.440] Et puis vous avez eu la vidéo de réaction d'Éric Zemmour au 17, où à un moment il dit voilà, la France a déjà, Paris a déjà été,
+[00:04:07.440 --> 00:04:12.480] je crois qu'il dit Paris, confrontée à la barbarie, etc.
+[00:04:12.480 --> 00:04:16.000] Et dans les exemples historiques qu'il cite, il met la commune de Paris quand même.
+[00:04:16.000 --> 00:04:23.600] Notre histoire nous l'a appris. À chaque fois que l'État recule, la barbarie avance. Déjà crie à la commune.
+[00:04:23.680 --> 00:04:32.720] Ce sont des gens qui n'ont pas forcément un grand amour pour les manifestations populaires dès le départ, quoiqu'il arrive.
+[00:04:32.720 --> 00:04:42.800] Avec une petite parenthèse sur Marine Le Pen, qui elle aussi, alors c'est Sébastien Chenu qui dès le début des blocus de fac,
+[00:04:42.800 --> 00:04:50.000] quand c'était encore relativement bon enfant, disait déjà que c'était intolérable et qui, alors c'est plus tard qu'ils l'ont dit,
+[00:04:50.000 --> 00:04:54.720] quand il y a commencé à y avoir des violences, il fallait couper les allogues des parents dont les gosses faisaient des blocus,
+[00:04:54.720 --> 00:04:57.280] les gosses de Sciences Po, ça va leur faire très très peur.
+[00:04:57.280 --> 00:05:02.320] Et là, c'est quand même un peu faux cul parce que la même Marine Le Pen, disant en janvier 2019 à trois reprises,
+[00:05:02.320 --> 00:05:08.080] quand les journalistes lui demandaient quelle est la cause de la violence des Gilets jaunes, elle disait c'est la faute de l'État.
+[00:05:08.080 --> 00:05:13.120] Elle était mélenchon tiers à ce moment-là dans sa capacité à tolérer la violence manifestante.
+[00:05:13.120 --> 00:05:19.440] Et puis vous avez toute une partie de la gauche, pas la gauche, mais une partie des militants de gauche,
+[00:05:19.440 --> 00:05:28.720] c'est-à-dire les petits bobos majoritairement blancs qui se font chier, qui eux aussi alimentent ce narratif que les gens
+[00:05:28.720 --> 00:05:33.920] qui sont venus piller et saccager pour revendre sur Vinted sont les nouveaux gavroches.
+[00:05:33.920 --> 00:05:39.760] Et pourquoi je dis pas la gauche ? Parce que la gauche, c'est Mélenchon et sa position, vous pouvez la juger tardive, mais elle a été claire.
+[00:05:39.760 --> 00:05:46.750] Il a dit ces casseurs et ces pilleurs n'ont rien à voir avec les manifestants.
+[00:05:46.750 --> 00:05:48.990] À votre avis, qu'est-ce qui s'est passé ?
+[00:05:48.990 --> 00:05:52.110] Eh ben tous les petits blancs qui se font chier lui sont tombés sur la gueule.
+[00:05:52.110 --> 00:05:58.910] Là, pas d'utile, là, Dr. Zoé qui juge inacceptable que Mélenchon utilise les termes de saccage et de pillage.
+[00:05:58.910 --> 00:06:04.670] C'est une faute politique majeure, elle a dit. Mais putain, t'es folle ! T'es barjot !
+[00:06:04.670 --> 00:06:13.790] Là, c'est même pas que tu reproches à Mélenchon de tomber dans un narratif comme sur les questions de terrorisme ou de machin où il y a un vrai langage.
+[00:06:13.790 --> 00:06:17.470] Là, non, en fait, tu l'empêches de regarder les mots dans le dictionnaire et de les utiliser.
+[00:06:17.550 --> 00:06:23.470] C'est quoi rentrer à 15 dans une boutique, dire à la meuf on va te violer, piller sa boutique et frapper son mec ? C'est quoi ?
+[00:06:23.470 --> 00:06:32.670] C'est pas du pillage et du saccage ! Tu veux que Mélenchon passe, parce qu'on va en bouffer jusqu'aux prochaines élections, les six prochains mois à dire devant toutes les caméras du monde
+[00:06:32.670 --> 00:06:37.310] « Non, non, ces images-là, non, c'est pas du pillage. Non, non, c'est pas du saccage. »
+[00:06:37.310 --> 00:06:38.830] Mais il peut pas !
+[00:06:38.830 --> 00:06:44.510] Parce que s'il fait ça, il n'a même pas la moindre chance d'espérer être au second tour, ce n'est pas possible.
+[00:06:44.510 --> 00:06:50.670] Parce que la France entière ne vit pas dans votre petite bulle d'infantiles.
+[00:06:50.670 --> 00:06:56.510] Et ce délire-là, tu le vois aussi chez la petite meuf de BFM.
+[00:06:56.510 --> 00:07:01.870] Alors elle était géniale, l'influenceuse qui nous dit que son père mange des miettes de pain le midi parce qu'il n'a pas assez à manger.
+[00:07:01.870 --> 00:07:04.990] Elle est influenceuse, elle poste avec des colliers d'or à 1000 balles.
+[00:07:04.990 --> 00:07:06.990] Ceux qui nous intéressent, mais ceux qui nous intéressent, tous, on veut régler.
+[00:07:06.990 --> 00:07:08.990] Les causes de ce qui se passe.
+[00:07:08.990 --> 00:07:12.830] Donald Trump avance son explication, vous attirent-il de réagir ?
+[00:07:12.910 --> 00:07:18.590] Oui, je dis que c'est n'importe quoi et je vais vous expliquer c'est quoi les causes de tous ces problèmes.
+[00:07:18.590 --> 00:07:22.430] Je vais même vous dire carrément comment régler les problèmes de ce qui s'est passé ce week-end.
+[00:07:22.430 --> 00:07:27.230] En fait, déjà, moi je vais vous parler en tant que manifestante parce que moi j'y étais le 17.
+[00:07:27.230 --> 00:07:30.270] J'entends beaucoup de personnes parler qui n'étaient même pas là le 17.
+[00:07:30.270 --> 00:07:34.430] Mais non Marie-Clitorine, t'y as jamais été en fait, t'y as jamais été.
+[00:07:34.430 --> 00:07:41.390] Et c'est là où tu comprends pourquoi tous ces gens-là, ils veulent maintenir le narratif de tout ça là.
+[00:07:41.470 --> 00:07:50.670] De American Nightmare aux petits titouans qui manifestent c'est le même groupe, c'est le même corps social.
+[00:07:50.670 --> 00:07:55.470] Ils veulent parce qu'en fait ils veulent donner l'impression qu'ils y ont été, mais tu n'y as pas été.
+[00:07:56.590 --> 00:07:59.470] Tu as fait du Diabolo et des Battle d'or entre midi et deux.
+[00:07:59.470 --> 00:08:02.350] Je l'ai fait aussi pendant qu'on a fait le micro-trottoir.
+[00:08:02.350 --> 00:08:07.470] Les deux premières heures où je suis là-bas c'est essentiellement prendre des selfies avec des gamins de 18 ans de LFI qui regardent mes vidéos.
+[00:08:07.470 --> 00:08:09.470] C'était l'essentiel de mon activité.
+[00:08:10.430 --> 00:08:16.510] Ils veulent se donner l'impression que, vous savez pas de quoi vous parlez, moi j'y étais, ouais j'y étais.
+[00:08:16.510 --> 00:08:24.670] T'as régalé le Glorio, il a fait la même là en disant, ouais le 17 on a foutu la merde mais t'étais chez toi gros sac, tu regardais les Avengers.
+[00:08:24.670 --> 00:08:31.390] Sandrine Rousseau a fait pareil, elle a dit ouais j'étais au cœur du truc, mais Sardine je t'ai vu, t'étais, t'étais.
+[00:08:31.390 --> 00:08:36.990] Sur le grand boulevard qui mène à Repu, c'était l'endroit le plus calme de tout Paris.
+[00:08:37.070 --> 00:08:41.150] C'était le seul endroit où il y avait des La Police avec nous qui étaient chantés.
+[00:08:43.150 --> 00:08:48.510] C'était même pas encore à Cab, t'es folle dingue, il y avait R là-bas.
+[00:08:48.510 --> 00:08:54.830] Et ces gens là vont pousser Mélenchon dans l'escalier en lui faisant, parce que je pense qu'il y a aussi une partie de doom,
+[00:08:54.830 --> 00:08:59.630] c'est à dire qu'ils s'aperçoivent que Mélenchon a perdu des points et ils vont essayer de construire un narratif en mode,
+[00:09:00.110 --> 00:09:05.550] bien sûr, bien oui, mais s'il avait pas parlé de saccages et de pillages, il gagnait.
+[00:09:05.550 --> 00:09:09.790] Mais là c'est de sa faute, bien sûr, à décrire le réel comme ça, mais vous êtes barjots en fait.
+[00:09:09.790 --> 00:09:17.310] Vous dumez et vous voulez vous encanailler, vous voulez vous auto-persuader que vous avez fait partie de ce truc,
+[00:09:17.310 --> 00:09:21.950] alors que non, il n'y avait pas un truc, il y en avait deux, et vous n'êtes pas habilité à parler du second,
+[00:09:21.950 --> 00:09:27.630] parce que tu n'es pas habilité, parce que t'as fait deux heures de diabolos en chantant La Rue qui est à nous,
+[00:09:27.710 --> 00:09:30.910] à aller parler de ce qui s'est passé la nuit.
+[00:09:30.910 --> 00:09:32.910] En fait, non, tu n'y es pas habilité.
+[00:09:32.910 --> 00:09:38.910] Et ces gens qui se branlent toute l'année sur Marx, sont pas capables de voir le Loompen au milieu du couloir.
+[00:09:38.910 --> 00:09:47.070] Ça se voit comment l'Etat est en train d'utiliser ce truc-là pour aller péter de la manif derrière.
+[00:09:47.070 --> 00:09:51.550] Ces gens ne sont pas politisés, ça se voit, ils n'ont pas de revendications,
+[00:09:51.550 --> 00:09:57.230] vous voulez les transformer en gavroches alors que Marx vous a prévenu depuis le départ que c'était les derniers des alliés à prendre.
+[00:09:57.630 --> 00:09:59.950] Et ne me faites pas le coup de vous être fanoniens,
+[00:09:59.950 --> 00:10:04.350] parce que les trois quarts de l'équipe passent son temps à chier sur les agriculteurs
+[00:10:04.350 --> 00:10:08.510] en les traitant de forces contre-révolutionnaires et de vieux cons racistes et asbines.
+[00:10:08.510 --> 00:10:10.510] Ok ? Donc ne me faites pas ce coup-là.
+[00:10:10.510 --> 00:10:14.510] Enfin, vous n'êtes pas fous, vous êtes ce qu'on appelle des gauchistes, au sens léninien du terme,
+[00:10:14.510 --> 00:10:21.550] c'est-à-dire des petits bourgeois qui sont honnêtement et sincèrement révoltés par les horreurs du capitalisme,
+[00:10:21.950 --> 00:10:27.470] mais qui n'ont pour réponse à ça que de fantasmer quoi,
+[00:10:27.470 --> 00:10:34.110] ils vont te romantiser de façon abjecte cet émeutier venu de l'autre côté du périph.
+[00:10:34.110 --> 00:10:39.310] Et je ne rentre même pas dans tous les affects qu'il y a derrière qui sont des trucs encore plus dégueulasses,
+[00:10:39.310 --> 00:10:43.710] mais voilà, ce qui doit se passer va se passer.
+[00:10:43.710 --> 00:10:48.110] Et puis derrière, Macron, Macron avec le cornuc, a dit aux gens maintenant, il faut choisir,
+[00:10:48.190 --> 00:10:51.790] 99% de la France a choisi, c'est une bulle ces gens-là.
+[00:10:51.790 --> 00:10:56.030] Vous leur servez d'ailleurs de justificatifs pour qu'ils puissent arriver en disant, soi-disant,
+[00:10:56.030 --> 00:11:01.790] il y aurait des gens qui n'auraient pas choisi, mais 90% de la France condamne les mecs qui sont venus tout péter, enfin.
+[00:11:01.790 --> 00:11:06.190] Et donc, puisqu'on en est à parler de Macron, Macron nous a fait un magnifique discours le 17,
+[00:11:06.190 --> 00:11:10.030] alors à l'origine, j'avais tourné une séquence dans les conditions du direct,
+[00:11:10.030 --> 00:11:12.990] je vais la diffuser maintenant, voilà, je la colle là,
+[00:11:12.990 --> 00:11:18.030] parce que quand il a parlé, j'ai enregistré un vrai réact dans les conditions du direct,
+[00:11:18.030 --> 00:11:23.710] donc je vous laisse avec notre président, puis on analysera son discours après,
+[00:11:23.710 --> 00:11:26.670] peut-être, peut-être qu'on est sauvés, spoiler, non.
+[00:11:26.670 --> 00:11:30.350] En regardant ces images, nous nous sommes tous demandé, comptent-ils dans la tête ?
+[00:11:30.350 --> 00:11:37.470] Pas du tout, pas du tout, du tout, on s'est rien demandé, enfin, c'est... toi tu t'es demandé ?
+[00:11:37.470 --> 00:11:40.670] Mais tout le monde a déjà une explication, Emmanuel, sur ce qu'a dans la tête de ces jeunes,
+[00:11:40.670 --> 00:11:44.750] il y en a qui disent que c'est de la révolte, de la colère, d'autres qui disent que c'est de la haine de la France,
+[00:11:44.750 --> 00:11:46.910] d'autres qui disent qu'à rien, peut-être, dans leur tête,
+[00:11:46.990 --> 00:11:49.470] mais en tout cas, les gens ont émis des hypothèses, d'accord ?
+[00:11:49.470 --> 00:11:54.430] Donc toi, tu commences à t'interroger là, à 20h02, c'est bien.
+[00:11:54.430 --> 00:11:57.470] Comment peuvent-ils en arriver là ?
+[00:11:57.470 --> 00:11:59.070] Rien ne le justifie.
+[00:11:59.070 --> 00:12:04.750] D'accord, donc on part sur un niveau zéro de l'autocritique, c'est... ok, c'est juste pour être prévenu.
+[00:12:04.750 --> 00:12:07.950] Rien ne l'explique, rien ne l'excuse.
+[00:12:07.950 --> 00:12:12.430] C'est ça, c'est la France quantique, ça n'est ni justifié, ni expliqué, on ne sait pas.
+[00:12:12.430 --> 00:12:15.310] Oh, hu, hi, hi !
+[00:12:15.310 --> 00:12:21.950] Nous ressentons tous ce soir de la colère, de la honte, voir les rues de nos villes ainsi saccagées est insupportable.
+[00:12:21.950 --> 00:12:24.910] C'est vrai, c'est presque aussi insupportable que de voir ta gueule.
+[00:12:24.910 --> 00:12:28.670] C'est... pourtant, je te jure, j'ai vu les deux et toi, ça dure beaucoup moins longtemps, hein !
+[00:12:28.670 --> 00:12:34.990] T'as juste oublié un truc, c'est que la fameuse colère, elle est tout autant dirigée contre toi que contre les casseurs.
+[00:12:34.990 --> 00:12:38.910] Elle est même statistiquement plus dirigée contre toi parce que les casseurs, il y en a qui les soutiennent,
+[00:12:38.910 --> 00:12:41.390] toi, absolument plus personne, à part ta femme.
+[00:12:41.390 --> 00:12:42.590] En votre nom, j'exprime le soutien...
+[00:12:42.670 --> 00:12:47.950] Non, non, tu fais rien du tout en mon nom, tu n'as aucun soutien, tu ne commandes même pas une pizza, je m'en bats les couilles.
+[00:12:47.950 --> 00:12:56.350] ...soutien aux nombreux commerçants, artisans, acteurs économiques qui ont subi les conséquences de ces violences et qui sont aujourd'hui dans le désarroi.
+[00:12:56.350 --> 00:12:59.710] Alors, ce n'est pas aujourd'hui qu'ils sont dans le désarroi, c'est depuis...
+[00:12:59.710 --> 00:13:03.310] Oui, mais c'est vrai qu'on était parti sur un zéro autocritique, donc ça ne sert à rien, tu verras pas de quoi je parle.
+[00:13:03.310 --> 00:13:06.910] Certains ont défendu eux-mêmes leurs magasins et leurs vitrines face aux délinquants.
+[00:13:06.990 --> 00:13:12.830] C'est ça, le mec est en train de concéder en direct que la force publique n'a pas fait le travail, donc ils ont dû le faire eux-mêmes, ouais, c'est...
+[00:13:12.830 --> 00:13:15.070] Tu fais quoi comme métier, déjà ?
+[00:13:15.070 --> 00:13:18.030] Il faut aussi regarder lucidement ce qui s'exprime dans le pays.
+[00:13:18.030 --> 00:13:24.430] Ah, bah ça y est, on y vient, il a gratté du temps, mais il va nous donner la cause, là. Si c'est les Russes, je t'encule.
+[00:13:24.430 --> 00:13:32.110] Ces manifestants ont fait part d'une inquiétude sur le coût de la vie, sur le prix des carburants, qui trouvent leurs sources dans le conflit lancé dans le golfe persique.
+[00:13:32.110 --> 00:13:42.030] Le golfe persique. Le golfe persique. Au moins en voyage, hein, y a ça, mais... Vraiment ?
+[00:13:42.030 --> 00:13:47.310] Non, mais j'ai vu ton raisonnement de fils de pute, mais c'était pas assez... Tu nous fais le coup de...
+[00:13:47.310 --> 00:13:51.390] C'est-à-dire quand c'était les Gilets jaunes qui manifestaient pour le prix de l'essence, t'as jamais voulu comprendre que c'était ça,
+[00:13:51.390 --> 00:13:57.470] mais hier, alors que c'était vraiment pas la revendication principale, là, tu le vois, c'était...
+[00:13:58.270 --> 00:14:04.350] En fait, Macron, ça aurait peut-être pu être un bon président, mais décalé de 7 ans, en fait, y a une sorte de lag.
+[00:14:04.350 --> 00:14:12.510] À ce titre, j'ai pris plusieurs initiatives au niveau international pour garantir notre carburant, notre gaz, et agir sur les marchés de l'énergie.
+[00:14:12.510 --> 00:14:14.750] Et je poursuivrai ces actions dès demain matin.
+[00:14:14.750 --> 00:14:20.910] D'accord, mais tu... Ça fait que ça n'a fait que augmenter, donc demain, on poursuit l'augmentation, c'est ça que tu veux dire.
+[00:14:20.910 --> 00:14:24.510] En allant dans les pays du golfe pour sécuriser nos approvisionnements.
+[00:14:24.510 --> 00:14:31.070] Pfff... D'accord, t'as réussi à faire le tour de la queue du Mickey, enculé !
+[00:14:31.070 --> 00:14:37.950] Non, parce que demain, il se casse, là, pose caca, il se tire, Jupiter, il prend l'avion, là, pour aller faire des vacances du business, je sais pas quoi.
+[00:14:37.950 --> 00:14:44.590] Et donc, vu qu'il a vu que tout le monde sait qu'il va se tirer, il est en train de dire, non, non, mais t'inquiète, je vais sécuriser le golfe persique.
+[00:14:44.590 --> 00:14:46.110] C'est le OSS 117, en fait, le mec.
+[00:14:46.110 --> 00:14:48.990] Profitez-en pour me calmer tout ce petit monde, hein.
+[00:14:48.990 --> 00:14:56.830] Américains, soviétiques, anglais, conforter les positions de la France, instaurer la paix en Égypte, enfin, sécuriser le Proche-Orient.
+[00:14:56.830 --> 00:14:57.470] Pas de problème.
+[00:14:57.470 --> 00:15:04.670] Depuis plusieurs semaines aussi, notre jeunesse exprime une angoisse profonde dans les lycées comme dans les universités.
+[00:15:04.670 --> 00:15:12.190] Une inquiétude sur l'avenir, sur les conditions de vie et d'études, sur la capacité à s'orienter, à se projeter, à trouver sa place dans la société.
+[00:15:12.190 --> 00:15:17.230] Alors qu'il suffit de baiser sa prof, et tu vois, il y aurait pas ces problèmes, c'est... Il va pas leur conseiller, quand même.
+[00:15:17.230 --> 00:15:19.950] Le travail est déjà engagé par le gouvernement.
+[00:15:19.950 --> 00:15:26.750] Le ministre de l'Éducation nationale s'est mobilisé, a mis en place une plateforme qui a recueilli plus de 100 000 contributions.
+[00:15:26.750 --> 00:15:28.270] Oh putain, il refait le numéro vert.
+[00:15:28.270 --> 00:15:29.870] Non, enfin, il refait le numéro vert.
+[00:15:29.870 --> 00:15:34.190] Il refait un mélange entre le numéro vert et les doléances des Gilets jaunes. Voilà.
+[00:15:34.190 --> 00:15:36.990] Je veux, ce soir, donner une méthode claire.
+[00:15:36.990 --> 00:15:39.070] Ah bah voilà, ça y est, enfin, il sort ses couilles.
+[00:15:39.070 --> 00:15:45.230] Premièrement, dans le contexte actuel, les préfets prendront les décisions en lien avec les maires pour protéger nos villes.
+[00:15:45.230 --> 00:15:50.590] Ok, donc c'est les maires et les préfets qui s'en occupent, parce que toi, du coup... Ah bah non, c'est con, c'est vrai, il a voyage, il peut pas.
+[00:15:50.590 --> 00:16:00.510] Deuxièmement, j'appelle l'ensemble des partis politiques, des organisations professionnelles et syndicales à condamner sans ambiguïté toutes les violences.
+[00:16:00.510 --> 00:16:05.870] Ok, donc il demande aux partis politiques et aux organisations syndicales de calmer le jeu.
+[00:16:05.870 --> 00:16:09.630] Parce que lui, il peut pas parce qu'il a concert. Non mais vraiment.
+[00:16:09.630 --> 00:16:20.990] Troisièmement, nous ne pouvons pas demander à notre jeunesse de croire en l'avenir sans lui donner la possibilité de construire les réponses et d'être autour de la table.
+[00:16:20.990 --> 00:16:24.910] Comment ça d'être autour de la table ? Non, non, non, non, non. Il va... Non, non, non.
+[00:16:24.910 --> 00:16:29.070] Oui, il nous faut nous asseoir autour de la table et construire ensemble des solutions.
+[00:16:29.070 --> 00:16:33.950] Oh là là, il a vraiment sorti le grand jeu là. Il nous fait le combo numéro vert, plateforme en ligne et grand débat en même temps ?
+[00:16:33.950 --> 00:16:47.230] Élèves, étudiants, enseignants, représentants des organisations patronales et syndicales, collectivités territoriales, parlementaires, travailleront dès cette semaine avec le gouvernement à des propositions concrètes.
+[00:16:47.230 --> 00:16:51.630] Ce qu'ils sont censés faire tout le reste du temps dans une démocratie normale, on est d'accord ?
+[00:16:51.630 --> 00:16:59.310] Non, non, parce que là t'es en train de dire on veut faire une pause dans mon règne de Néron là, mais normalement tu viens juste de décrire le fonctionnement précis de la 100ème République.
+[00:16:59.390 --> 00:17:04.350] Mes chers compatriotes, nous sommes à 6 mois de notre élection présidentielle.
+[00:17:04.350 --> 00:17:10.190] Poutez-moi la paix, j'en ai marre. Je suis plus là, je vais m'attacher à l'indion, je m'en vais les couilles, t'as compris ?
+[00:17:10.190 --> 00:17:15.390] Franchement, après tout ce que j'ai fait pour vous, vous pouvez pas juste la fermer genre 6 mois ?
+[00:17:15.390 --> 00:17:22.510] Et donc tous ceux qui aujourd'hui vous expliquent que l'urgence est d'aller dans la rue, de manifester, de créer le désordre, n'ont qu'un but.
+[00:17:22.510 --> 00:17:25.470] Abîmer la République et voler le débat.
+[00:17:25.470 --> 00:17:34.750] Quoi ? Attends, le mec est factuellement en train de dire que si tu appelles les gens, parce qu'on serait à 6 mois d'une élection, à aller dans la rue et à manifester, il met le bordel, il met en troisième.
+[00:17:34.750 --> 00:17:43.550] Si tu dis aux gens de faire ça, t'es en train de voler les élections. Mais quel est le lien de causalité de ta mère ?
+[00:17:43.550 --> 00:17:50.750] Le mec est fou. La personne que nous avons là en face des yeux est un sociopathe.
+[00:17:50.750 --> 00:17:54.590] Et la France est une grande force démocratique, elle mérite ses débats.
+[00:17:54.670 --> 00:17:57.630] Ok, on mérite une belle finale, donc vous allez pas foutre le bordel.
+[00:17:58.990 --> 00:18:18.190] En fait, je ne sais pas quoi dire. Le mec, en fait, son argument c'est de nous dire « Ah putain, vous êtes en train de gâcher la fête, c'est tous les 7 ans, c'est joli, nous en plus on avait fait un beau débat, on avait offert un lifting à Nathalie Sincric pour que ça ressemble à quelque chose, et là, avec le budget qu'on a mis dedans, et vous êtes en train de me gâcher ce moment, c'est pas cool, c'est pas super cool. »
+[00:18:18.190 --> 00:18:21.790] Nous avons besoin d'unité, de calme et de respect.
+[00:18:22.750 --> 00:18:25.630] Vive la République, et vive la France.
+[00:18:25.630 --> 00:18:27.630] Ça arrête là le truc !
+[00:18:27.630 --> 00:18:34.190] Faut y aller maintenant, monsieur, parce que si vraiment vous n'avez pas envie de travailler, enfin, s'il y a bien un boulot dans le monde qu'il ne faut pas se forcer à faire, c'est quand même le tien.
+[00:18:34.190 --> 00:18:45.790] Je sais pas si t'es au courant que les 5 formules que tu as employées pour décrire ce qui se passe en ce moment, c'est « je veux », « j'attends », « je comprends », et « j'ai demandé ».
+[00:18:45.790 --> 00:18:49.790] Et entre temps, Macron a fait une deuxième réaction.
+[00:18:49.790 --> 00:18:55.790] Alors celle-là, je ne la commande pas en mode réacte parce que je ne peux plus voir sa gueule, mais je vous mets le début.
+[00:18:55.790 --> 00:18:57.790] Enfin, c'est terrifiant.
+[00:18:57.790 --> 00:19:07.790] Il y a une manipulation étrangère de l'information, à la suite, ça oui, qui a donné lieu à des commentaires inacceptables autant que stupides de la part de beaucoup, y compris des dirigeants étrangers.
+[00:19:07.790 --> 00:19:13.790] C'est-à-dire qu'on a vu des images d'intelligence artificielle qui ont montré des scènes qui ne se sont jamais passées en France.
+[00:19:13.790 --> 00:19:19.790] Donc c'est la faute des autres pays et de l'intelligence artificielle.
+[00:19:19.790 --> 00:19:24.790] Enfin là, c'est plus que dangereux d'avoir une personne comme ça à la tête du pays.
+[00:19:24.790 --> 00:19:28.790] Là, je suis désolé de me répéter, mais ça urge qui partent, vraiment.
+[00:19:28.790 --> 00:19:33.790] La folie narcissique et égocentrique et sociopathique de ce mec est en train de...
+[00:19:33.790 --> 00:19:40.790] Enfin, a déjà détruit la France parce que là, tout le monde croit que son prochain candidat va sauver le truc.
+[00:19:40.790 --> 00:19:45.790] Il va déjà se retrouver avec l'addition quand il va arriver à l'Élysée et ça va pas être rigolo.
+[00:19:45.790 --> 00:19:49.790] Et Emmanuel Macron, dans cette affaire-là, alors bien sûr, vous allez me dire, est-ce qu'il l'a fait exprès ?
+[00:19:49.790 --> 00:19:54.790] Est-ce que quand il met dans le titre « Organise le chaos », ça veut dire qu'il l'a laissé faire ?
+[00:19:54.790 --> 00:19:59.790] Je ne peux pas le savoir. Je ne serais surpris de rien de ce monsieur, mais je vais partir du principe que non.
+[00:19:59.790 --> 00:20:05.790] Mais à minima, sa gestion de la crise est très problématique et soulève beaucoup de questions.
+[00:20:05.790 --> 00:20:08.790] La première question, c'est celle des effectifs qui étaient présents.
+[00:20:08.790 --> 00:20:15.790] De quatre des Gilets jaunes, on est à 140 000 manifestants, il déploie 120 000 flics.
+[00:20:15.790 --> 00:20:22.790] Là, on est à 550 000 à 800 000 en fonction des sources, mais 550 000, c'est le ministère de l'Intérieur.
+[00:20:22.790 --> 00:20:29.790] Donc on est déjà à minima du ratio x5. Le nombre de membres des forces de l'ordre déployés est inférieur à 60 000.
+[00:20:29.790 --> 00:20:32.790] Il y a zéro monde dans lequel ça peut bien se passer.
+[00:20:32.790 --> 00:20:36.790] Et Nunes a démissionné et Macron a refusé sa démission.
+[00:20:36.790 --> 00:20:39.790] Nunes était un peu baisé parce qu'il y a les images de lui qui tournent partout.
+[00:20:39.790 --> 00:20:41.790] Il y a 15 jours, il a essayé de se justifier qu'il n'y avait pas de débordement,
+[00:20:41.790 --> 00:20:47.790] en disant « mais vous savez ce que c'est ? Monsieur Pujadas, un état débordé, c'est quand il y a des casses et des magasins pillés ».
+[00:20:47.790 --> 00:20:53.790] Mais quand vous avez des émeutiers, quand vous avez des dégradations qui sont commises, il y a des interventions de police.
+[00:20:53.790 --> 00:20:56.790] C'est pas pour ça qu'on a perdu le contrôle.
+[00:20:56.790 --> 00:21:02.790] Père de contrôle, c'est si jamais vous aviez des ordres de personnes qui défilaient dans les centres-villes, qui pillaient les magasins, qui commettaient des exactions.
+[00:21:03.790 --> 00:21:05.790] Et ça pouvait pas forcément bien se passer.
+[00:21:05.790 --> 00:21:10.790] Mais la deuxième question qui se pose aussi, c'est à quoi ont été employées ces forces de l'ordre ?
+[00:21:10.790 --> 00:21:16.790] Et je pourrais témoigner de ce que j'ai vu parce qu'alors, dans le docu, on le voit pas à quel point ces trois endroits sont collés.
+[00:21:16.790 --> 00:21:24.790] Mais je le dis, je suis en face, on le verra dans le docu, il y a un PMU, un des premiers qui commence vraiment à se faire saccager.
+[00:21:24.790 --> 00:21:28.790] Mais c'est une infiltration d'un petit groupe vraiment au milieu de manifestants pacifiques.
+[00:21:28.790 --> 00:21:37.790] C'est-à-dire que vous avez les CRS, vous avez 20 mètres, vous avez le PMU, et à 10 mètres, à côté de ce truc-là, vous avez une brocante.
+[00:21:37.790 --> 00:21:39.790] Une brocante avec des grands-mères.
+[00:21:39.790 --> 00:21:42.790] Les gens continuaient à acheter à la brocante.
+[00:21:42.790 --> 00:21:45.790] Les gens étaient là et disaient, qu'est-ce qu'ils font ? Arrêtez-les, arrêtez-les.
+[00:21:45.790 --> 00:21:50.790] Les flics n'ont rien fait. Ils n'y sont pas allés alors qu'ils n'étaient pas dans une situation de débordement à ce moment-là.
+[00:21:50.790 --> 00:21:53.790] Et visiblement, il semblerait que ce soit pas un cas isolé.
+[00:21:54.790 --> 00:21:56.790] Le maire de Marseille, un éminent complotiste...
+[00:21:56.790 --> 00:22:01.790] Enfin, tu sens que le mec en privé, là, quand tu parles avec lui, il doit être turbo-complotiste en ce moment, entre guillemets,
+[00:22:01.790 --> 00:22:05.790] mais qu'il est emmerdé quand il veut répondre aux journalistes parce qu'il a le droit légalement de dire.
+[00:22:05.790 --> 00:22:10.790] Mais ce qu'il dit ne laisse aucun doute sur ce qu'il pense et sur ce qu'il a vu.
+[00:22:10.790 --> 00:22:14.790] Je n'imaginais pas avoir ça de mon vivant. Je ne peux pas laisser ça se reproduire.
+[00:22:14.790 --> 00:22:21.790] Voilà, demain, je veux des explications et je veux des moyens pour que ça ne se reproduise plus dans ma ville ni partout en France.
+[00:22:21.790 --> 00:22:23.790] Parce que je pense au reste de la France.
+[00:22:23.790 --> 00:22:30.790] Quand je vois la mairie de Limoges brûler, le baie-froid effondrer, quand je vois la mairie de Lille attaquer,
+[00:22:30.790 --> 00:22:34.790] quand je vois les commerçants et je pense à mes commerçants qui ont été valeureux pour certains d'entre eux,
+[00:22:34.790 --> 00:22:39.790] parce qu'ils ont été bien seuls quelquefois et je veux remercier la police municipale et la police nationale quand elle a pu intervenir.
+[00:22:39.790 --> 00:22:42.790] Quand elle a pu intervenir et quand on leur a demandé d'intervenir.
+[00:22:42.790 --> 00:22:46.790] Parce que mon propos n'est pas d'un criminel, la police nationale.
+[00:22:46.790 --> 00:22:49.790] La police nationale, elle fait ce qu'on lui demande.
+[00:22:49.790 --> 00:22:55.790] Elle fait en fonction de ce qu'on lui demande. Les gendarmes font ce qu'on leur demande et ils répondent à des ordres.
+[00:22:55.790 --> 00:22:58.790] Je veux savoir quels ordres leur ont été donnés.
+[00:22:58.790 --> 00:23:03.790] Je veux savoir s'il leur a été demandé de s'occuper uniquement des manifestants et de lancer des lacrimos sur des manifestants
+[00:23:03.790 --> 00:23:06.790] et de ne pas s'occuper des pillages dans la ville. Je veux savoir ça.
+[00:23:06.790 --> 00:23:09.790] La ville de Marseille n'a pas à se substituer à l'Etat.
+[00:23:09.790 --> 00:23:14.790] Ce que nous avons fait hier soir avec les forces de police municipales est anormal.
+[00:23:15.790 --> 00:23:22.790] Hier, il y avait plus de 22 équipages de police municipales à l'extérieur, des centaines de marins pompiers.
+[00:23:22.790 --> 00:23:27.790] Je ne vous parlerai pas de ce que j'ai vu parce que la loi me l'interdit.
+[00:23:27.790 --> 00:23:31.790] Mais je peux vous dire qu'ils se sont sentis, pour certains d'entre eux, bien seuls.
+[00:23:31.790 --> 00:23:43.790] À quoi on joue à avoir voulu se faire plaisir en voyant des affrontements entre manifestants et forces de l'ordre
+[00:23:43.790 --> 00:23:48.790] pendant qu'à 100 mètres derrière, il y avait des scènes de guerrilla urbaine.
+[00:23:48.790 --> 00:23:53.790] Pendant que je voyais avec les moyens de la police municipale et je veux dire ce matin
+[00:23:53.790 --> 00:24:01.790] que ce sont plus de 700 forces de marins pompiers et de policiers municipaux qui ont été sur le terrain toute la nuit,
+[00:24:01.790 --> 00:24:08.790] l'Etat aura à dire ce qu'il a déployé. Encore une fois, je veux bien me faire entendre.
+[00:24:09.790 --> 00:24:17.790] Je ne veux pas ici que quelqu'un remette en cause l'intégrité de ce qu'ont pu faire les policiers nationaux et les gendarmes.
+[00:24:17.790 --> 00:24:21.790] La question c'est comment est-ce qu'ils ont été employés, à quels essence ils ont été employés,
+[00:24:21.790 --> 00:24:24.790] pourquoi est-ce qu'ils ont été employés ou non employés.
+[00:24:24.790 --> 00:24:29.790] Quand ça s'est passé pour Naël, nous avions les forces de sécurité qui s'occupaient de ça.
+[00:24:29.790 --> 00:24:34.790] Là, je ne sais pas à quoi elles ont été employées et c'est la question que je poserai au ministre de l'Intérieur.
+[00:24:34.790 --> 00:24:41.790] Je ne veux pas entrer dans la polémique, je sais simplement qu'à Marseille, je crois comprendre que certains avaient des informations,
+[00:24:41.790 --> 00:24:45.790] notamment sur la volonté de certains black blocs d'en découdre.
+[00:24:45.790 --> 00:24:52.790] Une compagnie de CRS, ça fait 80 CRS, pour une ville qui fait 5 fois Lyon et 2 fois et demi Paris et ça c'est insupportable.
+[00:24:52.790 --> 00:24:55.790] Le ministre sera là demain matin.
+[00:24:55.790 --> 00:25:00.790] Mais ce qui est sûr, c'est qu'Emmanuel Macron n'est pas du tout le grand perdant pour l'instant de cette histoire.
+[00:25:00.790 --> 00:25:06.790] Pourquoi ? Parce que l'analyse de base, c'est de dire Mélenchon s'est foutu et c'est Marine Le Pen a gagné.
+[00:25:06.790 --> 00:25:14.790] Déjà, un, parce que Mélenchon, et ça ce n'est pas dû à ce mouvement, il le fait à chaque élection,
+[00:25:14.790 --> 00:25:20.790] les gens ont la mémoire courte, va se calmer et va avoir un discours de plus en plus modéré à toutes les élections.
+[00:25:20.790 --> 00:25:26.790] A un an de l'élection, Mélenchon s'échavez, à trois mois du scrutin, c'est un Jean Jaurès un petit peu énervé
+[00:25:26.790 --> 00:25:29.790] et à une semaine du premier tour, il faut mettre tes lunettes pour ne pas le confondre avec François Hollande.
+[00:25:29.790 --> 00:25:34.790] À chaque fois, c'est comme ça. Et puis à côté de ça, il y a effectivement Marine Le Pen qui est à la hype.
+[00:25:34.790 --> 00:25:44.790] Elle est à la hype, oui, d'accord, mais jusqu'à quand ? Parce que si Macron rétablit l'ordre, parce qu'il a les moyens de le faire.
+[00:25:44.790 --> 00:25:52.790] Ça aussi, ça m'a fait rire plein de médias qui d'habitude, donc plutôt orientés à gauche, mais qui ont l'habitude de ne pas avoir peur
+[00:25:52.790 --> 00:25:55.790] et c'est tout à leur honneur de tenir des discours un peu conspi.
+[00:25:55.790 --> 00:25:59.790] Alors là, ils ont tous fait du conspiracy watch, tu sais, pour dire non, non, bien évidemment.
+[00:25:59.790 --> 00:26:05.790] Non, non, non, non, non, il n'y avait pas de sous-effectifs policiers, c'est juste qu'on a été très efficace.
+[00:26:05.790 --> 00:26:13.790] Non, non, non, je t'explique. Dans le vrai monde, en fait, si Macron, il envoie 50 centaures, je ne dis pas que ça dégénère pas en proto-guerre civile,
+[00:26:13.790 --> 00:26:15.790] mais en fait, vous êtes écrasé. On coule une dalle et on reconstruit.
+[00:26:15.790 --> 00:26:21.790] Le but d'une manifestation efficace, c'est d'atteindre le degré de violence des Gilets jaunes, mais en conservant une légitimité populaire,
+[00:26:21.790 --> 00:26:30.790] donc en évitant de piller des boutiques en masse, pour que toute répression d'État soit vue notamment par le regard international comme très problématique
+[00:26:30.790 --> 00:26:38.790] et que tu sois dans un rapport de disproportion de la violence, une violence suffisante pour faire peur à l'État, mais pas assez forte pour justifier qu'il t'écrase.
+[00:26:38.790 --> 00:26:42.790] Donc si Macron, il envoie les centaures, il sera applaudi et le parti de l'ordre redevient Macron ?
+[00:26:42.790 --> 00:26:50.790] Non, mais si vraiment il le fait, on en parle vidéo après vidéo, comment la sociologie politique a montré à quel point le système politico-médiatique
+[00:26:50.790 --> 00:26:55.790] est fait pour que les gens votent dans les problématiques qui sont dans les trois mois avant l'élection ?
+[00:26:55.790 --> 00:27:03.790] Là, il va laisser faire tranquillement avec ses histoires de demi-couvre-feu, de demi-armée, de machin, et dans trois mois, ce qu'il va faire si il a envie, peut-être.
+[00:27:03.790 --> 00:27:09.790] S'il rétablit l'ordre, c'est une hypothèse, dans trois mois, il pique le monopole du parti de l'ordre à Marine Le Pen,
+[00:27:09.790 --> 00:27:12.790] qu'il ne le partage qu'avec son aile droite, c'est-à-dire avec Zemmour.
+[00:27:12.790 --> 00:27:16.790] Ce que Marine Le Pen, elle peut appeler à l'ordre et Zemmour aussi, mais Macron, il peut le faire, l'ordre par contre, s'il veut.
+[00:27:17.790 --> 00:27:21.790] Et toute cette catégorie de gens, qui sont de plus en plus nombreux dans toutes les enquêtes d'opinion,
+[00:27:21.790 --> 00:27:26.790] qui votent pour Marine Le Pen et qui n'aiment pas le programme de Marine Le Pen mais qui ne veulent qu'une seule chose,
+[00:27:26.790 --> 00:27:31.790] c'est que l'ordre républicain et que ça se calme parce qu'ils se sentent vraiment en insécurité,
+[00:27:31.790 --> 00:27:39.790] eh bien, ces gens-là, ils auront parfaitement la possibilité de voter pour un bloc central qui a rétabli l'ordre devant leurs yeux sans avoir à voter Marine Le Pen.
+[00:27:39.790 --> 00:27:45.790] Le truc, c'est qu'il faut que Macron arrive à transférer l'éventuel rétablissement de l'ordre à un de ses poulains.
+[00:27:45.790 --> 00:27:51.790] Mais ça se voit déjà que les poulains se battent pour la dépasser par la droite, Marine Le Pen n'a pas demandé l'intervention de l'armée.
+[00:27:52.790 --> 00:27:55.790] C'est Gabriel Attal qui l'a demandé en premier et Macron l'a fait juste après.
+[00:27:55.790 --> 00:28:00.790] Et je ne dis pas que Macron va rétablir l'ordre, je dis qu'il peut ranger la baraque avant que le date arrive.
+[00:28:00.790 --> 00:28:06.790] Tu vois, c'est très facile d'aller ranger les émeutiers dans le placard, enfin dans la banlieue, c'est pas très difficile, c'est ce qu'on fait depuis 40 ans.
+[00:28:06.790 --> 00:28:11.790] Il peut le faire, il peut le faire et en plus de ça, t'imagines, pile poil avant les élections,
+[00:28:11.790 --> 00:28:17.790] les élections, c'est le moment où les commerçants vont recevoir la thune de l'Etat pour les aider.
+[00:28:17.790 --> 00:28:20.790] Alors pour l'instant, il a dit qu'il faisait un prêt pour les aider à tenir.
+[00:28:20.790 --> 00:28:26.790] Et puis après, tu vois, quand ils reconstruiront leur commerce et que l'Etat dira, oui, les assurances, tu refuses de rembourser, on va vous sommer,
+[00:28:26.790 --> 00:28:31.790] il peut faire ça aussi et se montrer comme le soutien des petits commerçants, il peut tout faire parce qu'il a le pouvoir.
+[00:28:31.790 --> 00:28:39.790] Et face à cette situation-là, là pour le coup, tu vois, autant souvent la gauche abuse à tout ramener à la Seconde Guerre mondiale,
+[00:28:39.790 --> 00:28:48.790] mais on connaît les process de rétablissement de l'ordre pour les petits commerçants et pour cette classe-là, tu vois,
+[00:28:48.790 --> 00:28:54.790] pour lui faire gober la pilule de l'autorité par ces moyens-là, on le connaît, c'est là, il a toutes les cartes pour le faire.
+[00:28:54.790 --> 00:28:56.790] C'est là, c'est devant lui en fait.
+[00:28:56.790 --> 00:29:01.790] Marine Le Pen peut se faire amputer de son monopole du parti de l'ordre, qu'encore une fois elle ne partage qu'avec Zemmour,
+[00:29:01.790 --> 00:29:09.790] c'est-à-dire avec des gens qui se rabattent, si jamais il y a second tour, par le bloc central.
+[00:29:09.790 --> 00:29:16.790] Alors Macron a commencé à prendre des mesurettes, des mesurettes qui sont faites pour donner une image de réaction,
+[00:29:16.790 --> 00:29:23.790] mais qui sont grotesques et non respectées, donc il y a eu les premiers couvre-feu dans des petits endroits à Repu et puis à Lyon, voilà.
+[00:29:23.790 --> 00:29:28.790] Donc ça vient du préfet, mais visiblement le couvre-feu n'est pas pour tout le monde parce que les mouvements d'ultra-droite,
+[00:29:28.790 --> 00:29:37.060] eux, ils ont eu le droit de défiler, et c'est pas Grégory Doucet qui les a laissés faire, c'est le préfet.
+[00:29:37.060 --> 00:29:42.060] Donc comme ça, tu montres bien le deux poids deux mesures, tu vois, ça t'alimente bien la situation.
+[00:29:42.060 --> 00:29:46.060] Et dans le même registre, il y a le déploiement de la force sentinelle, c'est-à-dire de l'armée,
+[00:29:46.060 --> 00:29:51.060] qui n'est absolument pas habilité au maintien de l'ordre, qui ne sera de quasiment aucune utilité,
+[00:29:51.060 --> 00:29:59.060] mais qui permet d'alimenter le discours de monter du fascisme, alors qu'il n'y en a pas besoin de l'armée.
+[00:29:59.060 --> 00:30:06.060] Il y a besoin, si vous voulez rétablir l'ordre, de professionnels du rétablissement de l'ordre, mais pas de l'armée.
+[00:30:06.060 --> 00:30:12.060] Donc encore une fois, c'est du symbole qui marque très fort, qui permet d'alimenter un discours de conflit,
+[00:30:12.060 --> 00:30:18.060] mais qui ne va pas, à court terme, être efficace.
+[00:30:18.060 --> 00:30:23.060] Et ce lien, juste, je conclurai là-dessus, entre ce qui se passe là et les prochaines élections,
+[00:30:23.060 --> 00:30:27.060] c'est pas moi qui le fais, encore une fois, c'est Macron qui vient de le faire devant vous il y a cinq minutes.
+[00:30:27.060 --> 00:30:34.060] C'est lui qui fait ce parallèle délirant entre ces manifestations, ces émeutes, parce qu'encore une fois, je les sépare,
+[00:30:34.060 --> 00:30:39.060] et la bonne tenue du débat démocratique dans six mois.
+[00:30:39.060 --> 00:30:44.060] Il tire un train, il commence à raconter une histoire.
+[00:30:44.060 --> 00:30:47.060] Et puis là, maintenant, voilà, il va l'écrire, tranquillement.
+[00:30:47.060 --> 00:30:51.060] Sur ce, je vais continuer à monter le micro-trottoir de demain,
+[00:30:51.060 --> 00:30:56.060] et je vais m'attaquer à la prochaine interview de la chaîne, qui portera sur l'histoire de l'Arménie,
+[00:30:56.060 --> 00:30:59.060] celle-là, ça fait dix ans que j'avais envie de la faire.
+[00:30:59.060 --> 00:31:04.060] Il y a deux autres entretiens qui sont à diffuser la semaine pro.
+[00:31:04.060 --> 00:31:11.060] Là, j'ai l'entretien de Thomas Guénolet, et j'ai l'entretien de l'ancien ambassadeur d'Algérie.
+[00:31:11.060 --> 00:31:14.060] Deux salles, deux ambiances, mais vous connaissez la chaîne.
+[00:31:14.060 --> 00:31:18.060] Et je précise aussi pour ceux qui voudraient une analyse un petit peu plus longue de ces événements,
+[00:31:18.060 --> 00:31:24.060] là, au moment où je tourne cette séquence de fin, ce matin, j'étais chez Front Populaire,
+[00:31:24.060 --> 00:31:28.060] où j'ai été interrogé, alors, il n'y a pas que ce sujet-là, mais majoritairement,
+[00:31:28.060 --> 00:31:32.060] et essentiellement ce sujet-là, et on y revient tout le temps, pendant plus d'une heure.
+[00:31:32.060 --> 00:31:36.060] Donc, il y a aussi ça. Alors, au moment où vous regardez cette vidéo,
+[00:31:36.060 --> 00:31:39.060] ce n'est pas sorti, mais je sais que ça va sortir dans les 48 heures, à peu près,
+[00:31:39.060 --> 00:31:41.060] ils m'ont dit, en tout cas, pour le week-end.
+[00:31:41.060 --> 00:31:46.060] Et des offres sur des sujets politiques, qui n'ont rien à voir avec ça,
+[00:31:46.060 --> 00:31:49.060] dans la suite de ce que vous êtes de plus en plus à aimer,
+[00:31:49.060 --> 00:31:51.060] je fais une petite parenthèse en ce moment.
+[00:31:51.060 --> 00:31:55.060] Non, la chaîne n'est pas en train de devenir une chaîne de 2 vidéos par mois à 1 million de vues,
+[00:31:55.060 --> 00:31:58.060] mais là, on a une vidéo qui va faire 1 million de vues,
+[00:31:58.060 --> 00:32:02.060] les autres offres vont arriver là à 400 000 au bout d'un mois,
+[00:32:02.060 --> 00:32:04.060] ils seront à 500 000 au bout de deux, donc oui,
+[00:32:04.060 --> 00:32:07.060] ces nouveaux formats sont des formats qui vont se jouer dans des échelles
+[00:32:07.060 --> 00:32:12.060] du demi-million au million de vues, et c'est très, très enrichissant pour moi de le faire.
+[00:32:12.060 --> 00:32:15.060] J'espère que ça l'est pour vous, mais j'ai cru comprendre.
+[00:32:15.060 --> 00:32:19.060] Et il faut juste, là, en fait, en vrai, il faut que j'embauche quelqu'un en plus,
+[00:32:19.060 --> 00:32:22.060] pour pouvoir retrouver le temps de faire plus de JSPC.
+[00:32:22.060 --> 00:32:25.060] Mais en termes d'heures de vidéos diffusées mensuelles,
+[00:32:25.060 --> 00:32:30.060] là, on n'a jamais fait autant, parce que c'est des vidéos d'une heure et demie,
+[00:32:30.060 --> 00:32:34.060] et 5 à 10 vidéos d'une heure et demie par mois, c'est plus que 15 JSPC de 10 minutes.
+[00:32:34.060 --> 00:32:39.060] C'est beaucoup plus. Donc je vous remercie de les avoir accueillis comme ça.
+[00:32:39.060 --> 00:32:42.060] Je vous embrasse très fort, et je vous dis à demain.

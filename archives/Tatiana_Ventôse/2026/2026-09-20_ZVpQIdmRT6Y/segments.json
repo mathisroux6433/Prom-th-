@@ -1,0 +1,2545 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.04,
+      "start_timestamp": "00:00:00.000",
+      "end_timestamp": "00:00:03.040",
+      "text": "On en est à un stade où la France emprunte à 4,5% sur 10 ans,"
+    },
+    {
+      "id": 1,
+      "start": 3.04,
+      "end": 7.16,
+      "start_timestamp": "00:00:03.040",
+      "end_timestamp": "00:00:07.160",
+      "text": "où le prix du gasoil est à 2,50 à certains endroits."
+    },
+    {
+      "id": 2,
+      "start": 7.16,
+      "end": 12.0,
+      "start_timestamp": "00:00:07.160",
+      "end_timestamp": "00:00:12.000",
+      "text": "Et le gouvernement propose donc aux producteurs français de s'endetter"
+    },
+    {
+      "id": 3,
+      "start": 12.0,
+      "end": 14.44,
+      "start_timestamp": "00:00:12.000",
+      "end_timestamp": "00:00:14.440",
+      "text": "pour pouvoir continuer à bosser."
+    },
+    {
+      "id": 4,
+      "start": 14.44,
+      "end": 20.29,
+      "start_timestamp": "00:00:14.440",
+      "end_timestamp": "00:00:20.290",
+      "text": "Bienvenue dans la France libre."
+    },
+    {
+      "id": 5,
+      "start": 20.29,
+      "end": 23.09,
+      "start_timestamp": "00:00:20.290",
+      "end_timestamp": "00:00:23.090",
+      "text": "Bonjour à tous et bienvenue dans la France libre, je suis Tatiana Vantos"
+    },
+    {
+      "id": 6,
+      "start": 23.09,
+      "end": 25.89,
+      "start_timestamp": "00:00:23.090",
+      "end_timestamp": "00:00:25.890",
+      "text": "et aujourd'hui, ben, s'endetter pour aller bosser."
+    },
+    {
+      "id": 7,
+      "start": 25.89,
+      "end": 28.77,
+      "start_timestamp": "00:00:25.890",
+      "end_timestamp": "00:00:28.770",
+      "text": "C'est ce que propose la ministre de la Pêche qui vient d'annoncer"
+    },
+    {
+      "id": 8,
+      "start": 28.77,
+      "end": 32.65,
+      "start_timestamp": "00:00:28.770",
+      "end_timestamp": "00:00:32.650",
+      "text": "l'ouverture possible d'un prêt à taux zéro pour les pêcheurs"
+    },
+    {
+      "id": 9,
+      "start": 32.65,
+      "end": 35.97,
+      "start_timestamp": "00:00:32.650",
+      "end_timestamp": "00:00:35.970",
+      "text": "qui n'arrivent pas à faire face à la flambée des prix du gasoil."
+    },
+    {
+      "id": 10,
+      "start": 35.97,
+      "end": 38.69,
+      "start_timestamp": "00:00:35.970",
+      "end_timestamp": "00:00:38.690",
+      "text": "En fait, ça résume tellement bien le cercle vicieux dans lequel"
+    },
+    {
+      "id": 11,
+      "start": 38.69,
+      "end": 41.93,
+      "start_timestamp": "00:00:38.690",
+      "end_timestamp": "00:00:41.930",
+      "text": "nos dirigeants nous ont mis qu'il fallait absolument que j'en parle."
+    },
+    {
+      "id": 12,
+      "start": 41.93,
+      "end": 45.09,
+      "start_timestamp": "00:00:41.930",
+      "end_timestamp": "00:00:45.090",
+      "text": "Donc, si vous avez suivi, les pêcheurs français ont bloqué des ports"
+    },
+    {
+      "id": 13,
+      "start": 45.09,
+      "end": 50.17,
+      "start_timestamp": "00:00:45.090",
+      "end_timestamp": "00:00:50.170",
+      "text": "parce que ce dont on a tous fait l'expérience ces dernières semaines,"
+    },
+    {
+      "id": 14,
+      "start": 50.17,
+      "end": 53.69,
+      "start_timestamp": "00:00:50.170",
+      "end_timestamp": "00:00:53.690",
+      "text": "les prix de l'essence et du gasoil dont ils ont besoin"
+    },
+    {
+      "id": 15,
+      "start": 53.69,
+      "end": 57.13,
+      "start_timestamp": "00:00:53.690",
+      "end_timestamp": "00:00:57.130",
+      "text": "pour leurs outils de travail ont flambé et donc ils ont du mal"
+    },
+    {
+      "id": 16,
+      "start": 57.13,
+      "end": 59.73,
+      "start_timestamp": "00:00:57.130",
+      "end_timestamp": "00:00:59.730",
+      "text": "à faire leur travail, mais aussi plus généralement,"
+    },
+    {
+      "id": 17,
+      "start": 59.73,
+      "end": 61.93,
+      "start_timestamp": "00:00:59.730",
+      "end_timestamp": "00:01:01.930",
+      "text": "par rapport au problème de fond des normes européennes"
+    },
+    {
+      "id": 18,
+      "start": 61.93,
+      "end": 63.65,
+      "start_timestamp": "00:01:01.930",
+      "end_timestamp": "00:01:03.650",
+      "text": "qui restreignent les producteurs français"
+    },
+    {
+      "id": 19,
+      "start": 63.65,
+      "end": 66.37,
+      "start_timestamp": "00:01:03.650",
+      "end_timestamp": "00:01:06.370",
+      "text": "et qui favorisent nos concurrents internationaux."
+    },
+    {
+      "id": 20,
+      "start": 66.37,
+      "end": 68.45,
+      "start_timestamp": "00:01:06.370",
+      "end_timestamp": "00:01:08.450",
+      "text": "Oui, je sais, on a tous appris à vivre avec cette réalité,"
+    },
+    {
+      "id": 21,
+      "start": 68.45,
+      "end": 70.41,
+      "start_timestamp": "00:01:08.450",
+      "end_timestamp": "00:01:10.410",
+      "text": "mais c'est pas normal, c'est pas normal."
+    },
+    {
+      "id": 22,
+      "start": 70.41,
+      "end": 73.37,
+      "start_timestamp": "00:01:10.410",
+      "end_timestamp": "00:01:13.370",
+      "text": "Donc, après avoir reçu des représentants des pêcheurs,"
+    },
+    {
+      "id": 23,
+      "start": 73.37,
+      "end": 75.85,
+      "start_timestamp": "00:01:13.370",
+      "end_timestamp": "00:01:15.850",
+      "text": "la ministre de la Pêche leur propose, entre autres choses,"
+    },
+    {
+      "id": 24,
+      "start": 75.85,
+      "end": 79.77,
+      "start_timestamp": "00:01:15.850",
+      "end_timestamp": "00:01:19.770",
+      "text": "mais moi, c'est ça qui m'intéresse, un possible prêt à taux zéro."
+    },
+    {
+      "id": 25,
+      "start": 79.77,
+      "end": 84.81,
+      "start_timestamp": "00:01:19.770",
+      "end_timestamp": "00:01:24.810",
+      "text": "L'idée, c'est donc de faire en sorte que les pêcheurs puissent emprunter,"
+    },
+    {
+      "id": 26,
+      "start": 84.81,
+      "end": 88.25,
+      "start_timestamp": "00:01:24.810",
+      "end_timestamp": "00:01:28.250",
+      "text": "donc s'endetter pour pouvoir continuer de travailler."
+    },
+    {
+      "id": 27,
+      "start": 88.25,
+      "end": 91.73,
+      "start_timestamp": "00:01:28.250",
+      "end_timestamp": "00:01:31.730",
+      "text": "Et vous allez voir, il y a une logique, c'est fourbe, mais il y a une logique."
+    },
+    {
+      "id": 28,
+      "start": 91.77,
+      "end": 96.09,
+      "start_timestamp": "00:01:31.770",
+      "end_timestamp": "00:01:36.090",
+      "text": "C'est-à-dire que les pêcheurs font partie des gens qui produisent la richesse."
+    },
+    {
+      "id": 29,
+      "start": 96.09,
+      "end": 98.73,
+      "start_timestamp": "00:01:36.090",
+      "end_timestamp": "00:01:38.730",
+      "text": "Ils font partie des producteurs de richesse."
+    },
+    {
+      "id": 30,
+      "start": 98.73,
+      "end": 101.97,
+      "start_timestamp": "00:01:38.730",
+      "end_timestamp": "00:01:41.970",
+      "text": "Ce n'est pas des fonctionnaires qui travaillent dans un bureau"
+    },
+    {
+      "id": 31,
+      "start": 101.97,
+      "end": 104.09,
+      "start_timestamp": "00:01:41.970",
+      "end_timestamp": "00:01:44.090",
+      "text": "et qui vivent de la redistribution."
+    },
+    {
+      "id": 32,
+      "start": 104.09,
+      "end": 109.93,
+      "start_timestamp": "00:01:44.090",
+      "end_timestamp": "00:01:49.930",
+      "text": "Non, le pêcheur produit concrètement de la richesse matérielle."
+    },
+    {
+      "id": 33,
+      "start": 109.93,
+      "end": 113.33,
+      "start_timestamp": "00:01:49.930",
+      "end_timestamp": "00:01:53.330",
+      "text": "Tous ces gens, ces producteurs, s'ils arrêtent de travailler,"
+    },
+    {
+      "id": 34,
+      "start": 113.33,
+      "end": 115.61,
+      "start_timestamp": "00:01:53.330",
+      "end_timestamp": "00:01:55.610",
+      "text": "il n'y a plus de production."
+    },
+    {
+      "id": 35,
+      "start": 115.61,
+      "end": 119.65,
+      "start_timestamp": "00:01:55.610",
+      "end_timestamp": "00:01:59.650",
+      "text": "Voilà, en l'occurrence, de production de poissons, de produits de la mer,"
+    },
+    {
+      "id": 36,
+      "start": 119.65,
+      "end": 122.17,
+      "start_timestamp": "00:01:59.650",
+      "end_timestamp": "00:02:02.170",
+      "text": "mais aussi et surtout, c'est ça qui intéresse l'État,"
+    },
+    {
+      "id": 37,
+      "start": 122.17,
+      "end": 126.05,
+      "start_timestamp": "00:02:02.170",
+      "end_timestamp": "00:02:06.050",
+      "text": "s'il n'y a plus de production, ça veut dire qu'il n'y a plus de cotisations sociales,"
+    },
+    {
+      "id": 38,
+      "start": 126.05,
+      "end": 129.25,
+      "start_timestamp": "00:02:06.050",
+      "end_timestamp": "00:02:09.250",
+      "text": "qu'il n'y a plus de taxes, qu'il n'y a plus d'impôts."
+    },
+    {
+      "id": 39,
+      "start": 129.25,
+      "end": 132.61,
+      "start_timestamp": "00:02:09.250",
+      "end_timestamp": "00:02:12.610",
+      "text": "Bref, qu'il n'y a plus d'argent, de richesse,"
+    },
+    {
+      "id": 40,
+      "start": 132.61,
+      "end": 136.57,
+      "start_timestamp": "00:02:12.610",
+      "end_timestamp": "00:02:16.570",
+      "text": "que les malfaisants à la tête de l'État pourront dilapider de manière inique"
+    },
+    {
+      "id": 41,
+      "start": 136.57,
+      "end": 138.61,
+      "start_timestamp": "00:02:16.570",
+      "end_timestamp": "00:02:18.610",
+      "text": "et sans que les Français envoient la couleur."
+    },
+    {
+      "id": 42,
+      "start": 138.61,
+      "end": 142.57,
+      "start_timestamp": "00:02:18.610",
+      "end_timestamp": "00:02:22.570",
+      "text": "Donc en réalité, ce que le gouvernement propose à ces pêcheurs,"
+    },
+    {
+      "id": 43,
+      "start": 142.57,
+      "end": 147.29,
+      "start_timestamp": "00:02:22.570",
+      "end_timestamp": "00:02:27.290",
+      "text": "c'est de s'endetter personnellement ou d'endetter leur entreprise"
+    },
+    {
+      "id": 44,
+      "start": 147.33,
+      "end": 152.57,
+      "start_timestamp": "00:02:27.330",
+      "end_timestamp": "00:02:32.570",
+      "text": "pour pouvoir continuer à financer un système qui est malade."
+    },
+    {
+      "id": 45,
+      "start": 152.57,
+      "end": 156.57,
+      "start_timestamp": "00:02:32.570",
+      "end_timestamp": "00:02:36.570",
+      "text": "Et en plus du reste, avec un crédit sur le dos,"
+    },
+    {
+      "id": 46,
+      "start": 156.57,
+      "end": 159.65,
+      "start_timestamp": "00:02:36.570",
+      "end_timestamp": "00:02:39.650",
+      "text": "tous ces pêcheurs auront au pied les chaînes de l'endettement."
+    },
+    {
+      "id": 47,
+      "start": 159.65,
+      "end": 163.17,
+      "start_timestamp": "00:02:39.650",
+      "end_timestamp": "00:02:43.170",
+      "text": "En fait, cette logique, elle colle, elle rejoint complètement"
+    },
+    {
+      "id": 48,
+      "start": 163.17,
+      "end": 167.05,
+      "start_timestamp": "00:02:43.170",
+      "end_timestamp": "00:02:47.050",
+      "text": "ce que nos dirigeants ont fait à la France depuis 50 ans,"
+    },
+    {
+      "id": 49,
+      "start": 167.05,
+      "end": 170.85,
+      "start_timestamp": "00:02:47.050",
+      "end_timestamp": "00:02:50.850",
+      "text": "c'est-à-dire qu'ils ont détruit nos capacités de production."
+    },
+    {
+      "id": 50,
+      "start": 170.85,
+      "end": 175.25,
+      "start_timestamp": "00:02:50.850",
+      "end_timestamp": "00:02:55.250",
+      "text": "Ils ont démantelé la production industrielle, détruit l'agriculture"
+    },
+    {
+      "id": 51,
+      "start": 175.29,
+      "end": 180.17,
+      "start_timestamp": "00:02:55.290",
+      "end_timestamp": "00:03:00.170",
+      "text": "en essayant d'exterminer les agriculteurs, je n'ai pas d'autre mot."
+    },
+    {
+      "id": 52,
+      "start": 180.17,
+      "end": 184.53,
+      "start_timestamp": "00:03:00.170",
+      "end_timestamp": "00:03:04.530",
+      "text": "Et par-dessus ça, ils ont pris aussi des décisions qui nous ont privées"
+    },
+    {
+      "id": 53,
+      "start": 184.53,
+      "end": 186.45,
+      "start_timestamp": "00:03:04.530",
+      "end_timestamp": "00:03:06.450",
+      "text": "de certaines sources d'approvisionnement en énergie,"
+    },
+    {
+      "id": 54,
+      "start": 186.45,
+      "end": 189.33,
+      "start_timestamp": "00:03:06.450",
+      "end_timestamp": "00:03:09.330",
+      "text": "que ce soit via des décisions au niveau géopolitique"
+    },
+    {
+      "id": 55,
+      "start": 189.33,
+      "end": 194.09,
+      "start_timestamp": "00:03:09.330",
+      "end_timestamp": "00:03:14.090",
+      "text": "ou en finançant les GABE-J que sont le solaire et l'éolien"
+    },
+    {
+      "id": 56,
+      "start": 194.09,
+      "end": 196.81,
+      "start_timestamp": "00:03:14.090",
+      "end_timestamp": "00:03:16.810",
+      "text": "au détriment du nucléaire, qui a d'ailleurs été lui aussi"
+    },
+    {
+      "id": 57,
+      "start": 196.81,
+      "end": 200.57,
+      "start_timestamp": "00:03:16.810",
+      "end_timestamp": "00:03:20.570",
+      "text": "très largement sabordé par les gouvernements successifs, Macron compris."
+    },
+    {
+      "id": 58,
+      "start": 200.57,
+      "end": 204.17,
+      "start_timestamp": "00:03:20.570",
+      "end_timestamp": "00:03:24.170",
+      "text": "Et donc évidemment, comme on avait moins de capacité de production,"
+    },
+    {
+      "id": 59,
+      "start": 204.21,
+      "end": 206.65,
+      "start_timestamp": "00:03:24.210",
+      "end_timestamp": "00:03:26.650",
+      "text": "il y avait moins de production de richesses."
+    },
+    {
+      "id": 60,
+      "start": 206.65,
+      "end": 212.05,
+      "start_timestamp": "00:03:26.650",
+      "end_timestamp": "00:03:32.050",
+      "text": "Et donc ils ont compensé cette disparition de la richesse produite"
+    },
+    {
+      "id": 61,
+      "start": 212.05,
+      "end": 215.53,
+      "start_timestamp": "00:03:32.050",
+      "end_timestamp": "00:03:35.530",
+      "text": "de deux manières, déjà en ponctionnant toujours plus fortement"
+    },
+    {
+      "id": 62,
+      "start": 215.53,
+      "end": 217.05,
+      "start_timestamp": "00:03:35.530",
+      "end_timestamp": "00:03:37.050",
+      "text": "les producteurs de richesses qui restaient"
+    },
+    {
+      "id": 63,
+      "start": 217.05,
+      "end": 219.45,
+      "start_timestamp": "00:03:37.050",
+      "end_timestamp": "00:03:39.450",
+      "text": "et qui persistaient à vouloir travailler quand même,"
+    },
+    {
+      "id": 64,
+      "start": 219.45,
+      "end": 221.77,
+      "start_timestamp": "00:03:39.450",
+      "end_timestamp": "00:03:41.770",
+      "text": "parce qu'il y en a, il y a des pêcheurs, il y a des agriculteurs,"
+    },
+    {
+      "id": 65,
+      "start": 221.77,
+      "end": 223.45,
+      "start_timestamp": "00:03:41.770",
+      "end_timestamp": "00:03:43.450",
+      "text": "il y a des artisans, tous ces gens qui produisent"
+    },
+    {
+      "id": 66,
+      "start": 223.45,
+      "end": 225.93,
+      "start_timestamp": "00:03:43.450",
+      "end_timestamp": "00:03:45.930",
+      "text": "de la richesse matérielle dont la France a besoin, je ne vous la refais pas."
+    },
+    {
+      "id": 67,
+      "start": 225.93,
+      "end": 228.17,
+      "start_timestamp": "00:03:45.930",
+      "end_timestamp": "00:03:48.170",
+      "text": "Et ils ont financé ça deuxièmement,"
+    },
+    {
+      "id": 68,
+      "start": 228.17,
+      "end": 232.13,
+      "start_timestamp": "00:03:48.170",
+      "end_timestamp": "00:03:52.130",
+      "text": "en endettant la France auprès des marchés financiers,"
+    },
+    {
+      "id": 69,
+      "start": 232.13,
+      "end": 236.09,
+      "start_timestamp": "00:03:52.130",
+      "end_timestamp": "00:03:56.090",
+      "text": "parce qu'il fallait continuer à financer de la distribution d'argent public."
+    },
+    {
+      "id": 70,
+      "start": 236.09,
+      "end": 238.01,
+      "start_timestamp": "00:03:56.090",
+      "end_timestamp": "00:03:58.010",
+      "text": "Sinon, ça allait se voir que leur truc tenait pas la route,"
+    },
+    {
+      "id": 71,
+      "start": 238.01,
+      "end": 240.41,
+      "start_timestamp": "00:03:58.010",
+      "end_timestamp": "00:04:00.410",
+      "text": "parce qu'il n'y a pas 36 000 solutions."
+    },
+    {
+      "id": 72,
+      "start": 240.41,
+      "end": 242.53,
+      "start_timestamp": "00:04:00.410",
+      "end_timestamp": "00:04:02.530",
+      "text": "Quand tous les producteurs sont au chômage,"
+    },
+    {
+      "id": 73,
+      "start": 244.09,
+      "end": 246.69,
+      "start_timestamp": "00:04:04.090",
+      "end_timestamp": "00:04:06.690",
+      "text": "il faut des aides sociales, sinon c'est la révolution."
+    },
+    {
+      "id": 74,
+      "start": 246.69,
+      "end": 247.97,
+      "start_timestamp": "00:04:06.690",
+      "end_timestamp": "00:04:07.970",
+      "text": "Pour la faire courte, c'est ça."
+    },
+    {
+      "id": 75,
+      "start": 247.97,
+      "end": 250.37,
+      "start_timestamp": "00:04:07.970",
+      "end_timestamp": "00:04:10.370",
+      "text": "Et donc maintenant que l'État arrive au bout de ce modèle,"
+    },
+    {
+      "id": 76,
+      "start": 251.05,
+      "end": 253.45,
+      "start_timestamp": "00:04:11.050",
+      "end_timestamp": "00:04:13.450",
+      "text": "puisque ça commence à se voir quand même qu'on ne va pas pouvoir"
+    },
+    {
+      "id": 77,
+      "start": 253.45,
+      "end": 258.81,
+      "start_timestamp": "00:04:13.450",
+      "end_timestamp": "00:04:18.810",
+      "text": "continuer à s'endetter indéfiniment, toujours plus que plus le temps passe"
+    },
+    {
+      "id": 78,
+      "start": 258.81,
+      "end": 260.41,
+      "start_timestamp": "00:04:18.810",
+      "end_timestamp": "00:04:20.410",
+      "text": "et plus on emprunte à des taux élevés"
+    },
+    {
+      "id": 79,
+      "start": 260.41,
+      "end": 264.37,
+      "start_timestamp": "00:04:20.410",
+      "end_timestamp": "00:04:24.370",
+      "text": "et moins nos créanciers, d'ailleurs que ça arrange bien"
+    },
+    {
+      "id": 80,
+      "start": 264.37,
+      "end": 266.01,
+      "start_timestamp": "00:04:24.370",
+      "end_timestamp": "00:04:26.010",
+      "text": "puisque du coup ils peuvent nous dicter nos politiques,"
+    },
+    {
+      "id": 81,
+      "start": 266.01,
+      "end": 270.41,
+      "start_timestamp": "00:04:26.010",
+      "end_timestamp": "00:04:30.410",
+      "text": "mais moins nos créanciers croient en la capacité de la France à rembourser sa dette."
+    },
+    {
+      "id": 82,
+      "start": 270.41,
+      "end": 274.01,
+      "start_timestamp": "00:04:30.410",
+      "end_timestamp": "00:04:34.010",
+      "text": "Donc plus les taux augmentent, plus on emprunte et plus on est condamné à emprunter"
+    },
+    {
+      "id": 83,
+      "start": 274.01,
+      "end": 278.49,
+      "start_timestamp": "00:04:34.010",
+      "end_timestamp": "00:04:38.490",
+      "text": "et plus on est condamné à avoir au pied les boules et les chaînes de l'asservissement,"
+    },
+    {
+      "id": 84,
+      "start": 278.49,
+      "end": 282.41,
+      "start_timestamp": "00:04:38.490",
+      "end_timestamp": "00:04:42.410",
+      "text": "de l'esclavage vis-à-vis des marchés financiers de la finance internationale."
+    },
+    {
+      "id": 85,
+      "start": 282.41,
+      "end": 285.29,
+      "start_timestamp": "00:04:42.410",
+      "end_timestamp": "00:04:45.290",
+      "text": "Donc maintenant qu'on arrive au bout de ce modèle-là,"
+    },
+    {
+      "id": 86,
+      "start": 285.29,
+      "end": 289.29,
+      "start_timestamp": "00:04:45.290",
+      "end_timestamp": "00:04:49.290",
+      "text": "l'État cherche à faire porter le poids de cet endettement"
+    },
+    {
+      "id": 87,
+      "start": 289.37,
+      "end": 291.37,
+      "start_timestamp": "00:04:49.370",
+      "end_timestamp": "00:04:51.370",
+      "text": "directement aux producteurs français."
+    },
+    {
+      "id": 88,
+      "start": 291.37,
+      "end": 295.01,
+      "start_timestamp": "00:04:51.370",
+      "end_timestamp": "00:04:55.010",
+      "text": "Donc ça ne leur suffisait pas de les ponctionner toujours plus."
+    },
+    {
+      "id": 89,
+      "start": 295.01,
+      "end": 300.45,
+      "start_timestamp": "00:04:55.010",
+      "end_timestamp": "00:05:00.450",
+      "text": "Maintenant, ils leur proposent de faire crédit pour pouvoir aller bosser."
+    },
+    {
+      "id": 90,
+      "start": 300.45,
+      "end": 301.77,
+      "start_timestamp": "00:05:00.450",
+      "end_timestamp": "00:05:01.770",
+      "text": "C'est délirant."
+    },
+    {
+      "id": 91,
+      "start": 301.77,
+      "end": 304.17,
+      "start_timestamp": "00:05:01.770",
+      "end_timestamp": "00:05:04.170",
+      "text": "Donc on n'est même plus sur l'endettement de la France."
+    },
+    {
+      "id": 92,
+      "start": 304.17,
+      "end": 307.45,
+      "start_timestamp": "00:05:04.170",
+      "end_timestamp": "00:05:07.450",
+      "text": "Maintenant, ils veulent que les producteurs directement s'endettent"
+    },
+    {
+      "id": 93,
+      "start": 307.45,
+      "end": 311.49,
+      "start_timestamp": "00:05:07.450",
+      "end_timestamp": "00:05:11.490",
+      "text": "personnellement pour continuer de nourrir le monstre, voilà."
+    },
+    {
+      "id": 94,
+      "start": 311.49,
+      "end": 315.45,
+      "start_timestamp": "00:05:11.490",
+      "end_timestamp": "00:05:15.450",
+      "text": "Et ils te balancent ça en plus, la ministre, elle sort ça devant les journalistes"
+    },
+    {
+      "id": 95,
+      "start": 315.45,
+      "end": 318.01,
+      "start_timestamp": "00:05:15.450",
+      "end_timestamp": "00:05:18.010",
+      "text": "en disant, oui, pour ceux qui ont des problématiques de trésorerie,"
+    },
+    {
+      "id": 96,
+      "start": 318.25,
+      "end": 322.53,
+      "start_timestamp": "00:05:18.250",
+      "end_timestamp": "00:05:22.530",
+      "text": "comme si c'était les pêcheurs qui avaient mal géré leur budget."
+    },
+    {
+      "id": 97,
+      "start": 322.53,
+      "end": 323.61,
+      "start_timestamp": "00:05:22.530",
+      "end_timestamp": "00:05:23.610",
+      "text": "L'État va faire un geste."
+    },
+    {
+      "id": 98,
+      "start": 323.61,
+      "end": 328.05,
+      "start_timestamp": "00:05:23.610",
+      "end_timestamp": "00:05:28.050",
+      "text": "Mais attendez, en fait, c'est les pêcheurs qui produisent la richesse"
+    },
+    {
+      "id": 99,
+      "start": 328.05,
+      "end": 332.85,
+      "start_timestamp": "00:05:28.050",
+      "end_timestamp": "00:05:32.850",
+      "text": "grâce à laquelle le train de vie de cette ministre est garanti,"
+    },
+    {
+      "id": 100,
+      "start": 332.85,
+      "end": 334.77,
+      "start_timestamp": "00:05:32.850",
+      "end_timestamp": "00:05:34.770",
+      "text": "ce qui est d'ailleurs absolument pas normal."
+    },
+    {
+      "id": 101,
+      "start": 334.77,
+      "end": 338.25,
+      "start_timestamp": "00:05:34.770",
+      "end_timestamp": "00:05:38.250",
+      "text": "Mais vous voyez ce que je veux dire, c'est pas l'État qui fait un geste"
+    },
+    {
+      "id": 102,
+      "start": 338.25,
+      "end": 339.41,
+      "start_timestamp": "00:05:38.250",
+      "end_timestamp": "00:05:39.410",
+      "text": "pour les pêcheurs, en fait."
+    },
+    {
+      "id": 103,
+      "start": 339.41,
+      "end": 343.29,
+      "start_timestamp": "00:05:39.410",
+      "end_timestamp": "00:05:43.290",
+      "text": "C'est les pêcheurs-là qui ont besoin de pouvoir faire leur boulot"
+    },
+    {
+      "id": 104,
+      "start": 343.29,
+      "end": 347.85,
+      "start_timestamp": "00:05:43.290",
+      "end_timestamp": "00:05:47.850",
+      "text": "dans des conditions où ça ne leur coûte pas de l'argent d'aller bosser."
+    },
+    {
+      "id": 105,
+      "start": 347.85,
+      "end": 350.61,
+      "start_timestamp": "00:05:47.850",
+      "end_timestamp": "00:05:50.610",
+      "text": "Ce qui est le cas de plus en plus de producteurs français aujourd'hui."
+    },
+    {
+      "id": 106,
+      "start": 350.61,
+      "end": 354.85,
+      "start_timestamp": "00:05:50.610",
+      "end_timestamp": "00:05:54.850",
+      "text": "Et c'est ça qui est fou, c'est que même selon leurs propres critères,"
+    },
+    {
+      "id": 107,
+      "start": 354.85,
+      "end": 358.53,
+      "start_timestamp": "00:05:54.850",
+      "end_timestamp": "00:05:58.530",
+      "text": "parce qu'on va le dire franchement, les mecs à la tête de l'État,"
+    },
+    {
+      "id": 108,
+      "start": 358.53,
+      "end": 359.93,
+      "start_timestamp": "00:05:58.530",
+      "end_timestamp": "00:05:59.930",
+      "text": "ils bossent pas pour nous, voilà."
+    },
+    {
+      "id": 109,
+      "start": 359.93,
+      "end": 363.17,
+      "start_timestamp": "00:05:59.930",
+      "end_timestamp": "00:06:03.170",
+      "text": "On est d'accord qu'ils bossent pour des intérêts"
+    },
+    {
+      "id": 110,
+      "start": 363.17,
+      "end": 365.57,
+      "start_timestamp": "00:06:03.170",
+      "end_timestamp": "00:06:05.570",
+      "text": "qui ne sont pas les intérêts de la nation française,"
+    },
+    {
+      "id": 111,
+      "start": 365.57,
+      "end": 369.73,
+      "start_timestamp": "00:06:05.570",
+      "end_timestamp": "00:06:09.730",
+      "text": "comme tous les dirigeants occidentaux ne bossent pas dans les intérêts"
+    },
+    {
+      "id": 112,
+      "start": 369.73,
+      "end": 372.37,
+      "start_timestamp": "00:06:09.730",
+      "end_timestamp": "00:06:12.370",
+      "text": "des différentes nations dont ils sont dirigeants."
+    },
+    {
+      "id": 113,
+      "start": 372.37,
+      "end": 375.53,
+      "start_timestamp": "00:06:12.370",
+      "end_timestamp": "00:06:15.530",
+      "text": "Ils bossent dans les intérêts de la finance internationale."
+    },
+    {
+      "id": 114,
+      "start": 375.61,
+      "end": 380.61,
+      "start_timestamp": "00:06:15.610",
+      "end_timestamp": "00:06:20.610",
+      "text": "Je veux dire, on a un Macron qui était banquier d'affaires à la Banque Rothschild."
+    },
+    {
+      "id": 115,
+      "start": 380.61,
+      "end": 386.73,
+      "start_timestamp": "00:06:20.610",
+      "end_timestamp": "00:06:26.730",
+      "text": "Friedrich Mertz, le chancelier allemand, est un ancien directeur de BlackRock."
+    },
+    {
+      "id": 116,
+      "start": 386.73,
+      "end": 387.81,
+      "start_timestamp": "00:06:26.730",
+      "end_timestamp": "00:06:27.810",
+      "text": "Ça ne s'invente pas."
+    },
+    {
+      "id": 117,
+      "start": 387.81,
+      "end": 392.09,
+      "start_timestamp": "00:06:27.810",
+      "end_timestamp": "00:06:32.090",
+      "text": "On en est au stade où c'est plus possible de le cacher, en fait, pour qu'ils bossent."
+    },
+    {
+      "id": 118,
+      "start": 392.09,
+      "end": 397.13,
+      "start_timestamp": "00:06:32.090",
+      "end_timestamp": "00:06:37.130",
+      "text": "Bref, donc ils bossent pas pour nous, mais même selon leurs propres critères,"
+    },
+    {
+      "id": 119,
+      "start": 397.13,
+      "end": 402.21,
+      "start_timestamp": "00:06:37.130",
+      "end_timestamp": "00:06:42.210",
+      "text": "qui est la perpétuation de ce système où nous sommes perpétuellement asservis"
+    },
+    {
+      "id": 120,
+      "start": 402.25,
+      "end": 404.53,
+      "start_timestamp": "00:06:42.250",
+      "end_timestamp": "00:06:44.530",
+      "text": "à la finance internationale,"
+    },
+    {
+      "id": 121,
+      "start": 404.53,
+      "end": 407.61,
+      "start_timestamp": "00:06:44.530",
+      "end_timestamp": "00:06:47.610",
+      "text": "même selon leurs propres critères, c'est très mal géré."
+    },
+    {
+      "id": 122,
+      "start": 407.61,
+      "end": 412.53,
+      "start_timestamp": "00:06:47.610",
+      "end_timestamp": "00:06:52.530",
+      "text": "Après, j'ai envie de dire en partie pas de leur faute puisque c'est un système,"
+    },
+    {
+      "id": 123,
+      "start": 412.53,
+      "end": 415.93,
+      "start_timestamp": "00:06:52.530",
+      "end_timestamp": "00:06:55.930",
+      "text": "le système financiarisé dans lequel nous sommes aujourd'hui,"
+    },
+    {
+      "id": 124,
+      "start": 415.93,
+      "end": 419.21,
+      "start_timestamp": "00:06:55.930",
+      "end_timestamp": "00:06:59.210",
+      "text": "qui arrive en bout de course, en fait, qui n'est plus tenable."
+    },
+    {
+      "id": 125,
+      "start": 419.21,
+      "end": 422.49,
+      "start_timestamp": "00:06:59.210",
+      "end_timestamp": "00:07:02.490",
+      "text": "On le voit bien puisqu'on est condamné à toujours plus s'emprunter"
+    },
+    {
+      "id": 126,
+      "start": 422.49,
+      "end": 424.33,
+      "start_timestamp": "00:07:02.490",
+      "end_timestamp": "00:07:04.330",
+      "text": "et à toujours plus ponctionner les producteurs de richesse,"
+    },
+    {
+      "id": 127,
+      "start": 424.33,
+      "end": 428.33,
+      "start_timestamp": "00:07:04.330",
+      "end_timestamp": "00:07:08.330",
+      "text": "sauf qu'à un moment, il n'y a plus rien, il n'y a plus rien à presser, les gars, dans le citron."
+    },
+    {
+      "id": 128,
+      "start": 428.33,
+      "end": 430.77,
+      "start_timestamp": "00:07:08.330",
+      "end_timestamp": "00:07:10.770",
+      "text": "Donc comme leur système n'est pas tenable,"
+    },
+    {
+      "id": 129,
+      "start": 430.81,
+      "end": 433.37,
+      "start_timestamp": "00:07:10.810",
+      "end_timestamp": "00:07:13.370",
+      "text": "qu'ils voient bien que le truc arrive en bout de course,"
+    },
+    {
+      "id": 130,
+      "start": 433.37,
+      "end": 438.21,
+      "start_timestamp": "00:07:13.370",
+      "end_timestamp": "00:07:18.210",
+      "text": "ne serait-ce que parce qu'il y a d'autres pays qui ont réussi à construire"
+    },
+    {
+      "id": 131,
+      "start": 438.21,
+      "end": 442.93,
+      "start_timestamp": "00:07:18.210",
+      "end_timestamp": "00:07:22.930",
+      "text": "des modèles alternatifs et qui ne veulent pas participer à ce système-là."
+    },
+    {
+      "id": 132,
+      "start": 442.93,
+      "end": 445.21,
+      "start_timestamp": "00:07:22.930",
+      "end_timestamp": "00:07:25.210",
+      "text": "Je pense à la Chine notamment,"
+    },
+    {
+      "id": 133,
+      "start": 445.21,
+      "end": 451.69,
+      "start_timestamp": "00:07:25.210",
+      "end_timestamp": "00:07:31.690",
+      "text": "qui ne joue plus le jeu comme la bourgeoisie financière aimerait qu'ils jouent le jeu."
+    },
+    {
+      "id": 134,
+      "start": 451.69,
+      "end": 453.45,
+      "start_timestamp": "00:07:31.690",
+      "end_timestamp": "00:07:33.450",
+      "text": "Et dans le même temps,"
+    },
+    {
+      "id": 135,
+      "start": 453.45,
+      "end": 457.33,
+      "start_timestamp": "00:07:33.450",
+      "end_timestamp": "00:07:37.330",
+      "text": "ça provoque aussi des remous en interne au sein des démocraties,"
+    },
+    {
+      "id": 136,
+      "start": 457.33,
+      "end": 460.49,
+      "start_timestamp": "00:07:37.330",
+      "end_timestamp": "00:07:40.490",
+      "text": "on va le mettre avec des gros guillemets, des démocraties occidentales,"
+    },
+    {
+      "id": 137,
+      "start": 460.49,
+      "end": 462.89,
+      "start_timestamp": "00:07:40.490",
+      "end_timestamp": "00:07:42.890",
+      "text": "où les gens n'en peuvent plus,"
+    },
+    {
+      "id": 138,
+      "start": 462.89,
+      "end": 466.29,
+      "start_timestamp": "00:07:42.890",
+      "end_timestamp": "00:07:46.290",
+      "text": "parce que les dirigeants, pour sauver le système, n'hésiteront pas,"
+    },
+    {
+      "id": 139,
+      "start": 466.29,
+      "end": 470.53,
+      "start_timestamp": "00:07:46.290",
+      "end_timestamp": "00:07:50.530",
+      "text": "et on le voit de plus en plus, à détruire les nations,"
+    },
+    {
+      "id": 140,
+      "start": 470.53,
+      "end": 476.21,
+      "start_timestamp": "00:07:50.530",
+      "end_timestamp": "00:07:56.210",
+      "text": "à détruire les peuples qui composent les nations tout entiers, de toute façon."
+    },
+    {
+      "id": 141,
+      "start": 476.21,
+      "end": 477.21,
+      "start_timestamp": "00:07:56.210",
+      "end_timestamp": "00:07:57.210",
+      "text": "Donc ça se voit."
+    },
+    {
+      "id": 142,
+      "start": 477.21,
+      "end": 483.53,
+      "start_timestamp": "00:07:57.210",
+      "end_timestamp": "00:08:03.530",
+      "text": "Donc il y a à la fois la contestation en externe qui vient toper contre les limites du modèle,"
+    },
+    {
+      "id": 143,
+      "start": 483.53,
+      "end": 488.25,
+      "start_timestamp": "00:08:03.530",
+      "end_timestamp": "00:08:08.250",
+      "text": "la contestation en interne qui vient faire bouger les lignes de l'intérieur."
+    },
+    {
+      "id": 144,
+      "start": 488.25,
+      "end": 490.69,
+      "start_timestamp": "00:08:08.250",
+      "end_timestamp": "00:08:10.690",
+      "text": "Et du coup, forcément, les dirigeants qui sont tenants de ce système"
+    },
+    {
+      "id": 145,
+      "start": 490.69,
+      "end": 494.69,
+      "start_timestamp": "00:08:10.690",
+      "end_timestamp": "00:08:14.690",
+      "text": "et qui dépendent de ce système pour pouvoir survivre,"
+    },
+    {
+      "id": 146,
+      "start": 494.69,
+      "end": 498.33,
+      "start_timestamp": "00:08:14.690",
+      "end_timestamp": "00:08:18.330",
+      "text": "pour pouvoir rester à leur position de dominant,"
+    },
+    {
+      "id": 147,
+      "start": 498.33,
+      "end": 501.21,
+      "start_timestamp": "00:08:18.330",
+      "end_timestamp": "00:08:21.210",
+      "text": "ben ils essayent de s'accrocher en fait."
+    },
+    {
+      "id": 148,
+      "start": 501.21,
+      "end": 504.33,
+      "start_timestamp": "00:08:21.210",
+      "end_timestamp": "00:08:24.330",
+      "text": "Ils essayent de faire en sorte que ce système continue de tenir la route,"
+    },
+    {
+      "id": 149,
+      "start": 504.33,
+      "end": 506.45,
+      "start_timestamp": "00:08:24.330",
+      "end_timestamp": "00:08:26.450",
+      "text": "sauf que ça ne peut pas tenir la route."
+    },
+    {
+      "id": 150,
+      "start": 506.45,
+      "end": 512.13,
+      "start_timestamp": "00:08:26.450",
+      "end_timestamp": "00:08:32.130",
+      "text": "La dynamique historique n'est pas, malheureusement pour eux et heureusement pour nous,"
+    },
+    {
+      "id": 151,
+      "start": 512.13,
+      "end": 514.37,
+      "start_timestamp": "00:08:32.130",
+      "end_timestamp": "00:08:34.370",
+      "text": "n'est pas à leur avantage."
+    },
+    {
+      "id": 152,
+      "start": 514.37,
+      "end": 517.61,
+      "start_timestamp": "00:08:34.370",
+      "end_timestamp": "00:08:37.610",
+      "text": "Mais tant qu'ils ne sont pas dégagés,"
+    },
+    {
+      "id": 153,
+      "start": 517.61,
+      "end": 522.69,
+      "start_timestamp": "00:08:37.610",
+      "end_timestamp": "00:08:42.690",
+      "text": "ils vont continuer d'essayer d'empêcher autre chose d'émerger."
+    },
+    {
+      "id": 154,
+      "start": 522.69,
+      "end": 524.53,
+      "start_timestamp": "00:08:42.690",
+      "end_timestamp": "00:08:44.530",
+      "text": "Donc qu'est-ce qu'ils font ?"
+    },
+    {
+      "id": 155,
+      "start": 524.53,
+      "end": 526.65,
+      "start_timestamp": "00:08:44.530",
+      "end_timestamp": "00:08:46.650",
+      "text": "Ben ils légifèrent toujours plus,"
+    },
+    {
+      "id": 156,
+      "start": 526.65,
+      "end": 531.65,
+      "start_timestamp": "00:08:46.650",
+      "end_timestamp": "00:08:51.650",
+      "text": "ils restreignent toujours plus toutes tentatives de faire autrement,"
+    },
+    {
+      "id": 157,
+      "start": 531.65,
+      "end": 533.29,
+      "start_timestamp": "00:08:51.650",
+      "end_timestamp": "00:08:53.290",
+      "text": "que ce soit en interne ou en externe."
+    },
+    {
+      "id": 158,
+      "start": 533.29,
+      "end": 539.57,
+      "start_timestamp": "00:08:53.290",
+      "end_timestamp": "00:08:59.570",
+      "text": "On voit avec nos gouvernements qui essayent de bloquer ridiculement la Chine en taxant."
+    },
+    {
+      "id": 159,
+      "start": 539.57,
+      "end": 541.09,
+      "start_timestamp": "00:08:59.570",
+      "end_timestamp": "00:09:01.090",
+      "text": "D'ailleurs, c'est tout ce qu'ils savent faire en fait,"
+    },
+    {
+      "id": 160,
+      "start": 541.09,
+      "end": 544.45,
+      "start_timestamp": "00:09:01.090",
+      "end_timestamp": "00:09:04.450",
+      "text": "c'est taxer, c'est légiférer, c'est mettre des soi-disant normes en fait"
+    },
+    {
+      "id": 161,
+      "start": 544.49,
+      "end": 547.89,
+      "start_timestamp": "00:09:04.490",
+      "end_timestamp": "00:09:07.890",
+      "text": "qui nous pénalisent nous et qui pénalisent absolument pas les autres."
+    },
+    {
+      "id": 162,
+      "start": 547.89,
+      "end": 550.89,
+      "start_timestamp": "00:09:07.890",
+      "end_timestamp": "00:09:10.890",
+      "text": "Et quand ça pète ou que ça commence à sentir vraiment mauvais,"
+    },
+    {
+      "id": 163,
+      "start": 550.89,
+      "end": 554.57,
+      "start_timestamp": "00:09:10.890",
+      "end_timestamp": "00:09:14.570",
+      "text": "ils disent ok ok promis on va distribuer de l'argent comme ils le font avec les pêcheurs,"
+    },
+    {
+      "id": 164,
+      "start": 554.57,
+      "end": 557.09,
+      "start_timestamp": "00:09:14.570",
+      "end_timestamp": "00:09:17.090",
+      "text": "mais en fait c'est n'importe quoi parce qu'on n'est même plus sûrs,"
+    },
+    {
+      "id": 165,
+      "start": 557.09,
+      "end": 559.17,
+      "start_timestamp": "00:09:17.090",
+      "end_timestamp": "00:09:19.170",
+      "text": "on distribue de l'argent public parce qu'il n'y en a plus,"
+    },
+    {
+      "id": 166,
+      "start": 559.17,
+      "end": 564.97,
+      "start_timestamp": "00:09:19.170",
+      "end_timestamp": "00:09:24.970",
+      "text": "on est sûrs, on va vous autoriser à emprunter de l'argent que vous devrez rembourser"
+    },
+    {
+      "id": 167,
+      "start": 564.97,
+      "end": 570.09,
+      "start_timestamp": "00:09:24.970",
+      "end_timestamp": "00:09:30.090",
+      "text": "à taux zéro pour pouvoir compenser les défaillances structurelles de notre système."
+    },
+    {
+      "id": 168,
+      "start": 570.09,
+      "end": 571.73,
+      "start_timestamp": "00:09:30.090",
+      "end_timestamp": "00:09:31.730",
+      "text": "C'est délirant."
+    },
+    {
+      "id": 169,
+      "start": 571.73,
+      "end": 574.13,
+      "start_timestamp": "00:09:31.730",
+      "end_timestamp": "00:09:34.130",
+      "text": "Et quand ils distribuent de l'argent public,"
+    },
+    {
+      "id": 170,
+      "start": 574.13,
+      "end": 576.17,
+      "start_timestamp": "00:09:34.130",
+      "end_timestamp": "00:09:36.170",
+      "text": "puisque des fois ils sont un petit peu obligés,"
+    },
+    {
+      "id": 171,
+      "start": 576.17,
+      "end": 580.77,
+      "start_timestamp": "00:09:36.170",
+      "end_timestamp": "00:09:40.770",
+      "text": "en fait si vous regardez c'est l'argent qui est le vôtre qu'on vous a volé"
+    },
+    {
+      "id": 172,
+      "start": 580.77,
+      "end": 583.53,
+      "start_timestamp": "00:09:40.770",
+      "end_timestamp": "00:09:43.530",
+      "text": "et dont on vous redonne juste une partie pour calmer la colère."
+    },
+    {
+      "id": 173,
+      "start": 583.53,
+      "end": 585.21,
+      "start_timestamp": "00:09:43.530",
+      "end_timestamp": "00:09:45.210",
+      "text": "Donc c'est tout ce qu'ils peuvent faire en fait,"
+    },
+    {
+      "id": 174,
+      "start": 585.21,
+      "end": 592.73,
+      "start_timestamp": "00:09:45.210",
+      "end_timestamp": "00:09:52.730",
+      "text": "c'est taxer pour redistribuer et autoriser les gens à s'endetter toujours plus."
+    },
+    {
+      "id": 175,
+      "start": 592.73,
+      "end": 594.89,
+      "start_timestamp": "00:09:52.730",
+      "end_timestamp": "00:09:54.890",
+      "text": "En fait c'est exactement ce qu'ils ont fait à la France."
+    },
+    {
+      "id": 176,
+      "start": 594.89,
+      "end": 597.33,
+      "start_timestamp": "00:09:54.890",
+      "end_timestamp": "00:09:57.330",
+      "text": "Et tout ça en nous expliquant en plus que c'est pas leur faute"
+    },
+    {
+      "id": 177,
+      "start": 597.33,
+      "end": 600.93,
+      "start_timestamp": "00:09:57.330",
+      "end_timestamp": "00:10:00.930",
+      "text": "parce que c'est l'Union européenne, c'est Trump, c'est Poutine,"
+    },
+    {
+      "id": 178,
+      "start": 600.93,
+      "end": 603.77,
+      "start_timestamp": "00:10:00.930",
+      "end_timestamp": "00:10:03.770",
+      "text": "c'est Xi Jinping, c'est les méchants."
+    },
+    {
+      "id": 179,
+      "start": 604.05,
+      "end": 606.37,
+      "start_timestamp": "00:10:04.050",
+      "end_timestamp": "00:10:06.370",
+      "text": "Non non en fait c'est votre faute, c'est votre faute,"
+    },
+    {
+      "id": 180,
+      "start": 606.37,
+      "end": 608.45,
+      "start_timestamp": "00:10:06.370",
+      "end_timestamp": "00:10:08.450",
+      "text": "il n'y a pas 36 manières de le dire,"
+    },
+    {
+      "id": 181,
+      "start": 608.45,
+      "end": 613.25,
+      "start_timestamp": "00:10:08.450",
+      "end_timestamp": "00:10:13.250",
+      "text": "c'est entièrement et uniquement la faute des dirigeants occidentaux"
+    },
+    {
+      "id": 182,
+      "start": 613.25,
+      "end": 616.49,
+      "start_timestamp": "00:10:13.250",
+      "end_timestamp": "00:10:16.490",
+      "text": "qui ont choisi de servir la finance internationale"
+    },
+    {
+      "id": 183,
+      "start": 616.49,
+      "end": 618.09,
+      "start_timestamp": "00:10:16.490",
+      "end_timestamp": "00:10:18.090",
+      "text": "au tournant des années 70"
+    },
+    {
+      "id": 184,
+      "start": 618.09,
+      "end": 620.89,
+      "start_timestamp": "00:10:18.090",
+      "end_timestamp": "00:10:20.890",
+      "text": "et qui ont de ce fait entrepris de réorganiser toutes les sociétés,"
+    },
+    {
+      "id": 185,
+      "start": 620.89,
+      "end": 622.85,
+      "start_timestamp": "00:10:20.890",
+      "end_timestamp": "00:10:22.850",
+      "text": "dont la société française, à cette fin."
+    },
+    {
+      "id": 186,
+      "start": 622.85,
+      "end": 627.89,
+      "start_timestamp": "00:10:22.850",
+      "end_timestamp": "00:10:27.890",
+      "text": "Et qui ont construit l'Union européenne dans ce but-là également."
+    },
+    {
+      "id": 187,
+      "start": 627.89,
+      "end": 629.89,
+      "start_timestamp": "00:10:27.890",
+      "end_timestamp": "00:10:29.890",
+      "text": "Après qu'ils aient nous dit non, nous on n'est pas responsable,"
+    },
+    {
+      "id": 188,
+      "start": 629.89,
+      "end": 631.09,
+      "start_timestamp": "00:10:29.890",
+      "end_timestamp": "00:10:31.090",
+      "text": "on n'est pas responsable,"
+    },
+    {
+      "id": 189,
+      "start": 631.09,
+      "end": 632.13,
+      "start_timestamp": "00:10:31.090",
+      "end_timestamp": "00:10:32.130",
+      "text": "en fait si vous êtes responsable"
+    },
+    {
+      "id": 190,
+      "start": 632.13,
+      "end": 638.21,
+      "start_timestamp": "00:10:32.130",
+      "end_timestamp": "00:10:38.210",
+      "text": "c'est parce que vous avez délégué le pouvoir de la France"
+    },
+    {
+      "id": 191,
+      "start": 638.21,
+      "end": 639.53,
+      "start_timestamp": "00:10:38.210",
+      "end_timestamp": "00:10:39.530",
+      "text": "à ces institutions supranationales."
+    },
+    {
+      "id": 192,
+      "start": 639.53,
+      "end": 641.73,
+      "start_timestamp": "00:10:39.530",
+      "end_timestamp": "00:10:41.730",
+      "text": "Donc vous êtes responsable, voilà, vous êtes responsable"
+    },
+    {
+      "id": 193,
+      "start": 641.73,
+      "end": 644.89,
+      "start_timestamp": "00:10:41.730",
+      "end_timestamp": "00:10:44.890",
+      "text": "et l'histoire et j'espère le peuple français"
+    },
+    {
+      "id": 194,
+      "start": 644.89,
+      "end": 649.21,
+      "start_timestamp": "00:10:44.890",
+      "end_timestamp": "00:10:49.210",
+      "text": "vous jugera comme on doit juger les traîtres."
+    },
+    {
+      "id": 195,
+      "start": 649.21,
+      "end": 650.01,
+      "start_timestamp": "00:10:49.210",
+      "end_timestamp": "00:10:50.010",
+      "text": "Il n'y a pas d'autre mots."
+    },
+    {
+      "id": 196,
+      "start": 650.01,
+      "end": 651.33,
+      "start_timestamp": "00:10:50.010",
+      "end_timestamp": "00:10:51.330",
+      "text": "Et maintenant que c'est la crise,"
+    },
+    {
+      "id": 197,
+      "start": 651.33,
+      "end": 653.61,
+      "start_timestamp": "00:10:51.330",
+      "end_timestamp": "00:10:53.610",
+      "text": "là en l'occurrence avec le prix du carburant,"
+    },
+    {
+      "id": 198,
+      "start": 653.61,
+      "end": 656.37,
+      "start_timestamp": "00:10:53.610",
+      "end_timestamp": "00:10:56.370",
+      "text": "parce que le modèle tout entier est en crise,"
+    },
+    {
+      "id": 199,
+      "start": 656.37,
+      "end": 660.69,
+      "start_timestamp": "00:10:56.370",
+      "end_timestamp": "00:11:00.690",
+      "text": "qu'au niveau géopolitique la dynamique n'est absolument pas favorable à l'Occident,"
+    },
+    {
+      "id": 200,
+      "start": 660.73,
+      "end": 664.21,
+      "start_timestamp": "00:11:00.730",
+      "end_timestamp": "00:11:04.210",
+      "text": "en tout cas au modèle de démocratie libérale"
+    },
+    {
+      "id": 201,
+      "start": 664.21,
+      "end": 667.77,
+      "start_timestamp": "00:11:04.210",
+      "end_timestamp": "00:11:07.770",
+      "text": "tel que organisé par la bourgeoisie financière depuis 50 ans,"
+    },
+    {
+      "id": 202,
+      "start": 667.77,
+      "end": 672.93,
+      "start_timestamp": "00:11:07.770",
+      "end_timestamp": "00:11:12.930",
+      "text": "il propose de résoudre cette crise en faisant en sorte que les gens s'endettent."
+    },
+    {
+      "id": 203,
+      "start": 672.93,
+      "end": 675.73,
+      "start_timestamp": "00:11:12.930",
+      "end_timestamp": "00:11:15.730",
+      "text": "Tout comme ils ont fait en sorte de masquer"
+    },
+    {
+      "id": 204,
+      "start": 675.73,
+      "end": 679.33,
+      "start_timestamp": "00:11:15.730",
+      "end_timestamp": "00:11:19.330",
+      "text": "ce qu'ils avaient détruit de nos capacités à produire de la richesse"
+    },
+    {
+      "id": 205,
+      "start": 679.33,
+      "end": 682.85,
+      "start_timestamp": "00:11:19.330",
+      "end_timestamp": "00:11:22.850",
+      "text": "en endettant la France, en endettant la nation."
+    },
+    {
+      "id": 206,
+      "start": 682.85,
+      "end": 686.65,
+      "start_timestamp": "00:11:22.850",
+      "end_timestamp": "00:11:26.650",
+      "text": "Sauf que évidemment ça ne résoudra pas la crise."
+    },
+    {
+      "id": 207,
+      "start": 686.65,
+      "end": 690.41,
+      "start_timestamp": "00:11:26.650",
+      "end_timestamp": "00:11:30.410",
+      "text": "Vous vous doutez bien que même si tous les pêcheurs font un emprunt à taux zéro"
+    },
+    {
+      "id": 208,
+      "start": 690.41,
+      "end": 694.69,
+      "start_timestamp": "00:11:30.410",
+      "end_timestamp": "00:11:34.690",
+      "text": "pour payer un gasoil qui aujourd'hui est à 2,30 voire 2,50 à certains endroits"
+    },
+    {
+      "id": 209,
+      "start": 694.69,
+      "end": 698.77,
+      "start_timestamp": "00:11:34.690",
+      "end_timestamp": "00:11:38.770",
+      "text": "et qui sera probablement à 3 euros du fait de l'annonce il y a quelques jours"
+    },
+    {
+      "id": 210,
+      "start": 698.77,
+      "end": 702.37,
+      "start_timestamp": "00:11:38.770",
+      "end_timestamp": "00:11:42.370",
+      "text": "de l'Arabie Saoudite de la cessation des prochaines exportations de pétrole"
+    },
+    {
+      "id": 211,
+      "start": 702.37,
+      "end": 703.65,
+      "start_timestamp": "00:11:42.370",
+      "end_timestamp": "00:11:43.650",
+      "text": "d'ici la fin du mois,"
+    },
+    {
+      "id": 212,
+      "start": 703.65,
+      "end": 707.37,
+      "start_timestamp": "00:11:43.650",
+      "end_timestamp": "00:11:47.370",
+      "text": "vous vous doutez bien que ce n'est pas parce que les mecs vont emprunter à taux zéro"
+    },
+    {
+      "id": 213,
+      "start": 707.37,
+      "end": 711.33,
+      "start_timestamp": "00:11:47.370",
+      "end_timestamp": "00:11:51.330",
+      "text": "de l'argent que ça va résoudre le souci."
+    },
+    {
+      "id": 214,
+      "start": 711.33,
+      "end": 717.77,
+      "start_timestamp": "00:11:51.330",
+      "end_timestamp": "00:11:57.770",
+      "text": "Ça sera un palliatif temporaire, tout comme la redistribution de l'argent public"
+    },
+    {
+      "id": 215,
+      "start": 717.81,
+      "end": 719.61,
+      "start_timestamp": "00:11:57.810",
+      "end_timestamp": "00:11:59.610",
+      "text": "fonctionné au producteur bien sûr,"
+    },
+    {
+      "id": 216,
+      "start": 719.61,
+      "end": 726.97,
+      "start_timestamp": "00:11:59.610",
+      "end_timestamp": "00:12:06.970",
+      "text": "sert de palliatif temporaire au problème structurel du système dans lequel on est."
+    },
+    {
+      "id": 217,
+      "start": 726.97,
+      "end": 730.53,
+      "start_timestamp": "00:12:06.970",
+      "end_timestamp": "00:12:10.530",
+      "text": "Et ça sera comme ça, palliatif temporaire après palliatif temporaire"
+    },
+    {
+      "id": 218,
+      "start": 730.53,
+      "end": 733.69,
+      "start_timestamp": "00:12:10.530",
+      "end_timestamp": "00:12:13.690",
+      "text": "jusqu'au prochain coup qui sera encore plus violent."
+    },
+    {
+      "id": 219,
+      "start": 733.69,
+      "end": 736.01,
+      "start_timestamp": "00:12:13.690",
+      "end_timestamp": "00:12:16.010",
+      "text": "Mais évidemment tout cela commence à se voir."
+    },
+    {
+      "id": 220,
+      "start": 736.01,
+      "end": 737.53,
+      "start_timestamp": "00:12:16.010",
+      "end_timestamp": "00:12:17.530",
+      "text": "Voilà c'est ce que je vous disais."
+    },
+    {
+      "id": 221,
+      "start": 737.53,
+      "end": 741.21,
+      "start_timestamp": "00:12:17.530",
+      "end_timestamp": "00:12:21.210",
+      "text": "À l'extérieur ça commence à se voir que le modèle d'organisation sociale"
+    },
+    {
+      "id": 222,
+      "start": 741.21,
+      "end": 744.33,
+      "start_timestamp": "00:12:21.210",
+      "end_timestamp": "00:12:24.330",
+      "text": "tel que proposé par la finance n'est pas viable"
+    },
+    {
+      "id": 223,
+      "start": 744.33,
+      "end": 747.73,
+      "start_timestamp": "00:12:24.330",
+      "end_timestamp": "00:12:27.730",
+      "text": "et que d'autres modèles favorisent le développement des nations."
+    },
+    {
+      "id": 224,
+      "start": 747.73,
+      "end": 749.17,
+      "start_timestamp": "00:12:27.730",
+      "end_timestamp": "00:12:29.170",
+      "text": "Et ça commence à se voir."
+    },
+    {
+      "id": 225,
+      "start": 749.17,
+      "end": 751.85,
+      "start_timestamp": "00:12:29.170",
+      "end_timestamp": "00:12:31.850",
+      "text": "On est dedans en fait des crises de plus en plus violentes"
+    },
+    {
+      "id": 226,
+      "start": 751.85,
+      "end": 755.37,
+      "start_timestamp": "00:12:31.850",
+      "end_timestamp": "00:12:35.370",
+      "text": "et de plus en plus rapprochées qui ne cesseront pas"
+    },
+    {
+      "id": 227,
+      "start": 755.37,
+      "end": 759.41,
+      "start_timestamp": "00:12:35.370",
+      "end_timestamp": "00:12:39.410",
+      "text": "tant qu'on n'aura pas une autre manière d'organiser la société"
+    },
+    {
+      "id": 228,
+      "start": 759.41,
+      "end": 760.77,
+      "start_timestamp": "00:12:39.410",
+      "end_timestamp": "00:12:40.770",
+      "text": "et donc d'organiser la production."
+    },
+    {
+      "id": 229,
+      "start": 760.77,
+      "end": 763.89,
+      "start_timestamp": "00:12:40.770",
+      "end_timestamp": "00:12:43.890",
+      "text": "Parce que c'est ça, toute société s'organise autour de sa production"
+    },
+    {
+      "id": 230,
+      "start": 763.89,
+      "end": 766.65,
+      "start_timestamp": "00:12:43.890",
+      "end_timestamp": "00:12:46.650",
+      "text": "et de ses producteurs et ça vous ne me ferez pas dire le contraire."
+    },
+    {
+      "id": 231,
+      "start": 766.65,
+      "end": 769.57,
+      "start_timestamp": "00:12:46.650",
+      "end_timestamp": "00:12:49.570",
+      "text": "Mais pour pouvoir organiser la société française autour de sa production,"
+    },
+    {
+      "id": 232,
+      "start": 769.57,
+      "end": 773.29,
+      "start_timestamp": "00:12:49.570",
+      "end_timestamp": "00:12:53.290",
+      "text": "évidemment il faut se débarrasser de tous ces malfaisants"
+    },
+    {
+      "id": 233,
+      "start": 773.29,
+      "end": 775.61,
+      "start_timestamp": "00:12:53.290",
+      "end_timestamp": "00:12:55.610",
+      "text": "qui sont à l'heure actuelle à la tête de l'État"
+    },
+    {
+      "id": 234,
+      "start": 776.17,
+      "end": 780.53,
+      "start_timestamp": "00:12:56.170",
+      "end_timestamp": "00:13:00.530",
+      "text": "et du système foireux qui est organisé au bénéfice de la finance"
+    },
+    {
+      "id": 235,
+      "start": 780.53,
+      "end": 784.97,
+      "start_timestamp": "00:13:00.530",
+      "end_timestamp": "00:13:04.970",
+      "text": "et nous sortir de toutes les instances supranationales"
+    },
+    {
+      "id": 236,
+      "start": 784.97,
+      "end": 788.17,
+      "start_timestamp": "00:13:04.970",
+      "end_timestamp": "00:13:08.170",
+      "text": "qui contribuent à consacrer, si j'ose dire, cet état de fait."
+    },
+    {
+      "id": 237,
+      "start": 788.17,
+      "end": 790.65,
+      "start_timestamp": "00:13:08.170",
+      "end_timestamp": "00:13:10.650",
+      "text": "Je parle de l'Union européenne mais pas uniquement."
+    },
+    {
+      "id": 238,
+      "start": 790.65,
+      "end": 793.17,
+      "start_timestamp": "00:13:10.650",
+      "end_timestamp": "00:13:13.170",
+      "text": "Je parle aussi de tout un tas de traités internationaux."
+    },
+    {
+      "id": 239,
+      "start": 793.17,
+      "end": 796.45,
+      "start_timestamp": "00:13:13.170",
+      "end_timestamp": "00:13:16.450",
+      "text": "Voilà donc il va falloir qu'on repense totalement notre système"
+    },
+    {
+      "id": 240,
+      "start": 796.45,
+      "end": 801.97,
+      "start_timestamp": "00:13:16.450",
+      "end_timestamp": "00:13:21.970",
+      "text": "et qu'on mette la production française au cœur de l'économie française."
+    },
+    {
+      "id": 241,
+      "start": 801.97,
+      "end": 804.65,
+      "start_timestamp": "00:13:21.970",
+      "end_timestamp": "00:13:24.650",
+      "text": "Et je ne parle pas d'Europe, je parle de la nation française."
+    },
+    {
+      "id": 242,
+      "start": 804.65,
+      "end": 806.73,
+      "start_timestamp": "00:13:24.650",
+      "end_timestamp": "00:13:26.730",
+      "text": "Ça doit se faire à l'échon français."
+    },
+    {
+      "id": 243,
+      "start": 806.73,
+      "end": 810.53,
+      "start_timestamp": "00:13:26.730",
+      "end_timestamp": "00:13:30.530",
+      "text": "Nos intérêts, les intérêts de la France et pas les intérêts des Allemands"
+    },
+    {
+      "id": 244,
+      "start": 810.53,
+      "end": 812.77,
+      "start_timestamp": "00:13:30.530",
+      "end_timestamp": "00:13:32.770",
+      "text": "combinés avec ceux d'Héléton ou de je ne sais qui,"
+    },
+    {
+      "id": 245,
+      "start": 812.77,
+      "end": 817.29,
+      "start_timestamp": "00:13:32.770",
+      "end_timestamp": "00:13:37.290",
+      "text": "c'est les intérêts de la France qui doivent être au centre de tout,"
+    },
+    {
+      "id": 246,
+      "start": 817.29,
+      "end": 819.97,
+      "start_timestamp": "00:13:37.290",
+      "end_timestamp": "00:13:39.970",
+      "text": "de toutes nos préoccupations en fait."
+    },
+    {
+      "id": 247,
+      "start": 819.97,
+      "end": 823.37,
+      "start_timestamp": "00:13:39.970",
+      "end_timestamp": "00:13:43.370",
+      "text": "Le reste ne doit pas compter."
+    },
+    {
+      "id": 248,
+      "start": 823.37,
+      "end": 825.29,
+      "start_timestamp": "00:13:43.370",
+      "end_timestamp": "00:13:45.290",
+      "text": "Il n'y a que l'intérêt de la France."
+    },
+    {
+      "id": 249,
+      "start": 825.29,
+      "end": 830.97,
+      "start_timestamp": "00:13:45.290",
+      "end_timestamp": "00:13:50.970",
+      "text": "Et donc il va falloir effectivement réindustrialiser, réagriculturer le pays."
+    },
+    {
+      "id": 250,
+      "start": 830.97,
+      "end": 833.29,
+      "start_timestamp": "00:13:50.970",
+      "end_timestamp": "00:13:53.290",
+      "text": "C'est un néologisme que j'assume."
+    },
+    {
+      "id": 251,
+      "start": 833.33,
+      "end": 840.33,
+      "start_timestamp": "00:13:53.330",
+      "end_timestamp": "00:14:00.330",
+      "text": "N'en déplaise au prix Nobel d'économie qui nous explique que l'industrie s'est dépassée"
+    },
+    {
+      "id": 252,
+      "start": 840.33,
+      "end": 842.65,
+      "start_timestamp": "00:14:00.330",
+      "end_timestamp": "00:14:02.650",
+      "text": "et qu'ils mériteront une vidéo à eux seuls."
+    },
+    {
+      "id": 253,
+      "start": 842.65,
+      "end": 847.97,
+      "start_timestamp": "00:14:02.650",
+      "end_timestamp": "00:14:07.970",
+      "text": "Et il faudra faire ça et en découleront tout un tas de mesures de protection"
+    },
+    {
+      "id": 254,
+      "start": 847.97,
+      "end": 852.17,
+      "start_timestamp": "00:14:07.970",
+      "end_timestamp": "00:14:12.170",
+      "text": "de notre intérêt national, de protection de nos frontières, de régulation des flux,"
+    },
+    {
+      "id": 255,
+      "start": 852.17,
+      "end": 858.13,
+      "start_timestamp": "00:14:12.170",
+      "end_timestamp": "00:14:18.130",
+      "text": "qu'ils soient des flux humains, des flux économiques, des flux de capitaux, des flux commerciaux."
+    },
+    {
+      "id": 256,
+      "start": 858.13,
+      "end": 862.21,
+      "start_timestamp": "00:14:18.130",
+      "end_timestamp": "00:14:22.210",
+      "text": "On n'y coupera pas, sinon ce sera la mort assurée de la France."
+    },
+    {
+      "id": 257,
+      "start": 862.25,
+      "end": 864.37,
+      "start_timestamp": "00:14:22.250",
+      "end_timestamp": "00:14:24.370",
+      "text": "J'en ai déjà parlé longuement sur cette chaîne."
+    },
+    {
+      "id": 258,
+      "start": 864.37,
+      "end": 865.97,
+      "start_timestamp": "00:14:24.370",
+      "end_timestamp": "00:14:25.970",
+      "text": "J'en ai parlé évidemment dans mon livre."
+    },
+    {
+      "id": 259,
+      "start": 865.97,
+      "end": 867.49,
+      "start_timestamp": "00:14:25.970",
+      "end_timestamp": "00:14:27.490",
+      "text": "Il est venu le temps des producteurs."
+    },
+    {
+      "id": 260,
+      "start": 867.49,
+      "end": 871.49,
+      "start_timestamp": "00:14:27.490",
+      "end_timestamp": "00:14:31.490",
+      "text": "C'est quand même le sujet central du bouquin"
+    },
+    {
+      "id": 261,
+      "start": 871.49,
+      "end": 877.29,
+      "start_timestamp": "00:14:31.490",
+      "end_timestamp": "00:14:37.290",
+      "text": "et qui est plus que jamais au cœur de l'action que doit envisager la France"
+    },
+    {
+      "id": 262,
+      "start": 877.29,
+      "end": 880.33,
+      "start_timestamp": "00:14:37.290",
+      "end_timestamp": "00:14:40.330",
+      "text": "si on veut se sortir du marasme économique et ne pas crever évidemment."
+    },
+    {
+      "id": 263,
+      "start": 880.33,
+      "end": 883.45,
+      "start_timestamp": "00:14:40.330",
+      "end_timestamp": "00:14:43.450",
+      "text": "Je ne peux évidemment pas développer tout le contenu du livre dans cette vidéo"
+    },
+    {
+      "id": 264,
+      "start": 883.45,
+      "end": 884.69,
+      "start_timestamp": "00:14:43.450",
+      "end_timestamp": "00:14:44.690",
+      "text": "ou dans une seule vidéo même."
+    },
+    {
+      "id": 265,
+      "start": 884.69,
+      "end": 888.37,
+      "start_timestamp": "00:14:44.690",
+      "end_timestamp": "00:14:48.370",
+      "text": "Donc si jamais ça vous intéresse de pousser un peu plus la réflexion,"
+    },
+    {
+      "id": 266,
+      "start": 888.37,
+      "end": 890.89,
+      "start_timestamp": "00:14:48.370",
+      "end_timestamp": "00:14:50.890",
+      "text": "je vous invite à commander mon livre qui est disponible uniquement"
+    },
+    {
+      "id": 267,
+      "start": 890.93,
+      "end": 893.05,
+      "start_timestamp": "00:14:50.930",
+      "end_timestamp": "00:14:53.050",
+      "text": "sur le site des éditions du Field Actu."
+    },
+    {
+      "id": 268,
+      "start": 893.05,
+      "end": 897.77,
+      "start_timestamp": "00:14:53.050",
+      "end_timestamp": "00:14:57.770",
+      "text": "Parce que oui, on a été obligé de monter une maison d'édition"
+    },
+    {
+      "id": 269,
+      "start": 897.77,
+      "end": 901.01,
+      "start_timestamp": "00:14:57.770",
+      "end_timestamp": "00:15:01.010",
+      "text": "parce que les éditeurs, après avoir lu mon manuscrit, m'ont dit"
+    },
+    {
+      "id": 270,
+      "start": 901.01,
+      "end": 904.21,
+      "start_timestamp": "00:15:01.010",
+      "end_timestamp": "00:15:04.210",
+      "text": "non, quand même, c'est un petit peu trop violent."
+    },
+    {
+      "id": 271,
+      "start": 904.21,
+      "end": 906.17,
+      "start_timestamp": "00:15:04.210",
+      "end_timestamp": "00:15:06.170",
+      "text": "Ça appelle à la guerre civile."
+    },
+    {
+      "id": 272,
+      "start": 906.17,
+      "end": 906.81,
+      "start_timestamp": "00:15:06.170",
+      "end_timestamp": "00:15:06.810",
+      "text": "Non."
+    },
+    {
+      "id": 273,
+      "start": 906.81,
+      "end": 909.25,
+      "start_timestamp": "00:15:06.810",
+      "end_timestamp": "00:15:09.250",
+      "text": "Donc il a fallu se débrouiller tout seul."
+    },
+    {
+      "id": 274,
+      "start": 909.25,
+      "end": 911.77,
+      "start_timestamp": "00:15:09.250",
+      "end_timestamp": "00:15:11.770",
+      "text": "Comme là, je suis au regret de vous le dire,"
+    },
+    {
+      "id": 275,
+      "start": 911.77,
+      "end": 913.05,
+      "start_timestamp": "00:15:11.770",
+      "end_timestamp": "00:15:13.050",
+      "text": "mais il va falloir qu'on se débrouille tout seul"
+    },
+    {
+      "id": 276,
+      "start": 913.05,
+      "end": 915.89,
+      "start_timestamp": "00:15:13.050",
+      "end_timestamp": "00:15:15.890",
+      "text": "parce qu'il n'y a personne qui va venir nous sauver dans ce pays."
+    },
+    {
+      "id": 277,
+      "start": 915.89,
+      "end": 919.13,
+      "start_timestamp": "00:15:15.890",
+      "end_timestamp": "00:15:19.130",
+      "text": "Voilà, merci d'avoir été avec moi dans cette vidéo."
+    },
+    {
+      "id": 278,
+      "start": 919.17,
+      "end": 922.25,
+      "start_timestamp": "00:15:19.170",
+      "end_timestamp": "00:15:22.250",
+      "text": "Nul doute que la campagne à venir va nous offrir"
+    },
+    {
+      "id": 279,
+      "start": 922.25,
+      "end": 927.05,
+      "start_timestamp": "00:15:22.250",
+      "end_timestamp": "00:15:27.050",
+      "text": "tout un tas de superbes opportunités de parler de sujets de fond et sérieux."
+    },
+    {
+      "id": 280,
+      "start": 927.05,
+      "end": 928.57,
+      "start_timestamp": "00:15:27.050",
+      "end_timestamp": "00:15:28.570",
+      "text": "Ah bah non, on est sur la campagne de 2027,"
+    },
+    {
+      "id": 281,
+      "start": 928.57,
+      "end": 929.81,
+      "start_timestamp": "00:15:28.570",
+      "end_timestamp": "00:15:29.810",
+      "text": "donc c'est forcément débile."
+    },
+    {
+      "id": 282,
+      "start": 929.81,
+      "end": 930.77,
+      "start_timestamp": "00:15:29.810",
+      "end_timestamp": "00:15:30.770",
+      "text": "On va faire au mieux."
+    },
+    {
+      "id": 283,
+      "start": 930.77,
+      "end": 932.85,
+      "start_timestamp": "00:15:30.770",
+      "end_timestamp": "00:15:32.850",
+      "text": "En tout cas, tant que cette chaîne n'a pas été interdite"
+    },
+    {
+      "id": 284,
+      "start": 932.85,
+      "end": 935.69,
+      "start_timestamp": "00:15:32.850",
+      "end_timestamp": "00:15:35.690",
+      "text": "pour cause d'ingérence intérieure."
+    },
+    {
+      "id": 285,
+      "start": 935.69,
+      "end": 938.53,
+      "start_timestamp": "00:15:35.690",
+      "end_timestamp": "00:15:38.530",
+      "text": "Oui, oui, oui, ils ont osé nous sortir le coup de l'ingérence intérieure,"
+    },
+    {
+      "id": 286,
+      "start": 938.53,
+      "end": 941.61,
+      "start_timestamp": "00:15:38.530",
+      "end_timestamp": "00:15:41.610",
+      "text": "ce qui est complètement débile et un pléonasme,"
+    },
+    {
+      "id": 287,
+      "start": 941.61,
+      "end": 945.49,
+      "start_timestamp": "00:15:41.610",
+      "end_timestamp": "00:15:45.490",
+      "text": "puisque une ingérence, c'est quelque chose que tu ingères de l'extérieur."
+    },
+    {
+      "id": 288,
+      "start": 945.49,
+      "end": 946.61,
+      "start_timestamp": "00:15:45.490",
+      "end_timestamp": "00:15:46.610",
+      "text": "C'est pas grave."
+    },
+    {
+      "id": 289,
+      "start": 946.61,
+      "end": 948.21,
+      "start_timestamp": "00:15:46.610",
+      "end_timestamp": "00:15:48.210",
+      "text": "Il y a les ingérences intérieures."
+    },
+    {
+      "id": 290,
+      "start": 948.25,
+      "end": 950.53,
+      "start_timestamp": "00:15:48.250",
+      "end_timestamp": "00:15:50.530",
+      "text": "Ça s'appelle juste l'opposition politique, en fait."
+    },
+    {
+      "id": 291,
+      "start": 950.53,
+      "end": 952.05,
+      "start_timestamp": "00:15:50.530",
+      "end_timestamp": "00:15:52.050",
+      "text": "Je sais pas si on va rigoler les prochains mois."
+    },
+    {
+      "id": 292,
+      "start": 952.05,
+      "end": 953.05,
+      "start_timestamp": "00:15:52.050",
+      "end_timestamp": "00:15:53.050",
+      "text": "Vaut peut-être mieux en rire."
+    },
+    {
+      "id": 293,
+      "start": 953.05,
+      "end": 955.13,
+      "start_timestamp": "00:15:53.050",
+      "end_timestamp": "00:15:55.130",
+      "text": "En tout cas, merci d'être là."
+    },
+    {
+      "id": 294,
+      "start": 955.13,
+      "end": 957.45,
+      "start_timestamp": "00:15:55.130",
+      "end_timestamp": "00:15:57.450",
+      "text": "Merci à tous les tipeurs qui me permettent de faire ce travail"
+    },
+    {
+      "id": 295,
+      "start": 957.45,
+      "end": 959.49,
+      "start_timestamp": "00:15:57.450",
+      "end_timestamp": "00:15:59.490",
+      "text": "depuis maintenant plus de 10 ans."
+    },
+    {
+      "id": 296,
+      "start": 959.49,
+      "end": 961.77,
+      "start_timestamp": "00:15:59.490",
+      "end_timestamp": "00:16:01.770",
+      "text": "Je sais ce que je vous dois."
+    },
+    {
+      "id": 297,
+      "start": 961.77,
+      "end": 966.37,
+      "start_timestamp": "00:16:01.770",
+      "end_timestamp": "00:16:06.370",
+      "text": "Grâce à vous, je n'ai jamais eu à faire de placement de produits."
+    },
+    {
+      "id": 298,
+      "start": 966.37,
+      "end": 968.65,
+      "start_timestamp": "00:16:06.370",
+      "end_timestamp": "00:16:08.650",
+      "text": "Je ne touche aucune subvention d'argent public."
+    },
+    {
+      "id": 299,
+      "start": 968.65,
+      "end": 973.77,
+      "start_timestamp": "00:16:08.650",
+      "end_timestamp": "00:16:13.770",
+      "text": "Je touche de l'argent d'aucun état étranger, ni de riche mécène,"
+    },
+    {
+      "id": 300,
+      "start": 973.77,
+      "end": 976.29,
+      "start_timestamp": "00:16:13.770",
+      "end_timestamp": "00:16:16.290",
+      "text": "ni de parti politique, ni de personne."
+    },
+    {
+      "id": 301,
+      "start": 976.33,
+      "end": 978.81,
+      "start_timestamp": "00:16:16.330",
+      "end_timestamp": "00:16:18.810",
+      "text": "Tout ce que je dois, je vous le dois, à vous, le public."
+    },
+    {
+      "id": 302,
+      "start": 978.81,
+      "end": 981.73,
+      "start_timestamp": "00:16:18.810",
+      "end_timestamp": "00:16:21.730",
+      "text": "Et ça vaut tout l'or du monde,"
+    },
+    {
+      "id": 303,
+      "start": 981.73,
+      "end": 986.61,
+      "start_timestamp": "00:16:21.730",
+      "end_timestamp": "00:16:26.610",
+      "text": "parce que c'est la garantie de ma liberté de ton, de mon indépendance."
+    },
+    {
+      "id": 304,
+      "start": 986.61,
+      "end": 989.97,
+      "start_timestamp": "00:16:26.610",
+      "end_timestamp": "00:16:29.970",
+      "text": "Et même si, évidemment, je ne dis pas toujours ce que vous avez envie d'entendre,"
+    },
+    {
+      "id": 305,
+      "start": 989.97,
+      "end": 993.37,
+      "start_timestamp": "00:16:29.970",
+      "end_timestamp": "00:16:33.370",
+      "text": "je considère qu'il est toujours préférable de dire la vérité,"
+    },
+    {
+      "id": 306,
+      "start": 993.37,
+      "end": 996.09,
+      "start_timestamp": "00:16:33.370",
+      "end_timestamp": "00:16:36.090",
+      "text": "même quand elle est dure à accepter,"
+    },
+    {
+      "id": 307,
+      "start": 996.09,
+      "end": 999.37,
+      "start_timestamp": "00:16:36.090",
+      "end_timestamp": "00:16:39.370",
+      "text": "plutôt que des mensonges qui nous mènent dans une situation"
+    },
+    {
+      "id": 308,
+      "start": 999.37,
+      "end": 1000.77,
+      "start_timestamp": "00:16:39.370",
+      "end_timestamp": "00:16:40.770",
+      "text": "comme celle dans laquelle on est maintenant."
+    },
+    {
+      "id": 309,
+      "start": 1000.77,
+      "end": 1003.17,
+      "start_timestamp": "00:16:40.770",
+      "end_timestamp": "00:16:43.170",
+      "text": "L'épée de la vérité, le bouclier de la foi,"
+    },
+    {
+      "id": 310,
+      "start": 1003.17,
+      "end": 1005.05,
+      "start_timestamp": "00:16:43.170",
+      "end_timestamp": "00:16:45.050",
+      "text": "la foi en la France, bien sûr."
+    },
+    {
+      "id": 311,
+      "start": 1005.09,
+      "end": 1008.29,
+      "start_timestamp": "00:16:45.090",
+      "end_timestamp": "00:16:48.290",
+      "text": "Ces gens-là, à la tête de l'État, ils ne font que passer, ces gens."
+    },
+    {
+      "id": 312,
+      "start": 1008.29,
+      "end": 1012.41,
+      "start_timestamp": "00:16:48.290",
+      "end_timestamp": "00:16:52.410",
+      "text": "La France, elle reste, elle est restée et elle restera."
+    },
+    {
+      "id": 313,
+      "start": 1012.41,
+      "end": 1014.09,
+      "start_timestamp": "00:16:52.410",
+      "end_timestamp": "00:16:54.090",
+      "text": "Donc je vous dis encore merci du fond du cœur."
+    },
+    {
+      "id": 314,
+      "start": 1014.09,
+      "end": 1015.69,
+      "start_timestamp": "00:16:54.090",
+      "end_timestamp": "00:16:55.690",
+      "text": "À très bientôt. Enfin, j'espère."
+    },
+    {
+      "id": 315,
+      "start": 1015.69,
+      "end": 1016.77,
+      "start_timestamp": "00:16:55.690",
+      "end_timestamp": "00:16:56.770",
+      "text": "Prenez soin de vous."
+    },
+    {
+      "id": 316,
+      "start": 1016.77,
+      "end": 1019.17,
+      "start_timestamp": "00:16:56.770",
+      "end_timestamp": "00:16:59.170",
+      "text": "Et bien sûr, vive la France libre."
+    }
+  ]
+}

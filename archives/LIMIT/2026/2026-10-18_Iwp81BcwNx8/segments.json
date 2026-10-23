@@ -1,0 +1,6609 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.84,
+      "end": 5.24,
+      "start_timestamp": "00:00:01.840",
+      "end_timestamp": "00:00:05.240",
+      "text": "Samedi 17 octobre, huit heures du matin."
+    },
+    {
+      "id": 1,
+      "start": 7.04,
+      "end": 8.76,
+      "start_timestamp": "00:00:07.040",
+      "end_timestamp": "00:00:08.760",
+      "text": "A la Réunion, il est déjà dix heures."
+    },
+    {
+      "id": 2,
+      "start": 8.76,
+      "end": 12.84,
+      "start_timestamp": "00:00:08.760",
+      "end_timestamp": "00:00:12.840",
+      "text": "Sur un rond-point de la plaine des Palmistes, une trentaine de personnes."
+    },
+    {
+      "id": 3,
+      "start": 12.84,
+      "end": 14.56,
+      "start_timestamp": "00:00:12.840",
+      "end_timestamp": "00:00:14.560",
+      "text": "En métropole, pas grand-chose."
+    },
+    {
+      "id": 4,
+      "start": 14.56,
+      "end": 17.24,
+      "start_timestamp": "00:00:14.560",
+      "end_timestamp": "00:00:17.240",
+      "text": "Dans la Manche, à Glacerie, trois personnes."
+    },
+    {
+      "id": 5,
+      "start": 17.24,
+      "end": 18.96,
+      "start_timestamp": "00:00:17.240",
+      "end_timestamp": "00:00:18.960",
+      "text": "À Montélimar, zéro."
+    },
+    {
+      "id": 6,
+      "start": 18.96,
+      "end": 20.32,
+      "start_timestamp": "00:00:18.960",
+      "end_timestamp": "00:00:20.320",
+      "text": "Juste deux voitures de gendarmes."
+    },
+    {
+      "id": 7,
+      "start": 20.32,
+      "end": 23.76,
+      "start_timestamp": "00:00:20.320",
+      "end_timestamp": "00:00:23.760",
+      "text": "Les autorités attendent vingt mille à quarante mille manifestants à Paris."
+    },
+    {
+      "id": 8,
+      "start": 23.76,
+      "end": 29.0,
+      "start_timestamp": "00:00:23.760",
+      "end_timestamp": "00:00:29.000",
+      "text": "La veille, des commerçants ont barricadé leurs vitrines, mais tout est calme."
+    },
+    {
+      "id": 9,
+      "start": 29.0,
+      "end": 30.32,
+      "start_timestamp": "00:00:29.000",
+      "end_timestamp": "00:00:30.320",
+      "text": "Onze heures trente, Lyon."
+    },
+    {
+      "id": 10,
+      "start": 30.32,
+      "end": 36.22,
+      "start_timestamp": "00:00:30.320",
+      "end_timestamp": "00:00:36.220",
+      "text": "Deux jeunes mariés sortent de la mairie du 7ème."
+    },
+    {
+      "id": 11,
+      "start": 36.22,
+      "end": 37.02,
+      "start_timestamp": "00:00:36.220",
+      "end_timestamp": "00:00:37.020",
+      "text": "Treize heures, Paris."
+    },
+    {
+      "id": 12,
+      "start": 37.02,
+      "end": 39.82,
+      "start_timestamp": "00:00:37.020",
+      "end_timestamp": "00:00:39.820",
+      "text": "Deux cortèges se retrouvent dans la rue et explosent de joie."
+    },
+    {
+      "id": 13,
+      "start": 39.82,
+      "end": 43.94,
+      "start_timestamp": "00:00:39.820",
+      "end_timestamp": "00:00:43.940",
+      "text": "Quatorze heures, Rouen, Le Havre, Nice, Rennes, Strasbourg, Montpellier."
+    },
+    {
+      "id": 14,
+      "start": 43.94,
+      "end": 45.62,
+      "start_timestamp": "00:00:43.940",
+      "end_timestamp": "00:00:45.620",
+      "text": "Les lycéens sont en tête."
+    },
+    {
+      "id": 15,
+      "start": 45.62,
+      "end": 48.22,
+      "start_timestamp": "00:00:45.620",
+      "end_timestamp": "00:00:48.220",
+      "text": "Toulouse, Bayonne, Dijon, Besançon."
+    },
+    {
+      "id": 16,
+      "start": 48.22,
+      "end": 50.5,
+      "start_timestamp": "00:00:48.220",
+      "end_timestamp": "00:00:50.500",
+      "text": "Des lycéens, des familles, des grands-parents."
+    },
+    {
+      "id": 17,
+      "start": 50.5,
+      "end": 52.66,
+      "start_timestamp": "00:00:50.500",
+      "end_timestamp": "00:00:52.660",
+      "text": "À Caen, Aline, mère de deux enfants."
+    },
+    {
+      "id": 18,
+      "start": 52.66,
+      "end": 54.46,
+      "start_timestamp": "00:00:52.660",
+      "end_timestamp": "00:00:54.460",
+      "text": "C'est la première fois que je manifeste."
+    },
+    {
+      "id": 19,
+      "start": 54.46,
+      "end": 65.07,
+      "start_timestamp": "00:00:54.460",
+      "end_timestamp": "00:01:05.070",
+      "text": "Et à Paris, cent dix mille personnes sont le ministère de l'Intérieur lui-même."
+    },
+    {
+      "id": 20,
+      "start": 65.07,
+      "end": 66.43,
+      "start_timestamp": "00:01:05.070",
+      "end_timestamp": "00:01:06.430",
+      "text": "Dix-sept heures, Saint-Étienne."
+    },
+    {
+      "id": 21,
+      "start": 66.47,
+      "end": 68.87,
+      "start_timestamp": "00:01:06.470",
+      "end_timestamp": "00:01:08.870",
+      "text": "Un garçon de 17 ans à la main arrachée."
+    },
+    {
+      "id": 22,
+      "start": 68.87,
+      "end": 70.35,
+      "start_timestamp": "00:01:08.870",
+      "end_timestamp": "00:01:10.350",
+      "text": "Une grenade défense de l'ordre."
+    },
+    {
+      "id": 23,
+      "start": 70.35,
+      "end": 71.83,
+      "start_timestamp": "00:01:10.350",
+      "end_timestamp": "00:01:11.830",
+      "text": "L'IGP ne saisit."
+    },
+    {
+      "id": 24,
+      "start": 71.83,
+      "end": 74.91,
+      "start_timestamp": "00:01:11.830",
+      "end_timestamp": "00:01:14.910",
+      "text": "17h15, sur les quais de Seine, des gens dansent."
+    },
+    {
+      "id": 25,
+      "start": 74.91,
+      "end": 77.99,
+      "start_timestamp": "00:01:14.910",
+      "end_timestamp": "00:01:17.990",
+      "text": "Derrière eux, une fumée noire monte au-dessus de Paris."
+    },
+    {
+      "id": 26,
+      "start": 77.99,
+      "end": 86.79,
+      "start_timestamp": "00:01:17.990",
+      "end_timestamp": "00:01:26.790",
+      "text": "18 heures, place Vendôme, le Ritz, les Grands-Joyers et des milliers de voix."
+    },
+    {
+      "id": 27,
+      "start": 86.79,
+      "end": 90.19,
+      "start_timestamp": "00:01:26.790",
+      "end_timestamp": "00:01:30.190",
+      "text": "19h48, le ministère de l'Intérieur prend la parole."
+    },
+    {
+      "id": 28,
+      "start": 90.19,
+      "end": 93.91,
+      "start_timestamp": "00:01:30.190",
+      "end_timestamp": "00:01:33.910",
+      "text": "La veille, son ministère attendait 190 000 personnes."
+    },
+    {
+      "id": 29,
+      "start": 93.91,
+      "end": 101.63,
+      "start_timestamp": "00:01:33.910",
+      "end_timestamp": "00:01:41.630",
+      "text": "Cent-dix défilés qui ont réuni aujourd'hui 550 000 personnes, dont 100 000 à part."
+    },
+    {
+      "id": 30,
+      "start": 101.63,
+      "end": 103.19,
+      "start_timestamp": "00:01:41.630",
+      "end_timestamp": "00:01:43.190",
+      "text": "Près de trois fois plus."
+    },
+    {
+      "id": 31,
+      "start": 104.71,
+      "end": 105.99,
+      "start_timestamp": "00:01:44.710",
+      "end_timestamp": "00:01:45.990",
+      "text": "20 heures passées à l'IMOGE."
+    },
+    {
+      "id": 32,
+      "start": 118.54,
+      "end": 121.46,
+      "start_timestamp": "00:01:58.540",
+      "end_timestamp": "00:02:01.460",
+      "text": "Et à 22h33, le parisien écrit ça."
+    },
+    {
+      "id": 33,
+      "start": 121.46,
+      "end": 129.0,
+      "start_timestamp": "00:02:01.460",
+      "end_timestamp": "00:02:09.000",
+      "text": "Voici les images qu'on retiendra et qui vont balayer celles des mobilisations."
+    },
+    {
+      "id": 34,
+      "start": 129.0,
+      "end": 129.8,
+      "start_timestamp": "00:02:09.000",
+      "end_timestamp": "00:02:09.800",
+      "text": "Pas ici."
+    },
+    {
+      "id": 35,
+      "start": 129.8,
+      "end": 131.4,
+      "start_timestamp": "00:02:09.800",
+      "end_timestamp": "00:02:11.400",
+      "text": "Ici, on va retenir ça."
+    },
+    {
+      "id": 36,
+      "start": 165.18,
+      "end": 167.78,
+      "start_timestamp": "00:02:45.180",
+      "end_timestamp": "00:02:47.780",
+      "text": "550 000 personnes, selon le gouvernement."
+    },
+    {
+      "id": 37,
+      "start": 167.78,
+      "end": 170.18,
+      "start_timestamp": "00:02:47.780",
+      "end_timestamp": "00:02:50.180",
+      "text": "800 000, selon les organisateurs."
+    },
+    {
+      "id": 38,
+      "start": 170.18,
+      "end": 173.06,
+      "start_timestamp": "00:02:50.180",
+      "end_timestamp": "00:02:53.060",
+      "text": "Presque le double du tout premier samedi des Gilets jaunes."
+    },
+    {
+      "id": 39,
+      "start": 173.06,
+      "end": 176.5,
+      "start_timestamp": "00:02:53.060",
+      "end_timestamp": "00:02:56.500",
+      "text": "Un 17 déjà, c'était le 17 novembre 2018."
+    },
+    {
+      "id": 40,
+      "start": 176.5,
+      "end": 180.66,
+      "start_timestamp": "00:02:56.500",
+      "end_timestamp": "00:03:00.660",
+      "text": "Et je ne vais pas vous mentir, ce n'est pas non plus la plus grosse journée de manif de l'histoire."
+    },
+    {
+      "id": 41,
+      "start": 180.66,
+      "end": 184.5,
+      "start_timestamp": "00:03:00.660",
+      "end_timestamp": "00:03:04.500",
+      "text": "Les retraits de 2023, le CPE en 2006."
+    },
+    {
+      "id": 42,
+      "start": 184.5,
+      "end": 187.34,
+      "start_timestamp": "00:03:04.500",
+      "end_timestamp": "00:03:07.340",
+      "text": "Plus d'un million, selon le ministère de l'Intérieur à ce moment-là."
+    },
+    {
+      "id": 43,
+      "start": 187.34,
+      "end": 190.3,
+      "start_timestamp": "00:03:07.340",
+      "end_timestamp": "00:03:10.300",
+      "text": "Et mai 68, c'était 7 à 10 millions de grévistes."
+    },
+    {
+      "id": 44,
+      "start": 190.3,
+      "end": 191.98,
+      "start_timestamp": "00:03:10.300",
+      "end_timestamp": "00:03:11.980",
+      "text": "Voilà, le con n'y est pas encore."
+    },
+    {
+      "id": 45,
+      "start": 192.02,
+      "end": 196.06,
+      "start_timestamp": "00:03:12.020",
+      "end_timestamp": "00:03:16.060",
+      "text": "Sauf que les retraites, c'était 8 syndicats unis et des mois de préparation."
+    },
+    {
+      "id": 46,
+      "start": 196.06,
+      "end": 197.42,
+      "start_timestamp": "00:03:16.060",
+      "end_timestamp": "00:03:17.420",
+      "text": "Le 17 octobre, c'est quoi ?"
+    },
+    {
+      "id": 47,
+      "start": 197.42,
+      "end": 202.34,
+      "start_timestamp": "00:03:17.420",
+      "end_timestamp": "00:03:22.340",
+      "text": "Un appel lancé sur TikTok à la rentrée contre la vie chère et le prix de l'essence."
+    },
+    {
+      "id": 48,
+      "start": 202.34,
+      "end": 204.94,
+      "start_timestamp": "00:03:22.340",
+      "end_timestamp": "00:03:24.940",
+      "text": "Que beaucoup ont d'abord pris pour une blague."
+    },
+    {
+      "id": 49,
+      "start": 204.94,
+      "end": 209.9,
+      "start_timestamp": "00:03:24.940",
+      "end_timestamp": "00:03:29.900",
+      "text": "Et des lycéens qui, depuis le 21 septembre, bloquent leur lycée pour avoir des profs."
+    },
+    {
+      "id": 50,
+      "start": 211.02,
+      "end": 213.9,
+      "start_timestamp": "00:03:31.020",
+      "end_timestamp": "00:03:33.900",
+      "text": "Les gamins ont littéralement allumé la mèche."
+    },
+    {
+      "id": 51,
+      "start": 213.9,
+      "end": 215.3,
+      "start_timestamp": "00:03:33.900",
+      "end_timestamp": "00:03:35.300",
+      "text": "Et tout le pays les a rejoints."
+    },
+    {
+      "id": 52,
+      "start": 215.3,
+      "end": 216.78,
+      "start_timestamp": "00:03:35.300",
+      "end_timestamp": "00:03:36.780",
+      "text": "Est-ce que tu sens ce parfum, là ?"
+    },
+    {
+      "id": 53,
+      "start": 216.78,
+      "end": 218.46,
+      "start_timestamp": "00:03:36.780",
+      "end_timestamp": "00:03:38.460",
+      "text": "Alors, je vous le dis et je l'assume."
+    },
+    {
+      "id": 54,
+      "start": 218.5,
+      "end": 222.3,
+      "start_timestamp": "00:03:38.500",
+      "end_timestamp": "00:03:42.300",
+      "text": "On est en train de vivre un des plus gros mouvements populaires de l'histoire de ce pays."
+    },
+    {
+      "id": 55,
+      "start": 222.3,
+      "end": 225.22,
+      "start_timestamp": "00:03:42.300",
+      "end_timestamp": "00:03:45.220",
+      "text": "Et pendant ce temps-là, à la télévision, vous avez vu quoi ?"
+    },
+    {
+      "id": 56,
+      "start": 225.22,
+      "end": 225.74,
+      "start_timestamp": "00:03:45.220",
+      "end_timestamp": "00:03:45.740",
+      "text": "Du feu."
+    },
+    {
+      "id": 57,
+      "start": 225.74,
+      "end": 226.9,
+      "start_timestamp": "00:03:45.740",
+      "end_timestamp": "00:03:46.900",
+      "text": "Des feux de poubelle."
+    },
+    {
+      "id": 58,
+      "start": 226.9,
+      "end": 228.26,
+      "start_timestamp": "00:03:46.900",
+      "end_timestamp": "00:03:48.260",
+      "text": "Parce qu'on incendie un bâtiment."
+    },
+    {
+      "id": 59,
+      "start": 228.26,
+      "end": 229.62,
+      "start_timestamp": "00:03:48.260",
+      "end_timestamp": "00:03:49.620",
+      "text": "Le feu, il était réel."
+    },
+    {
+      "id": 60,
+      "start": 229.62,
+      "end": 231.34,
+      "start_timestamp": "00:03:49.620",
+      "end_timestamp": "00:03:51.340",
+      "text": "Limoges, Marseille, Paris, Lille, Lyon."
+    },
+    {
+      "id": 61,
+      "start": 231.34,
+      "end": 232.42,
+      "start_timestamp": "00:03:51.340",
+      "end_timestamp": "00:03:52.420",
+      "text": "Et on va vous le montrer."
+    },
+    {
+      "id": 62,
+      "start": 232.42,
+      "end": 234.14,
+      "start_timestamp": "00:03:52.420",
+      "end_timestamp": "00:03:54.140",
+      "text": "On va absolument rien cacher dans cette vidéo."
+    },
+    {
+      "id": 63,
+      "start": 234.14,
+      "end": 237.14,
+      "start_timestamp": "00:03:54.140",
+      "end_timestamp": "00:03:57.140",
+      "text": "Mais on va remettre chaque image à sa place."
+    },
+    {
+      "id": 64,
+      "start": 237.14,
+      "end": 241.82,
+      "start_timestamp": "00:03:57.140",
+      "end_timestamp": "00:04:01.820",
+      "text": "Alors dans cette vidéo, je vais te parler de ce que les plateaux ne vous ont pas montré."
+    },
+    {
+      "id": 65,
+      "start": 241.82,
+      "end": 243.62,
+      "start_timestamp": "00:04:01.820",
+      "end_timestamp": "00:04:03.620",
+      "text": "Combien vous étiez vraiment ?"
+    },
+    {
+      "id": 66,
+      "start": 243.62,
+      "end": 244.78,
+      "start_timestamp": "00:04:03.620",
+      "end_timestamp": "00:04:04.780",
+      "text": "Qui était dans la rue ?"
+    },
+    {
+      "id": 67,
+      "start": 244.78,
+      "end": 245.5,
+      "start_timestamp": "00:04:04.780",
+      "end_timestamp": "00:04:05.500",
+      "text": "Le feu."
+    },
+    {
+      "id": 68,
+      "start": 245.5,
+      "end": 246.94,
+      "start_timestamp": "00:04:05.500",
+      "end_timestamp": "00:04:06.940",
+      "text": "Et ce qu'ils racontent derrière."
+    },
+    {
+      "id": 69,
+      "start": 246.94,
+      "end": 247.66,
+      "start_timestamp": "00:04:06.940",
+      "end_timestamp": "00:04:07.660",
+      "text": "La police."
+    },
+    {
+      "id": 70,
+      "start": 247.7,
+      "end": 250.78,
+      "start_timestamp": "00:04:07.700",
+      "end_timestamp": "00:04:10.780",
+      "text": "Ce que ce gouvernement et les plateaux ont dit le soir du 17."
+    },
+    {
+      "id": 71,
+      "start": 250.78,
+      "end": 252.06,
+      "start_timestamp": "00:04:10.780",
+      "end_timestamp": "00:04:12.060",
+      "text": "Et qui est littéralement faux."
+    },
+    {
+      "id": 72,
+      "start": 252.06,
+      "end": 254.42,
+      "start_timestamp": "00:04:12.060",
+      "end_timestamp": "00:04:14.420",
+      "text": "Je vous préviens, il y aura des images dures."
+    },
+    {
+      "id": 73,
+      "start": 254.42,
+      "end": 257.62,
+      "start_timestamp": "00:04:14.420",
+      "end_timestamp": "00:04:17.620",
+      "text": "On a suivi cette journée minute par minute depuis 4 heures du matin."
+    },
+    {
+      "id": 74,
+      "start": 257.62,
+      "end": 261.26,
+      "start_timestamp": "00:04:17.620",
+      "end_timestamp": "00:04:21.260",
+      "text": "Les tipeurs, c'est vous qui avez rendu cette vidéo tout simplement possible."
+    },
+    {
+      "id": 75,
+      "start": 261.26,
+      "end": 264.54,
+      "start_timestamp": "00:04:21.260",
+      "end_timestamp": "00:04:24.540",
+      "text": "Une journée entière de veille, de vérification, de comptage."
+    },
+    {
+      "id": 76,
+      "start": 264.54,
+      "end": 265.78,
+      "start_timestamp": "00:04:24.540",
+      "end_timestamp": "00:04:25.780",
+      "text": "C'est vos dons qui ont fait ça."
+    },
+    {
+      "id": 77,
+      "start": 265.78,
+      "end": 267.38,
+      "start_timestamp": "00:04:25.780",
+      "end_timestamp": "00:04:27.380",
+      "text": "Du fond du cœur, merci."
+    },
+    {
+      "id": 78,
+      "start": 267.38,
+      "end": 269.42,
+      "start_timestamp": "00:04:27.380",
+      "end_timestamp": "00:04:29.420",
+      "text": "Je m'appelle Vince, enfant de la patrie."
+    },
+    {
+      "id": 79,
+      "start": 269.42,
+      "end": 271.54,
+      "start_timestamp": "00:04:29.420",
+      "end_timestamp": "00:04:31.540",
+      "text": "Le jour de gloire est arrivé."
+    },
+    {
+      "id": 80,
+      "start": 271.54,
+      "end": 273.14,
+      "start_timestamp": "00:04:31.540",
+      "end_timestamp": "00:04:33.140",
+      "text": "Bienvenue à vous sur Limite."
+    },
+    {
+      "id": 81,
+      "start": 283.18,
+      "end": 285.22,
+      "start_timestamp": "00:04:43.180",
+      "end_timestamp": "00:04:45.220",
+      "text": "J'ai déjà dit, 550 000 sont au ministère."
+    },
+    {
+      "id": 82,
+      "start": 285.22,
+      "end": 286.82,
+      "start_timestamp": "00:04:45.220",
+      "end_timestamp": "00:04:46.820",
+      "text": "800 000 sont les organisateurs."
+    },
+    {
+      "id": 83,
+      "start": 286.82,
+      "end": 288.82,
+      "start_timestamp": "00:04:46.820",
+      "end_timestamp": "00:04:48.820",
+      "text": "Certains parlent même de beaucoup plus."
+    },
+    {
+      "id": 84,
+      "start": 288.82,
+      "end": 292.34,
+      "start_timestamp": "00:04:48.820",
+      "end_timestamp": "00:04:52.340",
+      "text": "Sur les réseaux, vous avez pu certainement passer 2 millions, 3 millions, 4 millions."
+    },
+    {
+      "id": 85,
+      "start": 292.34,
+      "end": 293.38,
+      "start_timestamp": "00:04:52.340",
+      "end_timestamp": "00:04:53.380",
+      "text": "Alors, on a compté nous-mêmes."
+    },
+    {
+      "id": 86,
+      "start": 293.38,
+      "end": 296.06,
+      "start_timestamp": "00:04:53.380",
+      "end_timestamp": "00:04:56.060",
+      "text": "On a d'abord écrit la méthode avant de compter."
+    },
+    {
+      "id": 87,
+      "start": 296.06,
+      "end": 297.86,
+      "start_timestamp": "00:04:56.060",
+      "end_timestamp": "00:04:57.860",
+      "text": "Il faut le préciser pour ne pas tricher."
+    },
+    {
+      "id": 88,
+      "start": 297.86,
+      "end": 300.58,
+      "start_timestamp": "00:04:57.860",
+      "end_timestamp": "00:05:00.580",
+      "text": "400 communes, chaque chiffre avec sa source forcément."
+    },
+    {
+      "id": 89,
+      "start": 300.58,
+      "end": 303.02,
+      "start_timestamp": "00:05:00.580",
+      "end_timestamp": "00:05:03.020",
+      "text": "Il y a les préfectures, les organisateurs, la presse locale."
+    },
+    {
+      "id": 90,
+      "start": 303.02,
+      "end": 305.9,
+      "start_timestamp": "00:05:03.020",
+      "end_timestamp": "00:05:05.900",
+      "text": "Et là, quand on additionne le tout, ville par ville,"
+    },
+    {
+      "id": 91,
+      "start": 305.9,
+      "end": 309.5,
+      "start_timestamp": "00:05:05.900",
+      "end_timestamp": "00:05:09.500",
+      "text": "on retombe sur le chiffre du ministère, 1% près."
+    },
+    {
+      "id": 92,
+      "start": 309.5,
+      "end": 311.78,
+      "start_timestamp": "00:05:09.500",
+      "end_timestamp": "00:05:11.780",
+      "text": "Sur ce point, il n'y a pas eu de triche."
+    },
+    {
+      "id": 93,
+      "start": 311.78,
+      "end": 313.18,
+      "start_timestamp": "00:05:11.780",
+      "end_timestamp": "00:05:13.180",
+      "text": "Je vous le dis parce que c'est vrai."
+    },
+    {
+      "id": 94,
+      "start": 313.18,
+      "end": 317.82,
+      "start_timestamp": "00:05:13.180",
+      "end_timestamp": "00:05:17.820",
+      "text": "Mais ce chiffre-là, c'est les gens qui passent devant un policier qui compte"
+    },
+    {
+      "id": 95,
+      "start": 317.82,
+      "end": 319.34,
+      "start_timestamp": "00:05:17.820",
+      "end_timestamp": "00:05:19.340",
+      "text": "à un endroit du parcours."
+    },
+    {
+      "id": 96,
+      "start": 319.34,
+      "end": 321.7,
+      "start_timestamp": "00:05:19.340",
+      "end_timestamp": "00:05:21.700",
+      "text": "Ceux qui ont rejoint le cortège plus loin,"
+    },
+    {
+      "id": 97,
+      "start": 321.7,
+      "end": 323.66,
+      "start_timestamp": "00:05:21.700",
+      "end_timestamp": "00:05:23.660",
+      "text": "ceux des ronds points du matin,"
+    },
+    {
+      "id": 98,
+      "start": 323.66,
+      "end": 325.9,
+      "start_timestamp": "00:05:23.660",
+      "end_timestamp": "00:05:25.900",
+      "text": "ceux qui sont venus une heure et puis qui sont repartis,"
+    },
+    {
+      "id": 99,
+      "start": 325.9,
+      "end": 327.58,
+      "start_timestamp": "00:05:25.900",
+      "end_timestamp": "00:05:27.580",
+      "text": "tous ceux-là forcément n'y ont pas été comptés."
+    },
+    {
+      "id": 100,
+      "start": 327.58,
+      "end": 331.3,
+      "start_timestamp": "00:05:27.580",
+      "end_timestamp": "00:05:31.300",
+      "text": "Quand des chercheurs ont mesuré ça sur de grandes marches, notamment en Hong Kong,"
+    },
+    {
+      "id": 101,
+      "start": 331.3,
+      "end": 336.06,
+      "start_timestamp": "00:05:31.300",
+      "end_timestamp": "00:05:36.060",
+      "text": "ils ont trouvé un chiffre assez régulier, 40 à 75% de monde en plus."
+    },
+    {
+      "id": 102,
+      "start": 336.06,
+      "end": 337.66,
+      "start_timestamp": "00:05:36.060",
+      "end_timestamp": "00:05:37.660",
+      "text": "Toujours par rapport aux données du ministère."
+    },
+    {
+      "id": 103,
+      "start": 337.66,
+      "end": 341.98,
+      "start_timestamp": "00:05:37.660",
+      "end_timestamp": "00:05:41.980",
+      "text": "Donc résultat, nos estimations, c'est environ 535 000 personnes dans les cortèges."
+    },
+    {
+      "id": 104,
+      "start": 342.02,
+      "end": 346.3,
+      "start_timestamp": "00:05:42.020",
+      "end_timestamp": "00:05:46.300",
+      "text": "Et si on compte toutes les personnes différentes passées dans la rue sur la journée,"
+    },
+    {
+      "id": 105,
+      "start": 346.3,
+      "end": 348.82,
+      "start_timestamp": "00:05:46.300",
+      "end_timestamp": "00:05:48.820",
+      "text": "on monte jusqu'à 900 000 environ."
+    },
+    {
+      "id": 106,
+      "start": 348.82,
+      "end": 350.22,
+      "start_timestamp": "00:05:48.820",
+      "end_timestamp": "00:05:50.220",
+      "text": "Pas des millions, je sais."
+    },
+    {
+      "id": 107,
+      "start": 350.22,
+      "end": 351.54,
+      "start_timestamp": "00:05:50.220",
+      "end_timestamp": "00:05:51.540",
+      "text": "Ça risque d'en décevoir certains."
+    },
+    {
+      "id": 108,
+      "start": 351.54,
+      "end": 355.02,
+      "start_timestamp": "00:05:51.540",
+      "end_timestamp": "00:05:55.020",
+      "text": "Si je gonfle les chiffres, littéralement, je deviens ce que je dénonce."
+    },
+    {
+      "id": 109,
+      "start": 355.02,
+      "end": 358.82,
+      "start_timestamp": "00:05:55.020",
+      "end_timestamp": "00:05:58.820",
+      "text": "Par contre, le chiffre qu'ils devraient faire parler, c'est l'autre chiffre."
+    },
+    {
+      "id": 110,
+      "start": 358.82,
+      "end": 363.5,
+      "start_timestamp": "00:05:58.820",
+      "end_timestamp": "00:06:03.500",
+      "text": "La veille, c'est que le ministère, dans l'intérieur, lui, il attendait 190 000 personnes."
+    },
+    {
+      "id": 111,
+      "start": 363.5,
+      "end": 365.46,
+      "start_timestamp": "00:06:03.500",
+      "end_timestamp": "00:06:05.460",
+      "text": "Ils se sont trompés d'un facteur de 3."
+    },
+    {
+      "id": 112,
+      "start": 365.46,
+      "end": 366.26,
+      "start_timestamp": "00:06:05.460",
+      "end_timestamp": "00:06:06.260",
+      "text": "C'est immense."
+    },
+    {
+      "id": 113,
+      "start": 366.26,
+      "end": 370.78,
+      "start_timestamp": "00:06:06.260",
+      "end_timestamp": "00:06:10.780",
+      "text": "Sur les CI, en fin d'après-midi, un journaliste spécialiste du maintien de l'ordre avait dit..."
+    },
+    {
+      "id": 114,
+      "start": 370.78,
+      "end": 373.78,
+      "start_timestamp": "00:06:10.780",
+      "end_timestamp": "00:06:13.780",
+      "text": "Le volume, ils avaient annoncé jusqu'à 40 000 personnes à Paris."
+    },
+    {
+      "id": 115,
+      "start": 373.78,
+      "end": 374.7,
+      "start_timestamp": "00:06:13.780",
+      "end_timestamp": "00:06:14.700",
+      "text": "On n'y est pas du tout."
+    },
+    {
+      "id": 116,
+      "start": 374.7,
+      "end": 377.3,
+      "start_timestamp": "00:06:14.700",
+      "end_timestamp": "00:06:17.300",
+      "text": "On n'a pas les chiffres officiels, mais on voit bien aux images qu'on n'y est pas."
+    },
+    {
+      "id": 117,
+      "start": 377.3,
+      "end": 380.34,
+      "start_timestamp": "00:06:17.300",
+      "end_timestamp": "00:06:20.340",
+      "text": "Le soir, le ministère en compte 110 000 à Paris."
+    },
+    {
+      "id": 118,
+      "start": 380.34,
+      "end": 384.1,
+      "start_timestamp": "00:06:20.340",
+      "end_timestamp": "00:06:24.100",
+      "text": "Et les images, forcément, qui tournaient à l'antenne, c'était celle de la casse."
+    },
+    {
+      "id": 119,
+      "start": 397.16,
+      "end": 398.68,
+      "start_timestamp": "00:06:37.160",
+      "end_timestamp": "00:06:38.680",
+      "text": "Jordan Mardela écrit..."
+    },
+    {
+      "id": 120,
+      "start": 404.68,
+      "end": 407.04,
+      "start_timestamp": "00:06:44.680",
+      "end_timestamp": "00:06:47.040",
+      "text": "Ah bon, Jordan ? Est-ce que tu es sûr de ce que tu racontes ?"
+    },
+    {
+      "id": 121,
+      "start": 407.04,
+      "end": 410.28,
+      "start_timestamp": "00:06:47.040",
+      "end_timestamp": "00:06:50.280",
+      "text": "À Toulouse, dans le cortège, des salariés d'Airbus, des profs,"
+    },
+    {
+      "id": 122,
+      "start": 410.96,
+      "end": 413.56,
+      "start_timestamp": "00:06:50.960",
+      "end_timestamp": "00:06:53.560",
+      "text": "à Lille, une contrôleuse de qualité de 39 ans."
+    },
+    {
+      "id": 123,
+      "start": 413.56,
+      "end": 416.12,
+      "start_timestamp": "00:06:53.560",
+      "end_timestamp": "00:06:56.120",
+      "text": "Le peuple mérite mieux que la misère et le mépris."
+    },
+    {
+      "id": 124,
+      "start": 416.12,
+      "end": 418.24,
+      "start_timestamp": "00:06:56.120",
+      "end_timestamp": "00:06:58.240",
+      "text": "À Foix, Philippe, gilet jaune."
+    },
+    {
+      "id": 125,
+      "start": 418.24,
+      "end": 419.72,
+      "start_timestamp": "00:06:58.240",
+      "end_timestamp": "00:06:59.720",
+      "text": "Les jeunes nous ont réveillés."
+    },
+    {
+      "id": 126,
+      "start": 419.72,
+      "end": 421.0,
+      "start_timestamp": "00:06:59.720",
+      "end_timestamp": "00:07:01.000",
+      "text": "L'union fait la force."
+    },
+    {
+      "id": 127,
+      "start": 421.0,
+      "end": 424.84,
+      "start_timestamp": "00:07:01.000",
+      "end_timestamp": "00:07:04.840",
+      "text": "À Limoges, des drapeaux de la Confédération paysanne ont circulé."
+    },
+    {
+      "id": 128,
+      "start": 424.84,
+      "end": 428.2,
+      "start_timestamp": "00:07:04.840",
+      "end_timestamp": "00:07:08.200",
+      "text": "Frédéric, agricultrice, parle d'un gouvernement qui n'écoute pas."
+    },
+    {
+      "id": 129,
+      "start": 428.2,
+      "end": 430.68,
+      "start_timestamp": "00:07:08.200",
+      "end_timestamp": "00:07:10.680",
+      "text": "Et aux GT de France 2, des mères de famille."
+    },
+    {
+      "id": 130,
+      "start": 430.68,
+      "end": 432.88,
+      "start_timestamp": "00:07:10.680",
+      "end_timestamp": "00:07:12.880",
+      "text": "On est des darons, fiers et solidaires."
+    },
+    {
+      "id": 131,
+      "start": 432.88,
+      "end": 435.76,
+      "start_timestamp": "00:07:12.880",
+      "end_timestamp": "00:07:15.760",
+      "text": "Ça nous fait des lycéens, des étudiants, des gilets jaunes,"
+    },
+    {
+      "id": 132,
+      "start": 435.76,
+      "end": 438.72,
+      "start_timestamp": "00:07:15.760",
+      "end_timestamp": "00:07:18.720",
+      "text": "des syndicalistes, des paysans, des retraités, des soignants,"
+    },
+    {
+      "id": 133,
+      "start": 438.72,
+      "end": 440.2,
+      "start_timestamp": "00:07:18.720",
+      "end_timestamp": "00:07:20.200",
+      "text": "des grandes villes et des petites."
+    },
+    {
+      "id": 134,
+      "start": 440.6,
+      "end": 441.88,
+      "start_timestamp": "00:07:20.600",
+      "end_timestamp": "00:07:21.880",
+      "text": "Et vous savez, c'est quoi le plus drôle ?"
+    },
+    {
+      "id": 135,
+      "start": 441.88,
+      "end": 445.48,
+      "start_timestamp": "00:07:21.880",
+      "end_timestamp": "00:07:25.480",
+      "text": "Eh bien, l'ERN avait demandé à ses sympathisants de ne pas y aller."
+    },
+    {
+      "id": 136,
+      "start": 445.48,
+      "end": 448.0,
+      "start_timestamp": "00:07:25.480",
+      "end_timestamp": "00:07:28.000",
+      "text": "Sauf que d'après l'Institut et l'Abbe,"
+    },
+    {
+      "id": 137,
+      "start": 448.0,
+      "end": 451.6,
+      "start_timestamp": "00:07:28.000",
+      "end_timestamp": "00:07:31.600",
+      "text": "70% de ses électeurs approuvent la mobilisation."
+    },
+    {
+      "id": 138,
+      "start": 452.44,
+      "end": 453.68,
+      "start_timestamp": "00:07:32.440",
+      "end_timestamp": "00:07:33.680",
+      "text": "Et au total pour les Français,"
+    },
+    {
+      "id": 139,
+      "start": 453.68,
+      "end": 457.36,
+      "start_timestamp": "00:07:33.680",
+      "end_timestamp": "00:07:37.360",
+      "text": "on a un chiffre de 69% qui approuve la mobilisation."
+    },
+    {
+      "id": 140,
+      "start": 457.36,
+      "end": 460.4,
+      "start_timestamp": "00:07:37.360",
+      "end_timestamp": "00:07:40.400",
+      "text": "Et ceux qui étaient dans les rues, c'était ce parti politique-là."
+    },
+    {
+      "id": 141,
+      "start": 460.4,
+      "end": 463.72,
+      "start_timestamp": "00:07:40.400",
+      "end_timestamp": "00:07:43.720",
+      "text": "Dit autrement, la France du Travail n'était pas toute dans la rue,"
+    },
+    {
+      "id": 142,
+      "start": 463.72,
+      "end": 466.0,
+      "start_timestamp": "00:07:43.720",
+      "end_timestamp": "00:07:46.000",
+      "text": "mais elle était derrière le mouvement."
+    },
+    {
+      "id": 143,
+      "start": 466.0,
+      "end": 467.04,
+      "start_timestamp": "00:07:46.000",
+      "end_timestamp": "00:07:47.040",
+      "text": "Et pas que dans les sondages."
+    },
+    {
+      "id": 144,
+      "start": 467.08,
+      "end": 471.56,
+      "start_timestamp": "00:07:47.080",
+      "end_timestamp": "00:07:51.560",
+      "text": "Avant le 17, Omar Sy, Angèle, Victor Owen-Bagnama ou Squeezie"
+    },
+    {
+      "id": 145,
+      "start": 471.56,
+      "end": 473.52,
+      "start_timestamp": "00:07:51.560",
+      "end_timestamp": "00:07:53.520",
+      "text": "avaient carrément pris la parole pour les lycéens."
+    },
+    {
+      "id": 146,
+      "start": 473.52,
+      "end": 475.8,
+      "start_timestamp": "00:07:53.520",
+      "end_timestamp": "00:07:55.800",
+      "text": "Et ça me dit, Joe Estard est dans la rue,"
+    },
+    {
+      "id": 147,
+      "start": 475.8,
+      "end": 478.68,
+      "start_timestamp": "00:07:55.800",
+      "end_timestamp": "00:07:58.680",
+      "text": "selfie devant un feu, la France est dans la rue."
+    },
+    {
+      "id": 148,
+      "start": 478.68,
+      "end": 481.04,
+      "start_timestamp": "00:07:58.680",
+      "end_timestamp": "00:08:01.040",
+      "text": "Et d'ailleurs, petit video pour le passage à Joel de l'équipe Limites"
+    },
+    {
+      "id": 149,
+      "start": 481.04,
+      "end": 484.28,
+      "start_timestamp": "00:08:01.040",
+      "end_timestamp": "00:08:04.280",
+      "text": "qui était dans le cortège de Lyon avec sa splendide pancarte."
+    },
+    {
+      "id": 150,
+      "start": 484.28,
+      "end": 486.76,
+      "start_timestamp": "00:08:04.280",
+      "end_timestamp": "00:08:06.760",
+      "text": "D'ailleurs, là, vous voyez une image de lui en train d'essayer"
+    },
+    {
+      "id": 151,
+      "start": 486.76,
+      "end": 488.68,
+      "start_timestamp": "00:08:06.760",
+      "end_timestamp": "00:08:08.680",
+      "text": "d'aller raisonner les policiers."
+    },
+    {
+      "id": 152,
+      "start": 488.68,
+      "end": 490.68,
+      "start_timestamp": "00:08:08.680",
+      "end_timestamp": "00:08:10.680",
+      "text": "Il m'a dit que certains ont compris le message,"
+    },
+    {
+      "id": 153,
+      "start": 490.68,
+      "end": 493.28,
+      "start_timestamp": "00:08:10.680",
+      "end_timestamp": "00:08:13.280",
+      "text": "mais que d'autres étaient un peu trop occupés avec ce qui se passait."
+    },
+    {
+      "id": 154,
+      "start": 493.28,
+      "end": 496.32,
+      "start_timestamp": "00:08:13.280",
+      "end_timestamp": "00:08:16.320",
+      "text": "Et puis, il y a ces images incroyables, j'en ai eu des frissons."
+    },
+    {
+      "id": 155,
+      "start": 504.61,
+      "end": 507.05,
+      "start_timestamp": "00:08:24.610",
+      "end_timestamp": "00:08:27.050",
+      "text": "Un orchestre qui joue au milieu des lacrimaux."
+    },
+    {
+      "id": 156,
+      "start": 507.05,
+      "end": 510.13,
+      "start_timestamp": "00:08:27.050",
+      "end_timestamp": "00:08:30.130",
+      "text": "Place de la République, une ambiance littéralement de Titanic."
+    },
+    {
+      "id": 157,
+      "start": 510.13,
+      "end": 512.37,
+      "start_timestamp": "00:08:30.130",
+      "end_timestamp": "00:08:32.370",
+      "text": "Et puis, de l'autre côté, des gens qui dansent sur les quais"
+    },
+    {
+      "id": 158,
+      "start": 512.37,
+      "end": 514.33,
+      "start_timestamp": "00:08:32.370",
+      "end_timestamp": "00:08:34.330",
+      "text": "pendant que la fumée monte sur Paris."
+    },
+    {
+      "id": 159,
+      "start": 514.33,
+      "end": 516.89,
+      "start_timestamp": "00:08:34.330",
+      "end_timestamp": "00:08:36.890",
+      "text": "Ça, c'est l'histoire qu'on est en train de documenter."
+    },
+    {
+      "id": 160,
+      "start": 516.89,
+      "end": 521.21,
+      "start_timestamp": "00:08:36.890",
+      "end_timestamp": "00:08:41.210",
+      "text": "La fête d'un côté, le feu de l'autre, le même jour dans le même pays."
+    },
+    {
+      "id": 161,
+      "start": 521.21,
+      "end": 522.53,
+      "start_timestamp": "00:08:41.210",
+      "end_timestamp": "00:08:42.530",
+      "text": "Et justement, du feu."
+    },
+    {
+      "id": 162,
+      "start": 522.53,
+      "end": 525.75,
+      "start_timestamp": "00:08:42.530",
+      "end_timestamp": "00:08:45.750",
+      "text": "Eh bien, parlons-en du feu."
+    },
+    {
+      "id": 163,
+      "start": 525.75,
+      "end": 527.55,
+      "start_timestamp": "00:08:45.750",
+      "end_timestamp": "00:08:47.550",
+      "text": "Ah ouais, le feu, il était réel."
+    },
+    {
+      "id": 164,
+      "start": 527.55,
+      "end": 529.91,
+      "start_timestamp": "00:08:47.550",
+      "end_timestamp": "00:08:49.910",
+      "text": "Et je ne vais pas vous faire le coup de tout va bien."
+    },
+    {
+      "id": 165,
+      "start": 529.91,
+      "end": 530.75,
+      "start_timestamp": "00:08:49.910",
+      "end_timestamp": "00:08:50.750",
+      "text": "Non, pas du tout."
+    },
+    {
+      "id": 166,
+      "start": 530.75,
+      "end": 533.87,
+      "start_timestamp": "00:08:50.750",
+      "end_timestamp": "00:08:53.870",
+      "text": "Limoges, l'hôtel de ville classé monument historique,"
+    },
+    {
+      "id": 167,
+      "start": 533.91,
+      "end": 535.83,
+      "start_timestamp": "00:08:53.910",
+      "end_timestamp": "00:08:55.830",
+      "text": "détruit en moins de deux heures."
+    },
+    {
+      "id": 168,
+      "start": 535.83,
+      "end": 538.99,
+      "start_timestamp": "00:08:55.830",
+      "end_timestamp": "00:08:58.990",
+      "text": "Marseille, le hall de la mairie investi."
+    },
+    {
+      "id": 169,
+      "start": 538.99,
+      "end": 540.99,
+      "start_timestamp": "00:08:58.990",
+      "end_timestamp": "00:09:00.990",
+      "text": "Une quarantaine de magasins pillés."
+    },
+    {
+      "id": 170,
+      "start": 540.99,
+      "end": 542.51,
+      "start_timestamp": "00:09:00.990",
+      "end_timestamp": "00:09:02.510",
+      "text": "Lille, la mairie saccagée."
+    },
+    {
+      "id": 171,
+      "start": 542.51,
+      "end": 546.11,
+      "start_timestamp": "00:09:02.510",
+      "end_timestamp": "00:09:06.110",
+      "text": "Paris, des voitures en feu, des commerces pillés autour de la place de la République."
+    },
+    {
+      "id": 172,
+      "start": 546.11,
+      "end": 548.51,
+      "start_timestamp": "00:09:06.110",
+      "end_timestamp": "00:09:08.510",
+      "text": "Et à Lyon, l'office du tourisme en feu."
+    },
+    {
+      "id": 173,
+      "start": 548.51,
+      "end": 550.03,
+      "start_timestamp": "00:09:08.510",
+      "end_timestamp": "00:09:10.030",
+      "text": "Vous voyez, tout ça, c'est grave."
+    },
+    {
+      "id": 174,
+      "start": 550.03,
+      "end": 551.19,
+      "start_timestamp": "00:09:10.030",
+      "end_timestamp": "00:09:11.190",
+      "text": "Je le dis clairement."
+    },
+    {
+      "id": 175,
+      "start": 551.19,
+      "end": 553.75,
+      "start_timestamp": "00:09:11.190",
+      "end_timestamp": "00:09:13.750",
+      "text": "Par contre, côté manifestant, il y a eu des blessés."
+    },
+    {
+      "id": 176,
+      "start": 553.75,
+      "end": 555.47,
+      "start_timestamp": "00:09:13.750",
+      "end_timestamp": "00:09:15.470",
+      "text": "Il y a eu des situations très, très graves."
+    },
+    {
+      "id": 177,
+      "start": 555.47,
+      "end": 557.47,
+      "start_timestamp": "00:09:15.470",
+      "end_timestamp": "00:09:17.470",
+      "text": "Et le ministre ne donne aucun chiffre."
+    },
+    {
+      "id": 178,
+      "start": 557.47,
+      "end": 558.59,
+      "start_timestamp": "00:09:17.470",
+      "end_timestamp": "00:09:18.590",
+      "text": "Et ça en va y revenir aussi."
+    },
+    {
+      "id": 179,
+      "start": 558.59,
+      "end": 561.71,
+      "start_timestamp": "00:09:18.590",
+      "end_timestamp": "00:09:21.710",
+      "text": "Maintenant, vous savez très bien, pour ceux qui me connaissent le mieux,"
+    },
+    {
+      "id": 180,
+      "start": 561.71,
+      "end": 563.83,
+      "start_timestamp": "00:09:21.710",
+      "end_timestamp": "00:09:23.830",
+      "text": "j'ai quitté le monde de la télé et des médias mainstream"
+    },
+    {
+      "id": 181,
+      "start": 563.83,
+      "end": 567.23,
+      "start_timestamp": "00:09:23.830",
+      "end_timestamp": "00:09:27.230",
+      "text": "parce que j'ai un véritable problème"
+    },
+    {
+      "id": 182,
+      "start": 567.23,
+      "end": 569.03,
+      "start_timestamp": "00:09:27.230",
+      "end_timestamp": "00:09:29.030",
+      "text": "à faire un métier où je ne peux pas dire la vérité."
+    },
+    {
+      "id": 183,
+      "start": 569.03,
+      "end": 572.27,
+      "start_timestamp": "00:09:29.030",
+      "end_timestamp": "00:09:32.270",
+      "text": "En tout cas, du moins la réalité et les faits qui sont mesurés."
+    },
+    {
+      "id": 184,
+      "start": 572.27,
+      "end": 576.23,
+      "start_timestamp": "00:09:32.270",
+      "end_timestamp": "00:09:36.230",
+      "text": "Et le plus honnête possible va être de remettre chaque image à sa place."
+    },
+    {
+      "id": 185,
+      "start": 576.23,
+      "end": 578.11,
+      "start_timestamp": "00:09:36.230",
+      "end_timestamp": "00:09:38.110",
+      "text": "Qui a fait ça ?"
+    },
+    {
+      "id": 186,
+      "start": 578.11,
+      "end": 581.19,
+      "start_timestamp": "00:09:38.110",
+      "end_timestamp": "00:09:41.190",
+      "text": "Animoge, c'est le préfet lui-même cité par France 3."
+    },
+    {
+      "id": 187,
+      "start": 581.19,
+      "end": 584.11,
+      "start_timestamp": "00:09:41.190",
+      "end_timestamp": "00:09:44.110",
+      "text": "Un acte volontaire de casseur, pas de manifestant."
+    },
+    {
+      "id": 188,
+      "start": 584.11,
+      "end": 588.15,
+      "start_timestamp": "00:09:44.110",
+      "end_timestamp": "00:09:48.150",
+      "text": "À Paris, en plein après-midi, la préfecture de police a dit"
+    },
+    {
+      "id": 189,
+      "start": 588.15,
+      "end": 591.31,
+      "start_timestamp": "00:09:48.150",
+      "end_timestamp": "00:09:51.310",
+      "text": "la très grande majorité des individus manifestent sans heures."
+    },
+    {
+      "id": 190,
+      "start": 591.35,
+      "end": 594.67,
+      "start_timestamp": "00:09:51.350",
+      "end_timestamp": "00:09:54.670",
+      "text": "1200 interpellations à minuit sont le premier ministre."
+    },
+    {
+      "id": 191,
+      "start": 594.67,
+      "end": 597.91,
+      "start_timestamp": "00:09:54.670",
+      "end_timestamp": "00:09:57.910",
+      "text": "Pour les chiffres du ministère de l'Intérieur, je rappelle 550 000 manifestants."
+    },
+    {
+      "id": 192,
+      "start": 597.91,
+      "end": 599.95,
+      "start_timestamp": "00:09:57.910",
+      "end_timestamp": "00:09:59.950",
+      "text": "On est sur un ratio de 0,2 %."
+    },
+    {
+      "id": 193,
+      "start": 599.95,
+      "end": 603.39,
+      "start_timestamp": "00:09:59.950",
+      "end_timestamp": "00:10:03.390",
+      "text": "Sur les organisateurs 800 000, on est quasiment à 0,1 %."
+    },
+    {
+      "id": 194,
+      "start": 603.39,
+      "end": 604.63,
+      "start_timestamp": "00:10:03.390",
+      "end_timestamp": "00:10:04.630",
+      "text": "Vous voyez le gap là ?"
+    },
+    {
+      "id": 195,
+      "start": 604.63,
+      "end": 606.35,
+      "start_timestamp": "00:10:04.630",
+      "end_timestamp": "00:10:06.350",
+      "text": "Et ce n'était pas des gamins."
+    },
+    {
+      "id": 196,
+      "start": 606.35,
+      "end": 609.59,
+      "start_timestamp": "00:10:06.350",
+      "end_timestamp": "00:10:09.590",
+      "text": "Et moi, ce qui me remonte, c'est que la très grande majorité des interpellés"
+    },
+    {
+      "id": 197,
+      "start": 609.59,
+      "end": 611.03,
+      "start_timestamp": "00:10:09.590",
+      "end_timestamp": "00:10:11.030",
+      "text": "sont des majeurs."
+    },
+    {
+      "id": 198,
+      "start": 611.03,
+      "end": 612.71,
+      "start_timestamp": "00:10:11.030",
+      "end_timestamp": "00:10:12.710",
+      "text": "Voilà, que les choses seront claires, ce sont des majeurs."
+    },
+    {
+      "id": 199,
+      "start": 612.71,
+      "end": 614.43,
+      "start_timestamp": "00:10:12.710",
+      "end_timestamp": "00:10:14.430",
+      "text": "Alors attention qu'on se comprenne bien."
+    },
+    {
+      "id": 200,
+      "start": 614.43,
+      "end": 616.59,
+      "start_timestamp": "00:10:14.430",
+      "end_timestamp": "00:10:16.590",
+      "text": "Je n'excuse pas un pillage."
+    },
+    {
+      "id": 201,
+      "start": 616.59,
+      "end": 620.83,
+      "start_timestamp": "00:10:16.590",
+      "end_timestamp": "00:10:20.830",
+      "text": "Une mairie qui brûle, c'est un bien commun, un patrimoine qui part en fumée."
+    },
+    {
+      "id": 202,
+      "start": 620.83,
+      "end": 623.83,
+      "start_timestamp": "00:10:20.830",
+      "end_timestamp": "00:10:23.830",
+      "text": "Le maire de Limoges a d'ailleurs balancé cette phrase."
+    },
+    {
+      "id": 203,
+      "start": 623.83,
+      "end": 626.59,
+      "start_timestamp": "00:10:23.830",
+      "end_timestamp": "00:10:26.590",
+      "text": "C'est un monument qui brûle, mais pas la République."
+    },
+    {
+      "id": 204,
+      "start": 626.59,
+      "end": 627.55,
+      "start_timestamp": "00:10:26.590",
+      "end_timestamp": "00:10:27.550",
+      "text": "Mais vous me connaissez."
+    },
+    {
+      "id": 205,
+      "start": 627.55,
+      "end": 632.07,
+      "start_timestamp": "00:10:27.550",
+      "end_timestamp": "00:10:32.070",
+      "text": "Je vais vous dire ce que ce feu raconte, parce que c'est notre boulot ici sur L'Édite."
+    },
+    {
+      "id": 206,
+      "start": 632.07,
+      "end": 634.75,
+      "start_timestamp": "00:10:32.070",
+      "end_timestamp": "00:10:34.750",
+      "text": "Une porte-parole des étudiants de l'Inde de France l'a dit ce soir"
+    },
+    {
+      "id": 207,
+      "start": 634.75,
+      "end": 637.39,
+      "start_timestamp": "00:10:34.750",
+      "end_timestamp": "00:10:37.390",
+      "text": "mieux que n'importe quel éditorialiste qu'on a vu sur les chaînes télé."
+    },
+    {
+      "id": 208,
+      "start": 637.39,
+      "end": 641.87,
+      "start_timestamp": "00:10:37.390",
+      "end_timestamp": "00:10:41.870",
+      "text": "On parle de violence, mais on ne parle jamais des causes de la violence."
+    },
+    {
+      "id": 209,
+      "start": 641.87,
+      "end": 643.87,
+      "start_timestamp": "00:10:41.870",
+      "end_timestamp": "00:10:43.870",
+      "text": "Et justement ça, on l'a mesuré."
+    },
+    {
+      "id": 210,
+      "start": 643.87,
+      "end": 647.03,
+      "start_timestamp": "00:10:43.870",
+      "end_timestamp": "00:10:47.030",
+      "text": "4 heures d'antenne ce samedi sur Europe 1, LCI et BFM TV."
+    },
+    {
+      "id": 211,
+      "start": 647.03,
+      "end": 648.63,
+      "start_timestamp": "00:10:47.030",
+      "end_timestamp": "00:10:48.630",
+      "text": "Découpé en 30 secondes."
+    },
+    {
+      "id": 212,
+      "start": 648.63,
+      "end": 653.67,
+      "start_timestamp": "00:10:48.630",
+      "end_timestamp": "00:10:53.670",
+      "text": "Résultat, 77% du temps a été donné aux violences."
+    },
+    {
+      "id": 213,
+      "start": 653.67,
+      "end": 656.87,
+      "start_timestamp": "00:10:53.670",
+      "end_timestamp": "00:10:56.870",
+      "text": "23% sur le mouvement et ses causes."
+    },
+    {
+      "id": 214,
+      "start": 656.87,
+      "end": 660.07,
+      "start_timestamp": "00:10:56.870",
+      "end_timestamp": "00:11:00.070",
+      "text": "Et même en comptant en plus tous les cas douteux dans l'autre sens,"
+    },
+    {
+      "id": 215,
+      "start": 660.07,
+      "end": 663.19,
+      "start_timestamp": "00:11:00.070",
+      "end_timestamp": "00:11:03.190",
+      "text": "ça reste au-dessus de 70%."
+    },
+    {
+      "id": 216,
+      "start": 663.19,
+      "end": 668.07,
+      "start_timestamp": "00:11:03.190",
+      "end_timestamp": "00:11:08.070",
+      "text": "Sur Europe 1, entre 18h et 20h, prime time, deux heures de direct,"
+    },
+    {
+      "id": 217,
+      "start": 668.07,
+      "end": 672.63,
+      "start_timestamp": "00:11:08.070",
+      "end_timestamp": "00:11:12.630",
+      "text": "le mouvement et ses revendications ont représenté 6%."
+    },
+    {
+      "id": 218,
+      "start": 672.63,
+      "end": 676.07,
+      "start_timestamp": "00:11:12.630",
+      "end_timestamp": "00:11:16.070",
+      "text": "Et dedans, un seul reportage, diffusé trois fois."
+    },
+    {
+      "id": 219,
+      "start": 676.11,
+      "end": 679.59,
+      "start_timestamp": "00:11:16.110",
+      "end_timestamp": "00:11:19.590",
+      "text": "Il reste environ 2m30 de fonds en deux heures."
+    },
+    {
+      "id": 220,
+      "start": 679.59,
+      "end": 682.23,
+      "start_timestamp": "00:11:19.590",
+      "end_timestamp": "00:11:22.230",
+      "text": "Et pas un seul invité du mouvement."
+    },
+    {
+      "id": 221,
+      "start": 682.23,
+      "end": 686.15,
+      "start_timestamp": "00:11:22.230",
+      "end_timestamp": "00:11:26.150",
+      "text": "Pas un syndicat, pas un organisateur, pas un lycéen, rien ou allo."
+    },
+    {
+      "id": 222,
+      "start": 686.15,
+      "end": 689.91,
+      "start_timestamp": "00:11:26.150",
+      "end_timestamp": "00:11:29.910",
+      "text": "Alors quand même, je vais être juste et honnête, BFM TV a fait le taf."
+    },
+    {
+      "id": 223,
+      "start": 689.91,
+      "end": 691.59,
+      "start_timestamp": "00:11:29.910",
+      "end_timestamp": "00:11:31.590",
+      "text": "Le matin, c'était beaucoup plus équilibré."
+    },
+    {
+      "id": 224,
+      "start": 691.59,
+      "end": 693.79,
+      "start_timestamp": "00:11:31.590",
+      "end_timestamp": "00:11:33.790",
+      "text": "Forcément, c'était avant la casse, il n'y avait personne dans les rues"
+    },
+    {
+      "id": 225,
+      "start": 693.79,
+      "end": 695.55,
+      "start_timestamp": "00:11:33.790",
+      "end_timestamp": "00:11:35.550",
+      "text": "comme vous l'avez découvert en intro de cette vidéo."
+    },
+    {
+      "id": 226,
+      "start": 695.55,
+      "end": 699.71,
+      "start_timestamp": "00:11:35.550",
+      "end_timestamp": "00:11:39.710",
+      "text": "Alors oui, la casse était réelle et on ne dit pas qu'il ne fallait pas en parler."
+    },
+    {
+      "id": 227,
+      "start": 699.71,
+      "end": 703.75,
+      "start_timestamp": "00:11:39.710",
+      "end_timestamp": "00:11:43.750",
+      "text": "On dit juste qu'à ce dosage-là, on ne vous informe plus en fait."
+    },
+    {
+      "id": 228,
+      "start": 703.75,
+      "end": 705.35,
+      "start_timestamp": "00:11:43.750",
+      "end_timestamp": "00:11:45.350",
+      "text": "On vous fait littéralement peur."
+    },
+    {
+      "id": 229,
+      "start": 705.35,
+      "end": 707.63,
+      "start_timestamp": "00:11:45.350",
+      "end_timestamp": "00:11:47.630",
+      "text": "On dévie votre attention."
+    },
+    {
+      "id": 230,
+      "start": 707.63,
+      "end": 710.55,
+      "start_timestamp": "00:11:47.630",
+      "end_timestamp": "00:11:50.550",
+      "text": "Et à la fin de cette vidéo, je vous dirai littéralement pourquoi."
+    },
+    {
+      "id": 231,
+      "start": 713.37,
+      "end": 717.93,
+      "start_timestamp": "00:11:53.370",
+      "end_timestamp": "00:11:57.930",
+      "text": "Revenons à Saint-Etienne, 17h08, devant le centre commercial Centre 2."
+    },
+    {
+      "id": 232,
+      "start": 717.93,
+      "end": 721.73,
+      "start_timestamp": "00:11:57.930",
+      "end_timestamp": "00:12:01.730",
+      "text": "Un garçon à la main, arraché par une grenade des forces de l'ordre."
+    },
+    {
+      "id": 233,
+      "start": 721.73,
+      "end": 725.29,
+      "start_timestamp": "00:12:01.730",
+      "end_timestamp": "00:12:05.290",
+      "text": "Le parquet confirme, mineur, 17 ans et 11 mois."
+    },
+    {
+      "id": 234,
+      "start": 725.29,
+      "end": 727.65,
+      "start_timestamp": "00:12:05.290",
+      "end_timestamp": "00:12:07.650",
+      "text": "L'enquête est confiée à l'IGPN, la police est police."
+    },
+    {
+      "id": 235,
+      "start": 727.65,
+      "end": 730.05,
+      "start_timestamp": "00:12:07.650",
+      "end_timestamp": "00:12:10.050",
+      "text": "Et le soir sur Europe 1, on vous dit..."
+    },
+    {
+      "id": 236,
+      "start": 730.05,
+      "end": 733.45,
+      "start_timestamp": "00:12:10.050",
+      "end_timestamp": "00:12:13.450",
+      "text": "Un jeune majeur d'une vingtaine d'années aurait tenté de la ramasser."
+    },
+    {
+      "id": 237,
+      "start": 733.45,
+      "end": 737.49,
+      "start_timestamp": "00:12:13.450",
+      "end_timestamp": "00:12:17.490",
+      "text": "Voilà, on envoie la responsabilité sur la victime."
+    },
+    {
+      "id": 238,
+      "start": 737.77,
+      "end": 739.97,
+      "start_timestamp": "00:12:17.770",
+      "end_timestamp": "00:12:19.970",
+      "text": "C'est digne des comportements les plus toxiques, ça."
+    },
+    {
+      "id": 239,
+      "start": 739.97,
+      "end": 741.65,
+      "start_timestamp": "00:12:19.970",
+      "end_timestamp": "00:12:21.650",
+      "text": "Vraiment du gaslighting en fait."
+    },
+    {
+      "id": 240,
+      "start": 741.65,
+      "end": 743.77,
+      "start_timestamp": "00:12:21.650",
+      "end_timestamp": "00:12:23.770",
+      "text": "Majeur, vous avez compris que c'est faux."
+    },
+    {
+      "id": 241,
+      "start": 743.77,
+      "end": 745.17,
+      "start_timestamp": "00:12:23.770",
+      "end_timestamp": "00:12:25.170",
+      "text": "Le parquet a bien dit mineur."
+    },
+    {
+      "id": 242,
+      "start": 745.17,
+      "end": 747.69,
+      "start_timestamp": "00:12:25.170",
+      "end_timestamp": "00:12:27.690",
+      "text": "L'erreur venait d'abord de la préfecture, certes,"
+    },
+    {
+      "id": 243,
+      "start": 747.69,
+      "end": 749.77,
+      "start_timestamp": "00:12:27.690",
+      "end_timestamp": "00:12:29.770",
+      "text": "mais elle est répétée en boucle au journal."
+    },
+    {
+      "id": 244,
+      "start": 749.77,
+      "end": 752.69,
+      "start_timestamp": "00:12:29.770",
+      "end_timestamp": "00:12:32.690",
+      "text": "Et à aucun moment de la soirée, elle a été corrigée."
+    },
+    {
+      "id": 245,
+      "start": 752.69,
+      "end": 754.65,
+      "start_timestamp": "00:12:32.690",
+      "end_timestamp": "00:12:34.650",
+      "text": "Il aurait tenté de la ramasser."
+    },
+    {
+      "id": 246,
+      "start": 754.65,
+      "end": 757.29,
+      "start_timestamp": "00:12:34.650",
+      "end_timestamp": "00:12:37.290",
+      "text": "C'est la version de source policière."
+    },
+    {
+      "id": 247,
+      "start": 757.29,
+      "end": 760.37,
+      "start_timestamp": "00:12:37.290",
+      "end_timestamp": "00:12:40.370",
+      "text": "Alors ramasser ou pas, ça honnêtement, c'est l'enquête qui le dira."
+    },
+    {
+      "id": 248,
+      "start": 760.37,
+      "end": 763.21,
+      "start_timestamp": "00:12:40.370",
+      "end_timestamp": "00:12:43.210",
+      "text": "Mais dans les deux cas, une grenade lancée dans une foule"
+    },
+    {
+      "id": 249,
+      "start": 763.21,
+      "end": 771.34,
+      "start_timestamp": "00:12:43.210",
+      "end_timestamp": "00:12:51.340",
+      "text": "et un gamin perdu sa main."
+    },
+    {
+      "id": 250,
+      "start": 771.34,
+      "end": 772.34,
+      "start_timestamp": "00:12:51.340",
+      "end_timestamp": "00:12:52.340",
+      "text": "On est dans quel monde là ?"
+    },
+    {
+      "id": 251,
+      "start": 772.38,
+      "end": 775.74,
+      "start_timestamp": "00:12:52.380",
+      "end_timestamp": "00:12:55.740",
+      "text": "Alors de soir c'est bon, le ministre a donné le nombre de policiers blessés."
+    },
+    {
+      "id": 252,
+      "start": 775.74,
+      "end": 777.98,
+      "start_timestamp": "00:12:55.740",
+      "end_timestamp": "00:12:57.980",
+      "text": "Mais pas du tout le nombre de manifestants blessés."
+    },
+    {
+      "id": 253,
+      "start": 777.98,
+      "end": 779.1,
+      "start_timestamp": "00:12:57.980",
+      "end_timestamp": "00:12:59.100",
+      "text": "Là, rien."
+    },
+    {
+      "id": 254,
+      "start": 779.1,
+      "end": 781.74,
+      "start_timestamp": "00:12:59.100",
+      "end_timestamp": "00:13:01.740",
+      "text": "On n'a eu aucun bilan officiel."
+    },
+    {
+      "id": 255,
+      "start": 781.74,
+      "end": 784.34,
+      "start_timestamp": "00:13:01.740",
+      "end_timestamp": "00:13:04.340",
+      "text": "Vraiment, je vous assure, tout ça, c'est un but recherché."
+    },
+    {
+      "id": 256,
+      "start": 784.34,
+      "end": 788.74,
+      "start_timestamp": "00:13:04.340",
+      "end_timestamp": "00:13:08.740",
+      "text": "Il y a quelques instants, les CRS ont gazé l'orchestre du Nouveau Monde."
+    },
+    {
+      "id": 257,
+      "start": 788.74,
+      "end": 789.58,
+      "start_timestamp": "00:13:08.740",
+      "end_timestamp": "00:13:09.580",
+      "text": "Pourquoi ils l'ont gazé ?"
+    },
+    {
+      "id": 258,
+      "start": 789.58,
+      "end": 792.78,
+      "start_timestamp": "00:13:09.580",
+      "end_timestamp": "00:13:12.780",
+      "text": "Parce qu'en fait, autour de nous, il y avait une foule entière qui était soudée,"
+    },
+    {
+      "id": 259,
+      "start": 792.78,
+      "end": 795.18,
+      "start_timestamp": "00:13:12.780",
+      "end_timestamp": "00:13:15.180",
+      "text": "qui était puissante, qui était joyeuse."
+    },
+    {
+      "id": 260,
+      "start": 795.18,
+      "end": 797.06,
+      "start_timestamp": "00:13:15.180",
+      "end_timestamp": "00:13:17.060",
+      "text": "Et face à ça, la réponse qu'ils ont eue,"
+    },
+    {
+      "id": 261,
+      "start": 797.06,
+      "end": 800.66,
+      "start_timestamp": "00:13:17.060",
+      "end_timestamp": "00:13:20.660",
+      "text": "c'est d'envoyer des grenades lacrymogènes en plein milieu de l'orchestre."
+    },
+    {
+      "id": 262,
+      "start": 800.66,
+      "end": 802.5,
+      "start_timestamp": "00:13:20.660",
+      "end_timestamp": "00:13:22.500",
+      "text": "C'est absolument gravissime."
+    },
+    {
+      "id": 263,
+      "start": 802.5,
+      "end": 804.58,
+      "start_timestamp": "00:13:22.500",
+      "end_timestamp": "00:13:24.580",
+      "text": "On avait un orchestre qui était très calme,"
+    },
+    {
+      "id": 264,
+      "start": 804.58,
+      "end": 806.58,
+      "start_timestamp": "00:13:24.580",
+      "end_timestamp": "00:13:26.580",
+      "text": "dans une manifestation qui était..."
+    },
+    {
+      "id": 265,
+      "start": 806.58,
+      "end": 809.62,
+      "start_timestamp": "00:13:26.580",
+      "end_timestamp": "00:13:29.620",
+      "text": "Aujourd'hui, on est face à un moment où les violences policières débattent."
+    },
+    {
+      "id": 266,
+      "start": 809.62,
+      "end": 812.1,
+      "start_timestamp": "00:13:29.620",
+      "end_timestamp": "00:13:32.100",
+      "text": "Nous, on sait qu'une dizaine de blessés ont été soignés"
+    },
+    {
+      "id": 267,
+      "start": 812.1,
+      "end": 813.9,
+      "start_timestamp": "00:13:32.100",
+      "end_timestamp": "00:13:33.900",
+      "text": "dans un restaurant du Canal Saint-Martin."
+    },
+    {
+      "id": 268,
+      "start": 813.9,
+      "end": 816.46,
+      "start_timestamp": "00:13:33.900",
+      "end_timestamp": "00:13:36.460",
+      "text": "Et qu'un journaliste du Média Blast, d'ailleurs, qu'on salue,"
+    },
+    {
+      "id": 269,
+      "start": 816.46,
+      "end": 818.46,
+      "start_timestamp": "00:13:36.460",
+      "end_timestamp": "00:13:38.460",
+      "text": "a été hospitalisé avec un écla dans le ventre."
+    },
+    {
+      "id": 270,
+      "start": 818.46,
+      "end": 822.54,
+      "start_timestamp": "00:13:38.460",
+      "end_timestamp": "00:13:42.540",
+      "text": "À Toulouse, quatre syndicalistes de la CGT ont été hospitalisés."
+    },
+    {
+      "id": 271,
+      "start": 822.54,
+      "end": 825.3,
+      "start_timestamp": "00:13:42.540",
+      "end_timestamp": "00:13:45.300",
+      "text": "Et au 13 octobre, avant même cette journée,"
+    },
+    {
+      "id": 272,
+      "start": 825.3,
+      "end": 829.74,
+      "start_timestamp": "00:13:45.300",
+      "end_timestamp": "00:13:49.740",
+      "text": "le ministre reconnaissait lui-même au Sénat 36 enquêtes de l'IGPN,"
+    },
+    {
+      "id": 273,
+      "start": 829.74,
+      "end": 832.82,
+      "start_timestamp": "00:13:49.740",
+      "end_timestamp": "00:13:52.820",
+      "text": "dont quatre pour des blessures mutilantes."
+    },
+    {
+      "id": 274,
+      "start": 832.82,
+      "end": 835.26,
+      "start_timestamp": "00:13:52.820",
+      "end_timestamp": "00:13:55.260",
+      "text": "Et là, je vais vraiment être cash."
+    },
+    {
+      "id": 275,
+      "start": 835.26,
+      "end": 840.62,
+      "start_timestamp": "00:13:55.260",
+      "end_timestamp": "00:14:00.620",
+      "text": "En France, un policier en maintien de l'ordre doit porter son matricule, le RIO."
+    },
+    {
+      "id": 276,
+      "start": 840.62,
+      "end": 842.58,
+      "start_timestamp": "00:14:00.620",
+      "end_timestamp": "00:14:02.580",
+      "text": "Ça, on n'y déroge pas."
+    },
+    {
+      "id": 277,
+      "start": 842.58,
+      "end": 844.34,
+      "start_timestamp": "00:14:02.580",
+      "end_timestamp": "00:14:04.340",
+      "text": "C'est inscrit dans la loi."
+    },
+    {
+      "id": 278,
+      "start": 844.34,
+      "end": 846.02,
+      "start_timestamp": "00:14:04.340",
+      "end_timestamp": "00:14:06.020",
+      "text": "C'est obligatoire depuis 2014."
+    },
+    {
+      "id": 279,
+      "start": 846.02,
+      "end": 849.9,
+      "start_timestamp": "00:14:06.020",
+      "end_timestamp": "00:14:09.900",
+      "text": "En 2023, le Conseil d'État parle même d'une méconnaissance très fréquente."
+    },
+    {
+      "id": 280,
+      "start": 849.9,
+      "end": 853.02,
+      "start_timestamp": "00:14:09.900",
+      "end_timestamp": "00:14:13.020",
+      "text": "En avril 2026, le Conseil d'État revient même à la charge"
+    },
+    {
+      "id": 281,
+      "start": 853.02,
+      "end": 856.3,
+      "start_timestamp": "00:14:13.020",
+      "end_timestamp": "00:14:16.300",
+      "text": "pour dire « bon les gars, à un moment donné, c'est plus possible, tapez votre RIO »."
+    },
+    {
+      "id": 282,
+      "start": 856.34,
+      "end": 860.14,
+      "start_timestamp": "00:14:16.340",
+      "end_timestamp": "00:14:20.140",
+      "text": "Eh bien, sa décision n'est toujours pas entièrement appliquée."
+    },
+    {
+      "id": 283,
+      "start": 860.14,
+      "end": 861.54,
+      "start_timestamp": "00:14:20.140",
+      "end_timestamp": "00:14:21.540",
+      "text": "Suffit de voir les images de policiers."
+    },
+    {
+      "id": 284,
+      "start": 861.54,
+      "end": 865.5,
+      "start_timestamp": "00:14:21.540",
+      "end_timestamp": "00:14:25.500",
+      "text": "On leur dit, on leur explique, vous n'avez pas votre identifié en votre RIO."
+    },
+    {
+      "id": 285,
+      "start": 865.5,
+      "end": 866.98,
+      "start_timestamp": "00:14:25.500",
+      "end_timestamp": "00:14:26.980",
+      "text": "Limite, on se fait insulter."
+    },
+    {
+      "id": 286,
+      "start": 866.98,
+      "end": 869.02,
+      "start_timestamp": "00:14:26.980",
+      "end_timestamp": "00:14:29.020",
+      "text": "Est-ce que ce sont encore des policiers ?"
+    },
+    {
+      "id": 287,
+      "start": 869.02,
+      "end": 874.66,
+      "start_timestamp": "00:14:29.020",
+      "end_timestamp": "00:14:34.660",
+      "text": "Gérald Darmanin, lui-même au Sénat, qui dit « c'est effectivement contraire aux règles »."
+    },
+    {
+      "id": 288,
+      "start": 874.66,
+      "end": 877.74,
+      "start_timestamp": "00:14:34.660",
+      "end_timestamp": "00:14:37.740",
+      "text": "Vous savez, tous ces policiers qui ont le visage à chaque fois caché,"
+    },
+    {
+      "id": 289,
+      "start": 877.74,
+      "end": 879.1,
+      "start_timestamp": "00:14:37.740",
+      "end_timestamp": "00:14:39.100",
+      "text": "c'est interdit par la loi."
+    },
+    {
+      "id": 290,
+      "start": 879.1,
+      "end": 883.06,
+      "start_timestamp": "00:14:39.100",
+      "end_timestamp": "00:14:43.060",
+      "text": "Un policier ne peut pas cacher son visage avec une cagoule en maintien de l'ordre."
+    },
+    {
+      "id": 291,
+      "start": 883.06,
+      "end": 885.02,
+      "start_timestamp": "00:14:43.060",
+      "end_timestamp": "00:14:45.020",
+      "text": "C'est ce que rappelle le défenseur des droits."
+    },
+    {
+      "id": 292,
+      "start": 885.02,
+      "end": 887.98,
+      "start_timestamp": "00:14:45.020",
+      "end_timestamp": "00:14:47.980",
+      "text": "A manifester en masqué son motif légitime dans une manif ?"
+    },
+    {
+      "id": 293,
+      "start": 887.98,
+      "end": 892.5,
+      "start_timestamp": "00:14:47.980",
+      "end_timestamp": "00:14:52.500",
+      "text": "Eh bien lui, de son côté, par contre, il risque un an de prison et 15 000 euros d'amende."
+    },
+    {
+      "id": 294,
+      "start": 892.5,
+      "end": 895.14,
+      "start_timestamp": "00:14:52.500",
+      "end_timestamp": "00:14:55.140",
+      "text": "On est face à un deux poids de mesure qui est quand même immense."
+    },
+    {
+      "id": 295,
+      "start": 895.14,
+      "end": 896.78,
+      "start_timestamp": "00:14:55.140",
+      "end_timestamp": "00:14:56.780",
+      "text": "Et donc maintenant, je vais les cacher dans mes mots."
+    },
+    {
+      "id": 296,
+      "start": 896.78,
+      "end": 904.69,
+      "start_timestamp": "00:14:56.780",
+      "end_timestamp": "00:15:04.690",
+      "text": "Sommes-nous face à des policiers ou face à une garde prétorienne ?"
+    },
+    {
+      "id": 297,
+      "start": 904.69,
+      "end": 908.09,
+      "start_timestamp": "00:15:04.690",
+      "end_timestamp": "00:15:08.090",
+      "text": "Et les pratiques illégales, ce n'est pas moi qui le dis, c'est la justice."
+    },
+    {
+      "id": 298,
+      "start": 908.09,
+      "end": 911.49,
+      "start_timestamp": "00:15:08.090",
+      "end_timestamp": "00:15:11.490",
+      "text": "En 2021, le Conseil d'État annule la règle sur la NAS."
+    },
+    {
+      "id": 299,
+      "start": 911.49,
+      "end": 916.33,
+      "start_timestamp": "00:15:11.490",
+      "end_timestamp": "00:15:16.330",
+      "text": "C'est quand la police encercle une partie du cortège et ne laisse plus personne sortir."
+    },
+    {
+      "id": 300,
+      "start": 916.33,
+      "end": 918.37,
+      "start_timestamp": "00:15:16.330",
+      "end_timestamp": "00:15:18.370",
+      "text": "Parfois, pendant des heures."
+    },
+    {
+      "id": 301,
+      "start": 918.41,
+      "end": 921.25,
+      "start_timestamp": "00:15:18.410",
+      "end_timestamp": "00:15:21.250",
+      "text": "Ça fait 35 ans que je vis entre République et Nation."
+    },
+    {
+      "id": 302,
+      "start": 921.25,
+      "end": 926.17,
+      "start_timestamp": "00:15:21.250",
+      "end_timestamp": "00:15:26.170",
+      "text": "J'en ai vu les manifs et j'ai été à deux reprises prises dans des NAS."
+    },
+    {
+      "id": 303,
+      "start": 926.17,
+      "end": 927.65,
+      "start_timestamp": "00:15:26.170",
+      "end_timestamp": "00:15:27.650",
+      "text": "On est coincés."
+    },
+    {
+      "id": 304,
+      "start": 927.65,
+      "end": 931.97,
+      "start_timestamp": "00:15:27.650",
+      "end_timestamp": "00:15:31.970",
+      "text": "Les CRS-TIR, ils sont à un mètre de nous et ils envoient des..."
+    },
+    {
+      "id": 305,
+      "start": 931.97,
+      "end": 933.09,
+      "start_timestamp": "00:15:31.970",
+      "end_timestamp": "00:15:33.090",
+      "text": "Je ne sais même pas comment ça s'appelle."
+    },
+    {
+      "id": 306,
+      "start": 933.09,
+      "end": 934.97,
+      "start_timestamp": "00:15:33.090",
+      "end_timestamp": "00:15:34.970",
+      "text": "Ça fait un bruit infernal."
+    },
+    {
+      "id": 307,
+      "start": 934.97,
+      "end": 936.93,
+      "start_timestamp": "00:15:34.970",
+      "end_timestamp": "00:15:36.930",
+      "text": "Ils sont là avec leurs drones à piloter."
+    },
+    {
+      "id": 308,
+      "start": 936.93,
+      "end": 939.61,
+      "start_timestamp": "00:15:36.930",
+      "end_timestamp": "00:15:39.610",
+      "text": "Enfin, c'est effrayant."
+    },
+    {
+      "id": 309,
+      "start": 939.61,
+      "end": 941.37,
+      "start_timestamp": "00:15:39.610",
+      "end_timestamp": "00:15:41.370",
+      "text": "C'est de les prendre pour du gibier."
+    },
+    {
+      "id": 310,
+      "start": 941.37,
+      "end": 943.01,
+      "start_timestamp": "00:15:41.370",
+      "end_timestamp": "00:15:43.010",
+      "text": "On nous a pris pour du gibier."
+    },
+    {
+      "id": 311,
+      "start": 943.01,
+      "end": 946.61,
+      "start_timestamp": "00:15:43.010",
+      "end_timestamp": "00:15:46.610",
+      "text": "Dès qu'on pouvait se reposer à un moment dans une rue, hop !"
+    },
+    {
+      "id": 312,
+      "start": 946.61,
+      "end": 950.69,
+      "start_timestamp": "00:15:46.610",
+      "end_timestamp": "00:15:50.690",
+      "text": "Il y avait des gaz, des gens suffoquaient."
+    },
+    {
+      "id": 313,
+      "start": 950.69,
+      "end": 952.77,
+      "start_timestamp": "00:15:50.690",
+      "end_timestamp": "00:15:52.770",
+      "text": "J'ai jamais vécu un truc pareil."
+    },
+    {
+      "id": 314,
+      "start": 952.77,
+      "end": 955.89,
+      "start_timestamp": "00:15:52.770",
+      "end_timestamp": "00:15:55.890",
+      "text": "La règle n'était pas assez encadrée et en 2023,"
+    },
+    {
+      "id": 315,
+      "start": 955.89,
+      "end": 960.97,
+      "start_timestamp": "00:15:55.890",
+      "end_timestamp": "00:16:00.970",
+      "text": "ils jugent que les contrôles discriminatoires ne sont pas des cas isolés."
+    },
+    {
+      "id": 316,
+      "start": 960.97,
+      "end": 963.65,
+      "start_timestamp": "00:16:00.970",
+      "end_timestamp": "00:16:03.650",
+      "text": "En 2025, il y a même la Cour européenne des droits de l'homme"
+    },
+    {
+      "id": 317,
+      "start": 963.65,
+      "end": 966.97,
+      "start_timestamp": "00:16:03.650",
+      "end_timestamp": "00:16:06.970",
+      "text": "qui a condamné la France pour le contrôle aux faciès."
+    },
+    {
+      "id": 318,
+      "start": 966.97,
+      "end": 971.57,
+      "start_timestamp": "00:16:06.970",
+      "end_timestamp": "00:16:11.570",
+      "text": "De 2020 à 2021, on a formé des policiers en 8 mois au lieu de 12 mois."
+    },
+    {
+      "id": 319,
+      "start": 971.57,
+      "end": 975.17,
+      "start_timestamp": "00:16:11.570",
+      "end_timestamp": "00:16:15.170",
+      "text": "Le ministère écrit lui-même que ça n'a pas été probant."
+    },
+    {
+      "id": 320,
+      "start": 975.21,
+      "end": 978.17,
+      "start_timestamp": "00:16:15.210",
+      "end_timestamp": "00:16:18.170",
+      "text": "Et selon le CELIPOV, et c'est ça qui fait froid dans le dos,"
+    },
+    {
+      "id": 321,
+      "start": 978.17,
+      "end": 984.57,
+      "start_timestamp": "00:16:18.170",
+      "end_timestamp": "00:16:24.570",
+      "text": "deux policiers et militaires sur trois ont voté RN au second tour des législatives de 2024"
+    },
+    {
+      "id": 322,
+      "start": 984.57,
+      "end": 988.37,
+      "start_timestamp": "00:16:24.570",
+      "end_timestamp": "00:16:28.370",
+      "text": "sur un échantillon de 208 personnes, je le précise."
+    },
+    {
+      "id": 323,
+      "start": 988.37,
+      "end": 991.53,
+      "start_timestamp": "00:16:28.370",
+      "end_timestamp": "00:16:31.530",
+      "text": "Alors, avec ces informations-là, je vous le répète,"
+    },
+    {
+      "id": 324,
+      "start": 991.53,
+      "end": 994.05,
+      "start_timestamp": "00:16:31.530",
+      "end_timestamp": "00:16:34.050",
+      "text": "je vous le demande, dites-moi votre avis en commentaire."
+    },
+    {
+      "id": 325,
+      "start": 994.05,
+      "end": 999.05,
+      "start_timestamp": "00:16:34.050",
+      "end_timestamp": "00:16:39.050",
+      "text": "Est-ce qu'il s'agit toujours aujourd'hui de la police ou d'une garde prétorienne ?"
+    },
+    {
+      "id": 326,
+      "start": 999.05,
+      "end": 1001.77,
+      "start_timestamp": "00:16:39.050",
+      "end_timestamp": "00:16:41.770",
+      "text": "Je vous remets la définition de c'est quoi une garde prétorienne"
+    },
+    {
+      "id": 327,
+      "start": 1001.77,
+      "end": 1004.53,
+      "start_timestamp": "00:16:41.770",
+      "end_timestamp": "00:16:44.530",
+      "text": "pour que l'on comprenne bien ce qu'est en train de se passer."
+    },
+    {
+      "id": 328,
+      "start": 1007.13,
+      "end": 1008.53,
+      "start_timestamp": "00:16:47.130",
+      "end_timestamp": "00:16:48.530",
+      "text": "Après, on carousèle peut-être."
+    },
+    {
+      "id": 329,
+      "start": 1008.53,
+      "end": 1012.22,
+      "start_timestamp": "00:16:48.530",
+      "end_timestamp": "00:16:52.220",
+      "text": "Je suis bien retour, retour."
+    },
+    {
+      "id": 330,
+      "start": 1012.22,
+      "end": 1013.62,
+      "start_timestamp": "00:16:52.220",
+      "end_timestamp": "00:16:53.620",
+      "text": "Bon, bon courage."
+    },
+    {
+      "id": 331,
+      "start": 1013.62,
+      "end": 1020.83,
+      "start_timestamp": "00:16:53.620",
+      "end_timestamp": "00:17:00.830",
+      "text": "Allez !"
+    },
+    {
+      "id": 332,
+      "start": 1020.83,
+      "end": 1022.23,
+      "start_timestamp": "00:17:00.830",
+      "end_timestamp": "00:17:02.230",
+      "text": "Tu sais quel âge est-il ?"
+    },
+    {
+      "id": 333,
+      "start": 1022.23,
+      "end": 1025.67,
+      "start_timestamp": "00:17:02.230",
+      "end_timestamp": "00:17:05.670",
+      "text": "C'est vous qui avez fait ça à ce gamin, c'est moi qui l'ai soigné, d'accord ?"
+    },
+    {
+      "id": 334,
+      "start": 1025.67,
+      "end": 1027.63,
+      "start_timestamp": "00:17:05.670",
+      "end_timestamp": "00:17:07.630",
+      "text": "C'est moi qui l'ai soigné."
+    },
+    {
+      "id": 335,
+      "start": 1027.63,
+      "end": 1029.95,
+      "start_timestamp": "00:17:07.630",
+      "end_timestamp": "00:17:09.950",
+      "text": "Donc faites un peu d'efforts, un minimum."
+    },
+    {
+      "id": 336,
+      "start": 1029.95,
+      "end": 1033.03,
+      "start_timestamp": "00:17:09.950",
+      "end_timestamp": "00:17:13.030",
+      "text": "On ne vous a rien fait, on essaye juste de défendre nos droits."
+    },
+    {
+      "id": 337,
+      "start": 1033.03,
+      "end": 1034.35,
+      "start_timestamp": "00:17:13.030",
+      "end_timestamp": "00:17:14.350",
+      "text": "Maintenant, vous, vous nous cassez la gueule,"
+    },
+    {
+      "id": 338,
+      "start": 1034.35,
+      "end": 1036.79,
+      "start_timestamp": "00:17:14.350",
+      "end_timestamp": "00:17:16.790",
+      "text": "alors que le gamin, c'est vous qui l'avez cassé la gueule."
+    },
+    {
+      "id": 339,
+      "start": 1036.79,
+      "end": 1039.07,
+      "start_timestamp": "00:17:16.790",
+      "end_timestamp": "00:17:19.070",
+      "text": "Moi, j'essaie de soigner le gamin."
+    },
+    {
+      "id": 340,
+      "start": 1039.07,
+      "end": 1041.11,
+      "start_timestamp": "00:17:19.070",
+      "end_timestamp": "00:17:21.110",
+      "text": "Donc, arrêtez de faire les fous."
+    },
+    {
+      "id": 341,
+      "start": 1041.11,
+      "end": 1042.83,
+      "start_timestamp": "00:17:21.110",
+      "end_timestamp": "00:17:22.830",
+      "text": "Arrêtez !"
+    },
+    {
+      "id": 342,
+      "start": 1042.83,
+      "end": 1045.71,
+      "start_timestamp": "00:17:22.830",
+      "end_timestamp": "00:17:25.710",
+      "text": "J'aurais pu être ta fille, tu veux que je crève ?"
+    },
+    {
+      "id": 343,
+      "start": 1045.75,
+      "end": 1047.55,
+      "start_timestamp": "00:17:25.750",
+      "end_timestamp": "00:17:27.550",
+      "text": "Tu veux que je crève ?"
+    },
+    {
+      "id": 344,
+      "start": 1048.55,
+      "end": 1049.27,
+      "start_timestamp": "00:17:28.550",
+      "end_timestamp": "00:17:29.270",
+      "text": "C'est foc ?"
+    },
+    {
+      "id": 345,
+      "start": 1049.27,
+      "end": 1050.91,
+      "start_timestamp": "00:17:29.270",
+      "end_timestamp": "00:17:30.910",
+      "text": "Les gars, on ne se discute pas."
+    },
+    {
+      "id": 346,
+      "start": 1050.91,
+      "end": 1052.63,
+      "start_timestamp": "00:17:30.910",
+      "end_timestamp": "00:17:32.630",
+      "text": "On est là pour te donner un truc à ce que tu aies vu."
+    },
+    {
+      "id": 347,
+      "start": 1052.63,
+      "end": 1053.23,
+      "start_timestamp": "00:17:32.630",
+      "end_timestamp": "00:17:33.230",
+      "text": "Tu ?"
+    },
+    {
+      "id": 348,
+      "start": 1053.23,
+      "end": 1054.51,
+      "start_timestamp": "00:17:33.230",
+      "end_timestamp": "00:17:34.510",
+      "text": "Attends, allez !"
+    },
+    {
+      "id": 349,
+      "start": 1056.15,
+      "end": 1058.35,
+      "start_timestamp": "00:17:36.150",
+      "end_timestamp": "00:17:38.350",
+      "text": "Alors, je ne dis pas que chaque policier est comme ça."
+    },
+    {
+      "id": 350,
+      "start": 1058.35,
+      "end": 1060.75,
+      "start_timestamp": "00:17:38.350",
+      "end_timestamp": "00:17:40.750",
+      "text": "Il y a des policiers blessés ce soir, certainement."
+    },
+    {
+      "id": 351,
+      "start": 1060.75,
+      "end": 1061.71,
+      "start_timestamp": "00:17:40.750",
+      "end_timestamp": "00:17:41.710",
+      "text": "Et ça compte aussi."
+    },
+    {
+      "id": 352,
+      "start": 1061.71,
+      "end": 1064.79,
+      "start_timestamp": "00:17:41.710",
+      "end_timestamp": "00:17:44.790",
+      "text": "Ça reste des humains avec un cœur et sans doute que beaucoup"
+    },
+    {
+      "id": 353,
+      "start": 1064.79,
+      "end": 1067.51,
+      "start_timestamp": "00:17:44.790",
+      "end_timestamp": "00:17:47.510",
+      "text": "se rendent compte qu'ils ne sont plus vraiment là"
+    },
+    {
+      "id": 354,
+      "start": 1067.51,
+      "end": 1070.07,
+      "start_timestamp": "00:17:47.510",
+      "end_timestamp": "00:17:50.070",
+      "text": "ou qu'ils n'ont vraiment jamais été là pour protéger les citoyens,"
+    },
+    {
+      "id": 355,
+      "start": 1070.07,
+      "end": 1072.91,
+      "start_timestamp": "00:17:50.070",
+      "end_timestamp": "00:17:52.910",
+      "text": "mais juste les intérêts des élites bourgeoises et leurs privilèges."
+    },
+    {
+      "id": 356,
+      "start": 1072.91,
+      "end": 1074.35,
+      "start_timestamp": "00:17:52.910",
+      "end_timestamp": "00:17:54.350",
+      "text": "Un peu comme toujours dans l'histoire."
+    },
+    {
+      "id": 357,
+      "start": 1074.39,
+      "end": 1076.47,
+      "start_timestamp": "00:17:54.390",
+      "end_timestamp": "00:17:56.470",
+      "text": "Et que tout doucement et sûrement, ils commencent à en faire des barnautes"
+    },
+    {
+      "id": 358,
+      "start": 1076.47,
+      "end": 1077.95,
+      "start_timestamp": "00:17:56.470",
+      "end_timestamp": "00:17:57.950",
+      "text": "et à se dire, je ferais bien de me barrer la police"
+    },
+    {
+      "id": 359,
+      "start": 1077.95,
+      "end": 1079.87,
+      "start_timestamp": "00:17:57.950",
+      "end_timestamp": "00:17:59.870",
+      "text": "parce que je me rends compte que c'est du n'importe quoi."
+    },
+    {
+      "id": 360,
+      "start": 1079.87,
+      "end": 1082.15,
+      "start_timestamp": "00:17:59.870",
+      "end_timestamp": "00:18:02.150",
+      "text": "Tout comme il y en a d'autres qui kiffent, qui adorent ça,"
+    },
+    {
+      "id": 361,
+      "start": 1082.15,
+      "end": 1085.63,
+      "start_timestamp": "00:18:02.150",
+      "end_timestamp": "00:18:05.630",
+      "text": "qui limitent en fait, on retire un certain plaisir et qui ont,"
+    },
+    {
+      "id": 362,
+      "start": 1085.63,
+      "end": 1089.55,
+      "start_timestamp": "00:18:05.630",
+      "end_timestamp": "00:18:09.550",
+      "text": "comme ça a fruité dans pas mal de conversations et de vidéos,"
+    },
+    {
+      "id": 363,
+      "start": 1089.55,
+      "end": 1093.47,
+      "start_timestamp": "00:18:09.550",
+      "end_timestamp": "00:18:13.470",
+      "text": "des penchants, des fascistes et racistes et qui vont dans la police"
+    },
+    {
+      "id": 364,
+      "start": 1093.47,
+      "end": 1096.67,
+      "start_timestamp": "00:18:13.470",
+      "end_timestamp": "00:18:16.670",
+      "text": "pour espérer casser du noir de l'arabe ou des femmes."
+    },
+    {
+      "id": 365,
+      "start": 1096.67,
+      "end": 1100.99,
+      "start_timestamp": "00:18:16.670",
+      "end_timestamp": "00:18:20.990",
+      "text": "Mais pour moi, l'ensemble, c'est une dérive vers un état policier."
+    },
+    {
+      "id": 366,
+      "start": 1100.99,
+      "end": 1104.03,
+      "start_timestamp": "00:18:20.990",
+      "end_timestamp": "00:18:24.030",
+      "text": "Pas encore un régime, mais la volonté."
+    },
+    {
+      "id": 367,
+      "start": 1104.07,
+      "end": 1106.43,
+      "start_timestamp": "00:18:24.070",
+      "end_timestamp": "00:18:26.430",
+      "text": "Somblent s'en rapprocher de plus en plus."
+    },
+    {
+      "id": 368,
+      "start": 1107.07,
+      "end": 1109.23,
+      "start_timestamp": "00:18:27.070",
+      "end_timestamp": "00:18:29.230",
+      "text": "Alors la réponse du gouvernement, c'était quoi ?"
+    },
+    {
+      "id": 369,
+      "start": 1109.23,
+      "end": 1111.39,
+      "start_timestamp": "00:18:29.230",
+      "end_timestamp": "00:18:31.390",
+      "text": "Par rapport à ces manifestants qui sont faits taper,"
+    },
+    {
+      "id": 370,
+      "start": 1111.39,
+      "end": 1113.79,
+      "start_timestamp": "00:18:31.390",
+      "end_timestamp": "00:18:33.790",
+      "text": "des gens qui étaient juste là, qui sont faits gazer ?"
+    },
+    {
+      "id": 371,
+      "start": 1113.79,
+      "end": 1117.11,
+      "start_timestamp": "00:18:33.790",
+      "end_timestamp": "00:18:37.110",
+      "text": "Eh bien la réponse du gouvernement a été une loi qu'a sort payeur."
+    },
+    {
+      "id": 372,
+      "start": 1117.11,
+      "end": 1118.79,
+      "start_timestamp": "00:18:37.110",
+      "end_timestamp": "00:18:38.790",
+      "text": "Voilà, super."
+    },
+    {
+      "id": 373,
+      "start": 1118.79,
+      "end": 1121.03,
+      "start_timestamp": "00:18:38.790",
+      "end_timestamp": "00:18:41.030",
+      "text": "Au Sénat, les 27 et 28 octobre, c'est prévu,"
+    },
+    {
+      "id": 374,
+      "start": 1121.03,
+      "end": 1124.07,
+      "start_timestamp": "00:18:41.030",
+      "end_timestamp": "00:18:44.070",
+      "text": "jusqu'à 10 000 euros à payer solidairement"
+    },
+    {
+      "id": 375,
+      "start": 1124.07,
+      "end": 1129.11,
+      "start_timestamp": "00:18:44.070",
+      "end_timestamp": "00:18:49.110",
+      "text": "si vous êtes restés volontairement dans un attroupement après les sommations."
+    },
+    {
+      "id": 376,
+      "start": 1129.11,
+      "end": 1133.79,
+      "start_timestamp": "00:18:49.110",
+      "end_timestamp": "00:18:53.790",
+      "text": "Attention, attention, vous participez à un attroupement."
+    },
+    {
+      "id": 377,
+      "start": 1133.79,
+      "end": 1137.71,
+      "start_timestamp": "00:18:53.790",
+      "end_timestamp": "00:18:57.710",
+      "text": "Obeïscence à la loi, vous devez vous disperser et quitter les lieux."
+    },
+    {
+      "id": 378,
+      "start": 1139.47,
+      "end": 1142.51,
+      "start_timestamp": "00:18:59.470",
+      "end_timestamp": "00:19:02.510",
+      "text": "Là vous nous avez gazé, il n'y a aucune sortie là-bas, je viens d'y aller."
+    },
+    {
+      "id": 379,
+      "start": 1142.51,
+      "end": 1147.91,
+      "start_timestamp": "00:19:02.510",
+      "end_timestamp": "00:19:07.910",
+      "text": "Première sommation, vous allez nous faire usage de la force, quittez immédiatement les lieux."
+    },
+    {
+      "id": 380,
+      "start": 1147.91,
+      "end": 1152.95,
+      "start_timestamp": "00:19:07.910",
+      "end_timestamp": "00:19:12.950",
+      "text": "Première sommation, vous allez nous faire usage de la force, quittez immédiatement les lieux."
+    },
+    {
+      "id": 381,
+      "start": 1152.95,
+      "end": 1154.95,
+      "start_timestamp": "00:19:12.950",
+      "end_timestamp": "00:19:14.950",
+      "text": "Bonjour, il n'est pas le premier."
+    },
+    {
+      "id": 382,
+      "start": 1154.95,
+      "end": 1156.95,
+      "start_timestamp": "00:19:14.950",
+      "end_timestamp": "00:19:16.950",
+      "text": "Je sais, j'en viens, il n'y a pas de sortie là-bas."
+    },
+    {
+      "id": 383,
+      "start": 1156.95,
+      "end": 1159.31,
+      "start_timestamp": "00:19:16.950",
+      "end_timestamp": "00:19:19.310",
+      "text": "Faire encercler par les CRS, ça fait peur à tout le monde,"
+    },
+    {
+      "id": 384,
+      "start": 1159.31,
+      "end": 1160.75,
+      "start_timestamp": "00:19:19.310",
+      "end_timestamp": "00:19:20.750",
+      "text": "sauf à ceux qui connaissent la règle."
+    },
+    {
+      "id": 385,
+      "start": 1160.75,
+      "end": 1162.59,
+      "start_timestamp": "00:19:20.750",
+      "end_timestamp": "00:19:22.590",
+      "text": "Ce cercle de CRS, ça s'appelle une nasse,"
+    },
+    {
+      "id": 386,
+      "start": 1162.59,
+      "end": 1165.51,
+      "start_timestamp": "00:19:22.590",
+      "end_timestamp": "00:19:25.510",
+      "text": "c'est comme un piège à poisson, quand tu rentres dedans, tu ressors plus."
+    },
+    {
+      "id": 387,
+      "start": 1165.51,
+      "end": 1169.07,
+      "start_timestamp": "00:19:25.510",
+      "end_timestamp": "00:19:29.070",
+      "text": "Mais la règlement est claire, une nasse, c'est seulement pour stopper les violences graves."
+    },
+    {
+      "id": 388,
+      "start": 1169.07,
+      "end": 1171.07,
+      "start_timestamp": "00:19:29.070",
+      "end_timestamp": "00:19:31.070",
+      "text": "Et même là, ils sont obligés de te laisser une porte de sortie."
+    },
+    {
+      "id": 389,
+      "start": 1171.07,
+      "end": 1173.07,
+      "start_timestamp": "00:19:31.070",
+      "end_timestamp": "00:19:33.070",
+      "text": "Tu ne supplie pas, tu exiges."
+    },
+    {
+      "id": 390,
+      "start": 1173.07,
+      "end": 1175.87,
+      "start_timestamp": "00:19:33.070",
+      "end_timestamp": "00:19:35.870",
+      "text": "Téléphone à main, caméra sur eux, où est la porte de sortie ?"
+    },
+    {
+      "id": 391,
+      "start": 1175.87,
+      "end": 1178.83,
+      "start_timestamp": "00:19:35.870",
+      "end_timestamp": "00:19:38.830",
+      "text": "Et je précise bien, même sans avoir cassé vous-même."
+    },
+    {
+      "id": 392,
+      "start": 1178.83,
+      "end": 1182.51,
+      "start_timestamp": "00:19:38.830",
+      "end_timestamp": "00:19:42.510",
+      "text": "Genre vous êtes sorti de chez un pote, vous avez joué à GTA, vous vous retrouvez au milieu d'un truc,"
+    },
+    {
+      "id": 393,
+      "start": 1182.51,
+      "end": 1186.27,
+      "start_timestamp": "00:19:42.510",
+      "end_timestamp": "00:19:46.270",
+      "text": "il y a eu une sommation, vous n'avez pas entendu, c'est le bordel, il y a des tirs de LBD en l'air,"
+    },
+    {
+      "id": 394,
+      "start": 1186.27,
+      "end": 1189.59,
+      "start_timestamp": "00:19:46.270",
+      "end_timestamp": "00:19:49.590",
+      "text": "vous vous retrouvez là-dedans, vous êtes chopé, bim, 10 000 euros d'amende."
+    },
+    {
+      "id": 395,
+      "start": 1189.63,
+      "end": 1191.43,
+      "start_timestamp": "00:19:49.630",
+      "end_timestamp": "00:19:51.430",
+      "text": "Tout ça, c'est pour vous faire peur."
+    },
+    {
+      "id": 396,
+      "start": 1191.43,
+      "end": 1195.99,
+      "start_timestamp": "00:19:51.430",
+      "end_timestamp": "00:19:55.990",
+      "text": "Et je précise que ce texte-là, casseur-payeur, il a été déposé le 16 septembre,"
+    },
+    {
+      "id": 397,
+      "start": 1195.99,
+      "end": 1200.07,
+      "start_timestamp": "00:19:55.990",
+      "end_timestamp": "00:20:00.070",
+      "text": "au moment où la colère des lycéens commençait à anonter."
+    },
+    {
+      "id": 398,
+      "start": 1200.07,
+      "end": 1205.19,
+      "start_timestamp": "00:20:00.070",
+      "end_timestamp": "00:20:05.190",
+      "text": "Avant même le début du mouvement en fait."
+    },
+    {
+      "id": 399,
+      "start": 1205.19,
+      "end": 1207.19,
+      "start_timestamp": "00:20:05.190",
+      "end_timestamp": "00:20:07.190",
+      "text": "Maintenant, ce qu'ils ont dit."
+    },
+    {
+      "id": 400,
+      "start": 1207.19,
+      "end": 1211.35,
+      "start_timestamp": "00:20:07.190",
+      "end_timestamp": "00:20:11.350",
+      "text": "Et là, on va prendre le temps d'analyser tout ça au calme, avec bien sûr les preuves."
+    },
+    {
+      "id": 401,
+      "start": 1211.35,
+      "end": 1212.63,
+      "start_timestamp": "00:20:11.350",
+      "end_timestamp": "00:20:12.630",
+      "text": "Car ils vous ont menti."
+    },
+    {
+      "id": 402,
+      "start": 1212.63,
+      "end": 1214.63,
+      "start_timestamp": "00:20:12.630",
+      "end_timestamp": "00:20:14.630",
+      "text": "Jordan Mardella, 14h35."
+    },
+    {
+      "id": 403,
+      "start": 1214.63,
+      "end": 1218.39,
+      "start_timestamp": "00:20:14.630",
+      "end_timestamp": "00:20:18.390",
+      "text": "Seuls les professionnels du KO se sont donné rendez-vous pour attaquer les forces de l'ordre."
+    },
+    {
+      "id": 404,
+      "start": 1218.39,
+      "end": 1219.27,
+      "start_timestamp": "00:20:18.390",
+      "end_timestamp": "00:20:19.270",
+      "text": "C'est faux."
+    },
+    {
+      "id": 405,
+      "start": 1219.27,
+      "end": 1224.47,
+      "start_timestamp": "00:20:19.270",
+      "end_timestamp": "00:20:24.470",
+      "text": "Le ministère compte donc 550 000 manifestants pour 1 200 interpellations."
+    },
+    {
+      "id": 406,
+      "start": 1224.47,
+      "end": 1226.47,
+      "start_timestamp": "00:20:24.470",
+      "end_timestamp": "00:20:26.470",
+      "text": "Donc 1,2%."
+    },
+    {
+      "id": 407,
+      "start": 1226.47,
+      "end": 1229.51,
+      "start_timestamp": "00:20:26.470",
+      "end_timestamp": "00:20:29.510",
+      "text": "Le même, Mardella toujours, 18h15."
+    },
+    {
+      "id": 408,
+      "start": 1229.51,
+      "end": 1234.15,
+      "start_timestamp": "00:20:29.510",
+      "end_timestamp": "00:20:34.150",
+      "text": "Le 17 aurait été le prétexte à la convergence d'un terrorisme d'ultra-gauche"
+    },
+    {
+      "id": 409,
+      "start": 1234.15,
+      "end": 1236.63,
+      "start_timestamp": "00:20:34.150",
+      "end_timestamp": "00:20:36.630",
+      "text": "et de population délinquante de banlieues."
+    },
+    {
+      "id": 410,
+      "start": 1236.63,
+      "end": 1238.71,
+      "start_timestamp": "00:20:36.630",
+      "end_timestamp": "00:20:38.710",
+      "text": "Ouh, manipulation les amis."
+    },
+    {
+      "id": 411,
+      "start": 1238.71,
+      "end": 1241.27,
+      "start_timestamp": "00:20:38.710",
+      "end_timestamp": "00:20:41.270",
+      "text": "Aucune enquête anti-terroriste relevée."
+    },
+    {
+      "id": 412,
+      "start": 1241.27,
+      "end": 1243.59,
+      "start_timestamp": "00:20:41.270",
+      "end_timestamp": "00:20:43.590",
+      "text": "Aucune donnée publique sur l'origine des interpellés."
+    },
+    {
+      "id": 413,
+      "start": 1243.59,
+      "end": 1247.75,
+      "start_timestamp": "00:20:43.590",
+      "end_timestamp": "00:20:47.750",
+      "text": "Et bien c'est une news, le met carrément en titre, en lettre capitale."
+    },
+    {
+      "id": 414,
+      "start": 1247.83,
+      "end": 1251.27,
+      "start_timestamp": "00:20:47.830",
+      "end_timestamp": "00:20:51.270",
+      "text": "Là, bandeau juste en dessous, sans contradiction sur plateau."
+    },
+    {
+      "id": 415,
+      "start": 1251.27,
+      "end": 1254.07,
+      "start_timestamp": "00:20:51.270",
+      "end_timestamp": "00:20:54.070",
+      "text": "Sébastien Lecornu, le premier ministre, 18h."
+    },
+    {
+      "id": 416,
+      "start": 1254.07,
+      "end": 1257.35,
+      "start_timestamp": "00:20:54.070",
+      "end_timestamp": "00:20:57.350",
+      "text": "Des groupes d'ultra-gauche ont organisé la violence."
+    },
+    {
+      "id": 417,
+      "start": 1257.35,
+      "end": 1260.79,
+      "start_timestamp": "00:20:57.350",
+      "end_timestamp": "00:21:00.790",
+      "text": "Encore une fois, il n'y a absolument aucune preuve publiée."
+    },
+    {
+      "id": 418,
+      "start": 1260.79,
+      "end": 1265.03,
+      "start_timestamp": "00:21:00.790",
+      "end_timestamp": "00:21:05.030",
+      "text": "Et dans le même message, il fait la promo de sa loi casseur-payeur."
+    },
+    {
+      "id": 419,
+      "start": 1265.03,
+      "end": 1266.87,
+      "start_timestamp": "00:21:05.030",
+      "end_timestamp": "00:21:06.870",
+      "text": "Inversion accusatoire."
+    },
+    {
+      "id": 420,
+      "start": 1266.87,
+      "end": 1270.47,
+      "start_timestamp": "00:21:06.870",
+      "end_timestamp": "00:21:10.470",
+      "text": "Et vers minuit, à la préfecture de police, il remet encore une couche."
+    },
+    {
+      "id": 421,
+      "start": 1270.47,
+      "end": 1274.31,
+      "start_timestamp": "00:21:10.470",
+      "end_timestamp": "00:21:14.310",
+      "text": "A la France Insoumise, il dit, c'est désormais le moment de choisir son camp."
+    },
+    {
+      "id": 422,
+      "start": 1274.31,
+      "end": 1276.23,
+      "start_timestamp": "00:21:14.310",
+      "end_timestamp": "00:21:16.230",
+      "text": "Voilà, comme d'hab, il faut qu'on criminalise."
+    },
+    {
+      "id": 423,
+      "start": 1276.23,
+      "end": 1279.91,
+      "start_timestamp": "00:21:16.230",
+      "end_timestamp": "00:21:19.910",
+      "text": "Il y a tout un mouvement, 0,2% voire 0,1% font les cons."
+    },
+    {
+      "id": 424,
+      "start": 1279.91,
+      "end": 1281.27,
+      "start_timestamp": "00:21:19.910",
+      "end_timestamp": "00:21:21.270",
+      "text": "Et on criminalise tout le monde."
+    },
+    {
+      "id": 425,
+      "start": 1281.27,
+      "end": 1284.79,
+      "start_timestamp": "00:21:21.270",
+      "end_timestamp": "00:21:24.790",
+      "text": "On délégitimise un mouvement d'une ampleur incroyable"
+    },
+    {
+      "id": 426,
+      "start": 1284.79,
+      "end": 1286.07,
+      "start_timestamp": "00:21:24.790",
+      "end_timestamp": "00:21:26.070",
+      "text": "qui existe pour des bonnes raisons."
+    },
+    {
+      "id": 427,
+      "start": 1286.07,
+      "end": 1286.95,
+      "start_timestamp": "00:21:26.070",
+      "end_timestamp": "00:21:26.950",
+      "text": "Je vais y revenir après."
+    },
+    {
+      "id": 428,
+      "start": 1286.95,
+      "end": 1289.27,
+      "start_timestamp": "00:21:26.950",
+      "end_timestamp": "00:21:29.270",
+      "text": "Et ben là, boum, ça y est, on commence à prendre les gens au cou"
+    },
+    {
+      "id": 429,
+      "start": 1289.27,
+      "end": 1291.27,
+      "start_timestamp": "00:21:29.270",
+      "end_timestamp": "00:21:31.270",
+      "text": "en leur disant, il faut que tu choisisses ton camp, il faut que tu choisisses."
+    },
+    {
+      "id": 430,
+      "start": 1291.27,
+      "end": 1292.87,
+      "start_timestamp": "00:21:31.270",
+      "end_timestamp": "00:21:32.870",
+      "text": "Attention, t'as vu, c'est des méchants."
+    },
+    {
+      "id": 431,
+      "start": 1292.87,
+      "end": 1295.99,
+      "start_timestamp": "00:21:32.870",
+      "end_timestamp": "00:21:35.990",
+      "text": "Alors que des gens ont marché dans toute la France et dans les domtums,"
+    },
+    {
+      "id": 432,
+      "start": 1295.99,
+      "end": 1299.43,
+      "start_timestamp": "00:21:35.990",
+      "end_timestamp": "00:21:39.430",
+      "text": "et que ça m'a mis des débordements dans d'autres pays comme la Belgique,"
+    },
+    {
+      "id": 433,
+      "start": 1299.43,
+      "end": 1302.23,
+      "start_timestamp": "00:21:39.430",
+      "end_timestamp": "00:21:42.230",
+      "text": "le premier ministre parle de devoir choisir son camp."
+    },
+    {
+      "id": 434,
+      "start": 1302.23,
+      "end": 1304.07,
+      "start_timestamp": "00:21:42.230",
+      "end_timestamp": "00:21:44.070",
+      "text": "Jean-Luc Mélenchon lui a répondu."
+    },
+    {
+      "id": 435,
+      "start": 1304.07,
+      "end": 1307.99,
+      "start_timestamp": "00:21:44.070",
+      "end_timestamp": "00:21:47.990",
+      "text": "À minuit, tout ce que le Cornu trouve à dire, c'est la faute à Eléphi."
+    },
+    {
+      "id": 436,
+      "start": 1307.99,
+      "end": 1309.99,
+      "start_timestamp": "00:21:47.990",
+      "end_timestamp": "00:21:49.990",
+      "text": "Emmanuel Macron, 19h54."
+    },
+    {
+      "id": 437,
+      "start": 1309.99,
+      "end": 1313.99,
+      "start_timestamp": "00:21:49.990",
+      "end_timestamp": "00:21:53.990",
+      "text": "Des semeurs de chaos qui ne cherchent qu'à abattre nos institutions."
+    },
+    {
+      "id": 438,
+      "start": 1313.99,
+      "end": 1318.15,
+      "start_timestamp": "00:21:53.990",
+      "end_timestamp": "00:21:58.150",
+      "text": "Et pas du tout un seul mot sur le gamin de Saint-Etienne qui a perdu sa main"
+    },
+    {
+      "id": 439,
+      "start": 1318.15,
+      "end": 1323.72,
+      "start_timestamp": "00:21:58.150",
+      "end_timestamp": "00:22:03.720",
+      "text": "et les images de violence qu'on a vu défarler."
+    },
+    {
+      "id": 440,
+      "start": 1323.72,
+      "end": 1326.76,
+      "start_timestamp": "00:22:03.720",
+      "end_timestamp": "00:22:06.760",
+      "text": "Macron et ses ministres sont en flippe totale."
+    },
+    {
+      "id": 441,
+      "start": 1326.76,
+      "end": 1330.04,
+      "start_timestamp": "00:22:06.760",
+      "end_timestamp": "00:22:10.040",
+      "text": "Ils ne veulent rien lâcher, ils ne veulent rien admettre."
+    },
+    {
+      "id": 442,
+      "start": 1330.04,
+      "end": 1335.0,
+      "start_timestamp": "00:22:10.040",
+      "end_timestamp": "00:22:15.000",
+      "text": "Ils sont littéralement dans une fuite en avant de sémantiques et de rhétoriques"
+    },
+    {
+      "id": 443,
+      "start": 1335.0,
+      "end": 1339.24,
+      "start_timestamp": "00:22:15.000",
+      "end_timestamp": "00:22:19.240",
+      "text": "pour justifier la violence de l'État contre des gens qui, certes, ont été violents,"
+    },
+    {
+      "id": 444,
+      "start": 1339.24,
+      "end": 1342.92,
+      "start_timestamp": "00:22:19.240",
+      "end_timestamp": "00:22:22.920",
+      "text": "mais dont les causes à la base, c'est une violence institutionnelle."
+    },
+    {
+      "id": 445,
+      "start": 1342.92,
+      "end": 1345.72,
+      "start_timestamp": "00:22:22.920",
+      "end_timestamp": "00:22:25.720",
+      "text": "C'est à se demander, avec toutes ces infos que je vous donne,"
+    },
+    {
+      "id": 446,
+      "start": 1345.72,
+      "end": 1347.96,
+      "start_timestamp": "00:22:25.720",
+      "end_timestamp": "00:22:27.960",
+      "text": "qui sont les vrais semeurs de chaos."
+    },
+    {
+      "id": 447,
+      "start": 1347.96,
+      "end": 1350.28,
+      "start_timestamp": "00:22:27.960",
+      "end_timestamp": "00:22:30.280",
+      "text": "Parce qu'allons maintenant du côté des plateaux télé."
+    },
+    {
+      "id": 448,
+      "start": 1350.28,
+      "end": 1355.24,
+      "start_timestamp": "00:22:30.280",
+      "end_timestamp": "00:22:35.240",
+      "text": "Sur CNews, Eric Ciotti, vous savez, la branche LR qui est en partenaire avec le RN,"
+    },
+    {
+      "id": 449,
+      "start": 1355.24,
+      "end": 1361.32,
+      "start_timestamp": "00:22:35.240",
+      "end_timestamp": "00:22:41.320",
+      "text": "accuse Victor Wembenyama d'avoir appelé à soutenir les émeutes."
+    },
+    {
+      "id": 450,
+      "start": 1361.32,
+      "end": 1362.92,
+      "start_timestamp": "00:22:41.320",
+      "end_timestamp": "00:22:42.920",
+      "text": "C'est littéralement faux."
+    },
+    {
+      "id": 451,
+      "start": 1362.92,
+      "end": 1368.68,
+      "start_timestamp": "00:22:42.920",
+      "end_timestamp": "00:22:48.680",
+      "text": "Le 8 octobre, Wembenyama parlait des lycéens en disant « je les entends et je les soutiens »,"
+    },
+    {
+      "id": 452,
+      "start": 1368.68,
+      "end": 1371.0,
+      "start_timestamp": "00:22:48.680",
+      "end_timestamp": "00:22:51.000",
+      "text": "comme 69% des Français, la majorité."
+    },
+    {
+      "id": 453,
+      "start": 1371.0,
+      "end": 1372.76,
+      "start_timestamp": "00:22:51.000",
+      "end_timestamp": "00:22:52.760",
+      "text": "En duplexe, sur CNews, un journaliste…"
+    },
+    {
+      "id": 454,
+      "start": 1372.76,
+      "end": 1377.24,
+      "start_timestamp": "00:22:52.760",
+      "end_timestamp": "00:22:57.240",
+      "text": "« Je crois que le mot d'insurrection est totalement légitime. »"
+    },
+    {
+      "id": 455,
+      "start": 1377.24,
+      "end": 1382.12,
+      "start_timestamp": "00:22:57.240",
+      "end_timestamp": "00:23:02.120",
+      "text": "Le même soir, on demande à Nunes si c'est une situation insurrectionnelle."
+    },
+    {
+      "id": 456,
+      "start": 1382.12,
+      "end": 1383.4,
+      "start_timestamp": "00:23:02.120",
+      "end_timestamp": "00:23:03.400",
+      "text": "Il répond que non."
+    },
+    {
+      "id": 457,
+      "start": 1383.4,
+      "end": 1386.6,
+      "start_timestamp": "00:23:03.400",
+      "end_timestamp": "00:23:06.600",
+      "text": "« Est-ce qu'au infinit, on peut parler d'une situation insurrectionnelle ? »"
+    },
+    {
+      "id": 458,
+      "start": 1386.6,
+      "end": 1389.48,
+      "start_timestamp": "00:23:06.600",
+      "end_timestamp": "00:23:09.480",
+      "text": "« Non, voilà, on a eu des émeutiers, on a eu des casseurs. »"
+    },
+    {
+      "id": 459,
+      "start": 1389.48,
+      "end": 1392.92,
+      "start_timestamp": "00:23:09.480",
+      "end_timestamp": "00:23:12.920",
+      "text": "C'est-à-dire que CNews est même dans l'invention de la rhétorique,"
+    },
+    {
+      "id": 460,
+      "start": 1392.92,
+      "end": 1394.68,
+      "start_timestamp": "00:23:12.920",
+      "end_timestamp": "00:23:14.680",
+      "text": "l'invention du discours."
+    },
+    {
+      "id": 461,
+      "start": 1394.68,
+      "end": 1398.92,
+      "start_timestamp": "00:23:14.680",
+      "end_timestamp": "00:23:18.920",
+      "text": "Il plante des mots pour essayer d'attiser davantage la colère,"
+    },
+    {
+      "id": 462,
+      "start": 1398.92,
+      "end": 1400.68,
+      "start_timestamp": "00:23:18.920",
+      "end_timestamp": "00:23:20.680",
+      "text": "pour séparer davantage les Français."
+    },
+    {
+      "id": 463,
+      "start": 1400.68,
+      "end": 1403.24,
+      "start_timestamp": "00:23:20.680",
+      "end_timestamp": "00:23:23.240",
+      "text": "Mais bon, on n'est pas obligé d'aller voir que dans le groupe Bolloré."
+    },
+    {
+      "id": 464,
+      "start": 1403.24,
+      "end": 1408.84,
+      "start_timestamp": "00:23:23.240",
+      "end_timestamp": "00:23:28.840",
+      "text": "France Info, service public, a annoncé que 9 personnes interpellées sur 10 étaient mineures à Paris."
+    },
+    {
+      "id": 465,
+      "start": 1408.84,
+      "end": 1409.48,
+      "start_timestamp": "00:23:28.840",
+      "end_timestamp": "00:23:29.480",
+      "text": "C'est faux."
+    },
+    {
+      "id": 466,
+      "start": 1409.48,
+      "end": 1412.84,
+      "start_timestamp": "00:23:29.480",
+      "end_timestamp": "00:23:32.840",
+      "text": "Alors maintenant, on va prendre les politiciens et on va les mettre côte à côte."
+    },
+    {
+      "id": 467,
+      "start": 1412.84,
+      "end": 1416.12,
+      "start_timestamp": "00:23:32.840",
+      "end_timestamp": "00:23:36.120",
+      "text": "Marine Tondelier, grosse pensée pour les centaines de milliers de personnes"
+    },
+    {
+      "id": 468,
+      "start": 1416.12,
+      "end": 1418.6,
+      "start_timestamp": "00:23:36.120",
+      "end_timestamp": "00:23:38.600",
+      "text": "qui ont manifesté dans le camp dans le calme et la joie."
+    },
+    {
+      "id": 469,
+      "start": 1418.6,
+      "end": 1424.04,
+      "start_timestamp": "00:23:38.600",
+      "end_timestamp": "00:23:44.040",
+      "text": "Jean-Luc Mélenchon, l'immense majorité du peuple venu massivement dans la rue est restée pacifique et déterminée."
+    },
+    {
+      "id": 470,
+      "start": 1424.04,
+      "end": 1427.08,
+      "start_timestamp": "00:23:44.040",
+      "end_timestamp": "00:23:47.080",
+      "text": "Pour l'instant, ils sont en train de parler de la majorité du mouvement."
+    },
+    {
+      "id": 471,
+      "start": 1427.08,
+      "end": 1428.52,
+      "start_timestamp": "00:23:47.080",
+      "end_timestamp": "00:23:48.520",
+      "text": "Et en face, qu'est-ce qui se passe ?"
+    },
+    {
+      "id": 472,
+      "start": 1428.52,
+      "end": 1431.72,
+      "start_timestamp": "00:23:48.520",
+      "end_timestamp": "00:23:51.720",
+      "text": "Bruno Retailleau, ces gens ne méritent rien d'autre que la prison."
+    },
+    {
+      "id": 473,
+      "start": 1431.72,
+      "end": 1436.68,
+      "start_timestamp": "00:23:51.720",
+      "end_timestamp": "00:23:56.680",
+      "text": "Mario Maréchal, les enfants de la Nouvelle France de Mélenchon détruirent notre pays."
+    },
+    {
+      "id": 474,
+      "start": 1436.68,
+      "end": 1440.68,
+      "start_timestamp": "00:23:56.680",
+      "end_timestamp": "00:24:00.680",
+      "text": "Vous avez vu qu'il y a vraiment une partie de la crise politique"
+    },
+    {
+      "id": 475,
+      "start": 1440.68,
+      "end": 1444.68,
+      "start_timestamp": "00:24:00.680",
+      "end_timestamp": "00:24:04.680",
+      "text": "qui se focalise sur les 0,1, 0,2 %."
+    },
+    {
+      "id": 476,
+      "start": 1444.68,
+      "end": 1446.52,
+      "start_timestamp": "00:24:04.680",
+      "end_timestamp": "00:24:06.520",
+      "text": "Ça ne veut pas dire qu'ils ne sont pas nécessaires,"
+    },
+    {
+      "id": 477,
+      "start": 1446.6,
+      "end": 1451.48,
+      "start_timestamp": "00:24:06.600",
+      "end_timestamp": "00:24:11.480",
+      "text": "mais quand tu donnes quasiment 100% de ton énergie à un détail,"
+    },
+    {
+      "id": 478,
+      "start": 1451.48,
+      "end": 1452.68,
+      "start_timestamp": "00:24:11.480",
+      "end_timestamp": "00:24:12.680",
+      "text": "un détail qui fait du bruit,"
+    },
+    {
+      "id": 479,
+      "start": 1452.68,
+      "end": 1457.88,
+      "start_timestamp": "00:24:12.680",
+      "end_timestamp": "00:24:17.880",
+      "text": "mais un détail quand même par rapport à l'ampleur historique de ce que ça représente,"
+    },
+    {
+      "id": 480,
+      "start": 1457.88,
+      "end": 1460.76,
+      "start_timestamp": "00:24:17.880",
+      "end_timestamp": "00:24:20.760",
+      "text": "ça veut dire qu'ils sont clairement assis à droite du roi"
+    },
+    {
+      "id": 481,
+      "start": 1460.76,
+      "end": 1464.92,
+      "start_timestamp": "00:24:20.760",
+      "end_timestamp": "00:24:24.920",
+      "text": "et qu'ils sont là pour maintenir le pouvoir tel qu'il est en l'État."
+    },
+    {
+      "id": 482,
+      "start": 1464.92,
+      "end": 1468.28,
+      "start_timestamp": "00:24:24.920",
+      "end_timestamp": "00:24:28.280",
+      "text": "Donc l'extrême droite qui pendant très longtemps se donnait un petit peu ces allures de"
+    },
+    {
+      "id": 483,
+      "start": 1468.28,
+      "end": 1470.68,
+      "start_timestamp": "00:24:28.280",
+      "end_timestamp": "00:24:30.680",
+      "text": "« nous sommes là pour le peuple » et joue encore beaucoup là-dessus,"
+    },
+    {
+      "id": 484,
+      "start": 1470.68,
+      "end": 1471.8,
+      "start_timestamp": "00:24:30.680",
+      "end_timestamp": "00:24:31.800",
+      "text": "non, pas du tout."
+    },
+    {
+      "id": 485,
+      "start": 1471.8,
+      "end": 1475.56,
+      "start_timestamp": "00:24:31.800",
+      "end_timestamp": "00:24:35.560",
+      "text": "Ils sont là visiblement, et je crois que j'en parlerai encore dans plein d'autres vidéos,"
+    },
+    {
+      "id": 486,
+      "start": 1475.64,
+      "end": 1479.08,
+      "start_timestamp": "00:24:35.640",
+      "end_timestamp": "00:24:39.080",
+      "text": "et désolé, c'est factuel, pour perpétuer le modèle,"
+    },
+    {
+      "id": 487,
+      "start": 1479.08,
+      "end": 1481.72,
+      "start_timestamp": "00:24:39.080",
+      "end_timestamp": "00:24:41.720",
+      "text": "tout faire peser sur les citoyens et le peuple,"
+    },
+    {
+      "id": 488,
+      "start": 1481.72,
+      "end": 1485.56,
+      "start_timestamp": "00:24:41.720",
+      "end_timestamp": "00:24:45.560",
+      "text": "et feront en matière de néolibéralisme, sans doute pire qu'Emmanuel Macron."
+    },
+    {
+      "id": 489,
+      "start": 1485.56,
+      "end": 1488.92,
+      "start_timestamp": "00:24:45.560",
+      "end_timestamp": "00:24:48.920",
+      "text": "Tous ceux qui ont tout mélangé et ont condamné uniquement le mouvement ce soir"
+    },
+    {
+      "id": 490,
+      "start": 1488.92,
+      "end": 1490.52,
+      "start_timestamp": "00:24:48.920",
+      "end_timestamp": "00:24:50.520",
+      "text": "ne sont pas là pour l'avenir du pays."
+    },
+    {
+      "id": 491,
+      "start": 1490.52,
+      "end": 1491.96,
+      "start_timestamp": "00:24:50.520",
+      "end_timestamp": "00:24:51.960",
+      "text": "Ils ne sont pas là pour la jeunesse."
+    },
+    {
+      "id": 492,
+      "start": 1491.96,
+      "end": 1494.52,
+      "start_timestamp": "00:24:51.960",
+      "end_timestamp": "00:24:54.520",
+      "text": "Ils sont là pour maintenir le statut court."
+    },
+    {
+      "id": 493,
+      "start": 1494.52,
+      "end": 1499.46,
+      "start_timestamp": "00:24:54.520",
+      "end_timestamp": "00:24:59.460",
+      "text": "En direct sur LCI, un préfet explique."
+    },
+    {
+      "id": 494,
+      "start": 1499.46,
+      "end": 1500.9,
+      "start_timestamp": "00:24:59.460",
+      "end_timestamp": "00:25:00.900",
+      "text": "Il n'y a aucune revendication."
+    },
+    {
+      "id": 495,
+      "start": 1500.9,
+      "end": 1505.22,
+      "start_timestamp": "00:25:00.900",
+      "end_timestamp": "00:25:05.220",
+      "text": "Trouver une pancarte de manifestation, je veux bien la regarder, je veux bien la voir."
+    },
+    {
+      "id": 496,
+      "start": 1505.3,
+      "end": 1507.78,
+      "start_timestamp": "00:25:05.300",
+      "end_timestamp": "00:25:07.780",
+      "text": "Il y en avait un certain nombre avec des revendications."
+    },
+    {
+      "id": 497,
+      "start": 1507.78,
+      "end": 1508.9,
+      "start_timestamp": "00:25:07.780",
+      "end_timestamp": "00:25:08.900",
+      "text": "C'était vraiment divers et variés."
+    },
+    {
+      "id": 498,
+      "start": 1508.9,
+      "end": 1511.3,
+      "start_timestamp": "00:25:08.900",
+      "end_timestamp": "00:25:11.300",
+      "text": "Ça allait du prix de l'essence au lycée, au moyen, etc."
+    },
+    {
+      "id": 499,
+      "start": 1511.3,
+      "end": 1512.18,
+      "start_timestamp": "00:25:11.300",
+      "end_timestamp": "00:25:12.180",
+      "text": "Ça a été très fugace."
+    },
+    {
+      "id": 500,
+      "start": 1512.18,
+      "end": 1514.02,
+      "start_timestamp": "00:25:12.180",
+      "end_timestamp": "00:25:14.020",
+      "text": "Alors, parlons-en rapidement."
+    },
+    {
+      "id": 501,
+      "start": 1514.02,
+      "end": 1515.78,
+      "start_timestamp": "00:25:14.020",
+      "end_timestamp": "00:25:15.780",
+      "text": "L'essence, c'est juste un truc de fou."
+    },
+    {
+      "id": 502,
+      "start": 1515.78,
+      "end": 1520.18,
+      "start_timestamp": "00:25:15.780",
+      "end_timestamp": "00:25:20.180",
+      "text": "Le gazole est autour de 2,33 euros le litre."
+    },
+    {
+      "id": 503,
+      "start": 1520.18,
+      "end": 1523.3,
+      "start_timestamp": "00:25:20.180",
+      "end_timestamp": "00:25:23.300",
+      "text": "Il y a un an, à la même époque, on était à 1,61."
+    },
+    {
+      "id": 504,
+      "start": 1523.3,
+      "end": 1526.9,
+      "start_timestamp": "00:25:23.300",
+      "end_timestamp": "00:25:26.900",
+      "text": "Un plein de 50 litres, c'est 116 euros."
+    },
+    {
+      "id": 505,
+      "start": 1526.9,
+      "end": 1530.42,
+      "start_timestamp": "00:25:26.900",
+      "end_timestamp": "00:25:30.420",
+      "text": "Il y a des gens qui, par mois, sont littéralement en train de dépenser"
+    },
+    {
+      "id": 506,
+      "start": 1530.42,
+      "end": 1533.86,
+      "start_timestamp": "00:25:30.420",
+      "end_timestamp": "00:25:33.860",
+      "text": "jusqu'à 600 balles pour pouvoir aller travailler."
+    },
+    {
+      "id": 507,
+      "start": 1533.86,
+      "end": 1538.02,
+      "start_timestamp": "00:25:33.860",
+      "end_timestamp": "00:25:38.020",
+      "text": "Littéralement en train d'investir un quart à un tiers de ton argent,"
+    },
+    {
+      "id": 508,
+      "start": 1538.02,
+      "end": 1540.66,
+      "start_timestamp": "00:25:38.020",
+      "end_timestamp": "00:25:40.660",
+      "text": "de l'argent que tu gagnes au taf, pour aller bosser au taf."
+    },
+    {
+      "id": 509,
+      "start": 1540.66,
+      "end": 1543.78,
+      "start_timestamp": "00:25:40.660",
+      "end_timestamp": "00:25:43.780",
+      "text": "Et pourquoi le gazole coûte même plus cher que l'essence ?"
+    },
+    {
+      "id": 510,
+      "start": 1543.78,
+      "end": 1546.9,
+      "start_timestamp": "00:25:43.780",
+      "end_timestamp": "00:25:46.900",
+      "text": "Selon la Banque de France, c'est d'abord le raffinage mondial,"
+    },
+    {
+      "id": 511,
+      "start": 1546.9,
+      "end": 1547.94,
+      "start_timestamp": "00:25:46.900",
+      "end_timestamp": "00:25:47.940",
+      "text": "donc pas les taxes."
+    },
+    {
+      "id": 512,
+      "start": 1547.94,
+      "end": 1550.5,
+      "start_timestamp": "00:25:47.940",
+      "end_timestamp": "00:25:50.500",
+      "text": "Et dit autrement, quand un pays tourne au pétrole,"
+    },
+    {
+      "id": 513,
+      "start": 1550.5,
+      "end": 1553.14,
+      "start_timestamp": "00:25:50.500",
+      "end_timestamp": "00:25:53.140",
+      "text": "chaque tension sur le pétrole, or mousse,"
+    },
+    {
+      "id": 514,
+      "start": 1553.14,
+      "end": 1555.3,
+      "start_timestamp": "00:25:53.140",
+      "end_timestamp": "00:25:55.300",
+      "text": "les raffineries qui seront défoncées par les outils,"
+    },
+    {
+      "id": 515,
+      "start": 1555.3,
+      "end": 1558.02,
+      "start_timestamp": "00:25:55.300",
+      "end_timestamp": "00:25:58.020",
+      "text": "la situation géopolitique à l'internationale,"
+    },
+    {
+      "id": 516,
+      "start": 1558.02,
+      "end": 1560.34,
+      "start_timestamp": "00:25:58.020",
+      "end_timestamp": "00:26:00.340",
+      "text": "tout ça finit malheureusement à la pompe."
+    },
+    {
+      "id": 517,
+      "start": 1560.42,
+      "end": 1562.9,
+      "start_timestamp": "00:26:00.420",
+      "end_timestamp": "00:26:02.900",
+      "text": "Et la pompe, c'est toujours les mêmes qui payent ceux"
+    },
+    {
+      "id": 518,
+      "start": 1562.9,
+      "end": 1565.86,
+      "start_timestamp": "00:26:02.900",
+      "end_timestamp": "00:26:05.860",
+      "text": "qui n'ont pas le privilège de changer facilement de moyens,"
+    },
+    {
+      "id": 519,
+      "start": 1565.86,
+      "end": 1567.3,
+      "start_timestamp": "00:26:05.860",
+      "end_timestamp": "00:26:07.300",
+      "text": "notamment de moyens de locomotion."
+    },
+    {
+      "id": 520,
+      "start": 1567.3,
+      "end": 1569.86,
+      "start_timestamp": "00:26:07.300",
+      "end_timestamp": "00:26:09.860",
+      "text": "Et les limites physiques, à un moment donné,"
+    },
+    {
+      "id": 521,
+      "start": 1569.86,
+      "end": 1572.74,
+      "start_timestamp": "00:26:09.860",
+      "end_timestamp": "00:26:12.740",
+      "text": "ça a un prix, et forcément, c'est des bouchons de la colère."
+    },
+    {
+      "id": 522,
+      "start": 1572.74,
+      "end": 1575.3,
+      "start_timestamp": "00:26:12.740",
+      "end_timestamp": "00:26:15.300",
+      "text": "Parce qu'il y a certainement des plus fans de la chaîne"
+    },
+    {
+      "id": 523,
+      "start": 1575.3,
+      "end": 1575.78,
+      "start_timestamp": "00:26:15.300",
+      "end_timestamp": "00:26:15.780",
+      "text": "qui doivent se dire,"
+    },
+    {
+      "id": 524,
+      "start": 1575.78,
+      "end": 1577.38,
+      "start_timestamp": "00:26:15.780",
+      "end_timestamp": "00:26:17.380",
+      "text": "mais attends Vince, t'es en train de parler de social,"
+    },
+    {
+      "id": 525,
+      "start": 1577.38,
+      "end": 1579.06,
+      "start_timestamp": "00:26:17.380",
+      "end_timestamp": "00:26:19.060",
+      "text": "t'es en train de parler de ce mouvement,"
+    },
+    {
+      "id": 526,
+      "start": 1579.06,
+      "end": 1580.82,
+      "start_timestamp": "00:26:19.060",
+      "end_timestamp": "00:26:20.820",
+      "text": "mais quel est le rapport avec les limites planétaires ?"
+    },
+    {
+      "id": 527,
+      "start": 1580.82,
+      "end": 1583.22,
+      "start_timestamp": "00:26:20.820",
+      "end_timestamp": "00:26:23.220",
+      "text": "Les amis, si les gens sont dans la rue,"
+    },
+    {
+      "id": 528,
+      "start": 1583.22,
+      "end": 1587.38,
+      "start_timestamp": "00:26:23.220",
+      "end_timestamp": "00:26:27.380",
+      "text": "c'est parce qu'il y a des raisons plus en amont,"
+    },
+    {
+      "id": 529,
+      "start": 1587.38,
+      "end": 1589.3,
+      "start_timestamp": "00:26:27.380",
+      "end_timestamp": "00:26:29.300",
+      "text": "des raisons en matière d'énergie,"
+    },
+    {
+      "id": 530,
+      "start": 1589.3,
+      "end": 1591.46,
+      "start_timestamp": "00:26:29.300",
+      "end_timestamp": "00:26:31.460",
+      "text": "de matière, de partage des richesses,"
+    },
+    {
+      "id": 531,
+      "start": 1591.46,
+      "end": 1593.3,
+      "start_timestamp": "00:26:31.460",
+      "end_timestamp": "00:26:33.300",
+      "text": "partage de la richesse produite,"
+    },
+    {
+      "id": 532,
+      "start": 1593.3,
+      "end": 1594.74,
+      "start_timestamp": "00:26:33.300",
+      "end_timestamp": "00:26:34.740",
+      "text": "de gâteaux qui diminuent de plus en plus,"
+    },
+    {
+      "id": 533,
+      "start": 1594.74,
+      "end": 1595.94,
+      "start_timestamp": "00:26:34.740",
+      "end_timestamp": "00:26:35.940",
+      "text": "de limites planétaires dépassées"
+    },
+    {
+      "id": 534,
+      "start": 1595.94,
+      "end": 1597.86,
+      "start_timestamp": "00:26:35.940",
+      "end_timestamp": "00:26:37.860",
+      "text": "avec des désabilisations dans les chaînes mondiales."
+    },
+    {
+      "id": 535,
+      "start": 1597.86,
+      "end": 1599.22,
+      "start_timestamp": "00:26:37.860",
+      "end_timestamp": "00:26:39.220",
+      "text": "C'est pour ça que les gens sont dans la rue,"
+    },
+    {
+      "id": 536,
+      "start": 1599.22,
+      "end": 1600.5,
+      "start_timestamp": "00:26:39.220",
+      "end_timestamp": "00:26:40.500",
+      "text": "c'est parce qu'il y a des choses qui ne vont pas,"
+    },
+    {
+      "id": 537,
+      "start": 1600.5,
+      "end": 1601.54,
+      "start_timestamp": "00:26:40.500",
+      "end_timestamp": "00:26:41.540",
+      "text": "et tout ça sur notre chaîne,"
+    },
+    {
+      "id": 538,
+      "start": 1601.54,
+      "end": 1603.46,
+      "start_timestamp": "00:26:41.540",
+      "end_timestamp": "00:26:43.460",
+      "text": "et bien c'est notre travail de le documenter."
+    },
+    {
+      "id": 539,
+      "start": 1603.46,
+      "end": 1606.82,
+      "start_timestamp": "00:26:43.460",
+      "end_timestamp": "00:26:46.820",
+      "text": "L'école, alors là, 15,4 millions d'heures de cours"
+    },
+    {
+      "id": 540,
+      "start": 1606.82,
+      "end": 1607.86,
+      "start_timestamp": "00:26:46.820",
+      "end_timestamp": "00:26:47.860",
+      "text": "perdues en un an,"
+    },
+    {
+      "id": 541,
+      "start": 1607.86,
+      "end": 1610.74,
+      "start_timestamp": "00:26:47.860",
+      "end_timestamp": "00:26:50.740",
+      "text": "parce que les profs absents n'ont pas été remplacés."
+    },
+    {
+      "id": 542,
+      "start": 1610.74,
+      "end": 1612.5,
+      "start_timestamp": "00:26:50.740",
+      "end_timestamp": "00:26:52.500",
+      "text": "C'est le ministère lui-même qui le calcule,"
+    },
+    {
+      "id": 543,
+      "start": 1612.5,
+      "end": 1617.14,
+      "start_timestamp": "00:26:52.500",
+      "end_timestamp": "00:26:57.140",
+      "text": "et le budget 2027 supprime 1588 postes d'enseignants."
+    },
+    {
+      "id": 544,
+      "start": 1617.22,
+      "end": 1619.22,
+      "start_timestamp": "00:26:57.220",
+      "end_timestamp": "00:26:59.220",
+      "text": "La jeunesse, selon l'INSEE,"
+    },
+    {
+      "id": 545,
+      "start": 1619.22,
+      "end": 1622.26,
+      "start_timestamp": "00:26:59.220",
+      "end_timestamp": "00:27:02.260",
+      "text": "18,6% des 18-29 ans"
+    },
+    {
+      "id": 546,
+      "start": 1622.26,
+      "end": 1624.98,
+      "start_timestamp": "00:27:02.260",
+      "end_timestamp": "00:27:04.980",
+      "text": "vivent sous le seuil de pauvreté."
+    },
+    {
+      "id": 547,
+      "start": 1624.98,
+      "end": 1627.94,
+      "start_timestamp": "00:27:04.980",
+      "end_timestamp": "00:27:07.940",
+      "text": "Du côté des 65-74 ans,"
+    },
+    {
+      "id": 548,
+      "start": 1627.94,
+      "end": 1630.9,
+      "start_timestamp": "00:27:07.940",
+      "end_timestamp": "00:27:10.900",
+      "text": "ils sont 10% à vivre sous le seuil de pauvreté."
+    },
+    {
+      "id": 549,
+      "start": 1630.9,
+      "end": 1631.78,
+      "start_timestamp": "00:27:10.900",
+      "end_timestamp": "00:27:11.780",
+      "text": "Et l'argent ?"
+    },
+    {
+      "id": 550,
+      "start": 1631.78,
+      "end": 1634.26,
+      "start_timestamp": "00:27:11.780",
+      "end_timestamp": "00:27:14.260",
+      "text": "En 2020, l'État prévoit de payer"
+    },
+    {
+      "id": 551,
+      "start": 1634.26,
+      "end": 1638.18,
+      "start_timestamp": "00:27:14.260",
+      "end_timestamp": "00:27:18.180",
+      "text": "72,9 milliards d'intérêts de sa dette,"
+    },
+    {
+      "id": 552,
+      "start": 1638.18,
+      "end": 1640.98,
+      "start_timestamp": "00:27:18.180",
+      "end_timestamp": "00:27:20.980",
+      "text": "plus que tout le budget de l'éducation nationale"
+    },
+    {
+      "id": 553,
+      "start": 1640.98,
+      "end": 1641.7,
+      "start_timestamp": "00:27:20.980",
+      "end_timestamp": "00:27:21.700",
+      "text": "hors pension,"
+    },
+    {
+      "id": 554,
+      "start": 1641.7,
+      "end": 1643.54,
+      "start_timestamp": "00:27:21.700",
+      "end_timestamp": "00:27:23.540",
+      "text": "pendant que les 500 plus grandes fortunes"
+    },
+    {
+      "id": 555,
+      "start": 1643.62,
+      "end": 1645.22,
+      "start_timestamp": "00:27:23.620",
+      "end_timestamp": "00:27:25.220",
+      "text": "professionnelles de France"
+    },
+    {
+      "id": 556,
+      "start": 1645.22,
+      "end": 1647.86,
+      "start_timestamp": "00:27:25.220",
+      "end_timestamp": "00:27:27.860",
+      "text": "pèsent 1000 milliards,"
+    },
+    {
+      "id": 557,
+      "start": 1647.86,
+      "end": 1651.14,
+      "start_timestamp": "00:27:27.860",
+      "end_timestamp": "00:27:31.140",
+      "text": "à savoir près de 50% de plus en 2020."
+    },
+    {
+      "id": 558,
+      "start": 1651.14,
+      "end": 1652.42,
+      "start_timestamp": "00:27:31.140",
+      "end_timestamp": "00:27:32.420",
+      "text": "Est-ce que vous voyez le truc ?"
+    },
+    {
+      "id": 559,
+      "start": 1652.42,
+      "end": 1654.34,
+      "start_timestamp": "00:27:32.420",
+      "end_timestamp": "00:27:34.340",
+      "text": "Est-ce que tout comme moi, vous captez l'incohérence"
+    },
+    {
+      "id": 560,
+      "start": 1654.34,
+      "end": 1657.06,
+      "start_timestamp": "00:27:34.340",
+      "end_timestamp": "00:27:37.060",
+      "text": "et la raison immense pour laquelle les gens sont dans la rue ?"
+    },
+    {
+      "id": 561,
+      "start": 1657.06,
+      "end": 1658.66,
+      "start_timestamp": "00:27:37.060",
+      "end_timestamp": "00:27:38.660",
+      "text": "Eh les amis, c'est des soucis simple que ça,"
+    },
+    {
+      "id": 562,
+      "start": 1658.66,
+      "end": 1660.1,
+      "start_timestamp": "00:27:38.660",
+      "end_timestamp": "00:27:40.100",
+      "text": "pas de profs, pas d'avenir."
+    },
+    {
+      "id": 563,
+      "start": 1660.1,
+      "end": 1661.62,
+      "start_timestamp": "00:27:40.100",
+      "end_timestamp": "00:27:41.620",
+      "text": "Plus de patience, plus les gens sont dans la rue."
+    },
+    {
+      "id": 564,
+      "start": 1661.62,
+      "end": 1663.54,
+      "start_timestamp": "00:27:41.620",
+      "end_timestamp": "00:27:43.540",
+      "text": "Et une phrase relevée par l'AFP dans la nuit"
+    },
+    {
+      "id": 565,
+      "start": 1663.54,
+      "end": 1666.02,
+      "start_timestamp": "00:27:43.540",
+      "end_timestamp": "00:27:46.020",
+      "text": "avant les cortèges en dit long,"
+    },
+    {
+      "id": 566,
+      "start": 1666.02,
+      "end": 1668.34,
+      "start_timestamp": "00:27:46.020",
+      "end_timestamp": "00:27:48.340",
+      "text": "beaucoup n'ont pas encore le droit de vote,"
+    },
+    {
+      "id": 567,
+      "start": 1668.34,
+      "end": 1670.34,
+      "start_timestamp": "00:27:48.340",
+      "end_timestamp": "00:27:50.340",
+      "text": "alors la rue, on la prend."
+    },
+    {
+      "id": 568,
+      "start": 1670.34,
+      "end": 1672.1,
+      "start_timestamp": "00:27:50.340",
+      "end_timestamp": "00:27:52.100",
+      "text": "J'explique absolument tout ce qu'il faut savoir"
+    },
+    {
+      "id": 569,
+      "start": 1672.1,
+      "end": 1674.34,
+      "start_timestamp": "00:27:52.100",
+      "end_timestamp": "00:27:54.340",
+      "text": "sur les raisons de la criminisation systémique"
+    },
+    {
+      "id": 570,
+      "start": 1674.34,
+      "end": 1676.42,
+      "start_timestamp": "00:27:54.340",
+      "end_timestamp": "00:27:56.420",
+      "text": "et la recherche du feu, justement,"
+    },
+    {
+      "id": 571,
+      "start": 1676.42,
+      "end": 1678.82,
+      "start_timestamp": "00:27:56.420",
+      "end_timestamp": "00:27:58.820",
+      "text": "ces images de poubelles, etc.,"
+    },
+    {
+      "id": 572,
+      "start": 1678.82,
+      "end": 1681.54,
+      "start_timestamp": "00:27:58.820",
+      "end_timestamp": "00:28:01.540",
+      "text": "de casse, pour éviter justement de parler du fond."
+    },
+    {
+      "id": 573,
+      "start": 1681.54,
+      "end": 1682.74,
+      "start_timestamp": "00:28:01.540",
+      "end_timestamp": "00:28:02.740",
+      "text": "C'est dans cette vidéo."
+    },
+    {
+      "id": 574,
+      "start": 1682.74,
+      "end": 1684.82,
+      "start_timestamp": "00:28:02.740",
+      "end_timestamp": "00:28:04.820",
+      "text": "La révolte des ICI, allez la voir juste après"
+    },
+    {
+      "id": 575,
+      "start": 1684.82,
+      "end": 1688.79,
+      "start_timestamp": "00:28:04.820",
+      "end_timestamp": "00:28:08.790",
+      "text": "si ça vous intéresse."
+    },
+    {
+      "id": 576,
+      "start": 1688.79,
+      "end": 1691.19,
+      "start_timestamp": "00:28:08.790",
+      "end_timestamp": "00:28:11.190",
+      "text": "On voit ça de plus en plus sortir sur les réseaux."
+    },
+    {
+      "id": 577,
+      "start": 1691.19,
+      "end": 1692.71,
+      "start_timestamp": "00:28:11.190",
+      "end_timestamp": "00:28:12.710",
+      "text": "Certains disent que Macron va déclencher"
+    },
+    {
+      "id": 578,
+      "start": 1692.71,
+      "end": 1694.55,
+      "start_timestamp": "00:28:12.710",
+      "end_timestamp": "00:28:14.550",
+      "text": "l'article 16 de la Constitution"
+    },
+    {
+      "id": 579,
+      "start": 1694.55,
+      "end": 1697.11,
+      "start_timestamp": "00:28:14.550",
+      "end_timestamp": "00:28:17.110",
+      "text": "pour rester au pouvoir quand on s'approchera"
+    },
+    {
+      "id": 580,
+      "start": 1697.11,
+      "end": 1698.87,
+      "start_timestamp": "00:28:17.110",
+      "end_timestamp": "00:28:18.870",
+      "text": "des élections de 2027"
+    },
+    {
+      "id": 581,
+      "start": 1698.87,
+      "end": 1700.39,
+      "start_timestamp": "00:28:18.870",
+      "end_timestamp": "00:28:20.390",
+      "text": "et que le mouvement, à ce moment-là,"
+    },
+    {
+      "id": 582,
+      "start": 1700.39,
+      "end": 1702.31,
+      "start_timestamp": "00:28:20.390",
+      "end_timestamp": "00:28:22.310",
+      "text": "aura pris encore plus d'ampleur."
+    },
+    {
+      "id": 583,
+      "start": 1702.31,
+      "end": 1704.39,
+      "start_timestamp": "00:28:22.310",
+      "end_timestamp": "00:28:24.390",
+      "text": "Même CNews l'a dit."
+    },
+    {
+      "id": 584,
+      "start": 1704.39,
+      "end": 1707.35,
+      "start_timestamp": "00:28:24.390",
+      "end_timestamp": "00:28:27.350",
+      "text": "Alors, ce que dit vraiment la Constitution ?"
+    },
+    {
+      "id": 585,
+      "start": 1707.35,
+      "end": 1709.19,
+      "start_timestamp": "00:28:27.350",
+      "end_timestamp": "00:28:29.190",
+      "text": "Il y a deux solutions."
+    },
+    {
+      "id": 586,
+      "start": 1709.19,
+      "end": 1711.91,
+      "start_timestamp": "00:28:29.190",
+      "end_timestamp": "00:28:31.910",
+      "text": "Où Emmanuel Macron démissionne,"
+    },
+    {
+      "id": 587,
+      "start": 1711.91,
+      "end": 1714.39,
+      "start_timestamp": "00:28:31.910",
+      "end_timestamp": "00:28:34.390",
+      "text": "où il va se servir de l'article 16."
+    },
+    {
+      "id": 588,
+      "start": 1714.39,
+      "end": 1716.79,
+      "start_timestamp": "00:28:34.390",
+      "end_timestamp": "00:28:36.790",
+      "text": "L'article 16, en fait, ce sont les pleins pouvoirs."
+    },
+    {
+      "id": 589,
+      "start": 1716.79,
+      "end": 1719.59,
+      "start_timestamp": "00:28:36.790",
+      "end_timestamp": "00:28:39.590",
+      "text": "Mais il faut une menace grave et immédiate"
+    },
+    {
+      "id": 590,
+      "start": 1719.59,
+      "end": 1721.99,
+      "start_timestamp": "00:28:39.590",
+      "end_timestamp": "00:28:41.990",
+      "text": "et que les institutions ne puissent plus fonctionner."
+    },
+    {
+      "id": 591,
+      "start": 1721.99,
+      "end": 1725.19,
+      "start_timestamp": "00:28:41.990",
+      "end_timestamp": "00:28:45.190",
+      "text": "Une seule utilisation dont l'histoire a existé,"
+    },
+    {
+      "id": 592,
+      "start": 1725.19,
+      "end": 1728.39,
+      "start_timestamp": "00:28:45.190",
+      "end_timestamp": "00:28:48.390",
+      "text": "c'était De Gaulle pendant le putsch des généraux en 1961."
+    },
+    {
+      "id": 593,
+      "start": 1728.39,
+      "end": 1730.95,
+      "start_timestamp": "00:28:48.390",
+      "end_timestamp": "00:28:50.950",
+      "text": "Ni l'article 16, ni l'état d'urgence"
+    },
+    {
+      "id": 594,
+      "start": 1730.95,
+      "end": 1732.79,
+      "start_timestamp": "00:28:50.950",
+      "end_timestamp": "00:28:52.790",
+      "text": "ne permettent de prolonger un mandat"
+    },
+    {
+      "id": 595,
+      "start": 1732.79,
+      "end": 1734.71,
+      "start_timestamp": "00:28:52.790",
+      "end_timestamp": "00:28:54.710",
+      "text": "ou de reporter une présidentielle."
+    },
+    {
+      "id": 596,
+      "start": 1734.71,
+      "end": 1738.07,
+      "start_timestamp": "00:28:54.710",
+      "end_timestamp": "00:28:58.070",
+      "text": "La présidentielle de 2017, elle s'est même tenue"
+    },
+    {
+      "id": 597,
+      "start": 1738.07,
+      "end": 1739.59,
+      "start_timestamp": "00:28:58.070",
+      "end_timestamp": "00:28:59.590",
+      "text": "sous état d'urgence, je rappelle,"
+    },
+    {
+      "id": 598,
+      "start": 1739.59,
+      "end": 1740.87,
+      "start_timestamp": "00:28:59.590",
+      "end_timestamp": "00:29:00.870",
+      "text": "avec les affaires terroristes."
+    },
+    {
+      "id": 599,
+      "start": 1740.87,
+      "end": 1743.59,
+      "start_timestamp": "00:29:00.870",
+      "end_timestamp": "00:29:03.590",
+      "text": "Son mandat se termine en mai 2027."
+    },
+    {
+      "id": 600,
+      "start": 1743.59,
+      "end": 1746.23,
+      "start_timestamp": "00:29:03.590",
+      "end_timestamp": "00:29:06.230",
+      "text": "Il n'est pas exclu qu'il le brandisse."
+    },
+    {
+      "id": 601,
+      "start": 1746.23,
+      "end": 1748.23,
+      "start_timestamp": "00:29:06.230",
+      "end_timestamp": "00:29:08.230",
+      "text": "Mais normalement, il ne le fera pas."
+    },
+    {
+      "id": 602,
+      "start": 1748.23,
+      "end": 1750.39,
+      "start_timestamp": "00:29:08.230",
+      "end_timestamp": "00:29:10.390",
+      "text": "Et donc, non, on ne déclenchera pas l'état d'urgence."
+    },
+    {
+      "id": 603,
+      "start": 1750.39,
+      "end": 1751.51,
+      "start_timestamp": "00:29:10.390",
+      "end_timestamp": "00:29:11.510",
+      "text": "Maintenant, si vous voulez mon avis,"
+    },
+    {
+      "id": 604,
+      "start": 1751.51,
+      "end": 1753.51,
+      "start_timestamp": "00:29:11.510",
+      "end_timestamp": "00:29:13.510",
+      "text": "attention, parce que là, je sors un petit peu des sources"
+    },
+    {
+      "id": 605,
+      "start": 1753.51,
+      "end": 1755.19,
+      "start_timestamp": "00:29:13.510",
+      "end_timestamp": "00:29:15.190",
+      "text": "de tout ce qui est documenté"
+    },
+    {
+      "id": 606,
+      "start": 1755.19,
+      "end": 1756.39,
+      "start_timestamp": "00:29:15.190",
+      "end_timestamp": "00:29:16.390",
+      "text": "et je balance mon opinion."
+    },
+    {
+      "id": 607,
+      "start": 1756.39,
+      "end": 1757.35,
+      "start_timestamp": "00:29:16.390",
+      "end_timestamp": "00:29:17.350",
+      "text": "Ça ne va pas s'arrêter là."
+    },
+    {
+      "id": 608,
+      "start": 1757.35,
+      "end": 1759.99,
+      "start_timestamp": "00:29:17.350",
+      "end_timestamp": "00:29:19.990",
+      "text": "À Nîmes, pendant qu'un supermarché se faisait piller,"
+    },
+    {
+      "id": 609,
+      "start": 1759.99,
+      "end": 1761.19,
+      "start_timestamp": "00:29:19.990",
+      "end_timestamp": "00:29:21.190",
+      "text": "un vendeur a raconté"
+    },
+    {
+      "id": 610,
+      "start": 1761.19,
+      "end": 1763.75,
+      "start_timestamp": "00:29:21.190",
+      "end_timestamp": "00:29:23.750",
+      "text": "qu'il n'y avait pas un seul policier."
+    },
+    {
+      "id": 611,
+      "start": 1763.75,
+      "end": 1767.59,
+      "start_timestamp": "00:29:23.750",
+      "end_timestamp": "00:29:27.590",
+      "text": "À Bordeaux, il a fallu que le raid intervienne."
+    },
+    {
+      "id": 612,
+      "start": 1767.59,
+      "end": 1768.87,
+      "start_timestamp": "00:29:27.590",
+      "end_timestamp": "00:29:28.870",
+      "text": "On a vu beaucoup d'images à Paris"
+    },
+    {
+      "id": 613,
+      "start": 1768.87,
+      "end": 1771.51,
+      "start_timestamp": "00:29:28.870",
+      "end_timestamp": "00:29:31.510",
+      "text": "de policiers littéralement dépassés."
+    },
+    {
+      "id": 614,
+      "start": 1771.51,
+      "end": 1773.11,
+      "start_timestamp": "00:29:31.510",
+      "end_timestamp": "00:29:33.110",
+      "text": "Et ces images-là, on ne vous les montre pas."
+    },
+    {
+      "id": 615,
+      "start": 1773.11,
+      "end": 1775.35,
+      "start_timestamp": "00:29:33.110",
+      "end_timestamp": "00:29:35.350",
+      "text": "Ils ont même dû reculer à plusieurs moments."
+    },
+    {
+      "id": 616,
+      "start": 1775.35,
+      "end": 1776.47,
+      "start_timestamp": "00:29:35.350",
+      "end_timestamp": "00:29:36.470",
+      "text": "Ah, c'était le bordel !"
+    },
+    {
+      "id": 617,
+      "start": 1776.47,
+      "end": 1778.15,
+      "start_timestamp": "00:29:36.470",
+      "end_timestamp": "00:29:38.150",
+      "text": "Et après le mouvement, connaît-il ?"
+    },
+    {
+      "id": 618,
+      "start": 1778.15,
+      "end": 1780.47,
+      "start_timestamp": "00:29:38.150",
+      "end_timestamp": "00:29:40.470",
+      "text": "Ben, ça va continuer, c'est sûr."
+    },
+    {
+      "id": 619,
+      "start": 1780.47,
+      "end": 1782.87,
+      "start_timestamp": "00:29:40.470",
+      "end_timestamp": "00:29:42.870",
+      "text": "Mais la seule question qui est vraiment importante,"
+    },
+    {
+      "id": 620,
+      "start": 1782.87,
+      "end": 1785.51,
+      "start_timestamp": "00:29:42.870",
+      "end_timestamp": "00:29:45.510",
+      "text": "c'est qu'est-ce qu'on met en face ?"
+    },
+    {
+      "id": 621,
+      "start": 1785.51,
+      "end": 1787.83,
+      "start_timestamp": "00:29:45.510",
+      "end_timestamp": "00:29:47.830",
+      "text": "C'est-à-dire avec quoi on répond à tout ce qui vient de se passer ?"
+    },
+    {
+      "id": 622,
+      "start": 1787.83,
+      "end": 1789.51,
+      "start_timestamp": "00:29:47.830",
+      "end_timestamp": "00:29:49.510",
+      "text": "Avec du budget, avec des profs ?"
+    },
+    {
+      "id": 623,
+      "start": 1790.15,
+      "end": 1793.51,
+      "start_timestamp": "00:29:50.150",
+      "end_timestamp": "00:29:53.510",
+      "text": "À Dvdnkopura, on balance les grenades et on balance la violence ?"
+    },
+    {
+      "id": 624,
+      "start": 1793.51,
+      "end": 1795.75,
+      "start_timestamp": "00:29:53.510",
+      "end_timestamp": "00:29:55.750",
+      "text": "Un pays qui laisse ses lycées sans profs,"
+    },
+    {
+      "id": 625,
+      "start": 1795.75,
+      "end": 1797.19,
+      "start_timestamp": "00:29:55.750",
+      "end_timestamp": "00:29:57.190",
+      "text": "son plein à 116 euros,"
+    },
+    {
+      "id": 626,
+      "start": 1797.19,
+      "end": 1799.59,
+      "start_timestamp": "00:29:57.190",
+      "end_timestamp": "00:29:59.590",
+      "text": "et qui répond avec des grenades et une loi"
+    },
+    {
+      "id": 627,
+      "start": 1799.59,
+      "end": 1801.11,
+      "start_timestamp": "00:29:59.590",
+      "end_timestamp": "00:30:01.110",
+      "text": "pour faire payer les manifestants,"
+    },
+    {
+      "id": 628,
+      "start": 1801.11,
+      "end": 1802.55,
+      "start_timestamp": "00:30:01.110",
+      "end_timestamp": "00:30:02.550",
+      "text": "il ne règle absolument rien."
+    },
+    {
+      "id": 629,
+      "start": 1802.55,
+      "end": 1803.35,
+      "start_timestamp": "00:30:02.550",
+      "end_timestamp": "00:30:03.350",
+      "text": "Il l'empire."
+    },
+    {
+      "id": 630,
+      "start": 1803.35,
+      "end": 1806.87,
+      "start_timestamp": "00:30:03.350",
+      "end_timestamp": "00:30:06.870",
+      "text": "En fait, il l'europe plus tard et il amplifie le bordel."
+    },
+    {
+      "id": 631,
+      "start": 1806.87,
+      "end": 1810.23,
+      "start_timestamp": "00:30:06.870",
+      "end_timestamp": "00:30:10.230",
+      "text": "Il établit une société de sécurité excessive"
+    },
+    {
+      "id": 632,
+      "start": 1810.23,
+      "end": 1811.67,
+      "start_timestamp": "00:30:10.230",
+      "end_timestamp": "00:30:11.670",
+      "text": "pour maintenir le modèle en l'État"
+    },
+    {
+      "id": 633,
+      "start": 1811.67,
+      "end": 1812.79,
+      "start_timestamp": "00:30:11.670",
+      "end_timestamp": "00:30:12.790",
+      "text": "et faire peser tous les maux"
+    },
+    {
+      "id": 634,
+      "start": 1812.79,
+      "end": 1815.67,
+      "start_timestamp": "00:30:12.790",
+      "end_timestamp": "00:30:15.670",
+      "text": "d'un système économique et politique littéralement zombie"
+    },
+    {
+      "id": 635,
+      "start": 1815.67,
+      "end": 1816.79,
+      "start_timestamp": "00:30:15.670",
+      "end_timestamp": "00:30:16.790",
+      "text": "sur les épaules des citoyens,"
+    },
+    {
+      "id": 636,
+      "start": 1816.79,
+      "end": 1818.71,
+      "start_timestamp": "00:30:16.790",
+      "end_timestamp": "00:30:18.710",
+      "text": "plutôt que celle des ultrariches,"
+    },
+    {
+      "id": 637,
+      "start": 1818.79,
+      "end": 1820.95,
+      "start_timestamp": "00:30:18.790",
+      "end_timestamp": "00:30:20.950",
+      "text": "déconnectés du haut de leur tour d'Ivoire."
+    },
+    {
+      "id": 638,
+      "start": 1820.95,
+      "end": 1822.55,
+      "start_timestamp": "00:30:20.950",
+      "end_timestamp": "00:30:22.550",
+      "text": "On parle vraiment des ultrariches."
+    },
+    {
+      "id": 639,
+      "start": 1822.55,
+      "end": 1824.15,
+      "start_timestamp": "00:30:22.550",
+      "end_timestamp": "00:30:24.150",
+      "text": "Il y a des millionnaires qui ont totalement conscience"
+    },
+    {
+      "id": 640,
+      "start": 1824.15,
+      "end": 1825.43,
+      "start_timestamp": "00:30:24.150",
+      "end_timestamp": "00:30:25.430",
+      "text": "et qui demandent des taxes."
+    },
+    {
+      "id": 641,
+      "start": 1825.43,
+      "end": 1827.35,
+      "start_timestamp": "00:30:25.430",
+      "end_timestamp": "00:30:27.350",
+      "text": "Mais les ultrariches riches à milliards,"
+    },
+    {
+      "id": 642,
+      "start": 1827.35,
+      "end": 1831.43,
+      "start_timestamp": "00:30:27.350",
+      "end_timestamp": "00:30:31.430",
+      "text": "eux, met une déconnexion avec le reste de l'humanité,"
+    },
+    {
+      "id": 643,
+      "start": 1831.43,
+      "end": 1835.11,
+      "start_timestamp": "00:30:31.430",
+      "end_timestamp": "00:30:35.110",
+      "text": "que ce soit d'un point de vue culturel"
+    },
+    {
+      "id": 644,
+      "start": 1835.11,
+      "end": 1836.71,
+      "start_timestamp": "00:30:35.110",
+      "end_timestamp": "00:30:36.710",
+      "text": "ou du schéma de pensée."
+    },
+    {
+      "id": 645,
+      "start": 1836.71,
+      "end": 1837.67,
+      "start_timestamp": "00:30:36.710",
+      "end_timestamp": "00:30:37.670",
+      "text": "Parce que la situation qu'on vit,"
+    },
+    {
+      "id": 646,
+      "start": 1837.67,
+      "end": 1841.03,
+      "start_timestamp": "00:30:37.670",
+      "end_timestamp": "00:30:41.030",
+      "text": "ça ressemble à s'y méprendre avec les nobles"
+    },
+    {
+      "id": 647,
+      "start": 1841.03,
+      "end": 1842.63,
+      "start_timestamp": "00:30:41.030",
+      "end_timestamp": "00:30:42.630",
+      "text": "qui faisaient la fête à Versailles,"
+    },
+    {
+      "id": 648,
+      "start": 1842.63,
+      "end": 1844.47,
+      "start_timestamp": "00:30:42.630",
+      "end_timestamp": "00:30:44.470",
+      "text": "déconnectés des souffrances du peuple"
+    },
+    {
+      "id": 649,
+      "start": 1844.47,
+      "end": 1846.39,
+      "start_timestamp": "00:30:44.470",
+      "end_timestamp": "00:30:46.390",
+      "text": "pendant que les barricades étaient en train de se former."
+    },
+    {
+      "id": 650,
+      "start": 1846.39,
+      "end": 1847.99,
+      "start_timestamp": "00:30:46.390",
+      "end_timestamp": "00:30:47.990",
+      "text": "Mais bon, je ne vais pas vous laisser sur du noir"
+    },
+    {
+      "id": 651,
+      "start": 1847.99,
+      "end": 1849.59,
+      "start_timestamp": "00:30:47.990",
+      "end_timestamp": "00:30:49.590",
+      "text": "parce que ce que j'ai vu aujourd'hui,"
+    },
+    {
+      "id": 652,
+      "start": 1849.59,
+      "end": 1852.31,
+      "start_timestamp": "00:30:49.590",
+      "end_timestamp": "00:30:52.310",
+      "text": "c'est aussi des mariés qui applaudissent un cortège,"
+    },
+    {
+      "id": 653,
+      "start": 1852.31,
+      "end": 1854.07,
+      "start_timestamp": "00:30:52.310",
+      "end_timestamp": "00:30:54.070",
+      "text": "des inconnus qui explosent de joie,"
+    },
+    {
+      "id": 654,
+      "start": 1854.07,
+      "end": 1856.07,
+      "start_timestamp": "00:30:54.070",
+      "end_timestamp": "00:30:56.070",
+      "text": "une place clébère pleine,"
+    },
+    {
+      "id": 655,
+      "start": 1856.07,
+      "end": 1857.67,
+      "start_timestamp": "00:30:56.070",
+      "end_timestamp": "00:30:57.670",
+      "text": "des pompiers applaudis,"
+    },
+    {
+      "id": 656,
+      "start": 1857.67,
+      "end": 1859.35,
+      "start_timestamp": "00:30:57.670",
+      "end_timestamp": "00:30:59.350",
+      "text": "des mélanges de la joie,"
+    },
+    {
+      "id": 657,
+      "start": 1859.35,
+      "end": 1860.15,
+      "start_timestamp": "00:30:59.350",
+      "end_timestamp": "00:31:00.150",
+      "text": "de la danse,"
+    },
+    {
+      "id": 658,
+      "start": 1860.15,
+      "end": 1860.87,
+      "start_timestamp": "00:31:00.150",
+      "end_timestamp": "00:31:00.870",
+      "text": "de la fête,"
+    },
+    {
+      "id": 659,
+      "start": 1860.87,
+      "end": 1862.15,
+      "start_timestamp": "00:31:00.870",
+      "end_timestamp": "00:31:02.150",
+      "text": "des idées politiques,"
+    },
+    {
+      "id": 660,
+      "start": 1862.15,
+      "end": 1863.51,
+      "start_timestamp": "00:31:02.150",
+      "end_timestamp": "00:31:03.510",
+      "text": "de l'humour,"
+    },
+    {
+      "id": 661,
+      "start": 1863.51,
+      "end": 1865.83,
+      "start_timestamp": "00:31:03.510",
+      "end_timestamp": "00:31:05.830",
+      "text": "des gamins qui ont allumé une mèche"
+    },
+    {
+      "id": 662,
+      "start": 1865.83,
+      "end": 1868.31,
+      "start_timestamp": "00:31:05.830",
+      "end_timestamp": "00:31:08.310",
+      "text": "et tout un pays qui s'est levé derrière eux."
+    },
+    {
+      "id": 663,
+      "start": 1868.31,
+      "end": 1870.95,
+      "start_timestamp": "00:31:08.310",
+      "end_timestamp": "00:31:10.950",
+      "text": "Ça, personne ne pourra le balayer."
+    },
+    {
+      "id": 664,
+      "start": 1870.95,
+      "end": 1872.71,
+      "start_timestamp": "00:31:10.950",
+      "end_timestamp": "00:31:12.710",
+      "text": "La police a gazé,"
+    },
+    {
+      "id": 665,
+      "start": 1872.71,
+      "end": 1874.55,
+      "start_timestamp": "00:31:12.710",
+      "end_timestamp": "00:31:14.550",
+      "text": "a envoyé ses lacrimaux sur des gens"
+    },
+    {
+      "id": 666,
+      "start": 1874.55,
+      "end": 1876.15,
+      "start_timestamp": "00:31:14.550",
+      "end_timestamp": "00:31:16.150",
+      "text": "qui marchaient tranquillement."
+    },
+    {
+      "id": 667,
+      "start": 1876.23,
+      "end": 1877.19,
+      "start_timestamp": "00:31:16.230",
+      "end_timestamp": "00:31:17.190",
+      "text": "A plusieurs reprises,"
+    },
+    {
+      "id": 668,
+      "start": 1877.19,
+      "end": 1878.79,
+      "start_timestamp": "00:31:17.190",
+      "end_timestamp": "00:31:18.790",
+      "text": "et c'est documenté, c'est démontré,"
+    },
+    {
+      "id": 669,
+      "start": 1878.79,
+      "end": 1880.79,
+      "start_timestamp": "00:31:18.790",
+      "end_timestamp": "00:31:20.790",
+      "text": "on commençait à foutre la merde dans des situations."
+    },
+    {
+      "id": 670,
+      "start": 1880.79,
+      "end": 1882.55,
+      "start_timestamp": "00:31:20.790",
+      "end_timestamp": "00:31:22.550",
+      "text": "En fait, il n'y avait aucune raison de foutre la merde."
+    },
+    {
+      "id": 671,
+      "start": 1882.55,
+      "end": 1883.35,
+      "start_timestamp": "00:31:22.550",
+      "end_timestamp": "00:31:23.350",
+      "text": "Dans quelques années,"
+    },
+    {
+      "id": 672,
+      "start": 1883.35,
+      "end": 1885.51,
+      "start_timestamp": "00:31:23.350",
+      "end_timestamp": "00:31:25.510",
+      "text": "on vous racontera sans doute le 17 octobre"
+    },
+    {
+      "id": 673,
+      "start": 1885.51,
+      "end": 1887.11,
+      "start_timestamp": "00:31:25.510",
+      "end_timestamp": "00:31:27.110",
+      "text": "avec des images de feu"
+    },
+    {
+      "id": 674,
+      "start": 1887.11,
+      "end": 1889.67,
+      "start_timestamp": "00:31:27.110",
+      "end_timestamp": "00:31:29.670",
+      "text": "et aussi comme le démarrage de quelque chose."
+    },
+    {
+      "id": 675,
+      "start": 1889.67,
+      "end": 1892.39,
+      "start_timestamp": "00:31:29.670",
+      "end_timestamp": "00:31:32.390",
+      "text": "Vous, vous saurez grâce à cette vidéo notamment"
+    },
+    {
+      "id": 676,
+      "start": 1892.39,
+      "end": 1893.67,
+      "start_timestamp": "00:31:32.390",
+      "end_timestamp": "00:31:33.670",
+      "text": "ce qu'il y avait autour."
+    },
+    {
+      "id": 677,
+      "start": 1893.67,
+      "end": 1895.35,
+      "start_timestamp": "00:31:33.670",
+      "end_timestamp": "00:31:35.350",
+      "text": "Et c'est ce qu'on a voulu documenter"
+    },
+    {
+      "id": 678,
+      "start": 1895.35,
+      "end": 1896.63,
+      "start_timestamp": "00:31:35.350",
+      "end_timestamp": "00:31:36.630",
+      "text": "là maintenant dans cette vidéo."
+    },
+    {
+      "id": 679,
+      "start": 1896.63,
+      "end": 1897.67,
+      "start_timestamp": "00:31:36.630",
+      "end_timestamp": "00:31:37.670",
+      "text": "Merci d'ailleurs à Joël,"
+    },
+    {
+      "id": 680,
+      "start": 1897.67,
+      "end": 1899.51,
+      "start_timestamp": "00:31:37.670",
+      "end_timestamp": "00:31:39.510",
+      "text": "on veut bosser ça à deux à distance,"
+    },
+    {
+      "id": 681,
+      "start": 1899.51,
+      "end": 1900.95,
+      "start_timestamp": "00:31:39.510",
+      "end_timestamp": "00:31:40.950",
+      "text": "mais dans un temps record."
+    },
+    {
+      "id": 682,
+      "start": 1900.95,
+      "end": 1901.91,
+      "start_timestamp": "00:31:40.950",
+      "end_timestamp": "00:31:41.910",
+      "text": "Donc n'hésitez pas,"
+    },
+    {
+      "id": 683,
+      "start": 1901.91,
+      "end": 1903.27,
+      "start_timestamp": "00:31:41.910",
+      "end_timestamp": "00:31:43.270",
+      "text": "il va falloir partager cette vidéo"
+    },
+    {
+      "id": 684,
+      "start": 1903.27,
+      "end": 1905.35,
+      "start_timestamp": "00:31:43.270",
+      "end_timestamp": "00:31:45.350",
+      "text": "pour la postérité, pour l'histoire,"
+    },
+    {
+      "id": 685,
+      "start": 1905.35,
+      "end": 1907.35,
+      "start_timestamp": "00:31:45.350",
+      "end_timestamp": "00:31:47.350",
+      "text": "comme contre-discours à l'état policier"
+    },
+    {
+      "id": 686,
+      "start": 1907.35,
+      "end": 1910.39,
+      "start_timestamp": "00:31:47.350",
+      "end_timestamp": "00:31:50.390",
+      "text": "qui pourrait devenir, si on ne fait rien à l'avenir,"
+    },
+    {
+      "id": 687,
+      "start": 1910.39,
+      "end": 1911.27,
+      "start_timestamp": "00:31:50.390",
+      "end_timestamp": "00:31:51.270",
+      "text": "un régime."
+    },
+    {
+      "id": 688,
+      "start": 1911.27,
+      "end": 1913.51,
+      "start_timestamp": "00:31:51.270",
+      "end_timestamp": "00:31:53.510",
+      "text": "Profitez de notre existence à nos limites"
+    },
+    {
+      "id": 689,
+      "start": 1913.51,
+      "end": 1915.99,
+      "start_timestamp": "00:31:53.510",
+      "end_timestamp": "00:31:55.990",
+      "text": "tant que nous, on ne nous a pas encore fait taire."
+    },
+    {
+      "id": 690,
+      "start": 1915.99,
+      "end": 1917.99,
+      "start_timestamp": "00:31:55.990",
+      "end_timestamp": "00:31:57.990",
+      "text": "Parce que vu les sujets qu'on aborde"
+    },
+    {
+      "id": 691,
+      "start": 1917.99,
+      "end": 1918.95,
+      "start_timestamp": "00:31:57.990",
+      "end_timestamp": "00:31:58.950",
+      "text": "et comment on l'aborde,"
+    },
+    {
+      "id": 692,
+      "start": 1918.95,
+      "end": 1920.23,
+      "start_timestamp": "00:31:58.950",
+      "end_timestamp": "00:32:00.230",
+      "text": "c'est pour arriver tôt ou tard."
+    },
+    {
+      "id": 693,
+      "start": 1920.23,
+      "end": 1921.91,
+      "start_timestamp": "00:32:00.230",
+      "end_timestamp": "00:32:01.910",
+      "text": "Vous savez, tout le monde le sait,"
+    },
+    {
+      "id": 694,
+      "start": 1921.91,
+      "end": 1922.87,
+      "start_timestamp": "00:32:01.910",
+      "end_timestamp": "00:32:02.870",
+      "text": "le pouvoir le sait,"
+    },
+    {
+      "id": 695,
+      "start": 1922.87,
+      "end": 1924.31,
+      "start_timestamp": "00:32:02.870",
+      "end_timestamp": "00:32:04.310",
+      "text": "les médias le savent très bien."
+    },
+    {
+      "id": 696,
+      "start": 1924.31,
+      "end": 1926.95,
+      "start_timestamp": "00:32:04.310",
+      "end_timestamp": "00:32:06.950",
+      "text": "Et ceux qui posaient les médias également le savent."
+    },
+    {
+      "id": 697,
+      "start": 1926.95,
+      "end": 1928.47,
+      "start_timestamp": "00:32:06.950",
+      "end_timestamp": "00:32:08.470",
+      "text": "CNews, Europe 1, le JDD,"
+    },
+    {
+      "id": 698,
+      "start": 1928.47,
+      "end": 1930.15,
+      "start_timestamp": "00:32:08.470",
+      "end_timestamp": "00:32:10.150",
+      "text": "je pense notamment au milliardaire,"
+    },
+    {
+      "id": 699,
+      "start": 1930.15,
+      "end": 1931.99,
+      "start_timestamp": "00:32:10.150",
+      "end_timestamp": "00:32:11.990",
+      "text": "premier actionnaire Vincent Bolloré."
+    },
+    {
+      "id": 700,
+      "start": 1932.79,
+      "end": 1933.91,
+      "start_timestamp": "00:32:12.790",
+      "end_timestamp": "00:32:13.910",
+      "text": "La jeunesse,"
+    },
+    {
+      "id": 701,
+      "start": 1933.99,
+      "end": 1936.31,
+      "start_timestamp": "00:32:13.990",
+      "end_timestamp": "00:32:16.310",
+      "text": "si elle s'inscrit et si elle va voter,"
+    },
+    {
+      "id": 702,
+      "start": 1936.31,
+      "end": 1939.59,
+      "start_timestamp": "00:32:16.310",
+      "end_timestamp": "00:32:19.590",
+      "text": "elle peut faire basculer la présidentielle de 2027."
+    },
+    {
+      "id": 703,
+      "start": 1939.59,
+      "end": 1943.11,
+      "start_timestamp": "00:32:19.590",
+      "end_timestamp": "00:32:23.110",
+      "text": "Elle peut changer l'avenir d'un pays tout entier,"
+    },
+    {
+      "id": 704,
+      "start": 1943.11,
+      "end": 1944.95,
+      "start_timestamp": "00:32:23.110",
+      "end_timestamp": "00:32:24.950",
+      "text": "de ses départements d'outre-mer"
+    },
+    {
+      "id": 705,
+      "start": 1944.95,
+      "end": 1946.31,
+      "start_timestamp": "00:32:24.950",
+      "end_timestamp": "00:32:26.310",
+      "text": "et l'un du reste du monde."
+    },
+    {
+      "id": 706,
+      "start": 1946.31,
+      "end": 1948.31,
+      "start_timestamp": "00:32:26.310",
+      "end_timestamp": "00:32:28.310",
+      "text": "En 2022, la qualification pour le second tour"
+    },
+    {
+      "id": 707,
+      "start": 1948.31,
+      "end": 1951.11,
+      "start_timestamp": "00:32:28.310",
+      "end_timestamp": "00:32:31.110",
+      "text": "s'est jouée à environ 420 000 voix."
+    },
+    {
+      "id": 708,
+      "start": 1951.11,
+      "end": 1952.15,
+      "start_timestamp": "00:32:31.110",
+      "end_timestamp": "00:32:32.150",
+      "text": "Et chez les jeunes,"
+    },
+    {
+      "id": 709,
+      "start": 1952.15,
+      "end": 1954.07,
+      "start_timestamp": "00:32:32.150",
+      "end_timestamp": "00:32:34.070",
+      "text": "les 18-24 ans, selon Ipsos,"
+    },
+    {
+      "id": 710,
+      "start": 1954.07,
+      "end": 1956.23,
+      "start_timestamp": "00:32:34.070",
+      "end_timestamp": "00:32:36.230",
+      "text": "42% ne sont pas allés voter"
+    },
+    {
+      "id": 711,
+      "start": 1956.23,
+      "end": 1958.63,
+      "start_timestamp": "00:32:36.230",
+      "end_timestamp": "00:32:38.630",
+      "text": "contre 26 pour l'ensemble des inscrits."
+    },
+    {
+      "id": 712,
+      "start": 1958.63,
+      "end": 1959.91,
+      "start_timestamp": "00:32:38.630",
+      "end_timestamp": "00:32:39.910",
+      "text": "Faites le calcul."
+    },
+    {
+      "id": 713,
+      "start": 1959.91,
+      "end": 1960.71,
+      "start_timestamp": "00:32:39.910",
+      "end_timestamp": "00:32:40.710",
+      "text": "Alors moi,"
+    },
+    {
+      "id": 714,
+      "start": 1960.71,
+      "end": 1961.75,
+      "start_timestamp": "00:32:40.710",
+      "end_timestamp": "00:32:41.750",
+      "text": "je pense que c'est pour ça"
+    },
+    {
+      "id": 715,
+      "start": 1961.75,
+      "end": 1963.83,
+      "start_timestamp": "00:32:41.750",
+      "end_timestamp": "00:32:43.830",
+      "text": "qu'on vous montre le feu à la télévision."
+    },
+    {
+      "id": 716,
+      "start": 1963.99,
+      "end": 1967.27,
+      "start_timestamp": "00:32:43.990",
+      "end_timestamp": "00:32:47.270",
+      "text": "C'est pour ça que les médias sont majoritairement,"
+    },
+    {
+      "id": 717,
+      "start": 1967.27,
+      "end": 1969.03,
+      "start_timestamp": "00:32:47.270",
+      "end_timestamp": "00:32:49.030",
+      "text": "à quelques exceptions près,"
+    },
+    {
+      "id": 718,
+      "start": 1969.03,
+      "end": 1971.43,
+      "start_timestamp": "00:32:49.030",
+      "end_timestamp": "00:32:51.430",
+      "text": "focalisés sur les violences."
+    },
+    {
+      "id": 719,
+      "start": 1971.43,
+      "end": 1973.67,
+      "start_timestamp": "00:32:51.430",
+      "end_timestamp": "00:32:53.670",
+      "text": "Les fameuses 1,2%."
+    },
+    {
+      "id": 720,
+      "start": 1973.67,
+      "end": 1975.83,
+      "start_timestamp": "00:32:53.670",
+      "end_timestamp": "00:32:55.830",
+      "text": "En mode, ils sont juste là en train de..."
+    },
+    {
+      "id": 721,
+      "start": 1975.83,
+      "end": 1981.08,
+      "start_timestamp": "00:32:55.830",
+      "end_timestamp": "00:33:01.080",
+      "text": "En mode, je brûle des poubelles, etc."
+    },
+    {
+      "id": 722,
+      "start": 1981.08,
+      "end": 1982.12,
+      "start_timestamp": "00:33:01.080",
+      "end_timestamp": "00:33:02.120",
+      "text": "Et c'est dommage parce que"
+    },
+    {
+      "id": 723,
+      "start": 1982.12,
+      "end": 1983.64,
+      "start_timestamp": "00:33:02.120",
+      "end_timestamp": "00:33:03.640",
+      "text": "tout ce que les gens vont filmer, c'est ça."
+    },
+    {
+      "id": 724,
+      "start": 1983.64,
+      "end": 1985.64,
+      "start_timestamp": "00:33:03.640",
+      "end_timestamp": "00:33:05.640",
+      "text": "Et vraiment, il n'y a aucune presse,"
+    },
+    {
+      "id": 725,
+      "start": 1985.64,
+      "end": 1987.96,
+      "start_timestamp": "00:33:05.640",
+      "end_timestamp": "00:33:07.960",
+      "text": "il n'y a aucun journaliste qui est ici."
+    },
+    {
+      "id": 726,
+      "start": 1987.96,
+      "end": 1990.12,
+      "start_timestamp": "00:33:07.960",
+      "end_timestamp": "00:33:10.120",
+      "text": "Genre, c'est hallucinant."
+    },
+    {
+      "id": 727,
+      "start": 1990.12,
+      "end": 1992.28,
+      "start_timestamp": "00:33:10.120",
+      "end_timestamp": "00:33:12.280",
+      "text": "Une jeunesse qui casse, ça fait peur."
+    },
+    {
+      "id": 728,
+      "start": 1992.28,
+      "end": 1994.76,
+      "start_timestamp": "00:33:12.280",
+      "end_timestamp": "00:33:14.760",
+      "text": "Ça légitimise de faire passer des lois"
+    },
+    {
+      "id": 729,
+      "start": 1994.76,
+      "end": 1996.36,
+      "start_timestamp": "00:33:14.760",
+      "end_timestamp": "00:33:16.360",
+      "text": "à l'Assemblée nationale,"
+    },
+    {
+      "id": 730,
+      "start": 1996.36,
+      "end": 1998.36,
+      "start_timestamp": "00:33:16.360",
+      "end_timestamp": "00:33:18.360",
+      "text": "d'amener de plus en plus d'État policier,"
+    },
+    {
+      "id": 731,
+      "start": 1998.36,
+      "end": 2000.2,
+      "start_timestamp": "00:33:18.360",
+      "end_timestamp": "00:33:20.200",
+      "text": "de vous priver de démocratie,"
+    },
+    {
+      "id": 732,
+      "start": 2000.2,
+      "end": 2001.8,
+      "start_timestamp": "00:33:20.200",
+      "end_timestamp": "00:33:21.800",
+      "text": "de liberté pour maintenir"
+    },
+    {
+      "id": 733,
+      "start": 2001.8,
+      "end": 2003.8,
+      "start_timestamp": "00:33:21.800",
+      "end_timestamp": "00:33:23.800",
+      "text": "le modèle économique en l'État."
+    },
+    {
+      "id": 734,
+      "start": 2003.8,
+      "end": 2005.56,
+      "start_timestamp": "00:33:23.800",
+      "end_timestamp": "00:33:25.560",
+      "text": "Littéralement en train de casser les citoyens"
+    },
+    {
+      "id": 735,
+      "start": 2005.56,
+      "end": 2007.0,
+      "start_timestamp": "00:33:25.560",
+      "end_timestamp": "00:33:27.000",
+      "text": "et qui ne prend pas du tout en compte"
+    },
+    {
+      "id": 736,
+      "start": 2007.0,
+      "end": 2008.12,
+      "start_timestamp": "00:33:27.000",
+      "end_timestamp": "00:33:28.120",
+      "text": "les neuf limites planétaires"
+    },
+    {
+      "id": 737,
+      "start": 2008.12,
+      "end": 2009.48,
+      "start_timestamp": "00:33:28.120",
+      "end_timestamp": "00:33:29.480",
+      "text": "et limites des ressources."
+    },
+    {
+      "id": 738,
+      "start": 2009.48,
+      "end": 2011.4,
+      "start_timestamp": "00:33:29.480",
+      "end_timestamp": "00:33:31.400",
+      "text": "Changement climatique,"
+    },
+    {
+      "id": 739,
+      "start": 2011.4,
+      "end": 2012.44,
+      "start_timestamp": "00:33:31.400",
+      "end_timestamp": "00:33:32.440",
+      "text": "pénurie, tout ça."
+    },
+    {
+      "id": 740,
+      "start": 2012.44,
+      "end": 2014.36,
+      "start_timestamp": "00:33:32.440",
+      "end_timestamp": "00:33:34.360",
+      "text": "Mais une jeunesse qui vote, les amis,"
+    },
+    {
+      "id": 741,
+      "start": 2014.36,
+      "end": 2017.72,
+      "start_timestamp": "00:33:34.360",
+      "end_timestamp": "00:33:37.720",
+      "text": "ça, c'est ce qui leur fait encore plus peur."
+    },
+    {
+      "id": 742,
+      "start": 2017.72,
+      "end": 2019.8,
+      "start_timestamp": "00:33:37.720",
+      "end_timestamp": "00:33:39.800",
+      "text": "Alors, je ne peux pas lire dans leur tête forcément,"
+    },
+    {
+      "id": 743,
+      "start": 2019.8,
+      "end": 2021.8,
+      "start_timestamp": "00:33:39.800",
+      "end_timestamp": "00:33:41.800",
+      "text": "mais je bosse en médias mainstream."
+    },
+    {
+      "id": 744,
+      "start": 2021.8,
+      "end": 2023.08,
+      "start_timestamp": "00:33:41.800",
+      "end_timestamp": "00:33:43.080",
+      "text": "Je coton encore quelques personnes"
+    },
+    {
+      "id": 745,
+      "start": 2023.08,
+      "end": 2023.96,
+      "start_timestamp": "00:33:43.080",
+      "end_timestamp": "00:33:43.960",
+      "text": "qui viennent de là."
+    },
+    {
+      "id": 746,
+      "start": 2023.96,
+      "end": 2025.4,
+      "start_timestamp": "00:33:43.960",
+      "end_timestamp": "00:33:45.400",
+      "text": "Je vois le dosage"
+    },
+    {
+      "id": 747,
+      "start": 2025.4,
+      "end": 2026.84,
+      "start_timestamp": "00:33:45.400",
+      "end_timestamp": "00:33:46.840",
+      "text": "et je vois qu'ils profitent."
+    },
+    {
+      "id": 748,
+      "start": 2026.84,
+      "end": 2027.96,
+      "start_timestamp": "00:33:46.840",
+      "end_timestamp": "00:33:47.960",
+      "text": "Et si cette jeunesse là,"
+    },
+    {
+      "id": 749,
+      "start": 2027.96,
+      "end": 2030.12,
+      "start_timestamp": "00:33:47.960",
+      "end_timestamp": "00:33:50.120",
+      "text": "avec tous ceux qui l'ont rejoint de samedi,"
+    },
+    {
+      "id": 750,
+      "start": 2030.12,
+      "end": 2032.68,
+      "start_timestamp": "00:33:50.120",
+      "end_timestamp": "00:33:52.680",
+      "text": "va voter en masse en avril,"
+    },
+    {
+      "id": 751,
+      "start": 2032.68,
+      "end": 2034.04,
+      "start_timestamp": "00:33:52.680",
+      "end_timestamp": "00:33:54.040",
+      "text": "elle peut mettre à la tête du pays"
+    },
+    {
+      "id": 752,
+      "start": 2034.04,
+      "end": 2035.64,
+      "start_timestamp": "00:33:54.040",
+      "end_timestamp": "00:33:55.640",
+      "text": "quelque chose de neuf."
+    },
+    {
+      "id": 753,
+      "start": 2035.64,
+      "end": 2037.8,
+      "start_timestamp": "00:33:55.640",
+      "end_timestamp": "00:33:57.800",
+      "text": "Quelque chose qu'on n'a pas vu depuis très longtemps."
+    },
+    {
+      "id": 754,
+      "start": 2037.8,
+      "end": 2039.4,
+      "start_timestamp": "00:33:57.800",
+      "end_timestamp": "00:33:59.400",
+      "text": "Peut-être jamais d'ailleurs."
+    },
+    {
+      "id": 755,
+      "start": 2039.4,
+      "end": 2041.48,
+      "start_timestamp": "00:33:59.400",
+      "end_timestamp": "00:34:01.480",
+      "text": "Un coup de pied dans la fourmilière du capitalisme"
+    },
+    {
+      "id": 756,
+      "start": 2041.48,
+      "end": 2043.56,
+      "start_timestamp": "00:34:01.480",
+      "end_timestamp": "00:34:03.560",
+      "text": "qui est entré dans sa finitude des ressources"
+    },
+    {
+      "id": 757,
+      "start": 2043.56,
+      "end": 2045.16,
+      "start_timestamp": "00:34:03.560",
+      "end_timestamp": "00:34:05.160",
+      "text": "et qui active le fascisme"
+    },
+    {
+      "id": 758,
+      "start": 2045.16,
+      "end": 2047.72,
+      "start_timestamp": "00:34:05.160",
+      "end_timestamp": "00:34:07.720",
+      "text": "pour se maintenir le plus longtemps possible."
+    },
+    {
+      "id": 759,
+      "start": 2047.72,
+      "end": 2050.04,
+      "start_timestamp": "00:34:07.720",
+      "end_timestamp": "00:34:10.040",
+      "text": "Celui qui te fait payer le plein à 116 euros"
+    },
+    {
+      "id": 760,
+      "start": 2050.04,
+      "end": 2051.16,
+      "start_timestamp": "00:34:10.040",
+      "end_timestamp": "00:34:11.160",
+      "text": "pendant que les grandes fortunes"
+    },
+    {
+      "id": 761,
+      "start": 2051.16,
+      "end": 2053.8,
+      "start_timestamp": "00:34:11.160",
+      "end_timestamp": "00:34:13.800",
+      "text": "multiplient leurs fortunes en quelques années."
+    },
+    {
+      "id": 762,
+      "start": 2053.88,
+      "end": 2056.04,
+      "start_timestamp": "00:34:13.880",
+      "end_timestamp": "00:34:16.040",
+      "text": "Eh bien, s'il y avait un vote"
+    },
+    {
+      "id": 763,
+      "start": 2056.04,
+      "end": 2057.72,
+      "start_timestamp": "00:34:16.040",
+      "end_timestamp": "00:34:17.720",
+      "text": "par rapport à ce qui est en train de se passer,"
+    },
+    {
+      "id": 764,
+      "start": 2057.72,
+      "end": 2060.84,
+      "start_timestamp": "00:34:17.720",
+      "end_timestamp": "00:34:20.840",
+      "text": "ça redistribuerait toutes les cartes du pouvoir"
+    },
+    {
+      "id": 765,
+      "start": 2060.84,
+      "end": 2063.64,
+      "start_timestamp": "00:34:20.840",
+      "end_timestamp": "00:34:23.640",
+      "text": "à condition d'avoir un véritable bon projet politique derrière."
+    },
+    {
+      "id": 766,
+      "start": 2063.64,
+      "end": 2065.96,
+      "start_timestamp": "00:34:23.640",
+      "end_timestamp": "00:34:25.960",
+      "text": "En fait, c'est généralement un élan révolutionnaire."
+    },
+    {
+      "id": 767,
+      "start": 2065.96,
+      "end": 2067.96,
+      "start_timestamp": "00:34:25.960",
+      "end_timestamp": "00:34:27.960",
+      "text": "Pas avec des pavés, mais avec des bulletins."
+    },
+    {
+      "id": 768,
+      "start": 2067.96,
+      "end": 2070.04,
+      "start_timestamp": "00:34:27.960",
+      "end_timestamp": "00:34:30.040",
+      "text": "Et si la France fait la différence dans les urnes,"
+    },
+    {
+      "id": 769,
+      "start": 2070.04,
+      "end": 2072.76,
+      "start_timestamp": "00:34:30.040",
+      "end_timestamp": "00:34:32.760",
+      "text": "c'est le monde entier qui regardera"
+    },
+    {
+      "id": 770,
+      "start": 2072.76,
+      "end": 2074.52,
+      "start_timestamp": "00:34:32.760",
+      "end_timestamp": "00:34:34.520",
+      "text": "et qui verra que c'est possible"
+    },
+    {
+      "id": 771,
+      "start": 2074.52,
+      "end": 2075.88,
+      "start_timestamp": "00:34:34.520",
+      "end_timestamp": "00:34:35.880",
+      "text": "et pourrait potentiellement offrir"
+    },
+    {
+      "id": 772,
+      "start": 2075.88,
+      "end": 2078.12,
+      "start_timestamp": "00:34:35.880",
+      "end_timestamp": "00:34:38.120",
+      "text": "une vague d'espoir dans le monde"
+    },
+    {
+      "id": 773,
+      "start": 2078.12,
+      "end": 2080.52,
+      "start_timestamp": "00:34:38.120",
+      "end_timestamp": "00:34:40.520",
+      "text": "où les données montrent que la démocratie"
+    },
+    {
+      "id": 774,
+      "start": 2080.52,
+      "end": 2081.4,
+      "start_timestamp": "00:34:40.520",
+      "end_timestamp": "00:34:41.400",
+      "text": "est en train de reculer,"
+    },
+    {
+      "id": 775,
+      "start": 2081.4,
+      "end": 2082.84,
+      "start_timestamp": "00:34:41.400",
+      "end_timestamp": "00:34:42.840",
+      "text": "que les mouvements fascistes"
+    },
+    {
+      "id": 776,
+      "start": 2082.84,
+      "end": 2084.76,
+      "start_timestamp": "00:34:42.840",
+      "end_timestamp": "00:34:44.760",
+      "text": "sont en train de prendre de l'ampleur."
+    },
+    {
+      "id": 777,
+      "start": 2084.76,
+      "end": 2086.84,
+      "start_timestamp": "00:34:44.760",
+      "end_timestamp": "00:34:46.840",
+      "text": "Et une chose concrète, la présidentielle,"
+    },
+    {
+      "id": 778,
+      "start": 2086.84,
+      "end": 2090.28,
+      "start_timestamp": "00:34:46.840",
+      "end_timestamp": "00:34:50.280",
+      "text": "c'est les 18 avril et 2 mai 2027."
+    },
+    {
+      "id": 779,
+      "start": 2090.28,
+      "end": 2092.12,
+      "start_timestamp": "00:34:50.280",
+      "end_timestamp": "00:34:52.120",
+      "text": "Vous avez jusqu'au vendredi 12 marques"
+    },
+    {
+      "id": 780,
+      "start": 2092.12,
+      "end": 2093.72,
+      "start_timestamp": "00:34:52.120",
+      "end_timestamp": "00:34:53.720",
+      "text": "pour vous inscrire sur les listes électorales."
+    },
+    {
+      "id": 781,
+      "start": 2093.72,
+      "end": 2096.12,
+      "start_timestamp": "00:34:53.720",
+      "end_timestamp": "00:34:56.120",
+      "text": "Vous vérifiez sur celle-ci, public.fr."
+    },
+    {
+      "id": 782,
+      "start": 2096.12,
+      "end": 2097.48,
+      "start_timestamp": "00:34:56.120",
+      "end_timestamp": "00:34:57.480",
+      "text": "Ça prend 5 minutes."
+    },
+    {
+      "id": 783,
+      "start": 2097.48,
+      "end": 2099.4,
+      "start_timestamp": "00:34:57.480",
+      "end_timestamp": "00:34:59.400",
+      "text": "Alors, je ne vous dirai pas pour qui voter ici,"
+    },
+    {
+      "id": 784,
+      "start": 2099.4,
+      "end": 2101.64,
+      "start_timestamp": "00:34:59.400",
+      "end_timestamp": "00:35:01.640",
+      "text": "mais vous suivez nos vidéos, allez voter."
+    },
+    {
+      "id": 785,
+      "start": 2101.64,
+      "end": 2103.4,
+      "start_timestamp": "00:35:01.640",
+      "end_timestamp": "00:35:03.400",
+      "text": "Et pour ceux qui n'ont pas encore 18 ans,"
+    },
+    {
+      "id": 786,
+      "start": 2103.4,
+      "end": 2105.24,
+      "start_timestamp": "00:35:03.400",
+      "end_timestamp": "00:35:05.240",
+      "text": "vous avez la rue, les manifestations,"
+    },
+    {
+      "id": 787,
+      "start": 2105.24,
+      "end": 2107.56,
+      "start_timestamp": "00:35:05.240",
+      "end_timestamp": "00:35:07.560",
+      "text": "la joie, la fête et la rue, vous l'avez déjà prise."
+    },
+    {
+      "id": 788,
+      "start": 2107.56,
+      "end": 2109.08,
+      "start_timestamp": "00:35:07.560",
+      "end_timestamp": "00:35:09.080",
+      "text": "La suite, elle est en cours."
+    },
+    {
+      "id": 789,
+      "start": 2109.08,
+      "end": 2110.76,
+      "start_timestamp": "00:35:09.080",
+      "end_timestamp": "00:35:10.760",
+      "text": "Si vous ne savez pas encore pour qui voter,"
+    },
+    {
+      "id": 790,
+      "start": 2110.76,
+      "end": 2112.04,
+      "start_timestamp": "00:35:10.760",
+      "end_timestamp": "00:35:12.040",
+      "text": "27 et 28 octobre,"
+    },
+    {
+      "id": 791,
+      "start": 2112.04,
+      "end": 2113.96,
+      "start_timestamp": "00:35:12.040",
+      "end_timestamp": "00:35:13.960",
+      "text": "le Sénat examine la loi casseur-payeur."
+    },
+    {
+      "id": 792,
+      "start": 2113.96,
+      "end": 2115.08,
+      "start_timestamp": "00:35:13.960",
+      "end_timestamp": "00:35:15.080",
+      "text": "Regardez qui vote quoi."
+    },
+    {
+      "id": 793,
+      "start": 2115.08,
+      "end": 2118.2,
+      "start_timestamp": "00:35:15.080",
+      "end_timestamp": "00:35:18.200",
+      "text": "Vous aurez des réponses sur qui protège le modèle"
+    },
+    {
+      "id": 794,
+      "start": 2118.2,
+      "end": 2119.4,
+      "start_timestamp": "00:35:18.200",
+      "end_timestamp": "00:35:19.400",
+      "text": "et n'est pas là pour les citoyens."
+    },
+    {
+      "id": 795,
+      "start": 2119.4,
+      "end": 2120.28,
+      "start_timestamp": "00:35:19.400",
+      "end_timestamp": "00:35:20.280",
+      "text": "Aussi simple que ça."
+    },
+    {
+      "id": 796,
+      "start": 2120.28,
+      "end": 2121.32,
+      "start_timestamp": "00:35:20.280",
+      "end_timestamp": "00:35:21.320",
+      "text": "Deux novembre, c'est la rentrée."
+    },
+    {
+      "id": 797,
+      "start": 2121.32,
+      "end": 2122.76,
+      "start_timestamp": "00:35:21.320",
+      "end_timestamp": "00:35:22.760",
+      "text": "Les lycéens retrouvent leur lycée,"
+    },
+    {
+      "id": 798,
+      "start": 2122.76,
+      "end": 2124.2,
+      "start_timestamp": "00:35:22.760",
+      "end_timestamp": "00:35:24.200",
+      "text": "leurs profs absents."
+    },
+    {
+      "id": 799,
+      "start": 2124.2,
+      "end": 2126.6,
+      "start_timestamp": "00:35:24.200",
+      "end_timestamp": "00:35:26.600",
+      "text": "5 novembre, l'inter-syndical appelle à la grève"
+    },
+    {
+      "id": 800,
+      "start": 2126.6,
+      "end": 2128.12,
+      "start_timestamp": "00:35:26.600",
+      "end_timestamp": "00:35:28.120",
+      "text": "et a manifesté partout en France,"
+    },
+    {
+      "id": 801,
+      "start": 2128.12,
+      "end": 2129.32,
+      "start_timestamp": "00:35:28.120",
+      "end_timestamp": "00:35:29.320",
+      "text": "public et privé."
+    },
+    {
+      "id": 802,
+      "start": 2129.32,
+      "end": 2131.48,
+      "start_timestamp": "00:35:29.320",
+      "end_timestamp": "00:35:31.480",
+      "text": "Cette fois avec la CFDT et le FO."
+    },
+    {
+      "id": 803,
+      "start": 2131.48,
+      "end": 2133.08,
+      "start_timestamp": "00:35:31.480",
+      "end_timestamp": "00:35:33.080",
+      "text": "Donc ça y est, ça revient, ça continue."
+    },
+    {
+      "id": 804,
+      "start": 2133.08,
+      "end": 2135.32,
+      "start_timestamp": "00:35:33.080",
+      "end_timestamp": "00:35:35.320",
+      "text": "Et d'autres événements sont en préparation."
+    },
+    {
+      "id": 805,
+      "start": 2135.32,
+      "end": 2136.92,
+      "start_timestamp": "00:35:35.320",
+      "end_timestamp": "00:35:36.920",
+      "text": "Alors, enfant de la patrie,"
+    },
+    {
+      "id": 806,
+      "start": 2136.92,
+      "end": 2139.56,
+      "start_timestamp": "00:35:36.920",
+      "end_timestamp": "00:35:39.560",
+      "text": "le jour de gloire est-il arrivé ?"
+    },
+    {
+      "id": 807,
+      "start": 2139.56,
+      "end": 2140.6,
+      "start_timestamp": "00:35:39.560",
+      "end_timestamp": "00:35:40.600",
+      "text": "Et ben, personnellement, je crois"
+    },
+    {
+      "id": 808,
+      "start": 2140.6,
+      "end": 2142.92,
+      "start_timestamp": "00:35:40.600",
+      "end_timestamp": "00:35:42.920",
+      "text": "qu'il ne fait plutôt que commencer."
+    },
+    {
+      "id": 809,
+      "start": 2142.92,
+      "end": 2144.04,
+      "start_timestamp": "00:35:42.920",
+      "end_timestamp": "00:35:44.040",
+      "text": "Je ne suis pas là pour vous raconter"
+    },
+    {
+      "id": 810,
+      "start": 2144.04,
+      "end": 2145.56,
+      "start_timestamp": "00:35:44.040",
+      "end_timestamp": "00:35:45.560",
+      "text": "la même sauce que les chaînes d'infos."
+    },
+    {
+      "id": 811,
+      "start": 2145.56,
+      "end": 2146.68,
+      "start_timestamp": "00:35:45.560",
+      "end_timestamp": "00:35:46.680",
+      "text": "C'est votre aide sur Tipeee"
+    },
+    {
+      "id": 812,
+      "start": 2146.68,
+      "end": 2148.04,
+      "start_timestamp": "00:35:46.680",
+      "end_timestamp": "00:35:48.040",
+      "text": "qui a permis vraiment de faire cette vidéo"
+    },
+    {
+      "id": 813,
+      "start": 2148.04,
+      "end": 2151.0,
+      "start_timestamp": "00:35:48.040",
+      "end_timestamp": "00:35:51.000",
+      "text": "dans un temps record avec les illustrations, tout ça."
+    },
+    {
+      "id": 814,
+      "start": 2151.0,
+      "end": 2152.12,
+      "start_timestamp": "00:35:51.000",
+      "end_timestamp": "00:35:52.120",
+      "text": "Et chers amis,"
+    },
+    {
+      "id": 815,
+      "start": 2152.12,
+      "end": 2154.04,
+      "start_timestamp": "00:35:52.120",
+      "end_timestamp": "00:35:54.040",
+      "text": "si vous êtes encore là au moment de cette vidéo"
+    },
+    {
+      "id": 816,
+      "start": 2154.04,
+      "end": 2154.92,
+      "start_timestamp": "00:35:54.040",
+      "end_timestamp": "00:35:54.920",
+      "text": "pour voir qui sont les vrais,"
+    },
+    {
+      "id": 817,
+      "start": 2154.92,
+      "end": 2155.96,
+      "start_timestamp": "00:35:54.920",
+      "end_timestamp": "00:35:55.960",
+      "text": "qui sont restés jusqu'au bout,"
+    },
+    {
+      "id": 818,
+      "start": 2155.96,
+      "end": 2157.64,
+      "start_timestamp": "00:35:55.960",
+      "end_timestamp": "00:35:57.640",
+      "text": "et bien je vous invite à commenter."
+    },
+    {
+      "id": 819,
+      "start": 2157.64,
+      "end": 2158.68,
+      "start_timestamp": "00:35:57.640",
+      "end_timestamp": "00:35:58.680",
+      "text": "Convergence."
+    },
+    {
+      "id": 820,
+      "start": 2158.68,
+      "end": 2159.72,
+      "start_timestamp": "00:35:58.680",
+      "end_timestamp": "00:35:59.720",
+      "text": "C'était Vince."
+    },
+    {
+      "id": 821,
+      "start": 2159.72,
+      "end": 2160.68,
+      "start_timestamp": "00:35:59.720",
+      "end_timestamp": "00:36:00.680",
+      "text": "Prenez soin de vous."
+    },
+    {
+      "id": 822,
+      "start": 2160.68,
+      "end": 2162.44,
+      "start_timestamp": "00:36:00.680",
+      "end_timestamp": "00:36:02.440",
+      "text": "Liberté, égalité, fraternité."
+    },
+    {
+      "id": 823,
+      "start": 2162.44,
+      "end": 2163.88,
+      "start_timestamp": "00:36:02.440",
+      "end_timestamp": "00:36:03.880",
+      "text": "Et à bientôt sur Limite."
+    },
+    {
+      "id": 824,
+      "start": 2163.88,
+      "end": 2165.16,
+      "start_timestamp": "00:36:03.880",
+      "end_timestamp": "00:36:05.160",
+      "text": "Ciao tout le monde."
+    }
+  ]
+}

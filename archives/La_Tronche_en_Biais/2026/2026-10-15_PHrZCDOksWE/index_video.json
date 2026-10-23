@@ -1,0 +1,215 @@
+{
+  "arguments_positions": [
+    {
+      "position": "Il faut distinguer doctrine institutionnelle et actes individuels",
+      "horodatages": [
+        "00:04:06",
+        "00:06:02"
+      ]
+    },
+    {
+      "position": "Une police moins paramilitaire et plus ciblée peut être perçue comme plus légitime",
+      "horodatages": [
+        "00:08:05",
+        "00:10:04"
+      ]
+    },
+    {
+      "position": "La doctrine française manque d'évaluation indépendante et de données sanitaires",
+      "horodatages": [
+        "00:18:03",
+        "00:30:07"
+      ]
+    }
+  ],
+  "citations_exactes": [],
+  "concepts": [
+    {
+      "nom": "doctrine de maintien de l'ordre",
+      "horodatages": [
+        "00:06:02"
+      ]
+    },
+    {
+      "nom": "désescalade",
+      "horodatages": [
+        "00:08:05"
+      ]
+    },
+    {
+      "nom": "armes intermédiaires",
+      "horodatages": [
+        "00:16:05",
+        "00:30:07"
+      ]
+    },
+    {
+      "nom": "évaluation indépendante",
+      "horodatages": [
+        "00:18:03",
+        "00:24:02"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [],
+  "expressions_representatives": [
+    {
+      "expression": "science du maintien de l'ordre",
+      "horodatages": [
+        "00:02:03"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:16:05"
+      ]
+    },
+    {
+      "nom": "États-Unis",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:14:03"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "maintien de l'ordre",
+    "violences policières",
+    "LBD",
+    "grenades",
+    "lacrymogènes",
+    "matraque",
+    "désescalade",
+    "IGPN",
+    "irritants chimiques",
+    "études"
+  ],
+  "organismes": [
+    {
+      "nom": "Police nationale",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:18:03"
+      ]
+    },
+    {
+      "nom": "Association toxicologie-chimie de Paris",
+      "niveau": "mention",
+      "horodatages": [
+        "00:26:02"
+      ]
+    },
+    {
+      "nom": "institutions internationales",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:20:05"
+      ]
+    }
+  ],
+  "personnes": [],
+  "relations_documentaires": [
+    {
+      "source": "force ciblée et proportionnée",
+      "relation": "augmente selon les études citées",
+      "cible": "légitimité perçue",
+      "horodatages": [
+        "00:10:04"
+      ]
+    },
+    {
+      "source": "absence de données",
+      "relation": "empêche",
+      "cible": "justification rationnelle de la doctrine",
+      "horodatages": [
+        "00:30:07"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:06:00",
+      "titre": "Cadre scientifique et armes"
+    },
+    {
+      "debut": "00:06:00",
+      "fin": "00:12:00",
+      "titre": "Doctrine, légitimité et ciblage"
+    },
+    {
+      "debut": "00:12:00",
+      "fin": "00:18:00",
+      "titre": "Contraintes et évolution française"
+    },
+    {
+      "debut": "00:18:00",
+      "fin": "00:24:00",
+      "titre": "Contrôle et responsabilité institutionnelle"
+    },
+    {
+      "debut": "00:24:00",
+      "fin": "00:32:46",
+      "titre": "Irritants chimiques et manque d'évaluation"
+    }
+  ],
+  "resume_general": "Revue critique des recherches sur le maintien de l'ordre, la légitimité, les armes intermédiaires et le déficit français d'évaluation indépendante.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "effets sanitaires des gaz lacrymogènes",
+      "horodatages": [
+        "00:26:02",
+        "00:28:01"
+      ]
+    },
+    {
+      "sujet": "interpellations et gardes à vue",
+      "horodatages": [
+        "00:20:05"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "science du maintien de l'ordre",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "theme": "doctrine française",
+      "horodatages": [
+        "00:16:05"
+      ]
+    },
+    {
+      "theme": "données sanitaires",
+      "horodatages": [
+        "00:26:02"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "armes intermédiaires",
+      "variantes": [
+        "LBD",
+        "grenades assourdissantes",
+        "lacrymogènes"
+      ]
+    },
+    {
+      "canonique": "contrôle policier",
+      "variantes": [
+        "inspection",
+        "évaluation"
+      ]
+    }
+  ],
+  "video_id": "PHrZCDOksWE"
+}

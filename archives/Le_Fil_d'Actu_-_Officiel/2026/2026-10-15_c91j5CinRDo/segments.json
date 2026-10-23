@@ -1,0 +1,3353 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.44,
+      "start_timestamp": "00:00:00.000",
+      "end_timestamp": "00:00:04.440",
+      "text": "Bonjour et bienvenue dans le Fille d'Actu, l'émission qui donne du sens à l'information."
+    },
+    {
+      "id": 1,
+      "start": 7.63,
+      "end": 10.47,
+      "start_timestamp": "00:00:07.630",
+      "end_timestamp": "00:00:10.470",
+      "text": "Un objet politique difficilement identifiable,"
+    },
+    {
+      "id": 2,
+      "start": 10.47,
+      "end": 15.79,
+      "start_timestamp": "00:00:10.470",
+      "end_timestamp": "00:00:15.790",
+      "text": "mais par bien des aspects révélateurs des mots profonds qui ravagent notre pays"
+    },
+    {
+      "id": 3,
+      "start": 15.79,
+      "end": 19.31,
+      "start_timestamp": "00:00:15.790",
+      "end_timestamp": "00:00:19.310",
+      "text": "et de l'abîme qui menace à brève échéance de l'engloutir."
+    },
+    {
+      "id": 4,
+      "start": 19.31,
+      "end": 23.91,
+      "start_timestamp": "00:00:19.310",
+      "end_timestamp": "00:00:23.910",
+      "text": "Ces derniers jours, et encore de manière résiduelle à l'heure où nous tournons cette vidéo,"
+    },
+    {
+      "id": 5,
+      "start": 23.91,
+      "end": 30.07,
+      "start_timestamp": "00:00:23.910",
+      "end_timestamp": "00:00:30.070",
+      "text": "la France a été le théâtre d'un mouvement contestataire aux contours et au déroulé très particuliers."
+    },
+    {
+      "id": 6,
+      "start": 30.07,
+      "end": 35.87,
+      "start_timestamp": "00:00:30.070",
+      "end_timestamp": "00:00:35.870",
+      "text": "Un mouvement dit lycéen, mais évoquant davantage dans sa première phase l'émeute urbaine"
+    },
+    {
+      "id": 7,
+      "start": 35.87,
+      "end": 43.43,
+      "start_timestamp": "00:00:35.870",
+      "end_timestamp": "00:00:43.430",
+      "text": "que la mobilisation lycéenne traditionnelle, tant par sa sociologie que par son déroulé ou son contenu revendicatif."
+    },
+    {
+      "id": 8,
+      "start": 43.43,
+      "end": 47.23,
+      "start_timestamp": "00:00:43.430",
+      "end_timestamp": "00:00:47.230",
+      "text": "Ceci, avant de prendre sous l'impulsion d'organisations politiques,"
+    },
+    {
+      "id": 9,
+      "start": 47.23,
+      "end": 53.23,
+      "start_timestamp": "00:00:47.230",
+      "end_timestamp": "00:00:53.230",
+      "text": "voyant là une formidable occasion d'imposer leur propre doléance et vision de la société dans le débat public,"
+    },
+    {
+      "id": 10,
+      "start": 53.23,
+      "end": 57.67,
+      "start_timestamp": "00:00:53.230",
+      "end_timestamp": "00:00:57.670",
+      "text": "une toute autre tournure, de changer de nature profonde"
+    },
+    {
+      "id": 11,
+      "start": 57.67,
+      "end": 61.15,
+      "start_timestamp": "00:00:57.670",
+      "end_timestamp": "00:01:01.150",
+      "text": "pour au final se rapprocher des inoffensives mobilisations"
+    },
+    {
+      "id": 12,
+      "start": 61.15,
+      "end": 64.87,
+      "start_timestamp": "00:01:01.150",
+      "end_timestamp": "00:01:04.870",
+      "text": "auxquelles les syndicats de la fonction publique nous ont habitué ces dernières années,"
+    },
+    {
+      "id": 13,
+      "start": 64.87,
+      "end": 70.59,
+      "start_timestamp": "00:01:04.870",
+      "end_timestamp": "00:01:10.590",
+      "text": "ironiquement sous les commentaires enthousiastes de militants persuadés de vivre un moment historique."
+    },
+    {
+      "id": 14,
+      "start": 70.59,
+      "end": 76.59,
+      "start_timestamp": "00:01:10.590",
+      "end_timestamp": "00:01:16.590",
+      "text": "Alors ce grand mouvement lycéen que certains sont allés jusqu'à oser comparer à mai 68,"
+    },
+    {
+      "id": 15,
+      "start": 76.59,
+      "end": 80.27,
+      "start_timestamp": "00:01:16.590",
+      "end_timestamp": "00:01:20.270",
+      "text": "serait-il un simple feu de paille voué à tomber dans l'oubli,"
+    },
+    {
+      "id": 16,
+      "start": 80.27,
+      "end": 83.75,
+      "start_timestamp": "00:01:20.270",
+      "end_timestamp": "00:01:23.750",
+      "text": "à l'image du mouvement Bloquons-Tout dont les mèmes il y a tout juste un an"
+    },
+    {
+      "id": 17,
+      "start": 83.75,
+      "end": 88.27,
+      "start_timestamp": "00:01:23.750",
+      "end_timestamp": "00:01:28.270",
+      "text": "nous promettaient qu'il serait le point de départ d'un grand moment de contestation populaire"
+    },
+    {
+      "id": 18,
+      "start": 88.27,
+      "end": 91.31,
+      "start_timestamp": "00:01:28.270",
+      "end_timestamp": "00:01:31.310",
+      "text": "et dont absolument personne aujourd'hui ne se souvient."
+    },
+    {
+      "id": 19,
+      "start": 91.31,
+      "end": 95.03,
+      "start_timestamp": "00:01:31.310",
+      "end_timestamp": "00:01:35.030",
+      "text": "Si cela semble évident à nos yeux et nous allons voir pourquoi ensemble,"
+    },
+    {
+      "id": 20,
+      "start": 95.03,
+      "end": 99.15,
+      "start_timestamp": "00:01:35.030",
+      "end_timestamp": "00:01:39.150",
+      "text": "reste que ce mouvement, y compris par ses aspects les moins tolérables,"
+    },
+    {
+      "id": 21,
+      "start": 99.15,
+      "end": 106.03,
+      "start_timestamp": "00:01:39.150",
+      "end_timestamp": "00:01:46.030",
+      "text": "aurait eu le mérite de mettre en lumière, pour peu que l'on accepte de l'analyser sans tabou et sans lunettes idéologiques,"
+    },
+    {
+      "id": 22,
+      "start": 106.03,
+      "end": 109.79,
+      "start_timestamp": "00:01:46.030",
+      "end_timestamp": "00:01:49.790",
+      "text": "un ensemble de difficultés bien réelles et extrêmement profondes"
+    },
+    {
+      "id": 23,
+      "start": 109.83,
+      "end": 115.43,
+      "start_timestamp": "00:01:49.830",
+      "end_timestamp": "00:01:55.430",
+      "text": "auxquelles la France est d'ores et déjà confrontée et qui demain prendront une ampleur bien plus considérable"
+    },
+    {
+      "id": 24,
+      "start": 115.43,
+      "end": 119.99,
+      "start_timestamp": "00:01:55.430",
+      "end_timestamp": "00:01:59.990",
+      "text": "si l'ensemble de la classe politique continue comme c'est le cas aujourd'hui de les rejeter sous le tapis."
+    },
+    {
+      "id": 25,
+      "start": 119.99,
+      "end": 125.75,
+      "start_timestamp": "00:01:59.990",
+      "end_timestamp": "00:02:05.750",
+      "text": "Alors quelles sont la signification et les implications réelles du mouvement lycéen ?"
+    },
+    {
+      "id": 26,
+      "start": 125.75,
+      "end": 129.03,
+      "start_timestamp": "00:02:05.750",
+      "end_timestamp": "00:02:09.030",
+      "text": "Termes nous le verrons très imparfaits mais que nous emploierons faute de mieux,"
+    },
+    {
+      "id": 27,
+      "start": 129.03,
+      "end": 131.23,
+      "start_timestamp": "00:02:09.030",
+      "end_timestamp": "00:02:11.230",
+      "text": "qu'a connu la France ces derniers jours."
+    },
+    {
+      "id": 28,
+      "start": 131.23,
+      "end": 134.99,
+      "start_timestamp": "00:02:11.230",
+      "end_timestamp": "00:02:14.990",
+      "text": "C'est ce que nous vous proposons de voir ensemble dans cette nouvelle vidéo du Field Actus."
+    },
+    {
+      "id": 29,
+      "start": 134.99,
+      "end": 138.19,
+      "start_timestamp": "00:02:14.990",
+      "end_timestamp": "00:02:18.190",
+      "text": "Avant cela nous prenons quelques secondes pour vous rappeler que le Field Actus"
+    },
+    {
+      "id": 30,
+      "start": 138.19,
+      "end": 143.51,
+      "start_timestamp": "00:02:18.190",
+      "end_timestamp": "00:02:23.510",
+      "text": "c'est un média 100% et réellement indépendant qui vit uniquement du soutien de son public."
+    },
+    {
+      "id": 31,
+      "start": 143.51,
+      "end": 147.03,
+      "start_timestamp": "00:02:23.510",
+      "end_timestamp": "00:02:27.030",
+      "text": "Aussi si à la fin de cette vidéo vous jugez notre travail d'analyse pertinent,"
+    },
+    {
+      "id": 32,
+      "start": 147.03,
+      "end": 152.23,
+      "start_timestamp": "00:02:27.030",
+      "end_timestamp": "00:02:32.230",
+      "text": "nous vous inviterons à le financer à hauteur de quelques euros par mois via notre page de financement participatif Tipeee"
+    },
+    {
+      "id": 33,
+      "start": 152.23,
+      "end": 155.55,
+      "start_timestamp": "00:02:32.230",
+      "end_timestamp": "00:02:35.550",
+      "text": "dont le lien se trouve dès à présent en barre d'info sous la vidéo."
+    },
+    {
+      "id": 34,
+      "start": 155.55,
+      "end": 160.27,
+      "start_timestamp": "00:02:35.550",
+      "end_timestamp": "00:02:40.270",
+      "text": "Pour plus d'informations on vous donne rendez-vous en fin d'émission mais tout de suite place à la réflexion."
+    },
+    {
+      "id": 35,
+      "start": 160.27,
+      "end": 167.39,
+      "start_timestamp": "00:02:40.270",
+      "end_timestamp": "00:02:47.390",
+      "text": "Notre pays voit se déployer le plus puissant mouvement de jeunesse lycéenne et étudiante"
+    },
+    {
+      "id": 36,
+      "start": 167.39,
+      "end": 170.51,
+      "start_timestamp": "00:02:47.390",
+      "end_timestamp": "00:02:50.510",
+      "text": "qu'il est connu depuis mai 1968."
+    },
+    {
+      "id": 37,
+      "start": 170.51,
+      "end": 175.19,
+      "start_timestamp": "00:02:50.510",
+      "end_timestamp": "00:02:55.190",
+      "text": "En tout il devrait y avoir aujourd'hui un peu moins de 200 lycées fermées,"
+    },
+    {
+      "id": 38,
+      "start": 175.19,
+      "end": 179.15,
+      "start_timestamp": "00:02:55.190",
+      "end_timestamp": "00:02:59.150",
+      "text": "c'est à dire près 4% d'establishments qui sont encore durement impactés par le mouvement."
+    },
+    {
+      "id": 39,
+      "start": 179.15,
+      "end": 181.87,
+      "start_timestamp": "00:02:59.150",
+      "end_timestamp": "00:03:01.870",
+      "text": "Donc ça veut dire que 96% des lycées aujourd'hui en France sont ouverts"
+    },
+    {
+      "id": 40,
+      "start": 181.87,
+      "end": 186.23,
+      "start_timestamp": "00:03:01.870",
+      "end_timestamp": "00:03:06.230",
+      "text": "et que dans les trois quarts des départements il n'y a aucune perturbation recensée."
+    },
+    {
+      "id": 41,
+      "start": 186.23,
+      "end": 191.75,
+      "start_timestamp": "00:03:06.230",
+      "end_timestamp": "00:03:11.750",
+      "text": "Soyez prudents, c'est une chose incroyable que vous êtes en train de faire mais vous n'en rendez pas compte."
+    },
+    {
+      "id": 42,
+      "start": 192.27,
+      "end": 197.79,
+      "start_timestamp": "00:03:12.270",
+      "end_timestamp": "00:03:17.790",
+      "text": "C'est le plus puissant mouvement de jeunesse qu'on ait vu depuis 50 ans."
+    },
+    {
+      "id": 43,
+      "start": 197.79,
+      "end": 202.43,
+      "start_timestamp": "00:03:17.790",
+      "end_timestamp": "00:03:22.430",
+      "text": "Les lycéens sont peut-être en train de faire l'histoire, alors la moindre des choses c'est qu'on soit avec eux."
+    },
+    {
+      "id": 44,
+      "start": 202.43,
+      "end": 206.23,
+      "start_timestamp": "00:03:22.430",
+      "end_timestamp": "00:03:26.230",
+      "text": "Il y a tellement de caractéristiques nouvelles que la première question à se poser"
+    },
+    {
+      "id": 45,
+      "start": 206.23,
+      "end": 209.31,
+      "start_timestamp": "00:03:26.230",
+      "end_timestamp": "00:03:29.310",
+      "text": "c'est pas de recommencer le vieux sketch comme il y a de poubelles qui brûlent,"
+    },
+    {
+      "id": 46,
+      "start": 209.31,
+      "end": 213.55,
+      "start_timestamp": "00:03:29.310",
+      "end_timestamp": "00:03:33.550",
+      "text": "des chiffres invraisemblables de policiers et de gendarmes blessés, enfin ça tient pas debout,"
+    },
+    {
+      "id": 47,
+      "start": 213.55,
+      "end": 216.19,
+      "start_timestamp": "00:03:33.550",
+      "end_timestamp": "00:03:36.190",
+      "text": "ils ont dû se blesser avec un trombone, c'est pas possible."
+    },
+    {
+      "id": 48,
+      "start": 222.7,
+      "end": 226.02,
+      "start_timestamp": "00:03:42.700",
+      "end_timestamp": "00:03:46.020",
+      "text": "Le ministre de la Justice qui envisage de faire payer les parents des casseurs,"
+    },
+    {
+      "id": 49,
+      "start": 226.06,
+      "end": 228.7,
+      "start_timestamp": "00:03:46.060",
+      "end_timestamp": "00:03:48.700",
+      "text": "j'ai été scandalisée, c'est toujours la même chose,"
+    },
+    {
+      "id": 50,
+      "start": 228.7,
+      "end": 233.14,
+      "start_timestamp": "00:03:48.700",
+      "end_timestamp": "00:03:53.140",
+      "text": "il faut arrêter de culpabiliser les familles, en plus ça tomberait sur les familles les plus précaires,"
+    },
+    {
+      "id": 51,
+      "start": 233.14,
+      "end": 236.74,
+      "start_timestamp": "00:03:53.140",
+      "end_timestamp": "00:03:56.740",
+      "text": "ce qu'il faut c'est répondre aux revendications des lycéens et des lycéennes."
+    },
+    {
+      "id": 52,
+      "start": 236.74,
+      "end": 240.34,
+      "start_timestamp": "00:03:56.740",
+      "end_timestamp": "00:04:00.340",
+      "text": "Qui paye Mme Binet ? Vous, moi, nos impôts, les impôts des français ?"
+    },
+    {
+      "id": 53,
+      "start": 240.34,
+      "end": 244.94,
+      "start_timestamp": "00:04:00.340",
+      "end_timestamp": "00:04:04.940",
+      "text": "Là en fait la question des dégradations elle est mineure par rapport aux moyens à débloquer"
+    },
+    {
+      "id": 54,
+      "start": 244.94,
+      "end": 248.54,
+      "start_timestamp": "00:04:04.940",
+      "end_timestamp": "00:04:08.540",
+      "text": "pour isoler nos établissements scolaires, pour mettre à niveau le bâti scolaire."
+    },
+    {
+      "id": 55,
+      "start": 248.54,
+      "end": 251.38,
+      "start_timestamp": "00:04:08.540",
+      "end_timestamp": "00:04:11.380",
+      "text": "Donc qui paye on sait pas, vous ne me répondez pas."
+    },
+    {
+      "id": 56,
+      "start": 251.38,
+      "end": 255.82,
+      "start_timestamp": "00:04:11.380",
+      "end_timestamp": "00:04:15.820",
+      "text": "De fait ça va être vous et nous, puisque ce sont les impôts des français."
+    },
+    {
+      "id": 57,
+      "start": 255.82,
+      "end": 260.38,
+      "start_timestamp": "00:04:15.820",
+      "end_timestamp": "00:04:20.380",
+      "text": "Bien sûr, bien sûr, mais ce qu'il faut d'abord c'est débloquer les moyens"
+    },
+    {
+      "id": 58,
+      "start": 260.38,
+      "end": 263.42,
+      "start_timestamp": "00:04:20.380",
+      "end_timestamp": "00:04:23.420",
+      "text": "pour rénover nos établissements scolaires qui ne sont pas au niveau."
+    },
+    {
+      "id": 59,
+      "start": 263.74,
+      "end": 268.22,
+      "start_timestamp": "00:04:23.740",
+      "end_timestamp": "00:04:28.220",
+      "text": "Prenons l'exemple de Maël, lycéen de 16 ans dans l'établissement Joliot-Curie d'Irson dans l'Aisne."
+    },
+    {
+      "id": 60,
+      "start": 268.22,
+      "end": 273.14,
+      "start_timestamp": "00:04:28.220",
+      "end_timestamp": "00:04:33.140",
+      "text": "Lui aussi a des revendications, mais il nous l'affirme, ici rien n'a été brûlé ni cassé."
+    },
+    {
+      "id": 61,
+      "start": 273.14,
+      "end": 278.14,
+      "start_timestamp": "00:04:33.140",
+      "end_timestamp": "00:04:38.140",
+      "text": "Il reste que quelques déchets là, mais il n'y a aucune casse, aucun débordement avec les forces de l'ordre, rien."
+    },
+    {
+      "id": 62,
+      "start": 278.14,
+      "end": 280.18,
+      "start_timestamp": "00:04:38.140",
+      "end_timestamp": "00:04:40.180",
+      "text": "Ça change des images qu'on a pu voir à Saint-Denis ou ailleurs."
+    },
+    {
+      "id": 63,
+      "start": 280.54,
+      "end": 284.86,
+      "start_timestamp": "00:04:40.540",
+      "end_timestamp": "00:04:44.860",
+      "text": "Il y a quand même beaucoup d'enfants agriculteurs et tout, donc je pense qu'ils ont quand même plus de principes que dans les grandes villes."
+    },
+    {
+      "id": 64,
+      "start": 284.86,
+      "end": 287.26,
+      "start_timestamp": "00:04:44.860",
+      "end_timestamp": "00:04:47.260",
+      "text": "Et alors c'est quoi les revendications d'un lycéen ici ?"
+    },
+    {
+      "id": 65,
+      "start": 287.26,
+      "end": 292.9,
+      "start_timestamp": "00:04:47.260",
+      "end_timestamp": "00:04:52.900",
+      "text": "Les principales revendications c'était les transports, qu'on n'est pas bien desservis au niveau, on est quand même dans un milieu rural."
+    },
+    {
+      "id": 66,
+      "start": 292.9,
+      "end": 299.06,
+      "start_timestamp": "00:04:52.900",
+      "end_timestamp": "00:04:59.060",
+      "text": "Et les transports ils se font rares, les élèves ils doivent mettre une heure, une heure et demie pour venir ici."
+    },
+    {
+      "id": 67,
+      "start": 299.06,
+      "end": 301.82,
+      "start_timestamp": "00:04:59.060",
+      "end_timestamp": "00:05:01.820",
+      "text": "Et c'est pareil du coup pour repartir, donc ça leur fait des grosses journées."
+    },
+    {
+      "id": 68,
+      "start": 301.82,
+      "end": 306.1,
+      "start_timestamp": "00:05:01.820",
+      "end_timestamp": "00:05:06.100",
+      "text": "Et c'est un lycée qui est bien équipé ou vous avez quand même aussi des besoins ici comme dans d'autres lycées ?"
+    },
+    {
+      "id": 69,
+      "start": 306.1,
+      "end": 311.98,
+      "start_timestamp": "00:05:06.100",
+      "end_timestamp": "00:05:11.980",
+      "text": "Le manque de personnel, par exemple l'année dernière notre prof d'espagnol était absent pendant 4 mois, il n'y a jamais eu de remplaçant."
+    },
+    {
+      "id": 70,
+      "start": 313.78,
+      "end": 322.46,
+      "start_timestamp": "00:05:13.780",
+      "end_timestamp": "00:05:22.460",
+      "text": "Plus qu'une mobilisation lycéenne, les agissements croisés de catégories sociales n'ayant rien en commun sinon de sombres perspectives d'avenir,"
+    },
+    {
+      "id": 71,
+      "start": 322.46,
+      "end": 329.58,
+      "start_timestamp": "00:05:22.460",
+      "end_timestamp": "00:05:29.580",
+      "text": "que malheureusement aucune promesse de politiciens en campagne surfant sur leur désarroi ne sera en mesure d'éclaircir."
+    },
+    {
+      "id": 72,
+      "start": 329.62,
+      "end": 336.9,
+      "start_timestamp": "00:05:29.620",
+      "end_timestamp": "00:05:36.900",
+      "text": "Si l'on veut véritablement comprendre le mouvement lycéen de ce début d'automne, et partant de là ce qu'il dit de la France,"
+    },
+    {
+      "id": 73,
+      "start": 336.9,
+      "end": 345.54,
+      "start_timestamp": "00:05:36.900",
+      "end_timestamp": "00:05:45.540",
+      "text": "le mieux est peut-être de partir de ce qui le distingue dans les faits de l'intégralité des mouvements lycéens que notre pays a connu ces 40 dernières années."
+    },
+    {
+      "id": 74,
+      "start": 345.54,
+      "end": 355.5,
+      "start_timestamp": "00:05:45.540",
+      "end_timestamp": "00:05:55.500",
+      "text": "Et qui, absolument tous, de la mobilisation contre la loi de vaquet en 1986 à celle dirigée sous l'ère Macron contre la plateforme d'orientation Parcoursup,"
+    },
+    {
+      "id": 75,
+      "start": 355.5,
+      "end": 358.26,
+      "start_timestamp": "00:05:55.500",
+      "end_timestamp": "00:05:58.260",
+      "text": "se sont tous déroulés selon un même schéma."
+    },
+    {
+      "id": 76,
+      "start": 358.26,
+      "end": 366.14,
+      "start_timestamp": "00:05:58.260",
+      "end_timestamp": "00:06:06.140",
+      "text": "D'abord, une réforme ou un projet de réforme gouvernementale vient susciter chez les lycéens une inquiétude partagée quant à leur avenir."
+    },
+    {
+      "id": 77,
+      "start": 366.14,
+      "end": 373.3,
+      "start_timestamp": "00:06:06.140",
+      "end_timestamp": "00:06:13.300",
+      "text": "Cette inquiétude est alors légitimée, publicisée et entretenue par un ensemble de syndicats et d'organisations de jeunesse,"
+    },
+    {
+      "id": 78,
+      "start": 373.3,
+      "end": 383.06,
+      "start_timestamp": "00:06:13.300",
+      "end_timestamp": "00:06:23.060",
+      "text": "souvent organiquement liés à des partis politiques d'opposition, qui se chargent de les transformer en revendications et d'organiser les premières étapes d'une mobilisation à venir."
+    },
+    {
+      "id": 79,
+      "start": 383.06,
+      "end": 388.14,
+      "start_timestamp": "00:06:23.060",
+      "end_timestamp": "00:06:28.140",
+      "text": "Si la démarche fait écho à des préoccupations réelles, alors la contestation s'enclenche."
+    },
+    {
+      "id": 80,
+      "start": 388.18,
+      "end": 394.46,
+      "start_timestamp": "00:06:28.180",
+      "end_timestamp": "00:06:34.460",
+      "text": "Première manifestation partant de lycées de centre-ville, de grandes villes, où les militants se concentrent souvent."
+    },
+    {
+      "id": 81,
+      "start": 394.46,
+      "end": 401.98,
+      "start_timestamp": "00:06:34.460",
+      "end_timestamp": "00:06:41.980",
+      "text": "Premier blocage, première couverture médiatique et mouvement qui bientôt fait tâche d'huile sur le territoire et s'étend aux villes de taille moyenne."
+    },
+    {
+      "id": 82,
+      "start": 401.98,
+      "end": 408.42,
+      "start_timestamp": "00:06:41.980",
+      "end_timestamp": "00:06:48.420",
+      "text": "À ce stade, d'habitude, la mobilisation est déjà bien installée, le bras de fer avec le gouvernement aussi."
+    },
+    {
+      "id": 83,
+      "start": 408.42,
+      "end": 412.74,
+      "start_timestamp": "00:06:48.420",
+      "end_timestamp": "00:06:52.740",
+      "text": "Le mouvement continue de grossir et les manifestations prennent de l'ampleur."
+    },
+    {
+      "id": 84,
+      "start": 412.78,
+      "end": 421.54,
+      "start_timestamp": "00:06:52.780",
+      "end_timestamp": "00:07:01.540",
+      "text": "C'est souvent le moment choisi par le gouvernement pour jouer la montre, temporiser, entablant sur un essoufflement et alimenter les divisions internes au mouvement,"
+    },
+    {
+      "id": 85,
+      "start": 421.54,
+      "end": 428.1,
+      "start_timestamp": "00:07:01.540",
+      "end_timestamp": "00:07:08.100",
+      "text": "entre des organisations désireuses de garder la main et une base tentée par des formes de contestation plus radicales."
+    },
+    {
+      "id": 86,
+      "start": 428.1,
+      "end": 434.02,
+      "start_timestamp": "00:07:08.100",
+      "end_timestamp": "00:07:14.020",
+      "text": "Généralement, c'est aussi le moment où les casseurs font leur apparition dans les manifestations."
+    },
+    {
+      "id": 87,
+      "start": 434.02,
+      "end": 442.66,
+      "start_timestamp": "00:07:14.020",
+      "end_timestamp": "00:07:22.660",
+      "text": "À ce stade, deux issues possibles, soit le mouvement reste solide, continue de prendre de l'ampleur et a pour lui le soutien massif de l'opinion,"
+    },
+    {
+      "id": 88,
+      "start": 442.66,
+      "end": 446.3,
+      "start_timestamp": "00:07:22.660",
+      "end_timestamp": "00:07:26.300",
+      "text": "dans ce cas, le gouvernement peut être amené à faire des concessions aux lycéens,"
+    },
+    {
+      "id": 89,
+      "start": 446.3,
+      "end": 452.74,
+      "start_timestamp": "00:07:26.300",
+      "end_timestamp": "00:07:32.740",
+      "text": "soit le mouvement s'essouffle, se déchire, périclite et les lycéens finissent tous par reprendre le chemin de l'école."
+    },
+    {
+      "id": 90,
+      "start": 452.74,
+      "end": 455.66,
+      "start_timestamp": "00:07:32.740",
+      "end_timestamp": "00:07:35.660",
+      "text": "Ça, c'est le mouvement lycéen type."
+    },
+    {
+      "id": 91,
+      "start": 455.66,
+      "end": 462.18,
+      "start_timestamp": "00:07:35.660",
+      "end_timestamp": "00:07:42.180",
+      "text": "Mais dans celui qui nous intéresse aujourd'hui, comme nous allons le voir, absolument rien ne s'est passé de cette façon."
+    },
+    {
+      "id": 92,
+      "start": 462.18,
+      "end": 469.26,
+      "start_timestamp": "00:07:42.180",
+      "end_timestamp": "00:07:49.260",
+      "text": "Dès le départ, le mouvement a débuté de manière, pour ainsi dire, spontanée, sans qu'aucun projet de loi ne le provoque."
+    },
+    {
+      "id": 93,
+      "start": 469.3,
+      "end": 473.42,
+      "start_timestamp": "00:07:49.300",
+      "end_timestamp": "00:07:53.420",
+      "text": "Et dans un cadre plutôt inhabituel, la banlieue parisienne."
+    },
+    {
+      "id": 94,
+      "start": 473.42,
+      "end": 479.14,
+      "start_timestamp": "00:07:53.420",
+      "end_timestamp": "00:07:59.140",
+      "text": "Un premier lycée dans le Val-de-Marne, où quelques lycéens se sont mobilisés sur des revendications locales,"
+    },
+    {
+      "id": 95,
+      "start": 479.14,
+      "end": 482.7,
+      "start_timestamp": "00:07:59.140",
+      "end_timestamp": "00:08:02.700",
+      "text": "puis surtout, très vite, plusieurs établissements de Seine-Saint-Denis,"
+    },
+    {
+      "id": 96,
+      "start": 482.7,
+      "end": 488.7,
+      "start_timestamp": "00:08:02.700",
+      "end_timestamp": "00:08:08.700",
+      "text": "accueillant des élèves massivement issus de ce que les médias ont l'habitude d'appeler, selon l'idée qu'ils souhaitent véhiculer,"
+    },
+    {
+      "id": 97,
+      "start": 488.7,
+      "end": 491.66,
+      "start_timestamp": "00:08:08.700",
+      "end_timestamp": "00:08:11.660",
+      "text": "quartier sensible ou populaire."
+    },
+    {
+      "id": 98,
+      "start": 491.66,
+      "end": 497.3,
+      "start_timestamp": "00:08:11.660",
+      "end_timestamp": "00:08:17.300",
+      "text": "De quoi doter ce mouvement d'une sociologie initiale extrêmement particulière."
+    },
+    {
+      "id": 99,
+      "start": 497.3,
+      "end": 503.58,
+      "start_timestamp": "00:08:17.300",
+      "end_timestamp": "00:08:23.580",
+      "text": "Pour faire simple, des jeunes, souvent issus de l'immigration, n'ayant pas forcément le français comme langue maternelle,"
+    },
+    {
+      "id": 100,
+      "start": 503.58,
+      "end": 510.62,
+      "start_timestamp": "00:08:23.580",
+      "end_timestamp": "00:08:30.620",
+      "text": "dotés de codes culturels particuliers, côtoyant parfois très tôt la délinquance et évoluant dans des milieux où,"
+    },
+    {
+      "id": 101,
+      "start": 510.62,
+      "end": 517.14,
+      "start_timestamp": "00:08:30.620",
+      "end_timestamp": "00:08:37.140",
+      "text": "quand ils ne vivent pas d'aide sociale, les adultes exercent massivement des emplois précaires dans le secteur tertiaire,"
+    },
+    {
+      "id": 102,
+      "start": 517.14,
+      "end": 520.9,
+      "start_timestamp": "00:08:37.140",
+      "end_timestamp": "00:08:40.900",
+      "text": "dans l'aide à la personne, le nettoyage ou le transport individuel."
+    },
+    {
+      "id": 103,
+      "start": 520.9,
+      "end": 528.98,
+      "start_timestamp": "00:08:40.900",
+      "end_timestamp": "00:08:48.980",
+      "text": "Soit, globalement, les tâches non délocalisables, qui étaient encore associées au métier de domestique dans la première moitié du XXe siècle,"
+    },
+    {
+      "id": 104,
+      "start": 528.98,
+      "end": 536.06,
+      "start_timestamp": "00:08:48.980",
+      "end_timestamp": "00:08:56.060",
+      "text": "avant d'être touchées par les processus de fragmentation et de spécialisation auparavant mis en œuvre dans le secteur de l'industrie."
+    },
+    {
+      "id": 105,
+      "start": 536.06,
+      "end": 544.38,
+      "start_timestamp": "00:08:56.060",
+      "end_timestamp": "00:09:04.380",
+      "text": "Des profils en résumé sociologiquement beaucoup plus proches, en réalité, de ceux impliqués ces dernières années dans les émeutes urbaines,"
+    },
+    {
+      "id": 106,
+      "start": 544.38,
+      "end": 550.82,
+      "start_timestamp": "00:09:04.380",
+      "end_timestamp": "00:09:10.820",
+      "text": "ayant par exemple suivi la mort du jeune Naël Merzouk en 2023 que de la petite bourgeoisie intellectuelle de Centreville,"
+    },
+    {
+      "id": 107,
+      "start": 550.82,
+      "end": 559.74,
+      "start_timestamp": "00:09:10.820",
+      "end_timestamp": "00:09:19.740",
+      "text": "formant généralement le fer de lance des mouvements lycéens, sociologies différentes, dont nécessairement ont découlé des pratiques différentes."
+    },
+    {
+      "id": 108,
+      "start": 559.74,
+      "end": 566.66,
+      "start_timestamp": "00:09:19.740",
+      "end_timestamp": "00:09:26.660",
+      "text": "Dès le départ, le mouvement lycéen de l'automne 2026 s'est distingué par une violence extrême,"
+    },
+    {
+      "id": 109,
+      "start": 566.66,
+      "end": 578.06,
+      "start_timestamp": "00:09:26.660",
+      "end_timestamp": "00:09:38.060",
+      "text": "exercée par ses participants tant à l'encontre des biens et des bâtiments que des personnes, rappelant là encore les émeutes urbaines de 2023 ou de 2005."
+    },
+    {
+      "id": 110,
+      "start": 578.06,
+      "end": 584.38,
+      "start_timestamp": "00:09:38.060",
+      "end_timestamp": "00:09:44.380",
+      "text": "Lycées en feu, sous les crises enthousiastes de la foule, bureaux de vie scolaire saccagés, voitures retournées,"
+    },
+    {
+      "id": 111,
+      "start": 584.38,
+      "end": 592.66,
+      "start_timestamp": "00:09:44.380",
+      "end_timestamp": "00:09:52.660",
+      "text": "tirs de mortiers d'artifice prenant pour cible des établissements scolaires, des policiers, voire des élèves, camions de pompiers ou bus incendiés,"
+    },
+    {
+      "id": 112,
+      "start": 592.66,
+      "end": 601.74,
+      "start_timestamp": "00:09:52.660",
+      "end_timestamp": "00:10:01.740",
+      "text": "magasins pillés, professeurs aspergés d'essence, policières rouées de coups, femmes s'opposant à la destruction d'un abribus ciblé au visage par un jet de flamme volontaire."
+    },
+    {
+      "id": 113,
+      "start": 601.74,
+      "end": 606.14,
+      "start_timestamp": "00:10:01.740",
+      "end_timestamp": "00:10:06.140",
+      "text": "Durant plusieurs jours, ces images ont fait le tour des réseaux sociaux."
+    },
+    {
+      "id": 114,
+      "start": 606.14,
+      "end": 614.02,
+      "start_timestamp": "00:10:06.140",
+      "end_timestamp": "00:10:14.020",
+      "text": "Faites notables, la plupart ont été filmées, diffusées et relayées non pas par quelques journalistes hostiles au mouvement"
+    },
+    {
+      "id": 115,
+      "start": 614.02,
+      "end": 618.66,
+      "start_timestamp": "00:10:14.020",
+      "end_timestamp": "00:10:18.660",
+      "text": "et ayant à cœur de monter des faits divers en épingle dans une optique de délégitimation,"
+    },
+    {
+      "id": 116,
+      "start": 618.66,
+      "end": 624.3,
+      "start_timestamp": "00:10:18.660",
+      "end_timestamp": "00:10:24.300",
+      "text": "mais par les participants eux-mêmes à ces événements, lycéens ou non d'ailleurs,"
+    },
+    {
+      "id": 117,
+      "start": 624.3,
+      "end": 633.34,
+      "start_timestamp": "00:10:24.300",
+      "end_timestamp": "00:10:33.340",
+      "text": "comme si au final l'image du mouvement leur importait peu, voir que la mise en scène de la violence allait favoriser sa propagation."
+    },
+    {
+      "id": 118,
+      "start": 633.34,
+      "end": 639.9,
+      "start_timestamp": "00:10:33.340",
+      "end_timestamp": "00:10:39.900",
+      "text": "Une communication directe, qui d'ailleurs a permis à ces jeunes impliqués de faire entendre de manière directe,"
+    },
+    {
+      "id": 119,
+      "start": 639.9,
+      "end": 645.02,
+      "start_timestamp": "00:10:39.900",
+      "end_timestamp": "00:10:45.020",
+      "text": "sans le filtre habituel des représentants syndicaux, leur revendication."
+    },
+    {
+      "id": 120,
+      "start": 645.02,
+      "end": 654.78,
+      "start_timestamp": "00:10:45.020",
+      "end_timestamp": "00:10:54.780",
+      "text": "Des revendications souvent peu claires, contradictoires et parfois davantage tournées contre l'institution que visant à améliorer son fonctionnement."
+    },
+    {
+      "id": 121,
+      "start": 654.78,
+      "end": 661.74,
+      "start_timestamp": "00:10:54.780",
+      "end_timestamp": "00:11:01.740",
+      "text": "Trop d'heures de cours, ne laissant pas assez de place pour les loisirs, des cours commençant trop tôt et ou finissant trop tard,"
+    },
+    {
+      "id": 122,
+      "start": 661.78,
+      "end": 665.98,
+      "start_timestamp": "00:11:01.780",
+      "end_timestamp": "00:11:05.980",
+      "text": "pas assez de temps pour manger à la cantine, où d'ailleurs la nourriture est très mauvaise,"
+    },
+    {
+      "id": 123,
+      "start": 665.98,
+      "end": 670.26,
+      "start_timestamp": "00:11:05.980",
+      "end_timestamp": "00:11:10.260",
+      "text": "des professeurs trop sévères, comptabilisant les retards comme les absences,"
+    },
+    {
+      "id": 124,
+      "start": 670.26,
+      "end": 675.02,
+      "start_timestamp": "00:11:10.260",
+      "end_timestamp": "00:11:15.020",
+      "text": "l'interdiction des téléphones en classe ou du port de certaines tenues dans l'insinthe du lycée,"
+    },
+    {
+      "id": 125,
+      "start": 675.02,
+      "end": 680.26,
+      "start_timestamp": "00:11:15.020",
+      "end_timestamp": "00:11:20.260",
+      "text": "autant de motifs d'insatisfaction plus souvent brandis dans cette phase du mouvement"
+    },
+    {
+      "id": 126,
+      "start": 680.26,
+      "end": 684.38,
+      "start_timestamp": "00:11:20.260",
+      "end_timestamp": "00:11:24.380",
+      "text": "que les habituels demandes de hausse de moyens et d'embauche d'enseignants."
+    },
+    {
+      "id": 127,
+      "start": 684.38,
+      "end": 687.98,
+      "start_timestamp": "00:11:24.380",
+      "end_timestamp": "00:11:27.980",
+      "text": "J'ai envie de faire passer un message au gouvernement, s'il vous plaît, faites quelque chose pour les 8h-18h,"
+    },
+    {
+      "id": 128,
+      "start": 688.02,
+      "end": 693.78,
+      "start_timestamp": "00:11:28.020",
+      "end_timestamp": "00:11:33.780",
+      "text": "On en a marre, on a des horaires de personnes qui travaillent au quotidien mais on n'est pas payé, on n'a rien du tout."
+    },
+    {
+      "id": 129,
+      "start": 693.78,
+      "end": 697.98,
+      "start_timestamp": "00:11:33.780",
+      "end_timestamp": "00:11:37.980",
+      "text": "Ça nous gêne parce qu'on n'a pas beaucoup de temps pour passer avec notre famille, avec nos amis, les gens qu'on aime."
+    },
+    {
+      "id": 130,
+      "start": 697.98,
+      "end": 702.22,
+      "start_timestamp": "00:11:37.980",
+      "end_timestamp": "00:11:42.220",
+      "text": "Et c'est pour ça qu'on ne doit pas passer toute la journée au lycée."
+    },
+    {
+      "id": 131,
+      "start": 702.74,
+      "end": 705.26,
+      "start_timestamp": "00:11:42.740",
+      "end_timestamp": "00:11:45.260",
+      "text": "Le problème de l'école, c'est que c'est un cycle sans fin."
+    },
+    {
+      "id": 132,
+      "start": 705.26,
+      "end": 712.22,
+      "start_timestamp": "00:11:45.260",
+      "end_timestamp": "00:11:52.220",
+      "text": "Dans une classe, on est à 35, il fait 35 degrés et des fois on ne peut pas dormir en classe parce que les professeurs ne sont pas d'accord avec ça."
+    },
+    {
+      "id": 133,
+      "start": 712.46,
+      "end": 718.78,
+      "start_timestamp": "00:11:52.460",
+      "end_timestamp": "00:11:58.780",
+      "text": "Je passe plus de temps à l'école que chez moi donc je comprends que l'école c'est important, que je dois apprendre"
+    },
+    {
+      "id": 134,
+      "start": 718.78,
+      "end": 723.9,
+      "start_timestamp": "00:11:58.780",
+      "end_timestamp": "00:12:03.900",
+      "text": "mais ce n'est pas en nous gonfrant, en nous gonfrant comme des oies qu'on va pu s'apprendre."
+    },
+    {
+      "id": 135,
+      "start": 723.9,
+      "end": 728.94,
+      "start_timestamp": "00:12:03.900",
+      "end_timestamp": "00:12:08.940",
+      "text": "Parce qu'il nous on en a marre, on est tous coudés ensemble."
+    },
+    {
+      "id": 136,
+      "start": 730.7,
+      "end": 738.3,
+      "start_timestamp": "00:12:10.700",
+      "end_timestamp": "00:12:18.300",
+      "text": "Autant de conditions ayant nourri à l'encontre de ce mouvement un rejet légitime parmi de larges pans de la population"
+    },
+    {
+      "id": 137,
+      "start": 738.3,
+      "end": 741.9,
+      "start_timestamp": "00:12:18.300",
+      "end_timestamp": "00:12:21.900",
+      "text": "et qui aurait pu l'amener à s'arrêter aussi rapidement qu'il était apparu."
+    },
+    {
+      "id": 138,
+      "start": 741.9,
+      "end": 747.9,
+      "start_timestamp": "00:12:21.900",
+      "end_timestamp": "00:12:27.900",
+      "text": "Mais cela c'était avant, avant que le mouvement ne rentre dans une seconde phase"
+    },
+    {
+      "id": 139,
+      "start": 747.9,
+      "end": 754.06,
+      "start_timestamp": "00:12:27.900",
+      "end_timestamp": "00:12:34.060",
+      "text": "sous l'action notable de la France Insoumise et dans une moindre mesure des syndicats de l'enseignement."
+    },
+    {
+      "id": 140,
+      "start": 754.06,
+      "end": 763.42,
+      "start_timestamp": "00:12:34.060",
+      "end_timestamp": "00:12:43.420",
+      "text": "La France Insoumise dont les élus et cadres dirigeants ont rapidement mené envers le mouvement lycéen engagé une double entreprise politique."
+    },
+    {
+      "id": 141,
+      "start": 763.42,
+      "end": 770.22,
+      "start_timestamp": "00:12:43.420",
+      "end_timestamp": "00:12:50.220",
+      "text": "Entreprise d'abord de publicisation en se rendant accompagné de caméras et de journalistes devant les lycées bloqués."
+    },
+    {
+      "id": 142,
+      "start": 770.3,
+      "end": 779.5,
+      "start_timestamp": "00:12:50.300",
+      "end_timestamp": "00:12:59.500",
+      "text": "Le but, faire parler, minimiser les aspects négatifs du mouvement pour rejeter la responsabilité de toutes les violences sur le gouvernement"
+    },
+    {
+      "id": 143,
+      "start": 779.5,
+      "end": 784.06,
+      "start_timestamp": "00:12:59.500",
+      "end_timestamp": "00:13:04.060",
+      "text": "et inciter les lycéens du pays entier à se joindre à la mobilisation."
+    },
+    {
+      "id": 144,
+      "start": 784.06,
+      "end": 791.74,
+      "start_timestamp": "00:13:04.060",
+      "end_timestamp": "00:13:11.740",
+      "text": "Mais pas sur n'importe quelle base, car en parallèle, la France Insoumise menait une seconde opération"
+    },
+    {
+      "id": 145,
+      "start": 791.74,
+      "end": 798.78,
+      "start_timestamp": "00:13:11.740",
+      "end_timestamp": "00:13:18.780",
+      "text": "visant à transformer de fond en comble le mouvement, sa sociologie, ses modes opératoires et ses revendications."
+    },
+    {
+      "id": 146,
+      "start": 798.86,
+      "end": 804.46,
+      "start_timestamp": "00:13:18.860",
+      "end_timestamp": "00:13:24.460",
+      "text": "Ceci en commençant, plutôt que de simplement tendre un micro aux lycéens sur le terrain,"
+    },
+    {
+      "id": 147,
+      "start": 804.46,
+      "end": 810.06,
+      "start_timestamp": "00:13:24.460",
+      "end_timestamp": "00:13:30.060",
+      "text": "par affirmer partout que leurs demandes concernaient le budget de l'éducation nationale,"
+    },
+    {
+      "id": 148,
+      "start": 810.06,
+      "end": 814.14,
+      "start_timestamp": "00:13:30.060",
+      "end_timestamp": "00:13:34.140",
+      "text": "l'investissement dans la rénovation des locaux ou l'embauche de professeurs."
+    },
+    {
+      "id": 149,
+      "start": 814.14,
+      "end": 821.42,
+      "start_timestamp": "00:13:34.140",
+      "end_timestamp": "00:13:41.420",
+      "text": "Ensuite, en appelant les lycéens et étudiants d'établissements plus huppés, plus éloquents et plus structurés politiquement,"
+    },
+    {
+      "id": 150,
+      "start": 821.42,
+      "end": 825.74,
+      "start_timestamp": "00:13:41.420",
+      "end_timestamp": "00:13:45.740",
+      "text": "voire carrément militants à la France Insoumise, à se joindre au mouvement."
+    },
+    {
+      "id": 151,
+      "start": 825.74,
+      "end": 830.54,
+      "start_timestamp": "00:13:45.740",
+      "end_timestamp": "00:13:50.540",
+      "text": "Au nom, bien sûr, de la solidarité avec les lycéens de banlieues moins favorisées,"
+    },
+    {
+      "id": 152,
+      "start": 830.54,
+      "end": 834.3,
+      "start_timestamp": "00:13:50.540",
+      "end_timestamp": "00:13:54.300",
+      "text": "mais en réalité, pour se substituer à eux."
+    },
+    {
+      "id": 153,
+      "start": 834.3,
+      "end": 839.34,
+      "start_timestamp": "00:13:54.300",
+      "end_timestamp": "00:13:59.340",
+      "text": "Il ne restait plus dès lors à Jean-Luc Mélenchon qu'à en appeler aux organisations de fonctionnaires"
+    },
+    {
+      "id": 154,
+      "start": 839.34,
+      "end": 845.1,
+      "start_timestamp": "00:13:59.340",
+      "end_timestamp": "00:14:05.100",
+      "text": "pour encadrer de grandes manifestations, désormais relocalisées dans le centre des grandes villes"
+    },
+    {
+      "id": 155,
+      "start": 845.1,
+      "end": 850.62,
+      "start_timestamp": "00:14:05.100",
+      "end_timestamp": "00:14:10.620",
+      "text": "et appelées dans un cadre inter-syndical, afin d'exclure définitivement de la mobilisation,"
+    },
+    {
+      "id": 156,
+      "start": 850.62,
+      "end": 852.86,
+      "start_timestamp": "00:14:10.620",
+      "end_timestamp": "00:14:12.860",
+      "text": "ce qui en avait été à l'initiative."
+    },
+    {
+      "id": 157,
+      "start": 852.94,
+      "end": 855.1,
+      "start_timestamp": "00:14:12.940",
+      "end_timestamp": "00:14:15.100",
+      "text": "C'est ici qu'a eu lieu le premier blocus."
+    },
+    {
+      "id": 158,
+      "start": 855.1,
+      "end": 858.78,
+      "start_timestamp": "00:14:15.100",
+      "end_timestamp": "00:14:18.780",
+      "text": "C'est pourtant l'un des rares lycées où les courses sont déroulées sereinement cette semaine."
+    },
+    {
+      "id": 159,
+      "start": 858.78,
+      "end": 863.58,
+      "start_timestamp": "00:14:18.780",
+      "end_timestamp": "00:14:23.580",
+      "text": "On a obtenu le poste du proviseur adjoint, on a obtenu l'EDT, le chef de travaux,"
+    },
+    {
+      "id": 160,
+      "start": 863.58,
+      "end": 865.9,
+      "start_timestamp": "00:14:23.580",
+      "end_timestamp": "00:14:25.900",
+      "text": "donc désormais nos élèves peuvent partir en stage."
+    },
+    {
+      "id": 161,
+      "start": 865.9,
+      "end": 871.26,
+      "start_timestamp": "00:14:25.900",
+      "end_timestamp": "00:14:31.260",
+      "text": "On est légitimes de revendiquer nos droits parce que l'égalité est une des valeurs de la République."
+    },
+    {
+      "id": 162,
+      "start": 871.26,
+      "end": 876.06,
+      "start_timestamp": "00:14:31.260",
+      "end_timestamp": "00:14:36.060",
+      "text": "C'est nous l'avenir, c'est nous les futurs ingénieurs, les futurs diplômats de demain."
+    },
+    {
+      "id": 163,
+      "start": 876.06,
+      "end": 879.58,
+      "start_timestamp": "00:14:36.060",
+      "end_timestamp": "00:14:39.580",
+      "text": "Ça a à nous de se mobiliser, de se faire entendre pour nos droits, tout simplement."
+    },
+    {
+      "id": 164,
+      "start": 879.58,
+      "end": 885.1,
+      "start_timestamp": "00:14:39.580",
+      "end_timestamp": "00:14:45.100",
+      "text": "Fier d'avoir obtenu gain de cause, ces jeunes suivent maintenant avec inquiétude l'évolution du mouvement lycéen."
+    },
+    {
+      "id": 165,
+      "start": 886.46,
+      "end": 895.1,
+      "start_timestamp": "00:14:46.460",
+      "end_timestamp": "00:14:55.100",
+      "text": "Et c'est ainsi qu'en quelques jours, le mouvement lycéen a changé tant de nature que de composition sociale."
+    },
+    {
+      "id": 166,
+      "start": 895.1,
+      "end": 899.74,
+      "start_timestamp": "00:14:55.100",
+      "end_timestamp": "00:14:59.740",
+      "text": "Évoluant désormais au rythme des traditionnelles journées de mobilisation,"
+    },
+    {
+      "id": 167,
+      "start": 899.74,
+      "end": 904.86,
+      "start_timestamp": "00:14:59.740",
+      "end_timestamp": "00:15:04.860",
+      "text": "les demandes qu'il porte sont désormais peu ou prou celles des syndicats enseignants habituels,"
+    },
+    {
+      "id": 168,
+      "start": 904.86,
+      "end": 913.26,
+      "start_timestamp": "00:15:04.860",
+      "end_timestamp": "00:15:13.260",
+      "text": "tout résumable en une seule, plus d'argent public pour l'école publique et plus d'argent globalement pour les services publics."
+    },
+    {
+      "id": 169,
+      "start": 913.26,
+      "end": 918.78,
+      "start_timestamp": "00:15:13.260",
+      "end_timestamp": "00:15:18.780",
+      "text": "Quant à son centre névralgique, il s'est déplacé directement du fin fond de la Seine-Saint-Denis"
+    },
+    {
+      "id": 170,
+      "start": 918.78,
+      "end": 921.82,
+      "start_timestamp": "00:15:18.780",
+      "end_timestamp": "00:15:21.820",
+      "text": "jusqu'au plus beau quartier de la capitale."
+    },
+    {
+      "id": 171,
+      "start": 921.82,
+      "end": 926.78,
+      "start_timestamp": "00:15:21.820",
+      "end_timestamp": "00:15:26.780",
+      "text": "Exit le lycée Paul-Éluard, on parle désormais du blocage de Sciences Po,"
+    },
+    {
+      "id": 172,
+      "start": 926.78,
+      "end": 929.74,
+      "start_timestamp": "00:15:26.780",
+      "end_timestamp": "00:15:29.740",
+      "text": "des universités Paris-Dauphine et Panthéon-Assas,"
+    },
+    {
+      "id": 173,
+      "start": 929.74,
+      "end": 934.78,
+      "start_timestamp": "00:15:29.740",
+      "end_timestamp": "00:15:34.780",
+      "text": "voire de la très sélecte école alsacienne dont est tout droit sortie Gabrielle Attal."
+    },
+    {
+      "id": 174,
+      "start": 934.86,
+      "end": 939.82,
+      "start_timestamp": "00:15:34.860",
+      "end_timestamp": "00:15:39.820",
+      "text": "Plus de vidéos de jeunes sachant à peine s'exprimer en français circulant sur les réseaux sociaux."
+    },
+    {
+      "id": 175,
+      "start": 939.82,
+      "end": 947.66,
+      "start_timestamp": "00:15:39.820",
+      "end_timestamp": "00:15:47.660",
+      "text": "Mais à la place, des éloines ou des filémons jouglés Marcus élèvent dans le 9e arrondissement ou au lycée Henri IV,"
+    },
+    {
+      "id": 176,
+      "start": 947.66,
+      "end": 953.58,
+      "start_timestamp": "00:15:47.660",
+      "end_timestamp": "00:15:53.580",
+      "text": "invités sur les plateaux de télévision et s'expriment comme des quarantenaire ayant fait de la politique toute leur vie."
+    },
+    {
+      "id": 177,
+      "start": 953.58,
+      "end": 957.34,
+      "start_timestamp": "00:15:53.580",
+      "end_timestamp": "00:15:57.340",
+      "text": "A partir du moment où vous êtes un individu qui vient de quartiers très compliqués,"
+    },
+    {
+      "id": 178,
+      "start": 957.34,
+      "end": 959.34,
+      "start_timestamp": "00:15:57.340",
+      "end_timestamp": "00:15:59.340",
+      "text": "je pense que vous vous attendez à ce que je le dise."
+    },
+    {
+      "id": 179,
+      "start": 959.34,
+      "end": 963.02,
+      "start_timestamp": "00:15:59.340",
+      "end_timestamp": "00:16:03.020",
+      "text": "Je vois une mère ici, oui, et vous venez de Marseille, je l'entends,"
+    },
+    {
+      "id": 180,
+      "start": 963.02,
+      "end": 966.14,
+      "start_timestamp": "00:16:03.020",
+      "end_timestamp": "00:16:06.140",
+      "text": "j'imagine de quartiers très peu, faciles, mais..."
+    },
+    {
+      "id": 181,
+      "start": 966.14,
+      "end": 967.58,
+      "start_timestamp": "00:16:06.140",
+      "end_timestamp": "00:16:07.580",
+      "text": "Non, parce qu'il est noir !"
+    },
+    {
+      "id": 182,
+      "start": 967.58,
+      "end": 968.38,
+      "start_timestamp": "00:16:07.580",
+      "end_timestamp": "00:16:08.380",
+      "text": "Non, non..."
+    },
+    {
+      "id": 183,
+      "start": 968.38,
+      "end": 970.94,
+      "start_timestamp": "00:16:08.380",
+      "end_timestamp": "00:16:10.940",
+      "text": "J'habitais avant d'aller quartier norme, je le suis plus maintenant,"
+    },
+    {
+      "id": 184,
+      "start": 970.94,
+      "end": 972.94,
+      "start_timestamp": "00:16:10.940",
+      "end_timestamp": "00:16:12.940",
+      "text": "mais oui, j'habitais avant d'aller quartier populaire."
+    },
+    {
+      "id": 185,
+      "start": 972.94,
+      "end": 976.46,
+      "start_timestamp": "00:16:12.940",
+      "end_timestamp": "00:16:16.460",
+      "text": "Très bien, merci. Je ne dis pas ça parce que vous êtes noir."
+    },
+    {
+      "id": 186,
+      "start": 976.46,
+      "end": 978.7,
+      "start_timestamp": "00:16:16.460",
+      "end_timestamp": "00:16:18.700",
+      "text": "Moins de trois minutes, tout votre raisonnement s'est effondré"
+    },
+    {
+      "id": 187,
+      "start": 978.7,
+      "end": 983.26,
+      "start_timestamp": "00:16:18.700",
+      "end_timestamp": "00:16:23.260",
+      "text": "puisque vous vous adressez à la seule personne racisée du plateau en pensant qu'elle vient de quartiers défavorisés."
+    },
+    {
+      "id": 188,
+      "start": 983.26,
+      "end": 985.82,
+      "start_timestamp": "00:16:23.260",
+      "end_timestamp": "00:16:25.820",
+      "text": "Je ne sais pas si vous êtes vraiment le représentant des jeunes de banlieue"
+    },
+    {
+      "id": 189,
+      "start": 985.82,
+      "end": 988.54,
+      "start_timestamp": "00:16:25.820",
+      "end_timestamp": "00:16:28.540",
+      "text": "quand on vous voit comme ça, mais très bien, merci de porter leur voix."
+    },
+    {
+      "id": 190,
+      "start": 988.54,
+      "end": 991.26,
+      "start_timestamp": "00:16:28.540",
+      "end_timestamp": "00:16:31.260",
+      "text": "Je pense qu'ils seraient ravis d'avoir les 125 millions d'euros"
+    },
+    {
+      "id": 191,
+      "start": 991.26,
+      "end": 994.22,
+      "start_timestamp": "00:16:31.260",
+      "end_timestamp": "00:16:34.220",
+      "text": "à louer à votre super beau lycée pour des rénovations, pardon,"
+    },
+    {
+      "id": 192,
+      "start": 994.22,
+      "end": 996.62,
+      "start_timestamp": "00:16:34.220",
+      "end_timestamp": "00:16:36.620",
+      "text": "les lycéens de Poil-et-Louard, je pense qu'ils en rêvent."
+    },
+    {
+      "id": 193,
+      "start": 997.9,
+      "end": 1000.3,
+      "start_timestamp": "00:16:37.900",
+      "end_timestamp": "00:16:40.300",
+      "text": "Même les casseurs ne sont plus les mêmes,"
+    },
+    {
+      "id": 194,
+      "start": 1000.3,
+      "end": 1004.46,
+      "start_timestamp": "00:16:40.300",
+      "end_timestamp": "00:16:44.460",
+      "text": "les black blocs habitués des manifestations ayant remplacé des émeutiers"
+    },
+    {
+      "id": 195,
+      "start": 1004.46,
+      "end": 1007.02,
+      "start_timestamp": "00:16:44.460",
+      "end_timestamp": "00:16:47.020",
+      "text": "continuant épisodiquement de faire parler d'eux,"
+    },
+    {
+      "id": 196,
+      "start": 1007.02,
+      "end": 1010.38,
+      "start_timestamp": "00:16:47.020",
+      "end_timestamp": "00:16:50.380",
+      "text": "mais bien cantonnés derrière les frontières de leur quartier."
+    },
+    {
+      "id": 197,
+      "start": 1010.38,
+      "end": 1014.86,
+      "start_timestamp": "00:16:50.380",
+      "end_timestamp": "00:16:54.860",
+      "text": "Autant de changements qui, certes, ont donné à ce mouvement lycéen une seconde vie,"
+    },
+    {
+      "id": 198,
+      "start": 1014.86,
+      "end": 1020.14,
+      "start_timestamp": "00:16:54.860",
+      "end_timestamp": "00:17:00.140",
+      "text": "mais qui, ironiquement, l'ont également condamné à ne rien pouvoir devenir de plus"
+    },
+    {
+      "id": 199,
+      "start": 1020.14,
+      "end": 1023.9,
+      "start_timestamp": "00:17:00.140",
+      "end_timestamp": "00:17:03.900",
+      "text": "qu'une énième mobilisation de la fonction publique,"
+    },
+    {
+      "id": 200,
+      "start": 1023.9,
+      "end": 1030.06,
+      "start_timestamp": "00:17:03.900",
+      "end_timestamp": "00:17:10.060",
+      "text": "incluant la part de lycéens et d'étudiants dont les parents sont eux-mêmes cadres et agents de la fonction publique"
+    },
+    {
+      "id": 201,
+      "start": 1030.06,
+      "end": 1035.82,
+      "start_timestamp": "00:17:10.060",
+      "end_timestamp": "00:17:15.820",
+      "text": "et initialement destinés eux aussi à le devenir une fois en âge d'entrée dans la vie active."
+    },
+    {
+      "id": 202,
+      "start": 1035.9,
+      "end": 1043.18,
+      "start_timestamp": "00:17:15.900",
+      "end_timestamp": "00:17:23.180",
+      "text": "Tout cela soutenu donc par une fraction des élites culturelles et des enfants de la classe supérieure parisienne,"
+    },
+    {
+      "id": 203,
+      "start": 1043.18,
+      "end": 1048.7,
+      "start_timestamp": "00:17:23.180",
+      "end_timestamp": "00:17:28.700",
+      "text": "souffrant là, à peu de frais, une magnifique occasion de faire étalage de leur supériorité morale,"
+    },
+    {
+      "id": 204,
+      "start": 1048.7,
+      "end": 1054.86,
+      "start_timestamp": "00:17:28.700",
+      "end_timestamp": "00:17:34.860",
+      "text": "en s'imaginant prendre fête et cause pour une jeunesse populaire dont la parole doit aussi compter."
+    },
+    {
+      "id": 205,
+      "start": 1058.86,
+      "end": 1063.98,
+      "start_timestamp": "00:17:38.860",
+      "end_timestamp": "00:17:43.980",
+      "text": "Soit, en résumé, une mobilisation comme notre pays en connaît régulièrement."
+    },
+    {
+      "id": 206,
+      "start": 1064.06,
+      "end": 1068.14,
+      "start_timestamp": "00:17:44.060",
+      "end_timestamp": "00:17:48.140",
+      "text": "En fait, à peu près à chaque rentrée scolaire, quoique avec plus ou moins de force selon le contexte,"
+    },
+    {
+      "id": 207,
+      "start": 1068.14,
+      "end": 1072.3,
+      "start_timestamp": "00:17:48.140",
+      "end_timestamp": "00:17:52.300",
+      "text": "et vouée, comme les précédentes, à tomber rapidement dans l'oubli."
+    },
+    {
+      "id": 208,
+      "start": 1072.3,
+      "end": 1078.38,
+      "start_timestamp": "00:17:52.300",
+      "end_timestamp": "00:17:58.380",
+      "text": "Faute d'être en mesure, du fait de son essence profonde, d'agglomérer autour d'elle d'autres catégories sociales"
+    },
+    {
+      "id": 209,
+      "start": 1078.38,
+      "end": 1083.34,
+      "start_timestamp": "00:17:58.380",
+      "end_timestamp": "00:18:03.340",
+      "text": "que celles à son initiative, et de réaliser cette fameuse convergence des luttes"
+    },
+    {
+      "id": 210,
+      "start": 1083.34,
+      "end": 1089.02,
+      "start_timestamp": "00:18:03.340",
+      "end_timestamp": "00:18:09.020",
+      "text": "que ses porte-paroles ne cessent pourtant d'appeler de leurs voeux, sans jamais réussir à la faire advenir."
+    },
+    {
+      "id": 211,
+      "start": 1089.02,
+      "end": 1093.34,
+      "start_timestamp": "00:18:09.020",
+      "end_timestamp": "00:18:13.340",
+      "text": "Ce budget, il prévoit aussi des sacrifices violents pour les travailleurs et les travailleuses,"
+    },
+    {
+      "id": 212,
+      "start": 1093.34,
+      "end": 1097.42,
+      "start_timestamp": "00:18:13.340",
+      "end_timestamp": "00:18:17.420",
+      "text": "par exemple, s'il était adopté, les travailleurs auraient un reste à charge de 300 euros"
+    },
+    {
+      "id": 213,
+      "start": 1097.42,
+      "end": 1099.98,
+      "start_timestamp": "00:18:17.420",
+      "end_timestamp": "00:18:19.980",
+      "text": "pour pouvoir se former et utiliser le CPF."
+    },
+    {
+      "id": 214,
+      "start": 1099.98,
+      "end": 1103.18,
+      "start_timestamp": "00:18:19.980",
+      "end_timestamp": "00:18:23.180",
+      "text": "Mais justement, aujourd'hui, ce mouvement, à la base, il est quand même lycéen."
+    },
+    {
+      "id": 215,
+      "start": 1103.18,
+      "end": 1105.5,
+      "start_timestamp": "00:18:23.180",
+      "end_timestamp": "00:18:25.500",
+      "text": "On voit les organisations syndicales maintenant qui l'ont rejoint."
+    },
+    {
+      "id": 216,
+      "start": 1105.5,
+      "end": 1110.14,
+      "start_timestamp": "00:18:25.500",
+      "end_timestamp": "00:18:30.140",
+      "text": "Est-ce que finalement, on ne perd pas un peu les bases de ce mouvement, qui d'ailleurs, on le voit aujourd'hui,"
+    },
+    {
+      "id": 217,
+      "start": 1110.14,
+      "end": 1112.54,
+      "start_timestamp": "00:18:30.140",
+      "end_timestamp": "00:18:32.540",
+      "text": "beaucoup de lycées sont ouverts, il y en a que très peu qui sont encore bloqués."
+    },
+    {
+      "id": 218,
+      "start": 1112.54,
+      "end": 1115.02,
+      "start_timestamp": "00:18:32.540",
+      "end_timestamp": "00:18:35.020",
+      "text": "Est-ce que finalement, on ne dilue pas aussi ce mouvement ?"
+    },
+    {
+      "id": 219,
+      "start": 1115.02,
+      "end": 1120.38,
+      "start_timestamp": "00:18:35.020",
+      "end_timestamp": "00:18:40.380",
+      "text": "Non, les revendications des lycéens, lycéennes et étudiants étudiantes sont très claires."
+    },
+    {
+      "id": 220,
+      "start": 1120.46,
+      "end": 1123.5,
+      "start_timestamp": "00:18:40.460",
+      "end_timestamp": "00:18:43.500",
+      "text": "Il y a eu une manifestation pacifique et revendicative."
+    },
+    {
+      "id": 221,
+      "start": 1123.5,
+      "end": 1126.62,
+      "start_timestamp": "00:18:43.500",
+      "end_timestamp": "00:18:46.620",
+      "text": "Et en fait, ça fait deux semaines qu'on parle des lycéens sans parler des lycéens."
+    },
+    {
+      "id": 222,
+      "start": 1126.62,
+      "end": 1128.7,
+      "start_timestamp": "00:18:46.620",
+      "end_timestamp": "00:18:48.700",
+      "text": "Ça fait deux semaines qu'on ne parle pas de leurs conditions d'études,"
+    },
+    {
+      "id": 223,
+      "start": 1128.7,
+      "end": 1130.94,
+      "start_timestamp": "00:18:48.700",
+      "end_timestamp": "00:18:50.940",
+      "text": "des bâtiments dans lesquels il fait froid l'hiver, trop chaud l'été,"
+    },
+    {
+      "id": 224,
+      "start": 1130.94,
+      "end": 1133.02,
+      "start_timestamp": "00:18:50.940",
+      "end_timestamp": "00:18:53.020",
+      "text": "des professeurs qui sont absents pendant plusieurs mois."
+    },
+    {
+      "id": 225,
+      "start": 1133.02,
+      "end": 1135.9,
+      "start_timestamp": "00:18:53.020",
+      "end_timestamp": "00:18:55.900",
+      "text": "Ce malaise, il ne sera pas traité à coups de matraque."
+    },
+    {
+      "id": 226,
+      "start": 1135.9,
+      "end": 1140.86,
+      "start_timestamp": "00:18:55.900",
+      "end_timestamp": "00:19:00.860",
+      "text": "Il sera traité à coups d'écoute, de considération vis-à-vis de ces jeunes."
+    },
+    {
+      "id": 227,
+      "start": 1140.86,
+      "end": 1144.86,
+      "start_timestamp": "00:19:00.860",
+      "end_timestamp": "00:19:04.860",
+      "text": "Et donc, moi, ce à quoi j'appelle le gouvernement, c'est d'arrêter de jeter de l'huile sur le feu"
+    },
+    {
+      "id": 228,
+      "start": 1144.86,
+      "end": 1146.86,
+      "start_timestamp": "00:19:04.860",
+      "end_timestamp": "00:19:06.860",
+      "text": "et d'enfin écouter les lycéennes et les lycéens."
+    },
+    {
+      "id": 229,
+      "start": 1147.9,
+      "end": 1149.74,
+      "start_timestamp": "00:19:07.900",
+      "end_timestamp": "00:19:09.740",
+      "text": "Une fin déjà écrite."
+    },
+    {
+      "id": 230,
+      "start": 1149.74,
+      "end": 1153.42,
+      "start_timestamp": "00:19:09.740",
+      "end_timestamp": "00:19:13.420",
+      "text": "Ne devant rien au hasard, ni à la seule propagande des méchants médias."
+    },
+    {
+      "id": 231,
+      "start": 1153.42,
+      "end": 1157.82,
+      "start_timestamp": "00:19:13.420",
+      "end_timestamp": "00:19:17.820",
+      "text": "Mais découlant du fait que, structurellement, fondamentalement,"
+    },
+    {
+      "id": 232,
+      "start": 1157.82,
+      "end": 1162.3,
+      "start_timestamp": "00:19:17.820",
+      "end_timestamp": "00:19:22.300",
+      "text": "aucune majorité sociale ne pourra jamais, dans la France d'aujourd'hui,"
+    },
+    {
+      "id": 233,
+      "start": 1162.3,
+      "end": 1166.7,
+      "start_timestamp": "00:19:22.300",
+      "end_timestamp": "00:19:26.700",
+      "text": "se ranger derrière les cadres et agents de la fonction publique,"
+    },
+    {
+      "id": 234,
+      "start": 1166.7,
+      "end": 1171.34,
+      "start_timestamp": "00:19:26.700",
+      "end_timestamp": "00:19:31.340",
+      "text": "que ce soit pour simplement appuyer leurs revendications particulières"
+    },
+    {
+      "id": 235,
+      "start": 1171.34,
+      "end": 1176.94,
+      "start_timestamp": "00:19:31.340",
+      "end_timestamp": "00:19:36.940",
+      "text": "ou, moins encore, dans l'optique d'une transformation révolutionnaire de la société."
+    },
+    {
+      "id": 236,
+      "start": 1176.94,
+      "end": 1179.74,
+      "start_timestamp": "00:19:36.940",
+      "end_timestamp": "00:19:39.740",
+      "text": "N'en déplaise aux dirigeants de la France insoumise,"
+    },
+    {
+      "id": 237,
+      "start": 1179.74,
+      "end": 1184.14,
+      "start_timestamp": "00:19:39.740",
+      "end_timestamp": "00:19:44.140",
+      "text": "n'en déplaise aux syndicats d'enseignants et aux enfants de la bourgeoisie parisienne"
+    },
+    {
+      "id": 238,
+      "start": 1184.14,
+      "end": 1190.46,
+      "start_timestamp": "00:19:44.140",
+      "end_timestamp": "00:19:50.460",
+      "text": "et n'en déplaise également à tous ceux qui, en ayant légitimement ras-le-bol de 10 années de macronisme,"
+    },
+    {
+      "id": 239,
+      "start": 1190.46,
+      "end": 1196.62,
+      "start_timestamp": "00:19:50.460",
+      "end_timestamp": "00:19:56.620",
+      "text": "voient dans n'importe quelle manifestation l'accomplissement de leur fantasme d'insurrection populaire."
+    },
+    {
+      "id": 240,
+      "start": 1196.62,
+      "end": 1199.18,
+      "start_timestamp": "00:19:56.620",
+      "end_timestamp": "00:19:59.180",
+      "text": "Cela n'arrivera pas, tout simplement,"
+    },
+    {
+      "id": 241,
+      "start": 1199.18,
+      "end": 1203.18,
+      "start_timestamp": "00:19:59.180",
+      "end_timestamp": "00:20:03.180",
+      "text": "parce que si à peu près tout le monde en France comprend parfaitement"
+    },
+    {
+      "id": 242,
+      "start": 1203.18,
+      "end": 1206.7,
+      "start_timestamp": "00:20:03.180",
+      "end_timestamp": "00:20:06.700",
+      "text": "pourquoi avoir des services publics fonctionnels est une bonne chose,"
+    },
+    {
+      "id": 243,
+      "start": 1206.7,
+      "end": 1210.86,
+      "start_timestamp": "00:20:06.700",
+      "end_timestamp": "00:20:10.860",
+      "text": "reste que la revendication principale de leurs cadres et agents,"
+    },
+    {
+      "id": 244,
+      "start": 1210.86,
+      "end": 1216.78,
+      "start_timestamp": "00:20:10.860",
+      "end_timestamp": "00:20:16.780",
+      "text": "aujourd'hui, implique la redistribution toujours plus importante de richesse que la France,"
+    },
+    {
+      "id": 245,
+      "start": 1216.78,
+      "end": 1221.18,
+      "start_timestamp": "00:20:16.780",
+      "end_timestamp": "00:20:21.180",
+      "text": "vidée de ses usines, de ses fermes et de ses unités de recherche et développement,"
+    },
+    {
+      "id": 246,
+      "start": 1221.18,
+      "end": 1223.18,
+      "start_timestamp": "00:20:21.180",
+      "end_timestamp": "00:20:23.180",
+      "text": "produit de moins en moins."
+    },
+    {
+      "id": 247,
+      "start": 1223.18,
+      "end": 1228.06,
+      "start_timestamp": "00:20:23.180",
+      "end_timestamp": "00:20:28.060",
+      "text": "Et donc de prendre toujours plus dans la poche des catégories sociales"
+    },
+    {
+      "id": 248,
+      "start": 1228.06,
+      "end": 1231.34,
+      "start_timestamp": "00:20:28.060",
+      "end_timestamp": "00:20:31.340",
+      "text": "encore directement engagées dans les secteurs de production."
+    },
+    {
+      "id": 249,
+      "start": 1231.34,
+      "end": 1236.86,
+      "start_timestamp": "00:20:31.340",
+      "end_timestamp": "00:20:36.860",
+      "text": "Ouvriers, agriculteurs, ingénieurs ou artisans ponctionnés de toutes parts,"
+    },
+    {
+      "id": 250,
+      "start": 1236.86,
+      "end": 1239.98,
+      "start_timestamp": "00:20:36.860",
+      "end_timestamp": "00:20:39.980",
+      "text": "peinent déjà aujourd'hui à joindre les deux bouts"
+    },
+    {
+      "id": 251,
+      "start": 1239.98,
+      "end": 1242.46,
+      "start_timestamp": "00:20:39.980",
+      "end_timestamp": "00:20:42.460",
+      "text": "et que l'on voit mal descendre demain dans la rue"
+    },
+    {
+      "id": 252,
+      "start": 1242.46,
+      "end": 1246.62,
+      "start_timestamp": "00:20:42.460",
+      "end_timestamp": "00:20:46.620",
+      "text": "pour exiger de payer encore plus de taxes et d'impôts"
+    },
+    {
+      "id": 253,
+      "start": 1246.62,
+      "end": 1250.22,
+      "start_timestamp": "00:20:46.620",
+      "end_timestamp": "00:20:50.220",
+      "text": "afin que le lycée de Jean-Eude bénéficie de plus de moyens."
+    },
+    {
+      "id": 254,
+      "start": 1250.22,
+      "end": 1252.78,
+      "start_timestamp": "00:20:50.220",
+      "end_timestamp": "00:20:52.780",
+      "text": "Un problème esquivé par les politiques,"
+    },
+    {
+      "id": 255,
+      "start": 1252.78,
+      "end": 1256.54,
+      "start_timestamp": "00:20:52.780",
+      "end_timestamp": "00:20:56.540",
+      "text": "pointant la manne financière illimitée que constituerait la valeur estimée"
+    },
+    {
+      "id": 256,
+      "start": 1256.54,
+      "end": 1259.26,
+      "start_timestamp": "00:20:56.540",
+      "end_timestamp": "00:20:59.260",
+      "text": "des usines détenues par une poignée d'ultra-riches,"
+    },
+    {
+      "id": 257,
+      "start": 1259.26,
+      "end": 1262.46,
+      "start_timestamp": "00:20:59.260",
+      "end_timestamp": "00:21:02.460",
+      "text": "mais qui reste aujourd'hui au fondement du mal français."
+    },
+    {
+      "id": 258,
+      "start": 1262.46,
+      "end": 1265.66,
+      "start_timestamp": "00:21:02.460",
+      "end_timestamp": "00:21:05.660",
+      "text": "Pour distribuer la richesse, il faut commencer par la produire."
+    },
+    {
+      "id": 259,
+      "start": 1265.66,
+      "end": 1268.86,
+      "start_timestamp": "00:21:05.660",
+      "end_timestamp": "00:21:08.860",
+      "text": "Or, cet enjeu majeur, ceux qui manifestent aujourd'hui"
+    },
+    {
+      "id": 260,
+      "start": 1268.86,
+      "end": 1271.42,
+      "start_timestamp": "00:21:08.860",
+      "end_timestamp": "00:21:11.420",
+      "text": "parce qu'ils sont étrangers au rapport de production"
+    },
+    {
+      "id": 261,
+      "start": 1271.42,
+      "end": 1276.3,
+      "start_timestamp": "00:21:11.420",
+      "end_timestamp": "00:21:16.300",
+      "text": "et ne vivent que d'une redistribution d'argent dont ils ignorent l'origine,"
+    },
+    {
+      "id": 262,
+      "start": 1276.3,
+      "end": 1278.38,
+      "start_timestamp": "00:21:16.300",
+      "end_timestamp": "00:21:18.380",
+      "text": "n'en ont absolument pas conscience."
+    },
+    {
+      "id": 263,
+      "start": 1278.38,
+      "end": 1282.22,
+      "start_timestamp": "00:21:18.380",
+      "end_timestamp": "00:21:22.220",
+      "text": "Par conséquent, alors que produire davantage de richesse"
+    },
+    {
+      "id": 264,
+      "start": 1282.22,
+      "end": 1285.66,
+      "start_timestamp": "00:21:22.220",
+      "end_timestamp": "00:21:25.660",
+      "text": "serait aujourd'hui la seule voie pour financer leurs revendications"
+    },
+    {
+      "id": 265,
+      "start": 1285.66,
+      "end": 1287.66,
+      "start_timestamp": "00:21:25.660",
+      "end_timestamp": "00:21:27.660",
+      "text": "pour certaines tout à fait légitimes,"
+    },
+    {
+      "id": 266,
+      "start": 1287.66,
+      "end": 1291.82,
+      "start_timestamp": "00:21:27.660",
+      "end_timestamp": "00:21:31.820",
+      "text": "la question de comment y parvenir, au mieux, ne les intéresse pas"
+    },
+    {
+      "id": 267,
+      "start": 1291.82,
+      "end": 1294.78,
+      "start_timestamp": "00:21:31.820",
+      "end_timestamp": "00:21:34.780",
+      "text": "et au pire, constitue pour eux une hérésie."
+    },
+    {
+      "id": 268,
+      "start": 1294.78,
+      "end": 1298.78,
+      "start_timestamp": "00:21:34.780",
+      "end_timestamp": "00:21:38.780",
+      "text": "Comme c'est le cas, par exemple, pour le député insoumis Émeric Caron,"
+    },
+    {
+      "id": 269,
+      "start": 1298.78,
+      "end": 1302.46,
+      "start_timestamp": "00:21:38.780",
+      "end_timestamp": "00:21:42.460",
+      "text": "que l'on voit ici arranguer des lycéens avec un mégaphone"
+    },
+    {
+      "id": 270,
+      "start": 1302.46,
+      "end": 1304.78,
+      "start_timestamp": "00:21:42.460",
+      "end_timestamp": "00:21:44.780",
+      "text": "pour exiger plus de moyens,"
+    },
+    {
+      "id": 271,
+      "start": 1304.78,
+      "end": 1307.58,
+      "start_timestamp": "00:21:44.780",
+      "end_timestamp": "00:21:47.580",
+      "text": "mais qui, dans toutes ses interventions publiques,"
+    },
+    {
+      "id": 272,
+      "start": 1307.58,
+      "end": 1312.54,
+      "start_timestamp": "00:21:47.580",
+      "end_timestamp": "00:21:52.540",
+      "text": "insistent sur la nécessité de renoncer à produire de la richesse."
+    },
+    {
+      "id": 273,
+      "start": 1312.54,
+      "end": 1315.34,
+      "start_timestamp": "00:21:52.540",
+      "end_timestamp": "00:21:55.340",
+      "text": "Donc ça veut bien dire que le gouvernement confirme"
+    },
+    {
+      "id": 274,
+      "start": 1315.34,
+      "end": 1317.74,
+      "start_timestamp": "00:21:55.340",
+      "end_timestamp": "00:21:57.740",
+      "text": "sa logique d'hypernucléarisation de ce pays,"
+    },
+    {
+      "id": 275,
+      "start": 1317.74,
+      "end": 1320.06,
+      "start_timestamp": "00:21:57.740",
+      "end_timestamp": "00:22:00.060",
+      "text": "logique qui nous paraît scandaleuse, irresponsable,"
+    },
+    {
+      "id": 276,
+      "start": 1320.06,
+      "end": 1323.66,
+      "start_timestamp": "00:22:00.060",
+      "end_timestamp": "00:22:03.660",
+      "text": "tant une telle logique de politique énergétique"
+    },
+    {
+      "id": 277,
+      "start": 1323.66,
+      "end": 1325.82,
+      "start_timestamp": "00:22:03.660",
+      "end_timestamp": "00:22:05.820",
+      "text": "va à rebours de l'histoire et de la raison."
+    },
+    {
+      "id": 278,
+      "start": 1325.82,
+      "end": 1329.1,
+      "start_timestamp": "00:22:05.820",
+      "end_timestamp": "00:22:09.100",
+      "text": "Et la hausse de la production du charbon a été constatée en Allemagne"
+    },
+    {
+      "id": 279,
+      "start": 1329.1,
+      "end": 1331.34,
+      "start_timestamp": "00:22:09.100",
+      "end_timestamp": "00:22:11.340",
+      "text": "simplement entre 2009 et 2013"
+    },
+    {
+      "id": 280,
+      "start": 1331.34,
+      "end": 1332.86,
+      "start_timestamp": "00:22:11.340",
+      "end_timestamp": "00:22:12.860",
+      "text": "pour des raisons qui n'ont rien à voir avec la sortie."
+    },
+    {
+      "id": 281,
+      "start": 1334.3,
+      "end": 1337.58,
+      "start_timestamp": "00:22:14.300",
+      "end_timestamp": "00:22:17.580",
+      "text": "Un paradoxe apparent qui découle en réalité"
+    },
+    {
+      "id": 282,
+      "start": 1337.58,
+      "end": 1340.54,
+      "start_timestamp": "00:22:17.580",
+      "end_timestamp": "00:22:20.540",
+      "text": "de façon extrêmement logique et implacable"
+    },
+    {
+      "id": 283,
+      "start": 1340.54,
+      "end": 1345.1,
+      "start_timestamp": "00:22:20.540",
+      "end_timestamp": "00:22:25.100",
+      "text": "de la fonction sociale occupée par cette catégorie particulière de population"
+    },
+    {
+      "id": 284,
+      "start": 1345.1,
+      "end": 1348.62,
+      "start_timestamp": "00:22:25.100",
+      "end_timestamp": "00:22:28.620",
+      "text": "et qui aujourd'hui constitue son principal enfer."
+    },
+    {
+      "id": 285,
+      "start": 1348.62,
+      "end": 1350.3,
+      "start_timestamp": "00:22:28.620",
+      "end_timestamp": "00:22:30.300",
+      "text": "Plus la production s'effondre,"
+    },
+    {
+      "id": 286,
+      "start": 1350.3,
+      "end": 1354.14,
+      "start_timestamp": "00:22:30.300",
+      "end_timestamp": "00:22:34.140",
+      "text": "moins l'État est en mesure de lui redistribuer de l'argent."
+    },
+    {
+      "id": 287,
+      "start": 1354.14,
+      "end": 1356.22,
+      "start_timestamp": "00:22:34.140",
+      "end_timestamp": "00:22:36.220",
+      "text": "Moins l'État lui redistribue d'argent,"
+    },
+    {
+      "id": 288,
+      "start": 1356.22,
+      "end": 1360.3,
+      "start_timestamp": "00:22:36.220",
+      "end_timestamp": "00:22:40.300",
+      "text": "plus elle revendique et prend toute la place dans le débat public."
+    },
+    {
+      "id": 289,
+      "start": 1360.3,
+      "end": 1362.46,
+      "start_timestamp": "00:22:40.300",
+      "end_timestamp": "00:22:42.460",
+      "text": "Et plus elle prend de place,"
+    },
+    {
+      "id": 290,
+      "start": 1362.46,
+      "end": 1366.54,
+      "start_timestamp": "00:22:42.460",
+      "end_timestamp": "00:22:46.540",
+      "text": "plus la question de la production de richesse est invisibilisée"
+    },
+    {
+      "id": 291,
+      "start": 1366.54,
+      "end": 1370.06,
+      "start_timestamp": "00:22:46.540",
+      "end_timestamp": "00:22:50.060",
+      "text": "et plus il est facile pour les détenteurs des moyens de production"
+    },
+    {
+      "id": 292,
+      "start": 1370.06,
+      "end": 1372.3,
+      "start_timestamp": "00:22:50.060",
+      "end_timestamp": "00:22:52.300",
+      "text": "de les délocaliser à l'autre bout de l'Europe."
+    },
+    {
+      "id": 293,
+      "start": 1372.3,
+      "end": 1377.5,
+      "start_timestamp": "00:22:52.300",
+      "end_timestamp": "00:22:57.500",
+      "text": "Avec à la clé, toujours plus d'impôts pour les producteurs restants sur le sol français,"
+    },
+    {
+      "id": 294,
+      "start": 1377.5,
+      "end": 1380.38,
+      "start_timestamp": "00:22:57.500",
+      "end_timestamp": "00:23:00.380",
+      "text": "toujours plus d'endettement public"
+    },
+    {
+      "id": 295,
+      "start": 1380.38,
+      "end": 1385.42,
+      "start_timestamp": "00:23:00.380",
+      "end_timestamp": "00:23:05.420",
+      "text": "et toujours moins de possibilités de répondre aux revendications des fonctionnaires."
+    },
+    {
+      "id": 296,
+      "start": 1385.42,
+      "end": 1389.5,
+      "start_timestamp": "00:23:05.420",
+      "end_timestamp": "00:23:09.500",
+      "text": "Functionnaires qui, par leur attitude, entretiennent donc ce cercle vicieux,"
+    },
+    {
+      "id": 297,
+      "start": 1389.5,
+      "end": 1395.18,
+      "start_timestamp": "00:23:09.500",
+      "end_timestamp": "00:23:15.180",
+      "text": "se condamnant eux-mêmes à être toujours plus insatisfaits de leurs conditions de vie,"
+    },
+    {
+      "id": 298,
+      "start": 1395.18,
+      "end": 1400.22,
+      "start_timestamp": "00:23:15.180",
+      "end_timestamp": "00:23:20.220",
+      "text": "mais surtout condamnant l'ensemble des Français à voir leur pays pillé"
+    },
+    {
+      "id": 299,
+      "start": 1400.3,
+      "end": 1403.42,
+      "start_timestamp": "00:23:20.300",
+      "end_timestamp": "00:23:23.420",
+      "text": "tout en devant subir continuellement les gérémiades"
+    },
+    {
+      "id": 300,
+      "start": 1403.42,
+      "end": 1408.06,
+      "start_timestamp": "00:23:23.420",
+      "end_timestamp": "00:23:28.060",
+      "text": "de ceux qui, dans l'affaire, servent d'idiots utiles à la classe dirigeante."
+    },
+    {
+      "id": 301,
+      "start": 1408.06,
+      "end": 1411.66,
+      "start_timestamp": "00:23:28.060",
+      "end_timestamp": "00:23:31.660",
+      "text": "De quoi comprendre, certes, toute la détresse de cette classe,"
+    },
+    {
+      "id": 302,
+      "start": 1411.66,
+      "end": 1413.58,
+      "start_timestamp": "00:23:31.660",
+      "end_timestamp": "00:23:33.580",
+      "text": "autrefois qualifiée de moyenne,"
+    },
+    {
+      "id": 303,
+      "start": 1413.58,
+      "end": 1418.22,
+      "start_timestamp": "00:23:33.580",
+      "end_timestamp": "00:23:38.220",
+      "text": "vouée à répéter encore et toujours les mêmes schémas et les mêmes erreurs,"
+    },
+    {
+      "id": 304,
+      "start": 1418.22,
+      "end": 1421.82,
+      "start_timestamp": "00:23:38.220",
+      "end_timestamp": "00:23:41.820",
+      "text": "avec toujours la même certitude d'être dans son bon droit"
+    },
+    {
+      "id": 305,
+      "start": 1421.82,
+      "end": 1424.46,
+      "start_timestamp": "00:23:41.820",
+      "end_timestamp": "00:23:44.460",
+      "text": "et d'incarner la résistance au système,"
+    },
+    {
+      "id": 306,
+      "start": 1424.46,
+      "end": 1427.82,
+      "start_timestamp": "00:23:44.460",
+      "end_timestamp": "00:23:47.820",
+      "text": "qu'elle continuera pourtant de servir objectivement"
+    },
+    {
+      "id": 307,
+      "start": 1427.82,
+      "end": 1430.06,
+      "start_timestamp": "00:23:47.820",
+      "end_timestamp": "00:23:50.060",
+      "text": "jusqu'au jour où inéluctablement,"
+    },
+    {
+      "id": 308,
+      "start": 1430.06,
+      "end": 1434.22,
+      "start_timestamp": "00:23:50.060",
+      "end_timestamp": "00:23:54.220",
+      "text": "il n'y aura tout simplement plus d'argent pour subvenir à ses besoins."
+    },
+    {
+      "id": 309,
+      "start": 1434.22,
+      "end": 1437.66,
+      "start_timestamp": "00:23:54.220",
+      "end_timestamp": "00:23:57.660",
+      "text": "De quoi également comprendre pourquoi, ce jour-là,"
+    },
+    {
+      "id": 310,
+      "start": 1437.66,
+      "end": 1440.3,
+      "start_timestamp": "00:23:57.660",
+      "end_timestamp": "00:24:00.300",
+      "text": "personne ne viendra pleurer sur son sort"
+    },
+    {
+      "id": 311,
+      "start": 1440.3,
+      "end": 1443.74,
+      "start_timestamp": "00:24:00.300",
+      "end_timestamp": "00:24:03.740",
+      "text": "et pourquoi, pas plus la prochaine fois que celle-ci,"
+    },
+    {
+      "id": 312,
+      "start": 1443.74,
+      "end": 1449.26,
+      "start_timestamp": "00:24:03.740",
+      "end_timestamp": "00:24:09.260",
+      "text": "la convergence des luttes ne se fera derrière les drapeaux de l'inter-syndicale de l'éducation."
+    },
+    {
+      "id": 313,
+      "start": 1449.26,
+      "end": 1452.22,
+      "start_timestamp": "00:24:09.260",
+      "end_timestamp": "00:24:12.220",
+      "text": "Et ce, d'autant plus que, comme d'habitude,"
+    },
+    {
+      "id": 314,
+      "start": 1452.22,
+      "end": 1457.18,
+      "start_timestamp": "00:24:12.220",
+      "end_timestamp": "00:24:17.180",
+      "text": "ces personnes et leurs relais politiques auront tout de même réussi une chose,"
+    },
+    {
+      "id": 315,
+      "start": 1457.18,
+      "end": 1459.9,
+      "start_timestamp": "00:24:17.180",
+      "end_timestamp": "00:24:19.900",
+      "text": "braquer les projecteurs sur eux-mêmes"
+    },
+    {
+      "id": 316,
+      "start": 1459.9,
+      "end": 1463.26,
+      "start_timestamp": "00:24:19.900",
+      "end_timestamp": "00:24:23.260",
+      "text": "et faire oublier des problèmes autrement plus graves"
+    },
+    {
+      "id": 317,
+      "start": 1463.26,
+      "end": 1467.5,
+      "start_timestamp": "00:24:23.260",
+      "end_timestamp": "00:24:27.500",
+      "text": "rencontrés par les autres catégories sociales qui existent en France."
+    },
+    {
+      "id": 318,
+      "start": 1467.5,
+      "end": 1471.5,
+      "start_timestamp": "00:24:27.500",
+      "end_timestamp": "00:24:31.500",
+      "text": "Évidemment, les questions du prix et de la disponibilité des carburants,"
+    },
+    {
+      "id": 319,
+      "start": 1471.5,
+      "end": 1474.22,
+      "start_timestamp": "00:24:31.500",
+      "end_timestamp": "00:24:34.220",
+      "text": "dont nous parlions ici même il y a deux semaines,"
+    },
+    {
+      "id": 320,
+      "start": 1474.22,
+      "end": 1479.66,
+      "start_timestamp": "00:24:34.220",
+      "end_timestamp": "00:24:39.660",
+      "text": "et qui ont depuis opportunément disparu des débats à la faveur du mouvement lycéen,"
+    },
+    {
+      "id": 321,
+      "start": 1479.66,
+      "end": 1482.3,
+      "start_timestamp": "00:24:39.660",
+      "end_timestamp": "00:24:42.300",
+      "text": "mais également tous les problèmes criants"
+    },
+    {
+      "id": 322,
+      "start": 1482.3,
+      "end": 1485.26,
+      "start_timestamp": "00:24:42.300",
+      "end_timestamp": "00:24:45.260",
+      "text": "que la première phase du mouvement avait mis en évidence,"
+    },
+    {
+      "id": 323,
+      "start": 1485.26,
+      "end": 1491.26,
+      "start_timestamp": "00:24:45.260",
+      "end_timestamp": "00:24:51.260",
+      "text": "à savoir ceux à la fois posés et rencontrés par une fraction non négligeable de la jeunesse,"
+    },
+    {
+      "id": 324,
+      "start": 1491.26,
+      "end": 1494.46,
+      "start_timestamp": "00:24:51.260",
+      "end_timestamp": "00:24:54.460",
+      "text": "incapables de s'exprimer autrement que par la violence,"
+    },
+    {
+      "id": 325,
+      "start": 1494.46,
+      "end": 1499.34,
+      "start_timestamp": "00:24:54.460",
+      "end_timestamp": "00:24:59.340",
+      "text": "et n'ayant de toute évidence aucune place dans la société de demain."
+    },
+    {
+      "id": 326,
+      "start": 1499.34,
+      "end": 1505.5,
+      "start_timestamp": "00:24:59.340",
+      "end_timestamp": "00:25:05.500",
+      "text": "Un problème bien réel auquel il faudra très rapidement trouver des réponses de fond."
+    },
+    {
+      "id": 327,
+      "start": 1505.5,
+      "end": 1509.66,
+      "start_timestamp": "00:25:05.500",
+      "end_timestamp": "00:25:09.660",
+      "text": "Certes, à court terme, face à des hordes d'individus qui pillent des magasins,"
+    },
+    {
+      "id": 328,
+      "start": 1509.66,
+      "end": 1512.14,
+      "start_timestamp": "00:25:09.660",
+      "end_timestamp": "00:25:12.140",
+      "text": "brûlent des lycées, agressent des passants,"
+    },
+    {
+      "id": 329,
+      "start": 1512.14,
+      "end": 1515.5,
+      "start_timestamp": "00:25:12.140",
+      "end_timestamp": "00:25:15.500",
+      "text": "la réponse des pouvoirs publics devrait être évidente."
+    },
+    {
+      "id": 330,
+      "start": 1515.5,
+      "end": 1520.62,
+      "start_timestamp": "00:25:15.500",
+      "end_timestamp": "00:25:20.620",
+      "text": "Certes, on peut considérer que tous ceux qui en leur sein n'ont pas la nationalité française,"
+    },
+    {
+      "id": 331,
+      "start": 1520.62,
+      "end": 1522.62,
+      "start_timestamp": "00:25:20.620",
+      "end_timestamp": "00:25:22.620",
+      "text": "n'ont rien à faire sur notre territoire,"
+    },
+    {
+      "id": 332,
+      "start": 1522.62,
+      "end": 1526.7,
+      "start_timestamp": "00:25:22.620",
+      "end_timestamp": "00:25:26.700",
+      "text": "et donc que leur avenir ne nous regarde tout simplement pas,"
+    },
+    {
+      "id": 333,
+      "start": 1526.7,
+      "end": 1531.66,
+      "start_timestamp": "00:25:26.700",
+      "end_timestamp": "00:25:31.660",
+      "text": "mais à long terme, que va bien pouvoir faire la France de tous les autres,"
+    },
+    {
+      "id": 334,
+      "start": 1531.66,
+      "end": 1534.62,
+      "start_timestamp": "00:25:31.660",
+      "end_timestamp": "00:25:34.620",
+      "text": "ceux que l'on ne peut renvoyer nulle part ?"
+    },
+    {
+      "id": 335,
+      "start": 1534.62,
+      "end": 1537.9,
+      "start_timestamp": "00:25:34.620",
+      "end_timestamp": "00:25:37.900",
+      "text": "Comment espérer les intégrer à un pays fonctionnel,"
+    },
+    {
+      "id": 336,
+      "start": 1537.9,
+      "end": 1541.42,
+      "start_timestamp": "00:25:37.900",
+      "end_timestamp": "00:25:41.420",
+      "text": "leur donner une place dans un quelconque ordre social ?"
+    },
+    {
+      "id": 337,
+      "start": 1541.5,
+      "end": 1543.5,
+      "start_timestamp": "00:25:41.500",
+      "end_timestamp": "00:25:43.500",
+      "text": "Est-ce seulement possible ?"
+    },
+    {
+      "id": 338,
+      "start": 1543.5,
+      "end": 1546.46,
+      "start_timestamp": "00:25:43.500",
+      "end_timestamp": "00:25:46.460",
+      "text": "Pour ceux qui fantasment sur leur potentiel électoral,"
+    },
+    {
+      "id": 339,
+      "start": 1546.46,
+      "end": 1550.7,
+      "start_timestamp": "00:25:46.460",
+      "end_timestamp": "00:25:50.700",
+      "text": "et qui ces derniers jours ont choisi de parler en leur nom et à leur place,"
+    },
+    {
+      "id": 340,
+      "start": 1550.7,
+      "end": 1552.46,
+      "start_timestamp": "00:25:50.700",
+      "end_timestamp": "00:25:52.460",
+      "text": "pas besoin de se poser la question."
+    },
+    {
+      "id": 341,
+      "start": 1552.46,
+      "end": 1556.06,
+      "start_timestamp": "00:25:52.460",
+      "end_timestamp": "00:25:56.060",
+      "text": "Il suffit de les laisser vivre comme ils l'entendent dans la société actuelle,"
+    },
+    {
+      "id": 342,
+      "start": 1556.06,
+      "end": 1558.54,
+      "start_timestamp": "00:25:56.060",
+      "end_timestamp": "00:25:58.540",
+      "text": "et de leur distribuer toujours plus d'argent,"
+    },
+    {
+      "id": 343,
+      "start": 1558.54,
+      "end": 1562.3,
+      "start_timestamp": "00:25:58.540",
+      "end_timestamp": "00:26:02.300",
+      "text": "en leur faisant croire que demain ils seront médecins ou ingénieurs."
+    },
+    {
+      "id": 344,
+      "start": 1562.3,
+      "end": 1567.1,
+      "start_timestamp": "00:26:02.300",
+      "end_timestamp": "00:26:07.100",
+      "text": "Soit précisément la même chose que ce qui a été fait jusqu'à maintenant,"
+    },
+    {
+      "id": 345,
+      "start": 1567.1,
+      "end": 1571.5,
+      "start_timestamp": "00:26:07.100",
+      "end_timestamp": "00:26:11.500",
+      "text": "et qui a mené à l'impasse dans laquelle nous nous trouvons actuellement."
+    },
+    {
+      "id": 346,
+      "start": 1571.5,
+      "end": 1573.82,
+      "start_timestamp": "00:26:11.500",
+      "end_timestamp": "00:26:13.820",
+      "text": "Comment désormais en sortir ?"
+    },
+    {
+      "id": 347,
+      "start": 1573.82,
+      "end": 1576.22,
+      "start_timestamp": "00:26:13.820",
+      "end_timestamp": "00:26:16.220",
+      "text": "Sans doute est-ce là la question que les aspirants présidents"
+    },
+    {
+      "id": 348,
+      "start": 1576.22,
+      "end": 1578.06,
+      "start_timestamp": "00:26:16.220",
+      "end_timestamp": "00:26:18.060",
+      "text": "devraient être en train de se poser,"
+    },
+    {
+      "id": 349,
+      "start": 1578.06,
+      "end": 1581.82,
+      "start_timestamp": "00:26:18.060",
+      "end_timestamp": "00:26:21.820",
+      "text": "au lieu de se contenter de postures et de promesses démagogiques."
+    },
+    {
+      "id": 350,
+      "start": 1584.68,
+      "end": 1586.68,
+      "start_timestamp": "00:26:24.680",
+      "end_timestamp": "00:26:26.680",
+      "text": "Voilà le fil d'actu, c'est tout pour aujourd'hui,"
+    },
+    {
+      "id": 351,
+      "start": 1586.68,
+      "end": 1588.04,
+      "start_timestamp": "00:26:26.680",
+      "end_timestamp": "00:26:28.040",
+      "text": "merci d'avoir été avec nous,"
+    },
+    {
+      "id": 352,
+      "start": 1588.04,
+      "end": 1590.28,
+      "start_timestamp": "00:26:28.040",
+      "end_timestamp": "00:26:30.280",
+      "text": "nous espérons que cette vidéo vous aura intéressé,"
+    },
+    {
+      "id": 353,
+      "start": 1590.28,
+      "end": 1594.12,
+      "start_timestamp": "00:26:30.280",
+      "end_timestamp": "00:26:34.120",
+      "text": "et vous aura aidé à prendre un peu de hauteur sur les événements de ces derniers jours,"
+    },
+    {
+      "id": 354,
+      "start": 1594.12,
+      "end": 1597.48,
+      "start_timestamp": "00:26:34.120",
+      "end_timestamp": "00:26:37.480",
+      "text": "loin des médias se contentant de commentaires au jour le jour"
+    },
+    {
+      "id": 355,
+      "start": 1597.48,
+      "end": 1601.32,
+      "start_timestamp": "00:26:37.480",
+      "end_timestamp": "00:26:41.320",
+      "text": "sur le nombre de lycées bloqués, de policiers blessés ou de manifestants arrêtés,"
+    },
+    {
+      "id": 356,
+      "start": 1601.32,
+      "end": 1605.72,
+      "start_timestamp": "00:26:41.320",
+      "end_timestamp": "00:26:45.720",
+      "text": "et loin des réseaux politiques s'acharnant à présenter comme historiques"
+    },
+    {
+      "id": 357,
+      "start": 1605.72,
+      "end": 1609.96,
+      "start_timestamp": "00:26:45.720",
+      "end_timestamp": "00:26:49.960",
+      "text": "et jamais vus un mouvement social à la portée véritable très limité."
+    },
+    {
+      "id": 358,
+      "start": 1609.96,
+      "end": 1614.6,
+      "start_timestamp": "00:26:49.960",
+      "end_timestamp": "00:26:54.600",
+      "text": "Comme s'il suffisait de marteler une exagération évidente pour qu'elles prennent corps."
+    },
+    {
+      "id": 359,
+      "start": 1614.6,
+      "end": 1617.32,
+      "start_timestamp": "00:26:54.600",
+      "end_timestamp": "00:26:57.320",
+      "text": "Des optiques qui clairement ne sont pas les nôtres."
+    },
+    {
+      "id": 360,
+      "start": 1617.32,
+      "end": 1622.04,
+      "start_timestamp": "00:26:57.320",
+      "end_timestamp": "00:27:02.040",
+      "text": "Ici, au fil d'actu, nous préférons tenter d'analyser et de comprendre le réel."
+    },
+    {
+      "id": 361,
+      "start": 1622.04,
+      "end": 1624.84,
+      "start_timestamp": "00:27:02.040",
+      "end_timestamp": "00:27:04.840",
+      "text": "Première étape pour son éventuelle transformation,"
+    },
+    {
+      "id": 362,
+      "start": 1624.84,
+      "end": 1627.48,
+      "start_timestamp": "00:27:04.840",
+      "end_timestamp": "00:27:07.480",
+      "text": "plutôt que de simplement en commenter les détails,"
+    },
+    {
+      "id": 363,
+      "start": 1627.48,
+      "end": 1632.6,
+      "start_timestamp": "00:27:07.480",
+      "end_timestamp": "00:27:12.600",
+      "text": "ou pire, le fuir pour y substituer des chimères et des fantasmes de révolution."
+    },
+    {
+      "id": 364,
+      "start": 1632.6,
+      "end": 1635.64,
+      "start_timestamp": "00:27:12.600",
+      "end_timestamp": "00:27:15.640",
+      "text": "C'est peut-être moins agréable pour nous comme pour vous,"
+    },
+    {
+      "id": 365,
+      "start": 1635.64,
+      "end": 1638.84,
+      "start_timestamp": "00:27:15.640",
+      "end_timestamp": "00:27:18.840",
+      "text": "mais à nos yeux, c'est nettement plus utile à la collectivité."
+    },
+    {
+      "id": 366,
+      "start": 1638.84,
+      "end": 1641.72,
+      "start_timestamp": "00:27:18.840",
+      "end_timestamp": "00:27:21.720",
+      "text": "Si cette démarche qui est la nôtre vous semble digne d'intérêt,"
+    },
+    {
+      "id": 367,
+      "start": 1641.72,
+      "end": 1646.6,
+      "start_timestamp": "00:27:21.720",
+      "end_timestamp": "00:27:26.600",
+      "text": "si elle vous correspond ou tout simplement si vous jugez que notre travail a le mérite d'exister,"
+    },
+    {
+      "id": 368,
+      "start": 1646.6,
+      "end": 1649.8,
+      "start_timestamp": "00:27:26.600",
+      "end_timestamp": "00:27:29.800",
+      "text": "alors nous vous invitons bien sûr à partager cette vidéo autour de vous,"
+    },
+    {
+      "id": 369,
+      "start": 1649.8,
+      "end": 1654.28,
+      "start_timestamp": "00:27:29.800",
+      "end_timestamp": "00:27:34.280",
+      "text": "mais aussi à nous soutenir via notre page de financement participatif Tipeee,"
+    },
+    {
+      "id": 370,
+      "start": 1654.36,
+      "end": 1657.0,
+      "start_timestamp": "00:27:34.360",
+      "end_timestamp": "00:27:37.000",
+      "text": "dont le lien se trouve en barre d'infos sous la vidéo"
+    },
+    {
+      "id": 371,
+      "start": 1657.0,
+      "end": 1660.28,
+      "start_timestamp": "00:27:37.000",
+      "end_timestamp": "00:27:40.280",
+      "text": "et s'affiche en ce moment même quelque part sur votre écran."
+    },
+    {
+      "id": 372,
+      "start": 1660.28,
+      "end": 1661.48,
+      "start_timestamp": "00:27:40.280",
+      "end_timestamp": "00:27:41.480",
+      "text": "Pourquoi nous soutenir ?"
+    },
+    {
+      "id": 373,
+      "start": 1661.48,
+      "end": 1664.52,
+      "start_timestamp": "00:27:41.480",
+      "end_timestamp": "00:27:44.520",
+      "text": "Parce que pour pouvoir réellement donner du sens à l'information,"
+    },
+    {
+      "id": 374,
+      "start": 1664.52,
+      "end": 1669.64,
+      "start_timestamp": "00:27:44.520",
+      "end_timestamp": "00:27:49.640",
+      "text": "un média comme le fil d'actu a besoin d'être libre de toute contrainte éditoriale,"
+    },
+    {
+      "id": 375,
+      "start": 1669.64,
+      "end": 1672.52,
+      "start_timestamp": "00:27:49.640",
+      "end_timestamp": "00:27:52.520",
+      "text": "et donc 100% et réellement indépendant."
+    },
+    {
+      "id": 376,
+      "start": 1672.52,
+      "end": 1675.32,
+      "start_timestamp": "00:27:52.520",
+      "end_timestamp": "00:27:55.320",
+      "text": "Au fil d'actu, nous ne touchons pas un centime d'argent public,"
+    },
+    {
+      "id": 377,
+      "start": 1675.32,
+      "end": 1677.56,
+      "start_timestamp": "00:27:55.320",
+      "end_timestamp": "00:27:57.560",
+      "text": "nous n'avons derrière nous aucun riche mécène,"
+    },
+    {
+      "id": 378,
+      "start": 1677.56,
+      "end": 1682.6,
+      "start_timestamp": "00:27:57.560",
+      "end_timestamp": "00:28:02.600",
+      "text": "aucune boîte de prod, aucune marque à laquelle servir de véhicule publicitaire,"
+    },
+    {
+      "id": 379,
+      "start": 1682.6,
+      "end": 1687.0,
+      "start_timestamp": "00:28:02.600",
+      "end_timestamp": "00:28:07.000",
+      "text": "aucun lobby et bien sûr aucun État et aucun parti politique."
+    },
+    {
+      "id": 380,
+      "start": 1687.0,
+      "end": 1692.2,
+      "start_timestamp": "00:28:07.000",
+      "end_timestamp": "00:28:12.200",
+      "text": "C'est la condition de notre intégrité et nous mettons un point d'honneur à ne jamais y renoncer."
+    },
+    {
+      "id": 381,
+      "start": 1692.2,
+      "end": 1694.76,
+      "start_timestamp": "00:28:12.200",
+      "end_timestamp": "00:28:14.760",
+      "text": "La contrepartie, c'est que pour exister en tant que média,"
+    },
+    {
+      "id": 382,
+      "start": 1694.76,
+      "end": 1697.64,
+      "start_timestamp": "00:28:14.760",
+      "end_timestamp": "00:28:17.640",
+      "text": "nous avons besoin de vous et de votre soutien."
+    },
+    {
+      "id": 383,
+      "start": 1697.64,
+      "end": 1701.08,
+      "start_timestamp": "00:28:17.640",
+      "end_timestamp": "00:28:21.080",
+      "text": "Aujourd'hui, si le fil d'actu existe et est en mesure de produire chaque semaine"
+    },
+    {
+      "id": 384,
+      "start": 1701.08,
+      "end": 1703.56,
+      "start_timestamp": "00:28:21.080",
+      "end_timestamp": "00:28:23.560",
+      "text": "une bonne vidéo d'analyse d'actualité,"
+    },
+    {
+      "id": 385,
+      "start": 1703.56,
+      "end": 1707.32,
+      "start_timestamp": "00:28:23.560",
+      "end_timestamp": "00:28:27.320",
+      "text": "c'est uniquement grâce à vous et à tous ceux qui, au sein de notre public,"
+    },
+    {
+      "id": 386,
+      "start": 1707.32,
+      "end": 1712.36,
+      "start_timestamp": "00:28:27.320",
+      "end_timestamp": "00:28:32.360",
+      "text": "ont choisi de devenir Tipeurs, contributeurs financiers de l'émission et de la chaîne."
+    },
+    {
+      "id": 387,
+      "start": 1712.44,
+      "end": 1716.92,
+      "start_timestamp": "00:28:32.440",
+      "end_timestamp": "00:28:36.920",
+      "text": "Le mois dernier, vous avez été plus de 700 à apporter votre pierre à l'édifice"
+    },
+    {
+      "id": 388,
+      "start": 1716.92,
+      "end": 1719.8,
+      "start_timestamp": "00:28:36.920",
+      "end_timestamp": "00:28:39.800",
+      "text": "et on vous remercie tous très chaleureusement pour cela,"
+    },
+    {
+      "id": 389,
+      "start": 1719.8,
+      "end": 1722.52,
+      "start_timestamp": "00:28:39.800",
+      "end_timestamp": "00:28:42.520",
+      "text": "car on sait ce qu'on vous doit et on n'est pas prêt de l'oublier."
+    },
+    {
+      "id": 390,
+      "start": 1722.52,
+      "end": 1727.08,
+      "start_timestamp": "00:28:42.520",
+      "end_timestamp": "00:28:47.080",
+      "text": "Merci infiniment d'être avec nous, merci d'être toujours plus nombreux à nous soutenir,"
+    },
+    {
+      "id": 391,
+      "start": 1727.08,
+      "end": 1732.68,
+      "start_timestamp": "00:28:47.080",
+      "end_timestamp": "00:28:52.680",
+      "text": "merci de nous permettre de faire ce travail et de continuer chaque semaine à donner du sens à l'information."
+    },
+    {
+      "id": 392,
+      "start": 1732.68,
+      "end": 1737.08,
+      "start_timestamp": "00:28:52.680",
+      "end_timestamp": "00:28:57.080",
+      "text": "Et si vous aussi vous suivez notre travail et que vous avez l'envie et bien sûr les moyens"
+    },
+    {
+      "id": 393,
+      "start": 1737.08,
+      "end": 1740.76,
+      "start_timestamp": "00:28:57.080",
+      "end_timestamp": "00:29:00.760",
+      "text": "de vous engager à nos côtés pour une information libre et indépendante,"
+    },
+    {
+      "id": 394,
+      "start": 1740.84,
+      "end": 1745.96,
+      "start_timestamp": "00:29:00.840",
+      "end_timestamp": "00:29:05.960",
+      "text": "alors on vous invite à devenir à votre tour Tipeur du fil d'actu, ne serait-ce qu'à hauteur de 5 euros par mois."
+    },
+    {
+      "id": 395,
+      "start": 1745.96,
+      "end": 1750.92,
+      "start_timestamp": "00:29:05.960",
+      "end_timestamp": "00:29:10.920",
+      "text": "Pour cela, il vous suffit de vous rendre sur notre page Tipeee, le lien est en description sous la vidéo,"
+    },
+    {
+      "id": 396,
+      "start": 1750.92,
+      "end": 1753.88,
+      "start_timestamp": "00:29:10.920",
+      "end_timestamp": "00:29:13.880",
+      "text": "de choisir le montant et la régularité de votre soutien"
+    },
+    {
+      "id": 397,
+      "start": 1753.88,
+      "end": 1757.24,
+      "start_timestamp": "00:29:13.880",
+      "end_timestamp": "00:29:17.240",
+      "text": "et de vous laisser guider par la plateforme 100% Sécurisées Slava de Soie."
+    },
+    {
+      "id": 398,
+      "start": 1757.24,
+      "end": 1761.24,
+      "start_timestamp": "00:29:17.240",
+      "end_timestamp": "00:29:21.240",
+      "text": "On vous dit merci d'avance et on vous souhaite la bienvenue dans la bataille."
+    },
+    {
+      "id": 399,
+      "start": 1761.24,
+      "end": 1764.52,
+      "start_timestamp": "00:29:21.240",
+      "end_timestamp": "00:29:24.520",
+      "text": "Pour terminer quelques petites recommandations, d'abord si ce n'est pas déjà fait,"
+    },
+    {
+      "id": 400,
+      "start": 1764.52,
+      "end": 1768.92,
+      "start_timestamp": "00:29:24.520",
+      "end_timestamp": "00:29:28.920",
+      "text": "pensez bien sûr à vous abonner à notre chaîne, à activer les notifications en cliquant sur la cloche"
+    },
+    {
+      "id": 401,
+      "start": 1768.92,
+      "end": 1773.8,
+      "start_timestamp": "00:29:28.920",
+      "end_timestamp": "00:29:33.800",
+      "text": "et à nous suivre sur nos différents réseaux Instagram et Facebook ainsi que sur mon TikTok personnel"
+    },
+    {
+      "id": 402,
+      "start": 1773.8,
+      "end": 1777.32,
+      "start_timestamp": "00:29:33.800",
+      "end_timestamp": "00:29:37.320",
+      "text": "afin de multiplier vos chances de ne rater aucune de nos nouvelles publications."
+    },
+    {
+      "id": 403,
+      "start": 1777.32,
+      "end": 1782.92,
+      "start_timestamp": "00:29:37.320",
+      "end_timestamp": "00:29:42.920",
+      "text": "Ensuite, si vous souhaitez mieux appréhender les questions de classe sociale et les enjeux de production évoqués dans cette vidéo,"
+    },
+    {
+      "id": 404,
+      "start": 1782.92,
+      "end": 1787.48,
+      "start_timestamp": "00:29:42.920",
+      "end_timestamp": "00:29:47.480",
+      "text": "je vous rappelle que c'est le sujet central de mon livre Il est venu le temps des producteurs,"
+    },
+    {
+      "id": 405,
+      "start": 1787.48,
+      "end": 1795.0,
+      "start_timestamp": "00:29:47.480",
+      "end_timestamp": "00:29:55.000",
+      "text": "un livre qui explique précisément comment le développement de la fonction publique et du secteur des services à compter des années 1970"
+    },
+    {
+      "id": 406,
+      "start": 1795.08,
+      "end": 1799.4,
+      "start_timestamp": "00:29:55.080",
+      "end_timestamp": "00:29:59.400",
+      "text": "a permis en France de masquer la disparition de l'activité productive,"
+    },
+    {
+      "id": 407,
+      "start": 1799.4,
+      "end": 1804.2,
+      "start_timestamp": "00:29:59.400",
+      "end_timestamp": "00:30:04.200",
+      "text": "disparition dont les problèmes auxquels le pays fait face aujourd'hui constituent les conséquences directes."
+    },
+    {
+      "id": 408,
+      "start": 1804.2,
+      "end": 1808.28,
+      "start_timestamp": "00:30:04.200",
+      "end_timestamp": "00:30:08.280",
+      "text": "Si le sujet vous intéresse, si vous avez envie d'approfondir votre compréhension de ce sujet,"
+    },
+    {
+      "id": 409,
+      "start": 1808.28,
+      "end": 1812.04,
+      "start_timestamp": "00:30:08.280",
+      "end_timestamp": "00:30:12.040",
+      "text": "je ne saurais donc que trop vous conseiller la lecture de cet ouvrage."
+    },
+    {
+      "id": 410,
+      "start": 1812.04,
+      "end": 1816.68,
+      "start_timestamp": "00:30:12.040",
+      "end_timestamp": "00:30:16.680",
+      "text": "Pour cela, je vous donne rendez-vous sur le site des éditions du fil d'actu et uniquement sur ce site."
+    },
+    {
+      "id": 411,
+      "start": 1816.68,
+      "end": 1820.76,
+      "start_timestamp": "00:30:16.680",
+      "end_timestamp": "00:30:20.760",
+      "text": "Le lien comme celui de notre page Tipeee se trouve en description en dessous de la vidéo."
+    },
+    {
+      "id": 412,
+      "start": 1820.76,
+      "end": 1825.64,
+      "start_timestamp": "00:30:20.760",
+      "end_timestamp": "00:30:25.640",
+      "text": "Enfin, si vous avez quelques secondes pour cela, nous vous invitons à laisser un pouce vers le haut sous cette vidéo,"
+    },
+    {
+      "id": 413,
+      "start": 1825.64,
+      "end": 1828.52,
+      "start_timestamp": "00:30:25.640",
+      "end_timestamp": "00:30:28.520",
+      "text": "ainsi si vous le souhaitez qu'une réflexion personnelle en commentaire."
+    },
+    {
+      "id": 414,
+      "start": 1828.52,
+      "end": 1832.92,
+      "start_timestamp": "00:30:28.520",
+      "end_timestamp": "00:30:32.920",
+      "text": "Non seulement ça nous fait plaisir, mais en plus cela améliore le référencement de la vidéo,"
+    },
+    {
+      "id": 415,
+      "start": 1832.92,
+      "end": 1840.04,
+      "start_timestamp": "00:30:32.920",
+      "end_timestamp": "00:30:40.040",
+      "text": "donc la visibilité de notre chaîne sur YouTube et c'est donc un véritable moyen pour vous, utiles et gratuits, de nous aider."
+    },
+    {
+      "id": 416,
+      "start": 1840.04,
+      "end": 1843.16,
+      "start_timestamp": "00:30:40.040",
+      "end_timestamp": "00:30:43.160",
+      "text": "Merci encore d'avoir été avec nous, je vous souhaite à tous une très bonne semaine"
+    },
+    {
+      "id": 417,
+      "start": 1843.16,
+      "end": 1848.28,
+      "start_timestamp": "00:30:43.160",
+      "end_timestamp": "00:30:48.280",
+      "text": "et je vous donne rendez-vous la semaine prochaine pour un nouveau fil d'actu et l'émission qui donne du sens à l'information."
+    }
+  ]
+}

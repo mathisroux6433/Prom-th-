@@ -1,0 +1,211 @@
+{
+  "arguments_positions": [
+    {
+      "position": "Le mouvement lycéen est socialement composite et géographiquement limité",
+      "horodatages": [
+        "00:02:05",
+        "00:08:02"
+      ]
+    },
+    {
+      "position": "Les organisations ont normalisé la mobilisation en demande de moyens publics",
+      "horodatages": [
+        "00:13:04",
+        "00:15:04"
+      ]
+    },
+    {
+      "position": "La redistribution exige une base productive",
+      "horodatages": [
+        "00:20:03",
+        "00:21:02"
+      ]
+    }
+  ],
+  "citations_exactes": [
+    {
+      "texte": "Pour distribuer la richesse, il faut commencer par la produire.",
+      "horodatage": "00:21:02"
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "structure de classe",
+      "horodatages": [
+        "00:08:02"
+      ]
+    },
+    {
+      "nom": "normalisation syndicale",
+      "horodatages": [
+        "00:13:04"
+      ]
+    },
+    {
+      "nom": "base productive",
+      "horodatages": [
+        "00:21:02"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "mort de Nahel Merzouk en 2023",
+      "niveau": "mention",
+      "horodatages": [
+        "00:09:04"
+      ]
+    },
+    {
+      "nom": "Gilets jaunes",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:24:00"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "plus de moyens pour l'école publique",
+      "horodatages": [
+        "00:15:04"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "banlieue parisienne",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:08:02"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "lycéens",
+    "syndicats",
+    "France insoumise",
+    "services publics",
+    "classe sociale",
+    "production",
+    "énergie"
+  ],
+  "organismes": [
+    {
+      "nom": "France insoumise",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:13:04"
+      ]
+    },
+    {
+      "nom": "intersyndicale",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:14:05"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Nahel Merzouk",
+      "niveau": "mention",
+      "horodatages": [
+        "00:09:04"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "appareils politiques et syndicaux",
+      "relation": "réorientent",
+      "cible": "mouvement lycéen",
+      "horodatages": [
+        "00:13:04"
+      ]
+    },
+    {
+      "source": "recul productif",
+      "relation": "réduit",
+      "cible": "financement des services publics",
+      "horodatages": [
+        "00:21:02"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:06:00",
+      "titre": "Ampleur et revendications scolaires"
+    },
+    {
+      "debut": "00:06:00",
+      "fin": "00:13:00",
+      "titre": "Bases sociales et radicalité"
+    },
+    {
+      "debut": "00:13:00",
+      "fin": "00:18:00",
+      "titre": "Encadrement politique et syndical"
+    },
+    {
+      "debut": "00:18:00",
+      "fin": "00:24:00",
+      "titre": "Services publics et production"
+    },
+    {
+      "debut": "00:24:00",
+      "fin": "00:30:48",
+      "titre": "Maintien de l'ordre et autonomie politique"
+    }
+  ],
+  "resume_general": "Analyse de classe d'un mouvement lycéen réorienté par les organisations vers une mobilisation classique pour les services publics.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "conditions matérielles des lycées",
+      "horodatages": [
+        "00:04:00",
+        "00:11:01"
+      ]
+    },
+    {
+      "sujet": "politique énergétique",
+      "horodatages": [
+        "00:22:00"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "mouvement lycéen",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "theme": "production et services publics",
+      "horodatages": [
+        "00:20:03"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "mouvement lycéen",
+      "variantes": [
+        "mobilisation",
+        "contestations"
+      ]
+    },
+    {
+      "canonique": "services publics",
+      "variantes": [
+        "école publique",
+        "fonction publique"
+      ]
+    }
+  ],
+  "video_id": "c91j5CinRDo"
+}

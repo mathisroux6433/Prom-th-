@@ -1,0 +1,454 @@
+Crée un index documentaire fidèle en JSON strict. Ne juge pas la véracité. Distingue pour personnes, organismes et événements le niveau 'mention' ou 'developpe'. N'invente rien. Les citations_exactes doivent être verbatim ; les expressions_representatives ne sont pas des citations. Chaque élément thématique utile porte si possible des horodatages. Retourne uniquement un objet suivant cette structure :
+{
+  "arguments_positions": [],
+  "citations_exactes": [],
+  "concepts": [],
+  "evenements_lois_reglementations": [],
+  "expressions_representatives": [],
+  "lieux_periodes": [],
+  "mots_cles": [],
+  "organismes": [],
+  "personnes": [],
+  "relations_documentaires": [],
+  "reperes_temporels": [],
+  "resume_general": "",
+  "schema_version": "1.1",
+  "sujets_secondaires": [],
+  "themes_principaux": [],
+  "variantes_lexicales": [],
+  "video_id": "c91j5CinRDo"
+}
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "c91j5CinRDo",
+  "title": "« MOUVEMENT LYCÉEN » : POURQUOI LA RÉVOLUTION N'AURA PAS LIEU",
+  "channel": "Le Fil d'Actu - Officiel",
+  "channel_id": "UC9hHeywcPBnLglqnQRaNShQ",
+  "upload_date": "20261015",
+  "duration_seconds": 1848,
+  "webpage_url": "https://www.youtube.com/watch?v=c91j5CinRDo",
+  "description": "SOUTENIR NOTRE TRAVAIL :\n▶️  https://fr.tipeee.com/lefildactu/\n\nCOMMANDER LE LIVRE DE TATIANA :\n▶️  https://lefildactueditions.com\n\nS'INSCRIRE À LA NEWSLETTER DE SECOURS\n▶️ https://lefildactu.substack.com/welcome \n\n*****\n\nCes derniers jours, la France a été en proie à un « mouvement lycéen » de forme et de nature très particulières. Parti de la banlieue parisienne avec tous les traits de l'émeute urbaine, ce mouvement s'est vite transformé, sous l'action de politiciens en campagne, en banale mobilisation intersyndicale réclamant « plus de moyens pour l'école publique ». Ceci au grand dam de tous ceux qui y voyaient le point de départ potentiel d'une grande insurrection populaire. Mais pouvait-il en être autrement ? Ou ce mouvement était-il condamné à l'échec dès le départ, de par sa structure de classe ? C'est ce que nous allons tenter de comprendre ensemble avec cette nouvelle vidéo du Fil d'Actu.\n\n*****\nL'équipe du Fil d'Actu :\nPrésentation : Tatiana Ventôse\nÉcriture : Tommy Lasserre\nRéalisation : Yohann Delozier\n\n#17octobre #lycéens #giletsjaunes",
+  "language": "fr-FR"
+}
+
+TRANSCRIPTION :
+[00:00:00.000 --> 00:00:04.440] Bonjour et bienvenue dans le Fille d'Actu, l'émission qui donne du sens à l'information.
+[00:00:07.630 --> 00:00:10.470] Un objet politique difficilement identifiable,
+[00:00:10.470 --> 00:00:15.790] mais par bien des aspects révélateurs des mots profonds qui ravagent notre pays
+[00:00:15.790 --> 00:00:19.310] et de l'abîme qui menace à brève échéance de l'engloutir.
+[00:00:19.310 --> 00:00:23.910] Ces derniers jours, et encore de manière résiduelle à l'heure où nous tournons cette vidéo,
+[00:00:23.910 --> 00:00:30.070] la France a été le théâtre d'un mouvement contestataire aux contours et au déroulé très particuliers.
+[00:00:30.070 --> 00:00:35.870] Un mouvement dit lycéen, mais évoquant davantage dans sa première phase l'émeute urbaine
+[00:00:35.870 --> 00:00:43.430] que la mobilisation lycéenne traditionnelle, tant par sa sociologie que par son déroulé ou son contenu revendicatif.
+[00:00:43.430 --> 00:00:47.230] Ceci, avant de prendre sous l'impulsion d'organisations politiques,
+[00:00:47.230 --> 00:00:53.230] voyant là une formidable occasion d'imposer leur propre doléance et vision de la société dans le débat public,
+[00:00:53.230 --> 00:00:57.670] une toute autre tournure, de changer de nature profonde
+[00:00:57.670 --> 00:01:01.150] pour au final se rapprocher des inoffensives mobilisations
+[00:01:01.150 --> 00:01:04.870] auxquelles les syndicats de la fonction publique nous ont habitué ces dernières années,
+[00:01:04.870 --> 00:01:10.590] ironiquement sous les commentaires enthousiastes de militants persuadés de vivre un moment historique.
+[00:01:10.590 --> 00:01:16.590] Alors ce grand mouvement lycéen que certains sont allés jusqu'à oser comparer à mai 68,
+[00:01:16.590 --> 00:01:20.270] serait-il un simple feu de paille voué à tomber dans l'oubli,
+[00:01:20.270 --> 00:01:23.750] à l'image du mouvement Bloquons-Tout dont les mèmes il y a tout juste un an
+[00:01:23.750 --> 00:01:28.270] nous promettaient qu'il serait le point de départ d'un grand moment de contestation populaire
+[00:01:28.270 --> 00:01:31.310] et dont absolument personne aujourd'hui ne se souvient.
+[00:01:31.310 --> 00:01:35.030] Si cela semble évident à nos yeux et nous allons voir pourquoi ensemble,
+[00:01:35.030 --> 00:01:39.150] reste que ce mouvement, y compris par ses aspects les moins tolérables,
+[00:01:39.150 --> 00:01:46.030] aurait eu le mérite de mettre en lumière, pour peu que l'on accepte de l'analyser sans tabou et sans lunettes idéologiques,
+[00:01:46.030 --> 00:01:49.790] un ensemble de difficultés bien réelles et extrêmement profondes
+[00:01:49.830 --> 00:01:55.430] auxquelles la France est d'ores et déjà confrontée et qui demain prendront une ampleur bien plus considérable
+[00:01:55.430 --> 00:01:59.990] si l'ensemble de la classe politique continue comme c'est le cas aujourd'hui de les rejeter sous le tapis.
+[00:01:59.990 --> 00:02:05.750] Alors quelles sont la signification et les implications réelles du mouvement lycéen ?
+[00:02:05.750 --> 00:02:09.030] Termes nous le verrons très imparfaits mais que nous emploierons faute de mieux,
+[00:02:09.030 --> 00:02:11.230] qu'a connu la France ces derniers jours.
+[00:02:11.230 --> 00:02:14.990] C'est ce que nous vous proposons de voir ensemble dans cette nouvelle vidéo du Field Actus.
+[00:02:14.990 --> 00:02:18.190] Avant cela nous prenons quelques secondes pour vous rappeler que le Field Actus
+[00:02:18.190 --> 00:02:23.510] c'est un média 100% et réellement indépendant qui vit uniquement du soutien de son public.
+[00:02:23.510 --> 00:02:27.030] Aussi si à la fin de cette vidéo vous jugez notre travail d'analyse pertinent,
+[00:02:27.030 --> 00:02:32.230] nous vous inviterons à le financer à hauteur de quelques euros par mois via notre page de financement participatif Tipeee
+[00:02:32.230 --> 00:02:35.550] dont le lien se trouve dès à présent en barre d'info sous la vidéo.
+[00:02:35.550 --> 00:02:40.270] Pour plus d'informations on vous donne rendez-vous en fin d'émission mais tout de suite place à la réflexion.
+[00:02:40.270 --> 00:02:47.390] Notre pays voit se déployer le plus puissant mouvement de jeunesse lycéenne et étudiante
+[00:02:47.390 --> 00:02:50.510] qu'il est connu depuis mai 1968.
+[00:02:50.510 --> 00:02:55.190] En tout il devrait y avoir aujourd'hui un peu moins de 200 lycées fermées,
+[00:02:55.190 --> 00:02:59.150] c'est à dire près 4% d'establishments qui sont encore durement impactés par le mouvement.
+[00:02:59.150 --> 00:03:01.870] Donc ça veut dire que 96% des lycées aujourd'hui en France sont ouverts
+[00:03:01.870 --> 00:03:06.230] et que dans les trois quarts des départements il n'y a aucune perturbation recensée.
+[00:03:06.230 --> 00:03:11.750] Soyez prudents, c'est une chose incroyable que vous êtes en train de faire mais vous n'en rendez pas compte.
+[00:03:12.270 --> 00:03:17.790] C'est le plus puissant mouvement de jeunesse qu'on ait vu depuis 50 ans.
+[00:03:17.790 --> 00:03:22.430] Les lycéens sont peut-être en train de faire l'histoire, alors la moindre des choses c'est qu'on soit avec eux.
+[00:03:22.430 --> 00:03:26.230] Il y a tellement de caractéristiques nouvelles que la première question à se poser
+[00:03:26.230 --> 00:03:29.310] c'est pas de recommencer le vieux sketch comme il y a de poubelles qui brûlent,
+[00:03:29.310 --> 00:03:33.550] des chiffres invraisemblables de policiers et de gendarmes blessés, enfin ça tient pas debout,
+[00:03:33.550 --> 00:03:36.190] ils ont dû se blesser avec un trombone, c'est pas possible.
+[00:03:42.700 --> 00:03:46.020] Le ministre de la Justice qui envisage de faire payer les parents des casseurs,
+[00:03:46.060 --> 00:03:48.700] j'ai été scandalisée, c'est toujours la même chose,
+[00:03:48.700 --> 00:03:53.140] il faut arrêter de culpabiliser les familles, en plus ça tomberait sur les familles les plus précaires,
+[00:03:53.140 --> 00:03:56.740] ce qu'il faut c'est répondre aux revendications des lycéens et des lycéennes.
+[00:03:56.740 --> 00:04:00.340] Qui paye Mme Binet ? Vous, moi, nos impôts, les impôts des français ?
+[00:04:00.340 --> 00:04:04.940] Là en fait la question des dégradations elle est mineure par rapport aux moyens à débloquer
+[00:04:04.940 --> 00:04:08.540] pour isoler nos établissements scolaires, pour mettre à niveau le bâti scolaire.
+[00:04:08.540 --> 00:04:11.380] Donc qui paye on sait pas, vous ne me répondez pas.
+[00:04:11.380 --> 00:04:15.820] De fait ça va être vous et nous, puisque ce sont les impôts des français.
+[00:04:15.820 --> 00:04:20.380] Bien sûr, bien sûr, mais ce qu'il faut d'abord c'est débloquer les moyens
+[00:04:20.380 --> 00:04:23.420] pour rénover nos établissements scolaires qui ne sont pas au niveau.
+[00:04:23.740 --> 00:04:28.220] Prenons l'exemple de Maël, lycéen de 16 ans dans l'établissement Joliot-Curie d'Irson dans l'Aisne.
+[00:04:28.220 --> 00:04:33.140] Lui aussi a des revendications, mais il nous l'affirme, ici rien n'a été brûlé ni cassé.
+[00:04:33.140 --> 00:04:38.140] Il reste que quelques déchets là, mais il n'y a aucune casse, aucun débordement avec les forces de l'ordre, rien.
+[00:04:38.140 --> 00:04:40.180] Ça change des images qu'on a pu voir à Saint-Denis ou ailleurs.
+[00:04:40.540 --> 00:04:44.860] Il y a quand même beaucoup d'enfants agriculteurs et tout, donc je pense qu'ils ont quand même plus de principes que dans les grandes villes.
+[00:04:44.860 --> 00:04:47.260] Et alors c'est quoi les revendications d'un lycéen ici ?
+[00:04:47.260 --> 00:04:52.900] Les principales revendications c'était les transports, qu'on n'est pas bien desservis au niveau, on est quand même dans un milieu rural.
+[00:04:52.900 --> 00:04:59.060] Et les transports ils se font rares, les élèves ils doivent mettre une heure, une heure et demie pour venir ici.
+[00:04:59.060 --> 00:05:01.820] Et c'est pareil du coup pour repartir, donc ça leur fait des grosses journées.
+[00:05:01.820 --> 00:05:06.100] Et c'est un lycée qui est bien équipé ou vous avez quand même aussi des besoins ici comme dans d'autres lycées ?
+[00:05:06.100 --> 00:05:11.980] Le manque de personnel, par exemple l'année dernière notre prof d'espagnol était absent pendant 4 mois, il n'y a jamais eu de remplaçant.
+[00:05:13.780 --> 00:05:22.460] Plus qu'une mobilisation lycéenne, les agissements croisés de catégories sociales n'ayant rien en commun sinon de sombres perspectives d'avenir,
+[00:05:22.460 --> 00:05:29.580] que malheureusement aucune promesse de politiciens en campagne surfant sur leur désarroi ne sera en mesure d'éclaircir.
+[00:05:29.620 --> 00:05:36.900] Si l'on veut véritablement comprendre le mouvement lycéen de ce début d'automne, et partant de là ce qu'il dit de la France,
+[00:05:36.900 --> 00:05:45.540] le mieux est peut-être de partir de ce qui le distingue dans les faits de l'intégralité des mouvements lycéens que notre pays a connu ces 40 dernières années.
+[00:05:45.540 --> 00:05:55.500] Et qui, absolument tous, de la mobilisation contre la loi de vaquet en 1986 à celle dirigée sous l'ère Macron contre la plateforme d'orientation Parcoursup,
+[00:05:55.500 --> 00:05:58.260] se sont tous déroulés selon un même schéma.
+[00:05:58.260 --> 00:06:06.140] D'abord, une réforme ou un projet de réforme gouvernementale vient susciter chez les lycéens une inquiétude partagée quant à leur avenir.
+[00:06:06.140 --> 00:06:13.300] Cette inquiétude est alors légitimée, publicisée et entretenue par un ensemble de syndicats et d'organisations de jeunesse,
+[00:06:13.300 --> 00:06:23.060] souvent organiquement liés à des partis politiques d'opposition, qui se chargent de les transformer en revendications et d'organiser les premières étapes d'une mobilisation à venir.
+[00:06:23.060 --> 00:06:28.140] Si la démarche fait écho à des préoccupations réelles, alors la contestation s'enclenche.
+[00:06:28.180 --> 00:06:34.460] Première manifestation partant de lycées de centre-ville, de grandes villes, où les militants se concentrent souvent.
+[00:06:34.460 --> 00:06:41.980] Premier blocage, première couverture médiatique et mouvement qui bientôt fait tâche d'huile sur le territoire et s'étend aux villes de taille moyenne.
+[00:06:41.980 --> 00:06:48.420] À ce stade, d'habitude, la mobilisation est déjà bien installée, le bras de fer avec le gouvernement aussi.
+[00:06:48.420 --> 00:06:52.740] Le mouvement continue de grossir et les manifestations prennent de l'ampleur.
+[00:06:52.780 --> 00:07:01.540] C'est souvent le moment choisi par le gouvernement pour jouer la montre, temporiser, entablant sur un essoufflement et alimenter les divisions internes au mouvement,
+[00:07:01.540 --> 00:07:08.100] entre des organisations désireuses de garder la main et une base tentée par des formes de contestation plus radicales.
+[00:07:08.100 --> 00:07:14.020] Généralement, c'est aussi le moment où les casseurs font leur apparition dans les manifestations.
+[00:07:14.020 --> 00:07:22.660] À ce stade, deux issues possibles, soit le mouvement reste solide, continue de prendre de l'ampleur et a pour lui le soutien massif de l'opinion,
+[00:07:22.660 --> 00:07:26.300] dans ce cas, le gouvernement peut être amené à faire des concessions aux lycéens,
+[00:07:26.300 --> 00:07:32.740] soit le mouvement s'essouffle, se déchire, périclite et les lycéens finissent tous par reprendre le chemin de l'école.
+[00:07:32.740 --> 00:07:35.660] Ça, c'est le mouvement lycéen type.
+[00:07:35.660 --> 00:07:42.180] Mais dans celui qui nous intéresse aujourd'hui, comme nous allons le voir, absolument rien ne s'est passé de cette façon.
+[00:07:42.180 --> 00:07:49.260] Dès le départ, le mouvement a débuté de manière, pour ainsi dire, spontanée, sans qu'aucun projet de loi ne le provoque.
+[00:07:49.300 --> 00:07:53.420] Et dans un cadre plutôt inhabituel, la banlieue parisienne.
+[00:07:53.420 --> 00:07:59.140] Un premier lycée dans le Val-de-Marne, où quelques lycéens se sont mobilisés sur des revendications locales,
+[00:07:59.140 --> 00:08:02.700] puis surtout, très vite, plusieurs établissements de Seine-Saint-Denis,
+[00:08:02.700 --> 00:08:08.700] accueillant des élèves massivement issus de ce que les médias ont l'habitude d'appeler, selon l'idée qu'ils souhaitent véhiculer,
+[00:08:08.700 --> 00:08:11.660] quartier sensible ou populaire.
+[00:08:11.660 --> 00:08:17.300] De quoi doter ce mouvement d'une sociologie initiale extrêmement particulière.
+[00:08:17.300 --> 00:08:23.580] Pour faire simple, des jeunes, souvent issus de l'immigration, n'ayant pas forcément le français comme langue maternelle,
+[00:08:23.580 --> 00:08:30.620] dotés de codes culturels particuliers, côtoyant parfois très tôt la délinquance et évoluant dans des milieux où,
+[00:08:30.620 --> 00:08:37.140] quand ils ne vivent pas d'aide sociale, les adultes exercent massivement des emplois précaires dans le secteur tertiaire,
+[00:08:37.140 --> 00:08:40.900] dans l'aide à la personne, le nettoyage ou le transport individuel.
+[00:08:40.900 --> 00:08:48.980] Soit, globalement, les tâches non délocalisables, qui étaient encore associées au métier de domestique dans la première moitié du XXe siècle,
+[00:08:48.980 --> 00:08:56.060] avant d'être touchées par les processus de fragmentation et de spécialisation auparavant mis en œuvre dans le secteur de l'industrie.
+[00:08:56.060 --> 00:09:04.380] Des profils en résumé sociologiquement beaucoup plus proches, en réalité, de ceux impliqués ces dernières années dans les émeutes urbaines,
+[00:09:04.380 --> 00:09:10.820] ayant par exemple suivi la mort du jeune Naël Merzouk en 2023 que de la petite bourgeoisie intellectuelle de Centreville,
+[00:09:10.820 --> 00:09:19.740] formant généralement le fer de lance des mouvements lycéens, sociologies différentes, dont nécessairement ont découlé des pratiques différentes.
+[00:09:19.740 --> 00:09:26.660] Dès le départ, le mouvement lycéen de l'automne 2026 s'est distingué par une violence extrême,
+[00:09:26.660 --> 00:09:38.060] exercée par ses participants tant à l'encontre des biens et des bâtiments que des personnes, rappelant là encore les émeutes urbaines de 2023 ou de 2005.
+[00:09:38.060 --> 00:09:44.380] Lycées en feu, sous les crises enthousiastes de la foule, bureaux de vie scolaire saccagés, voitures retournées,
+[00:09:44.380 --> 00:09:52.660] tirs de mortiers d'artifice prenant pour cible des établissements scolaires, des policiers, voire des élèves, camions de pompiers ou bus incendiés,
+[00:09:52.660 --> 00:10:01.740] magasins pillés, professeurs aspergés d'essence, policières rouées de coups, femmes s'opposant à la destruction d'un abribus ciblé au visage par un jet de flamme volontaire.
+[00:10:01.740 --> 00:10:06.140] Durant plusieurs jours, ces images ont fait le tour des réseaux sociaux.
+[00:10:06.140 --> 00:10:14.020] Faites notables, la plupart ont été filmées, diffusées et relayées non pas par quelques journalistes hostiles au mouvement
+[00:10:14.020 --> 00:10:18.660] et ayant à cœur de monter des faits divers en épingle dans une optique de délégitimation,
+[00:10:18.660 --> 00:10:24.300] mais par les participants eux-mêmes à ces événements, lycéens ou non d'ailleurs,
+[00:10:24.300 --> 00:10:33.340] comme si au final l'image du mouvement leur importait peu, voir que la mise en scène de la violence allait favoriser sa propagation.
+[00:10:33.340 --> 00:10:39.900] Une communication directe, qui d'ailleurs a permis à ces jeunes impliqués de faire entendre de manière directe,
+[00:10:39.900 --> 00:10:45.020] sans le filtre habituel des représentants syndicaux, leur revendication.
+[00:10:45.020 --> 00:10:54.780] Des revendications souvent peu claires, contradictoires et parfois davantage tournées contre l'institution que visant à améliorer son fonctionnement.
+[00:10:54.780 --> 00:11:01.740] Trop d'heures de cours, ne laissant pas assez de place pour les loisirs, des cours commençant trop tôt et ou finissant trop tard,
+[00:11:01.780 --> 00:11:05.980] pas assez de temps pour manger à la cantine, où d'ailleurs la nourriture est très mauvaise,
+[00:11:05.980 --> 00:11:10.260] des professeurs trop sévères, comptabilisant les retards comme les absences,
+[00:11:10.260 --> 00:11:15.020] l'interdiction des téléphones en classe ou du port de certaines tenues dans l'insinthe du lycée,
+[00:11:15.020 --> 00:11:20.260] autant de motifs d'insatisfaction plus souvent brandis dans cette phase du mouvement
+[00:11:20.260 --> 00:11:24.380] que les habituels demandes de hausse de moyens et d'embauche d'enseignants.
+[00:11:24.380 --> 00:11:27.980] J'ai envie de faire passer un message au gouvernement, s'il vous plaît, faites quelque chose pour les 8h-18h,
+[00:11:28.020 --> 00:11:33.780] On en a marre, on a des horaires de personnes qui travaillent au quotidien mais on n'est pas payé, on n'a rien du tout.
+[00:11:33.780 --> 00:11:37.980] Ça nous gêne parce qu'on n'a pas beaucoup de temps pour passer avec notre famille, avec nos amis, les gens qu'on aime.
+[00:11:37.980 --> 00:11:42.220] Et c'est pour ça qu'on ne doit pas passer toute la journée au lycée.
+[00:11:42.740 --> 00:11:45.260] Le problème de l'école, c'est que c'est un cycle sans fin.
+[00:11:45.260 --> 00:11:52.220] Dans une classe, on est à 35, il fait 35 degrés et des fois on ne peut pas dormir en classe parce que les professeurs ne sont pas d'accord avec ça.
+[00:11:52.460 --> 00:11:58.780] Je passe plus de temps à l'école que chez moi donc je comprends que l'école c'est important, que je dois apprendre
+[00:11:58.780 --> 00:12:03.900] mais ce n'est pas en nous gonfrant, en nous gonfrant comme des oies qu'on va pu s'apprendre.
+[00:12:03.900 --> 00:12:08.940] Parce qu'il nous on en a marre, on est tous coudés ensemble.
+[00:12:10.700 --> 00:12:18.300] Autant de conditions ayant nourri à l'encontre de ce mouvement un rejet légitime parmi de larges pans de la population
+[00:12:18.300 --> 00:12:21.900] et qui aurait pu l'amener à s'arrêter aussi rapidement qu'il était apparu.
+[00:12:21.900 --> 00:12:27.900] Mais cela c'était avant, avant que le mouvement ne rentre dans une seconde phase
+[00:12:27.900 --> 00:12:34.060] sous l'action notable de la France Insoumise et dans une moindre mesure des syndicats de l'enseignement.
+[00:12:34.060 --> 00:12:43.420] La France Insoumise dont les élus et cadres dirigeants ont rapidement mené envers le mouvement lycéen engagé une double entreprise politique.
+[00:12:43.420 --> 00:12:50.220] Entreprise d'abord de publicisation en se rendant accompagné de caméras et de journalistes devant les lycées bloqués.
+[00:12:50.300 --> 00:12:59.500] Le but, faire parler, minimiser les aspects négatifs du mouvement pour rejeter la responsabilité de toutes les violences sur le gouvernement
+[00:12:59.500 --> 00:13:04.060] et inciter les lycéens du pays entier à se joindre à la mobilisation.
+[00:13:04.060 --> 00:13:11.740] Mais pas sur n'importe quelle base, car en parallèle, la France Insoumise menait une seconde opération
+[00:13:11.740 --> 00:13:18.780] visant à transformer de fond en comble le mouvement, sa sociologie, ses modes opératoires et ses revendications.
+[00:13:18.860 --> 00:13:24.460] Ceci en commençant, plutôt que de simplement tendre un micro aux lycéens sur le terrain,
+[00:13:24.460 --> 00:13:30.060] par affirmer partout que leurs demandes concernaient le budget de l'éducation nationale,
+[00:13:30.060 --> 00:13:34.140] l'investissement dans la rénovation des locaux ou l'embauche de professeurs.
+[00:13:34.140 --> 00:13:41.420] Ensuite, en appelant les lycéens et étudiants d'établissements plus huppés, plus éloquents et plus structurés politiquement,
+[00:13:41.420 --> 00:13:45.740] voire carrément militants à la France Insoumise, à se joindre au mouvement.
+[00:13:45.740 --> 00:13:50.540] Au nom, bien sûr, de la solidarité avec les lycéens de banlieues moins favorisées,
+[00:13:50.540 --> 00:13:54.300] mais en réalité, pour se substituer à eux.
+[00:13:54.300 --> 00:13:59.340] Il ne restait plus dès lors à Jean-Luc Mélenchon qu'à en appeler aux organisations de fonctionnaires
+[00:13:59.340 --> 00:14:05.100] pour encadrer de grandes manifestations, désormais relocalisées dans le centre des grandes villes
+[00:14:05.100 --> 00:14:10.620] et appelées dans un cadre inter-syndical, afin d'exclure définitivement de la mobilisation,
+[00:14:10.620 --> 00:14:12.860] ce qui en avait été à l'initiative.
+[00:14:12.940 --> 00:14:15.100] C'est ici qu'a eu lieu le premier blocus.
+[00:14:15.100 --> 00:14:18.780] C'est pourtant l'un des rares lycées où les courses sont déroulées sereinement cette semaine.
+[00:14:18.780 --> 00:14:23.580] On a obtenu le poste du proviseur adjoint, on a obtenu l'EDT, le chef de travaux,
+[00:14:23.580 --> 00:14:25.900] donc désormais nos élèves peuvent partir en stage.
+[00:14:25.900 --> 00:14:31.260] On est légitimes de revendiquer nos droits parce que l'égalité est une des valeurs de la République.
+[00:14:31.260 --> 00:14:36.060] C'est nous l'avenir, c'est nous les futurs ingénieurs, les futurs diplômats de demain.
+[00:14:36.060 --> 00:14:39.580] Ça a à nous de se mobiliser, de se faire entendre pour nos droits, tout simplement.
+[00:14:39.580 --> 00:14:45.100] Fier d'avoir obtenu gain de cause, ces jeunes suivent maintenant avec inquiétude l'évolution du mouvement lycéen.
+[00:14:46.460 --> 00:14:55.100] Et c'est ainsi qu'en quelques jours, le mouvement lycéen a changé tant de nature que de composition sociale.
+[00:14:55.100 --> 00:14:59.740] Évoluant désormais au rythme des traditionnelles journées de mobilisation,
+[00:14:59.740 --> 00:15:04.860] les demandes qu'il porte sont désormais peu ou prou celles des syndicats enseignants habituels,
+[00:15:04.860 --> 00:15:13.260] tout résumable en une seule, plus d'argent public pour l'école publique et plus d'argent globalement pour les services publics.
+[00:15:13.260 --> 00:15:18.780] Quant à son centre névralgique, il s'est déplacé directement du fin fond de la Seine-Saint-Denis
+[00:15:18.780 --> 00:15:21.820] jusqu'au plus beau quartier de la capitale.
+[00:15:21.820 --> 00:15:26.780] Exit le lycée Paul-Éluard, on parle désormais du blocage de Sciences Po,
+[00:15:26.780 --> 00:15:29.740] des universités Paris-Dauphine et Panthéon-Assas,
+[00:15:29.740 --> 00:15:34.780] voire de la très sélecte école alsacienne dont est tout droit sortie Gabrielle Attal.
+[00:15:34.860 --> 00:15:39.820] Plus de vidéos de jeunes sachant à peine s'exprimer en français circulant sur les réseaux sociaux.
+[00:15:39.820 --> 00:15:47.660] Mais à la place, des éloines ou des filémons jouglés Marcus élèvent dans le 9e arrondissement ou au lycée Henri IV,
+[00:15:47.660 --> 00:15:53.580] invités sur les plateaux de télévision et s'expriment comme des quarantenaire ayant fait de la politique toute leur vie.
+[00:15:53.580 --> 00:15:57.340] A partir du moment où vous êtes un individu qui vient de quartiers très compliqués,
+[00:15:57.340 --> 00:15:59.340] je pense que vous vous attendez à ce que je le dise.
+[00:15:59.340 --> 00:16:03.020] Je vois une mère ici, oui, et vous venez de Marseille, je l'entends,
+[00:16:03.020 --> 00:16:06.140] j'imagine de quartiers très peu, faciles, mais...
+[00:16:06.140 --> 00:16:07.580] Non, parce qu'il est noir !
+[00:16:07.580 --> 00:16:08.380] Non, non...
+[00:16:08.380 --> 00:16:10.940] J'habitais avant d'aller quartier norme, je le suis plus maintenant,
+[00:16:10.940 --> 00:16:12.940] mais oui, j'habitais avant d'aller quartier populaire.
+[00:16:12.940 --> 00:16:16.460] Très bien, merci. Je ne dis pas ça parce que vous êtes noir.
+[00:16:16.460 --> 00:16:18.700] Moins de trois minutes, tout votre raisonnement s'est effondré
+[00:16:18.700 --> 00:16:23.260] puisque vous vous adressez à la seule personne racisée du plateau en pensant qu'elle vient de quartiers défavorisés.
+[00:16:23.260 --> 00:16:25.820] Je ne sais pas si vous êtes vraiment le représentant des jeunes de banlieue
+[00:16:25.820 --> 00:16:28.540] quand on vous voit comme ça, mais très bien, merci de porter leur voix.
+[00:16:28.540 --> 00:16:31.260] Je pense qu'ils seraient ravis d'avoir les 125 millions d'euros
+[00:16:31.260 --> 00:16:34.220] à louer à votre super beau lycée pour des rénovations, pardon,
+[00:16:34.220 --> 00:16:36.620] les lycéens de Poil-et-Louard, je pense qu'ils en rêvent.
+[00:16:37.900 --> 00:16:40.300] Même les casseurs ne sont plus les mêmes,
+[00:16:40.300 --> 00:16:44.460] les black blocs habitués des manifestations ayant remplacé des émeutiers
+[00:16:44.460 --> 00:16:47.020] continuant épisodiquement de faire parler d'eux,
+[00:16:47.020 --> 00:16:50.380] mais bien cantonnés derrière les frontières de leur quartier.
+[00:16:50.380 --> 00:16:54.860] Autant de changements qui, certes, ont donné à ce mouvement lycéen une seconde vie,
+[00:16:54.860 --> 00:17:00.140] mais qui, ironiquement, l'ont également condamné à ne rien pouvoir devenir de plus
+[00:17:00.140 --> 00:17:03.900] qu'une énième mobilisation de la fonction publique,
+[00:17:03.900 --> 00:17:10.060] incluant la part de lycéens et d'étudiants dont les parents sont eux-mêmes cadres et agents de la fonction publique
+[00:17:10.060 --> 00:17:15.820] et initialement destinés eux aussi à le devenir une fois en âge d'entrée dans la vie active.
+[00:17:15.900 --> 00:17:23.180] Tout cela soutenu donc par une fraction des élites culturelles et des enfants de la classe supérieure parisienne,
+[00:17:23.180 --> 00:17:28.700] souffrant là, à peu de frais, une magnifique occasion de faire étalage de leur supériorité morale,
+[00:17:28.700 --> 00:17:34.860] en s'imaginant prendre fête et cause pour une jeunesse populaire dont la parole doit aussi compter.
+[00:17:38.860 --> 00:17:43.980] Soit, en résumé, une mobilisation comme notre pays en connaît régulièrement.
+[00:17:44.060 --> 00:17:48.140] En fait, à peu près à chaque rentrée scolaire, quoique avec plus ou moins de force selon le contexte,
+[00:17:48.140 --> 00:17:52.300] et vouée, comme les précédentes, à tomber rapidement dans l'oubli.
+[00:17:52.300 --> 00:17:58.380] Faute d'être en mesure, du fait de son essence profonde, d'agglomérer autour d'elle d'autres catégories sociales
+[00:17:58.380 --> 00:18:03.340] que celles à son initiative, et de réaliser cette fameuse convergence des luttes
+[00:18:03.340 --> 00:18:09.020] que ses porte-paroles ne cessent pourtant d'appeler de leurs voeux, sans jamais réussir à la faire advenir.
+[00:18:09.020 --> 00:18:13.340] Ce budget, il prévoit aussi des sacrifices violents pour les travailleurs et les travailleuses,
+[00:18:13.340 --> 00:18:17.420] par exemple, s'il était adopté, les travailleurs auraient un reste à charge de 300 euros
+[00:18:17.420 --> 00:18:19.980] pour pouvoir se former et utiliser le CPF.
+[00:18:19.980 --> 00:18:23.180] Mais justement, aujourd'hui, ce mouvement, à la base, il est quand même lycéen.
+[00:18:23.180 --> 00:18:25.500] On voit les organisations syndicales maintenant qui l'ont rejoint.
+[00:18:25.500 --> 00:18:30.140] Est-ce que finalement, on ne perd pas un peu les bases de ce mouvement, qui d'ailleurs, on le voit aujourd'hui,
+[00:18:30.140 --> 00:18:32.540] beaucoup de lycées sont ouverts, il y en a que très peu qui sont encore bloqués.
+[00:18:32.540 --> 00:18:35.020] Est-ce que finalement, on ne dilue pas aussi ce mouvement ?
+[00:18:35.020 --> 00:18:40.380] Non, les revendications des lycéens, lycéennes et étudiants étudiantes sont très claires.
+[00:18:40.460 --> 00:18:43.500] Il y a eu une manifestation pacifique et revendicative.
+[00:18:43.500 --> 00:18:46.620] Et en fait, ça fait deux semaines qu'on parle des lycéens sans parler des lycéens.
+[00:18:46.620 --> 00:18:48.700] Ça fait deux semaines qu'on ne parle pas de leurs conditions d'études,
+[00:18:48.700 --> 00:18:50.940] des bâtiments dans lesquels il fait froid l'hiver, trop chaud l'été,
+[00:18:50.940 --> 00:18:53.020] des professeurs qui sont absents pendant plusieurs mois.
+[00:18:53.020 --> 00:18:55.900] Ce malaise, il ne sera pas traité à coups de matraque.
+[00:18:55.900 --> 00:19:00.860] Il sera traité à coups d'écoute, de considération vis-à-vis de ces jeunes.
+[00:19:00.860 --> 00:19:04.860] Et donc, moi, ce à quoi j'appelle le gouvernement, c'est d'arrêter de jeter de l'huile sur le feu
+[00:19:04.860 --> 00:19:06.860] et d'enfin écouter les lycéennes et les lycéens.
+[00:19:07.900 --> 00:19:09.740] Une fin déjà écrite.
+[00:19:09.740 --> 00:19:13.420] Ne devant rien au hasard, ni à la seule propagande des méchants médias.
+[00:19:13.420 --> 00:19:17.820] Mais découlant du fait que, structurellement, fondamentalement,
+[00:19:17.820 --> 00:19:22.300] aucune majorité sociale ne pourra jamais, dans la France d'aujourd'hui,
+[00:19:22.300 --> 00:19:26.700] se ranger derrière les cadres et agents de la fonction publique,
+[00:19:26.700 --> 00:19:31.340] que ce soit pour simplement appuyer leurs revendications particulières
+[00:19:31.340 --> 00:19:36.940] ou, moins encore, dans l'optique d'une transformation révolutionnaire de la société.
+[00:19:36.940 --> 00:19:39.740] N'en déplaise aux dirigeants de la France insoumise,
+[00:19:39.740 --> 00:19:44.140] n'en déplaise aux syndicats d'enseignants et aux enfants de la bourgeoisie parisienne
+[00:19:44.140 --> 00:19:50.460] et n'en déplaise également à tous ceux qui, en ayant légitimement ras-le-bol de 10 années de macronisme,
+[00:19:50.460 --> 00:19:56.620] voient dans n'importe quelle manifestation l'accomplissement de leur fantasme d'insurrection populaire.
+[00:19:56.620 --> 00:19:59.180] Cela n'arrivera pas, tout simplement,
+[00:19:59.180 --> 00:20:03.180] parce que si à peu près tout le monde en France comprend parfaitement
+[00:20:03.180 --> 00:20:06.700] pourquoi avoir des services publics fonctionnels est une bonne chose,
+[00:20:06.700 --> 00:20:10.860] reste que la revendication principale de leurs cadres et agents,
+[00:20:10.860 --> 00:20:16.780] aujourd'hui, implique la redistribution toujours plus importante de richesse que la France,
+[00:20:16.780 --> 00:20:21.180] vidée de ses usines, de ses fermes et de ses unités de recherche et développement,
+[00:20:21.180 --> 00:20:23.180] produit de moins en moins.
+[00:20:23.180 --> 00:20:28.060] Et donc de prendre toujours plus dans la poche des catégories sociales
+[00:20:28.060 --> 00:20:31.340] encore directement engagées dans les secteurs de production.
+[00:20:31.340 --> 00:20:36.860] Ouvriers, agriculteurs, ingénieurs ou artisans ponctionnés de toutes parts,
+[00:20:36.860 --> 00:20:39.980] peinent déjà aujourd'hui à joindre les deux bouts
+[00:20:39.980 --> 00:20:42.460] et que l'on voit mal descendre demain dans la rue
+[00:20:42.460 --> 00:20:46.620] pour exiger de payer encore plus de taxes et d'impôts
+[00:20:46.620 --> 00:20:50.220] afin que le lycée de Jean-Eude bénéficie de plus de moyens.
+[00:20:50.220 --> 00:20:52.780] Un problème esquivé par les politiques,
+[00:20:52.780 --> 00:20:56.540] pointant la manne financière illimitée que constituerait la valeur estimée
+[00:20:56.540 --> 00:20:59.260] des usines détenues par une poignée d'ultra-riches,
+[00:20:59.260 --> 00:21:02.460] mais qui reste aujourd'hui au fondement du mal français.
+[00:21:02.460 --> 00:21:05.660] Pour distribuer la richesse, il faut commencer par la produire.
+[00:21:05.660 --> 00:21:08.860] Or, cet enjeu majeur, ceux qui manifestent aujourd'hui
+[00:21:08.860 --> 00:21:11.420] parce qu'ils sont étrangers au rapport de production
+[00:21:11.420 --> 00:21:16.300] et ne vivent que d'une redistribution d'argent dont ils ignorent l'origine,
+[00:21:16.300 --> 00:21:18.380] n'en ont absolument pas conscience.
+[00:21:18.380 --> 00:21:22.220] Par conséquent, alors que produire davantage de richesse
+[00:21:22.220 --> 00:21:25.660] serait aujourd'hui la seule voie pour financer leurs revendications
+[00:21:25.660 --> 00:21:27.660] pour certaines tout à fait légitimes,
+[00:21:27.660 --> 00:21:31.820] la question de comment y parvenir, au mieux, ne les intéresse pas
+[00:21:31.820 --> 00:21:34.780] et au pire, constitue pour eux une hérésie.
+[00:21:34.780 --> 00:21:38.780] Comme c'est le cas, par exemple, pour le député insoumis Émeric Caron,
+[00:21:38.780 --> 00:21:42.460] que l'on voit ici arranguer des lycéens avec un mégaphone
+[00:21:42.460 --> 00:21:44.780] pour exiger plus de moyens,
+[00:21:44.780 --> 00:21:47.580] mais qui, dans toutes ses interventions publiques,
+[00:21:47.580 --> 00:21:52.540] insistent sur la nécessité de renoncer à produire de la richesse.
+[00:21:52.540 --> 00:21:55.340] Donc ça veut bien dire que le gouvernement confirme
+[00:21:55.340 --> 00:21:57.740] sa logique d'hypernucléarisation de ce pays,
+[00:21:57.740 --> 00:22:00.060] logique qui nous paraît scandaleuse, irresponsable,
+[00:22:00.060 --> 00:22:03.660] tant une telle logique de politique énergétique
+[00:22:03.660 --> 00:22:05.820] va à rebours de l'histoire et de la raison.
+[00:22:05.820 --> 00:22:09.100] Et la hausse de la production du charbon a été constatée en Allemagne
+[00:22:09.100 --> 00:22:11.340] simplement entre 2009 et 2013
+[00:22:11.340 --> 00:22:12.860] pour des raisons qui n'ont rien à voir avec la sortie.
+[00:22:14.300 --> 00:22:17.580] Un paradoxe apparent qui découle en réalité
+[00:22:17.580 --> 00:22:20.540] de façon extrêmement logique et implacable
+[00:22:20.540 --> 00:22:25.100] de la fonction sociale occupée par cette catégorie particulière de population
+[00:22:25.100 --> 00:22:28.620] et qui aujourd'hui constitue son principal enfer.
+[00:22:28.620 --> 00:22:30.300] Plus la production s'effondre,
+[00:22:30.300 --> 00:22:34.140] moins l'État est en mesure de lui redistribuer de l'argent.
+[00:22:34.140 --> 00:22:36.220] Moins l'État lui redistribue d'argent,
+[00:22:36.220 --> 00:22:40.300] plus elle revendique et prend toute la place dans le débat public.
+[00:22:40.300 --> 00:22:42.460] Et plus elle prend de place,
+[00:22:42.460 --> 00:22:46.540] plus la question de la production de richesse est invisibilisée
+[00:22:46.540 --> 00:22:50.060] et plus il est facile pour les détenteurs des moyens de production
+[00:22:50.060 --> 00:22:52.300] de les délocaliser à l'autre bout de l'Europe.
+[00:22:52.300 --> 00:22:57.500] Avec à la clé, toujours plus d'impôts pour les producteurs restants sur le sol français,
+[00:22:57.500 --> 00:23:00.380] toujours plus d'endettement public
+[00:23:00.380 --> 00:23:05.420] et toujours moins de possibilités de répondre aux revendications des fonctionnaires.
+[00:23:05.420 --> 00:23:09.500] Functionnaires qui, par leur attitude, entretiennent donc ce cercle vicieux,
+[00:23:09.500 --> 00:23:15.180] se condamnant eux-mêmes à être toujours plus insatisfaits de leurs conditions de vie,
+[00:23:15.180 --> 00:23:20.220] mais surtout condamnant l'ensemble des Français à voir leur pays pillé
+[00:23:20.300 --> 00:23:23.420] tout en devant subir continuellement les gérémiades
+[00:23:23.420 --> 00:23:28.060] de ceux qui, dans l'affaire, servent d'idiots utiles à la classe dirigeante.
+[00:23:28.060 --> 00:23:31.660] De quoi comprendre, certes, toute la détresse de cette classe,
+[00:23:31.660 --> 00:23:33.580] autrefois qualifiée de moyenne,
+[00:23:33.580 --> 00:23:38.220] vouée à répéter encore et toujours les mêmes schémas et les mêmes erreurs,
+[00:23:38.220 --> 00:23:41.820] avec toujours la même certitude d'être dans son bon droit
+[00:23:41.820 --> 00:23:44.460] et d'incarner la résistance au système,
+[00:23:44.460 --> 00:23:47.820] qu'elle continuera pourtant de servir objectivement
+[00:23:47.820 --> 00:23:50.060] jusqu'au jour où inéluctablement,
+[00:23:50.060 --> 00:23:54.220] il n'y aura tout simplement plus d'argent pour subvenir à ses besoins.
+[00:23:54.220 --> 00:23:57.660] De quoi également comprendre pourquoi, ce jour-là,
+[00:23:57.660 --> 00:24:00.300] personne ne viendra pleurer sur son sort
+[00:24:00.300 --> 00:24:03.740] et pourquoi, pas plus la prochaine fois que celle-ci,
+[00:24:03.740 --> 00:24:09.260] la convergence des luttes ne se fera derrière les drapeaux de l'inter-syndicale de l'éducation.
+[00:24:09.260 --> 00:24:12.220] Et ce, d'autant plus que, comme d'habitude,
+[00:24:12.220 --> 00:24:17.180] ces personnes et leurs relais politiques auront tout de même réussi une chose,
+[00:24:17.180 --> 00:24:19.900] braquer les projecteurs sur eux-mêmes
+[00:24:19.900 --> 00:24:23.260] et faire oublier des problèmes autrement plus graves
+[00:24:23.260 --> 00:24:27.500] rencontrés par les autres catégories sociales qui existent en France.
+[00:24:27.500 --> 00:24:31.500] Évidemment, les questions du prix et de la disponibilité des carburants,
+[00:24:31.500 --> 00:24:34.220] dont nous parlions ici même il y a deux semaines,
+[00:24:34.220 --> 00:24:39.660] et qui ont depuis opportunément disparu des débats à la faveur du mouvement lycéen,
+[00:24:39.660 --> 00:24:42.300] mais également tous les problèmes criants
+[00:24:42.300 --> 00:24:45.260] que la première phase du mouvement avait mis en évidence,
+[00:24:45.260 --> 00:24:51.260] à savoir ceux à la fois posés et rencontrés par une fraction non négligeable de la jeunesse,
+[00:24:51.260 --> 00:24:54.460] incapables de s'exprimer autrement que par la violence,
+[00:24:54.460 --> 00:24:59.340] et n'ayant de toute évidence aucune place dans la société de demain.
+[00:24:59.340 --> 00:25:05.500] Un problème bien réel auquel il faudra très rapidement trouver des réponses de fond.
+[00:25:05.500 --> 00:25:09.660] Certes, à court terme, face à des hordes d'individus qui pillent des magasins,
+[00:25:09.660 --> 00:25:12.140] brûlent des lycées, agressent des passants,
+[00:25:12.140 --> 00:25:15.500] la réponse des pouvoirs publics devrait être évidente.
+[00:25:15.500 --> 00:25:20.620] Certes, on peut considérer que tous ceux qui en leur sein n'ont pas la nationalité française,
+[00:25:20.620 --> 00:25:22.620] n'ont rien à faire sur notre territoire,
+[00:25:22.620 --> 00:25:26.700] et donc que leur avenir ne nous regarde tout simplement pas,
+[00:25:26.700 --> 00:25:31.660] mais à long terme, que va bien pouvoir faire la France de tous les autres,
+[00:25:31.660 --> 00:25:34.620] ceux que l'on ne peut renvoyer nulle part ?
+[00:25:34.620 --> 00:25:37.900] Comment espérer les intégrer à un pays fonctionnel,
+[00:25:37.900 --> 00:25:41.420] leur donner une place dans un quelconque ordre social ?
+[00:25:41.500 --> 00:25:43.500] Est-ce seulement possible ?
+[00:25:43.500 --> 00:25:46.460] Pour ceux qui fantasment sur leur potentiel électoral,
+[00:25:46.460 --> 00:25:50.700] et qui ces derniers jours ont choisi de parler en leur nom et à leur place,
+[00:25:50.700 --> 00:25:52.460] pas besoin de se poser la question.
+[00:25:52.460 --> 00:25:56.060] Il suffit de les laisser vivre comme ils l'entendent dans la société actuelle,
+[00:25:56.060 --> 00:25:58.540] et de leur distribuer toujours plus d'argent,
+[00:25:58.540 --> 00:26:02.300] en leur faisant croire que demain ils seront médecins ou ingénieurs.
+[00:26:02.300 --> 00:26:07.100] Soit précisément la même chose que ce qui a été fait jusqu'à maintenant,
+[00:26:07.100 --> 00:26:11.500] et qui a mené à l'impasse dans laquelle nous nous trouvons actuellement.
+[00:26:11.500 --> 00:26:13.820] Comment désormais en sortir ?
+[00:26:13.820 --> 00:26:16.220] Sans doute est-ce là la question que les aspirants présidents
+[00:26:16.220 --> 00:26:18.060] devraient être en train de se poser,
+[00:26:18.060 --> 00:26:21.820] au lieu de se contenter de postures et de promesses démagogiques.
+[00:26:24.680 --> 00:26:26.680] Voilà le fil d'actu, c'est tout pour aujourd'hui,
+[00:26:26.680 --> 00:26:28.040] merci d'avoir été avec nous,
+[00:26:28.040 --> 00:26:30.280] nous espérons que cette vidéo vous aura intéressé,
+[00:26:30.280 --> 00:26:34.120] et vous aura aidé à prendre un peu de hauteur sur les événements de ces derniers jours,
+[00:26:34.120 --> 00:26:37.480] loin des médias se contentant de commentaires au jour le jour
+[00:26:37.480 --> 00:26:41.320] sur le nombre de lycées bloqués, de policiers blessés ou de manifestants arrêtés,
+[00:26:41.320 --> 00:26:45.720] et loin des réseaux politiques s'acharnant à présenter comme historiques
+[00:26:45.720 --> 00:26:49.960] et jamais vus un mouvement social à la portée véritable très limité.
+[00:26:49.960 --> 00:26:54.600] Comme s'il suffisait de marteler une exagération évidente pour qu'elles prennent corps.
+[00:26:54.600 --> 00:26:57.320] Des optiques qui clairement ne sont pas les nôtres.
+[00:26:57.320 --> 00:27:02.040] Ici, au fil d'actu, nous préférons tenter d'analyser et de comprendre le réel.
+[00:27:02.040 --> 00:27:04.840] Première étape pour son éventuelle transformation,
+[00:27:04.840 --> 00:27:07.480] plutôt que de simplement en commenter les détails,
+[00:27:07.480 --> 00:27:12.600] ou pire, le fuir pour y substituer des chimères et des fantasmes de révolution.
+[00:27:12.600 --> 00:27:15.640] C'est peut-être moins agréable pour nous comme pour vous,
+[00:27:15.640 --> 00:27:18.840] mais à nos yeux, c'est nettement plus utile à la collectivité.
+[00:27:18.840 --> 00:27:21.720] Si cette démarche qui est la nôtre vous semble digne d'intérêt,
+[00:27:21.720 --> 00:27:26.600] si elle vous correspond ou tout simplement si vous jugez que notre travail a le mérite d'exister,
+[00:27:26.600 --> 00:27:29.800] alors nous vous invitons bien sûr à partager cette vidéo autour de vous,
+[00:27:29.800 --> 00:27:34.280] mais aussi à nous soutenir via notre page de financement participatif Tipeee,
+[00:27:34.360 --> 00:27:37.000] dont le lien se trouve en barre d'infos sous la vidéo
+[00:27:37.000 --> 00:27:40.280] et s'affiche en ce moment même quelque part sur votre écran.
+[00:27:40.280 --> 00:27:41.480] Pourquoi nous soutenir ?
+[00:27:41.480 --> 00:27:44.520] Parce que pour pouvoir réellement donner du sens à l'information,
+[00:27:44.520 --> 00:27:49.640] un média comme le fil d'actu a besoin d'être libre de toute contrainte éditoriale,
+[00:27:49.640 --> 00:27:52.520] et donc 100% et réellement indépendant.
+[00:27:52.520 --> 00:27:55.320] Au fil d'actu, nous ne touchons pas un centime d'argent public,
+[00:27:55.320 --> 00:27:57.560] nous n'avons derrière nous aucun riche mécène,
+[00:27:57.560 --> 00:28:02.600] aucune boîte de prod, aucune marque à laquelle servir de véhicule publicitaire,
+[00:28:02.600 --> 00:28:07.000] aucun lobby et bien sûr aucun État et aucun parti politique.
+[00:28:07.000 --> 00:28:12.200] C'est la condition de notre intégrité et nous mettons un point d'honneur à ne jamais y renoncer.
+[00:28:12.200 --> 00:28:14.760] La contrepartie, c'est que pour exister en tant que média,
+[00:28:14.760 --> 00:28:17.640] nous avons besoin de vous et de votre soutien.
+[00:28:17.640 --> 00:28:21.080] Aujourd'hui, si le fil d'actu existe et est en mesure de produire chaque semaine
+[00:28:21.080 --> 00:28:23.560] une bonne vidéo d'analyse d'actualité,
+[00:28:23.560 --> 00:28:27.320] c'est uniquement grâce à vous et à tous ceux qui, au sein de notre public,
+[00:28:27.320 --> 00:28:32.360] ont choisi de devenir Tipeurs, contributeurs financiers de l'émission et de la chaîne.
+[00:28:32.440 --> 00:28:36.920] Le mois dernier, vous avez été plus de 700 à apporter votre pierre à l'édifice
+[00:28:36.920 --> 00:28:39.800] et on vous remercie tous très chaleureusement pour cela,
+[00:28:39.800 --> 00:28:42.520] car on sait ce qu'on vous doit et on n'est pas prêt de l'oublier.
+[00:28:42.520 --> 00:28:47.080] Merci infiniment d'être avec nous, merci d'être toujours plus nombreux à nous soutenir,
+[00:28:47.080 --> 00:28:52.680] merci de nous permettre de faire ce travail et de continuer chaque semaine à donner du sens à l'information.
+[00:28:52.680 --> 00:28:57.080] Et si vous aussi vous suivez notre travail et que vous avez l'envie et bien sûr les moyens
+[00:28:57.080 --> 00:29:00.760] de vous engager à nos côtés pour une information libre et indépendante,
+[00:29:00.840 --> 00:29:05.960] alors on vous invite à devenir à votre tour Tipeur du fil d'actu, ne serait-ce qu'à hauteur de 5 euros par mois.
+[00:29:05.960 --> 00:29:10.920] Pour cela, il vous suffit de vous rendre sur notre page Tipeee, le lien est en description sous la vidéo,
+[00:29:10.920 --> 00:29:13.880] de choisir le montant et la régularité de votre soutien
+[00:29:13.880 --> 00:29:17.240] et de vous laisser guider par la plateforme 100% Sécurisées Slava de Soie.
+[00:29:17.240 --> 00:29:21.240] On vous dit merci d'avance et on vous souhaite la bienvenue dans la bataille.
+[00:29:21.240 --> 00:29:24.520] Pour terminer quelques petites recommandations, d'abord si ce n'est pas déjà fait,
+[00:29:24.520 --> 00:29:28.920] pensez bien sûr à vous abonner à notre chaîne, à activer les notifications en cliquant sur la cloche
+[00:29:28.920 --> 00:29:33.800] et à nous suivre sur nos différents réseaux Instagram et Facebook ainsi que sur mon TikTok personnel
+[00:29:33.800 --> 00:29:37.320] afin de multiplier vos chances de ne rater aucune de nos nouvelles publications.
+[00:29:37.320 --> 00:29:42.920] Ensuite, si vous souhaitez mieux appréhender les questions de classe sociale et les enjeux de production évoqués dans cette vidéo,
+[00:29:42.920 --> 00:29:47.480] je vous rappelle que c'est le sujet central de mon livre Il est venu le temps des producteurs,
+[00:29:47.480 --> 00:29:55.000] un livre qui explique précisément comment le développement de la fonction publique et du secteur des services à compter des années 1970
+[00:29:55.080 --> 00:29:59.400] a permis en France de masquer la disparition de l'activité productive,
+[00:29:59.400 --> 00:30:04.200] disparition dont les problèmes auxquels le pays fait face aujourd'hui constituent les conséquences directes.
+[00:30:04.200 --> 00:30:08.280] Si le sujet vous intéresse, si vous avez envie d'approfondir votre compréhension de ce sujet,
+[00:30:08.280 --> 00:30:12.040] je ne saurais donc que trop vous conseiller la lecture de cet ouvrage.
+[00:30:12.040 --> 00:30:16.680] Pour cela, je vous donne rendez-vous sur le site des éditions du fil d'actu et uniquement sur ce site.
+[00:30:16.680 --> 00:30:20.760] Le lien comme celui de notre page Tipeee se trouve en description en dessous de la vidéo.
+[00:30:20.760 --> 00:30:25.640] Enfin, si vous avez quelques secondes pour cela, nous vous invitons à laisser un pouce vers le haut sous cette vidéo,
+[00:30:25.640 --> 00:30:28.520] ainsi si vous le souhaitez qu'une réflexion personnelle en commentaire.
+[00:30:28.520 --> 00:30:32.920] Non seulement ça nous fait plaisir, mais en plus cela améliore le référencement de la vidéo,
+[00:30:32.920 --> 00:30:40.040] donc la visibilité de notre chaîne sur YouTube et c'est donc un véritable moyen pour vous, utiles et gratuits, de nous aider.
+[00:30:40.040 --> 00:30:43.160] Merci encore d'avoir été avec nous, je vous souhaite à tous une très bonne semaine
+[00:30:43.160 --> 00:30:48.280] et je vous donne rendez-vous la semaine prochaine pour un nouveau fil d'actu et l'émission qui donne du sens à l'information.

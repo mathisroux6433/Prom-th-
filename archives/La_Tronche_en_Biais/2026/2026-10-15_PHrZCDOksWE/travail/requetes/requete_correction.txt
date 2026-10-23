@@ -1,0 +1,316 @@
+Corrige contextuellement la transcription horodatée ci-dessous.
+
+Règles obligatoires : conserve exactement une ligne par segment et exactement les deux horodatages de chaque ligne ; ne résume pas ; ne reformule pas le registre oral ; corrige seulement les erreurs de reconnaissance établies par le contexte (noms propres, institutions, lieux, événements, termes techniques et expressions manifestement mal reconnues). Si une forme reste incertaine, conserve-la et ajoute immédiatement `[incertain]`. Retourne uniquement la transcription complète corrigée.
+
+MÉTADONNÉES :
+{'schema_version': '1.0', 'id': 'PHrZCDOksWE', 'title': 'Manif & violences — La science du maintien de l’ordre', 'channel': 'La Tronche en Biais', 'channel_id': 'UCq-8pBMM3I40QlrhM9ExXJQ', 'upload_date': '20261015', 'duration_seconds': 1966, 'webpage_url': 'https://www.youtube.com/watch?v=PHrZCDOksWE', 'description': "La France défend une doctrine de maintien de l’ordre que plusieurs institutions internationales demandent depuis des années de documenter, contrôler et réviser. Dans cette chronique, on regarde ce que disent les études, ce qu’elles ne permettent pas de conclure, et ce que l’État refuse encore de mesurer.\n\n📄Version texte : https://menace-theoriste.fr/manif-violences-la-science-du-maintien-de-lordre/\n\nÇa Coule de Source, le dimanche à 21h : https://www.twitch.tv/tronchebiais\nExtrait du magazine du 11 octobre 2026 :  \nhttps://youtube.com/live/QMulCfU-Q14\n_______\nMerci beaucoup à ceux qui soutiennent déjà le travail indépendant de la Tronche en Biais via les plateformes de financement : \n▲ Ulule : https://fr.ulule.com/la-tronche-en-biais\n▲ Patreon : https://www.patreon.com/TroncheBiais\n▲ Tipeee : https://fr.tipeee.com/la-tronche-en-biais\n▲ https://paypal.me/acermendax\nEt pour suivre mon travail sans dépendre des plateformes, inscrivez-vous à la NEWS'Zet : https://menace-theoriste.fr/inscription-newzet/\n_____\n\n#violencespolicières #EspritCritique #libertés", 'language': 'fr-FR'}
+
+TRANSCRIPTION BRUTE :
+[00:00:00.500 --> 00:00:09.490] On va parler des violences dans les manifestations lycéennes, c'est un peu tout ce qui intéresse
+[00:00:09.490 --> 00:00:16.250] les médias. Les manifestations lycéennes provoquent des réactions et des propos outranciers,
+[00:00:16.250 --> 00:00:21.790] exagérés, radicalisés. Vous l'avez vu comme moi. Nous assistons à des retranchements
+[00:00:21.790 --> 00:00:26.530] réflexes qui consistent à accuser le corps d'en face d'être un ramassis d'abrutis
+[00:00:26.530 --> 00:00:31.530] sanguinaire. Et c'est sans doute pas vrai en fait. Probablement que les gens d'en
+[00:00:31.530 --> 00:00:35.330] face, même si on ne les aime pas, ce n'est pas des abrutis sanguinaire. Demandez-vous.
+[00:00:35.330 --> 00:00:42.850] Nous voyons des gens raisonnables dégoiser des rhétoriques lunaires, des débats sans
+[00:00:42.850 --> 00:00:48.090] queue ni tête envahir nos réseaux et le cirque médiatique se régaler d'une polémique
+[00:00:48.090 --> 00:00:52.050] qui fait l'audimat, en mettant en scène une opposition où tous les avis auraient
+[00:00:52.050 --> 00:00:58.250] la même valeur. Retour au pugila après une page de réclame. Bon. Donc il y a un problème
+[00:00:58.250 --> 00:01:04.290] dans la manière aussi d'en débattre entre nous et dont on est informé sur cette question.
+[00:01:04.290 --> 00:01:09.810] Vous savez très très bien que nous n'acceptons pas l'idée que tous les avis aient la même
+[00:01:09.810 --> 00:01:15.370] valeur sur la forme de la Terre, sur les droits de l'homme, sur le théorium de Pythagore
+[00:01:15.370 --> 00:01:20.370] ou sur l'impact des activités humaines sur le climat. Parce que certains de ces avis
+[00:01:20.370 --> 00:01:25.210] sont mieux informés, mieux connectés au corps plus des savoirs, ils concourent davantage
+[00:01:25.210 --> 00:01:31.290] aux biens communs, aux biens communs, notion importante, que les élucubrations contraires.
+[00:01:31.290 --> 00:01:37.010] Et de fait, les médias responsables ne donnent pas du temps d'antenne aux propos
+[00:01:37.010 --> 00:01:42.090] antiscientifiques. Ce n'est pas trivial, ça montre ce que nous attendons des grands
+[00:01:42.090 --> 00:01:49.210] médias et qu'ils font en général être raisonnables. Sur le maintien de l'ordre,
+[00:01:49.210 --> 00:01:54.290] sur l'efficacité des méthodes, sur les résultats des doctrines appliquées en France et ailleurs,
+[00:01:54.290 --> 00:01:58.850] il y a aussi des avis qui relèvent de l'élucubration et d'autres qui s'accordent
+[00:01:58.850 --> 00:02:03.730] avec les connaissances établies. Dans cette chronique, je vais éviter de participer
+[00:02:03.730 --> 00:02:08.490] à ce cafarnaum autant que je peux. Je ne vais pas vous donner mon avis personnel sur
+[00:02:08.490 --> 00:02:13.130] les revendications, et pourtant j'en ai. Je ne vais pas mettre en concurrence les douleurs
+[00:02:13.130 --> 00:02:16.650] des uns et des autres, alors que je pourrais le faire, j'ai une idée. Je ne vais pas
+[00:02:16.650 --> 00:02:21.930] accuser tel parti politique d'avoir telle intention cachée, pourtant on a des indices.
+[00:02:22.250 --> 00:02:27.490] Je ne vais pas me dresser sur des ergots indignés pour distribuer des cartons rouges contre
+[00:02:27.490 --> 00:02:32.970] les racailles qui brûlent des lycées ou les fachos qui tabassent des gamins, et pourtant
+[00:02:32.970 --> 00:02:39.330] on pourrait s'énerver contre tout le monde. Mon propos va essayer d'être scientifique,
+[00:02:39.330 --> 00:02:45.210] et donc il ne va pas s'aligner docilement avec la ligne de « votre parti préféré
+[00:02:45.210 --> 00:02:51.250] », donc d'avance mes excuses. Nous devons tous lutter contre l'instinct qui nous pousse
+[00:02:51.250 --> 00:02:56.170] à détester les idées qui contredisent la doxa du groupe auquel nous nous identifions.
+[00:02:56.170 --> 00:03:02.450] C'est une exigence de l'esprit critique. Et vous noterez que j'ai ressenti le besoin
+[00:03:02.450 --> 00:03:07.530] de vous adresser cette longue introductive mise en garde, c'est donc que je sentais
+[00:03:07.530 --> 00:03:14.770] qu'il fallait le faire. Maintenant, entrons dans le vif du sujet. Et pour ça, on a des
+[00:03:14.770 --> 00:03:20.850] faits divers, on a des éléments comme ça, on a des images, on a des vidéos. À Lens,
+[00:03:20.850 --> 00:03:28.570] un adolescent de 15 ans à la main arrachée par une grenade EF Sun pendant le blocage du lycée
+[00:03:28.570 --> 00:03:36.490] Béal. À Saint-Ouen, Lomone, Eden, 14 ans, reçoit un tir de lance-grenade lacrymogène Cougar au
+[00:03:36.490 --> 00:03:43.370] visage, double fracture de la mâchoire, dent du haut brisé, dent du bas arraché. À Argenteuil,
+[00:03:43.610 --> 00:03:48.010] une enquête est ouverte après la blessure à l'œil d'un lycéen de 16 ans, suspecté d'avoir été
+[00:03:48.010 --> 00:03:53.930] causé par un tir de LBD. Et il y en a d'autres, c'est les trois plus graves qu'on a vu passer
+[00:03:53.930 --> 00:03:59.650] récemment. Reuters documente 28 blessures attribuées à l'intervention policière pendant les
+[00:03:59.650 --> 00:04:06.130] manifestations lycéennes. 15 font partie des dossiers examinés par l'IGPN. Les cas recensés
+[00:04:06.130 --> 00:04:11.210] impliquent les LBD, les grenades assourdissantes, les grenades lacrymogènes, les coups de matraque
+[00:04:11.610 --> 00:04:19.410] et les charges à cheval. Reuters rapporte aussi 6 877 arrestations, c'est un chiffre record,
+[00:04:19.410 --> 00:04:26.530] principalement des mineurs et environ 700 policiers blessés. Reuters, dont l'article
+[00:04:26.530 --> 00:04:31.130] convenra parce que leur page est verrolée par les pubs, interroge Sébastien Rocher,
+[00:04:31.130 --> 00:04:37.850] directeur de recherche au CNRS et spécialiste des questions de police. Selon lui, la France se
+[00:04:37.930 --> 00:04:43.130] distinguant d'Europe par l'usage de ses armes et par le nombre de victimes. Nous sommes une
+[00:04:43.130 --> 00:04:48.610] exception, cocorico. Le 7 octobre, devant la Commission des lois de l'Assemblée nationale,
+[00:04:48.610 --> 00:04:54.730] Laurent Nunez, ministre de l'Intérieur, affirme que les blessures d'élèves relèvent très
+[00:04:54.730 --> 00:04:59.730] majoritairement d'accidents ou de projetiles lancés par d'autres lycéens, d'autres manifestants
+[00:04:59.730 --> 00:05:04.610] en tout cas. Et pourtant, il suspend les grenades assourdissantes dans le cadre des mouvements
+[00:05:04.610 --> 00:05:10.170] lycéens, mais maintient les autres armes intermédiaires, dont les LBD, qu'ils jugent
+[00:05:10.170 --> 00:05:15.530] indispensables face à une violence extrême. Les blessures des forces de l'ordre, elles nous
+[00:05:15.530 --> 00:05:23.770] renseignent sur l'intensité des affrontements, mais prenons soin toutefois de ne pas en inférer que
+[00:05:23.770 --> 00:05:29.770] la mutilation de mineurs par des armes de police serait un dommage symétrique, acceptable parce
+[00:05:29.770 --> 00:05:36.410] quand même ils se rebellent, ces petits cons, donc il faut les mutiler. La force publique, elle agit au
+[00:05:36.410 --> 00:05:42.850] nom de l'Etat, avec des armes, des ordres, une hiérarchie, des gens qui sont formés dans cette métier,
+[00:05:42.850 --> 00:05:48.370] qui sont payés pour ça, et une obligation de contrôle. La responsabilité, elle est donc purielle,
+[00:05:48.370 --> 00:05:55.850] et elle incombe en réalité, ne soyez pas surpris, elle incombe en partie sur chacun de nous et de
+[00:05:55.850 --> 00:06:02.570] vous, on est citoyens, c'est en notre nom que les agents de l'Etat utilisent ces armes, et c'est
+[00:06:02.570 --> 00:06:09.650] donc bien différent d'un acte individuel, aussi qu'enalable soit-il. Un petit connard qui brûle
+[00:06:09.650 --> 00:06:15.610] une porte de lycée, ou un agent des forces de l'ordre qui matraque quelqu'un, il y a un des deux
+[00:06:15.610 --> 00:06:21.330] qui est payé par mon argent pour le faire. Plus de 6000 interpellations en deux semaines, alors ça
+[00:06:21.330 --> 00:06:27.770] peut indiquer qu'un mouvement est particulièrement désordonné et problématique, ou bien que la
+[00:06:27.770 --> 00:06:34.330] répression est particulièrement sévère. Le chiffre seul nous éclaire mal, après tout on a en Iran
+[00:06:34.330 --> 00:06:40.370] des exécutions publiques de manifestants, parce que ça prouve que les manifestants étaient excessifs.
+[00:06:40.370 --> 00:06:48.050] Nous ignorons combien d'arrestations ont visé la bonne personne, et par ailleurs sans distance de
+[00:06:48.050 --> 00:06:53.810] tir, sans ordre écrit, sans identification de l'unité engagée et sans suite disciplinaire,
+[00:06:53.810 --> 00:06:59.330] la proportionnalité d'un tir de LBD reste invérifiable. Et vous verrez que mon propos
+[00:06:59.330 --> 00:07:08.050] sera là, de se demander comment on évalue, avec quelle méthode on procède. Or, il nous manque des
+[00:07:08.050 --> 00:07:14.290] données pertinentes, et donc le débat va tourner à vide. L'Etat ne peut pas demander à être cru
+[00:07:14.290 --> 00:07:20.050] sur l'efficacité de sa doctrine sans fournir les moyens de la vérifier. Et vous verrez revenir
+[00:07:20.050 --> 00:07:26.410] au fil de mon propos le problème de la transparence, de l'évaluation et de la responsabilité des choix
+[00:07:26.410 --> 00:07:32.210] politiques. Parlons un peu de psychologie sociale et de psychologie des foules, qui a abandonné
+[00:07:32.210 --> 00:07:39.410] depuis longtemps l'image de la masse irrationnelle contaminée par l'émotion. Le modèle de l'identité
+[00:07:39.410 --> 00:07:47.810] sociale élaborée décrit des identités de groupes qui se construisent pendant l'événement. Des
+[00:07:47.810 --> 00:07:53.770] personnes venues avec des intentions différentes se perçoivent comme un même groupe quand la
+[00:07:53.770 --> 00:07:58.930] police les traite de la même façon. C'est crucial. Une étude, pendant, sur les supporters de
+[00:07:58.930 --> 00:08:05.850] football au Portugal lors de l'euro 2004, relie le faible niveau de désordre chez les supporters,
+[00:08:05.850 --> 00:08:13.730] anglais, à un style policier non paramilitaire, jugé plus légitime, et à la capacité de la
+[00:08:13.730 --> 00:08:20.450] foule à marginaliser ces éléments violents. J'apporte une nuance. Cette littérature porte
+[00:08:20.450 --> 00:08:26.090] sur le moment de l'interaction une explication plus structurelle, mais un peu datée, prédit qu'un
+[00:08:26.090 --> 00:08:31.930] climat de tension préalable pèse davantage que le style policier du jour. Les données disponibles
+[00:08:31.930 --> 00:08:37.050] ne permettent pas, toujours, je dirais même pas souvent, de départager les deux. Bien sûr,
+[00:08:37.050 --> 00:08:42.570] la police ne crée pas toutes les violences. Des groupes peuvent rechercher l'affrontement,
+[00:08:42.570 --> 00:08:47.970] attaquer les établissements, incendier, lancer des mortiers, frapper des agents, puis se disperser.
+[00:08:47.970 --> 00:08:55.810] Le lycée Loritz à Nancy à Dapatchemois, la porte a flambé et il est fermé. C'est volontaire,
+[00:08:55.810 --> 00:09:00.690] déjà on l'en fait. Ce n'est pas la police qui l'est à forcer. Mais le style policier modifie
+[00:09:00.690 --> 00:09:07.010] néanmoins les rapports entre groupes. Une action ciblée peut aider la foule à isoler ces éléments
+[00:09:07.010 --> 00:09:13.570] violents. Une action vécue comme collective, opaque ou arbitraire, peut souder des personnes
+[00:09:13.570 --> 00:09:19.290] qui n'étaient pas solidaires au départ. L'identité de groupe, la catégorisation des participants et
+[00:09:19.290 --> 00:09:24.210] l'interprétation de la contrainte modifient le jugement porté sur l'action policière. Une
+[00:09:24.210 --> 00:09:30.330] opération conforme au cadre formel peut être perçue comme injuste quand la contrainte atteint
+[00:09:30.330 --> 00:09:35.530] un groupe plus large que les auteurs de violence. Qu'est-ce que vous voulez, nous les humains,
+[00:09:35.530 --> 00:09:41.930] on n'aime pas trop les punitions collectives. C'est comme ça. Et je me demande qui peut prétendre
+[00:09:41.930 --> 00:09:47.370] qu'il n'était pas au courant. La désescalade, elle est soumise à des conditions opérationnelles. Une
+[00:09:47.370 --> 00:09:52.250] foule, elle coopère, parfois ça arrive plus facilement, quand elle comprend les ordres,
+[00:09:52.250 --> 00:09:56.810] quand elle peut quitter les lieux. Et donc peut-être que les effets de NAS qu'on aime bien faire en
+[00:09:56.810 --> 00:10:04.010] France sont pas intelligents. Quand les agences sont identifiables avec un numéro réo, c'est
+[00:10:04.010 --> 00:10:09.050] obligatoire. Quand la force vise des comportements précis et quand les blessures donnent lieu à des
+[00:10:09.050 --> 00:10:14.650] enquêtes suivies d'effets. Et chaque opération laisse une mémoire également. Une manifestation
+[00:10:14.650 --> 00:10:20.490] qui se disperse dans la confusion avec des tirs impossibles à attribuer et des blessures sans
+[00:10:20.570 --> 00:10:28.090] suite visible, qui paraissent être exercées avec impunité, prépare la défiance au coup d'après.
+[00:10:28.090 --> 00:10:32.730] Une doctrine de maintien de l'ordre ne produit donc pas seulement un bilan le jour même,
+[00:10:32.730 --> 00:10:38.890] elle fabrique les conditions du prochain face à face. Et en France évidemment, vu l'état des
+[00:10:38.890 --> 00:10:43.770] actions policières, à la prochaine manif, les gens qui manifestent seront encore plus remontés
+[00:10:43.770 --> 00:10:50.010] qu'ils étaient au coup d'avant. La force ne produit pas toujours le même effet. Pourquoi ? La
+[00:10:50.010 --> 00:10:54.490] littérature sur la répression des mouvements sociaux ne dit pas que toute force policière aggrave
+[00:10:54.490 --> 00:11:00.090] toujours la situation. La sociologue Jennifer Earle, spécialiste de la répression des mouvements
+[00:11:00.090 --> 00:11:06.050] sociaux, distingue plusieurs formes de répression et elle refuse de traiter la contrainte comme une
+[00:11:06.050 --> 00:11:12.330] catégorie unique. C'est plus compliqué que ça. Le politiste Christian Davenport, spécialiste des
+[00:11:12.330 --> 00:11:19.690] rapports entre répression d'état et mobilisation politique, montre que la force peut produire des
+[00:11:19.690 --> 00:11:25.690] effets contradictoires. Elle peut dissuader, elle peut disperser ou déplacer mobilisation. Elle peut
+[00:11:25.690 --> 00:11:31.130] aussi radicaliser certains groupes, renforcer la solidarité entre manifestants ou se retourner
+[00:11:31.130 --> 00:11:38.330] contre l'autorité qu'il exerce. Est-ce que c'est ce qu'on va observer ? Si bien possible. L'argument
+[00:11:38.330 --> 00:11:45.730] policier, dans sa version forte, on le trouve sur le site du ministère de l'Intérieur. Il tient
+[00:11:45.730 --> 00:11:51.170] en quelques propositions, face à des groupes rapides qui attaquent, qui incendient, qui frappent,
+[00:11:51.170 --> 00:11:56.690] puis se dispersent, une ligne statique, elle est rapidement débordée et ils estiment avoir besoin
+[00:11:56.690 --> 00:12:06.370] d'équipements et de stratégies différentes. Le LBD et la grenade évitent, nous dit-on, le contact
+[00:12:06.370 --> 00:12:13.170] rapproché et le recours à l'arme létale. Encore heureux, sans eux, le retrait expose des personnes,
+[00:12:13.890 --> 00:12:17.810] le corps à corps produit d'autres blessures et la matraque n'est pas une solution douce. Et bien,
+[00:12:17.810 --> 00:12:25.570] cet argument, il est testable. Si les armes intermédiaires réduisent les blessures graves
+[00:12:25.570 --> 00:12:32.610] en évitant le contact, les données doivent le montrer. Si elles ajoutent des mutilations sans
+[00:12:32.610 --> 00:12:40.730] réduire le dommage global, les données doivent le montrer aussi. En l'absence de résultats, je
+[00:12:40.730 --> 00:12:47.210] suspends mon jugement, je fais preuve d'esprit critique et de zététique, voire même d'époqué,
+[00:12:47.210 --> 00:12:54.330] et donc je me demande où sont les preuves que la bonne décision est prise sur ces questions. Si
+[00:12:54.330 --> 00:13:00.690] les gens qui sont en responsabilité prennent des décisions sans savoir ce qu'elles valent, est-ce
+[00:13:00.690 --> 00:13:04.290] qu'ils méritent d'être à leur place ou est-ce qu'il faudrait les lourder à coup de pompe dans
+[00:13:04.290 --> 00:13:11.490] le train ? Je veux que poser la question. Qu'est-ce qui se passe au niveau international ? Les
+[00:13:11.490 --> 00:13:16.450] spécialistes de la question de la gestion policière des protestations, ce qu'on appelle la protest
+[00:13:16.450 --> 00:13:22.330] policing, ne procèdent pas en additionnant les blessés issus de sources incompatibles parce que
+[00:13:22.330 --> 00:13:29.650] les pays ne comptent pas pareil. Ils comparent des styles policiers, des cultures institutionnelles,
+[00:13:29.650 --> 00:13:36.450] des doctrines d'intervention et les formes de tolérance, les seuils de coercition et les
+[00:13:36.450 --> 00:13:42.730] modes de contrôle. La police des manifestations se joue dans une tension permanente entre défense
+[00:13:42.730 --> 00:13:51.410] de l'ordre public et reconnaissance du droit de manifester. Les démocraties diffèrent dans ce
+[00:13:51.410 --> 00:13:57.370] qu'elles tolèrent, dispersent, criminalisent ou négocient et donc la doctrine policière, elle est
+[00:13:57.370 --> 00:14:03.090] une variable politique et pas seulement un choix technique, c'est les deux. Les travaux
+[00:14:03.090 --> 00:14:08.330] américains sur la police des manifestations montrent que la réponse policière ne dépend pas seulement
+[00:14:08.330 --> 00:14:14.490] de ce que font les manifestants. Je vais répéter, la réponse policière ne dépend pas seulement de
+[00:14:14.490 --> 00:14:21.890] ce que font les manifestants, elle réagit aussi à des catégories et donc à ce qu'ils sont. Dans
+[00:14:21.890 --> 00:14:31.050] une étude portant sur des manifestations dans l'état de New York entre 68 et 73, les événements
+[00:14:31.050 --> 00:14:37.530] impliquant des groupes socialement moins protégés ou des organisations militantes identifiées attirent
+[00:14:37.530 --> 00:14:46.250] plus souvent une action policière. Autrement dit, deux rassemblements également calmes ne sont pas
+[00:14:46.250 --> 00:14:52.250] nécessairement lus de la même manière par l'autorité. Le profil politique et social des
+[00:14:52.250 --> 00:15:00.050] groupes peut modifier le niveau de suspicion, de surveillance ou de coercition. En France, dans les
+[00:15:00.050 --> 00:15:07.370] années 80-90, le maintien de l'ordre reposait davantage sur la distance, sur la négociation,
+[00:15:07.370 --> 00:15:13.770] le compromis et le sous-emploi des moyens coercitifs disponibles. Depuis les années 2000,
+[00:15:13.770 --> 00:15:22.610] il résiste au tournant européen vers la désescalade. Les pays européens ont fait évoluer
+[00:15:22.610 --> 00:15:27.290] leur doctrine et en France, on ne le fait pas. Et ce tournant, c'est quoi ? C'est dialogue avec
+[00:15:27.290 --> 00:15:34.490] les organisateurs, qui sont des citoyens, communication avant, pendant et même après la
+[00:15:34.490 --> 00:15:38.490] manifestation, facilitation du cortège, le but n'est pas d'empêcher que les gens circulent mais de
+[00:15:38.490 --> 00:15:44.290] les aider à circuler pour que ça se passe bien et plus vite, et distinction nette entre manifestants
+[00:15:44.290 --> 00:15:52.130] ordinaires et groupes violents. Cette évolution, elle se voit dans le recours à des unités et à
+[00:15:52.130 --> 00:15:59.170] des réflexes venus de la police urbaine en France. Une manifestation, elle n'est plus seulement encadrée
+[00:15:59.170 --> 00:16:05.530] par des forces spécialisées dans la tenue à distance des foules, elle peut être traitée avec
+[00:16:05.530 --> 00:16:11.730] des logiques d'interpellation rapide, de contact et d'usage d'armes comme le LBD. On passe d'une
+[00:16:11.730 --> 00:16:18.850] police qui tient un cortège à distance à une police qui entre dans la foule pour saisir, disperser
+[00:16:18.850 --> 00:16:25.410] et frapper certains individus. Les sociologues Olivier Filleul, spécialiste des mouvements sociaux
+[00:16:25.410 --> 00:16:33.130] et Fabien Jobard, spécialiste de la police, parlent d'un splendide isolement français. La France
+[00:16:33.130 --> 00:16:40.810] continue de défendre une doctrine qu'une partie de ses voisins européens a révisée. Pourquoi ? Dans
+[00:16:40.810 --> 00:16:47.410] politique du désordre, les mêmes auteurs décrivent ensuite une brutalisation engagée depuis le début
+[00:16:47.410 --> 00:16:54.850] des années 2010 avec dispersion rapide, agents envoyés au contact, arrestations, armes intermédiaires
+[00:16:54.850 --> 00:17:01.890] et, écoutez bien, tolérance plus faible envers la manifestation en tant que conflit politique
+[00:17:01.890 --> 00:17:10.660] légitime. Il se passe quelque chose de l'ordre de vous manifester, vous avez le droit, oui mais bon,
+[00:17:10.660 --> 00:17:16.380] oui mais bon, la rue n'est pas à vous, quand même, calmez-vous. En gros, on est en train de
+[00:17:16.380 --> 00:17:24.180] renier les droits des citoyens. C'est un peu comme ça que que je comprends leur travail. La
+[00:17:24.180 --> 00:17:32.340] doctrine française affirme cibler les comportements violents. Qui est contre ? Personne n'est contre.
+[00:17:32.340 --> 00:17:40.620] Mais les outils employés frappent plus large. Les grenades, les nasses, les charges, les tirs dans
+[00:17:40.620 --> 00:17:46.340] les scènes mobiles, les interpellations groupées, ça cible mal. Faut pas nous prendre pour des
+[00:17:46.340 --> 00:17:54.060] jambons. Le ministère revendique la proportionnalité mais ne publie pas les données qui vont
+[00:17:54.060 --> 00:18:03.100] permettre de la vérifier. Le contrôle interne ne suffit pas à lever le doute. L'IGPN enquête sur
+[00:18:03.100 --> 00:18:09.520] les policiers, ça c'est bien, mais elle appartient à la police nationale. C'est les policiers qui
+[00:18:09.520 --> 00:18:16.400] jugent les policiers. Comment ça peut être crédible ? Vous ? On ne sait pas. Quand des
+[00:18:16.400 --> 00:18:23.400] manifestations politiques se terminent par des mineurs mutilés, ce contrôle interne, il devient
+[00:18:23.400 --> 00:18:28.640] une anomalie démocratique. L'Etat ne peut pas employer la force, défendre sa doctrine, puis
+[00:18:28.640 --> 00:18:33.960] demander que l'enquête sur ses propres violences reste sous son anti-contrôle. Personne ne peut
+[00:18:33.960 --> 00:18:41.360] croire cela. Ça ne passe pas, ça ne passe plus. Et peut-être qu'ils font bien leur travail mais
+[00:18:41.360 --> 00:18:46.520] dans ce cas-là, ils n'ont rien à craindre. C'est bien l'argument qu'on le dit pour imposer des
+[00:18:46.520 --> 00:18:50.520] caméras partout. Ceux qui n'enfreinent pas la loi n'ont rien à cacher. La police non plus n'a rien à
+[00:18:50.520 --> 00:18:54.880] cacher. Pourquoi est-ce qu'on n'a pas accès à tout ça ? C'est bizarre. Qu'est-ce que demandent les
+[00:18:54.880 --> 00:19:01.360] institutions internationales ? Parce que la France, figurez-vous qu'elle n'est pas critiquée que par
+[00:19:01.360 --> 00:19:08.400] les syndicats ou par les youtubeurs à barbe et cravate rouge. L'OSCE, l'Organisation pour la
+[00:19:08.400 --> 00:19:15.240] sécurité et la coopération en Europe, via son bureau des institutions démocratiques et des droits
+[00:19:15.240 --> 00:19:23.360] de l'homme, a publié un manuel sur la police des rassemblements en 2016. Ce standard international
+[00:19:23.360 --> 00:19:30.760] établit que la police doit faciliter l'exercice du droit de réunion pacifique, préparer ses
+[00:19:30.760 --> 00:19:36.400] interventions, limiter l'usage de la force et rendre ses décisions contrôlables après coup.
+[00:19:36.400 --> 00:19:41.520] La France a été directement visée à plusieurs reprises par des textes internationaux. En 2019,
+[00:19:41.520 --> 00:19:46.240] dans le contexte des Gilets jaunes, trois titulaires de mandats des procédures spéciales
+[00:19:46.240 --> 00:19:52.920] de l'ONU interviennent sur la France. Ils écrivent « Nous avons reçu des allégations graves
+[00:19:52.920 --> 00:19:59.480] d'usage excessif de la force. Plus de 1700 personnes auraient été blessées à la suite de
+[00:19:59.480 --> 00:20:05.360] manifestations dans tout le pays ». Ils ajoutent que les restrictions aux droits ont entraîné,
+[00:20:05.360 --> 00:20:10.960] je cite, « un nombre élevé d'interpellations et de garde à vue, des fouilles et confiscations de
+[00:20:10.960 --> 00:20:16.280] matériel de manifestants, ainsi que des blessures graves causées par un usage disproportionné
+[00:20:16.280 --> 00:20:21.680] d'armes dites non létales, telles que les grenades, et les lanceurs de balles de défense
+[00:20:21.680 --> 00:20:28.280] ou flash ball ». Ils encouragent enfin la France à repenser ses politiques en matière de maintien
+[00:20:28.280 --> 00:20:34.520] de l'ordre. Le Conseil de l'Europe formule une demande encore plus directe. En février 2019,
+[00:20:34.600 --> 00:20:41.480] la commissaire aux droits de l'homme, Dunja Mijatovic, encourage les autorités françaises
+[00:20:41.480 --> 00:20:47.120] à publier les données chiffrées, peu détaillées, sur les blessés et à revoir la doctrine d'emploi
+[00:20:47.120 --> 00:20:52.560] des armes de force intermédiaire. Dans l'attente de cette révision, elle demande de suspendre
+[00:20:52.560 --> 00:20:57.560] l'usage du LBD dans le cadre des opérations de maintien de l'ordre. Si on l'avait écouté,
+[00:20:57.560 --> 00:21:02.600] il y aurait un œil en plus sur la tête d'un gamin. Le Parlement européen reprend le problème
+[00:21:02.600 --> 00:21:08.560] en 2024 selon le de la mesure. Il demande aux États membres de recueillir les données sur tous
+[00:21:08.560 --> 00:21:15.920] les cas de recours à la force afin de documenter l'usage de la force, son mauvais usage, ses
+[00:21:15.920 --> 00:21:22.320] conséquences inattendues, les blessures, les décès et leurs causes. Le même texte vise explicitement
+[00:21:22.320 --> 00:21:27.000] la France. Il souligne que la police française est plus lourdement armée que la plupart de ses
+[00:21:27.000 --> 00:21:33.000] homologues dans l'Union et se dit préoccupée par des arrestations arbitraires lors des manifestations
+[00:21:33.000 --> 00:21:39.240] avec des personnes relâchées après quelques heures sans charge. Ça veut dire qu'on instrumentalise
+[00:21:39.240 --> 00:21:44.920] l'arrestation. Ces textes montrent que les institutions internationales éprouvent le
+[00:21:44.920 --> 00:21:50.520] besoin de demander à la France de documenter son usage de la force dans le cadre des manifestations.
+[00:21:50.520 --> 00:21:56.600] La demande n'a pas d'hier. Ut-elle été entendue que les blessures graves de ces derniers jours
+[00:21:56.600 --> 00:22:02.840] auraient sans doute été évitées ? Dès lors, qui est responsable des mutilations évitables ?
+[00:22:02.840 --> 00:22:09.640] Va-t-on faire porter toute la responsabilité aux agents sur le terrain ? Ce serait un petit
+[00:22:09.640 --> 00:22:15.040] peu lâche. Allez, on va dire que c'est à cause des victimes peut-être. Parlons du mot intermédiaire.
+[00:22:15.040 --> 00:22:22.760] Armement de force intermédiaire. Ça, ça désigne une place dans la gradation de la force. Une arme
+[00:22:22.760 --> 00:22:28.040] employée dans la situation où le recours à l'arme létale n'est pas justifiée, mais où la contrainte
+[00:22:28.040 --> 00:22:33.200] reste jugée nécessaire et proportionnée. L'instruction ministérielle, qu'on assoit les yeux,
+[00:22:33.200 --> 00:22:38.880] sur la grenade de désencerclement, parle de situations intermédiaires et précise que cette
+[00:22:38.880 --> 00:22:44.240] arme n'est ni conçue ni destinée à tuer. Bah c'est bien. Elle ajoute pourtant qu'elle n'en demeure
+[00:22:44.240 --> 00:22:52.640] pas moins une arme, dont il ne faut pas sous-estimer la dangerosité. On a pu le constater. Une revue
+[00:22:52.640 --> 00:23:01.480] systématique de 2017 sur les projectiles à impact cinétique recense des blessés, des incapacités
+[00:23:01.480 --> 00:23:07.800] permanentes et des morts. Les auteurs signalent des biais de publication, de sélection et de
+[00:23:07.800 --> 00:23:14.160] documentation. Ils ajoutent que l'hétérogénéité des études empêche une méta-analyse et ne permet
+[00:23:14.160 --> 00:23:20.160] pas d'estimer précisément la prévalence des blessures et des décès liés à ces armes. Autrement
+[00:23:20.240 --> 00:23:25.840] dit, on constate des mutilations mais on ne dispose pas du dénivelateur qui permettrait de calculer
+[00:23:25.840 --> 00:23:32.720] proprement le risque de partir ou par personne exposée. Comment dans ces conditions évaluer
+[00:23:32.720 --> 00:23:39.560] cette utilisation ? Je vous rappelle qu'on fait des études pour tester si la prière peut sauver
+[00:23:39.560 --> 00:23:44.040] des vies lorsque les gens se font opérer du cœur, mais on ne peut pas financer des études qui vont
+[00:23:44.040 --> 00:23:48.840] vérifier si l'usage de la force dans la rue est justifié. Il y a peut-être un petit problème
+[00:23:49.400 --> 00:23:53.920] dans le financement de la recherche. À ma connaissance, il n'existe pas d'étude évaluée
+[00:23:53.920 --> 00:24:02.320] par les pères portant spécifiquement sur les grenades à soi-disant de française. Pourquoi ? Cette
+[00:24:02.320 --> 00:24:09.800] absence de recul sur un usage pourtant déjà ancien rejoint mon propos principal, où est
+[00:24:09.800 --> 00:24:16.880] l'évaluation scientifique de ces politiques qui nous impacte tous et qui impacte actuellement
+[00:24:16.880 --> 00:24:24.520] nos enfants. Si aucune évaluation d'ampleur ne peut être produite, il devient légitime de parler
+[00:24:24.520 --> 00:24:32.040] d'agnotologie. L'agnotologie, ce n'est pas seulement une ignorance regrettable, c'est une
+[00:24:32.040 --> 00:24:38.800] ignorance organisée. On fait exprès de ne pas savoir, on ne mesure pas, on casse le thermomètre. Ne
+[00:24:38.800 --> 00:24:44.920] pas mesurer, ne pas publier, ne pas construire les données qui permettraient de trancher, c'est aussi
+[00:24:44.920 --> 00:24:51.960] une manière de fuir les responsabilités. Ça permet de présenter comme maîtriser une décision peut-être
+[00:24:51.960 --> 00:24:59.360] dangereuse ou comme exemplaire une doctrine peut-être inefficace. Je fais une parenthèse sur les gaz
+[00:24:59.360 --> 00:25:06.880] lacrymogènes parce que là aussi c'est pas clair. Parmi les outils du maintien de l'ordre se trouvent
+[00:25:06.880 --> 00:25:14.400] des gaz massivement employés, j'en ai eu les hérités il y a quelques jours à ma fenêtre chez moi.
+[00:25:14.400 --> 00:25:22.410] Vous pouvez être exposés à ces gaz largement utilisés si vous êtes un manifestant, si vous
+[00:25:22.410 --> 00:25:27.810] travaillez comme policier ou si vous habitez dans une rue qu'on a gazée, pas de chance. La France
+[00:25:27.810 --> 00:25:36.530] utilise le CS ou deux chlorobenzilène malononitrile, je n'ai pas révisé ma biologie
+[00:25:36.530 --> 00:25:43.650] organique, ma chimie organique. Elle utilise donc cette molécule dans les moyens lacrymogènes.
+[00:25:43.650 --> 00:25:49.650] Le ministère de l'Intérieur reconnaît lui-même que d'autres pays utilisent d'autres molécules
+[00:25:49.650 --> 00:25:55.130] actives comme l'Océ ou le Pava. Il faut donc éviter de parler de gaz lacrymogène comme d'une
+[00:25:55.130 --> 00:26:02.570] catégorie uniforme. Le dossier d'Alexander Sammel et d'André Picot, qui est sous vos yeux, publié
+[00:26:02.570 --> 00:26:08.530] par l'association toxicologie chimie de Paris, soutient que la molécule utilisée en France peut
+[00:26:08.530 --> 00:26:15.850] produire des effets toxiques et à plus long terme, notamment par métabolisation avec libération de
+[00:26:15.850 --> 00:26:22.290] cyanure. Il insiste sur les expositions répétées, les fortes doses, les personnes vulnérables,
+[00:26:22.290 --> 00:26:28.730] les policiers exposés régulièrement, les manifestants, les riverains et les quartiers gazés. Sa conclusion,
+[00:26:28.730 --> 00:26:36.090] politique et nette, les gouvernements qui utilisent le CS doivent prendre les décisions contraignantes
+[00:26:36.410 --> 00:26:43.410] de protection de la santé publique. Moi, j'ai vu de mes yeux, dans ma rue, la cour de l'école primaire
+[00:26:43.410 --> 00:26:51.290] envahie par les gaz. Ça m'a un petit peu dérangé. Le ministère conteste la portée de ce dossier,
+[00:26:51.290 --> 00:26:57.450] pourquoi pas, il affirme, et c'est vrai qu'il ne s'agit pas d'une étude clinique sur les effets du CS chez
+[00:26:57.450 --> 00:27:01.290] l'homme et d'une synthèse bibliographique, oui mais bon il y avait des coûts, peut-être que ça vaut le coup
+[00:27:02.290 --> 00:27:09.010] Il insiste sur la faible toxicité du CS, sur le caractère généralement réversible des symptômes et
+[00:27:09.010 --> 00:27:14.210] sur l'absence de remontées significatives chez les policiers exposés. Pas sûr que les policiers soient
+[00:27:14.210 --> 00:27:21.690] incités fortement à parler, il n'y a qu'à voir les témoignages au parlement actuellement de policiers
+[00:27:21.690 --> 00:27:27.850] qui témoignent qu'on les a blacklistés et qu'on les a menacés lorsqu'ils relevaient des comportements
+[00:27:27.850 --> 00:27:33.850] anormaux. Si le ministère a raison, c'est super, alors on attend qu'il publie les données sanitaires
+[00:27:33.850 --> 00:27:39.610] qui permettent de vérifier qu'il a bien raison. S'il a raison, il n'a rien à cacher. Où sont les données ?
+[00:27:39.610 --> 00:27:47.170] La littérature médicale ne permet pas de balayer le sujet en fait. Une revue systématique consacrée
+[00:27:47.170 --> 00:27:53.970] au CS rapporte des effets durables et des situations menaçant la vie avec des risques particuliers
+[00:27:53.970 --> 00:28:01.010] en espaces clos et un besoin de meilleure surveillance des personnes exposées. Une autre revue
+[00:28:01.010 --> 00:28:07.650] systématique sur les irritants chimiques utilisés en maintien de l'ordre recense 5131 personnes
+[00:28:07.650 --> 00:28:14.810] blessées dans 31 études, 2 décès et 58 incapacités permanentes et identifie comme facteur aggravant les
+[00:28:14.810 --> 00:28:21.530] espaces clos, les expositions prolongées et les quantités élevées d'agents chimiques. À la lumière
+[00:28:21.530 --> 00:28:28.250] de ces travaux, on aimerait que l'Etat étudie de près l'usage de ces produits et nous garantisse
+[00:28:28.250 --> 00:28:34.170] à nous citoyens que tout est mis en place pour éviter les dommages aux personnes. Et on en est
+[00:28:34.170 --> 00:28:42.370] loin. C'est l'opacité qui règne. Un État qui sature des rues, des abords de lycée ou des places
+[00:28:42.370 --> 00:28:50.810] publiques avec un agent chimique irritant doit documenter les expositions qu'il impose. Si j'adore
+[00:28:50.810 --> 00:28:58.170] dit au moins. Petite conclusion, la doctrine française, elle demande à être jugée sur sa promesse,
+[00:28:58.170 --> 00:29:04.770] maintenir l'ordre, protéger les personnes, limiter les blessures, préserver le droit de manifester et
+[00:29:04.770 --> 00:29:13.010] éviter aux agents le contact direct avec des groupes violents. Cette promesse, elle était stable. Si
+[00:29:13.010 --> 00:29:20.010] les LBD, les grenades, les NAS, les charges, les tirs lancémogènes et les intervérations massives
+[00:29:20.210 --> 00:29:27.250] réduisent le dommage total, l'Etat peut produire les données qui le montrent. Il doit le faire. Si
+[00:29:27.250 --> 00:29:33.530] ces outils ajoutent des mutilations, de la défiance et de l'escalade sans bénéfice des montrés,
+[00:29:33.530 --> 00:29:39.930] l'Etat doit le savoir. Il va le dire et il doit changer de doctrine. Les connaissances disponibles
+[00:29:39.930 --> 00:29:46.810] ne permettent pas de calculer proprement l'effet net de cette doctrine. Nous n'avons pas de comparaison
+[00:29:46.810 --> 00:29:54.010] robuste, à contexte égal entre un dispositif avec LBD et grenades et une doctrine alternative. Nous
+[00:29:54.010 --> 00:29:59.970] n'avons pas de taux public de blessures graves par tir, par grenade, par interpellation, par unité
+[00:29:59.970 --> 00:30:07.770] engagée ou par type d'opération. Cette ignorance, presque organisée, elle n'y sent pas la doctrine,
+[00:30:07.770 --> 00:30:14.170] elle accuse l'absence d'évaluation. Nous savons que les armes intermédiaires peuvent mutiler,
+[00:30:14.170 --> 00:30:20.810] on l'a vu. Nous savons aussi, grâce aux travaux sur les foules, qu'une contrainte perçue comme
+[00:30:20.810 --> 00:30:28.570] collective opaque ou injuste peut souder des personnes qui n'étaient pas solidaires au départ et rendre
+[00:30:28.570 --> 00:30:34.650] l'action policière moins légitime aux yeux du groupe. Les institutions internationales demandent
+[00:30:34.650 --> 00:30:41.810] depuis des années à la France de documenter l'usage de la force, les blessures, interpellation et les
+[00:30:41.810 --> 00:30:49.650] décès. L'alternative à la doctrine actuelle ne consiste pas à laisser brûler les lycées ni
+[00:30:49.650 --> 00:30:55.250] à exposer les agents encore à corps. Une doctrine plus respectueuse du droit de manifester ne signifie
+[00:30:55.250 --> 00:31:02.210] pas l'absence de police, elle signifie préparation au rassemblement, dialogue avec les organisateurs,
+[00:31:02.210 --> 00:31:09.890] communication lisible, voie de sortie, distinction entre manifestants et auteurs des violences. Force
+[00:31:10.010 --> 00:31:15.610] ciblée, soit le comportement précis, traçabilité des tirs, qu'on sache qui a tiré quoi ou comment,
+[00:31:15.610 --> 00:31:22.050] identification des unités, enquête indépendante et conséquence réelle quand la force publique
+[00:31:22.050 --> 00:31:31.330] blesse ou mutile. Tout ça, c'est connu, mais c'est ignoré. Une force publique démocratique elle
+[00:31:31.330 --> 00:31:36.050] doit prouver que ses choix protègent davantage qu'ils ne détruisent. Après un travail de
+[00:31:36.050 --> 00:31:42.890] documentation, vous constatez comme moi qu'au delà des violences et des blessures, on a un
+[00:31:42.890 --> 00:31:48.650] problème qui est structurel. L'absence des études qui permettraient de juger sérieusement la doctrine,
+[00:31:48.650 --> 00:31:54.170] ces évaluations ne sont pas arché compliquées, elles sont interportées, il suffirait de financer
+[00:31:54.170 --> 00:31:59.970] quelques travaux, c'est coûte moins cher que d'équiper les policiers comme des robocops. Tant
+[00:31:59.970 --> 00:32:05.730] que ces évaluations ne sont pas produites, personne ne peut présenter la doctrine française comme
+[00:32:05.730 --> 00:32:11.530] rationnellement établie. Si un ministre vient nous dire qu'il a raison d'agir comme il agit,
+[00:32:11.530 --> 00:32:18.690] soit il nous ment, soit il nous cache des choses. Le bénéfice du doute ne peut pas plaider en faveur
+[00:32:18.690 --> 00:32:25.050] de la force armée qui refuse l'audit de ses résultats. L'approche rationnelle de cette question
+[00:32:25.050 --> 00:32:31.890] amène logiquement à exiger des responsables qu'ils fassent publier les travaux indépendants,
+[00:32:31.890 --> 00:32:40.130] à partir desquels on pourra justifier la doctrine actuelle ou œuvrer intelligemment à son évolution.

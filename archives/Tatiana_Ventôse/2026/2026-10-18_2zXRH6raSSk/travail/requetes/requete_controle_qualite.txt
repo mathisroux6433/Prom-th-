@@ -1,0 +1,380 @@
+Effectue un contrôle qualité documentaire de la synthèse ci-dessous.
+
+Compare-la uniquement à l'index et à la transcription corrigée archivés. N'effectue aucun fact-checking externe. Contrôle les chiffres, dates, pourcentages, populations statistiques, inversions de sens, raisonnements déformés, attributions, horodatages, citations exactes, arguments importants omis et la cohérence avec l'index.
+
+Corrige seulement les erreurs confirmées par les sources. Ne réécris pas inutilement les passages conformes. Si une incertitude ne peut pas être tranchée, conserve la formulation prudente. Retourne uniquement un objet JSON strict suivant cette structure :
+{
+  "schema_version": "1.0",
+  "video_id": "2zXRH6raSSk",
+  "verdict": "conforme ou corrigee",
+  "problems": [
+    {
+      "category": "chiffre|date|population|sens|attribution|horodatage|citation|omission|coherence",
+      "severity": "mineure|importante|critique",
+      "description": "problème constaté",
+      "source_evidence": "preuve précise tirée des sources archivées",
+      "timestamp": "HH:MM:SS ou chaîne vide",
+      "correction": "correction effectuée ou recommandée"
+    }
+  ],
+  "revised_synthesis": "texte Markdown intégral, ou @file:nom_du_fichier.md"
+}
+
+Le champ revised_synthesis doit toujours contenir le document Markdown complet : corrigé si nécessaire, sinon identique. Pour une synthèse très longue, il peut contenir `@file:nom_du_fichier.md` et le fichier Markdown doit être placé à côté du JSON de réponse ; seuls les noms de fichiers simples sont acceptés. Le verdict vaut "conforme" si aucune correction n'est requise, "corrigee" si des corrections ont été appliquées.
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "2zXRH6raSSk",
+  "title": "Après le 17 octobre",
+  "channel": "Tatiana Ventôse",
+  "channel_id": "UC0cT8BZdFUmC0vgr1XS7aPA",
+  "upload_date": "20261018",
+  "duration_seconds": 914,
+  "webpage_url": "https://www.youtube.com/watch?v=2zXRH6raSSk",
+  "description": "📕 C O M M A N D E R  M O N   L I V R E 📘\nhttps://lefildactueditions.com\n\n⤵️  S O U T E N I R   M O N   T R A V A I L ⤵️\nhttps://www.tipeee.com/tatiana-ventose\n\n🛎 S ' A B O N N E R 🛎\nhttps://www.youtube.com/channel/UC0cT8BZdFUmC0vgr1XS7aPA/?sub_confirmation=1\n\n🐾  I N S T A  : https://www.instagram.com/tatianaventose/\n\n🐾  T W I T T E R : https://twitter.com/TatianaVentose\n\n🐾  F A C E B O O K : https://www.facebook.com/Tatiana-Ventôse-1949154848644734\n\n🐾 T I K T O K : https://www.tiktok.com/@tatianaventose\n\n🐾 T E L E G R A M : https://t.me/joinchat/Tx1JTVD-5-jJyAMC\n\n🎙 M E S  V I D É O S   F O R M A T   P O D C A S T 🎙\nhttps://podcast.ausha.co/tatiana-ventose-le-podcast\n\nC R É D I T S\nGénériques : Yohann Delozier & Tatiana Ventôse, 2026\nMontage et réalisation : Tatiana Ventôse, 2026",
+  "language": "fr-FR"
+}
+
+SYNTHÈSE À RELIRE :
+# Après le 17 octobre
+
+- **Chaîne :** Tatiana Ventôse
+- **Date :** 18 octobre 2026
+- **Durée :** 15 min 14 s
+- **URL :** https://www.youtube.com/watch?v=2zXRH6raSSk
+
+## Objet et thèse
+
+Au lendemain du 17 octobre, Tatiana Ventôse livre une réaction aux pillages et émeutes. Elle attribue la crise à une combinaison d'impunité, d'échec sécuritaire, de récupération par la gauche et de calcul du pouvoir. Elle réclame une réponse pénale et institutionnelle très ferme ainsi qu'une élection présidentielle anticipée.
+
+## Responsabilités désignées
+
+L'autrice affirme d'abord que des groupes commettent crimes et délits avec un sentiment d'impunité, phénomène qui se serait étendu des banlieues aux centres-villes ([0:00](https://www.youtube.com/watch?v=2zXRH6raSSk&t=0s)). Elle met ensuite en cause des responsables de gauche qui excuseraient ou instrumentaliseraient les violences, tout en opposant leurs électorats urbains aux catégories populaires productives ([2:01](https://www.youtube.com/watch?v=2zXRH6raSSk&t=121s)).
+
+Elle cite enfin l'insuffisance des effectifs et moyens policiers, puis soupçonne le pouvoir d'avoir laissé se former un contexte explosif ou d'en tirer avantage avant 2027 ([4:00](https://www.youtube.com/watch?v=2zXRH6raSSk&t=240s)). Ces imputations sont présentées comme son analyse ; l'archive n'établit pas une intention gouvernementale.
+
+## Mesures proposées
+
+La vidéo avance des mesures coercitives : restauration de l'ordre, sanctions pénales, expulsions d'étrangers condamnés et déchéance de nationalité pour certains binationaux impliqués dans des crimes ou délits ([8:00](https://www.youtube.com/watch?v=2zXRH6raSSk&t=480s)). Pour les seuls nationaux français, elle demande l'application de peines et un changement de politique carcérale et judiciaire.
+
+Elle souhaite aussi rompre avec ce qu'elle appelle la « culture de l'excuse » et récuse toute récupération électorale des émeutiers ([10:01](https://www.youtube.com/watch?v=2zXRH6raSSk&t=601s)). Ces propositions normatives ne sont pas accompagnées d'une analyse juridique détaillée.
+
+## Issue politique
+
+Tatiana Ventôse renouvelle son appel à une présidentielle anticipée afin que les citoyens choisissent une nouvelle direction ([12:05](https://www.youtube.com/watch?v=2zXRH6raSSk&t=725s)). La conclusion transforme la « résilience » en appel à l'action et à une « libération nationale » ([14:02](https://www.youtube.com/watch?v=2zXRH6raSSk&t=842s)). La vidéo se situe donc moins dans l'analyse exhaustive des faits que dans la réaction politique et la formulation d'un programme d'ordre et de souveraineté.
+
+
+INDEX DOCUMENTAIRE :
+{
+  "arguments_positions": [
+    {
+      "position": "Les émeutes résultent d'impunité, d'échec sécuritaire et d'excuses politiques",
+      "horodatages": [
+        "00:00:00",
+        "00:02:01"
+      ]
+    },
+    {
+      "position": "Une réponse pénale et migratoire très ferme est nécessaire",
+      "horodatages": [
+        "00:08:00",
+        "00:10:01"
+      ]
+    },
+    {
+      "position": "Une présidentielle anticipée doit permettre un changement de direction",
+      "horodatages": [
+        "00:12:05"
+      ]
+    }
+  ],
+  "citations_exactes": [],
+  "concepts": [
+    {
+      "nom": "culture de l'excuse",
+      "horodatages": [
+        "00:10:01"
+      ]
+    },
+    {
+      "nom": "libération nationale",
+      "horodatages": [
+        "00:14:02"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "17 octobre 2026",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "nom": "élection présidentielle anticipée",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:12:05"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "restauration de l'ordre",
+      "horodatages": [
+        "00:08:00"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "émeutes",
+    "impunité",
+    "police",
+    "gauche",
+    "expulsion",
+    "déchéance de nationalité",
+    "présidentielle"
+  ],
+  "organismes": [
+    {
+      "nom": "police",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:04:00"
+      ]
+    }
+  ],
+  "personnes": [],
+  "relations_documentaires": [
+    {
+      "source": "sous-effectifs policiers",
+      "relation": "aggravent selon l'autrice",
+      "cible": "désordre public",
+      "horodatages": [
+        "00:04:00"
+      ]
+    },
+    {
+      "source": "présidentielle anticipée",
+      "relation": "doit permettre",
+      "cible": "nouvelle orientation nationale",
+      "horodatages": [
+        "00:12:05"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:04:00",
+      "titre": "Responsabilités sociales et politiques"
+    },
+    {
+      "debut": "00:04:00",
+      "fin": "00:08:00",
+      "titre": "Échec sécuritaire et pouvoir"
+    },
+    {
+      "debut": "00:08:00",
+      "fin": "00:12:00",
+      "titre": "Mesures pénales et migratoires"
+    },
+    {
+      "debut": "00:12:00",
+      "fin": "00:15:14",
+      "titre": "Présidentielle et libération nationale"
+    }
+  ],
+  "resume_general": "Réaction politique au 17 octobre attribuant les violences à l'impunité et réclamant fermeté pénale, mesures migratoires et présidentielle anticipée.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "moyens policiers",
+      "horodatages": [
+        "00:04:00"
+      ]
+    },
+    {
+      "sujet": "récupération électorale",
+      "horodatages": [
+        "00:11:04"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "ordre public",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "theme": "sortie de crise institutionnelle",
+      "horodatages": [
+        "00:12:05"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "émeutiers",
+      "variantes": [
+        "délinquants",
+        "criminels"
+      ]
+    }
+  ],
+  "video_id": "2zXRH6raSSk"
+}
+
+
+TRANSCRIPTION CORRIGÉE :
+[00:00:00.000 --> 00:00:29.250] Bienvenue dans la France libre. Chers amis, bonjour. Vous avez vu les images qu'il est inutile de
+[00:00:29.250 --> 00:00:35.730] commenter. Il convient en revanche d'en tirer des observations pour proposer des solutions à un
+[00:00:35.730 --> 00:00:41.090] problème dont les émeutes du 17 octobre ne sont qu'un symptôme. C'est ce que je vais tâcher de
+[00:00:41.090 --> 00:00:45.930] faire de manière aussi concise que possible, une fois n'est pas coutume, dans cette vidéo.
+[00:00:45.930 --> 00:00:52.650] D'abord les observations fondées sur l'évolution de la situation politique de la France depuis des
+[00:00:52.650 --> 00:00:57.130] années, que je commente depuis des années d'ailleurs, plusieurs éléments à cet égard.
+[00:00:57.130 --> 00:01:04.890] Première observation, notre pays est régulièrement attaqué par des populations qui commettent des
+[00:01:04.890 --> 00:01:10.010] crimes et des délits en toute impunité. D'abord confinés aux banlieues, ce problème a fait tâche
+[00:01:10.010 --> 00:01:17.130] d'huile et à chaque série d'émeutes, tout cela va de plus en plus loin, littéralement comme
+[00:01:17.130 --> 00:01:24.470] métaphoriquement, jusque dans les centres-villes. Parmi ces émeutiers, une immense majorité de
+[00:01:24.470 --> 00:01:30.690] populations arabo-musulmanes, quelles que soient leur statut et leur nationalité française ou non,
+[00:01:30.690 --> 00:01:36.850] et il serait absurde à ce stade de nier qu'une grande partie du problème provient de l'absence
+[00:01:36.850 --> 00:01:43.170] de contrôle sur nos flux migratoires, dont les chiffres explosent depuis le début des années 2000
+[00:01:43.170 --> 00:01:48.370] et augmentent d'année en année. Il ne s'agit évidemment pas là de jeter la pierre à nos
+[00:01:48.370 --> 00:01:53.530] concitoyens d'origine étrangère, qui trouvent cet état de fait aussi insupportable que tout un chacun,
+[00:01:53.530 --> 00:02:01.170] mais de souligner les faits qui refusent aujourd'hui de voir cela et de l'acter,
+[00:02:01.170 --> 00:02:08.430] se rend complices de la situation. Deuxième point, les responsables de la gauche, qui,
+[00:02:08.430 --> 00:02:14.810] rejetés par la majorité des français, voient dans ces populations banlieusardes immigrer un
+[00:02:14.810 --> 00:02:23.450] réservoir d'électeurs, a encouragé et encourage la casse et les meutes, tout en prétendant que les
+[00:02:23.450 --> 00:02:29.730] auteurs de ces crimes et délits seraient des victimes de la France, des français, du système,
+[00:02:29.730 --> 00:02:34.490] de l'état fasciste, raciste. Vous pouvez insérer les mots qui vont bien. Cependant,
+[00:02:34.490 --> 00:02:39.770] leur énième tentative de récupération d'un mouvement de racailles, pour en faire le sujet
+[00:02:39.770 --> 00:02:46.210] politique d'une révolution prétendument lycéenne ces dernières semaines, s'est retourné contre eux
+[00:02:46.210 --> 00:02:53.890] et ils ont fini par être dépassés par leur propre légion et section d'assaut. Une partie d'entre
+[00:02:53.890 --> 00:02:59.570] a fini par les désavouer mais bien trop tard et l'autre partie s'est enfoncée en ne condamnant
+[00:02:59.570 --> 00:03:05.650] même pas les violences. Parmi les électeurs de cette gauche, on trouve des populations de
+[00:03:05.650 --> 00:03:12.210] fonctionnaires et d'étudiants petit-bourgeois, c'est l'autre versant de leurs électeurs, qui appuient
+[00:03:12.210 --> 00:03:19.730] là aussi les émeutes car ils confondent le chaos et le pillage avec une révolution qu'ils appellent
+[00:03:20.290 --> 00:03:26.210] Cette confusion entre désordre et révolution, entre violence et révolution est extrêmement
+[00:03:26.210 --> 00:03:33.610] dangereuse puisque à ce compte là, ils vont pouvoir justifier que n'importe quel crime est commis au
+[00:03:33.610 --> 00:03:39.210] nom de la révolution. Et ce ne serait pas grave s'il ne s'agissait pas de responsables et de militants
+[00:03:39.210 --> 00:03:45.210] politiques qui se prétendent éclairer et qui prétendent nous apporter des solutions au problème
+[00:03:46.130 --> 00:03:53.370] Troisième observation, au dessus de cela, la macronie au pouvoir qui laisse faire et qui à sa
+[00:03:53.370 --> 00:04:00.250] manière encourage également le chaos en France. En effet, toutes les informations qui nous remontent
+[00:04:00.250 --> 00:04:06.250] font état de policiers en sous-effectifs pour gérer les émeutes, qui manquent de munitions,
+[00:04:06.250 --> 00:04:13.570] de matériel, qui ont ordre de laisser faire voire carrément une absence totale de force de
+[00:04:13.570 --> 00:04:19.290] l'ordre dans des zones pourtant identifiées comme des zones à risque. On le voit, les effectifs
+[00:04:19.290 --> 00:04:25.890] déployés pour cette soirée du 17 octobre sont très très loin de ceux qui ont été déployés
+[00:04:25.890 --> 00:04:34.050] contre les gilets jaunes en 2018, ce qui laisse à penser à minima que le pouvoir n'a strictement
+[00:04:34.050 --> 00:04:41.250] aucune volonté de maintenir la sécurité des personnes, des bâtiments et des biens dans ce
+[00:04:41.250 --> 00:04:48.530] pays. Au delà du problème immédiat de la gestion de crise, ce même pouvoir macroniste qui organise
+[00:04:48.530 --> 00:04:55.490] l'entrée massive de migrants sur notre sol tout en refusant aussi bien toute politique d'assimilation
+[00:04:55.490 --> 00:05:02.330] que toute punition pour ceux qui contreviendraient à la loi française, quoiqu'ils en disent, contribuent
+[00:05:02.330 --> 00:05:08.930] à créer ce contexte explosif et le pouvoir à la lumière de ce que nous avons comme élément
+[00:05:08.930 --> 00:05:15.050] aujourd'hui ne semble pas vouloir changer de direction à cet égard. Le pouvoir macroniste est
+[00:05:15.050 --> 00:05:22.330] donc coupable de créer le terrain favorable et de planter la graine que les dirigeants de gauche
+[00:05:22.330 --> 00:05:28.650] se chargent ensuite d'arroser. Et autour de ce cirque évidemment la majorité des français,
+[00:05:28.650 --> 00:05:34.010] les producteurs de richesses habitants de la France périphérique, absents aussi bien des
+[00:05:34.010 --> 00:05:41.890] manifestations que des émeutes, réduits au silence par le désordre permanent provoqué à la fois
+[00:05:41.890 --> 00:05:48.770] par la classe dirigeante et ces idiots utiles qui tous occupent le terrain avec leur forfaiture.
+[00:05:48.770 --> 00:05:54.250] Dans ce contexte, cette immense majorité des français reste silencieuse, assistant,
+[00:05:54.250 --> 00:06:01.330] impuissante au véritable saccage de notre pays, attendant pour s'exprimer le seul moment qui lui
+[00:06:01.330 --> 00:06:07.610] est encore laissé pour se faire la prochaine élection présidentielle. Néanmoins, au regard
+[00:06:07.610 --> 00:06:12.370] des événements de la nuit dernière qui ont fait monter d'un nouveau cran le degré de violence dans
+[00:06:12.370 --> 00:06:18.970] notre pays, qui ont témoigné de l'incapacité de ceux qui nous gouvernent à maintenir la paix
+[00:06:18.970 --> 00:06:25.450] civile et la sécurité la plus élémentaire des français, avril 2027 nous apparaît désormais
+[00:06:25.450 --> 00:06:30.930] comme une date bien trop éloignée. En effet ce laps de temps risquerait de donner l'occasion aux
+[00:06:30.930 --> 00:06:36.770] forces du désordre de provoquer des tensions insoutenables pour la France et de nous faire
+[00:06:36.770 --> 00:06:43.530] sombrer dans une situation disons-le d'une forme de guerre civile, sans retour en arrière possible
+[00:06:43.530 --> 00:06:50.570] et faisant de surcroît la France une proie possible pour toutes les ingérences étrangères, militaires
+[00:06:50.570 --> 00:06:58.250] aussi bien que civils. C'est pourquoi la nécessité immédiate commande que les français, tous les
+[00:06:58.290 --> 00:07:04.530] français et pas uniquement les manifestants et les émeutiers puissent faire entendre leur voix et
+[00:07:04.530 --> 00:07:11.610] puissent décider dès que possible d'une nouvelle direction à prendre pour le pays que visiblement
+[00:07:11.610 --> 00:07:17.210] les forces au pouvoir ne sont absolument pas capables de gérer. J'appelle donc ici à la
+[00:07:17.210 --> 00:07:21.850] démission d'Emmanuel Macron de son poste de président de la république et à la convocation
+[00:07:21.850 --> 00:07:27.530] d'une élection présidentielle anticipée qui devra se tenir le plus tôt possible et dans tous
+[00:07:27.530 --> 00:07:33.970] les cas avant la fin de l'année 2026. Ça c'est pour la réponse politique immédiate. En parallèle,
+[00:07:33.970 --> 00:07:41.410] il conviendra d'engager immédiatement un processus de décolonisation de la France vis-à-vis de tous
+[00:07:41.410 --> 00:07:48.210] ceux qui lui veulent ou lui causent du mal. J'entends par là plusieurs actions à prendre dès
+[00:07:48.210 --> 00:07:54.450] la démission du président par le pouvoir intérimaire. Premièrement l'expulsion immédiate et sans appel
+[00:07:54.450 --> 00:08:00.610] de tous les fauteurs de troubles qui n'ont pas la nationalité française. Deuxièmement en ce qui
+[00:08:00.610 --> 00:08:06.570] concerne les binationaux, il faudra les déchoir de leur nationalité française et les expulser
+[00:08:06.570 --> 00:08:12.730] immédiatement aux mêmes conditions que celles qui concernent les criminels non français. Pour ce
+[00:08:12.730 --> 00:08:18.970] qui concerne le cas particulier des émeutiers ayant attaqué des bâtiments institutionnels comme
+[00:08:18.970 --> 00:08:24.570] la mairie de Marseille ou de Limoges ou militaires comme la caserne de la Place de la République à
+[00:08:24.570 --> 00:08:30.410] Paris et qui l'ont fait en brandissant des drapeaux étrangers ou en affirmant le faire au nom de
+[00:08:30.410 --> 00:08:36.130] puissances étrangères, il faudra les considérer comme s'étant eux-mêmes déclarés suppos de
+[00:08:36.130 --> 00:08:43.090] puissance ennemie de la France. Ils devront donc être jugés et traités non comme des civils qui
+[00:08:43.090 --> 00:08:49.050] ont commis des actes de délinquance ou des crimes mais comme des soldats ennemis attaquant
+[00:08:49.050 --> 00:08:54.370] les institutions et l'armée française. Il faudra donc qu'ils soient jugés par des tribunaux
+[00:08:54.370 --> 00:09:00.010] militaires établis pour l'occasion et dissous une fois ces jugements terminés. Troisièmement,
+[00:09:00.010 --> 00:09:06.410] concernant tous les délinquances et criminels n'ayant que la nationalité française et qui
+[00:09:06.410 --> 00:09:13.330] constitue dès lors le problème exclusif de la France, il faudra des condamnations automatiques
+[00:09:13.330 --> 00:09:19.610] aux travaux forcés avec rétablissement de bagnes dès lors que ces personnes auront participé aux
+[00:09:19.610 --> 00:09:25.570] émeutes. Ces trois mesures permettront à la fois de punir les émeutiers donc d'apporter une réponse
+[00:09:25.570 --> 00:09:31.770] immédiate au problème des émeutes mais aussi plus largement de commencer pour une bonne part le
+[00:09:31.770 --> 00:09:38.090] nettoyage de nos quartiers dits sensibles puisque l'immense majorité des pillards semble
+[00:09:38.090 --> 00:09:44.410] d'en être issus. La fin de ce nettoyage devra être conduite à moyen terme afin de récupérer tout
+[00:09:44.410 --> 00:09:49.930] ce que l'on peut considérer comme territoire perdu de la république qu'il s'agisse d'avenues en plein
+[00:09:49.930 --> 00:09:55.850] centre ville ou de quartiers de banlieue de métropole afin d'en expurger les trafiquants,
+[00:09:55.850 --> 00:10:01.650] dealers et autres délinquants ou criminels qui y opèrent grâce au laxisme des pouvoirs publics
+[00:10:01.650 --> 00:10:08.570] et soutenu par la culture de l'excuse propre à la gauche. Pour mener à bien tout cela je suggère
+[00:10:08.570 --> 00:10:14.650] de mobiliser toutes les forces dont nous pourrions disposer aussi bien civils que militaires,
+[00:10:14.650 --> 00:10:22.410] aussi bien professionnels que volontaires et ce dans le but d'identifier, de repérer et d'arrêter
+[00:10:22.410 --> 00:10:29.570] partout où il se cache tous les délinquants et criminels français et non français ayant participé
+[00:10:29.570 --> 00:10:36.330] à ces émeutes afin de les punir de la manière adéquate selon leur statut évoqué plus haut. Dans
+[00:10:36.330 --> 00:10:41.410] cette optique je suggère de mettre à contribution tous les français qui le souhaitent pour les
+[00:10:41.410 --> 00:10:46.570] opérations de repérage et d'identification notamment sur les réseaux sociaux et les sites
+[00:10:46.570 --> 00:10:52.850] de revente de seconde main de ceux qui étalent leur butin ou se vante de leurs
+[00:10:52.850 --> 00:10:59.890] exactions voire poste des vidéos d'eux en train de commettre des délits ou des crimes et Dieu sait
+[00:10:59.890 --> 00:11:04.050] qu'ils sont nombreux. Enfin je voudrais dire un mot concernant les responsables de gauche qui ont
+[00:11:04.050 --> 00:11:10.330] tenté de faire de l'arracaille menant des émeutes un sujet politique à la seule fin de gagner des
+[00:11:10.330 --> 00:11:16.130] voix aux élections. Nombreuses aujourd'hui sont les voix qui s'élèvent pour demander l'interdiction
+[00:11:16.130 --> 00:11:22.010] de la France Insoumise ou d'autres organisations de gauche radicale en tant qu'organisation politique.
+[00:11:22.010 --> 00:11:27.610] Je comprends bien entendu la colère à l'encontre de tous ceux qui attisent les flammes et qui se
+[00:11:27.610 --> 00:11:33.810] font les ennemis de la France mais je ne suis pas partisane d'une quelconque censure car cela leur
+[00:11:33.810 --> 00:11:40.410] permettrait de se présenter comme des victimes persécutées par un pouvoir fasciste. S'il faut
+[00:11:40.410 --> 00:11:46.650] évidemment punir ceux qui ont tenu des propos tombant sous le coup de la loi ou ceux qui ont
+[00:11:46.650 --> 00:11:53.930] commis des crimes je pense qu'il faut toutefois les laisser se présenter afin que le peuple français
+[00:11:53.930 --> 00:11:59.930] leur inflige l'humiliation qu'ils méritent aux élections. Le peuple français sait ce qui est
+[00:11:59.930 --> 00:12:05.370] bon pour la France et il sait reconnaître ses ennemis aussi bien de l'intérieur que de l'extérieur.
+[00:12:05.370 --> 00:12:10.010] C'est pourquoi je conclurai cette vidéo en renouvelant mon appel à une élection présidentielle
+[00:12:10.010 --> 00:12:15.690] anticipée. Quand la France est en mauvaise posture, quand ces prétendues élites ne gèrent
+[00:12:15.690 --> 00:12:24.050] absolument plus rien et laissent la France sombrer, seul le peuple peut la sauver. Seul le peuple est
+[00:12:24.050 --> 00:12:30.810] légitime à décider. Je terminerai sur cette image de Limoges. De toutes les villes saccagées le 17
+[00:12:30.810 --> 00:12:36.330] octobre, c'est Limoges qui d'habitude ne fait jamais parler d'elle qui est devenue avec son
+[00:12:36.330 --> 00:12:42.210] hôtel de ville classé monument historique détruit à jamais sous les rires des émeutiers le symbole
+[00:12:42.210 --> 00:12:49.450] impossible à ignorer du chaos qui a fini par atteindre la France profonde. Limoges dont beaucoup
+[00:12:49.450 --> 00:12:54.890] qui la fréquentent et dont je suis savent qu'elle n'était déjà plus depuis longtemps la petite
+[00:12:54.890 --> 00:13:00.450] ville tranquille où l'on envoyait les fonctionnaires comme dans un placard pour les limogés mais dont
+[00:13:00.450 --> 00:13:04.770] les deux grandes avenues qui portent ironie du sort les noms des deux plus grands libérateurs
+[00:13:04.770 --> 00:13:11.170] de la France, Leclerc et Delattre de Tassini sont devenus des dépotoires africanisés où l'on ne
+[00:13:11.170 --> 00:13:17.290] peut plus se promener tranquille. Limoges, la plus grande ville du Limousin où je vis, a montré au
+[00:13:17.290 --> 00:13:23.570] monde entier ce qu'est devenu la France. Mais si l'image a choqué au delà de nos frontières c'est
+[00:13:23.570 --> 00:13:29.530] peut-être aussi parce que Limoges porte en elle quelque chose du peuple français tout entier. De
+[00:13:29.530 --> 00:13:36.770] sa mise à sac par le prince noir en 1370 à laquelle elle a survécu et fut reconstruite jusqu'à sa
+[00:13:36.770 --> 00:13:43.370] libération en 1944 par la seule force de ses habitants et du maquis du Limousin, premier maquis
+[00:13:43.370 --> 00:13:49.730] de France, Limoges qui n'a attendu l'aide de personne pour se libérer, Limoges incarne le
+[00:13:49.730 --> 00:13:56.450] coeur de la France, notre capacité nationale à surmonter les épreuves que nous envoie le temps et
+[00:13:56.450 --> 00:14:02.290] l'histoire. Limoges qui vit en silence heureuse d'être oublié du monde jusqu'au jour où la
+[00:14:02.290 --> 00:14:08.610] nécessité commande que cette tranquille résilience se transmute en action de libération nationale.
+[00:14:08.610 --> 00:14:15.250] Dans l'histoire, Limoges n'a pas fait défaut et la France non plus. C'est pourquoi, contrairement
+[00:14:15.250 --> 00:14:21.570] à certains pessimistes, je garde une entière confiance dans mon pays. Samedi 17 octobre Limoges
+[00:14:21.570 --> 00:14:26.970] s'est rappelé à tous ceux dont le coeur est français et si tous ces cœurs saignent aujourd'hui,
+[00:14:26.970 --> 00:14:34.610] nous portons en nous cette conviction profonde et inébranlable que même incendiés par tous
+[00:14:34.610 --> 00:14:41.570] les princes noirs de la terre, même occupés par des forces hostiles, même réduites au silence par
+[00:14:41.570 --> 00:14:48.250] le plus malfaisant des pouvoirs, Limoges et la France se relèvent toujours. Il suffit pour cela
+[00:14:48.250 --> 00:14:55.450] que son peuple décide pour lui-même. Élection, décolonisation. Vive la France libre.

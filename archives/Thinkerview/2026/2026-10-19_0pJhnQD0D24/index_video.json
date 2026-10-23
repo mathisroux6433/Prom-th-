@@ -1,0 +1,320 @@
+{
+  "arguments_positions": [
+    {
+      "position": "L'objectivité journalistique relève d'une méthode plutôt que d'une neutralité sans point de vue",
+      "horodatages": [
+        "00:01:34",
+        "00:03:16"
+      ]
+    },
+    {
+      "position": "L'accès organisé au pouvoir limite la capacité de relance et de contradiction",
+      "horodatages": [
+        "00:12:25",
+        "00:20:41",
+        "01:48:01"
+      ]
+    },
+    {
+      "position": "La défiance doit être analysée par les méthodes, conditions économiques et rapports de pouvoir",
+      "horodatages": [
+        "00:38:20",
+        "00:45:03"
+      ]
+    }
+  ],
+  "citations_exactes": [
+    {
+      "texte": "Je suis un journaliste de contre-pouvoir.",
+      "horodatage": "00:07:47"
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "objectivité journalistique",
+      "horodatages": [
+        "00:01:53"
+      ]
+    },
+    {
+      "nom": "contre-pouvoir",
+      "horodatages": [
+        "00:07:47"
+      ]
+    },
+    {
+      "nom": "carte de presse",
+      "horodatages": [
+        "00:28:09",
+        "00:35:23"
+      ]
+    },
+    {
+      "nom": "journalisme d'opinion",
+      "horodatages": [
+        "00:15:19"
+      ]
+    },
+    {
+      "nom": "indépendance économique",
+      "horodatages": [
+        "00:45:03",
+        "02:00:03"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "dissolution de l'Assemblée nationale",
+      "niveau": "mention",
+      "horodatages": [
+        "00:12:33"
+      ]
+    },
+    {
+      "nom": "guerres d'Irak et d'Afghanistan",
+      "niveau": "developpe",
+      "horodatages": [
+        "01:20:03"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "terrain contre plateau",
+      "horodatages": [
+        "00:41:43"
+      ]
+    },
+    {
+      "expression": "accès filtré à la parole officielle",
+      "horodatages": [
+        "00:22:00"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:29:25"
+      ]
+    },
+    {
+      "nom": "Biélorussie",
+      "niveau": "mention",
+      "horodatages": [
+        "01:22:01"
+      ]
+    },
+    {
+      "nom": "Irak",
+      "niveau": "mention",
+      "horodatages": [
+        "01:20:03"
+      ]
+    },
+    {
+      "nom": "Afghanistan",
+      "niveau": "mention",
+      "horodatages": [
+        "01:20:03"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "journalisme",
+    "objectivité",
+    "neutralité",
+    "Charte de Munich",
+    "carte de presse",
+    "Macron",
+    "terrain",
+    "guerre",
+    "insurrection",
+    "Palestine",
+    "Israël",
+    "indépendance"
+  ],
+  "organismes": [
+    {
+      "nom": "L'Humanité",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:34",
+        "02:14:00"
+      ]
+    },
+    {
+      "nom": "TF1",
+      "niveau": "mention",
+      "horodatages": [
+        "00:02:09"
+      ]
+    },
+    {
+      "nom": "Le Figaro",
+      "niveau": "mention",
+      "horodatages": [
+        "00:15:25"
+      ]
+    },
+    {
+      "nom": "Assemblée nationale",
+      "niveau": "mention",
+      "horodatages": [
+        "00:12:33"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Cemil Şanlı",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:15"
+      ]
+    },
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:10:10",
+        "01:48:01"
+      ]
+    },
+    {
+      "nom": "Pascal Praud",
+      "niveau": "mention",
+      "horodatages": [
+        "00:05:34"
+      ]
+    },
+    {
+      "nom": "Recep Tayyip Erdoğan",
+      "niveau": "mention",
+      "horodatages": [
+        "01:14:01"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "carte de presse",
+      "relation": "conditionne souvent",
+      "cible": "accès aux responsables",
+      "horodatages": [
+        "00:28:09"
+      ]
+    },
+    {
+      "source": "contraintes économiques",
+      "relation": "limitent",
+      "cible": "indépendance pratique",
+      "horodatages": [
+        "00:45:03"
+      ]
+    },
+    {
+      "source": "présence sur le terrain",
+      "relation": "permet de contester",
+      "cible": "récit officiel",
+      "horodatages": [
+        "00:41:43"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:20:00",
+      "titre": "Objectivité, militantisme et pouvoir"
+    },
+    {
+      "debut": "00:20:00",
+      "fin": "00:40:00",
+      "titre": "Accès, carte de presse et défiance"
+    },
+    {
+      "debut": "00:40:00",
+      "fin": "01:00:00",
+      "titre": "Terrain, rédaction et contraintes"
+    },
+    {
+      "debut": "01:00:00",
+      "fin": "01:30:00",
+      "titre": "Parcours, conflits et politique étrangère"
+    },
+    {
+      "debut": "01:30:00",
+      "fin": "02:00:00",
+      "titre": "Économie des médias et conférences présidentielles"
+    },
+    {
+      "debut": "02:00:00",
+      "fin": "02:27:54",
+      "titre": "Questions du public, départ de L'Humanité et conseils"
+    }
+  ],
+  "resume_general": "Entretien avec Cemil Şanlı sur l'objectivité, la défiance, le terrain, l'accès au pouvoir et les conditions matérielles du journalisme indépendant.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "Palestine et Israël",
+      "horodatages": [
+        "00:20:51"
+      ]
+    },
+    {
+      "sujet": "migration et Turquie",
+      "horodatages": [
+        "01:14:01"
+      ]
+    },
+    {
+      "sujet": "logement social",
+      "horodatages": [
+        "02:24:00"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "éthique et méthode journalistiques",
+      "horodatages": [
+        "00:01:34"
+      ]
+    },
+    {
+      "theme": "journalisme de terrain",
+      "horodatages": [
+        "00:41:43"
+      ]
+    },
+    {
+      "theme": "accès au pouvoir politique",
+      "horodatages": [
+        "01:48:01"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "journaliste indépendant",
+      "variantes": [
+        "journaliste libre",
+        "reporter"
+      ]
+    },
+    {
+      "canonique": "pouvoir politique",
+      "variantes": [
+        "Macronie",
+        "Élysée",
+        "parole officielle"
+      ]
+    }
+  ],
+  "video_id": "0pJhnQD0D24"
+}

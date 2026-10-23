@@ -1,0 +1,282 @@
+{
+  "arguments_positions": [
+    {
+      "position": "L'exécutif construit un récit opposant République et ultragauche",
+      "horodatages": [
+        "00:02:28",
+        "00:04:22"
+      ]
+    },
+    {
+      "position": "L'association de LFI au mouvement n'est pas confirmée par plusieurs sources institutionnelles",
+      "horodatages": [
+        "00:10:19",
+        "00:11:03"
+      ]
+    },
+    {
+      "position": "Le récit se retourne contre le gouvernement lorsqu'il contredit les faits disponibles",
+      "horodatages": [
+        "00:07:40",
+        "00:13:10"
+      ]
+    }
+  ],
+  "citations_exactes": [],
+  "concepts": [
+    {
+      "nom": "éléments de langage",
+      "horodatages": [
+        "00:10:19"
+      ]
+    },
+    {
+      "nom": "diabolisation politique",
+      "horodatages": [
+        "00:04:22"
+      ]
+    },
+    {
+      "nom": "effet boomerang",
+      "horodatages": [
+        "00:02:02"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "17 octobre 2026",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "nom": "présidentielle de 2027",
+      "niveau": "mention",
+      "horodatages": [
+        "00:14:36"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "les deux camps de Macron",
+      "horodatages": [
+        "00:02:28"
+      ]
+    },
+    {
+      "expression": "LFI et ses proxys",
+      "horodatages": [
+        "00:10:19"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "Paris",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:11:03"
+      ]
+    },
+    {
+      "nom": "Marseille",
+      "niveau": "mention",
+      "horodatages": [
+        "00:07:40"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "Macronie",
+    "ultragauche",
+    "LFI",
+    "médias",
+    "LCI",
+    "CNews",
+    "Mediapart",
+    "renseignement territorial",
+    "Nuñez"
+  ],
+  "organismes": [
+    {
+      "nom": "LFI",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:10:19"
+      ]
+    },
+    {
+      "nom": "LCI",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:04:48"
+      ]
+    },
+    {
+      "nom": "CNews",
+      "niveau": "mention",
+      "horodatages": [
+        "00:05:18"
+      ]
+    },
+    {
+      "nom": "BFMTV",
+      "niveau": "mention",
+      "horodatages": [
+        "00:11:24"
+      ]
+    },
+    {
+      "nom": "Mediapart",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:12:13"
+      ]
+    },
+    {
+      "nom": "ministère de l'Intérieur",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:12:13"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:02:28"
+      ]
+    },
+    {
+      "nom": "Manuel Valls",
+      "niveau": "mention",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "nom": "Benoît Payan",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:07:40"
+      ]
+    },
+    {
+      "nom": "Dominique Rizet",
+      "niveau": "mention",
+      "horodatages": [
+        "00:09:34"
+      ]
+    },
+    {
+      "nom": "Laurent Nuñez",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:13:10"
+      ]
+    },
+    {
+      "nom": "Éric Ciotti",
+      "niveau": "mention",
+      "horodatages": [
+        "00:05:18"
+      ]
+    },
+    {
+      "nom": "Éric Zemmour",
+      "niveau": "mention",
+      "horodatages": [
+        "00:05:18"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "récit sur LFI",
+      "relation": "est contesté par",
+      "cible": "justice, élus et policiers cités",
+      "horodatages": [
+        "00:07:40",
+        "00:12:13"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:04:22",
+      "titre": "Construction des deux camps"
+    },
+    {
+      "debut": "00:04:22",
+      "fin": "00:07:40",
+      "titre": "Diabolisation sur les chaînes"
+    },
+    {
+      "debut": "00:07:40",
+      "fin": "00:11:03",
+      "titre": "Contestation par élus et policiers"
+    },
+    {
+      "debut": "00:11:03",
+      "fin": "00:14:36",
+      "titre": "Justice, Mediapart et Nuñez"
+    },
+    {
+      "debut": "00:14:36",
+      "fin": "00:16:44",
+      "titre": "Conclusion et soutien"
+    }
+  ],
+  "resume_general": "Décryptage du récit gouvernemental associant le 17 octobre à l'ultragauche et des éléments qui, selon OFF, le fragilisent.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "colère policière",
+      "horodatages": [
+        "00:09:34"
+      ]
+    },
+    {
+      "sujet": "démission de Laurent Nuñez",
+      "horodatages": [
+        "00:13:10"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "communication gouvernementale",
+      "horodatages": [
+        "00:02:28"
+      ]
+    },
+    {
+      "theme": "traitement des chaînes d'information",
+      "horodatages": [
+        "00:04:48"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "La France insoumise",
+      "variantes": [
+        "LFI",
+        "proxys de LFI"
+      ]
+    },
+    {
+      "canonique": "ultragauche",
+      "variantes": [
+        "factieux"
+      ]
+    }
+  ],
+  "video_id": "qMbo7uE15ZI"
+}

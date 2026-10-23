@@ -1,0 +1,1113 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 29.25,
+      "start_timestamp": "00:00:00.000",
+      "end_timestamp": "00:00:29.250",
+      "text": "Bienvenue dans la France libre. Chers amis, bonjour. Vous avez vu les images qu'il est inutile de"
+    },
+    {
+      "id": 1,
+      "start": 29.25,
+      "end": 35.73,
+      "start_timestamp": "00:00:29.250",
+      "end_timestamp": "00:00:35.730",
+      "text": "commenter. Il convient en revanche d'en tirer des observations pour proposer des solutions à un"
+    },
+    {
+      "id": 2,
+      "start": 35.73,
+      "end": 41.09,
+      "start_timestamp": "00:00:35.730",
+      "end_timestamp": "00:00:41.090",
+      "text": "problème dont les émeutes du 17 octobre ne sont qu'un symptôme. C'est ce que je vais tâcher de"
+    },
+    {
+      "id": 3,
+      "start": 41.09,
+      "end": 45.93,
+      "start_timestamp": "00:00:41.090",
+      "end_timestamp": "00:00:45.930",
+      "text": "faire de manière aussi concise que possible, une fois n'est pas coutume, dans cette vidéo."
+    },
+    {
+      "id": 4,
+      "start": 45.93,
+      "end": 52.65,
+      "start_timestamp": "00:00:45.930",
+      "end_timestamp": "00:00:52.650",
+      "text": "D'abord les observations fondées sur l'évolution de la situation politique de la France depuis des"
+    },
+    {
+      "id": 5,
+      "start": 52.65,
+      "end": 57.13,
+      "start_timestamp": "00:00:52.650",
+      "end_timestamp": "00:00:57.130",
+      "text": "années, que je commente depuis des années d'ailleurs, plusieurs éléments à cet égard."
+    },
+    {
+      "id": 6,
+      "start": 57.13,
+      "end": 64.89,
+      "start_timestamp": "00:00:57.130",
+      "end_timestamp": "00:01:04.890",
+      "text": "Première observation, notre pays est régulièrement attaqué par des populations qui commettent des"
+    },
+    {
+      "id": 7,
+      "start": 64.89,
+      "end": 70.01,
+      "start_timestamp": "00:01:04.890",
+      "end_timestamp": "00:01:10.010",
+      "text": "crimes et des délits en toute impunité. D'abord confinés aux banlieues, ce problème a fait tâche"
+    },
+    {
+      "id": 8,
+      "start": 70.01,
+      "end": 77.13,
+      "start_timestamp": "00:01:10.010",
+      "end_timestamp": "00:01:17.130",
+      "text": "d'huile et à chaque série d'émeutes, tout cela va de plus en plus loin, littéralement comme"
+    },
+    {
+      "id": 9,
+      "start": 77.13,
+      "end": 84.47,
+      "start_timestamp": "00:01:17.130",
+      "end_timestamp": "00:01:24.470",
+      "text": "métaphoriquement, jusque dans les centres-villes. Parmi ces émeutiers, une immense majorité de"
+    },
+    {
+      "id": 10,
+      "start": 84.47,
+      "end": 90.69,
+      "start_timestamp": "00:01:24.470",
+      "end_timestamp": "00:01:30.690",
+      "text": "populations arabo-musulmanes, quelles que soient leur statut et leur nationalité française ou non,"
+    },
+    {
+      "id": 11,
+      "start": 90.69,
+      "end": 96.85,
+      "start_timestamp": "00:01:30.690",
+      "end_timestamp": "00:01:36.850",
+      "text": "et il serait absurde à ce stade de nier qu'une grande partie du problème provient de l'absence"
+    },
+    {
+      "id": 12,
+      "start": 96.85,
+      "end": 103.17,
+      "start_timestamp": "00:01:36.850",
+      "end_timestamp": "00:01:43.170",
+      "text": "de contrôle sur nos flux migratoires, dont les chiffres explosent depuis le début des années 2000"
+    },
+    {
+      "id": 13,
+      "start": 103.17,
+      "end": 108.37,
+      "start_timestamp": "00:01:43.170",
+      "end_timestamp": "00:01:48.370",
+      "text": "et augmentent d'année en année. Il ne s'agit évidemment pas là de jeter la pierre à nos"
+    },
+    {
+      "id": 14,
+      "start": 108.37,
+      "end": 113.53,
+      "start_timestamp": "00:01:48.370",
+      "end_timestamp": "00:01:53.530",
+      "text": "concitoyens d'origine étrangère, qui trouvent cet état de fait aussi insupportable que tout un chacun,"
+    },
+    {
+      "id": 15,
+      "start": 113.53,
+      "end": 121.17,
+      "start_timestamp": "00:01:53.530",
+      "end_timestamp": "00:02:01.170",
+      "text": "mais de souligner les faits qui refusent aujourd'hui de voir cela et de l'acter,"
+    },
+    {
+      "id": 16,
+      "start": 121.17,
+      "end": 128.43,
+      "start_timestamp": "00:02:01.170",
+      "end_timestamp": "00:02:08.430",
+      "text": "se rend complices de la situation. Deuxième point, les responsables de la gauche, qui,"
+    },
+    {
+      "id": 17,
+      "start": 128.43,
+      "end": 134.81,
+      "start_timestamp": "00:02:08.430",
+      "end_timestamp": "00:02:14.810",
+      "text": "rejetés par la majorité des français, voient dans ces populations banlieusardes immigrer un"
+    },
+    {
+      "id": 18,
+      "start": 134.81,
+      "end": 143.45,
+      "start_timestamp": "00:02:14.810",
+      "end_timestamp": "00:02:23.450",
+      "text": "réservoir d'électeurs, a encouragé et encourage la casse et les meutes, tout en prétendant que les"
+    },
+    {
+      "id": 19,
+      "start": 143.45,
+      "end": 149.73,
+      "start_timestamp": "00:02:23.450",
+      "end_timestamp": "00:02:29.730",
+      "text": "auteurs de ces crimes et délits seraient des victimes de la France, des français, du système,"
+    },
+    {
+      "id": 20,
+      "start": 149.73,
+      "end": 154.49,
+      "start_timestamp": "00:02:29.730",
+      "end_timestamp": "00:02:34.490",
+      "text": "de l'état fasciste, raciste. Vous pouvez insérer les mots qui vont bien. Cependant,"
+    },
+    {
+      "id": 21,
+      "start": 154.49,
+      "end": 159.77,
+      "start_timestamp": "00:02:34.490",
+      "end_timestamp": "00:02:39.770",
+      "text": "leur énième tentative de récupération d'un mouvement de racailles, pour en faire le sujet"
+    },
+    {
+      "id": 22,
+      "start": 159.77,
+      "end": 166.21,
+      "start_timestamp": "00:02:39.770",
+      "end_timestamp": "00:02:46.210",
+      "text": "politique d'une révolution prétendument lycéenne ces dernières semaines, s'est retourné contre eux"
+    },
+    {
+      "id": 23,
+      "start": 166.21,
+      "end": 173.89,
+      "start_timestamp": "00:02:46.210",
+      "end_timestamp": "00:02:53.890",
+      "text": "et ils ont fini par être dépassés par leur propre légion et section d'assaut. Une partie d'entre"
+    },
+    {
+      "id": 24,
+      "start": 173.89,
+      "end": 179.57,
+      "start_timestamp": "00:02:53.890",
+      "end_timestamp": "00:02:59.570",
+      "text": "a fini par les désavouer mais bien trop tard et l'autre partie s'est enfoncée en ne condamnant"
+    },
+    {
+      "id": 25,
+      "start": 179.57,
+      "end": 185.65,
+      "start_timestamp": "00:02:59.570",
+      "end_timestamp": "00:03:05.650",
+      "text": "même pas les violences. Parmi les électeurs de cette gauche, on trouve des populations de"
+    },
+    {
+      "id": 26,
+      "start": 185.65,
+      "end": 192.21,
+      "start_timestamp": "00:03:05.650",
+      "end_timestamp": "00:03:12.210",
+      "text": "fonctionnaires et d'étudiants petit-bourgeois, c'est l'autre versant de leurs électeurs, qui appuient"
+    },
+    {
+      "id": 27,
+      "start": 192.21,
+      "end": 199.73,
+      "start_timestamp": "00:03:12.210",
+      "end_timestamp": "00:03:19.730",
+      "text": "là aussi les émeutes car ils confondent le chaos et le pillage avec une révolution qu'ils appellent"
+    },
+    {
+      "id": 28,
+      "start": 200.29,
+      "end": 206.21,
+      "start_timestamp": "00:03:20.290",
+      "end_timestamp": "00:03:26.210",
+      "text": "Cette confusion entre désordre et révolution, entre violence et révolution est extrêmement"
+    },
+    {
+      "id": 29,
+      "start": 206.21,
+      "end": 213.61,
+      "start_timestamp": "00:03:26.210",
+      "end_timestamp": "00:03:33.610",
+      "text": "dangereuse puisque à ce compte là, ils vont pouvoir justifier que n'importe quel crime est commis au"
+    },
+    {
+      "id": 30,
+      "start": 213.61,
+      "end": 219.21,
+      "start_timestamp": "00:03:33.610",
+      "end_timestamp": "00:03:39.210",
+      "text": "nom de la révolution. Et ce ne serait pas grave s'il ne s'agissait pas de responsables et de militants"
+    },
+    {
+      "id": 31,
+      "start": 219.21,
+      "end": 225.21,
+      "start_timestamp": "00:03:39.210",
+      "end_timestamp": "00:03:45.210",
+      "text": "politiques qui se prétendent éclairer et qui prétendent nous apporter des solutions au problème"
+    },
+    {
+      "id": 32,
+      "start": 226.13,
+      "end": 233.37,
+      "start_timestamp": "00:03:46.130",
+      "end_timestamp": "00:03:53.370",
+      "text": "Troisième observation, au dessus de cela, la macronie au pouvoir qui laisse faire et qui à sa"
+    },
+    {
+      "id": 33,
+      "start": 233.37,
+      "end": 240.25,
+      "start_timestamp": "00:03:53.370",
+      "end_timestamp": "00:04:00.250",
+      "text": "manière encourage également le chaos en France. En effet, toutes les informations qui nous remontent"
+    },
+    {
+      "id": 34,
+      "start": 240.25,
+      "end": 246.25,
+      "start_timestamp": "00:04:00.250",
+      "end_timestamp": "00:04:06.250",
+      "text": "font état de policiers en sous-effectifs pour gérer les émeutes, qui manquent de munitions,"
+    },
+    {
+      "id": 35,
+      "start": 246.25,
+      "end": 253.57,
+      "start_timestamp": "00:04:06.250",
+      "end_timestamp": "00:04:13.570",
+      "text": "de matériel, qui ont ordre de laisser faire voire carrément une absence totale de force de"
+    },
+    {
+      "id": 36,
+      "start": 253.57,
+      "end": 259.29,
+      "start_timestamp": "00:04:13.570",
+      "end_timestamp": "00:04:19.290",
+      "text": "l'ordre dans des zones pourtant identifiées comme des zones à risque. On le voit, les effectifs"
+    },
+    {
+      "id": 37,
+      "start": 259.29,
+      "end": 265.89,
+      "start_timestamp": "00:04:19.290",
+      "end_timestamp": "00:04:25.890",
+      "text": "déployés pour cette soirée du 17 octobre sont très très loin de ceux qui ont été déployés"
+    },
+    {
+      "id": 38,
+      "start": 265.89,
+      "end": 274.05,
+      "start_timestamp": "00:04:25.890",
+      "end_timestamp": "00:04:34.050",
+      "text": "contre les gilets jaunes en 2018, ce qui laisse à penser à minima que le pouvoir n'a strictement"
+    },
+    {
+      "id": 39,
+      "start": 274.05,
+      "end": 281.25,
+      "start_timestamp": "00:04:34.050",
+      "end_timestamp": "00:04:41.250",
+      "text": "aucune volonté de maintenir la sécurité des personnes, des bâtiments et des biens dans ce"
+    },
+    {
+      "id": 40,
+      "start": 281.25,
+      "end": 288.53,
+      "start_timestamp": "00:04:41.250",
+      "end_timestamp": "00:04:48.530",
+      "text": "pays. Au delà du problème immédiat de la gestion de crise, ce même pouvoir macroniste qui organise"
+    },
+    {
+      "id": 41,
+      "start": 288.53,
+      "end": 295.49,
+      "start_timestamp": "00:04:48.530",
+      "end_timestamp": "00:04:55.490",
+      "text": "l'entrée massive de migrants sur notre sol tout en refusant aussi bien toute politique d'assimilation"
+    },
+    {
+      "id": 42,
+      "start": 295.49,
+      "end": 302.33,
+      "start_timestamp": "00:04:55.490",
+      "end_timestamp": "00:05:02.330",
+      "text": "que toute punition pour ceux qui contreviendraient à la loi française, quoiqu'ils en disent, contribuent"
+    },
+    {
+      "id": 43,
+      "start": 302.33,
+      "end": 308.93,
+      "start_timestamp": "00:05:02.330",
+      "end_timestamp": "00:05:08.930",
+      "text": "à créer ce contexte explosif et le pouvoir à la lumière de ce que nous avons comme élément"
+    },
+    {
+      "id": 44,
+      "start": 308.93,
+      "end": 315.05,
+      "start_timestamp": "00:05:08.930",
+      "end_timestamp": "00:05:15.050",
+      "text": "aujourd'hui ne semble pas vouloir changer de direction à cet égard. Le pouvoir macroniste est"
+    },
+    {
+      "id": 45,
+      "start": 315.05,
+      "end": 322.33,
+      "start_timestamp": "00:05:15.050",
+      "end_timestamp": "00:05:22.330",
+      "text": "donc coupable de créer le terrain favorable et de planter la graine que les dirigeants de gauche"
+    },
+    {
+      "id": 46,
+      "start": 322.33,
+      "end": 328.65,
+      "start_timestamp": "00:05:22.330",
+      "end_timestamp": "00:05:28.650",
+      "text": "se chargent ensuite d'arroser. Et autour de ce cirque évidemment la majorité des français,"
+    },
+    {
+      "id": 47,
+      "start": 328.65,
+      "end": 334.01,
+      "start_timestamp": "00:05:28.650",
+      "end_timestamp": "00:05:34.010",
+      "text": "les producteurs de richesses habitants de la France périphérique, absents aussi bien des"
+    },
+    {
+      "id": 48,
+      "start": 334.01,
+      "end": 341.89,
+      "start_timestamp": "00:05:34.010",
+      "end_timestamp": "00:05:41.890",
+      "text": "manifestations que des émeutes, réduits au silence par le désordre permanent provoqué à la fois"
+    },
+    {
+      "id": 49,
+      "start": 341.89,
+      "end": 348.77,
+      "start_timestamp": "00:05:41.890",
+      "end_timestamp": "00:05:48.770",
+      "text": "par la classe dirigeante et ces idiots utiles qui tous occupent le terrain avec leur forfaiture."
+    },
+    {
+      "id": 50,
+      "start": 348.77,
+      "end": 354.25,
+      "start_timestamp": "00:05:48.770",
+      "end_timestamp": "00:05:54.250",
+      "text": "Dans ce contexte, cette immense majorité des français reste silencieuse, assistant,"
+    },
+    {
+      "id": 51,
+      "start": 354.25,
+      "end": 361.33,
+      "start_timestamp": "00:05:54.250",
+      "end_timestamp": "00:06:01.330",
+      "text": "impuissante au véritable saccage de notre pays, attendant pour s'exprimer le seul moment qui lui"
+    },
+    {
+      "id": 52,
+      "start": 361.33,
+      "end": 367.61,
+      "start_timestamp": "00:06:01.330",
+      "end_timestamp": "00:06:07.610",
+      "text": "est encore laissé pour se faire la prochaine élection présidentielle. Néanmoins, au regard"
+    },
+    {
+      "id": 53,
+      "start": 367.61,
+      "end": 372.37,
+      "start_timestamp": "00:06:07.610",
+      "end_timestamp": "00:06:12.370",
+      "text": "des événements de la nuit dernière qui ont fait monter d'un nouveau cran le degré de violence dans"
+    },
+    {
+      "id": 54,
+      "start": 372.37,
+      "end": 378.97,
+      "start_timestamp": "00:06:12.370",
+      "end_timestamp": "00:06:18.970",
+      "text": "notre pays, qui ont témoigné de l'incapacité de ceux qui nous gouvernent à maintenir la paix"
+    },
+    {
+      "id": 55,
+      "start": 378.97,
+      "end": 385.45,
+      "start_timestamp": "00:06:18.970",
+      "end_timestamp": "00:06:25.450",
+      "text": "civile et la sécurité la plus élémentaire des français, avril 2027 nous apparaît désormais"
+    },
+    {
+      "id": 56,
+      "start": 385.45,
+      "end": 390.93,
+      "start_timestamp": "00:06:25.450",
+      "end_timestamp": "00:06:30.930",
+      "text": "comme une date bien trop éloignée. En effet ce laps de temps risquerait de donner l'occasion aux"
+    },
+    {
+      "id": 57,
+      "start": 390.93,
+      "end": 396.77,
+      "start_timestamp": "00:06:30.930",
+      "end_timestamp": "00:06:36.770",
+      "text": "forces du désordre de provoquer des tensions insoutenables pour la France et de nous faire"
+    },
+    {
+      "id": 58,
+      "start": 396.77,
+      "end": 403.53,
+      "start_timestamp": "00:06:36.770",
+      "end_timestamp": "00:06:43.530",
+      "text": "sombrer dans une situation disons-le d'une forme de guerre civile, sans retour en arrière possible"
+    },
+    {
+      "id": 59,
+      "start": 403.53,
+      "end": 410.57,
+      "start_timestamp": "00:06:43.530",
+      "end_timestamp": "00:06:50.570",
+      "text": "et faisant de surcroît la France une proie possible pour toutes les ingérences étrangères, militaires"
+    },
+    {
+      "id": 60,
+      "start": 410.57,
+      "end": 418.25,
+      "start_timestamp": "00:06:50.570",
+      "end_timestamp": "00:06:58.250",
+      "text": "aussi bien que civils. C'est pourquoi la nécessité immédiate commande que les français, tous les"
+    },
+    {
+      "id": 61,
+      "start": 418.29,
+      "end": 424.53,
+      "start_timestamp": "00:06:58.290",
+      "end_timestamp": "00:07:04.530",
+      "text": "français et pas uniquement les manifestants et les émeutiers puissent faire entendre leur voix et"
+    },
+    {
+      "id": 62,
+      "start": 424.53,
+      "end": 431.61,
+      "start_timestamp": "00:07:04.530",
+      "end_timestamp": "00:07:11.610",
+      "text": "puissent décider dès que possible d'une nouvelle direction à prendre pour le pays que visiblement"
+    },
+    {
+      "id": 63,
+      "start": 431.61,
+      "end": 437.21,
+      "start_timestamp": "00:07:11.610",
+      "end_timestamp": "00:07:17.210",
+      "text": "les forces au pouvoir ne sont absolument pas capables de gérer. J'appelle donc ici à la"
+    },
+    {
+      "id": 64,
+      "start": 437.21,
+      "end": 441.85,
+      "start_timestamp": "00:07:17.210",
+      "end_timestamp": "00:07:21.850",
+      "text": "démission d'Emmanuel Macron de son poste de président de la république et à la convocation"
+    },
+    {
+      "id": 65,
+      "start": 441.85,
+      "end": 447.53,
+      "start_timestamp": "00:07:21.850",
+      "end_timestamp": "00:07:27.530",
+      "text": "d'une élection présidentielle anticipée qui devra se tenir le plus tôt possible et dans tous"
+    },
+    {
+      "id": 66,
+      "start": 447.53,
+      "end": 453.97,
+      "start_timestamp": "00:07:27.530",
+      "end_timestamp": "00:07:33.970",
+      "text": "les cas avant la fin de l'année 2026. Ça c'est pour la réponse politique immédiate. En parallèle,"
+    },
+    {
+      "id": 67,
+      "start": 453.97,
+      "end": 461.41,
+      "start_timestamp": "00:07:33.970",
+      "end_timestamp": "00:07:41.410",
+      "text": "il conviendra d'engager immédiatement un processus de décolonisation de la France vis-à-vis de tous"
+    },
+    {
+      "id": 68,
+      "start": 461.41,
+      "end": 468.21,
+      "start_timestamp": "00:07:41.410",
+      "end_timestamp": "00:07:48.210",
+      "text": "ceux qui lui veulent ou lui causent du mal. J'entends par là plusieurs actions à prendre dès"
+    },
+    {
+      "id": 69,
+      "start": 468.21,
+      "end": 474.45,
+      "start_timestamp": "00:07:48.210",
+      "end_timestamp": "00:07:54.450",
+      "text": "la démission du président par le pouvoir intérimaire. Premièrement l'expulsion immédiate et sans appel"
+    },
+    {
+      "id": 70,
+      "start": 474.45,
+      "end": 480.61,
+      "start_timestamp": "00:07:54.450",
+      "end_timestamp": "00:08:00.610",
+      "text": "de tous les fauteurs de troubles qui n'ont pas la nationalité française. Deuxièmement en ce qui"
+    },
+    {
+      "id": 71,
+      "start": 480.61,
+      "end": 486.57,
+      "start_timestamp": "00:08:00.610",
+      "end_timestamp": "00:08:06.570",
+      "text": "concerne les binationaux, il faudra les déchoir de leur nationalité française et les expulser"
+    },
+    {
+      "id": 72,
+      "start": 486.57,
+      "end": 492.73,
+      "start_timestamp": "00:08:06.570",
+      "end_timestamp": "00:08:12.730",
+      "text": "immédiatement aux mêmes conditions que celles qui concernent les criminels non français. Pour ce"
+    },
+    {
+      "id": 73,
+      "start": 492.73,
+      "end": 498.97,
+      "start_timestamp": "00:08:12.730",
+      "end_timestamp": "00:08:18.970",
+      "text": "qui concerne le cas particulier des émeutiers ayant attaqué des bâtiments institutionnels comme"
+    },
+    {
+      "id": 74,
+      "start": 498.97,
+      "end": 504.57,
+      "start_timestamp": "00:08:18.970",
+      "end_timestamp": "00:08:24.570",
+      "text": "la mairie de Marseille ou de Limoges ou militaires comme la caserne de la Place de la République à"
+    },
+    {
+      "id": 75,
+      "start": 504.57,
+      "end": 510.41,
+      "start_timestamp": "00:08:24.570",
+      "end_timestamp": "00:08:30.410",
+      "text": "Paris et qui l'ont fait en brandissant des drapeaux étrangers ou en affirmant le faire au nom de"
+    },
+    {
+      "id": 76,
+      "start": 510.41,
+      "end": 516.13,
+      "start_timestamp": "00:08:30.410",
+      "end_timestamp": "00:08:36.130",
+      "text": "puissances étrangères, il faudra les considérer comme s'étant eux-mêmes déclarés suppos de"
+    },
+    {
+      "id": 77,
+      "start": 516.13,
+      "end": 523.09,
+      "start_timestamp": "00:08:36.130",
+      "end_timestamp": "00:08:43.090",
+      "text": "puissance ennemie de la France. Ils devront donc être jugés et traités non comme des civils qui"
+    },
+    {
+      "id": 78,
+      "start": 523.09,
+      "end": 529.05,
+      "start_timestamp": "00:08:43.090",
+      "end_timestamp": "00:08:49.050",
+      "text": "ont commis des actes de délinquance ou des crimes mais comme des soldats ennemis attaquant"
+    },
+    {
+      "id": 79,
+      "start": 529.05,
+      "end": 534.37,
+      "start_timestamp": "00:08:49.050",
+      "end_timestamp": "00:08:54.370",
+      "text": "les institutions et l'armée française. Il faudra donc qu'ils soient jugés par des tribunaux"
+    },
+    {
+      "id": 80,
+      "start": 534.37,
+      "end": 540.01,
+      "start_timestamp": "00:08:54.370",
+      "end_timestamp": "00:09:00.010",
+      "text": "militaires établis pour l'occasion et dissous une fois ces jugements terminés. Troisièmement,"
+    },
+    {
+      "id": 81,
+      "start": 540.01,
+      "end": 546.41,
+      "start_timestamp": "00:09:00.010",
+      "end_timestamp": "00:09:06.410",
+      "text": "concernant tous les délinquances et criminels n'ayant que la nationalité française et qui"
+    },
+    {
+      "id": 82,
+      "start": 546.41,
+      "end": 553.33,
+      "start_timestamp": "00:09:06.410",
+      "end_timestamp": "00:09:13.330",
+      "text": "constitue dès lors le problème exclusif de la France, il faudra des condamnations automatiques"
+    },
+    {
+      "id": 83,
+      "start": 553.33,
+      "end": 559.61,
+      "start_timestamp": "00:09:13.330",
+      "end_timestamp": "00:09:19.610",
+      "text": "aux travaux forcés avec rétablissement de bagnes dès lors que ces personnes auront participé aux"
+    },
+    {
+      "id": 84,
+      "start": 559.61,
+      "end": 565.57,
+      "start_timestamp": "00:09:19.610",
+      "end_timestamp": "00:09:25.570",
+      "text": "émeutes. Ces trois mesures permettront à la fois de punir les émeutiers donc d'apporter une réponse"
+    },
+    {
+      "id": 85,
+      "start": 565.57,
+      "end": 571.77,
+      "start_timestamp": "00:09:25.570",
+      "end_timestamp": "00:09:31.770",
+      "text": "immédiate au problème des émeutes mais aussi plus largement de commencer pour une bonne part le"
+    },
+    {
+      "id": 86,
+      "start": 571.77,
+      "end": 578.09,
+      "start_timestamp": "00:09:31.770",
+      "end_timestamp": "00:09:38.090",
+      "text": "nettoyage de nos quartiers dits sensibles puisque l'immense majorité des pillards semble"
+    },
+    {
+      "id": 87,
+      "start": 578.09,
+      "end": 584.41,
+      "start_timestamp": "00:09:38.090",
+      "end_timestamp": "00:09:44.410",
+      "text": "d'en être issus. La fin de ce nettoyage devra être conduite à moyen terme afin de récupérer tout"
+    },
+    {
+      "id": 88,
+      "start": 584.41,
+      "end": 589.93,
+      "start_timestamp": "00:09:44.410",
+      "end_timestamp": "00:09:49.930",
+      "text": "ce que l'on peut considérer comme territoire perdu de la république qu'il s'agisse d'avenues en plein"
+    },
+    {
+      "id": 89,
+      "start": 589.93,
+      "end": 595.85,
+      "start_timestamp": "00:09:49.930",
+      "end_timestamp": "00:09:55.850",
+      "text": "centre ville ou de quartiers de banlieue de métropole afin d'en expurger les trafiquants,"
+    },
+    {
+      "id": 90,
+      "start": 595.85,
+      "end": 601.65,
+      "start_timestamp": "00:09:55.850",
+      "end_timestamp": "00:10:01.650",
+      "text": "dealers et autres délinquants ou criminels qui y opèrent grâce au laxisme des pouvoirs publics"
+    },
+    {
+      "id": 91,
+      "start": 601.65,
+      "end": 608.57,
+      "start_timestamp": "00:10:01.650",
+      "end_timestamp": "00:10:08.570",
+      "text": "et soutenu par la culture de l'excuse propre à la gauche. Pour mener à bien tout cela je suggère"
+    },
+    {
+      "id": 92,
+      "start": 608.57,
+      "end": 614.65,
+      "start_timestamp": "00:10:08.570",
+      "end_timestamp": "00:10:14.650",
+      "text": "de mobiliser toutes les forces dont nous pourrions disposer aussi bien civils que militaires,"
+    },
+    {
+      "id": 93,
+      "start": 614.65,
+      "end": 622.41,
+      "start_timestamp": "00:10:14.650",
+      "end_timestamp": "00:10:22.410",
+      "text": "aussi bien professionnels que volontaires et ce dans le but d'identifier, de repérer et d'arrêter"
+    },
+    {
+      "id": 94,
+      "start": 622.41,
+      "end": 629.57,
+      "start_timestamp": "00:10:22.410",
+      "end_timestamp": "00:10:29.570",
+      "text": "partout où il se cache tous les délinquants et criminels français et non français ayant participé"
+    },
+    {
+      "id": 95,
+      "start": 629.57,
+      "end": 636.33,
+      "start_timestamp": "00:10:29.570",
+      "end_timestamp": "00:10:36.330",
+      "text": "à ces émeutes afin de les punir de la manière adéquate selon leur statut évoqué plus haut. Dans"
+    },
+    {
+      "id": 96,
+      "start": 636.33,
+      "end": 641.41,
+      "start_timestamp": "00:10:36.330",
+      "end_timestamp": "00:10:41.410",
+      "text": "cette optique je suggère de mettre à contribution tous les français qui le souhaitent pour les"
+    },
+    {
+      "id": 97,
+      "start": 641.41,
+      "end": 646.57,
+      "start_timestamp": "00:10:41.410",
+      "end_timestamp": "00:10:46.570",
+      "text": "opérations de repérage et d'identification notamment sur les réseaux sociaux et les sites"
+    },
+    {
+      "id": 98,
+      "start": 646.57,
+      "end": 652.85,
+      "start_timestamp": "00:10:46.570",
+      "end_timestamp": "00:10:52.850",
+      "text": "de revente de seconde main de ceux qui étalent leur butin ou se vante de leurs"
+    },
+    {
+      "id": 99,
+      "start": 652.85,
+      "end": 659.89,
+      "start_timestamp": "00:10:52.850",
+      "end_timestamp": "00:10:59.890",
+      "text": "exactions voire poste des vidéos d'eux en train de commettre des délits ou des crimes et Dieu sait"
+    },
+    {
+      "id": 100,
+      "start": 659.89,
+      "end": 664.05,
+      "start_timestamp": "00:10:59.890",
+      "end_timestamp": "00:11:04.050",
+      "text": "qu'ils sont nombreux. Enfin je voudrais dire un mot concernant les responsables de gauche qui ont"
+    },
+    {
+      "id": 101,
+      "start": 664.05,
+      "end": 670.33,
+      "start_timestamp": "00:11:04.050",
+      "end_timestamp": "00:11:10.330",
+      "text": "tenté de faire de l'arracaille menant des émeutes un sujet politique à la seule fin de gagner des"
+    },
+    {
+      "id": 102,
+      "start": 670.33,
+      "end": 676.13,
+      "start_timestamp": "00:11:10.330",
+      "end_timestamp": "00:11:16.130",
+      "text": "voix aux élections. Nombreuses aujourd'hui sont les voix qui s'élèvent pour demander l'interdiction"
+    },
+    {
+      "id": 103,
+      "start": 676.13,
+      "end": 682.01,
+      "start_timestamp": "00:11:16.130",
+      "end_timestamp": "00:11:22.010",
+      "text": "de la France Insoumise ou d'autres organisations de gauche radicale en tant qu'organisation politique."
+    },
+    {
+      "id": 104,
+      "start": 682.01,
+      "end": 687.61,
+      "start_timestamp": "00:11:22.010",
+      "end_timestamp": "00:11:27.610",
+      "text": "Je comprends bien entendu la colère à l'encontre de tous ceux qui attisent les flammes et qui se"
+    },
+    {
+      "id": 105,
+      "start": 687.61,
+      "end": 693.81,
+      "start_timestamp": "00:11:27.610",
+      "end_timestamp": "00:11:33.810",
+      "text": "font les ennemis de la France mais je ne suis pas partisane d'une quelconque censure car cela leur"
+    },
+    {
+      "id": 106,
+      "start": 693.81,
+      "end": 700.41,
+      "start_timestamp": "00:11:33.810",
+      "end_timestamp": "00:11:40.410",
+      "text": "permettrait de se présenter comme des victimes persécutées par un pouvoir fasciste. S'il faut"
+    },
+    {
+      "id": 107,
+      "start": 700.41,
+      "end": 706.65,
+      "start_timestamp": "00:11:40.410",
+      "end_timestamp": "00:11:46.650",
+      "text": "évidemment punir ceux qui ont tenu des propos tombant sous le coup de la loi ou ceux qui ont"
+    },
+    {
+      "id": 108,
+      "start": 706.65,
+      "end": 713.93,
+      "start_timestamp": "00:11:46.650",
+      "end_timestamp": "00:11:53.930",
+      "text": "commis des crimes je pense qu'il faut toutefois les laisser se présenter afin que le peuple français"
+    },
+    {
+      "id": 109,
+      "start": 713.93,
+      "end": 719.93,
+      "start_timestamp": "00:11:53.930",
+      "end_timestamp": "00:11:59.930",
+      "text": "leur inflige l'humiliation qu'ils méritent aux élections. Le peuple français sait ce qui est"
+    },
+    {
+      "id": 110,
+      "start": 719.93,
+      "end": 725.37,
+      "start_timestamp": "00:11:59.930",
+      "end_timestamp": "00:12:05.370",
+      "text": "bon pour la France et il sait reconnaître ses ennemis aussi bien de l'intérieur que de l'extérieur."
+    },
+    {
+      "id": 111,
+      "start": 725.37,
+      "end": 730.01,
+      "start_timestamp": "00:12:05.370",
+      "end_timestamp": "00:12:10.010",
+      "text": "C'est pourquoi je conclurai cette vidéo en renouvelant mon appel à une élection présidentielle"
+    },
+    {
+      "id": 112,
+      "start": 730.01,
+      "end": 735.69,
+      "start_timestamp": "00:12:10.010",
+      "end_timestamp": "00:12:15.690",
+      "text": "anticipée. Quand la France est en mauvaise posture, quand ces prétendues élites ne gèrent"
+    },
+    {
+      "id": 113,
+      "start": 735.69,
+      "end": 744.05,
+      "start_timestamp": "00:12:15.690",
+      "end_timestamp": "00:12:24.050",
+      "text": "absolument plus rien et laissent la France sombrer, seul le peuple peut la sauver. Seul le peuple est"
+    },
+    {
+      "id": 114,
+      "start": 744.05,
+      "end": 750.81,
+      "start_timestamp": "00:12:24.050",
+      "end_timestamp": "00:12:30.810",
+      "text": "légitime à décider. Je terminerai sur cette image de Limoges. De toutes les villes saccagées le 17"
+    },
+    {
+      "id": 115,
+      "start": 750.81,
+      "end": 756.33,
+      "start_timestamp": "00:12:30.810",
+      "end_timestamp": "00:12:36.330",
+      "text": "octobre, c'est Limoges qui d'habitude ne fait jamais parler d'elle qui est devenue avec son"
+    },
+    {
+      "id": 116,
+      "start": 756.33,
+      "end": 762.21,
+      "start_timestamp": "00:12:36.330",
+      "end_timestamp": "00:12:42.210",
+      "text": "hôtel de ville classé monument historique détruit à jamais sous les rires des émeutiers le symbole"
+    },
+    {
+      "id": 117,
+      "start": 762.21,
+      "end": 769.45,
+      "start_timestamp": "00:12:42.210",
+      "end_timestamp": "00:12:49.450",
+      "text": "impossible à ignorer du chaos qui a fini par atteindre la France profonde. Limoges dont beaucoup"
+    },
+    {
+      "id": 118,
+      "start": 769.45,
+      "end": 774.89,
+      "start_timestamp": "00:12:49.450",
+      "end_timestamp": "00:12:54.890",
+      "text": "qui la fréquentent et dont je suis savent qu'elle n'était déjà plus depuis longtemps la petite"
+    },
+    {
+      "id": 119,
+      "start": 774.89,
+      "end": 780.45,
+      "start_timestamp": "00:12:54.890",
+      "end_timestamp": "00:13:00.450",
+      "text": "ville tranquille où l'on envoyait les fonctionnaires comme dans un placard pour les limogés mais dont"
+    },
+    {
+      "id": 120,
+      "start": 780.45,
+      "end": 784.77,
+      "start_timestamp": "00:13:00.450",
+      "end_timestamp": "00:13:04.770",
+      "text": "les deux grandes avenues qui portent ironie du sort les noms des deux plus grands libérateurs"
+    },
+    {
+      "id": 121,
+      "start": 784.77,
+      "end": 791.17,
+      "start_timestamp": "00:13:04.770",
+      "end_timestamp": "00:13:11.170",
+      "text": "de la France, Leclerc et Delattre de Tassini sont devenus des dépotoires africanisés où l'on ne"
+    },
+    {
+      "id": 122,
+      "start": 791.17,
+      "end": 797.29,
+      "start_timestamp": "00:13:11.170",
+      "end_timestamp": "00:13:17.290",
+      "text": "peut plus se promener tranquille. Limoges, la plus grande ville du Limousin où je vis, a montré au"
+    },
+    {
+      "id": 123,
+      "start": 797.29,
+      "end": 803.57,
+      "start_timestamp": "00:13:17.290",
+      "end_timestamp": "00:13:23.570",
+      "text": "monde entier ce qu'est devenu la France. Mais si l'image a choqué au delà de nos frontières c'est"
+    },
+    {
+      "id": 124,
+      "start": 803.57,
+      "end": 809.53,
+      "start_timestamp": "00:13:23.570",
+      "end_timestamp": "00:13:29.530",
+      "text": "peut-être aussi parce que Limoges porte en elle quelque chose du peuple français tout entier. De"
+    },
+    {
+      "id": 125,
+      "start": 809.53,
+      "end": 816.77,
+      "start_timestamp": "00:13:29.530",
+      "end_timestamp": "00:13:36.770",
+      "text": "sa mise à sac par le prince noir en 1370 à laquelle elle a survécu et fut reconstruite jusqu'à sa"
+    },
+    {
+      "id": 126,
+      "start": 816.77,
+      "end": 823.37,
+      "start_timestamp": "00:13:36.770",
+      "end_timestamp": "00:13:43.370",
+      "text": "libération en 1944 par la seule force de ses habitants et du maquis du Limousin, premier maquis"
+    },
+    {
+      "id": 127,
+      "start": 823.37,
+      "end": 829.73,
+      "start_timestamp": "00:13:43.370",
+      "end_timestamp": "00:13:49.730",
+      "text": "de France, Limoges qui n'a attendu l'aide de personne pour se libérer, Limoges incarne le"
+    },
+    {
+      "id": 128,
+      "start": 829.73,
+      "end": 836.45,
+      "start_timestamp": "00:13:49.730",
+      "end_timestamp": "00:13:56.450",
+      "text": "coeur de la France, notre capacité nationale à surmonter les épreuves que nous envoie le temps et"
+    },
+    {
+      "id": 129,
+      "start": 836.45,
+      "end": 842.29,
+      "start_timestamp": "00:13:56.450",
+      "end_timestamp": "00:14:02.290",
+      "text": "l'histoire. Limoges qui vit en silence heureuse d'être oublié du monde jusqu'au jour où la"
+    },
+    {
+      "id": 130,
+      "start": 842.29,
+      "end": 848.61,
+      "start_timestamp": "00:14:02.290",
+      "end_timestamp": "00:14:08.610",
+      "text": "nécessité commande que cette tranquille résilience se transmute en action de libération nationale."
+    },
+    {
+      "id": 131,
+      "start": 848.61,
+      "end": 855.25,
+      "start_timestamp": "00:14:08.610",
+      "end_timestamp": "00:14:15.250",
+      "text": "Dans l'histoire, Limoges n'a pas fait défaut et la France non plus. C'est pourquoi, contrairement"
+    },
+    {
+      "id": 132,
+      "start": 855.25,
+      "end": 861.57,
+      "start_timestamp": "00:14:15.250",
+      "end_timestamp": "00:14:21.570",
+      "text": "à certains pessimistes, je garde une entière confiance dans mon pays. Samedi 17 octobre Limoges"
+    },
+    {
+      "id": 133,
+      "start": 861.57,
+      "end": 866.97,
+      "start_timestamp": "00:14:21.570",
+      "end_timestamp": "00:14:26.970",
+      "text": "s'est rappelé à tous ceux dont le coeur est français et si tous ces cœurs saignent aujourd'hui,"
+    },
+    {
+      "id": 134,
+      "start": 866.97,
+      "end": 874.61,
+      "start_timestamp": "00:14:26.970",
+      "end_timestamp": "00:14:34.610",
+      "text": "nous portons en nous cette conviction profonde et inébranlable que même incendiés par tous"
+    },
+    {
+      "id": 135,
+      "start": 874.61,
+      "end": 881.57,
+      "start_timestamp": "00:14:34.610",
+      "end_timestamp": "00:14:41.570",
+      "text": "les princes noirs de la terre, même occupés par des forces hostiles, même réduites au silence par"
+    },
+    {
+      "id": 136,
+      "start": 881.57,
+      "end": 888.25,
+      "start_timestamp": "00:14:41.570",
+      "end_timestamp": "00:14:48.250",
+      "text": "le plus malfaisant des pouvoirs, Limoges et la France se relèvent toujours. Il suffit pour cela"
+    },
+    {
+      "id": 137,
+      "start": 888.25,
+      "end": 895.45,
+      "start_timestamp": "00:14:48.250",
+      "end_timestamp": "00:14:55.450",
+      "text": "que son peuple décide pour lui-même. Élection, décolonisation. Vive la France libre."
+    }
+  ]
+}

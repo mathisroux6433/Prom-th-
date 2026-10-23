@@ -1,0 +1,636 @@
+Effectue un contrôle qualité documentaire de la synthèse ci-dessous.
+
+Compare-la uniquement à l'index et à la transcription corrigée archivés. N'effectue aucun fact-checking externe. Contrôle les chiffres, dates, pourcentages, populations statistiques, inversions de sens, raisonnements déformés, attributions, horodatages, citations exactes, arguments importants omis et la cohérence avec l'index.
+
+Corrige seulement les erreurs confirmées par les sources. Ne réécris pas inutilement les passages conformes. Si une incertitude ne peut pas être tranchée, conserve la formulation prudente. Retourne uniquement un objet JSON strict suivant cette structure :
+{
+  "schema_version": "1.0",
+  "video_id": "YxRtBFbAA6A",
+  "verdict": "conforme ou corrigee",
+  "problems": [
+    {
+      "category": "chiffre|date|population|sens|attribution|horodatage|citation|omission|coherence",
+      "severity": "mineure|importante|critique",
+      "description": "problème constaté",
+      "source_evidence": "preuve précise tirée des sources archivées",
+      "timestamp": "HH:MM:SS ou chaîne vide",
+      "correction": "correction effectuée ou recommandée"
+    }
+  ],
+  "revised_synthesis": "texte Markdown intégral, ou @file:nom_du_fichier.md"
+}
+
+Le champ revised_synthesis doit toujours contenir le document Markdown complet : corrigé si nécessaire, sinon identique. Pour une synthèse très longue, il peut contenir `@file:nom_du_fichier.md` et le fichier Markdown doit être placé à côté du JSON de réponse ; seuls les noms de fichiers simples sont acceptés. Le verdict vaut "conforme" si aucune correction n'est requise, "corrigee" si des corrections ont été appliquées.
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "YxRtBFbAA6A",
+  "title": "17 OCTOBRE : LES COUPABLES, LES COMPLICES, LES SUITES À DONNER",
+  "channel": "Le Fil d'Actu - Officiel",
+  "channel_id": "UC9hHeywcPBnLglqnQRaNShQ",
+  "upload_date": "20261021",
+  "duration_seconds": 1325,
+  "webpage_url": "https://www.youtube.com/watch?v=YxRtBFbAA6A",
+  "description": "SOUTENIR NOTRE TRAVAIL :\n▶️  https://fr.tipeee.com/lefildactu/\n\nCOMMANDER LE LIVRE DE TATIANA :\n▶️  https://lefildactueditions.com\n\nS'INSCRIRE À LA NEWSLETTER DE SECOURS\n▶️ https://lefildactu.substack.com/welcome \n\n*****\n\nD'abord, des manifestations. Puis, le soir venu, des scènes de pillage et de destruction en bande organisée. Samedi 17 octobre, le chaos s'est abattu sur les principaux centres-villes de France. Comment a-t-on pu en arriver là ? Qui porte la responsabilité du désastre ? Comment, désormais, espérer retrouver une forme de paix civile que, manifestement, le pouvoir politique n'est plus en mesure de garantir ? Voici les questions, extrêmement graves, que nous avons choisi d'aborder cette semaine avec vous, dans ce Fil d'Actu qu'on aurait préféré ne pas avoir à tourner.\n\n*****\nL'équipe du Fil d'Actu :\nPrésentation : Tatiana Ventôse\nÉcriture : Tommy Lasserre\nRéalisation : Yohann Delozier\n\n#17octobre #macron #limoges",
+  "language": "fr-FR"
+}
+
+SYNTHÈSE À RELIRE :
+# 17 octobre : les coupables, les complices, les suites à donner
+
+- **Chaîne :** Le Fil d'Actu – Officiel
+- **Date :** 21 octobre 2026
+- **Durée :** 22 min 05 s
+- **URL :** https://www.youtube.com/watch?v=YxRtBFbAA6A
+
+## Objet et thèse
+
+Le Fil d'Actu revient sur les pillages et destructions du 17 octobre afin d'identifier des responsabilités et de proposer une sortie de crise. La vidéo condamne sans réserve les actes, refuse de les confondre avec une réédition des Gilets jaunes et répartit les responsabilités entre émeutiers, relais politiques ou culturels et pouvoir exécutif.
+
+## Nature des événements
+
+Les premières minutes décrivent des voitures retournées, des commerces envahis et des groupes masqués se filmant ([0:00](https://www.youtube.com/watch?v=YxRtBFbAA6A&t=0s)). Les auteurs qualifient ces actes d'inexcusables et demandent une réponse rapide. Ils contestent l'idée d'un retour des Gilets jaunes : les catégories sociales à l'origine des ronds-points seraient, selon eux, largement absentes ([3:00](https://www.youtube.com/watch?v=YxRtBFbAA6A&t=180s)).
+
+La vidéo relie les événements au mouvement lycéen antérieur et à une culture politique qui aurait valorisé la confrontation. Elle évoque aussi un ressentiment envers la France et ses institutions, tout en intégrant un témoignage personnel de racisme subi afin de récuser l'idée que toute critique de ces violences procéderait du racisme ([6:00](https://www.youtube.com/watch?v=YxRtBFbAA6A&t=360s)).
+
+## Responsabilités
+
+Trois niveaux se dégagent : les auteurs directs des pillages ; ceux qui les auraient excusés, encouragés ou récupérés ; enfin l'État, accusé d'avoir échoué dans sa mission de sécurité ([12:02](https://www.youtube.com/watch?v=YxRtBFbAA6A&t=722s)). La vidéo oppose la fermeté exercée contre les Gilets jaunes à l'impréparation ou au défaut d'action observé le 17 octobre ([15:00](https://www.youtube.com/watch?v=YxRtBFbAA6A&t=900s)).
+
+Ces accusations sont des positions éditoriales. La transcription ne démontre pas une coordination entre les différents acteurs ni une volonté délibérée de laisser faire.
+
+## Suites proposées
+
+Le Fil d'Actu demande de rétablir l'ordre républicain et d'en donner les moyens aux services concernés ([16:00](https://www.youtube.com/watch?v=YxRtBFbAA6A&t=960s)). Mais il estime qu'une réponse seulement sécuritaire ne résoudrait pas la crise sociale et politique. La « porte de sortie » souhaitée associe autorité publique, refondation démocratique et mobilisation populaire indépendante ([18:02](https://www.youtube.com/watch?v=YxRtBFbAA6A&t=1082s)).
+
+La conclusion invoque la résistance française et le rôle d'un média libre dans la clarification des responsabilités ([20:02](https://www.youtube.com/watch?v=YxRtBFbAA6A&t=1202s)).
+
+
+INDEX DOCUMENTAIRE :
+{
+  "arguments_positions": [
+    {
+      "position": "Les pillages sont inexcusables et distincts des Gilets jaunes",
+      "horodatages": [
+        "00:02:06",
+        "00:03:00"
+      ]
+    },
+    {
+      "position": "Responsabilité conjointe des auteurs, de leurs soutiens et de l'État défaillant",
+      "horodatages": [
+        "00:12:02",
+        "00:14:01"
+      ]
+    },
+    {
+      "position": "La sortie exige ordre républicain et refondation politique",
+      "horodatages": [
+        "00:16:00",
+        "00:18:02"
+      ]
+    }
+  ],
+  "citations_exactes": [],
+  "concepts": [
+    {
+      "nom": "ordre républicain",
+      "horodatages": [
+        "00:16:00"
+      ]
+    },
+    {
+      "nom": "responsabilité politique",
+      "horodatages": [
+        "00:12:02"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "17 octobre 2026",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "nom": "Gilets jaunes",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:03:00",
+        "00:15:00"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "coupables, complices et suites",
+      "horodatages": [
+        "00:12:02"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:08:02"
+      ]
+    },
+    {
+      "nom": "Limoges",
+      "niveau": "mention",
+      "horodatages": [
+        "00:00:00"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "17 octobre",
+    "pillages",
+    "émeutes",
+    "Gilets jaunes",
+    "ordre républicain",
+    "État",
+    "gauche",
+    "résistance"
+  ],
+  "organismes": [
+    {
+      "nom": "État français",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:14:01"
+      ]
+    },
+    {
+      "nom": "police",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:15:00"
+      ]
+    }
+  ],
+  "personnes": [],
+  "relations_documentaires": [
+    {
+      "source": "répression des Gilets jaunes",
+      "relation": "est opposée à",
+      "cible": "impréparation du 17 octobre",
+      "horodatages": [
+        "00:15:00"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:06:00",
+      "titre": "Condamnation des pillages"
+    },
+    {
+      "debut": "00:06:00",
+      "fin": "00:12:00",
+      "titre": "Origines sociales et ressentiment"
+    },
+    {
+      "debut": "00:12:00",
+      "fin": "00:16:00",
+      "titre": "Responsabilités"
+    },
+    {
+      "debut": "00:16:00",
+      "fin": "00:22:05",
+      "titre": "Ordre et sortie politique"
+    }
+  ],
+  "resume_general": "Condamnation des violences du 17 octobre, attribution de responsabilités multiples et appel à conjuguer ordre républicain et refondation politique.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "racisme et appartenance nationale",
+      "horodatages": [
+        "00:10:00",
+        "00:11:03"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "responsabilités du 17 octobre",
+      "horodatages": [
+        "00:12:02"
+      ]
+    },
+    {
+      "theme": "sortie de crise",
+      "horodatages": [
+        "00:18:02"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "violences",
+      "variantes": [
+        "pillages",
+        "destructions",
+        "émeutes"
+      ]
+    }
+  ],
+  "video_id": "YxRtBFbAA6A"
+}
+
+
+TRANSCRIPTION CORRIGÉE :
+[00:00:00.000 --> 00:00:03.920] Bonjour et bienvenue dans le fil d'Actu, l'émission qui donne du sens à l'information.
+[00:00:06.730 --> 00:00:12.290] Une émission spéciale aujourd'hui, car nous allons y revenir sur les événements du samedi 17 octobre,
+[00:00:12.450 --> 00:00:17.970] sur leurs significations et sur ce qu'il convient désormais d'en tirer en matière de grandes décisions politiques.
+[00:00:18.530 --> 00:00:20.530] De quels événements parlons-nous ici ?
+[00:00:20.690 --> 00:00:23.690] Des manifestations qui ont émaillé la journée, bien sûr,
+[00:00:23.930 --> 00:00:28.810] mais surtout des multiples scènes de pillage et de destruction en bande organisée,
+[00:00:29.010 --> 00:00:35.490] dont non seulement Paris, mais aussi l'ensemble des principales villes du pays, ont été le théâtre une fois la nuit tombée.
+[00:00:35.850 --> 00:00:38.010] Nul besoin ici de vous montrer les images.
+[00:00:38.010 --> 00:00:40.810] A priori, à moins que vous n'ayez passé les derniers jours dans une grotte,
+[00:00:40.810 --> 00:00:47.250] vous les avez toutes déjà vues des dizaines de fois, postées directement sur les réseaux ou reprises à la télévision,
+[00:00:47.530 --> 00:00:55.210] celles de la mairie de Limoges en flammes, de ces magasins ravagés, entièrement pillés pour certains incendiers dans des dizaines de centres-villes,
+[00:00:55.530 --> 00:01:00.570] de la mairie de Marseille saccagée, de l'office de tourisme de Lyon brûlé,
+[00:01:00.850 --> 00:01:06.010] de ces voitures retournées, de ces centres commerciaux envahis par des centaines d'encapuchonnés se filmant
+[00:01:06.250 --> 00:01:12.050] en train de repartir tranquillement avec le butin de leur radia, ordinateur, PlayStation ou maillot du PSG,
+[00:01:12.490 --> 00:01:17.290] de ces individus jetant des cheminées sur la police depuis le toit d'immeubles parisiens,
+[00:01:17.610 --> 00:01:23.530] ou encore de ce gérant niçois d'un magasin de jeux vidéo se faisant pour avoir tenté de défendre son commerce,
+[00:01:23.730 --> 00:01:30.970] attaqué à coups de pied dans le dos par un émeutier sous les rires de dizaines de personnes au même profil filmant la scène.
+[00:01:31.210 --> 00:01:38.130] Des actes d'une gravité extrême, barbare, moralement inacceptable, à minima délictueux,
+[00:01:38.330 --> 00:01:46.930] parfois criminels, pour certains passibles de plusieurs années de prison ferme et qui n'ont dans le contexte actuel absolument rien de révolutionnaire.
+[00:01:47.130 --> 00:01:55.690] Bien au contraire même, puisqu'il contribue uniquement à aggraver le chaos ambiant déjà causé par des années de décisions politiques désastreuses,
+[00:01:55.930 --> 00:02:06.370] à rendre pour les Français la réalité plus invivable que jamais, sans offrir au pays la moindre issue un tant soit peu positive à la crise qu'ils révèlent et exacerbent.
+[00:02:06.570 --> 00:02:14.730] Des actes donc inexcusables, à tous égards, qu'il importe de faire cesser au plus vite et auxquels il convient d'apporter une réponse rapide,
+[00:02:14.730 --> 00:02:21.930] autant sur les plans judiciaires que politiques, mais dont il faut pour cela accepter de regarder en face, sans tabou,
+[00:02:22.130 --> 00:02:34.130] comment ils ont pu se produire dans la France de 2026 en identifiant au passage clairement les coupables, leurs complices, les responsables directs et indirects du désastre,
+[00:02:34.330 --> 00:02:43.130] et en remontant à la source du mal qui s'est abattu le 17 octobre sur notre pays, sans qu'a priori les services de l'État n'aient été en mesure de l'anticiper.
+[00:02:43.730 --> 00:02:54.730] Pour commencer, que s'est-il vraiment passé samedi 17 octobre ? Principalement deux choses, certes liées par bien des aspects, mais essentiellement distinctes.
+[00:02:54.930 --> 00:03:00.730] D'abord, dans la matinée ou en début d'après-midi, des manifestations dans la plupart des villes de France.
+[00:03:00.930 --> 00:03:09.730] Des manifestations vendues comme le retour des gilets jaunes, mais dont en réalité les catégories sociales à l'origine du mouvement des ronds-points de 2018,
+[00:03:10.530 --> 00:03:16.530] ouvriers, artisans, agriculteurs, employés d'exécution de la France périphérique, étaient majoritairement absentes.
+[00:03:16.730 --> 00:03:26.530] Ces catégories avaient été remplacées ici par celles plus rompus à ce type d'exercices, agents et cadres de la fonction publique, étudiants, lycéens,
+[00:03:26.730 --> 00:03:34.530] rassemblés à l'appel de leurs syndicats, de la France Insoumise et globalement de tous les partis politiques, associations et organisations
+[00:03:34.730 --> 00:03:38.530] à l'initiative de la plupart des manifestations de fonctionnaires depuis des années.
+[00:03:38.530 --> 00:03:47.130] Puis, dans un second temps, ont afflué vers les lieux de rassemblement de véritables hordes de pillards à la sociologie très différente,
+[00:03:47.330 --> 00:03:52.330] et qui, une fois la nuit tombée, ont entièrement pris possession des centres-villes.
+[00:03:52.530 --> 00:04:01.730] Ceci, évidemment, sans la moindre revendication politique, avec pour seul objectif de retourner le pays et de dévaliser les commerces,
+[00:04:02.730 --> 00:04:12.530] à la faveur du chaos provoqué, tout cela avec la bénédiction, voire l'appui actif, d'une fraction, la plus stupide et la plus fanatisée,
+[00:04:12.730 --> 00:04:20.530] des manifestants du début de journée, convaincus, dans leur délire insurrectionnaliste, d'être en train de vivre à un nouveau 1789.
+[00:04:20.730 --> 00:04:23.530] La journée d'hier, voilà, c'était quelque chose, les gars !
+[00:04:41.370 --> 00:04:45.170] Donc, il y a tellement de caractéristiques nouvelles que la première question à se poser,
+[00:04:45.170 --> 00:04:47.970] ce n'est pas de recommencer le vieux sketch comme il y a de poubelles qui brûlent,
+[00:04:48.170 --> 00:04:52.970] des chiffres invraisemblables de policiers et de gendarmes blessés, enfin, ça ne tient pas debout !
+[00:04:53.170 --> 00:04:54.970] Ils ont dû se blesser avec un trombone, ce n'est pas possible !
+[00:05:13.320 --> 00:05:18.120] Merci Paris ! Voilà, merci Paris ! Merci Paname ! Merci Paname !
+[00:05:18.320 --> 00:05:21.120] Eh, vous êtes des tueurs, les gars ! Les gars, on a tout arraché, les gars !
+[00:05:21.320 --> 00:05:25.120] Moi, je parle vraiment au petit ! Les gars, vous avez choqué !
+[00:05:25.320 --> 00:05:30.120] Et en vrai, je suis d'accord à les piller à Micromania, en vrai, il y avait sûrement mieux à faire que ça !
+[00:05:30.120 --> 00:05:33.920] Brûler une mairie aussi stylée que celle de l'image, ça aussi, ce n'était pas nécessaire !
+[00:05:34.120 --> 00:05:36.920] Mais le combat, lui, il n'est pas que légitime, c'est ce que disent les télés.
+[00:05:37.120 --> 00:05:40.920] Il est nécessaire, donc on va continuer à le faire. Par contre, on va mieux le faire.
+[00:05:41.120 --> 00:05:41.920] C'est ça la leçon qu'il faut tirer.
+[00:05:43.120 --> 00:05:47.920] Le 24, j'ai entendu que nous, Marseille, on va partir à Paris !
+[00:05:49.120 --> 00:05:52.920] Il n'y a plus rien à récupérer chez nous, on arrive chez vous !
+[00:05:56.120 --> 00:05:58.920] Et ce basculement dans le chaos ne vient pas de nulle part.
+[00:06:00.120 --> 00:06:05.920] Il s'inscrit en réalité dans la continuité du soi-disant mouvement lycéen de ces dernières semaines.
+[00:06:06.120 --> 00:06:10.920] Un mouvement, nous vous le disions dans notre dernière vidéo, parti de la banlieue parisienne,
+[00:06:11.120 --> 00:06:17.320] marqué dès ses débuts par une violence ouverte et à la sociologie là aussi très particulière.
+[00:06:17.520 --> 00:06:24.120] La même, en l'occurrence, que celle des émeutiers du 17 octobre, soit des jeunes lycéens ou non,
+[00:06:24.320 --> 00:06:29.920] ayant grandi dans des familles souvent immigrées ou issues d'une immigration majoritairement africaine.
+[00:06:30.120 --> 00:06:34.920] Maghrébines ou sub-sahariennes concentraient ces dernières décennies dans les banlieues
+[00:06:35.120 --> 00:06:39.920] afin de servir de main-d'œuvre domestique bon marché à la bourgeoisie des centre-villes.
+[00:06:40.120 --> 00:06:44.920] Des jeunes, principalement des jeunes hommes, ayant côtoyé très tôt la violence et la délinquance
+[00:06:45.120 --> 00:06:50.920] et évoluant dans un univers culturel assez particulier, marqué notamment par le poids de l'islam.
+[00:06:51.120 --> 00:06:54.920] L'islam en tant que religion, mais aussi dans leur conception des choses,
+[00:06:55.920 --> 00:07:00.720] seules fondements véritables de la loi des hommes par opposition avec la république.
+[00:07:00.920 --> 00:07:04.720] Un univers culturel marqué également par un ressentiment,
+[00:07:04.920 --> 00:07:08.720] artificiellement entretenu ces dernières années, nous y reviendrons, envers la France
+[00:07:08.920 --> 00:07:14.120] pour un passé colonial que ni eux, ni leurs parents n'ont évidemment connu.
+[00:07:14.320 --> 00:07:19.720] Des jeunes qui, ces dernières semaines, se sont illustrés en mettant le feu à des lycées,
+[00:07:19.920 --> 00:07:24.120] d'abord en Seine-Saint-Denis, puis dans les banlieues des principales villes de France,
+[00:07:24.120 --> 00:07:27.920] en ravageant des bureaux de vie scolaire, en agressant des proviseurs,
+[00:07:28.120 --> 00:07:30.920] ou encore en aspergeant des professeurs d'essence,
+[00:07:31.120 --> 00:07:35.920] avant que syndicats et partis politiques ne donnent un sens politique à ces actes
+[00:07:36.120 --> 00:07:39.920] pour pouvoir construire dessus leur propre mouvement lycéen.
+[00:07:40.120 --> 00:07:43.920] Encore une fois, pour plus de détails, nous vous renvoyons à notre émission de la semaine dernière
+[00:07:44.120 --> 00:07:45.920] dont le lien se trouve en barre d'infos sous cette vidéo.
+[00:07:46.120 --> 00:07:49.920] Mais pour revenir sur cette population à la sociologie si particulière,
+[00:07:49.920 --> 00:07:54.720] il se trouve que ce n'était pas la première fois le mois dernier qu'elle faisait parler d'elle en France.
+[00:07:54.920 --> 00:07:58.720] Déjà, en 2023, c'est elle qui avait fourni le gros des troupes
+[00:07:58.920 --> 00:08:02.720] aux émeutes urbaines consécutives à la mort du jeune Naël Merzouk,
+[00:08:02.920 --> 00:08:06.720] émeute qui, pour la première fois sur l'ensemble du territoire français,
+[00:08:06.920 --> 00:08:10.720] avait débordé le strict cadre des banlieues pour toucher les centres-villes
+[00:08:10.920 --> 00:08:14.720] et donner lieu à des scènes de pillages, de destructions et d'incendies
+[00:08:14.920 --> 00:08:17.720] jusque dans certaines petites villes de province.
+[00:08:17.720 --> 00:08:20.520] À ce moment-là, un palier a été franchi.
+[00:08:20.720 --> 00:08:24.520] Mais un palier dans un mouvement général déjà à l'œuvre depuis longtemps.
+[00:08:24.720 --> 00:08:28.520] Et qu'à tout moment, il aurait été possible pour nos gouvernants de freiner,
+[00:08:28.720 --> 00:08:31.520] voire d'arrêter, en acceptant de regarder le problème en face
+[00:08:31.720 --> 00:08:34.520] et en l'attaquant à la racine.
+[00:08:34.720 --> 00:08:38.520] Sauf qu'au lieu de cela, ces gens, supposés être au service de la France,
+[00:08:38.720 --> 00:08:41.520] ont préféré mettre le problème sous le tapis.
+[00:08:41.720 --> 00:08:44.520] Ne rien faire, laisser la situation empirer.
+[00:08:44.520 --> 00:08:47.320] Et quand il se trouvait quelqu'un pour seulement soulever la question,
+[00:08:47.520 --> 00:08:50.320] pour constater les faits alarmants, discréditer la personne
+[00:08:50.520 --> 00:08:54.320] en lui imputant des motivations nécessairement racistes,
+[00:08:54.520 --> 00:08:57.320] poussant ainsi l'ensemble des gens de bonne foi,
+[00:08:57.520 --> 00:09:00.320] pourtant sincèrement préoccupés par la tournure des événements,
+[00:09:00.520 --> 00:09:03.320] à s'auto-censurer et à faire semblant que tout allait bien
+[00:09:03.520 --> 00:09:06.320] avec les banlieues françaises et que les agressions, les trafics,
+[00:09:06.520 --> 00:09:09.320] les flambées de violence, les meurtres comme celui du jeune Thomas Perrotto
+[00:09:09.520 --> 00:09:12.320] dans la petite commune de Crépole, étaient en fait devenus
+[00:09:12.320 --> 00:09:17.120] une norme à laquelle les Français n'avaient qu'à s'habituer.
+[00:09:17.320 --> 00:09:21.120] Pire, dans le même temps, une fraction de la classe politique,
+[00:09:21.320 --> 00:09:24.120] minoritaire mais influente sur le plan culturel,
+[00:09:24.320 --> 00:09:28.120] s'est carrément mise, sous l'impulsion notable de Jean-Luc Mélenchon,
+[00:09:28.320 --> 00:09:31.120] à faire de l'émeutier de banlieues pillant les commerces
+[00:09:31.320 --> 00:09:34.120] une figure positive, porteuse de revendications
+[00:09:34.320 --> 00:09:36.120] en matière de justice sociale.
+[00:09:36.320 --> 00:09:41.120] Le contexte, un deuxième tour d'élection présidentielle manqué en 2017
+[00:09:41.120 --> 00:09:44.920] a 600 000 voix près seulement, de quoi amener le leader
+[00:09:45.120 --> 00:09:48.920] de la toute récente France insoumise à faire un calcul simple.
+[00:09:49.120 --> 00:09:51.920] Ces voix, elles sont en banlieue et pour aller les chercher,
+[00:09:52.120 --> 00:09:53.920] il faudra donc s'adresser aux jeunes de banlieue,
+[00:09:54.120 --> 00:09:55.920] braquer les projecteurs sur eux,
+[00:09:56.120 --> 00:09:59.920] donner à la moindre flambée de violence gratuite un sens politique,
+[00:10:00.120 --> 00:10:03.920] accroître leurs ressentiments envers la France et ses institutions,
+[00:10:04.120 --> 00:10:06.920] en pointant dans les discours de manière de plus en plus systématique
+[00:10:07.120 --> 00:10:09.920] les injustices d'une colonisation pourtant terminée
+[00:10:09.920 --> 00:10:13.720] depuis plus de 60 ans, la violence et le racisme de la police,
+[00:10:13.920 --> 00:10:17.720] l'islamophobie de l'État, et globalement ériger la figure
+[00:10:17.920 --> 00:10:20.720] du jeune racisé victime d'injustices
+[00:10:20.920 --> 00:10:23.720] en nouvelle figure révolutionnaire du XXIe siècle.
+[00:10:23.920 --> 00:10:26.720] Une méthode testée avec l'instrumentalisation
+[00:10:26.920 --> 00:10:29.720] de la mort du délinquant Adama Traoré,
+[00:10:29.920 --> 00:10:32.720] puis affinée lors des émeutes de 2023
+[00:10:32.920 --> 00:10:35.720] et donc perfectionnée à l'occasion de ces dernières semaines,
+[00:10:35.920 --> 00:10:38.720] au cours desquelles le leader de la France insoumise
+[00:10:38.720 --> 00:10:41.520] a tout de même réussi le tour de force
+[00:10:41.720 --> 00:10:43.520] de faire passer des banlieusards de 20 ans
+[00:10:43.720 --> 00:10:45.520] en mettant le feu à des lycées
+[00:10:45.720 --> 00:10:49.520] pour de gentils enfants injustement réprimés par un État raciste
+[00:10:49.720 --> 00:10:52.520] alors qu'il voulait simplement de meilleures conditions d'éducation
+[00:10:52.720 --> 00:10:55.520] et pour cela plus de moyens pour l'école publique.
+[00:10:55.720 --> 00:10:59.520] Et c'est pourquoi, m'adressant à vous autres les plus jeunes,
+[00:10:59.720 --> 00:11:03.520] je sais que peut-être vous avez moins d'incertitudes que j'en avais.
+[00:11:03.720 --> 00:11:07.520] Lorsqu'accueillis ici, je fus somptueusement traité de bougnoule
+[00:11:07.520 --> 00:11:10.320] par ceux qui nous rassurent, et donc j'ai commencé à 11 ans,
+[00:11:10.520 --> 00:11:14.320] quelque chose que beaucoup d'entre vous ont commencé à connaître
+[00:11:14.520 --> 00:11:17.320] à peu près au même âge, à le découvrir et à le comprendre,
+[00:11:17.520 --> 00:11:21.320] le racisme, la xénophobie, portée en général par des ignorants.
+[00:11:22.520 --> 00:11:26.320] Un tour de force certes, mais qui n'est pas sans conséquences,
+[00:11:26.520 --> 00:11:30.320] car en attisant très littéralement les flammes,
+[00:11:30.520 --> 00:11:33.320] tout en mobilisant en parallèle ses propres militants
+[00:11:33.520 --> 00:11:35.320] issus de la petite bourgeoisie de centre-ville
+[00:11:35.320 --> 00:11:39.120] sur un mouvement plus classique de lycéens et de fonctionnaires,
+[00:11:39.320 --> 00:11:42.120] Mélenchon, à part bien des aspects,
+[00:11:42.320 --> 00:11:46.120] créé les conditions nécessaires à la déflagration du 17 octobre.
+[00:11:46.320 --> 00:11:50.120] Celles où des manifestations dans la plupart des villes de France
+[00:11:50.320 --> 00:11:53.120] allaient permettre à des émeutiers galvanisés
+[00:11:53.320 --> 00:11:56.120] par l'attention leur ayant été accordée au cours des dernières semaines
+[00:11:56.320 --> 00:11:59.120] de se fondre dans la masse et de donner libre cours
+[00:11:59.320 --> 00:12:02.120] à leurs instincts de destruction et de pillage.
+[00:12:02.320 --> 00:12:05.120] Ce qui donc n'a pas manqué de se produire
+[00:12:05.320 --> 00:12:08.120] et ça a dû constituer une grande surprise pour le leader insoumis
+[00:12:08.320 --> 00:12:10.120] dans la mesure où, en amont du 17,
+[00:12:10.320 --> 00:12:14.120] des centaines de vidéos de banlieusards annonçant clairement
+[00:12:14.320 --> 00:12:16.120] leur intention de profiter de la manifestation
+[00:12:16.320 --> 00:12:19.120] pour fondre sur les villes et dévaliser les magasins
+[00:12:19.320 --> 00:12:21.120] circulés sur TikTok et les réseaux sociaux.
+[00:12:24.320 --> 00:12:26.120] T'as eu le 17 octobre ?
+[00:12:26.320 --> 00:12:28.120] Wallah, il y a des mecs qui vont devenir millionnaires, les gars.
+[00:12:28.320 --> 00:12:30.120] Ils vont remplir des vrits kabbas.
+[00:12:30.320 --> 00:12:32.120] On est bientôt le 17 octobre.
+[00:12:32.320 --> 00:12:34.120] Là, ce que je vais faire le 17 octobre.
+[00:12:34.120 --> 00:12:35.920] Là, ce que je vais faire le 17 octobre.
+[00:12:36.120 --> 00:12:37.920] Wallah, que Dieu me pardonne.
+[00:12:38.120 --> 00:12:39.920] Il y a le PLP pour les mousques.
+[00:12:40.120 --> 00:12:41.920] La journée d'hier.
+[00:12:42.120 --> 00:12:43.920] Wallah, c'était quelque chose, les gars.
+[00:12:45.120 --> 00:12:47.920] Alors oui, en cela, Jean-Luc Mélenchon et ses militants
+[00:12:48.120 --> 00:12:51.920] portent évidemment une lourde responsabilité
+[00:12:52.120 --> 00:12:53.920] dans les événements du 17 octobre.
+[00:12:54.120 --> 00:12:57.920] Spécifiquement par le petit jeu auquel ils ont joué ces dernières semaines,
+[00:12:58.120 --> 00:13:01.920] mais plus globalement aussi par la stratégie électorale de fonds
+[00:13:01.920 --> 00:13:03.720] qui est maintenant la leur depuis près de 10 ans,
+[00:13:03.920 --> 00:13:06.720] qui consiste à romantiser la banlieue
+[00:13:06.920 --> 00:13:08.720] et à dépeindre en révolutionnaire
+[00:13:08.920 --> 00:13:11.720] ceux qui ne sont en réalité que de vulgaires délinquants
+[00:13:11.920 --> 00:13:13.720] ou des criminels.
+[00:13:13.920 --> 00:13:16.720] Reste que cette responsabilité évidente
+[00:13:16.920 --> 00:13:18.720] ne doit pas nous en faire oublier une autre,
+[00:13:18.920 --> 00:13:21.720] pourtant bien plus écrasante, dans cette affaire.
+[00:13:21.920 --> 00:13:23.720] Car ce qu'il conviendrait de ne pas oublier,
+[00:13:23.920 --> 00:13:25.720] c'est que ce n'est pas Jean-Luc Mélenchon
+[00:13:25.920 --> 00:13:27.720] qui est aux commandes de ce pays depuis 10 ans.
+[00:13:27.920 --> 00:13:29.720] Ce n'est pas Jean-Luc Mélenchon
+[00:13:29.720 --> 00:13:31.520] qui, à chaque fois qu'un palier de violence gratuite
+[00:13:31.720 --> 00:13:33.520] est franchi dans les banlieues,
+[00:13:33.720 --> 00:13:36.520] laisse les choses se dérouler et regarde ailleurs.
+[00:13:36.720 --> 00:13:38.520] Ce n'est pas non plus Jean-Luc Mélenchon
+[00:13:38.720 --> 00:13:41.520] qui, ces dernières semaines, a laissé des hordes d'émeutiers
+[00:13:41.720 --> 00:13:45.520] saccager des lycées et agresser des personnels de l'Education nationale,
+[00:13:45.720 --> 00:13:47.520] alors même qu'il était supposé disposer
+[00:13:47.720 --> 00:13:49.520] de l'ensemble de l'appareil d'État
+[00:13:49.720 --> 00:13:52.520] et donc du monopole de la violence légitime.
+[00:13:52.720 --> 00:13:54.520] Et surtout, ce n'est pas Jean-Luc Mélenchon
+[00:13:54.720 --> 00:13:57.520] qui, le 17 octobre, avait la charge de protéger les Français.
+[00:13:57.720 --> 00:13:59.520] On pourrait dire heureusement
+[00:13:59.720 --> 00:14:01.520] leur bien personnel et leur patrimoine commun
+[00:14:01.720 --> 00:14:06.520] et qui a, à ce propos, lamentablement failli à sa mission.
+[00:14:06.720 --> 00:14:10.520] Ici, le véritable responsable direct de ce chaos
+[00:14:10.720 --> 00:14:13.520] est évidemment, comme souvent, Emmanuel Macron en personne,
+[00:14:13.720 --> 00:14:15.520] un président de la République
+[00:14:15.720 --> 00:14:17.520] qui a laissé nos centres-villes en proie aux flammes.
+[00:14:17.720 --> 00:14:20.520] De manière, d'ailleurs, il faut l'avouer, assez troublante,
+[00:14:20.720 --> 00:14:22.520] car, nous l'avons dit,
+[00:14:22.720 --> 00:14:26.520] les pillards du 17 n'ont pas fait mystère de leurs intentions.
+[00:14:26.720 --> 00:14:28.520] Dans ces conditions, difficile d'imaginer
+[00:14:28.520 --> 00:14:31.320] que le renseignement français ait pu ne pas avoir
+[00:14:31.520 --> 00:14:33.320] ce qui risquait de se passer.
+[00:14:33.520 --> 00:14:36.320] Pourtant, le jour du choc, la police semble avoir concentré
+[00:14:36.520 --> 00:14:39.320] toute son action sur les manifestations de la journée
+[00:14:39.520 --> 00:14:41.320] comme si le risque principal
+[00:14:41.520 --> 00:14:43.320] étaient les quelques centaines de militants
+[00:14:43.520 --> 00:14:46.320] de groupuscules violents habitués de ce genre de rassemblement
+[00:14:46.520 --> 00:14:49.320] et pas les milliers de racailles
+[00:14:49.520 --> 00:14:51.320] uniquement motivés par l'appât du gain.
+[00:14:51.520 --> 00:14:54.320] Des racailles qui ont pu déferler à la nuit tombées
+[00:14:54.520 --> 00:14:57.320] sans être quasiment inquiétées par la police
+[00:14:57.320 --> 00:15:00.120] et par un pouvoir politique n'ayant pourtant pas hésité
+[00:15:00.320 --> 00:15:04.120] ces dernières années à réprimer très durement les gilets jaunes,
+[00:15:04.320 --> 00:15:07.120] les vrais, pas ceux du lycée Paul-Éluard de Saint-Denis,
+[00:15:07.320 --> 00:15:10.120] ou à envoyer des blindes et des hélicoptères
+[00:15:10.320 --> 00:15:12.120] contre des paysans souhaitant uniquement vivre
+[00:15:12.320 --> 00:15:15.120] d'un travail consistant à nourrir la France.
+[00:15:15.320 --> 00:15:18.120] Alors, s'agit-il là d'une énorme erreur d'appréciation
+[00:15:18.320 --> 00:15:21.120] de la situation de la part d'un exécutif
+[00:15:21.320 --> 00:15:23.120] qui, plus de 24 heures après les faits,
+[00:15:23.320 --> 00:15:26.120] continuait de pointer la responsabilité centrale
+[00:15:26.120 --> 00:15:27.920] d'une poignée de casseurs d'ultra-gauche
+[00:15:28.120 --> 00:15:31.920] pour ne toujours pas avoir à nommer le véritable problème ?
+[00:15:32.120 --> 00:15:34.920] Ou, plus grave, comme certains commencent à se le demander,
+[00:15:35.120 --> 00:15:37.920] d'une volonté délibérée d'exacerber les tensions
+[00:15:38.120 --> 00:15:39.920] dans le pays pour des raisons obscures.
+[00:15:40.120 --> 00:15:41.920] Il est impossible pour nous d'apporter à cette question
+[00:15:42.120 --> 00:15:43.920] une réponse catégorique.
+[00:15:44.120 --> 00:15:45.920] Reste que, dans un cas comme dans l'autre,
+[00:15:46.120 --> 00:15:47.920] un constat terrible s'impose désormais.
+[00:15:48.120 --> 00:15:49.920] Et ce constat, le voici.
+[00:15:50.120 --> 00:15:52.920] Après avoir laissé pendant des années la France
+[00:15:53.120 --> 00:15:54.920] s'enfoncer dans l'abîme,
+[00:15:54.920 --> 00:15:57.720] voilà que le pouvoir en place n'est plus aujourd'hui
+[00:15:57.920 --> 00:16:00.720] en mesure d'assurer la sécurité élémentaire des citoyens,
+[00:16:00.920 --> 00:16:02.720] les bases de l'ordre républicain,
+[00:16:02.920 --> 00:16:06.720] ni la continuité des institutions et de la vie économique.
+[00:16:06.920 --> 00:16:09.720] Le président de la République et, avec lui, le gouvernement
+[00:16:09.920 --> 00:16:12.720] n'ont plus aucun contrôle sur la situation,
+[00:16:12.920 --> 00:16:16.720] sont incapables d'exercer leur autorité sur le territoire
+[00:16:16.920 --> 00:16:18.720] et de garantir la paix civile,
+[00:16:18.920 --> 00:16:21.720] en bref, ne sont plus aptes matériellement
+[00:16:21.920 --> 00:16:23.720] à diriger la France.
+[00:16:23.720 --> 00:16:26.520] Dans ces conditions, une seule solution s'impose.
+[00:16:26.720 --> 00:16:29.520] Le président de la République doit partir.
+[00:16:29.720 --> 00:16:31.520] Il doit démissionner de son poste
+[00:16:31.720 --> 00:16:33.520] afin que les Français puissent, dès à présent,
+[00:16:33.720 --> 00:16:37.520] et pas dans six mois, se choisir un nouveau chef de l'État,
+[00:16:37.720 --> 00:16:40.520] qu'ils jugeront à même de faire face à la situation que nous vivons.
+[00:16:40.720 --> 00:16:43.520] Ainsi, pour résoudre la crise qu'il a créée,
+[00:16:43.720 --> 00:16:45.520] Emmanuel Macron doit démissionner.
+[00:16:45.720 --> 00:16:48.520] Comme le prévoit la constitution de la Ve République,
+[00:16:48.720 --> 00:16:51.520] le président du Sénat, Gérard Larcher,
+[00:16:51.520 --> 00:16:53.320] ça ne nous amuse pas, mais c'est la règle,
+[00:16:53.520 --> 00:16:55.320] doit devenir président par intérim
+[00:16:55.520 --> 00:16:59.320] et annoncer la tenue d'élection sous 20 à 35 jours.
+[00:16:59.520 --> 00:17:01.320] Il doit, comme la constitution l'y autorise,
+[00:17:01.520 --> 00:17:04.320] se donner tous les moyens de maintenir l'ordre
+[00:17:04.520 --> 00:17:05.320] dans la période d'intérim
+[00:17:05.520 --> 00:17:08.320] et surtout de permettre la tenue, dans des conditions correctes,
+[00:17:08.520 --> 00:17:10.320] d'une élection démocratique
+[00:17:10.520 --> 00:17:13.320] où chaque Français pourra se rendre en bureau de vote
+[00:17:13.520 --> 00:17:16.320] et voter sans contrainte pour le candidat de son choix.
+[00:17:16.520 --> 00:17:19.320] Les règles des 500 signatures devront être contournées
+[00:17:19.320 --> 00:17:22.120] pour permettre à minima que les principaux candidats déclarés,
+[00:17:22.320 --> 00:17:25.120] Édouard Philippe, Jean-Luc Mélenchon, Marine Le Pen, par exemple,
+[00:17:25.320 --> 00:17:28.120] puissent se présenter et que le peuple français
+[00:17:28.320 --> 00:17:31.120] puisse décider lequel est le plus à même
+[00:17:31.320 --> 00:17:33.120] de ramener la paix civile en France.
+[00:17:33.320 --> 00:17:36.120] Ensuite, ce sera au président nouvellement élu,
+[00:17:36.320 --> 00:17:39.120] fort d'une légitimité démocratique incontestable
+[00:17:39.320 --> 00:17:41.120] qu'il appartiendra de prendre les mesures
+[00:17:41.320 --> 00:17:44.120] qu'il estime nécessaires pour remettre le pays sur pied
+[00:17:44.320 --> 00:17:46.120] et éventuellement de proposer aux Français
+[00:17:46.320 --> 00:17:48.120] une nouvelle constitution de vote.
+[00:17:48.120 --> 00:17:50.920] C'est une nouvelle constitution s'il estime que l'actuelle
+[00:17:51.120 --> 00:17:52.920] ne lui permet plus de répondre aux enjeux de la période,
+[00:17:53.120 --> 00:17:55.920] la situation actuelle de la France étant, par bien des aspects,
+[00:17:56.120 --> 00:17:57.920] plus grave qu'en 1958.
+[00:17:58.120 --> 00:18:01.920] Ce scénario aujourd'hui représente la seule issue honorable,
+[00:18:02.120 --> 00:18:04.920] la seule porte de sortie souhaitable à la crise
+[00:18:05.120 --> 00:18:06.920] que Macron a lui-même créée
+[00:18:07.120 --> 00:18:09.920] et dont plus personne ne compte sur lui pour la résoudre
+[00:18:10.120 --> 00:18:11.920] et ramener un semblant d'ordre.
+[00:18:12.120 --> 00:18:13.920] A-t-il des chances d'advenir ?
+[00:18:14.120 --> 00:18:15.920] Soyons honnêtes, non.
+[00:18:15.920 --> 00:18:18.720] Il est peu probable que Macron démissionne,
+[00:18:18.920 --> 00:18:20.720] ce qui nous donne comme perspective d'avenir
+[00:18:20.920 --> 00:18:23.720] que six mois de chaos supplémentaire,
+[00:18:23.920 --> 00:18:26.720] avec peut-être en ligne de mire le franchissement brutal
+[00:18:26.920 --> 00:18:29.720] et rapide de nouveaux paliers d'intensité.
+[00:18:29.920 --> 00:18:31.720] Quelle sera la conclusion de tout cela ?
+[00:18:31.920 --> 00:18:33.720] Difficile aujourd'hui de le prédire.
+[00:18:33.920 --> 00:18:35.720] Dans tous les cas, c'est le peuple,
+[00:18:35.920 --> 00:18:39.720] le seul véritable garant de l'ordre public qui tranchera.
+[00:18:39.920 --> 00:18:41.720] Ce jour-là, gageons qu'il se souviendra
+[00:18:41.920 --> 00:18:44.720] de toutes les humiliations subies ces dix dernières années
+[00:18:44.720 --> 00:18:47.520] et du nom de ceux qui les lui auront infligés.
+[00:18:47.720 --> 00:18:49.520] En attendant, il nous est difficile de trouver
+[00:18:49.720 --> 00:18:52.520] pour cette vidéo une quelconque conclusion heureuse.
+[00:18:52.720 --> 00:18:55.520] On ne va pas vous mentir, la situation de la France est grave
+[00:18:55.720 --> 00:18:58.520] et nous ne voyons pas comment, à court terme,
+[00:18:58.720 --> 00:19:00.520] les choses pourraient s'arranger.
+[00:19:00.720 --> 00:19:02.520] D'ailleurs, même s'il nous semble nécessaire
+[00:19:02.720 --> 00:19:04.520] que les Français puissent décider au plus vite
+[00:19:04.720 --> 00:19:07.520] d'une nouvelle orientation politique pour leur pays,
+[00:19:07.720 --> 00:19:08.520] il est très peu probable,
+[00:19:08.720 --> 00:19:10.520] au regard des programmes présentés par chacun,
+[00:19:10.720 --> 00:19:12.520] que les problèmes structurels de la France
+[00:19:12.520 --> 00:19:16.320] soient résolus par une simple élection présidentielle.
+[00:19:16.520 --> 00:19:19.320] Quoi qu'il arrive, des années terribles nous attendent.
+[00:19:19.520 --> 00:19:23.320] Bien sûr, des difficultés finiront par émerger des solutions
+[00:19:23.520 --> 00:19:26.320] et la France finira par être reconstruite.
+[00:19:26.520 --> 00:19:29.320] Mais d'ici là, nous n'allons pas nous le cacher,
+[00:19:29.520 --> 00:19:32.320] les choses vont être très, très dures.
+[00:19:32.520 --> 00:19:34.320] Dans ce contexte, on ne peut, hélas,
+[00:19:34.520 --> 00:19:37.320] que vous en joindre à rester forts, à rester lucides,
+[00:19:37.520 --> 00:19:41.320] à vous informer et à rester dignes dans l'adversité.
+[00:19:41.320 --> 00:19:45.120] À ne rien céder à la barbarie, à prendre soin des vôtres
+[00:19:45.320 --> 00:19:48.120] et, si vous le pouvez, à rester éloignés des poudrières
+[00:19:48.320 --> 00:19:50.120] que représentent les grandes villes,
+[00:19:50.320 --> 00:19:54.120] à anticiper les coups et surtout à garder l'espoir.
+[00:19:54.320 --> 00:19:56.120] Car, comme le disait le général de Gaulle
+[00:19:56.320 --> 00:19:59.120] au plus sombre de la nuit, le dernier mot n'est pas dit,
+[00:19:59.320 --> 00:20:02.120] rien n'est perdu pour la France et, quoi qu'il arrive,
+[00:20:02.320 --> 00:20:05.120] la flamme de la résistance française ne s'éteindra pas.
+[00:20:05.320 --> 00:20:10.490] Ici, au fil d'actu, c'est notre conviction profonde
+[00:20:10.690 --> 00:20:12.490] et c'est pour cette raison que contre vents et marées
+[00:20:12.490 --> 00:20:14.290] nous nous efforçons, semaine après semaine,
+[00:20:14.490 --> 00:20:17.290] de comprendre avec vous le sens réel des événements.
+[00:20:17.490 --> 00:20:19.290] Même s'ils ne nous font pas plaisir
+[00:20:19.490 --> 00:20:22.290] et qu'il serait sans doute plus agréable comme d'autres
+[00:20:22.490 --> 00:20:24.290] de se réfugier dans un monde imaginaire
+[00:20:24.490 --> 00:20:26.290] et de prétendre que des hordes barbares
+[00:20:26.490 --> 00:20:28.290] rasant tout sur leur passage
+[00:20:28.490 --> 00:20:30.290] seraient en fait des libérateurs,
+[00:20:30.490 --> 00:20:32.290] porteurs de la promesse d'un avenir radieux.
+[00:20:32.490 --> 00:20:35.290] C'est là une facilité à laquelle nous ne cederons jamais.
+[00:20:35.490 --> 00:20:38.290] Si vous appuyez cette démarche qui est la nôtre,
+[00:20:38.490 --> 00:20:41.290] si vous aussi préférez regarder en face la réalité,
+[00:20:41.290 --> 00:20:44.090] aussi moche soit-elle, plutôt que de la fuir,
+[00:20:44.290 --> 00:20:47.090] alors nous vous invitons bien sûr à soutenir notre travail.
+[00:20:47.290 --> 00:20:49.090] À hauteur de quelques euros par mois,
+[00:20:49.290 --> 00:20:51.090] vient notre page de financement participatif Tipeee
+[00:20:51.290 --> 00:20:54.090] dont le lien se trouve en description sous cette vidéo.
+[00:20:54.290 --> 00:20:56.090] Nous en profitons évidemment pour remercier tous ceux
+[00:20:56.290 --> 00:20:59.090] qui, parmi vous, ont déjà choisi d'être tipeurs de l'émission
+[00:20:59.290 --> 00:21:01.090] et permettent ainsi au fil d'actu d'exister
+[00:21:01.290 --> 00:21:03.090] en tant que média réellement libre,
+[00:21:03.290 --> 00:21:05.090] indépendant de l'État, des puissances d'argent
+[00:21:05.290 --> 00:21:08.090] et de toutes les influences politiciennes.
+[00:21:08.290 --> 00:21:09.090] Merci d'être avec nous.
+[00:21:09.290 --> 00:21:11.090] Merci de votre contribution.
+[00:21:11.290 --> 00:21:13.090] Merci de votre confiance et courage à vous
+[00:21:13.290 --> 00:21:15.090] pour garder la tête froide dans les temps qui s'annoncent.
+[00:21:15.290 --> 00:21:17.090] En attendant le fil d'actu, c'est tout pour aujourd'hui.
+[00:21:17.290 --> 00:21:19.090] Si cette vidéo vous a semblé intéressante
+[00:21:19.290 --> 00:21:21.090] et que vous pensez qu'elle mérite d'être vue,
+[00:21:21.290 --> 00:21:23.090] alors n'hésitez pas à la partager autour de vous.
+[00:21:23.290 --> 00:21:25.090] Pensez également si ce n'est pas déjà fait
+[00:21:25.290 --> 00:21:27.090] à vous abonner à notre chaîne, à activer les notifications
+[00:21:27.290 --> 00:21:29.090] en cliquant sur la cloche et à nous suivre
+[00:21:29.290 --> 00:21:32.090] sur nos différents réseaux sociaux X, Instagram, Facebook
+[00:21:32.290 --> 00:21:34.090] ainsi que sur mon TikTok personnel
+[00:21:34.290 --> 00:21:36.090] afin de multiplier vos chances de ne rater
+[00:21:36.290 --> 00:21:38.090] aucune de nos nouvelles publications.
+[00:21:38.290 --> 00:21:40.090] Et si le cœur vous en dit, pensez également à laisser
+[00:21:40.090 --> 00:21:41.890] un pouce vers le haut sous cette vidéo.
+[00:21:42.090 --> 00:21:43.890] Ainsi, si vous le souhaitez, qu'une réflexion personnelle
+[00:21:44.090 --> 00:21:45.890] en commentaire, non seulement ça fait toujours plaisir,
+[00:21:46.090 --> 00:21:47.890] mais en plus cela améliore véritablement
+[00:21:48.090 --> 00:21:49.890] le référencement de la vidéo,
+[00:21:50.090 --> 00:21:51.890] donc la visibilité de notre chaîne.
+[00:21:52.090 --> 00:21:53.890] C'est donc un véritable moyen utile
+[00:21:54.090 --> 00:21:55.890] et gratuit celui-là de nous aider.
+[00:21:56.090 --> 00:21:57.890] Merci encore d'avoir été avec nous.
+[00:21:58.090 --> 00:21:59.890] Prenez soin de vous et de vos proches
+[00:22:00.090 --> 00:22:01.890] et on se retrouve la semaine prochaine
+[00:22:02.090 --> 00:22:02.890] pour un nouveau fil d'actu,
+[00:22:03.090 --> 00:22:04.890] l'émission qui donne du sens à l'information.

@@ -1,0 +1,1257 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.56,
+      "start_timestamp": "00:00:00.000",
+      "end_timestamp": "00:00:03.560",
+      "text": "Alors moi, le 17 octobre, j'ai absolument rien compris."
+    },
+    {
+      "id": 1,
+      "start": 3.56,
+      "end": 6.94,
+      "start_timestamp": "00:00:03.560",
+      "end_timestamp": "00:00:06.940",
+      "text": "Bon alors j'ai essayé de regarder comme tout le monde les infos pour voir un peu ce"
+    },
+    {
+      "id": 2,
+      "start": 6.94,
+      "end": 11.28,
+      "start_timestamp": "00:00:06.940",
+      "end_timestamp": "00:00:11.280",
+      "text": "qui s'était passé, les incendies, les manifs, les pillages et tout, et là j'ai vu que"
+    },
+    {
+      "id": 3,
+      "start": 11.28,
+      "end": 15.4,
+      "start_timestamp": "00:00:11.280",
+      "end_timestamp": "00:00:15.400",
+      "text": "des journalistes qui chialaient en disant « ouais il y a des gens, ils se sont dissimulés"
+    },
+    {
+      "id": 4,
+      "start": 15.4,
+      "end": 18.88,
+      "start_timestamp": "00:00:15.400",
+      "end_timestamp": "00:00:18.880",
+      "text": "pour piller les français ». Au début je croyais qu'ils parlaient du conseil des ministres."
+    },
+    {
+      "id": 5,
+      "start": 18.88,
+      "end": 24.4,
+      "start_timestamp": "00:00:18.880",
+      "end_timestamp": "00:00:24.400",
+      "text": "Bon alors si on essaie de récapituler le bordel, le gouvernement n'était pas prêt."
+    },
+    {
+      "id": 6,
+      "start": 24.4,
+      "end": 28.98,
+      "start_timestamp": "00:00:24.400",
+      "end_timestamp": "00:00:28.980",
+      "text": "Alors que ça fait un mois qu'on leur a dit, la date du 17 octobre, elle a été annoncée"
+    },
+    {
+      "id": 7,
+      "start": 28.98,
+      "end": 32.82,
+      "start_timestamp": "00:00:28.980",
+      "end_timestamp": "00:00:32.820",
+      "text": "je ne sais pas par qui, et les médias sont en boucle depuis un mois en disant « ça"
+    },
+    {
+      "id": 8,
+      "start": 32.82,
+      "end": 36.78,
+      "start_timestamp": "00:00:32.820",
+      "end_timestamp": "00:00:36.780",
+      "text": "va déborder, ça va déborder, ça va déborder ». Résultat, ça a débordé."
+    },
+    {
+      "id": 9,
+      "start": 36.78,
+      "end": 40.7,
+      "start_timestamp": "00:00:36.780",
+      "end_timestamp": "00:00:40.700",
+      "text": "Tout avait été annoncé au gouvernement, je veux dire ils étaient en conduite accompagnée."
+    },
+    {
+      "id": 10,
+      "start": 40.7,
+      "end": 42.66,
+      "start_timestamp": "00:00:40.700",
+      "end_timestamp": "00:00:42.660",
+      "text": "Et ben ils ont quand même réussi à foirer."
+    },
+    {
+      "id": 11,
+      "start": 42.66,
+      "end": 47.14,
+      "start_timestamp": "00:00:42.660",
+      "end_timestamp": "00:00:47.140",
+      "text": "Si tu veux, c'est l'équivalent de quand tu rates un coloriage avec des contours, que"
+    },
+    {
+      "id": 12,
+      "start": 47.14,
+      "end": 52.18,
+      "start_timestamp": "00:00:47.140",
+      "end_timestamp": "00:00:52.180",
+      "text": "vraiment tu débordes de partout, que ta coccinelle à la fin elle ressemble à Roselyne Bachelot,"
+    },
+    {
+      "id": 13,
+      "start": 52.18,
+      "end": 53.62,
+      "start_timestamp": "00:00:52.180",
+      "end_timestamp": "00:00:53.620",
+      "text": "ben t'as trop débordé."
+    },
+    {
+      "id": 14,
+      "start": 53.62,
+      "end": 55.58,
+      "start_timestamp": "00:00:53.620",
+      "end_timestamp": "00:00:55.580",
+      "text": "Bon ben là, ils ont beaucoup débordé."
+    },
+    {
+      "id": 15,
+      "start": 55.58,
+      "end": 58.54,
+      "start_timestamp": "00:00:55.580",
+      "end_timestamp": "00:00:58.540",
+      "text": "Mais c'est vrai qu'il y a eu des trucs bizarres dans ces manifestations."
+    },
+    {
+      "id": 16,
+      "start": 58.66,
+      "end": 62.34,
+      "start_timestamp": "00:00:58.660",
+      "end_timestamp": "00:01:02.340",
+      "text": "Moi j'ai regardé la télé comme tout le monde, on a vu des mecs, ils ont braqué des"
+    },
+    {
+      "id": 17,
+      "start": 62.34,
+      "end": 63.34,
+      "start_timestamp": "00:01:02.340",
+      "end_timestamp": "00:01:03.340",
+      "text": "francs prix."
+    },
+    {
+      "id": 18,
+      "start": 63.34,
+      "end": 68.38,
+      "start_timestamp": "00:01:03.340",
+      "end_timestamp": "00:01:08.380",
+      "text": "Tu te fais chier à outrepasser la loi pour prendre un petit écolier ! On dirait Brigitte"
+    },
+    {
+      "id": 19,
+      "start": 68.38,
+      "end": 69.38,
+      "start_timestamp": "00:01:08.380",
+      "end_timestamp": "00:01:09.380",
+      "text": "Macron."
+    },
+    {
+      "id": 20,
+      "start": 69.38,
+      "end": 72.54,
+      "start_timestamp": "00:01:09.380",
+      "end_timestamp": "00:01:12.540",
+      "text": "Bon après, j'ai vu aussi à la télé que les pillards, ils n'avaient pas touché aux"
+    },
+    {
+      "id": 21,
+      "start": 72.54,
+      "end": 76.66,
+      "start_timestamp": "00:01:12.540",
+      "end_timestamp": "00:01:16.660",
+      "text": "produits à base de porc, et aux albums de Patrick Bruel, il y a peut-être un lien."
+    },
+    {
+      "id": 22,
+      "start": 76.66,
+      "end": 79.58,
+      "start_timestamp": "00:01:16.660",
+      "end_timestamp": "00:01:19.580",
+      "text": "Bon par contre, il y en a qui ont dormi tranquille, c'est les libraires."
+    },
+    {
+      "id": 23,
+      "start": 79.58,
+      "end": 82.94,
+      "start_timestamp": "00:01:19.580",
+      "end_timestamp": "00:01:22.940",
+      "text": "Alors là, les libraires, ils étaient peinards, ils ont pu faire des gros dodo."
+    },
+    {
+      "id": 24,
+      "start": 82.94,
+      "end": 85.74,
+      "start_timestamp": "00:01:22.940",
+      "end_timestamp": "00:01:25.740",
+      "text": "Bon en même temps, c'est pas étonnant que les gens ne s'en prennent pas au livre."
+    },
+    {
+      "id": 25,
+      "start": 85.74,
+      "end": 89.66,
+      "start_timestamp": "00:01:25.740",
+      "end_timestamp": "00:01:29.660",
+      "text": "Ça fait des décennies qu'on explique que vous allez devenir quelqu'un de meilleur"
+    },
+    {
+      "id": 26,
+      "start": 89.66,
+      "end": 91.3,
+      "start_timestamp": "00:01:29.660",
+      "end_timestamp": "00:01:31.300",
+      "text": "en achetant un t-shirt Louis Vuitton."
+    },
+    {
+      "id": 27,
+      "start": 91.3,
+      "end": 94.94,
+      "start_timestamp": "00:01:31.300",
+      "end_timestamp": "00:01:34.940",
+      "text": "Bon alors au passage, tu les voles aussi, parce que la marge de Louis Vuitton sur ton"
+    },
+    {
+      "id": 28,
+      "start": 94.94,
+      "end": 96.82,
+      "start_timestamp": "00:01:34.940",
+      "end_timestamp": "00:01:36.820",
+      "text": "t-shirt, c'est le PIB de la Thaïlande."
+    },
+    {
+      "id": 29,
+      "start": 96.82,
+      "end": 100.74,
+      "start_timestamp": "00:01:36.820",
+      "end_timestamp": "00:01:40.740",
+      "text": "Tu voles les consommateurs à chaque passage en caisse, donc c'est vrai que les pillages"
+    },
+    {
+      "id": 30,
+      "start": 100.74,
+      "end": 103.7,
+      "start_timestamp": "00:01:40.740",
+      "end_timestamp": "00:01:43.700",
+      "text": "dans les magasins de luxe, j'ai tendance à appeler ça un match nul."
+    },
+    {
+      "id": 31,
+      "start": 103.7,
+      "end": 107.5,
+      "start_timestamp": "00:01:43.700",
+      "end_timestamp": "00:01:47.500",
+      "text": "Mais c'est un peu le résumé de l'époque, hein, à trop vouloir faire croire aux gens"
+    },
+    {
+      "id": 32,
+      "start": 107.5,
+      "end": 111.46,
+      "start_timestamp": "00:01:47.500",
+      "end_timestamp": "00:01:51.460",
+      "text": "que la consommation était la seule manière possible d'être heureux, bah ils ont fini"
+    },
+    {
+      "id": 33,
+      "start": 111.46,
+      "end": 112.46,
+      "start_timestamp": "00:01:51.460",
+      "end_timestamp": "00:01:52.460",
+      "text": "par le croire."
+    },
+    {
+      "id": 34,
+      "start": 112.46,
+      "end": 116.22,
+      "start_timestamp": "00:01:52.460",
+      "end_timestamp": "00:01:56.220",
+      "text": "Peut-être qu'un jour tout le monde va finir par comprendre que dans la vie on est plus"
+    },
+    {
+      "id": 35,
+      "start": 116.22,
+      "end": 119.74,
+      "start_timestamp": "00:01:56.220",
+      "end_timestamp": "00:01:59.740",
+      "text": "heureux avec Zadig de Voltaire qu'habiller en Zadig et Voltaire."
+    },
+    {
+      "id": 36,
+      "start": 119.74,
+      "end": 123.94,
+      "start_timestamp": "00:01:59.740",
+      "end_timestamp": "00:02:03.940",
+      "text": "Bon alors côté peuple, les médias ont essayé d'éteindre le truc, tu vois, ils ont dit"
+    },
+    {
+      "id": 37,
+      "start": 123.94,
+      "end": 128.62,
+      "start_timestamp": "00:02:03.940",
+      "end_timestamp": "00:02:08.620",
+      "text": "très vite « oui, toute façon le 17 octobre c'est de la merde, il n'y a pas de revendications »."
+    },
+    {
+      "id": 38,
+      "start": 128.62,
+      "end": 132.98,
+      "start_timestamp": "00:02:08.620",
+      "end_timestamp": "00:02:12.980",
+      "text": "Bah c'est pas qu'il n'y a pas de revendications, c'est qu'il y a 68 millions de français."
+    },
+    {
+      "id": 39,
+      "start": 132.98,
+      "end": 136.14,
+      "start_timestamp": "00:02:12.980",
+      "end_timestamp": "00:02:16.140",
+      "text": "À chaque manifestation, il y a trop de revendications."
+    },
+    {
+      "id": 40,
+      "start": 136.14,
+      "end": 139.82,
+      "start_timestamp": "00:02:16.140",
+      "end_timestamp": "00:02:19.820",
+      "text": "Bah déjà l'argument premier de tous les français, quel que soit le sujet, quelle que"
+    },
+    {
+      "id": 41,
+      "start": 139.82,
+      "end": 144.66,
+      "start_timestamp": "00:02:19.820",
+      "end_timestamp": "00:02:24.660",
+      "text": "soit la cause, l'argument premier c'est « oh putain ». Le français il se lève,"
+    },
+    {
+      "id": 42,
+      "start": 144.66,
+      "end": 147.78,
+      "start_timestamp": "00:02:24.660",
+      "end_timestamp": "00:02:27.780",
+      "text": "sa première revendication c'est « putain ». Peut-être pour ça qu'on en a mis"
+    },
+    {
+      "id": 43,
+      "start": 147.78,
+      "end": 148.78,
+      "start_timestamp": "00:02:27.780",
+      "end_timestamp": "00:02:28.780",
+      "text": "au pouvoir d'ailleurs."
+    },
+    {
+      "id": 44,
+      "start": 148.78,
+      "end": 152.06,
+      "start_timestamp": "00:02:28.780",
+      "end_timestamp": "00:02:32.060",
+      "text": "Non mais je veux dire, c'est complètement dingue d'attendre des français qu'ils"
+    },
+    {
+      "id": 45,
+      "start": 152.06,
+      "end": 154.34,
+      "start_timestamp": "00:02:32.060",
+      "end_timestamp": "00:02:34.340",
+      "text": "aient à peu près tous la même revendication."
+    },
+    {
+      "id": 46,
+      "start": 154.34,
+      "end": 158.62,
+      "start_timestamp": "00:02:34.340",
+      "end_timestamp": "00:02:38.620",
+      "text": "En France, ça fait des siècles qu'on a des débats aussi puissants que « pain au chocolat"
+    },
+    {
+      "id": 47,
+      "start": 158.62,
+      "end": 163.18,
+      "start_timestamp": "00:02:38.620",
+      "end_timestamp": "00:02:43.180",
+      "text": "ou chocolatine ». Et t'attendre ces gens-là qu'ils aient une revendication sociale unique,"
+    },
+    {
+      "id": 48,
+      "start": 163.18,
+      "end": 167.06,
+      "start_timestamp": "00:02:43.180",
+      "end_timestamp": "00:02:47.060",
+      "text": "ça n'a pas de sens, il n'y a aucun mouvement populaire en France où des millions de français"
+    },
+    {
+      "id": 49,
+      "start": 167.06,
+      "end": 170.38,
+      "start_timestamp": "00:02:47.060",
+      "end_timestamp": "00:02:50.380",
+      "text": "avaient la même revendication, même pendant la révolution."
+    },
+    {
+      "id": 50,
+      "start": 170.38,
+      "end": 172.98,
+      "start_timestamp": "00:02:50.380",
+      "end_timestamp": "00:02:52.980",
+      "text": "Voilà, demande aux Vendéens, il y a eu un désaccord."
+    },
+    {
+      "id": 51,
+      "start": 172.98,
+      "end": 177.3,
+      "start_timestamp": "00:02:52.980",
+      "end_timestamp": "00:02:57.300",
+      "text": "Et politiquement c'est pas mieux, les politiciens non plus ils ont pas les mêmes revendications,"
+    },
+    {
+      "id": 52,
+      "start": 177.3,
+      "end": 178.62,
+      "start_timestamp": "00:02:57.300",
+      "end_timestamp": "00:02:58.620",
+      "text": "puis c'est pas toujours très clair."
+    },
+    {
+      "id": 53,
+      "start": 178.62,
+      "end": 181.98,
+      "start_timestamp": "00:02:58.620",
+      "end_timestamp": "00:03:01.980",
+      "text": "Les mecs de droite ils te disent « ouais y a trop de fonctionnaires, faut économiser"
+    },
+    {
+      "id": 54,
+      "start": 181.98,
+      "end": 185.22,
+      "start_timestamp": "00:03:01.980",
+      "end_timestamp": "00:03:05.220",
+      "text": "l'argent public ». Bah quand ça part en cacahuètes, ils se plaignent qu'il n'y a pas assez de"
+    },
+    {
+      "id": 55,
+      "start": 185.22,
+      "end": 186.22,
+      "start_timestamp": "00:03:05.220",
+      "end_timestamp": "00:03:06.220",
+      "text": "flics."
+    },
+    {
+      "id": 56,
+      "start": 186.22,
+      "end": 188.82,
+      "start_timestamp": "00:03:06.220",
+      "end_timestamp": "00:03:08.820",
+      "text": "Et la gauche c'est pareil, ils te disent « ouais de toute façon il faudrait plus"
+    },
+    {
+      "id": 57,
+      "start": 188.82,
+      "end": 192.18,
+      "start_timestamp": "00:03:08.820",
+      "end_timestamp": "00:03:12.180",
+      "text": "de fonctionnaires pour faire fonctionner le pays ». Quand les fonctionnaires de police"
+    },
+    {
+      "id": 58,
+      "start": 192.18,
+      "end": 194.26,
+      "start_timestamp": "00:03:12.180",
+      "end_timestamp": "00:03:14.260",
+      "text": "font le boulot et leur mettent sur la gueule, ils sont pas contents."
+    },
+    {
+      "id": 59,
+      "start": 194.26,
+      "end": 198.5,
+      "start_timestamp": "00:03:14.260",
+      "end_timestamp": "00:03:18.500",
+      "text": "Mais là où on est balèze en France quand même avec cette histoire de 17 octobre, c'est"
+    },
+    {
+      "id": 60,
+      "start": 198.5,
+      "end": 201.1,
+      "start_timestamp": "00:03:18.500",
+      "end_timestamp": "00:03:21.100",
+      "text": "qu'on a inventé les manifestations quantiques."
+    },
+    {
+      "id": 61,
+      "start": 201.1,
+      "end": 205.3,
+      "start_timestamp": "00:03:21.100",
+      "end_timestamp": "00:03:25.300",
+      "text": "Ouais, c'est la première fois parce qu'en fait les manifestations en France c'est"
+    },
+    {
+      "id": 62,
+      "start": 205.3,
+      "end": 207.1,
+      "start_timestamp": "00:03:25.300",
+      "end_timestamp": "00:03:27.100",
+      "text": "la faute de tout le monde et personne."
+    },
+    {
+      "id": 63,
+      "start": 207.1,
+      "end": 210.62,
+      "start_timestamp": "00:03:27.100",
+      "end_timestamp": "00:03:30.620",
+      "text": "En même temps, c'est à dire qu'avant le 17 octobre, avant même que ça parte en"
+    },
+    {
+      "id": 64,
+      "start": 210.62,
+      "end": 215.14,
+      "start_timestamp": "00:03:30.620",
+      "end_timestamp": "00:03:35.140",
+      "text": "cacahuètes terribles, tout le monde connaissait déjà le coupable, enfin SON coupable."
+    },
+    {
+      "id": 65,
+      "start": 215.14,
+      "end": 219.38,
+      "start_timestamp": "00:03:35.140",
+      "end_timestamp": "00:03:39.380",
+      "text": "La gauche accusait les riches, la droite accusait la France insoumise, l'extrême droite"
+    },
+    {
+      "id": 66,
+      "start": 219.38,
+      "end": 222.34,
+      "start_timestamp": "00:03:39.380",
+      "end_timestamp": "00:03:42.340",
+      "text": "accusait les arabes, BFM accusait les russes."
+    },
+    {
+      "id": 67,
+      "start": 222.34,
+      "end": 226.42,
+      "start_timestamp": "00:03:42.340",
+      "end_timestamp": "00:03:46.420",
+      "text": "Oui là je peux vous dire que la France elle déroule le tapis rouge à Matryoshka, Matryoshka"
+    },
+    {
+      "id": 68,
+      "start": 226.42,
+      "end": 230.86,
+      "start_timestamp": "00:03:46.420",
+      "end_timestamp": "00:03:50.860",
+      "text": "ça vient du terme « poupée russe », c'est cette machine de désinformation russe qui"
+    },
+    {
+      "id": 69,
+      "start": 230.86,
+      "end": 232.14,
+      "start_timestamp": "00:03:50.860",
+      "end_timestamp": "00:03:52.140",
+      "text": "exploite nos fractures."
+    },
+    {
+      "id": 70,
+      "start": 232.14,
+      "end": 237.04,
+      "start_timestamp": "00:03:52.140",
+      "end_timestamp": "00:03:57.040",
+      "text": "C'est quand même dingue, la moindre manifestation en France, en fait les gens y vont pour conforter"
+    },
+    {
+      "id": 71,
+      "start": 237.04,
+      "end": 240.7,
+      "start_timestamp": "00:03:57.040",
+      "end_timestamp": "00:04:00.700",
+      "text": "ce qu'ils pensent déjà et que quoi qu'il arrive, c'est de toute façon toujours le"
+    },
+    {
+      "id": 72,
+      "start": 240.7,
+      "end": 242.18,
+      "start_timestamp": "00:04:00.700",
+      "end_timestamp": "00:04:02.180",
+      "text": "même coupable, toujours la même cause."
+    },
+    {
+      "id": 73,
+      "start": 242.18,
+      "end": 245.66,
+      "start_timestamp": "00:04:02.180",
+      "end_timestamp": "00:04:05.660",
+      "text": "Ah ben ceux qui dirigent en haut, je peux te dire qu'ils ont pas de problème d'insomnie"
+    },
+    {
+      "id": 74,
+      "start": 245.66,
+      "end": 246.66,
+      "start_timestamp": "00:04:05.660",
+      "end_timestamp": "00:04:06.660",
+      "text": "avec ces conneries."
+    },
+    {
+      "id": 75,
+      "start": 246.66,
+      "end": 250.34,
+      "start_timestamp": "00:04:06.660",
+      "end_timestamp": "00:04:10.340",
+      "text": "En France, nos manifestations c'est un peu comme un match amical, ça compte pas et ça"
+    },
+    {
+      "id": 76,
+      "start": 250.34,
+      "end": 251.34,
+      "start_timestamp": "00:04:10.340",
+      "end_timestamp": "00:04:11.340",
+      "text": "change rien au classement."
+    },
+    {
+      "id": 77,
+      "start": 251.34,
+      "end": 255.38,
+      "start_timestamp": "00:04:11.340",
+      "end_timestamp": "00:04:15.380",
+      "text": "Alors heureusement, heureusement en France, nos politiciens sont là pour prendre des"
+    },
+    {
+      "id": 78,
+      "start": 255.38,
+      "end": 256.38,
+      "start_timestamp": "00:04:15.380",
+      "end_timestamp": "00:04:16.380",
+      "text": "mesures."
+    },
+    {
+      "id": 79,
+      "start": 256.38,
+      "end": 259.06,
+      "start_timestamp": "00:04:16.380",
+      "end_timestamp": "00:04:19.060",
+      "text": "Ils ont pris la mesure de la gravité de la situation."
+    },
+    {
+      "id": 80,
+      "start": 259.06,
+      "end": 263.3,
+      "start_timestamp": "00:04:19.060",
+      "end_timestamp": "00:04:23.300",
+      "text": "On a eu une ministre par exemple le 19 octobre, elle s'est dit « putain là faut faire"
+    },
+    {
+      "id": 81,
+      "start": 263.3,
+      "end": 266.26,
+      "start_timestamp": "00:04:23.300",
+      "end_timestamp": "00:04:26.260",
+      "text": "quelque chose, la France part en couille », elle a décidé de se déguiser en abat-jour."
+    },
+    {
+      "id": 82,
+      "start": 270.26,
+      "end": 274.14,
+      "start_timestamp": "00:04:30.260",
+      "end_timestamp": "00:04:34.140",
+      "text": "Et dans l'opposition c'est pas mieux, on a eu des débats de très haut niveau pour"
+    },
+    {
+      "id": 83,
+      "start": 274.14,
+      "end": 279.7,
+      "start_timestamp": "00:04:34.140",
+      "end_timestamp": "00:04:39.700",
+      "text": "répondre à la situation en France, Sébastien Chenu du RN sur Twitter, il a demandé à"
+    },
+    {
+      "id": 84,
+      "start": 279.7,
+      "end": 283.5,
+      "start_timestamp": "00:04:39.700",
+      "end_timestamp": "00:04:43.500",
+      "text": "Marine Tandelier, enfin il lui a écrit le 17 octobre, il a écrit « ferme la STP »."
+    },
+    {
+      "id": 85,
+      "start": 283.5,
+      "end": 285.5,
+      "start_timestamp": "00:04:43.500",
+      "end_timestamp": "00:04:45.500",
+      "text": "Et réponse de Marine Tandelier, non."
+    },
+    {
+      "id": 86,
+      "start": 285.5,
+      "end": 287.94,
+      "start_timestamp": "00:04:45.500",
+      "end_timestamp": "00:04:47.940",
+      "text": "D'or tranquille Jean Jaurès, le pays est bien tenu."
+    },
+    {
+      "id": 87,
+      "start": 287.94,
+      "end": 292.02,
+      "start_timestamp": "00:04:47.940",
+      "end_timestamp": "00:04:52.020",
+      "text": "Ah il y en a eu un autre, je ne sais pas si vous vous rappelez, Cédric Hau, il était"
+    },
+    {
+      "id": 88,
+      "start": 292.02,
+      "end": 297.1,
+      "start_timestamp": "00:04:52.020",
+      "end_timestamp": "00:04:57.100",
+      "text": "secrétaire d'État chargé de la transition du numérique et des stabilos boss fluo, il"
+    },
+    {
+      "id": 89,
+      "start": 297.1,
+      "end": 302.06,
+      "start_timestamp": "00:04:57.100",
+      "end_timestamp": "00:05:02.060",
+      "text": "était ministre il y a 4 ans, environ sous Macron, le 19 octobre, donc 2 jours après"
+    },
+    {
+      "id": 90,
+      "start": 302.06,
+      "end": 305.86,
+      "start_timestamp": "00:05:02.060",
+      "end_timestamp": "00:05:05.860",
+      "text": "la grande folie, il a fait un grand tuite parce qu'il s'est recyclé dans les affaires,"
+    },
+    {
+      "id": 91,
+      "start": 305.86,
+      "end": 309.54,
+      "start_timestamp": "00:05:05.860",
+      "end_timestamp": "00:05:09.540",
+      "text": "enfin il s'est recyclé, c'est le principe des ordures, et il a parlé de la pâte à"
+    },
+    {
+      "id": 92,
+      "start": 309.54,
+      "end": 310.38,
+      "start_timestamp": "00:05:09.540",
+      "end_timestamp": "00:05:10.380",
+      "text": "proutes."
+    },
+    {
+      "id": 93,
+      "start": 310.38,
+      "end": 315.14,
+      "start_timestamp": "00:05:10.380",
+      "end_timestamp": "00:05:15.140",
+      "text": "Si si, il travaille sur un projet d'entreprise qui fait des trucs pour concurrencer la pâte"
+    },
+    {
+      "id": 94,
+      "start": 315.14,
+      "end": 318.82,
+      "start_timestamp": "00:05:15.140",
+      "end_timestamp": "00:05:18.820",
+      "text": "à proutes, et il a écrit une phrase par exemple comme « face à une telle concurrence, c'est"
+    },
+    {
+      "id": 95,
+      "start": 318.82,
+      "end": 321.34,
+      "start_timestamp": "00:05:18.820",
+      "end_timestamp": "00:05:21.340",
+      "text": "sûr, sur le terrain des proutes, la pâte gagne »."
+    },
+    {
+      "id": 96,
+      "start": 321.34,
+      "end": 325.58,
+      "start_timestamp": "00:05:21.340",
+      "end_timestamp": "00:05:25.580",
+      "text": "Donc le pays a feu à sang et on a un ancien ministre qui évoque la pâte à proutes."
+    },
+    {
+      "id": 97,
+      "start": 325.58,
+      "end": 328.62,
+      "start_timestamp": "00:05:25.580",
+      "end_timestamp": "00:05:28.620",
+      "text": "Bon tu me diras, c'est pas étonnant, la pâte à proutes c'est comme un ministre"
+    },
+    {
+      "id": 98,
+      "start": 328.62,
+      "end": 331.82,
+      "start_timestamp": "00:05:28.620",
+      "end_timestamp": "00:05:31.820",
+      "text": "de Macron, quand tu mets les doigts dedans c'est rigolo, mais globalement c'est vrai"
+    },
+    {
+      "id": 99,
+      "start": 331.82,
+      "end": 332.82,
+      "start_timestamp": "00:05:31.820",
+      "end_timestamp": "00:05:32.820",
+      "text": "que ça sert à rien."
+    },
+    {
+      "id": 100,
+      "start": 332.82,
+      "end": 335.74,
+      "start_timestamp": "00:05:32.820",
+      "end_timestamp": "00:05:35.740",
+      "text": "Non mais on n'est pas aidé, on n'est pas aidé en France, je veux dire, moi j'ai"
+    },
+    {
+      "id": 101,
+      "start": 335.74,
+      "end": 340.06,
+      "start_timestamp": "00:05:35.740",
+      "end_timestamp": "00:05:40.060",
+      "text": "bientôt regardé les manifs, on n'est pas aidé, on a quand même les anticapitalistes"
+    },
+    {
+      "id": 102,
+      "start": 340.06,
+      "end": 341.3,
+      "start_timestamp": "00:05:40.060",
+      "end_timestamp": "00:05:41.300",
+      "text": "les plus cons du monde."
+    },
+    {
+      "id": 103,
+      "start": 341.3,
+      "end": 345.26,
+      "start_timestamp": "00:05:41.300",
+      "end_timestamp": "00:05:45.260",
+      "text": "Les mecs profitent des pillages pour voler des objets et les revendre sur Internet."
+    },
+    {
+      "id": 104,
+      "start": 345.26,
+      "end": 347.5,
+      "start_timestamp": "00:05:45.260",
+      "end_timestamp": "00:05:47.500",
+      "text": "Ah bah le capitalisme est tranquille avec des gens comme ça."
+    },
+    {
+      "id": 105,
+      "start": 347.5,
+      "end": 352.22,
+      "start_timestamp": "00:05:47.500",
+      "end_timestamp": "00:05:52.220",
+      "text": "Des décennies de lutte anticapitaliste, des tonnes de merguez à la fête de l'UMA pour"
+    },
+    {
+      "id": 106,
+      "start": 352.22,
+      "end": 355.42,
+      "start_timestamp": "00:05:52.220",
+      "end_timestamp": "00:05:55.420",
+      "text": "finir avec des révolutionnaires qui pensent que Marx c'est une planète."
+    },
+    {
+      "id": 107,
+      "start": 355.42,
+      "end": 359.22,
+      "start_timestamp": "00:05:55.420",
+      "end_timestamp": "00:05:59.220",
+      "text": "Et pendant ce temps, chez les Macron, je peux vous dire qu'on est impeccable."
+    },
+    {
+      "id": 108,
+      "start": 359.22,
+      "end": 363.58,
+      "start_timestamp": "00:05:59.220",
+      "end_timestamp": "00:06:03.580",
+      "text": "Ah le résumé de l'ambiance chez les Macron me fait penser à cette phrase de Depardieu"
+    },
+    {
+      "id": 109,
+      "start": 363.58,
+      "end": 364.74,
+      "start_timestamp": "00:06:03.580",
+      "end_timestamp": "00:06:04.740",
+      "text": "dans Les Valseuses tu sais."
+    },
+    {
+      "id": 110,
+      "start": 364.74,
+      "end": 368.46,
+      "start_timestamp": "00:06:04.740",
+      "end_timestamp": "00:06:08.460",
+      "text": "On n'est pas bien là ? Paisible, à la fraîche, décontracté du gland ?"
+    },
+    {
+      "id": 111,
+      "start": 368.46,
+      "end": 371.7,
+      "start_timestamp": "00:06:08.460",
+      "end_timestamp": "00:06:11.700",
+      "text": "Ah je te l'ai dit, le 17 octobre c'était annoncé, la date tout le monde était au"
+    },
+    {
+      "id": 112,
+      "start": 371.7,
+      "end": 374.42,
+      "start_timestamp": "00:06:11.700",
+      "end_timestamp": "00:06:14.420",
+      "text": "courant, c'était même pas un contrôle surprise."
+    },
+    {
+      "id": 113,
+      "start": 374.42,
+      "end": 376.42,
+      "start_timestamp": "00:06:14.420",
+      "end_timestamp": "00:06:16.420",
+      "text": "Et bah Macron, la veille, lui il était cool."
+    },
+    {
+      "id": 114,
+      "start": 376.42,
+      "end": 378.38,
+      "start_timestamp": "00:06:16.420",
+      "end_timestamp": "00:06:18.380",
+      "text": "Ah et concert de Céline Duran le 16 octobre."
+    },
+    {
+      "id": 115,
+      "start": 378.38,
+      "end": 390.07,
+      "start_timestamp": "00:06:18.380",
+      "end_timestamp": "00:06:30.070",
+      "text": "Monsieur le Président, le pays est à feu et à sang, demain ce sera une catastrophe"
+    },
+    {
+      "id": 116,
+      "start": 390.07,
+      "end": 391.47,
+      "start_timestamp": "00:06:30.070",
+      "end_timestamp": "00:06:31.470",
+      "text": "si on fait rien, il faut s'organiser."
+    },
+    {
+      "id": 117,
+      "start": 391.47,
+      "end": 398.31,
+      "start_timestamp": "00:06:31.470",
+      "end_timestamp": "00:06:38.310",
+      "text": "J'ai compris tous les mots, j'ai bien compris merci, raisonnable et nouveau."
+    },
+    {
+      "id": 118,
+      "start": 398.31,
+      "end": 402.07,
+      "start_timestamp": "00:06:38.310",
+      "end_timestamp": "00:06:42.070",
+      "text": "Monsieur le Président, il y a urgence, à partir de demain matin, le pays va vraiment"
+    },
+    {
+      "id": 119,
+      "start": 402.07,
+      "end": 403.07,
+      "start_timestamp": "00:06:42.070",
+      "end_timestamp": "00:06:43.070",
+      "text": "être secoué."
+    },
+    {
+      "id": 120,
+      "start": 403.07,
+      "end": 408.67,
+      "start_timestamp": "00:06:43.070",
+      "end_timestamp": "00:06:48.670",
+      "text": "Paris, oh mais putain, vous aimez pas Céline Dion ou pas ? Mais moi j'étais au courant,"
+    },
+    {
+      "id": 121,
+      "start": 408.67,
+      "end": 414.39,
+      "start_timestamp": "00:06:48.670",
+      "end_timestamp": "00:06:54.390",
+      "text": "il est super ce concert, mais je sais qu'il y a 17 octobre, mais bon, il y a Céline Dion,"
+    },
+    {
+      "id": 122,
+      "start": 414.39,
+      "end": 418.15,
+      "start_timestamp": "00:06:54.390",
+      "end_timestamp": "00:06:58.150",
+      "text": "moi j'adore Céline Dion monsieur, j'ai un point commun avec Céline Dion, c'est qu'on"
+    },
+    {
+      "id": 123,
+      "start": 418.15,
+      "end": 420.23,
+      "start_timestamp": "00:06:58.150",
+      "end_timestamp": "00:07:00.230",
+      "text": "a dû se taper un vieux monsieur pour réussir."
+    },
+    {
+      "id": 124,
+      "start": 420.23,
+      "end": 424.75,
+      "start_timestamp": "00:07:00.230",
+      "end_timestamp": "00:07:04.750",
+      "text": "Bon alors finalement Macron a fait un discours le 18 octobre, après avoir fini d'écouter"
+    },
+    {
+      "id": 125,
+      "start": 424.75,
+      "end": 427.07,
+      "start_timestamp": "00:07:04.750",
+      "end_timestamp": "00:07:07.070",
+      "text": "sur Spotify deux trois musiques de Céline."
+    },
+    {
+      "id": 126,
+      "start": 427.15,
+      "end": 431.71,
+      "start_timestamp": "00:07:07.150",
+      "end_timestamp": "00:07:11.710",
+      "text": "Je vous résume le discours d'un pays à feu et à sang, Macron président de la République"
+    },
+    {
+      "id": 127,
+      "start": 431.71,
+      "end": 436.23,
+      "start_timestamp": "00:07:11.710",
+      "end_timestamp": "00:07:16.230",
+      "text": "est arrivé, il a dit « en vrai, ça va ». C'est ce qu'il a dit à 68 millions de"
+    },
+    {
+      "id": 128,
+      "start": 436.23,
+      "end": 442.63,
+      "start_timestamp": "00:07:16.230",
+      "end_timestamp": "00:07:22.630",
+      "text": "français, il a dit « ok, il y a eu des incendies, ok ça dégage des fumées toxiques, mais"
+    },
+    {
+      "id": 129,
+      "start": 442.63,
+      "end": 448.91,
+      "start_timestamp": "00:07:22.630",
+      "end_timestamp": "00:07:28.910",
+      "text": "ça va ». Il faut se mettre dans la psychologie de Macron, pour lui tout va bien, il nous l'avait"
+    },
+    {
+      "id": 130,
+      "start": 448.91,
+      "end": 453.95,
+      "start_timestamp": "00:07:28.910",
+      "end_timestamp": "00:07:33.950",
+      "text": "dit en 2018, il avait dit s'il y a un responsable qui vient le chercher, en vrai tant qu'ils"
+    },
+    {
+      "id": 131,
+      "start": 454.03,
+      "end": 457.23,
+      "start_timestamp": "00:07:34.030",
+      "end_timestamp": "00:07:37.230",
+      "text": "ne sont pas venus le chercher, lui il se dit « ça va ». Et puis quand même il y a eu"
+    },
+    {
+      "id": 132,
+      "start": 457.23,
+      "end": 461.55,
+      "start_timestamp": "00:07:37.230",
+      "end_timestamp": "00:07:41.550",
+      "text": "une grosse mesure politique qui a été prise et ça, ça résume parfaitement ce qui s'est"
+    },
+    {
+      "id": 133,
+      "start": 461.55,
+      "end": 466.67,
+      "start_timestamp": "00:07:41.550",
+      "end_timestamp": "00:07:46.670",
+      "text": "passé le 17 octobre, les chocolateries de la famille Tronieux à Amiens et au Touquet"
+    },
+    {
+      "id": 134,
+      "start": 466.67,
+      "end": 468.15,
+      "start_timestamp": "00:07:46.670",
+      "end_timestamp": "00:07:48.150",
+      "text": "ont été surprotégées."
+    },
+    {
+      "id": 135,
+      "start": 468.15,
+      "end": 479.41,
+      "start_timestamp": "00:07:48.150",
+      "end_timestamp": "00:07:59.410",
+      "text": "Louvre est moins protégée que les chocolateries de la famille Tronieux, ouais, là j'ai"
+    },
+    {
+      "id": 136,
+      "start": 479.41,
+      "end": 480.41,
+      "start_timestamp": "00:07:59.410",
+      "end_timestamp": "00:08:00.410",
+      "text": "pas de vanne."
+    },
+    {
+      "id": 137,
+      "start": 480.41,
+      "end": 483.73,
+      "start_timestamp": "00:08:00.410",
+      "end_timestamp": "00:08:03.730",
+      "text": "Si, j'ai peut-être une vanne, c'est qu'il faut quand même imaginer le responsable des"
+    },
+    {
+      "id": 138,
+      "start": 483.73,
+      "end": 488.01,
+      "start_timestamp": "00:08:03.730",
+      "end_timestamp": "00:08:08.010",
+      "text": "forces de l'ordre local qui a reçu la consigne, tu te dis qu'à un moment donné les mecs"
+    },
+    {
+      "id": 139,
+      "start": 488.01,
+      "end": 491.13,
+      "start_timestamp": "00:08:08.010",
+      "end_timestamp": "00:08:11.130",
+      "text": "faut se sortir les doigts du côté des forces de l'ordre, parce que là vous acceptez"
+    },
+    {
+      "id": 140,
+      "start": 491.13,
+      "end": 492.13,
+      "start_timestamp": "00:08:11.130",
+      "end_timestamp": "00:08:12.130",
+      "text": "des trucs de fou."
+    },
+    {
+      "id": 141,
+      "start": 492.13,
+      "end": 497.65,
+      "start_timestamp": "00:08:12.130",
+      "end_timestamp": "00:08:17.650",
+      "text": "Oui Philippe, sécurité maximale sur le secteur Amiens, d'accord ? On est en place du côté"
+    },
+    {
+      "id": 142,
+      "start": 497.65,
+      "end": 502.17,
+      "start_timestamp": "00:08:17.650",
+      "end_timestamp": "00:08:22.170",
+      "text": "de la mairie, des lieux culturels et de tous les endroits sensibles à protéger."
+    },
+    {
+      "id": 143,
+      "start": 502.17,
+      "end": 509.33,
+      "start_timestamp": "00:08:22.170",
+      "end_timestamp": "00:08:29.330",
+      "text": "Mais non Philippe, ces chocolateries Tronieux, on a une consigne de l'Élysée, c'est qu'apparemment"
+    },
+    {
+      "id": 144,
+      "start": 509.33,
+      "end": 511.17,
+      "start_timestamp": "00:08:29.330",
+      "end_timestamp": "00:08:31.170",
+      "text": "Brigitte a peur pour ses cacahuètes enrôbées."
+    },
+    {
+      "id": 145,
+      "start": 511.17,
+      "end": 515.49,
+      "start_timestamp": "00:08:31.170",
+      "end_timestamp": "00:08:35.490",
+      "text": "Alors après, moi ça fait naître une réflexion, une idée, vous en faites ce que vous voulez,"
+    },
+    {
+      "id": 146,
+      "start": 515.49,
+      "end": 518.81,
+      "start_timestamp": "00:08:35.490",
+      "end_timestamp": "00:08:38.810",
+      "text": "dans les temps qui courent, de toute façon, moi ce que je veux dire c'est que vous n'avez"
+    },
+    {
+      "id": 147,
+      "start": 518.81,
+      "end": 523.17,
+      "start_timestamp": "00:08:38.810",
+      "end_timestamp": "00:08:43.170",
+      "text": "pas l'impression qu'on cherche trop souvent des coupables à côté de nous, plutôt qu'en"
+    },
+    {
+      "id": 148,
+      "start": 523.17,
+      "end": 524.17,
+      "start_timestamp": "00:08:43.170",
+      "end_timestamp": "00:08:44.170",
+      "text": "haut."
+    },
+    {
+      "id": 149,
+      "start": 524.17,
+      "end": 527.93,
+      "start_timestamp": "00:08:44.170",
+      "end_timestamp": "00:08:47.930",
+      "text": "Non mais peut-être que c'est vrai, ces manifestations, ça doit être un peu la faute de LFI, des"
+    },
+    {
+      "id": 150,
+      "start": 527.93,
+      "end": 532.53,
+      "start_timestamp": "00:08:47.930",
+      "end_timestamp": "00:08:52.530",
+      "text": "racailles de banlieues, des flics, du capitalisme, tout ce que vous voulez, je ne dis pas."
+    },
+    {
+      "id": 151,
+      "start": 532.53,
+      "end": 537.37,
+      "start_timestamp": "00:08:52.530",
+      "end_timestamp": "00:08:57.370",
+      "text": "Mais juste que quand ton président préfère protéger des chocolats que des citoyens,"
+    },
+    {
+      "id": 152,
+      "start": 537.37,
+      "end": 542.53,
+      "start_timestamp": "00:08:57.370",
+      "end_timestamp": "00:09:02.530",
+      "text": "la menace numéro un, ce n'est pas tout de suite les banlieusards, LFI ou les flics,"
+    },
+    {
+      "id": 153,
+      "start": 542.53,
+      "end": 544.17,
+      "start_timestamp": "00:09:02.530",
+      "end_timestamp": "00:09:04.170",
+      "text": "peut-être que ça vient d'un peu plus en haut."
+    },
+    {
+      "id": 154,
+      "start": 544.49,
+      "end": 546.89,
+      "start_timestamp": "00:09:04.490",
+      "end_timestamp": "00:09:06.890",
+      "text": "C'est le principe même du divisé pour mieux régner."
+    },
+    {
+      "id": 155,
+      "start": 546.89,
+      "end": 549.37,
+      "start_timestamp": "00:09:06.890",
+      "end_timestamp": "00:09:09.370",
+      "text": "Comme quoi, ça marche bien cette connerie."
+    }
+  ]
+}

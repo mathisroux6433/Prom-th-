@@ -1,0 +1,204 @@
+{
+  "arguments_positions": [
+    {
+      "position": "Il faut condamner les pillages sans reprendre le récit présidentiel de la barbarie",
+      "horodatages": [
+        "00:02:02",
+        "00:12:04"
+      ]
+    },
+    {
+      "position": "L'État doit expliquer ses effectifs et ordres opérationnels",
+      "horodatages": [
+        "00:20:05",
+        "00:24:01"
+      ]
+    },
+    {
+      "position": "Une mobilisation pacifique massive crée un meilleur rapport de force que l'émeute",
+      "horodatages": [
+        "00:30:06",
+        "00:32:02"
+      ]
+    }
+  ],
+  "citations_exactes": [
+    {
+      "texte": "Rien ne l'explique, rien ne l'excuse.",
+      "horodatage": "00:12:04"
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "rapport de force",
+      "horodatages": [
+        "00:32:02"
+      ]
+    },
+    {
+      "nom": "cadrage de la barbarie",
+      "horodatages": [
+        "00:04:07"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "17 octobre 2026",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "manifestation contre émeute",
+      "horodatages": [
+        "00:02:02"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "Paris",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:04:07"
+      ]
+    },
+    {
+      "nom": "banlieues françaises",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:28:00"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "manifestations",
+    "émeutes",
+    "Macron",
+    "Mélenchon",
+    "LFI",
+    "effectifs policiers",
+    "Centaure",
+    "chaos"
+  ],
+  "organismes": [
+    {
+      "nom": "La France insoumise",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:08:02"
+      ]
+    },
+    {
+      "nom": "forces de l'ordre",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:20:05"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:12:04"
+      ]
+    },
+    {
+      "nom": "Jean-Luc Mélenchon",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:06:04"
+      ]
+    },
+    {
+      "nom": "Grégory Tabibian",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "chaos urbain",
+      "relation": "alimente",
+      "cible": "discours de conflit",
+      "horodatages": [
+        "00:30:06"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:08:00",
+      "titre": "Manifestants, casseurs et récits"
+    },
+    {
+      "debut": "00:08:00",
+      "fin": "00:16:00",
+      "titre": "LFI et discours de Macron"
+    },
+    {
+      "debut": "00:16:00",
+      "fin": "00:24:00",
+      "titre": "Appel au calme et effectifs"
+    },
+    {
+      "debut": "00:24:00",
+      "fin": "00:32:42",
+      "titre": "Choix opérationnels et rapport de force"
+    }
+  ],
+  "resume_general": "Débrief critique condamnant les émeutes tout en interrogeant les choix policiers et l'exploitation politique du chaos.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "prix de l'énergie",
+      "horodatages": [
+        "00:14:04"
+      ]
+    },
+    {
+      "sujet": "véhicules Centaure",
+      "horodatages": [
+        "00:26:05"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "distinction manifestations-émeutes",
+      "horodatages": [
+        "00:02:02"
+      ]
+    },
+    {
+      "theme": "responsabilité de l'État",
+      "horodatages": [
+        "00:20:05"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "émeutiers",
+      "variantes": [
+        "casseurs"
+      ]
+    },
+    {
+      "canonique": "forces de l'ordre",
+      "variantes": [
+        "police"
+      ]
+    }
+  ],
+  "video_id": "Fz8oG-p2-Aw"
+}

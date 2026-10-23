@@ -1,0 +1,375 @@
+Crée un index documentaire fidèle en JSON strict. Ne juge pas la véracité. Distingue pour personnes, organismes et événements le niveau 'mention' ou 'developpe'. N'invente rien. Les citations_exactes doivent être verbatim ; les expressions_representatives ne sont pas des citations. Chaque élément thématique utile porte si possible des horodatages. Retourne uniquement un objet suivant cette structure :
+{
+  "arguments_positions": [],
+  "citations_exactes": [],
+  "concepts": [],
+  "evenements_lois_reglementations": [],
+  "expressions_representatives": [],
+  "lieux_periodes": [],
+  "mots_cles": [],
+  "organismes": [],
+  "personnes": [],
+  "relations_documentaires": [],
+  "reperes_temporels": [],
+  "resume_general": "",
+  "schema_version": "1.1",
+  "sujets_secondaires": [],
+  "themes_principaux": [],
+  "variantes_lexicales": [],
+  "video_id": "qMbo7uE15ZI"
+}
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "qMbo7uE15ZI",
+  "title": "17 OCTOBRE : comment la Macronie s'est PIÉGÉE toute seule | Circus Mediaticus | OFF",
+  "channel": "Off Investigation",
+  "channel_id": "UCEFGCs68E9Vr5te5qZuJsbg",
+  "upload_date": "20261022",
+  "duration_seconds": 1004,
+  "webpage_url": "https://www.youtube.com/watch?v=qMbo7uE15ZI",
+  "description": "🔎 Le 17 octobre, la mobilisation contre la vie chère déborde : pillages, incendies, violences policières. Le lendemain, Emmanuel Macron dénonce des « factieux » d'ultragauche. Sur les plateaux, le récit est prêt : la République d'un côté, les casseurs de l'autre, et LFI dans le rôle du coupable.\n\n🎪 CIRCUS MEDIATICUS, épisode 4 : tous les quinze jours, Théophile Kouamouo décrypte le cirque médiatique et politique de la présidentielle qui vient.\n\nAu menu : le retour du logiciel Valls, Macron et ses deux camps, le même refrain de LCI à CNews, d'Éric Ciotti à Éric Zemmour. Puis le récit prend l'eau : Benoît Payan accuse l'État, la procureure de Paris ne confirme pas la piste de l'ultragauche, et un commissaire du renseignement territorial déplore, selon Mediapart, qu'on leur demande « texto d'écrire que c'est LFI qui est derrière le mouvement ». Le ministère de l'Intérieur dément.\n\n✅ Nos enquêtes et émissions n'existent que grâce à vous.\n➡️ Faire un don (défiscalisé à 66 %) : https://www.off-investigation.fr/soutenir/\n➡️🔏 S'abonner (8,90 €/mois, sans engagement) : https://www.off-investigation.fr/abonnement/ c'est tous nos documentaires en avant-première avant leur sortie YouTube, toutes nos enquêtes et révélations à l'écrit, sans aucune publicité.\n➡️🏅 Devenir membre de la chaîne (de 1,99€ à 9,99€/mois, sans engagement), les coulisses et les documentaires 14 jours en avance, sans quitter YouTube : https://www.youtube.com/@offinvestigation/join\n\n⚠️ Off Investigation ne dépend d'aucun actionnaire extérieur, d'aucun sponsor, ni d'aucune subvention de l'État.\n\nPour ne rien manquer :\n📬 Abonnez-vous à la newsletter hebdomadaire de OFF : https://www.off-investigation.fr/newsletter/\n🔔 Activez la cloche sur YouTube\n\n✂️ Chapitrage :\n00:00 Mais où est passé Manuel Valls ?\n00:45 Chaînes info : des gentils, des méchants et des feux de poubelle\n02:28 Après le 17 octobre, Macron et ses « deux camps »\n03:20 « En même temps »… ou fini de rigoler ?\n04:22 Diabolisons, diabolisons : le cirque autour du discours\n04:48 Sur LCI, le dérapage contesté de Bruno Pomart\n05:18 Consigny, Ciotti, Zemmour : le même refrain sur toutes les chaînes\n06:32 L'adversaire n'est plus étrange, il est « étranger »\n07:40 Le récit prend l'eau : Benoît Payan contre l'État\n09:34 Dominique Rizet et la colère des policiers\n10:19 « LFI et ses proxys » : les éléments de langage du gouvernement\n11:03 La procureure de Paris ne confirme pas\n11:24 Même BFMTV s'y met\n12:13 Mediapart : « On nous demande texto d'écrire que c'est LFI »\n13:10 Nuñez, la démission refusée… et le Titanic\n14:36 Soutenir Off Investigation\n\n#Présidentielle2027 #Médias #CircusMediaticus #17octobre",
+  "language": "fr-FR"
+}
+
+TRANSCRIPTION :
+[00:00:00.000 --> 00:00:04.440] Hier matin, je me suis réveillé avec cette air de Nino Ferrer dans la tête.
+[00:00:06.440 --> 00:00:09.240] En fait, je me demandais, où est passé Manuel ?
+[00:00:09.240 --> 00:00:10.920] Je cherche Manuel Valls partout.
+[00:00:10.920 --> 00:00:13.480] C'est pas qu'il a disparu, mais vous l'avez remarqué comme moi.
+[00:00:13.480 --> 00:00:17.440] On voit désormais plus ces mêmes Disney Good ambitieux.
+[00:00:21.040 --> 00:00:23.880] Et les parodies déjantées qui le ciblent.
+[00:00:23.880 --> 00:00:27.000] Et on voit moins les prises de paroles d'Azimut
+[00:00:27.040 --> 00:00:30.440] sur l'actualité auquel il nous avait habitué,
+[00:00:30.440 --> 00:00:35.120] comme si un afro-gauchiste lui avait chouré sa carte à l'accès.
+[00:00:37.800 --> 00:00:40.360] Et pourtant, le fond de l'air est valsien.
+[00:00:40.720 --> 00:00:41.640] Plus que jamais.
+[00:00:41.640 --> 00:00:43.720] Vous avez regardé attentivement les chaînes info
+[00:00:43.720 --> 00:00:47.560] lors des épisodes scolaires des lycéens et Manif du 17 octobre.
+[00:00:47.560 --> 00:00:50.360] En tout cas, moi, j'ai eu l'impression d'entendre
+[00:00:50.560 --> 00:00:53.080] depuis mon petit écran les rechefs en mode.
+[00:00:57.320 --> 00:01:01.320] Coco, tu mets à l'antenne quelques feux de poubelle,
+[00:01:01.320 --> 00:01:04.200] des images d'incendie, des men in black qui balancent,
+[00:01:04.200 --> 00:01:07.040] des cocktails dans le tobe à la gueule des flics.
+[00:01:07.040 --> 00:01:10.360] Dans ces moments-là, la nuance est subversive.
+[00:01:10.360 --> 00:01:13.800] Faut des gentils et des méchants, des cowboys et des indiens
+[00:01:13.800 --> 00:01:15.560] comme dans les westerns modernes.
+[00:01:15.560 --> 00:01:19.440] Tu vois, le monde se divise en deux catégories.
+[00:01:19.440 --> 00:01:22.640] Il y a les casseurs et les marionnettistes d'un côté,
+[00:01:22.640 --> 00:01:25.800] le pouvoir et les Français de l'autre côté.
+[00:01:25.800 --> 00:01:29.520] D'un malheureux qui aurait l'idée de céder à la culture de l'excuse.
+[00:01:29.520 --> 00:01:32.160] Une fois de plus, le logiciel valsiste.
+[00:01:32.160 --> 00:01:35.360] Aucune excuse ne doit être recherchée.
+[00:01:35.360 --> 00:01:37.080] Aucune excuse.
+[00:01:37.080 --> 00:01:40.480] Aucune excuse sociale, sociologique et culturelle.
+[00:01:40.480 --> 00:01:42.720] C'est la bataille du bien contre le mal.
+[00:01:42.720 --> 00:01:46.400] Et comme le dirait un grand philosophe que le monde entier nous envie.
+[00:01:46.400 --> 00:01:48.680] Moi, je le dis aussi avec beaucoup de scellénité.
+[00:01:48.680 --> 00:01:51.160] C'est désormais le moment aussi de choisir son camp.
+[00:01:51.160 --> 00:01:54.520] Sauf que ce type de démonstration du parti de l'ordre
+[00:01:54.520 --> 00:01:58.560] après les moments de sidération ne dure justement qu'un temps.
+[00:01:58.560 --> 00:02:02.360] Plus les heures et les jours passent, plus la nuance s'invite.
+[00:02:02.360 --> 00:02:04.440] Égards à l'effet boomerang.
+[00:02:04.440 --> 00:02:08.920] Nous sommes à 178 jours du premier tour de l'élection présidentielle de tous les dangers.
+[00:02:08.920 --> 00:02:27.500] Vous regardez le quatrième épisode de Circus Mediaticus sur Off Investigation.
+[00:02:27.500 --> 00:02:29.060] Un Manu peut en cacher un autre.
+[00:02:29.060 --> 00:02:32.580] Puisque Manuel Valls refuse de se dévouer et de faire comme jadis
+[00:02:32.580 --> 00:02:37.220] le Georges W. Bauch d'Evry, pardon de Barcelone.
+[00:02:37.260 --> 00:02:42.900] Manu Macron s'y est collé après la méga mobilisation du 17 octobre,
+[00:02:42.900 --> 00:02:47.380] ponctuée par des méga débordements civils et des méga violences policières.
+[00:02:47.380 --> 00:02:53.740] J'appelle l'ensemble des partis politiques, des organisations professionnelles, des syndicales,
+[00:02:53.740 --> 00:02:58.940] à condamner sans ambiguïté toutes les violences et à appeler au calme.
+[00:02:58.940 --> 00:03:01.420] Chacun doit prendre ses responsabilités.
+[00:03:01.420 --> 00:03:06.260] Vous les sentez, les accusations elliptiques, elliptiques soufflées de la menace ?
+[00:03:06.260 --> 00:03:09.460] Le Premier ministre réunira dans les prochains jours ses formations
+[00:03:09.460 --> 00:03:12.260] afin d'obtenir des positions claires et publiques.
+[00:03:12.260 --> 00:03:16.260] Puisqu'on vous dit qu'il y a et qu'il ne peut y avoir que deux camps.
+[00:03:16.260 --> 00:03:20.140] Le camp de la République, avec de gros guillemets bien sûr,
+[00:03:20.140 --> 00:03:24.740] et le camp des casseurs, des factieux, de la chienlie, comme dirait le général.
+[00:03:24.740 --> 00:03:30.620] Bien entendu, on peut faire le choix d'entendre la petite musique du « En même temps » façon Macron.
+[00:03:30.620 --> 00:03:34.460] Il faut aussi regarder lucidement ce qui s'exprime dans le pays.
+[00:03:34.460 --> 00:03:38.580] Hier, plusieurs centaines de milliers de nos compatriotes ont manifesté
+[00:03:38.580 --> 00:03:42.300] avec la volonté de porter des revendications légitimes.
+[00:03:42.300 --> 00:03:48.100] Jamais nous ne devons confondre ces derniers avec ceux qui ont détruit, cassé, pillé.
+[00:03:48.100 --> 00:03:50.900] Mouais. Sauf qu'il dit aussi.
+[00:03:50.900 --> 00:03:54.900] Les préfets prendront les décisions en lien avec les maires pour protéger nos villes,
+[00:03:54.900 --> 00:03:57.020] nos bâtiments publics et nos commerces,
+[00:03:57.020 --> 00:04:00.820] y compris en allant jusqu'à interdire quand il le faut certains rassemblements
+[00:04:00.820 --> 00:04:02.980] et en prenant toute action nécessaire.
+[00:04:02.980 --> 00:04:06.180] Fini de rigoler, il y aura plus que les manifs que j'accepterai.
+[00:04:06.180 --> 00:04:11.420] Et si vous ne voulez pas venir bavasser dans le cadre de mon énième grand débat national
+[00:04:11.420 --> 00:04:18.140] et écrire dans mes énièmes cahiers de doléances vos lubies que je ne lirai pas,
+[00:04:18.140 --> 00:04:20.500] ça veut dire que vous êtes des terroristes.
+[00:04:20.500 --> 00:04:29.860] Manu, tu veux nous refaire ton coup de l'époque des Gilets jaunes ?
+[00:04:29.860 --> 00:04:32.860] Diabolisons, diabolisons, il en restera toujours quelque chose.
+[00:04:32.860 --> 00:04:36.860] Pour prendre la mesure de ce que le parti de l'ordre a voulu nous dire par la bouche,
+[00:04:36.860 --> 00:04:41.260] notre bien-aimé président, il faut entendre la petite musique du cirque médiatique
+[00:04:41.260 --> 00:04:44.260] avant et après sa prise de parole.
+[00:04:44.260 --> 00:04:48.820] Il nous a lui-même fourni un petit indice, mais il faut être attentif.
+[00:04:48.820 --> 00:04:52.940] En regardant ces images, nous nous sommes tous demandé, comptent-ils dans la tête ?
+[00:04:52.940 --> 00:04:56.380] Comment des Français peuvent faire cela à la France ?
+[00:04:56.380 --> 00:05:00.900] Que disait la veille sur LCI, Télé Bouygues donc, et en pleine manif,
+[00:05:00.900 --> 00:05:05.380] le chroniqueur multiplatot et ancien policier du RAID, Bruno Beaumard.
+[00:05:05.380 --> 00:05:09.900] Est-ce qu'ils font partie vraiment de la France, celles et ceux que l'on voit là dans ces manifestations et qui cassent ?
+[00:05:09.900 --> 00:05:13.540] Des révolutionnaires, d'Allah, des Tgévaras, ratés.
+[00:05:13.540 --> 00:05:15.860] Mais ça rend triste aussi.
+[00:05:15.860 --> 00:05:18.660] Oui, tous les termes on peut employer, mais voilà, c'est les gens qui...
+[00:05:18.660 --> 00:05:23.580] Anarchistes, Trotsky, c'est-à-dire que, en fait, de la révolution du chaos n'est pas un jeu de quelque chose,
+[00:05:23.580 --> 00:05:25.180] mais on s'en fout en fait.
+[00:05:25.180 --> 00:05:28.060] Des révolutionnaires d'Allah.
+[00:05:28.060 --> 00:05:30.740] Le plus fort est qu'il a nié avoir tenu ces propos.
+[00:05:30.740 --> 00:05:34.660] Charles Consigny, avocat de droite extrême ou d'extrême droite qui a son rond de serviette
+[00:05:34.700 --> 00:05:42.460] qui est BFM et RMC, c'est-à-dire Radio-Télé, Rodolphe Saadé, 5ème ou 6ème fortune de France selon les calculs.
+[00:05:42.460 --> 00:05:44.660] Ce que vous faites est honteux, ce que vous...
+[00:05:44.660 --> 00:05:47.980] Les pillards, les pillards, ce que vous faites est honteux, c'est les...
+[00:05:47.980 --> 00:05:49.300] Et parfois, c'est même leurs parents.
+[00:05:49.300 --> 00:05:55.140] Et chez Sodia Mabrouk, le cadrage d'après discours d'Emmanuel Macron a été fait le même soir
+[00:05:55.140 --> 00:05:58.500] par Eric Ciotti et Eric Zemmour.
+[00:05:58.500 --> 00:05:59.460] Exégèse.
+[00:05:59.460 --> 00:06:04.300] Il a dit comment des Français peuvent-ils faire ça à la France ?
+[00:06:04.340 --> 00:06:05.500] C'est la question que j'allais vous poser.
+[00:06:05.500 --> 00:06:06.020] C'est vrai ?
+[00:06:06.020 --> 00:06:07.380] Eh ben je vais vous répondre.
+[00:06:07.380 --> 00:06:09.220] Parce qu'ils ne se sentent pas français, c'est ce que vous allez dire ?
+[00:06:09.220 --> 00:06:09.860] Exactement.
+[00:06:09.860 --> 00:06:11.140] Mais qui ne se sent pas français ?
+[00:06:11.140 --> 00:06:12.580] Mais ils ne se sentent pas français.
+[00:06:12.580 --> 00:06:13.180] Pourquoi ?
+[00:06:13.180 --> 00:06:18.140] Ils arborent des drapeaux palestiniens, algériens, marocains, moi.
+[00:06:18.140 --> 00:06:20.500] J'arbore jamais un drapeau d'un pays étranger.
+[00:06:20.500 --> 00:06:22.180] Ils sont synchro.
+[00:06:22.180 --> 00:06:22.980] C'est beau, non ?
+[00:06:22.980 --> 00:06:30.100] Et puisque la répétition est pédagogique, ce cher Eric était le même soir chez CNews, Télé-Boloré.
+[00:06:30.100 --> 00:06:33.980] Le sujet le plus important, c'est ce que j'appelle,
+[00:06:33.980 --> 00:06:36.860] je suis seul à le réclamer, la remigration,
+[00:06:36.860 --> 00:06:41.180] c'est-à-dire le départ de ces gens-là après déchéance de nationalité.
+[00:06:41.180 --> 00:06:42.420] C'est notre discussion de tout à l'heure.
+[00:06:42.420 --> 00:06:45.060] Bon à noter, juste avant le discours présidentiel,
+[00:06:45.060 --> 00:06:49.620] Erico était sur LCI pour déblatérer les mêmes choses.
+[00:06:49.620 --> 00:06:51.100] Ce n'est plus un plan média.
+[00:06:51.100 --> 00:06:52.980] C'est du racisme en bande organisée.
+[00:06:52.980 --> 00:06:54.780] De l'extrême-centre à l'extrême-droite,
+[00:06:54.780 --> 00:06:59.260] on procède ainsi par la stratégie de l'antagonisation, de l'altérisation.
+[00:06:59.300 --> 00:07:03.300] L'adversaire est non seulement étrange, mais peut-être s'étend jamais.
+[00:07:03.300 --> 00:07:05.620] Est-ce qu'on a encore le droit de le dire ?
+[00:07:05.620 --> 00:07:06.660] Étranger.
+[00:07:06.660 --> 00:07:10.820] On doit donc tous s'unir autour du drapeau en danger.
+[00:07:10.820 --> 00:07:14.820] Écoutons dans la bouche d'une commerçante pillée, épuisée,
+[00:07:14.820 --> 00:07:17.420] d'exemples types de la réaction attendue,
+[00:07:17.420 --> 00:07:20.500] mélange de peur, de sidération, d'exaspération,
+[00:07:20.500 --> 00:07:26.460] qui amène à refuser de réfléchir et à renoncer à toute velléité de liberté
+[00:07:26.460 --> 00:07:28.620] pour un minimum de sécurité.
+[00:07:28.660 --> 00:07:32.540] Aujourd'hui, on n'est pas venu nous battre par rapport à la Constitution,
+[00:07:32.540 --> 00:07:33.660] la loi ou pas la loi.
+[00:07:33.660 --> 00:07:35.580] La loi, s'il faut la changer, il va bien falloir la changer,
+[00:07:35.580 --> 00:07:37.140] parce que ça ne peut pas continuer comme ça.
+[00:07:37.140 --> 00:07:39.980] On parle aujourd'hui de casse.
+[00:07:39.980 --> 00:07:42.100] En fait, ce qu'on voit, ce sont des scènes de guerre.
+[00:07:42.100 --> 00:07:43.900] Nous sommes en guerre, malheureusement.
+[00:07:43.900 --> 00:07:46.140] On n'ose pas dire le mot, mais ce qui se passe dans la rue,
+[00:07:46.140 --> 00:07:47.460] ce sont des scènes de guerre.
+[00:07:47.460 --> 00:07:49.100] Ce ne sont pas que des violences urbaines.
+[00:07:49.100 --> 00:07:50.620] Donc il va bien falloir changer la loi.
+[00:07:50.620 --> 00:07:52.460] Il va bien falloir modifier la Constitution.
+[00:07:52.460 --> 00:07:54.380] Si c'est ce qu'il faut faire, il va falloir le faire.
+[00:07:54.380 --> 00:07:56.220] Il va falloir avoir le courage de le faire.
+[00:07:56.220 --> 00:07:58.100] Et j'aimerais qu'on sorte du débat politique
+[00:07:58.100 --> 00:07:59.860] et qu'on parle maintenant des réalités.
+[00:07:59.860 --> 00:08:00.940] Je suis désolée.
+[00:08:00.940 --> 00:08:04.340] La politique versus les réalités.
+[00:08:04.340 --> 00:08:07.540] L'idéologie versus le bon sens.
+[00:08:07.540 --> 00:08:09.940] Bravo madame, voici une France qui se tient bien.
+[00:08:12.060 --> 00:08:14.700] Sauf que cette mise en récit simpliste
+[00:08:14.700 --> 00:08:17.620] commence à prendre de l'eau de toutes parts.
+[00:08:17.620 --> 00:08:20.420] Tout a commencé par les rebufades des mers
+[00:08:20.420 --> 00:08:22.060] dont les vilons subis,
+[00:08:22.060 --> 00:08:25.380] le plus gros des pillages comme Benoît Paillon de Marseille.
+[00:08:25.380 --> 00:08:27.100] Je n'ai absolument pas compris
+[00:08:27.140 --> 00:08:28.380] ce qui s'est passé dans ma ville.
+[00:08:28.380 --> 00:08:30.980] Je ne comprends pas comment en toute impunité,
+[00:08:30.980 --> 00:08:33.860] des personnes ont pu pendant des heures
+[00:08:33.860 --> 00:08:35.300] massacrer ma ville,
+[00:08:35.300 --> 00:08:36.340] casser des commerces,
+[00:08:36.340 --> 00:08:37.540] casser la mairie,
+[00:08:37.540 --> 00:08:40.060] casser un commissariat sous les yeux,
+[00:08:40.060 --> 00:08:43.060] sous les yeux de personnes qui auraient dû intervenir.
+[00:08:43.060 --> 00:08:45.100] Je veux savoir ce qui leur a été demandé.
+[00:08:45.100 --> 00:08:46.820] Je veux savoir heure à heure
+[00:08:46.820 --> 00:08:49.340] quels ordres leur ont été donnés,
+[00:08:49.340 --> 00:08:51.940] quels ordres ont été appliqués.
+[00:08:51.940 --> 00:08:54.180] La police, ça n'est pas de la chair à canon.
+[00:08:54.180 --> 00:08:55.940] Les lycéens, ça n'est pas de la chair à canon.
+[00:08:55.940 --> 00:08:57.020] En réalité, ce qui s'est passé,
+[00:08:57.940 --> 00:09:01.220] c'est que, en laissant s'installer ce chaos,
+[00:09:01.220 --> 00:09:03.700] en laissant ces dégradations d'une violence
+[00:09:03.700 --> 00:09:06.780] insupportable, inacceptable,
+[00:09:06.780 --> 00:09:09.140] qui doit être évidemment condamnée par tout le monde
+[00:09:09.140 --> 00:09:11.780] avec de la fermeté,
+[00:09:11.780 --> 00:09:12.820] mais qui doit être suivie d'actes.
+[00:09:12.820 --> 00:09:14.460] Parce que la condamnation, c'est bien beau,
+[00:09:14.460 --> 00:09:16.060] mais vous savez, la politique, c'est comme l'amour.
+[00:09:16.060 --> 00:09:17.340] Il y a les mots, on condamne,
+[00:09:17.340 --> 00:09:18.580] puis derrière, il y a les actes.
+[00:09:18.580 --> 00:09:19.900] Et moi, je crains qu'à Marseille,
+[00:09:19.900 --> 00:09:20.900] il n'y ait pas eu d'actes.
+[00:09:20.900 --> 00:09:22.220] Sur une chaîne concurrente.
+[00:09:22.220 --> 00:09:24.740] Et je fais tout de suite une réunion avec le Premier ministre
+[00:09:24.740 --> 00:09:25.900] et avec le ministre de l'Intérieur
+[00:09:25.900 --> 00:09:27.540] qui me disent et qui me garantissent
+[00:09:27.540 --> 00:09:29.780] qu'ils envoient immédiatement
+[00:09:29.780 --> 00:09:32.740] deux UFM supplémentaires et deux centaures supplémentaires.
+[00:09:32.740 --> 00:09:36.300] L'après-midi, je n'ai vu les forces de police
+[00:09:36.300 --> 00:09:37.660] faire qu'une seule chose,
+[00:09:37.660 --> 00:09:40.020] envoyer des gaz lacrymogènes sur les manifestants
+[00:09:40.020 --> 00:09:42.700] et les pilleurs, open bar.
+[00:09:42.700 --> 00:09:43.580] C'est moi qui les image.
+[00:09:43.580 --> 00:09:45.500] Et c'est d'ailleurs pour ça que le ministre revient
+[00:09:45.500 --> 00:09:48.700] parce que ces images, si elles sortent,
+[00:09:48.700 --> 00:09:51.220] je pense qu'elles risquent de poser un problème majeur
+[00:09:51.220 --> 00:09:53.500] à celles et ceux qui, aujourd'hui, donnent des coups de manteau.
+[00:09:53.500 --> 00:09:55.260] Messieurs et dames du gouvernement,
+[00:09:55.300 --> 00:09:56.980] qui se dévoue pour lui répondre ?
+[00:09:56.980 --> 00:10:00.020] Parce que là, il semble convaincu qu'en haut lieu,
+[00:10:00.020 --> 00:10:02.940] on a fait exprès de laisser pourrir la situation
+[00:10:02.940 --> 00:10:04.380] pour pouvoir sconder.
+[00:10:04.380 --> 00:10:05.860] Nous sommes en guerre.
+[00:10:05.860 --> 00:10:08.900] Torse bombée et narine gilatée.
+[00:10:08.900 --> 00:10:10.060] Qui aurait pu prédire ?
+[00:10:10.060 --> 00:10:11.740] C'est vrai. Qui ?
+[00:10:11.740 --> 00:10:15.220] Dominique Grisé, chroniqueur police justice de BFM,
+[00:10:15.220 --> 00:10:16.900] habituellement proche de ses sources.
+[00:10:16.900 --> 00:10:20.140] Et qui doit ici traduire le seum des policiers ?
+[00:10:20.140 --> 00:10:21.980] Moi, si vous me demandez mon avis,
+[00:10:21.980 --> 00:10:24.700] je vais vous le donner sur ce qu'on a vu hier.
+[00:10:24.740 --> 00:10:26.060] C'est, je dirais, amateurisme.
+[00:10:26.060 --> 00:10:27.740] Les autorités se sont trompées.
+[00:10:27.740 --> 00:10:29.140] Elles n'ont rien vu venir.
+[00:10:29.140 --> 00:10:31.340] C'est une tempête qui se préparait,
+[00:10:31.340 --> 00:10:32.500] qui arrivait sur nous,
+[00:10:32.500 --> 00:10:33.500] et n'ont rien vu venir.
+[00:10:33.500 --> 00:10:36.660] Il y a eu un mauvais travail en amont
+[00:10:36.660 --> 00:10:40.740] parce qu'on a sous-estimé la colère
+[00:10:40.740 --> 00:10:44.900] et la force de ce peuple qui se révolte.
+[00:10:45.580 --> 00:10:47.940] On nous a dit, le renseignement a dit,
+[00:10:47.940 --> 00:10:51.940] allez, entre 60 et 110 000 personnes,
+[00:10:51.940 --> 00:10:54.340] il y en avait 500 000 selon les autorités,
+[00:10:54.420 --> 00:10:56.420] 800 000 selon les organisateurs.
+[00:10:56.420 --> 00:10:59.220] Et pourtant, le pouvoir Macron et ses proxys,
+[00:10:59.220 --> 00:11:02.340] comme ils disent, avaient mis les petits plats dans les grands,
+[00:11:02.340 --> 00:11:05.540] pas pour encadrer les manifs et empêcher les débordements,
+[00:11:05.540 --> 00:11:10.220] mais pour concocter de jolis éléments de langage accusatoires
+[00:11:10.220 --> 00:11:12.500] contre LFI, bien entendu.
+[00:11:12.500 --> 00:11:15.780] LFI et ses proxys, comme ils disent.
+[00:11:15.780 --> 00:11:17.700] Maud Bréjon, porte-parole du gouvernement.
+[00:11:17.700 --> 00:11:19.260] Dans les paroles de la France Insoumise,
+[00:11:19.260 --> 00:11:21.820] dans les modes opératoires de la France Insoumise,
+[00:11:21.820 --> 00:11:26.580] ils ont évidemment une responsabilité morale et politique
+[00:11:26.580 --> 00:11:29.820] dans les violences qui traversent le pays.
+[00:11:29.820 --> 00:11:32.940] Et ça ne date pas d'il y a quelques jours.
+[00:11:32.940 --> 00:11:36.540] C'est une stratégie d'engrenage de la violence
+[00:11:36.540 --> 00:11:38.060] qui, encore une fois, les anime,
+[00:11:38.060 --> 00:11:42.020] qu'ils animent eux-mêmes à des fins électorales
+[00:11:42.020 --> 00:11:43.980] dans une volonté de tout conflictualiser.
+[00:11:43.980 --> 00:11:47.340] Jean-Luc Mélenchon l'a d'ailleurs théorisé lui-même.
+[00:11:47.340 --> 00:11:49.980] Sauf que tout ne s'est pas passé comme prévu.
+[00:11:50.020 --> 00:11:53.380] La procureure de Paris, déjà, s'est rebiffée.
+[00:11:53.380 --> 00:11:56.780] Alba Ventura de TF1 avait pourtant tout donné.
+[00:11:56.780 --> 00:11:59.420] D'abord, pour que ce soit bien clair, madame la procureure,
+[00:11:59.420 --> 00:12:03.620] on a en face de nous des gens plutôt politisés à l'ultra-gauche.
+[00:12:03.620 --> 00:12:04.940] Mais quand ça veut pas...
+[00:12:04.940 --> 00:12:07.780] C'est absolument pas ce que je peux confirmer
+[00:12:07.780 --> 00:12:09.580] en l'état de mes informations.
+[00:12:09.580 --> 00:12:12.020] Et même les poteaux de BFM s'y mettent.
+[00:12:12.020 --> 00:12:15.380] On est bien loin pour la plupart des profils d'ultra-gauche
+[00:12:15.380 --> 00:12:17.580] ou de pilleur d'opportunités.
+[00:12:17.580 --> 00:12:19.300] Souvent, pour ceux qui ont été jugés à Paris,
+[00:12:19.340 --> 00:12:20.740] ils venaient de province.
+[00:12:20.740 --> 00:12:22.420] Regardez ce premier profil.
+[00:12:22.420 --> 00:12:24.100] Il s'agit de François Des,
+[00:12:24.100 --> 00:12:26.500] futur guide de Haute-Montagne de 20 ans à peine.
+[00:12:26.500 --> 00:12:29.020] Ce sont beaucoup de jeunes majeurs.
+[00:12:29.020 --> 00:12:30.780] Il a écopé hier de 2 mois de prison ferme
+[00:12:30.780 --> 00:12:32.660] et d'un an d'interdiction de paraître à Paris.
+[00:12:32.660 --> 00:12:33.980] Jugez Mathilde B.
+[00:12:33.980 --> 00:12:37.140] Jugez elle aussi avec lui hier, 19 ans.
+[00:12:37.140 --> 00:12:39.180] Elle a écopé de 5 mois de prison avec sursis
+[00:12:39.180 --> 00:12:41.980] et également d'interdiction de paraître à Paris.
+[00:12:41.980 --> 00:12:44.300] Egalement jugé pour participation à un groupement
+[00:12:44.300 --> 00:12:45.860] à envie de commettre des violences.
+[00:12:45.860 --> 00:12:48.060] Autre profil, Andy M.
+[00:12:48.100 --> 00:12:50.140] Cet agent de sécurité dans les Hauts-de-Seine,
+[00:12:50.140 --> 00:12:51.740] originaire du Val-de-Marne,
+[00:12:51.740 --> 00:12:54.300] lui aussi quasi vierge avant cela, 23 ans,
+[00:12:54.300 --> 00:12:56.740] est condamné à 12 mois de prison avec sursis,
+[00:12:56.740 --> 00:12:59.660] un an d'interdiction de détention d'armes et de manifester.
+[00:12:59.660 --> 00:13:02.580] Et puis t'as Mediapart qui sont prévenus comme ça,
+[00:13:02.580 --> 00:13:03.940] à l'air de rien,
+[00:13:03.940 --> 00:13:05.500] dégoupille une grenade.
+[00:13:05.500 --> 00:13:07.500] Ces accusations d'interférence politique
+[00:13:07.500 --> 00:13:10.740] sont contestées jusqu'au sein même des services de renseignement.
+[00:13:10.740 --> 00:13:13.140] Dans des échanges écrits datés du 18 octobre
+[00:13:13.140 --> 00:13:14.980] et consultés par Mediapart,
+[00:13:14.980 --> 00:13:18.020] un commissaire du renseignement territorial n'en revient pas.
+[00:13:18.340 --> 00:13:20.100] Il y a des choses indicibles,
+[00:13:20.100 --> 00:13:23.980] mais quand on nous demande texto d'écrire que c'est LFI qui est derrière le mouvement,
+[00:13:23.980 --> 00:13:25.820] alors que c'est objectivement faux,
+[00:13:25.820 --> 00:13:28.460] forcément, on a des décisions politiques.
+[00:13:28.460 --> 00:13:29.980] déplore-t-il auprès de ses collègues.
+[00:13:29.980 --> 00:13:32.900] Un responsable syndical policier en chérie.
+[00:13:32.900 --> 00:13:35.500] J'ai été très étonné par ces accusations concernant LFI
+[00:13:35.500 --> 00:13:38.500] qui seraient responsables du chaos de samedi et des saccages.
+[00:13:38.500 --> 00:13:41.780] Je ne vois pas ce qu'à avoir LFI dans l'histoire de ce fiasco.
+[00:13:41.780 --> 00:13:44.460] C'est dangereux de politiser ainsi un échec aussi grossier
+[00:13:44.460 --> 00:13:46.940] et surtout de ne pas en assumer l'entière responsabilité.
+[00:13:46.980 --> 00:13:48.540] Pourtant, je ne porte pas à LFI dans mon cœur
+[00:13:48.540 --> 00:13:50.700] compte tenu des attaques incessantes contre les policiers.
+[00:13:50.700 --> 00:13:55.020] Le fiasco est tellement immense que la vraie fausse émission du ministre de l'Intérieur,
+[00:13:55.020 --> 00:13:59.100] Laurent Nunez, n'a pas suffi à désamorcer la bombe.
+[00:13:59.100 --> 00:14:01.980] De l'intérieur du pouvoir, ça balance sec.
+[00:14:01.980 --> 00:14:04.060] Vous avez échangé avec plusieurs membres du gouvernement
+[00:14:04.060 --> 00:14:05.860] après ces émeutes sans précédent.
+[00:14:05.860 --> 00:14:07.820] Ce qu'ils vous ont dit, c'est sidérant, c'est inquiétant.
+[00:14:07.820 --> 00:14:09.500] Oui, tenez-vous bien parce que ça fait froid dans le dos
+[00:14:09.500 --> 00:14:12.100] quand on sait d'où ça vient, c'est-à-dire du plus haut sommet de l'État.
+[00:14:12.100 --> 00:14:15.420] Comme ce ministre qui me lâche que c'est catastrophique,
+[00:14:15.420 --> 00:14:19.540] je suis en colère, c'est indéfendable des sentiments,
+[00:14:19.540 --> 00:14:22.580] clairement, que le pouvoir est aux abois, dans une fin de règne
+[00:14:22.580 --> 00:14:24.460] qui apparaît comme internidable.
+[00:14:24.460 --> 00:14:27.460] Plusieurs ministres jugent aussi que la stratégie de coller à LFI,
+[00:14:27.460 --> 00:14:30.540] la responsabilité de tout ça, ne prend pas du tout.
+[00:14:30.540 --> 00:14:34.020] Ce n'est pas de la faute à Mélenchon si ça a merdé samedi.
+[00:14:34.020 --> 00:14:36.620] Voilà ce que me confie Saint-Glant, une membre du gouvernement.
+[00:14:36.620 --> 00:14:40.340] Pas optimiste non plus et c'est inquiétant sur les prochaines mobilisations
+[00:14:40.340 --> 00:14:42.660] de samedi prochain et du 5.
+[00:14:42.660 --> 00:14:44.940] Le constat, c'est que ça monte en ébullition.
+[00:14:44.980 --> 00:14:47.180] Je me demande comment on s'en sort.
+[00:14:47.180 --> 00:14:49.700] Ce n'est plus un gouvernement, c'est le Titanic.
+[00:14:53.180 --> 00:14:57.860] Et voici désormais sa Antigue, en quelques secondes, rône.
+[00:14:57.860 --> 00:15:00.580] Je vais dire qu'il est temps que Macron réponde à la jeunesse.
+[00:15:00.580 --> 00:15:02.820] Ça fait trois semaines qu'ils sont mobilisés,
+[00:15:02.820 --> 00:15:04.620] trois semaines qu'ils attendent des réponses
+[00:15:04.620 --> 00:15:08.100] et qu'il est temps qu'ils obtiennent satisfaction sur leurs revendications.
+[00:15:08.100 --> 00:15:11.220] Mais là, c'est-à-dire que vous associez les casseurs aux manifestants, c'est comment ?
+[00:15:11.220 --> 00:15:14.180] Je n'associe rien du tout, je vois bien ce qui se passe dans le pays depuis trois semaines
+[00:15:14.180 --> 00:15:16.620] et je me dis, c'est comme ça, quand on ne répond pas,
+[00:15:16.620 --> 00:15:19.900] quand on n'écoute pas la population, c'est ce qui se passe.
+[00:15:19.900 --> 00:15:21.100] Que devrait faire le gouvernement ?
+[00:15:21.100 --> 00:15:22.060] Que devrait faire le président ?
+[00:15:22.060 --> 00:15:24.220] Il va parler à 20 heures, qu'est-ce que vous en attendez ?
+[00:15:24.220 --> 00:15:26.180] Il doit démissionner le gouvernement.
+[00:15:26.180 --> 00:15:27.300] Voilà, bonne journée.
+[00:15:27.300 --> 00:15:30.980] Le spectre de Français qui n'en ont plus rien à faire de rien
+[00:15:30.980 --> 00:15:34.780] et qui veulent juste les voir dégagés sans tarder.
+[00:15:34.780 --> 00:15:40.340] Moralité, l'abus de communication de crise cynique et d'inversions accusatoires
+[00:15:40.340 --> 00:15:42.940] nuit gravement à la stabilité.
+[00:15:42.980 --> 00:15:47.300] Rendez-vous dans 15 jours pour un nouvel épisode de Circus Mediaticus.
+[00:15:49.540 --> 00:15:52.820] On ne démontre pas le Cirque médiatique avec l'argent de ses propriétaires.
+[00:15:52.820 --> 00:15:54.540] Off-investigation ne tient que par vaut.
+[00:15:54.540 --> 00:15:58.460] Ni actionnaires extérieurs, dispensers, ni subventions de l'État.
+[00:15:58.460 --> 00:16:02.620] Trois façons de nous faire tenir debout sur off-investigation.fr
+[00:16:02.620 --> 00:16:05.100] par un don ou avec un abonnement qui, seul,
+[00:16:05.100 --> 00:16:09.700] vous donne accès à nos enquêtes écrites et à tous nos documentaires avant tout le monde.
+[00:16:09.700 --> 00:16:13.420] Ou encore ici sur YouTube avec le bouton rejoindre ci-dessous
+[00:16:13.420 --> 00:16:16.740] pour entrer dans les coulisses et profiter des docs en avance.
+[00:16:16.740 --> 00:16:18.740] À vous de choisir, on compte sur vous.

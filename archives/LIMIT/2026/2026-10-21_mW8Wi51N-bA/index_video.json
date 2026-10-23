@@ -1,0 +1,262 @@
+{
+  "arguments_positions": [
+    {
+      "position": "Le gouvernement réduit une colère sociale ancienne au récit de l'ultragauche",
+      "horodatages": [
+        "00:01:00",
+        "00:31:02"
+      ]
+    },
+    {
+      "position": "L'écart entre participation prévue et réelle révèle un échec de préparation",
+      "horodatages": [
+        "00:11:00",
+        "00:16:03"
+      ]
+    },
+    {
+      "position": "Une stratégie du pourrissement est plausible mais non prouvée",
+      "horodatages": [
+        "00:21:04",
+        "00:34:01"
+      ]
+    }
+  ],
+  "citations_exactes": [],
+  "concepts": [
+    {
+      "nom": "stratégie du pourrissement",
+      "horodatages": [
+        "00:03:00",
+        "00:21:04"
+      ]
+    },
+    {
+      "nom": "criminalisation de la gauche",
+      "horodatages": [
+        "00:27:01",
+        "00:29:03"
+      ]
+    },
+    {
+      "nom": "vérification d'images virales",
+      "horodatages": [
+        "00:17:25"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "17 octobre 2026",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:01"
+      ]
+    },
+    {
+      "nom": "élection présidentielle de 2027",
+      "niveau": "mention",
+      "horodatages": [
+        "00:27:01"
+      ]
+    },
+    {
+      "nom": "état d'urgence",
+      "niveau": "mention",
+      "horodatages": [
+        "00:28:03"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "incompétence ou choix politique",
+      "horodatages": [
+        "00:21:04"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:01"
+      ]
+    },
+    {
+      "nom": "pays du Golfe",
+      "niveau": "mention",
+      "horodatages": [
+        "00:09:00"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "pourrissement",
+    "ultragauche",
+    "Macron",
+    "maintien de l'ordre",
+    "policiers casseurs",
+    "carburants",
+    "2027",
+    "état d'urgence"
+  ],
+  "organismes": [
+    {
+      "nom": "UNSA Police",
+      "niveau": "mention",
+      "horodatages": [
+        "00:11:00"
+      ]
+    },
+    {
+      "nom": "police",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:17:25",
+        "00:33:00"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:04:00"
+      ]
+    },
+    {
+      "nom": "Clément Viktorovitch",
+      "niveau": "mention",
+      "horodatages": [
+        "00:04:00"
+      ]
+    },
+    {
+      "nom": "Laurent Nuñez",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:11:00"
+      ]
+    },
+    {
+      "nom": "Jean-Luc Mélenchon",
+      "niveau": "mention",
+      "horodatages": [
+        "00:22:04"
+      ]
+    },
+    {
+      "nom": "Bruno Retailleau",
+      "niveau": "mention",
+      "horodatages": [
+        "00:28:03"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "chaos du 17 octobre",
+      "relation": "peut servir selon l'hypothèse",
+      "cible": "durcissement sécuritaire",
+      "horodatages": [
+        "00:26:03"
+      ]
+    },
+    {
+      "source": "vidéos virales",
+      "relation": "nécessitent",
+      "cible": "vérification contextuelle",
+      "horodatages": [
+        "00:17:25"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:03:58",
+      "titre": "Introduction et hypothèse"
+    },
+    {
+      "debut": "00:03:58",
+      "fin": "00:07:41",
+      "titre": "Le roi dans son palais"
+    },
+    {
+      "debut": "00:07:41",
+      "fin": "00:12:36",
+      "titre": "Carburants et dispositif policier"
+    },
+    {
+      "debut": "00:12:36",
+      "fin": "00:17:25",
+      "titre": "Récit de l'ultragauche"
+    },
+    {
+      "debut": "00:17:25",
+      "fin": "00:21:12",
+      "titre": "Vérification des policiers casseurs"
+    },
+    {
+      "debut": "00:21:12",
+      "fin": "00:36:41",
+      "titre": "Stratégie du pourrissement"
+    },
+    {
+      "debut": "00:36:41",
+      "fin": "00:37:32",
+      "titre": "Conclusion"
+    }
+  ],
+  "resume_general": "Enquête sur l'échec du maintien de l'ordre et l'hypothèse non prouvée d'un pourrissement volontaire destiné à délégitimer la mobilisation.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "prix du carburant et marges de raffinage",
+      "horodatages": [
+        "00:07:41"
+      ]
+    },
+    {
+      "sujet": "agents en civil et grenades",
+      "horodatages": [
+        "00:17:25"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "maintien de l'ordre du 17 octobre",
+      "horodatages": [
+        "00:11:00"
+      ]
+    },
+    {
+      "theme": "stratégie politique du chaos",
+      "horodatages": [
+        "00:21:12"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "stratégie du pourrissement",
+      "variantes": [
+        "laisser-faire",
+        "chaos utile"
+      ]
+    },
+    {
+      "canonique": "forces de l'ordre",
+      "variantes": [
+        "police",
+        "policiers",
+        "gendarmes"
+      ]
+    }
+  ],
+  "video_id": "mW8Wi51N-bA"
+}

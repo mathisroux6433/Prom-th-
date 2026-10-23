@@ -1,0 +1,717 @@
+Crée un index documentaire fidèle en JSON strict. Ne juge pas la véracité. Distingue pour personnes, organismes et événements le niveau 'mention' ou 'developpe'. N'invente rien. Les citations_exactes doivent être verbatim ; les expressions_representatives ne sont pas des citations. Chaque élément thématique utile porte si possible des horodatages. Retourne uniquement un objet suivant cette structure :
+{
+  "arguments_positions": [],
+  "citations_exactes": [],
+  "concepts": [],
+  "evenements_lois_reglementations": [],
+  "expressions_representatives": [],
+  "lieux_periodes": [],
+  "mots_cles": [],
+  "organismes": [],
+  "personnes": [],
+  "relations_documentaires": [],
+  "reperes_temporels": [],
+  "resume_general": "",
+  "schema_version": "1.1",
+  "sujets_secondaires": [],
+  "themes_principaux": [],
+  "variantes_lexicales": [],
+  "video_id": "mW8Wi51N-bA"
+}
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "mW8Wi51N-bA",
+  "title": "STRATÉGIE DU POURRISSEMENT (ou juste incompétence.)... #24octobre #Armée #Macron",
+  "channel": "LIMIT",
+  "channel_id": "UCAbFIrKZCYdKucQYnhxWnrA",
+  "upload_date": "20261021",
+  "duration_seconds": 2252,
+  "webpage_url": "https://www.youtube.com/watch?v=mW8Wi51N-bA",
+  "description": "LA STRATÉGIE DU POURRISSEMENT... \n\n✅ Soutiens LIMIT pour qu'on puisse rester un média Indépendant  : \nhttps://fr.tipeee.com/limit/\nhttps://paypal.me/limitmedia\n\n\n« Comment des Français peuvent faire cela à la France ? » Le 18 octobre, Emmanuel Macron pose la question. Alors on y répond.\n\nLe 17, 550.000 personnes dans la rue selon le ministère de l'Intérieur, 190.000 attendues, 60.000 policiers et gendarmes. Le soir, le dispositif « n'était pas sous-dimensionné ». Deux jours plus tard, Laurent Nuñez parle de « perte de contrôle » et remet sa démission. Et sur les plateaux, un seul mot : ultragauche.\n\nDans cette vidéo, on remonte dix ans de colères qu'on n'a pas écoutées, on décortique les chiffres du fiasco, on passe au crible les vidéos de « policiers casseurs » qui circulent (ce qui est faux, et ce qui pose de vraies questions), on regarde ce que l'histoire a déjà prouvé, et on pose une hypothèse que beaucoup se posent sans oser la formuler : la stratégie du pourrissement.\n\nTout le long, on sépare ce qu'on SAIT de ce qu'on SUPPOSE.\n\nARTICLE SUR LE SUJET : https://www.limit.media/blog/articles-1/la-strategie-du-pourrissement-erreur-ou-choix-67\n\n▶ CHAPITRES\n00:00 - Introduction\n03:58 - Le roi dans son palais\n07:41 - Le plein et le château\n12:36 - L'ultragauche a bon dos\n17:25 - Ça n'existe pas !\n21:12 - La stratégie du pourrissement\n36:41 - Le mot du jour\n\nPrésentation : Vinz Kanté\nRéalisation : Vinz Kanté\nEcriture : Vinz Kanté\nMontage : Vinz Kanté\nStudio : @LIMITMEDIA \n\n▶ TOUTES LES SOURCES :\nLe texte complet de la vidéo et toutes les sources, chapitre par chapitre, avec ce qui est prouvé, ce qui ne l'est pas, et les errata (si j'en ai héhé) : https://docs.google.com/document/d/1s1wc73VphTTyswSs3Rmfq4a06fZEN1ff06Nl9evzSYs/\n\nQuelques vidéos intéressantes : \nLe jour de gloire est arrivé, le débrief du 17 octobre (LIMIT) : https://www.youtube.com/watch?v=Iwp81BcwNx8\nLa révolte des lycéens (LIMIT) : https://www.youtube.com/watch?v=m5gSn0SD9C0\n@Clemovitch : https://www.youtube.com/watch?v=mRVMNFX8GFo\n\nN'hésitez pas à nous suivre et découvrir nos contenus & vidéos sur : \n► Site Internet : https://limit.media/\n► Discord : https://discord.gg/7RSBBdbq69\n► Facebook :  https://www.facebook.com/limitofficiel\n► Instagram :  https://www.instagram.com/limitofficiel\n► Blue Sky : https://bsky.app/profile/limitmedia.bsky.social\n► TikTok : https://tiktok.com/@limitofficiel\n► X : https://www.twitter.com/limitofficiel\n\n✅  Soutenez LIMIT ! \nhttps://fr.tipeee.com/limit/\nhttps://paypal.me/limitmedia",
+  "language": "fr-FR"
+}
+
+TRANSCRIPTION :
+[00:00:01.620 --> 00:00:04.300] En regardant ces images, nous nous sommes tous demandés,
+[00:00:04.300 --> 00:00:06.100] comptent-ils dans la tête ?
+[00:00:06.100 --> 00:00:09.500] Comment des Français peuvent faire cela à la France ?
+[00:00:09.500 --> 00:00:17.290] 18 octobre 2026, il est 20h, Emmanuel Macron s'adresse aux Français.
+[00:00:17.290 --> 00:00:19.610] Et il pose une question.
+[00:00:19.610 --> 00:00:23.170] Comment des Français peuvent faire cela à la France ?
+[00:00:23.170 --> 00:00:24.370] Bonne question vraiment.
+[00:00:24.370 --> 00:00:26.290] Alors, on va y répondre.
+[00:00:26.290 --> 00:00:29.450] Le 9 octobre, un plein coûte 116 euros.
+[00:00:29.450 --> 00:00:31.850] Et il y a un an, c'était 81.
+[00:00:31.850 --> 00:00:35.890] Le 17, 550 000 personnes descendent dans la rue selon le ministère de l'Intérieur,
+[00:00:35.890 --> 00:00:37.370] 800 000 selon les organisateurs.
+[00:00:37.370 --> 00:00:40.930] Contre la vie chère, contre le manque de moyens partout,
+[00:00:40.930 --> 00:00:42.410] y compris dans les écoles.
+[00:00:42.410 --> 00:00:45.610] Et le soir à même à la télé, on vous parle d'un seul mot.
+[00:00:46.050 --> 00:01:00.010] L'ultra gauche, l'ultra gauche, l'ultra gauche, l'ultra gauche, l'ultra gauche, l'ultra gauche, l'ultra gauche, l'ultra gauche, l'ultra gauche, l'ultra gauche, l'ultra gauche.
+[00:01:00.010 --> 00:01:05.330] Mais pas de la réalité à laquelle est confronté un nombre croissant de citoyens, non, l'ultra gauche.
+[00:01:05.330 --> 00:01:09.530] Pendant ce temps, le ministre de l'Intérieur, Laurent Nunes, enchaîne les phrases.
+[00:01:09.530 --> 00:01:15.490] Le 7 octobre, des députés lui demandent s'il y a des policiers en civils qui poussent les manifestants à la violence.
+[00:01:15.490 --> 00:01:18.010] Sa réponse, rapportée par LCP.
+[00:01:18.010 --> 00:01:20.650] Il n'y a pas de policiers en civil qui incitent à la commission de violence.
+[00:01:20.650 --> 00:01:22.530] Monsieur le député, ça n'existe pas.
+[00:01:22.530 --> 00:01:24.170] Ça n'existe pas, ça n'existe pas.
+[00:01:25.170 --> 00:01:27.330] Cinq jours plus tôt, le 2 octobre,
+[00:01:27.330 --> 00:01:31.330] à Reims, un policier de la BAC lance une grenade acrymogène vers des lycéens.
+[00:01:31.330 --> 00:01:34.050] Il est en civil, visage à moitié caché,
+[00:01:34.050 --> 00:01:36.170] sans brassard ni matricule.
+[00:01:36.170 --> 00:01:38.770] La préfecture l'a confirmé.
+[00:01:38.770 --> 00:01:41.010] Le 16, la veille, Nunes prévient.
+[00:01:41.010 --> 00:01:43.250] L'ultra-gauche, très souvent en fin de cortège,
+[00:01:43.250 --> 00:01:44.930] provoque des dégradations.
+[00:01:44.970 --> 00:01:47.730] Rien ne s'est encore passé.
+[00:01:47.730 --> 00:01:50.490] Le coupable est déjà désigné.
+[00:01:50.490 --> 00:01:52.330] Le 17 août soir, il dit que...
+[00:01:52.330 --> 00:01:55.690] Le dispositif n'était pas sous-dimensionné.
+[00:01:55.690 --> 00:01:59.970] Et le 19, il explique qu'il a remis sa démission à Macron,
+[00:01:59.970 --> 00:02:01.250] qu'il a refusé.
+[00:02:01.250 --> 00:02:02.450] Et il lâche.
+[00:02:02.450 --> 00:02:04.290] Vous ne pouvez pas regarder les commerçants en face
+[00:02:04.290 --> 00:02:06.810] quand vous avez des centaines de commerces qui ont été pillés
+[00:02:06.810 --> 00:02:10.130] et dire qu'on n'a pas perdu le contrôle sur certaines de ces grandes villes.
+[00:02:10.130 --> 00:02:11.490] Tu sens le truc là ?
+[00:02:11.530 --> 00:02:15.010] D'abord nier et puis reconnaître quand ça a brûlé.
+[00:02:15.010 --> 00:02:17.650] Et surtout ne jamais dire le fond.
+[00:02:17.650 --> 00:02:21.010] C'est gens dans la rue qui se coignent aux limites
+[00:02:21.010 --> 00:02:23.090] dont on parle ici depuis des années.
+[00:02:23.090 --> 00:02:26.090] Pétrole, gaz, énergie, souveraineté.
+[00:02:26.090 --> 00:02:30.770] Et ils ont en face un gouvernement qui fait comme si c'est limite,
+[00:02:30.770 --> 00:02:34.130] y compris bien sûr le climat et les fondements de biodiversité.
+[00:02:34.130 --> 00:02:37.210] Et l'impact que ça a justement sur les gens et les sociétés humaines
+[00:02:37.210 --> 00:02:38.810] n'existait pas.
+[00:02:38.810 --> 00:02:41.410] Dans cette vidéo, on va parler de 10 ans de colère,
+[00:02:41.410 --> 00:02:42.530] qu'on n'a pas écouté.
+[00:02:42.530 --> 00:02:44.330] Les chiffres du fiasco.
+[00:02:44.330 --> 00:02:48.930] Des images de policiers qui posent véritablement question aujourd'hui
+[00:02:48.930 --> 00:02:51.770] en France et même en Belgique.
+[00:02:51.770 --> 00:02:55.370] Ce qui se passe ailleurs en Europe et dont on vous parle très peu
+[00:02:55.370 --> 00:02:57.930] est une hypothèse que beaucoup de gens se posent
+[00:02:57.930 --> 00:03:00.970] sans réellement oser la formuler.
+[00:03:00.970 --> 00:03:04.330] C'est la stratégie du pourrissement.
+[00:03:04.330 --> 00:03:08.610] Tout le long, je vais séparer ce qu'on sait et ce qu'on suppose.
+[00:03:08.650 --> 00:03:13.530] C'est la seule façon de ne pas se faire avoir ni par pouvoir, ni par les rumeurs.
+[00:03:13.530 --> 00:03:15.810] Et vous savez qu'aujourd'hui, à l'ère de l'IA et des réseaux sociaux,
+[00:03:15.810 --> 00:03:18.170] mon Dieu que c'est un bordel de vérifier des informations.
+[00:03:18.170 --> 00:03:19.290] Je m'appelle Vince.
+[00:03:19.290 --> 00:03:22.290] Sur Limite, on parle des demi-planétaires, des ressources.
+[00:03:22.290 --> 00:03:26.130] Et leur impact sur notre civilisation est forcément sur les humains.
+[00:03:26.130 --> 00:03:28.730] Sur vous, sur moi, sur nous tous ensemble.
+[00:03:28.730 --> 00:03:32.170] Dans quelques jours, je vous sorte d'ailleurs une grosse vidéo sur le Brésil
+[00:03:32.170 --> 00:03:34.530] avant le second tour du 25 octobre.
+[00:03:34.530 --> 00:03:37.570] Alors, celle-ci, honnêtement, je l'ai écrite super vite.
+[00:03:37.570 --> 00:03:38.290] Merci les tipeurs.
+[00:03:38.290 --> 00:03:40.530] Comme d'habitude, c'est vous les producteurs de cette émission.
+[00:03:40.530 --> 00:03:43.370] Sans vous, cette enquête n'existerait pas.
+[00:03:43.370 --> 00:03:46.410] Voilà, c'est vous qui avez vraiment rendu cette vidéo possible.
+[00:03:46.410 --> 00:03:48.490] Et pour ça, du fond du cœur, merci.
+[00:03:48.490 --> 00:03:50.170] Ok, vous êtes prêts ? Allez, let's go.
+[00:03:50.170 --> 00:04:00.450] Bienvenue sur Limite.
+[00:04:00.450 --> 00:04:03.650] La meilleure réponse à la question de Macron, c'est Clément Viktorovich,
+[00:04:03.650 --> 00:04:07.890] docteur en sciences politiques, qui l'a donné le lendemain sur les réseaux.
+[00:04:07.890 --> 00:04:09.130] Et je vous la résume.
+[00:04:09.130 --> 00:04:12.210] 2018, les Gilets jaunes descendent dans la rue.
+[00:04:12.210 --> 00:04:16.610] On leur dit, la rue, c'est pas comme ça qu'on se fait entendre.
+[00:04:16.610 --> 00:04:19.530] Remplissez plutôt ce cahier de doléances.
+[00:04:19.530 --> 00:04:23.010] Les cahiers, on attend toujours qu'on les lise.
+[00:04:23.010 --> 00:04:26.170] Ensuite, une convention citoyenne pour le climat.
+[00:04:26.170 --> 00:04:27.570] Promesse du président.
+[00:04:27.570 --> 00:04:29.970] Reprendre ses propositions sans filtre.
+[00:04:29.970 --> 00:04:31.210] Résultat ?
+[00:04:31.210 --> 00:04:32.690] Édulcoré.
+[00:04:32.690 --> 00:04:34.210] En fait, du littéralement jamais appliqué.
+[00:04:34.210 --> 00:04:36.050] 2023, les réformes des retraites.
+[00:04:36.050 --> 00:04:38.530] Des millions de gens dans la rue.
+[00:04:38.530 --> 00:04:40.370] Et on passe en force.
+[00:04:40.370 --> 00:04:43.450] 2024, Macron dissout l'Assemblée nationale.
+[00:04:43.450 --> 00:04:46.650] Au législatif de juillet, son camp perd.
+[00:04:46.650 --> 00:04:48.690] La gauche arrive en tête.
+[00:04:48.690 --> 00:04:50.050] Sa réponse ?
+[00:04:50.050 --> 00:04:51.970] Personne ne l'a emporté.
+[00:04:51.970 --> 00:04:55.330] Il devait y avoir un premier ministre normalement de gauche.
+[00:04:55.330 --> 00:04:56.330] Eh bien non.
+[00:04:56.330 --> 00:04:59.410] C'est-à-dire que cette partie-là des élections n'a même pas été respectée.
+[00:04:59.410 --> 00:05:03.090] Et le premier ministre d'aujourd'hui, c'est Sébastien Lecarnu.
+[00:05:03.090 --> 00:05:07.170] L'un de ses plus proches amis.
+[00:05:07.170 --> 00:05:10.970] 2025, plus de 2 millions de signatures contre la loi du plomb.
+[00:05:10.970 --> 00:05:12.690] C'était un truc de fou, les citoyens ne voulaient pas.
+[00:05:12.690 --> 00:05:13.650] Et la réponse ?
+[00:05:13.650 --> 00:05:16.130] Eh bien, un débat sans vote.
+[00:05:16.130 --> 00:05:17.810] 6 mois plus tard.
+[00:05:17.810 --> 00:05:20.530] Et la loi reste en vigueur.
+[00:05:20.530 --> 00:05:24.370] Et cet automne, les lycéens, ils demandent des chaises, des profs.
+[00:05:24.370 --> 00:05:26.890] Des fenêtres qui ferment en fait.
+[00:05:26.890 --> 00:05:30.210] Pouvoir chauffer au bon moment, refroidir au bon moment.
+[00:05:30.210 --> 00:05:32.610] Première réponse du ministre de l'éducation le 30 septembre.
+[00:05:32.610 --> 00:05:35.250] Une plateforme de concertation en ligne.
+[00:05:35.250 --> 00:05:37.370] Sans annoncer un re plus.
+[00:05:37.370 --> 00:05:39.410] Parce qu'on peut le dire depuis les Gilets jaunes,
+[00:05:39.410 --> 00:05:40.930] depuis la réponse aux Gilets jaunes,
+[00:05:40.930 --> 00:05:45.490] on a beaucoup usé, abusé de la participation un peu alibi,
+[00:05:45.490 --> 00:05:47.770] un peu gadget qui donne la parole,
+[00:05:47.770 --> 00:05:51.570] mais sans que ça se traduise par des décisions.
+[00:05:51.570 --> 00:05:57.010] Pétition, cahiers, convention, élections, plateforme.
+[00:05:57.010 --> 00:05:59.490] Chaque fois que les gens ont joué le jeu,
+[00:05:59.490 --> 00:06:03.890] eh bien on leur a fait comprendre que ça ne servait littéralement à rien.
+[00:06:03.930 --> 00:06:07.090] Alors Macron, lui, parlait des casseurs.
+[00:06:07.090 --> 00:06:11.170] Mais sa question vaut pour toute la colère du 17.
+[00:06:11.170 --> 00:06:12.810] Alors oui, monsieur le Président.
+[00:06:12.810 --> 00:06:16.090] Comment des Français peuvent faire cela à la France ?
+[00:06:16.090 --> 00:06:18.410] Mais comment tu peux parler de gouvernement par le peuple
+[00:06:18.410 --> 00:06:23.010] quand pendant 10 ans, le peuple a été ignoré systématiquement ?
+[00:06:23.010 --> 00:06:25.570] À chaque instant, c'est pas les cahiers de doléances qui gouvernent,
+[00:06:25.570 --> 00:06:27.170] c'est pas les plateformes participatives qui gouvernent,
+[00:06:27.170 --> 00:06:29.770] c'est même pas les élections qui gouvernent, c'est eux.
+[00:06:29.770 --> 00:06:32.770] Et là, 10 ans plus tard, 17 octobre 2026,
+[00:06:32.770 --> 00:06:34.410] les gens descendent dans la rue, ils ne sont pas contents.
+[00:06:34.410 --> 00:06:34.970] Ah bon ?
+[00:06:34.970 --> 00:06:35.850] Sans déconner ?
+[00:06:35.850 --> 00:06:37.810] Et il ne vous vient pas à l'idée de vous demander pourquoi ?
+[00:06:37.810 --> 00:06:40.210] Eh bien peut-être que c'est ce qui se produit
+[00:06:40.210 --> 00:06:43.130] quand on leur a fermé toutes les autres portes.
+[00:06:43.130 --> 00:06:45.410] Et de nouveau, j'ai déjà dit dans mes autres vidéos,
+[00:06:45.410 --> 00:06:48.170] je ne justifie pas la casse,
+[00:06:48.170 --> 00:06:50.850] mais j'essaye d'analyser les causes profondes
+[00:06:50.850 --> 00:06:53.770] et c'est le travail de cette chaîne.
+[00:06:53.770 --> 00:06:55.210] Et voilà ce qui me frappe.
+[00:06:55.210 --> 00:06:58.490] Les gilets jaunes, les retraites, la dissolution,
+[00:06:58.490 --> 00:07:01.690] à chaque fois, c'est lui qui se prend le mur.
+[00:07:01.730 --> 00:07:05.050] Il se ramasse une grosse désillusion systématiquement
+[00:07:05.050 --> 00:07:08.050] et à chaque fois, il ne lâche rien.
+[00:07:08.050 --> 00:07:11.370] En fait, on dirait littéralement un roi
+[00:07:11.370 --> 00:07:14.490] dans toute sa mégalomanie, enfermé dans son palais.
+[00:07:14.490 --> 00:07:16.570] Le pays est en train de gronder dehors
+[00:07:16.570 --> 00:07:19.290] et lui, il reste derrière les gris.
+[00:07:19.290 --> 00:07:22.170] Ou alors au concert de Céline Dion pendant que tout s'embrase.
+[00:07:22.170 --> 00:07:25.330] Macron agit véritablement comme quelqu'un
+[00:07:25.330 --> 00:07:27.530] qui est persuadé d'avoir raison jusqu'au bout.
+[00:07:27.530 --> 00:07:29.330] C'est important parce que j'en ai vu défiler des commentaires
+[00:07:29.330 --> 00:07:31.770] avant les anciennes vidéos que j'ai senties il y a quelques jours.
+[00:07:31.770 --> 00:07:33.650] Ça n'excuse aucune vitre cassée,
+[00:07:33.650 --> 00:07:36.170] aucun petit commerce de quartier dépouillé.
+[00:07:36.170 --> 00:07:38.890] Mais ça explique pourquoi plusieurs centaines de milliers de personnes
+[00:07:38.890 --> 00:07:43.810] étaient tout simplement dans la rue.
+[00:07:43.810 --> 00:07:45.930] Et la goutte d'eau, et bien c'est l'essence.
+[00:07:45.930 --> 00:07:52.910] Le gasoil à 2,33€ le litre.
+[00:07:52.910 --> 00:07:55.430] Alors, je vais creuser parce qu'il y a un gros paradoxe à derrière.
+[00:07:55.430 --> 00:07:57.750] Je vous en parle juste après sur cette histoire d'essence.
+[00:07:57.750 --> 00:08:00.230] Mais en tout cas, ce qui est en cause selon la Banque de France,
+[00:08:00.230 --> 00:08:02.110] et bien ce sont les marges de raffinage,
+[00:08:02.110 --> 00:08:04.190] les tensions au détroit d'Ormouz
+[00:08:04.190 --> 00:08:05.910] et les attaques sur les raffineries russes.
+[00:08:05.910 --> 00:08:09.630] Dit autrement, on vit dans une économie qui roule au pétrole.
+[00:08:09.630 --> 00:08:11.910] Une ressource qui est finie,
+[00:08:11.910 --> 00:08:15.190] qui passe par des détroits sous tension géopolitique
+[00:08:15.190 --> 00:08:19.230] parce que le pétrole c'est simplement ce qui permet de tout faire.
+[00:08:19.230 --> 00:08:21.990] Et c'est toujours les mêmes, malheureusement, qui payent.
+[00:08:21.990 --> 00:08:24.270] C'est celui qui habite à 40 km de son boulot,
+[00:08:24.270 --> 00:08:25.950] voire plus, où il n'y a pas de bus.
+[00:08:25.950 --> 00:08:26.950] C'est l'infirmière de nuit,
+[00:08:26.950 --> 00:08:29.630] c'est l'étudiant qui fait 30 bornes pour son stage.
+[00:08:29.630 --> 00:08:32.510] Et bien ça, c'est ce qu'on appelle la sobriété subie.
+[00:08:32.510 --> 00:08:36.030] Elle n'est pas choisie, ou si vous préférez, une pauvreté croissante.
+[00:08:36.030 --> 00:08:39.830] C'est imposé par le prix aux gens qui ont déjà le moins,
+[00:08:39.830 --> 00:08:44.110] tout en sachant que des profiteurs de guerre et de ces situations instables
+[00:08:44.110 --> 00:08:47.110] se font énormément d'argent en jouant sur la spéculation.
+[00:08:47.110 --> 00:08:53.900] Et le plus fou, c'est que dans son discours,
+[00:08:53.900 --> 00:08:58.860] Macron reconnaît lui-même comme légitime l'acquiétude sur le prix des carburants.
+[00:08:58.860 --> 00:09:00.380] Et il annonce quoi ?
+[00:09:00.380 --> 00:09:04.900] Et bien un voyage dans le golfe pour sécuriser nos approvisionnements en pétrole.
+[00:09:04.940 --> 00:09:07.420] Je poursuivrai ces actions dès demain matin,
+[00:09:07.420 --> 00:09:11.380] en allant dans les pays du golfe pour sécuriser nos approvisionnements.
+[00:09:11.380 --> 00:09:13.820] Donc le problème, c'est le pétrole.
+[00:09:13.820 --> 00:09:17.140] Et la solution, c'est d'aller chercher du pétrole.
+[00:09:17.140 --> 00:09:21.300] Bloquer le prix de l'essence, c'est ce que souhaitent plein de Français
+[00:09:21.300 --> 00:09:24.700] et forcément aussi Jean-Luc Mélenchon et la France Insoumise.
+[00:09:24.700 --> 00:09:26.660] Et ouais, ça c'est normal, c'est logique,
+[00:09:26.660 --> 00:09:28.900] ça peut soulager tout de suite beaucoup de familles.
+[00:09:28.900 --> 00:09:33.900] Mais c'est un énorme point de désaccord que j'ai avec Jean-Luc Mélenchon de Valéphie.
+[00:09:33.940 --> 00:09:37.780] Car ça dit aussi, rouler, ça coûte pas plus cher.
+[00:09:37.780 --> 00:09:41.380] Et pour le climat, c'est exactement l'inverse de ce qu'on recherche,
+[00:09:41.380 --> 00:09:43.020] brûler moins de pétrole.
+[00:09:43.020 --> 00:09:46.940] Et en 2022, la remise à la pompe a coûté des milliards à l'État.
+[00:09:46.940 --> 00:09:52.740] Et ce sont ceux qui roulaient le plus, qui en ont le plus profité.
+[00:09:52.740 --> 00:09:54.540] Mais il faut pas se leurrer.
+[00:09:54.540 --> 00:09:57.700] Aujourd'hui, on est pieds et mains liés au pétrole.
+[00:09:57.700 --> 00:10:01.500] L'infirmière de nuit, le plombier, l'électricien qui part loin sur un chantier
+[00:10:01.500 --> 00:10:04.500] ou tout ce que vous voulez, ils n'ont pas le choix.
+[00:10:04.500 --> 00:10:09.660] Donc, il faut les deux en même temps stopper net l'envoler des prix
+[00:10:09.660 --> 00:10:11.540] parce que là, ça dépasse l'entendement.
+[00:10:11.540 --> 00:10:14.820] Et les gens s'endettent littéralement pour aller bosser aujourd'hui.
+[00:10:14.820 --> 00:10:18.860] Et il faut préparer la sortie, la sortie de cette énergie fossile.
+[00:10:18.860 --> 00:10:22.140] Des bus, des trains, des petites voitures électriques pas chères
+[00:10:22.140 --> 00:10:23.820] pour ceux qui en ont besoin.
+[00:10:23.820 --> 00:10:26.580] Bloquer sans préparer la sortie, en fait,
+[00:10:26.580 --> 00:10:28.620] c'est comme si tu remettais une pièce dans la machine
+[00:10:28.620 --> 00:10:30.740] et tu essaies de nouveau de relancer le truc, quoi.
+[00:10:30.740 --> 00:10:33.220] Ça, ça ne tient pas sur le temps long.
+[00:10:33.220 --> 00:10:35.220] Et maintenant, la question toute simple.
+[00:10:35.220 --> 00:10:37.980] Combien de policiers dans la rue ?
+[00:10:37.980 --> 00:10:41.940] Ça, c'est vraiment un gros point de défaillance.
+[00:10:41.940 --> 00:10:45.020] Le ministère attendait 190 000 manifestants.
+[00:10:45.020 --> 00:10:49.580] Il en est venu 550 000 pour 60 000 policiers et gendarmes.
+[00:10:49.580 --> 00:10:51.060] Alors, faites le calcul.
+[00:10:51.060 --> 00:10:55.060] À peu près 9 manifestants par agent en moyenne sur la France.
+[00:10:55.060 --> 00:10:57.660] Et pour les Gilets jaunes, le 8 décembre 2018,
+[00:10:57.660 --> 00:11:00.540] l'État en avait annoncé 89 000.
+[00:11:00.580 --> 00:11:04.700] Rudi Mana, du syndicat UNSA Police, a dit...
+[00:11:04.700 --> 00:11:07.580] Oui, on a été en sous-nombre, oui, on a été en sous-nombre toute la journée.
+[00:11:07.580 --> 00:11:08.580] Oui, je le dis.
+[00:11:08.580 --> 00:11:10.100] Et on a vécu l'enfer.
+[00:11:10.100 --> 00:11:13.020] À Paris, Ruam Lowe, le gérant d'une boutique,
+[00:11:13.020 --> 00:11:14.980] montre sa caméra de surveillance.
+[00:11:14.980 --> 00:11:18.180] De 22h à 3h du matin, on est complètement à l'abandon
+[00:11:18.180 --> 00:11:19.500] en plein centre de Paris.
+[00:11:19.500 --> 00:11:21.020] Place Vendôme.
+[00:11:21.020 --> 00:11:25.060] Plus de 35 minutes de pillage sans un policier
+[00:11:25.060 --> 00:11:27.460] à un kilomètre de l'Élysée.
+[00:11:27.460 --> 00:11:30.140] Selon Mediapart, les forces de l'ordre
+[00:11:30.180 --> 00:11:32.540] s'étaient regroupées autour du palais.
+[00:11:32.540 --> 00:11:36.300] Oui, on protège le château, pas la rue, les commerçants.
+[00:11:36.300 --> 00:11:38.780] Et justement, c'est là la grande question.
+[00:11:38.780 --> 00:11:41.780] Pourquoi il y avait si peu de monde ?
+[00:11:42.220 --> 00:11:44.540] Viktorowicz a déjà une piste.
+[00:11:44.540 --> 00:11:47.980] Des policiers épuisés après des semaines passées devant l'Élysée.
+[00:11:47.980 --> 00:11:49.500] Forces de l'ordre sont là en sous-nombre
+[00:11:49.500 --> 00:11:50.860] parce que les policiers sont épuisés,
+[00:11:50.860 --> 00:11:53.340] parce que pendant 2 semaines, 3 semaines, 4 semaines,
+[00:11:53.340 --> 00:11:55.740] on a utilisé tous les policiers pour aller tabasser des mômes,
+[00:11:55.740 --> 00:11:57.140] pour aller taper sur des lycéens.
+[00:11:57.140 --> 00:11:59.740] Et surtout, qu'ils pouvaient savoir que ça allait partir en sucette.
+[00:12:00.860 --> 00:12:02.460] Eh bien en partie oui.
+[00:12:02.460 --> 00:12:07.020] Une note du renseignement du 15 octobre écrivait que le risque de violence urbaine
+[00:12:07.020 --> 00:12:10.460] est élevé, notamment dans l'après-midi du 17 octobre,
+[00:12:10.460 --> 00:12:12.940] avec des dégradations et des pillages.
+[00:12:12.940 --> 00:12:14.700] Elle s'est trompée sur le nombre de manifestants
+[00:12:14.700 --> 00:12:16.700] puisque c'était trois fois plus que prévu,
+[00:12:16.700 --> 00:12:18.900] mais pas sur le risque.
+[00:12:18.900 --> 00:12:23.100] Un sous-effectif, ok, ça peut être une erreur,
+[00:12:23.100 --> 00:12:26.660] mais quand on a été prévenu, la question change.
+[00:12:26.660 --> 00:12:33.020] Est-ce que c'était une erreur ou un choix totalement délibéré ?
+[00:12:33.020 --> 00:12:34.660] Je vous en parle un petit peu plus loin dans cette vidéo,
+[00:12:34.660 --> 00:12:39.320] ça va être très intéressant.
+[00:12:39.320 --> 00:12:43.840] 17 octobre, 18h, Sébastien Lecornu sur X balance.
+[00:12:43.840 --> 00:12:47.480] Des groupes d'ultra-gauche ont organisé la violence dans plusieurs villes de France.
+[00:12:47.480 --> 00:12:50.320] Le soir, selon Médiapart, ils parlent d'une
+[00:12:50.320 --> 00:12:51.720] nébuleuse d'extrême-gauche,
+[00:12:51.720 --> 00:12:54.200] dans laquelle la France Insoumise occupe une place importante.
+[00:12:54.200 --> 00:12:56.800] C'est désormais le moment de choisir son camp.
+[00:12:56.840 --> 00:13:00.560] Le lendemain, Macron, devant toute la France entière,
+[00:13:00.560 --> 00:13:02.320] les domtomes et le reste du monde, parle.
+[00:13:02.320 --> 00:13:05.640] Des faxieux, issus de groupuscules d'ultra-gauche,
+[00:13:05.640 --> 00:13:07.240] rejoints par de nombreux délinquants,
+[00:13:07.240 --> 00:13:10.520] se sont livrés à une violence débridée dans nos villes.
+[00:13:10.520 --> 00:13:14.720] Et à la télé, chez Limite, on a compté sur plus de 4 heures d'antenne
+[00:13:14.720 --> 00:13:19.160] le 17 octobre sur Europe 1, LCI et BFM TV.
+[00:13:19.160 --> 00:13:24.760] Et en moyenne, vous avez droit sur le total à 3,4 minutes sur les violences,
+[00:13:24.800 --> 00:13:27.680] pour une minute sur le mouvement et ses causes.
+[00:13:27.680 --> 00:13:29.600] C'est disproportionné.
+[00:13:29.600 --> 00:13:33.760] Et lundi, 7h40 sur TF1, la procureure de Paris,
+[00:13:33.760 --> 00:13:39.320] Laurence Béqueau, les casseurs, sont-ils des gens politisés à l'ultra-gauche ?
+[00:13:39.320 --> 00:13:42.720] Non, ce n'est absolument pas ce que je peux confirmer
+[00:13:42.720 --> 00:13:44.640] sur l'état de mes informations.
+[00:13:44.640 --> 00:13:47.880] Près de 38 heures après le tweet du Premier ministre,
+[00:13:47.880 --> 00:13:51.400] on accuse d'abord et on vérifie après.
+[00:13:51.400 --> 00:13:54.600] Trop de sujets que ce gamin à Aubagne, c'est pas si si.
+[00:13:54.600 --> 00:13:56.400] Non mais là, vous me prenez un cas particulier.
+[00:13:56.400 --> 00:13:58.440] Bien sûr, je vous en donne acte.
+[00:13:58.440 --> 00:14:00.600] Simplement, les hommes et les femmes politiques
+[00:14:00.600 --> 00:14:03.520] doivent lire dans l'actualité les grandes tendances.
+[00:14:10.890 --> 00:14:13.050] Et c'est tout le problème du monde dans lequel on est
+[00:14:13.050 --> 00:14:15.490] par rapport aux réseaux sociaux et comment fonctionne l'information.
+[00:14:15.490 --> 00:14:18.050] Tu es d'abord alpagué par ce qui est énoncé,
+[00:14:18.050 --> 00:14:20.810] mais lorsque le travail de debunk intervient par la suite
+[00:14:20.810 --> 00:14:23.450] avec les enquêtes et avec les rapports d'enquête et tout ce que tu veux,
+[00:14:23.450 --> 00:14:25.970] et qu'on dit « ah bah finalement non, c'est trompé, l'information était fausse »,
+[00:14:25.970 --> 00:14:26.810] c'est trop tard.
+[00:14:26.810 --> 00:14:28.370] L'information était balancée.
+[00:14:28.370 --> 00:14:32.490] Le fait de rectifier la vérité et la réalité avec la mesure
+[00:14:32.490 --> 00:14:36.570] fait généralement beaucoup moins de bruit que le premier énoncé.
+[00:14:36.570 --> 00:14:38.250] Et ça, le gouvernement le sait.
+[00:14:40.600 --> 00:14:44.360] Et puis, bam, trois points incroyables.
+[00:14:44.360 --> 00:14:47.320] Le soir même, Mediapart publie une enquête.
+[00:14:47.320 --> 00:14:49.640] Un commissaire du renseignement territorial,
+[00:14:49.640 --> 00:14:53.000] ce dont c'est le métier de savoir un maximum de choses,
+[00:14:53.000 --> 00:14:55.880] notamment qui est dans une manif,
+[00:14:55.880 --> 00:14:57.360] écrit à ses collègues.
+[00:14:57.360 --> 00:15:00.800] Quand on nous demande texto d'écrire que c'est LFI qui est derrière le mouvement,
+[00:15:00.800 --> 00:15:02.360] alors que c'est objectivement faux,
+[00:15:02.360 --> 00:15:04.120] de l'avis général des renseignements,
+[00:15:04.120 --> 00:15:07.360] forcément, on a des décisions politiques.
+[00:15:07.360 --> 00:15:09.720] Ça, c'est une bombe.
+[00:15:09.720 --> 00:15:12.640] Le ministère dément, forcément.
+[00:15:12.640 --> 00:15:14.600] Le commissaire est anonyme.
+[00:15:14.600 --> 00:15:16.600] Mais il n'est pas tout seul.
+[00:15:16.600 --> 00:15:21.320] Sandrine Rousseau, écologiste pas insoumise sur RMC, dit…
+[00:15:21.320 --> 00:15:25.040] Jamais je n'ai entendu un député insoumis
+[00:15:25.040 --> 00:15:29.040] valider, encourager, soutenir la case.
+[00:15:29.040 --> 00:15:33.160] Chercher d'ailleurs absolument partout sur les réseaux sociaux ce que j'ai fait.
+[00:15:33.160 --> 00:15:36.240] J'ai été fouillé, j'ai lancé des protocoles de recherche
+[00:15:36.240 --> 00:15:41.640] pour tomber sur des membres des insoumis qui appellent à la violence.
+[00:15:41.640 --> 00:15:44.320] Et le seul truc que j'ai trouvé, et ça vient beaucoup des plateaux télé,
+[00:15:44.320 --> 00:15:48.640] c'est Bali Bakayoko qui parvient quand même à expliquer le maire de Saint-Denis
+[00:15:48.640 --> 00:15:51.560] qui explique que des violences qui émanent
+[00:15:51.560 --> 00:15:53.760] sont ici le résultant de violences de l'État,
+[00:15:53.760 --> 00:15:55.480] tout en les condamnant.
+[00:15:55.480 --> 00:15:57.920] Mais du coup, les pilleurs qui sont-ils ?
+[00:15:57.920 --> 00:15:59.320] Parce que ça ne répond pas à la question.
+[00:15:59.320 --> 00:16:03.600] Et bien la préfecture de police parle surtout de jeunes en provenance de banlieues.
+[00:16:03.600 --> 00:16:06.720] Déjà on voit qu'il y a une configuration qui a été créée,
+[00:16:06.720 --> 00:16:09.920] qui produit du chaos, du désordre,
+[00:16:09.920 --> 00:16:14.440] qui a produit des effets d'opportunité pour le cassage, le pillage.
+[00:16:14.440 --> 00:16:17.040] Et ça, il faut bien l'entendre, c'est vraiment un effet d'opportunité,
+[00:16:17.040 --> 00:16:21.440] de configuration qui a permis toutes ces destructions
+[00:16:21.440 --> 00:16:24.200] et pas un agenda de casseurs ultra organisés.
+[00:16:24.200 --> 00:16:26.640] Et le gérant de la rue Amelot, lui,
+[00:16:26.640 --> 00:16:31.200] il a vu passer pas loin de la centaine de personnes dans son magasin.
+[00:16:31.200 --> 00:16:34.720] Et il a dit, notez bien ce moment, c'est important quand même.
+[00:16:34.720 --> 00:16:36.680] C'est pas ce que la télévision raconte.
+[00:16:36.680 --> 00:16:40.000] Mais surtout ce qui est fou, c'est le casting des voleurs.
+[00:16:40.000 --> 00:16:43.880] Une boutique, attention, je le précise, ça n'avait pas une statistique.
+[00:16:43.880 --> 00:16:45.080] On est d'accord.
+[00:16:45.080 --> 00:16:48.240] Mais vu la masse de vidéos qui ont circulé sur les réseaux sociaux
+[00:16:48.240 --> 00:16:50.040] concernant la casse,
+[00:16:50.080 --> 00:16:52.400] c'est incroyable le narratif qui est diamétralement opposé
+[00:16:52.400 --> 00:16:56.280] entre ce qu'on voit sur les réseaux et ce que la télévision dit.
+[00:16:56.280 --> 00:16:59.560] Parce que le profil n'est pas forcément celui qu'on répète justement
+[00:16:59.560 --> 00:17:01.040] boucle à la télévision.
+[00:17:01.040 --> 00:17:05.370] Vous savez de quel profil je parle.
+[00:17:05.370 --> 00:17:08.370] Alors oui, bien sûr, il y avait des militants d'ultra gauche dans les cortèges.
+[00:17:08.370 --> 00:17:10.810] Mais quand on transforme une minorité en explication de tout
+[00:17:10.810 --> 00:17:13.650] parce qu'un bouc émissaire, c'est plus simple que des problèmes de fond,
+[00:17:13.650 --> 00:17:17.210] eh bien, on évite toujours la grande question.
+[00:17:17.210 --> 00:17:20.690] Et je vais la reposer encore une fois avant le chapitre suivant.
+[00:17:20.690 --> 00:17:29.220] Pourquoi il y avait si peu de policiers ?
+[00:17:29.220 --> 00:17:30.780] Maintenant, les images.
+[00:17:30.780 --> 00:17:34.460] À l'ère du smartphone, tout se filme, y compris les fausses preuves.
+[00:17:34.460 --> 00:17:39.620] Alors, on a regardé image par image et trié au mieux tout ce bordel en quelques jours.
+[00:17:39.620 --> 00:17:41.740] Je ne vous le dis pas, j'en ai transpiré.
+[00:17:41.740 --> 00:17:43.900] Metz, le 17, place d'armes.
+[00:17:43.900 --> 00:17:48.260] Plus de 2 millions de vues des personnes en noir cagoulées marchent
+[00:17:48.260 --> 00:17:50.740] au milieu des policiers casqués.
+[00:17:50.740 --> 00:17:55.100] Ils courent avec eux et se tiennent calmement entre les boucliers.
+[00:17:55.140 --> 00:17:56.820] Alors, des policiers en civil ?
+[00:17:56.820 --> 00:17:57.820] Probablement.
+[00:17:57.820 --> 00:18:00.220] Est-ce qu'on les voit jeter des grenades comme le dit le poste d'irale ?
+[00:18:00.220 --> 00:18:01.820] Non, il n'y en a pas eu de jet.
+[00:18:01.820 --> 00:18:05.460] Et en Belgique, à Bruxelles, le 18, un vidéaste filme des hommes en noir
+[00:18:05.460 --> 00:18:08.660] cagoulés à côté d'un policier en uniforme et des fongons de police.
+[00:18:08.660 --> 00:18:12.700] Et là, il y avait plusieurs porteurs de brassard rouge-oranger.
+[00:18:12.700 --> 00:18:16.060] Or, le brassard de police belge en civil est orange.
+[00:18:16.060 --> 00:18:21.260] Donc là aussi, très probablement des policiers, certains identifiables.
+[00:18:21.260 --> 00:18:24.540] D'autres, par contre, sont le vidéaste et bien sans aucun signe.
+[00:18:24.540 --> 00:18:25.940] Pourquoi c'est un problème ?
+[00:18:26.940 --> 00:18:32.180] En France, le schéma national du maintien de l'ordre dit que la cagoule est proscrite.
+[00:18:32.180 --> 00:18:36.500] Le matricule, donc le hério, est obligatoire depuis 2014.
+[00:18:36.500 --> 00:18:43.180] Et en 2023, le conseil d'état constatait que le défaut de port était répandu.
+[00:18:43.180 --> 00:18:47.620] Sans brassard, ni matricule, comment savoir qui ils sont ?
+[00:18:47.620 --> 00:18:50.900] Mais bon, mais bon, parce que c'est quand même un sujet très touchy
+[00:18:50.900 --> 00:18:53.420] parce que c'est très peu documenté et je vais y revenir.
+[00:18:53.460 --> 00:18:55.140] Ce qu'il ne faut pas croire trop vite maintenant,
+[00:18:55.140 --> 00:18:56.660] et attention nuance forcément,
+[00:18:56.660 --> 00:18:59.380] l'IMOG, les policiers qui volent des Lacostes,
+[00:18:59.380 --> 00:19:01.740] près de 3 millions de vues, ça a beaucoup tourné,
+[00:19:01.740 --> 00:19:06.340] le policier, la police, le parquet et le gérant,
+[00:19:06.340 --> 00:19:07.860] ça viendrait d'une saisie.
+[00:19:07.860 --> 00:19:10.460] Et une enquête pour dénonciation calomnieuse est ouverte
+[00:19:10.460 --> 00:19:13.980] contre ceux qui ont diffusé la vidéo prétendant que les policiers avaient volé.
+[00:19:13.980 --> 00:19:19.980] Mais une saisie, normalement, dans une procédure normale,
+[00:19:20.020 --> 00:19:24.020] ça se fait avec un inventaire, des scellés, un procès verbal.
+[00:19:24.020 --> 00:19:28.580] Et là, l'image ne montre pas vraiment ce qu'on est supposé faire habituellement.
+[00:19:28.580 --> 00:19:30.020] Enfin voilà, je suppose le truc.
+[00:19:30.020 --> 00:19:32.780] C'est vrai que c'est un peu fou, c'est normal qu'on interprète mal le truc.
+[00:19:32.780 --> 00:19:36.500] En tout cas, que le parquet, le monde le prouve et on sera fixé.
+[00:19:36.500 --> 00:19:40.380] Mais ce qui est sûr, c'est qu'il y a de plus en plus de vidéos
+[00:19:40.380 --> 00:19:44.100] de policiers en civil, cagoulés, sans brassard, ni matricule,
+[00:19:44.100 --> 00:19:45.460] au milieu des cortèges.
+[00:19:45.460 --> 00:19:49.140] Reims, Amès, Bruxelles, Paris.
+[00:19:49.180 --> 00:19:51.380] Et ça, c'est pas normal.
+[00:19:51.380 --> 00:19:55.100] Et ce qui est intéressant, c'est de voir que le ministre de l'Intérieur
+[00:19:55.100 --> 00:19:57.020] fait comme si ça n'existait pas.
+[00:19:57.020 --> 00:20:00.860] Il nous dit qu'il n'y a pas de violence policière ou le Premier ministre également,
+[00:20:00.860 --> 00:20:06.100] alors qu'on a les grenades explosives lancées en cloche qui sont filmées.
+[00:20:06.100 --> 00:20:08.420] Ouais mais Vince, des policiers déguisés en manifestant,
+[00:20:08.420 --> 00:20:10.580] mais t'es devenu complotiste ou quoi ?
+[00:20:10.580 --> 00:20:13.220] Non, pas du tout.
+[00:20:13.220 --> 00:20:17.100] Parce que figurez-vous que ça s'est déjà produit.
+[00:20:17.100 --> 00:20:20.620] Et c'est prouvé, de 1956 à 71 aux États-Unis,
+[00:20:20.620 --> 00:20:24.100] le FBI infiltrait des mouvements des droits civiques pour les diviser.
+[00:20:24.100 --> 00:20:27.700] Le programme s'appelait COINTELPRO.
+[00:20:27.700 --> 00:20:32.820] C'est le Sénat américain qui l'a établi et 2001 gène au sommet du G8
+[00:20:32.820 --> 00:20:34.460] pour justifier un raid.
+[00:20:34.460 --> 00:20:38.500] La police apporte elle-même deux cocktails molotov.
+[00:20:38.500 --> 00:20:41.260] 2010 à Lyon et on parle d'abord de mythomanie.
+[00:20:41.260 --> 00:20:44.980] Huit jours plus tard, le préfet reconnaît au moins
+[00:20:45.020 --> 00:20:48.300] deux policiers parmi les manifestants.
+[00:20:48.300 --> 00:20:50.780] La technique est la même, on commence par nier,
+[00:20:50.780 --> 00:20:56.260] puis la présence avec toutes les preuves qui commencent à s'accumuler est avouée.
+[00:20:56.260 --> 00:20:59.780] Alors attention, rien ne prouve que ça s'est passé le 17 octobre.
+[00:20:59.780 --> 00:21:04.260] Mais poser la question, c'est pas du complotisme.
+[00:21:04.260 --> 00:21:06.140] L'histoire l'a déjà posé.
+[00:21:06.140 --> 00:21:14.960] Et si vous avez des vidéos, je vous invite vraiment à les documenter un maximum.
+[00:21:14.960 --> 00:21:20.720] Bon, à partir d'ici, c'est mon hypothèse argumentée, mais une hypothèse quand même.
+[00:21:20.720 --> 00:21:23.600] Le pourrissement, c'est une stratégie documentée.
+[00:21:23.600 --> 00:21:26.720] Il s'agit en fait de ne pas répondre aux revendications,
+[00:21:26.720 --> 00:21:33.520] laisser le conflit dégénéré et ensuite gouverner par la peur et le chaos.
+[00:21:33.520 --> 00:21:36.920] Imaginez un beau fruit bien sain, vous le laissez traîner sur la table,
+[00:21:36.920 --> 00:21:40.000] vous n'y touchez absolument pas, il est là, il est tout beau.
+[00:21:40.000 --> 00:21:43.560] Et au fur et à mesure des jours, des semaines, il pourrit.
+[00:21:43.600 --> 00:21:45.920] Et là, vous le montrez aux yeux de tout le monde en disant
+[00:21:45.920 --> 00:21:48.760] « Eh regardez, ce fruit était pourri dès le départ. »
+[00:21:48.760 --> 00:21:51.000] Le mouvement, c'est le fruit.
+[00:21:51.000 --> 00:21:56.840] Les revendications, elles étaient saines et on les a laissées pourrir.
+[00:21:56.840 --> 00:22:04.600] Et maintenant, on vous montre les vitrines cassées, les pillages et ça tourne en boucle à la télé.
+[00:22:04.600 --> 00:22:07.760] Même Jean-Luc Mélenchon, le 18 octobre, dit
+[00:22:07.760 --> 00:22:11.000] « On dirait qu'ils veulent le désordre, mais je ne vais pas jusque là.
+[00:22:11.000 --> 00:22:13.240] Je me contente de dire qu'ils sont incompétents. »
+[00:22:13.240 --> 00:22:16.320] Alors, qu'est-ce qui nourrit l'hypothèse, justement ?
+[00:22:16.320 --> 00:22:17.760] Eh bien, une phrase d'abord.
+[00:22:17.760 --> 00:22:23.280] Selon Mediapart, une dizaine de jours avant le 17, une source du camp présidentiel confie
+[00:22:23.280 --> 00:22:27.160] « Je pense que la violence qui s'exerce va finir par tuer le mouvement. »
+[00:22:27.160 --> 00:22:30.840] Un peu à la façon des Gilets jaunes et l'Arc de Triomphe.
+[00:22:30.840 --> 00:22:32.680] Alors, ce n'est pas une preuve.
+[00:22:32.680 --> 00:22:37.520] Mais en tout cas, c'est le raisonnement du pourrissement dit de l'intérieur du gouvernement.
+[00:22:37.520 --> 00:22:39.040] Et le timing, ensuite.
+[00:22:39.040 --> 00:22:42.640] Dès le 27 octobre, le Sénat examine la loi Kasser Payer.
+[00:22:42.680 --> 00:22:45.360] Jusqu'à 10 000 euros à payer si tu restes dans une manif,
+[00:22:45.360 --> 00:22:48.320] après les sommations quand d'autres sont en train de casser.
+[00:22:48.320 --> 00:22:51.000] La violence d'abord, la loi ensuite.
+[00:22:51.000 --> 00:22:53.200] Et ça continue le 20 octobre.
+[00:22:53.200 --> 00:23:00.040] Le Cornu et l'UNES présentent à l'Assemblée le dispositif pour ce samedi 24 octobre.
+[00:23:00.040 --> 00:23:02.200] La prochaine grosse mobilisation.
+[00:23:02.200 --> 00:23:04.880] Un dispositif dit Massif.
+[00:23:04.880 --> 00:23:08.560] Le dispositif le samedi prochain sera massif.
+[00:23:08.560 --> 00:23:11.680] La BRI, le GIGN, des hélicoptères,
+[00:23:11.720 --> 00:23:13.280] des blindés de la gendarmerie,
+[00:23:13.280 --> 00:23:14.640] des canons à eau
+[00:23:14.640 --> 00:23:16.320] et l'armée.
+[00:23:16.680 --> 00:23:19.800] Oui, nous déploierons les forces sentinelles évidemment.
+[00:23:19.800 --> 00:23:21.720] Les militaires de l'opération sentinelle,
+[00:23:21.720 --> 00:23:26.040] officiellement pour garder les bâtiments et libérer les policiers pour la rue.
+[00:23:26.040 --> 00:23:29.960] UNES réfléchit même à interdire les manifs non déclarés
+[00:23:29.960 --> 00:23:33.720] et même les déclarer si les organisateurs ne garantissent pas le calme.
+[00:23:33.720 --> 00:23:35.520] La pente glissante.
+[00:23:35.520 --> 00:23:37.040] Je crois que vous vous rendez compte.
+[00:23:37.040 --> 00:23:42.560] Une opération créée contre le terrorisme après les attentats de janvier 2015,
+[00:23:42.560 --> 00:23:46.080] ressortie là comme ça d'un chapeau magique
+[00:23:46.080 --> 00:23:48.680] parce que le peuple descend dans la rue.
+[00:23:48.680 --> 00:23:52.720] Le 17, on n'avait pas assez de policiers.
+[00:23:52.720 --> 00:23:56.680] Le 24, on sort les blindés et l'armée.
+[00:23:56.680 --> 00:24:01.320] Il est faux de dire que il y avait une large sous-mobilisation des forces de l'ordre.
+[00:24:01.320 --> 00:24:09.540] Je l'ai dit tout à l'heure.
+[00:24:09.540 --> 00:24:10.820] Et ce n'est pas la première fois.
+[00:24:10.820 --> 00:24:11.620] Non, non, non.
+[00:24:11.660 --> 00:24:14.100] Il y a eu beaucoup de gens choqués sur les réseaux par rapport à cette information-là,
+[00:24:14.100 --> 00:24:18.060] mais en mars 2019, pendant les Gilets jaunes, Macron avait déjà sorti sentinelle.
+[00:24:18.060 --> 00:24:20.940] Le gouverneur militaire de Paris expliquait d'ailleurs
+[00:24:20.940 --> 00:24:23.740] que ces soldats pouvaient aller jusqu'à l'ouverture du feu.
+[00:24:23.740 --> 00:24:25.940] Et chez nous, en Belgique, il y a même eu des réactions.
+[00:24:25.940 --> 00:24:30.540] Un syndicat militaire avait répondu « l'ennemi ne peut pas être la population ».
+[00:24:30.540 --> 00:24:35.620] Alors quand tu appelles l'armée face à une colère sociale totalement légitime
+[00:24:35.620 --> 00:24:39.820] dû à énormément de facteurs que nous documentons sur cette chaîne,
+[00:24:39.860 --> 00:24:42.180] d'ailleurs abonnez-vous, ça vous permettra de comprendre plein de choses.
+[00:24:42.180 --> 00:24:45.020] Mais quand tu appelles cette armée-là,
+[00:24:45.020 --> 00:24:49.700] c'est que tu commences à regarder ton propre peuple comme un ennemi.
+[00:24:49.700 --> 00:24:53.180] On déploie pas l'armée contre son propre peuple,
+[00:24:53.180 --> 00:24:55.820] contre sa propre population.
+[00:24:55.820 --> 00:24:58.860] La militarité, je ne le redirais jamais assez,
+[00:24:58.860 --> 00:25:01.420] c'est tuer sur ordre, donc c'est très sérieux.
+[00:25:01.420 --> 00:25:06.420] Le roi ne sort pas de son palais, il renforce les grilles.
+[00:25:06.500 --> 00:25:10.900] L'historien Pierre Serna appelle ça l'extrême centre.
+[00:25:10.900 --> 00:25:15.740] Mettre sur le même plan la gauche radicale et l'extrême droite.
+[00:25:15.740 --> 00:25:20.580] C'est ce que vous voyez énormément dans les télévisions et les médias mainstream en ce moment.
+[00:25:20.580 --> 00:25:22.420] L'extrême droite reste l'extrême droite.
+[00:25:22.420 --> 00:25:24.820] Quant à l'extrême gauche, on le voit bien, il y a une pure utilisation,
+[00:25:24.820 --> 00:25:28.020] voire une forme de supercherie rhétorique du point de vue politique
+[00:25:28.020 --> 00:25:31.340] en ce moment à parler de l'extrême gauche.
+[00:25:31.340 --> 00:25:34.060] Le mot terroriste a été inventé en 1795.
+[00:25:34.060 --> 00:25:36.020] Pour désigner quoi ? Les anciens Jacobins.
+[00:25:36.020 --> 00:25:37.900] C'est-à-dire les amis de la constitution.
+[00:25:37.900 --> 00:25:41.180] Quand les termidoriens prennent le pouvoir et les hommes du territoire continuent,
+[00:25:41.180 --> 00:25:45.580] ils déclarent que ceux qui sont opposés à eux sur leur gauche sont des terroristes.
+[00:25:45.580 --> 00:25:49.140] D'un côté, la gauche présentée comme violente
+[00:25:49.140 --> 00:25:52.620] et de l'autre, l'extrême droite présentée comme dangereuse.
+[00:25:52.620 --> 00:25:58.020] Et au milieu, le seul choix raisonnable parce qu'il fait l'équilibre de la balance.
+[00:25:58.020 --> 00:26:03.260] Et en 2027, ce récit pourrait littéralement servir à quelqu'un.
+[00:26:03.260 --> 00:26:07.260] Mais avant de vous dire à qui, petit rappel historique.
+[00:26:07.260 --> 00:26:09.580] Car tout ça, là, c'est pas nouveau.
+[00:26:09.580 --> 00:26:10.980] Je vais parler d'un mécanisme.
+[00:26:10.980 --> 00:26:15.580] L'historien Johann Chaputot l'a décrit pour l'Allemagne des années 30.
+[00:26:15.580 --> 00:26:21.660] Un centre qui gouverne par décret et qui voit son ennemi principal à gauche à ce moment-là.
+[00:26:21.660 --> 00:26:24.340] Et en 1933, le hashtag brûle.
+[00:26:24.340 --> 00:26:27.300] Le soir même, on accuse les communistes.
+[00:26:27.300 --> 00:26:30.500] Le lendemain, on suspend les libertés.
+[00:26:30.540 --> 00:26:35.460] Ce centre pensait en même temps tenir l'extrême droite.
+[00:26:35.460 --> 00:26:41.340] Et bien, c'est l'extrême droite qu'il a littéralement mangé par sa complaisance.
+[00:26:41.340 --> 00:26:49.740] Cette droite au pouvoir depuis 1930, déjà en niant le principe démocratique de la démocratie parlementaire,
+[00:26:49.740 --> 00:26:53.500] elle habitue les gens à ce que les élections n'aient pas de conséquences,
+[00:26:53.500 --> 00:26:56.140] à ce que la légalité républicaine ne soit pas respectée.
+[00:26:56.140 --> 00:26:58.100] Je ne dis pas que l'histoire se répète.
+[00:26:58.100 --> 00:27:01.820] Je dis qu'elle a déjà montré où mène ce type de chemin.
+[00:27:01.820 --> 00:27:11.580] Et donc en 2027, ce récit de criminaliser la gauche par tous les moyens possibles imaginables pourrait servir à qui ?
+[00:27:11.580 --> 00:27:14.460] Eh bien, regardez ce qu'ils ont dit ces derniers jours.
+[00:27:14.460 --> 00:27:17.980] Juste une petite analyse vite fait que je vous propose là maintenant.
+[00:27:17.980 --> 00:27:20.500] Gabriel Attal sur RTL, le 19.
+[00:27:20.780 --> 00:27:23.380] Et s'il faut temporairement, ils ne sont pas là pour faire du maintien de l'ordre,
+[00:27:23.380 --> 00:27:29.620] donc juste pour tenir des bâtiments publics en statique, avoir recours à des forces armées, il faut le faire.
+[00:27:37.460 --> 00:27:44.380] Il faut que ce soit un blocage temporaire ciblé sur les territoires où se déroulent les émeutes.
+[00:27:50.500 --> 00:27:54.300] Le Conseil d'État a jugé illégal.
+[00:27:54.300 --> 00:27:55.820] Mais qui d'autre au casting ?
+[00:27:55.820 --> 00:27:58.620] Voyons voir, Edward Philippe.
+[00:27:58.620 --> 00:28:03.220] J'ai été depuis longtemps partisan de peine planchée et de peine minimale.
+[00:28:03.220 --> 00:28:09.980] Bruno Rotaio, l'état d'urgence tout de suite est la déchance de nationalité pour les pilleurs binationaux.
+[00:28:09.980 --> 00:28:15.780] Quand on a des binationaux qui pillent, qui sont des violents, qui agressent les gendarmes ou des policiers,
+[00:28:15.780 --> 00:28:19.180] quand on est un binational, on doit pouvoir, autre exemple,
+[00:28:19.220 --> 00:28:21.420] être déchu de la nationalité française.
+[00:28:21.420 --> 00:28:28.020] Jordan Bardella, maître des groupes d'ultra-gauche sur la liste des organisations terroristes de l'Union européenne.
+[00:28:28.020 --> 00:28:36.700] Et même, à gauche, notez les guillemets, Raphaël Luxemann réclame une réponse extrêmement ferme.
+[00:28:36.700 --> 00:28:40.500] Il va falloir agir de manière extrêmement ferme, il ne faut pas avoir la main qui tremble.
+[00:28:40.500 --> 00:28:44.620] Et le maire socialiste de Paris-Centre demande un couvre-feu et l'armée ?
+[00:28:44.860 --> 00:28:50.500] Évidemment, ce n'est pas l'idéal, un couvre-feu, et même, pourquoi pas, la sollicitation de l'armée.
+[00:28:50.500 --> 00:28:53.420] Ok, l'instant se répète en fait.
+[00:28:53.420 --> 00:29:03.540] Couper les réseaux, des couvre-feu, l'armée, l'état d'urgence, du centre gauche à l'extrême droite, chacun y va de sa surenchère.
+[00:29:03.540 --> 00:29:08.460] C'est l'assimilation du militantisme ou du combat ou des luttes à du terrorisme,
+[00:29:08.460 --> 00:29:12.220] c'est une manière de délégitimer ces luttes immédiatement.
+[00:29:12.260 --> 00:29:16.180] C'est-à-dire, c'est du terrorisme, il n'y a rien de politique dans le terrorisme.
+[00:29:16.180 --> 00:29:17.780] Du coup, hein, ça le dépolitise.
+[00:29:17.780 --> 00:29:21.060] Ça le délégitime, ça le dépolitise, ça le stigmatise.
+[00:29:21.060 --> 00:29:27.180] Et presque plus personne, à part nous ici, pour parler de ce qui a mis les gens dans la rue.
+[00:29:28.420 --> 00:29:32.740] Le vieux monde a perdu pied, et quand il a peur, il ne cherche pas de réponse.
+[00:29:32.740 --> 00:29:37.700] Il cherche à mettre des grilles, sécuriser, trouver des boucs émissaires,
+[00:29:37.700 --> 00:29:40.180] et se maintenir au pouvoir, ou en tout cas, du moins,
+[00:29:40.180 --> 00:29:44.500] trouver quelqu'un qui va maintenir le même modèle tel qu'il fonctionne aujourd'hui.
+[00:29:44.500 --> 00:29:50.060] Bon, les arguments contre, quand même, non, parce que je ne veux pas vous vendre une histoire non plus.
+[00:29:50.060 --> 00:29:53.940] C'est la partie de l'incompétence, ça avait aussi été souligné par pas mal de gens.
+[00:29:53.940 --> 00:29:55.380] Genre, en fait, juste, ils sont cons, quoi.
+[00:29:55.380 --> 00:29:59.660] Juste, voilà, ils n'ont pas réfléchi, ils sont incompétents, ils sont nuls.
+[00:29:59.660 --> 00:30:02.180] Ce n'est pas leur métier, ce n'est pas des hommes d'État, et point barre,
+[00:30:02.180 --> 00:30:06.620] voilà, c'est des cadres sup, et en fait, ils n'ont pas été formés pour ça, j'en sais rien,
+[00:30:06.620 --> 00:30:09.700] mais la compétence explique beaucoup aussi, forcément.
+[00:30:09.700 --> 00:30:13.940] Le sociologue Sébastien Rocher juge plus probable que le gouvernement, en fait,
+[00:30:13.940 --> 00:30:17.100] ait tout simplement mal analysé des informations remontées.
+[00:30:17.100 --> 00:30:19.700] Le CAO coûte cher au camp présidentiel.
+[00:30:19.700 --> 00:30:23.420] Ses propres alliés, d'ailleurs, parlent même de carburant pour l'ERN,
+[00:30:23.420 --> 00:30:26.860] et c'est le cas, on ne va pas s'ajouer autrement que francs-jeux,
+[00:30:26.860 --> 00:30:29.100] la télé joue la carte de la banlieue.
+[00:30:29.100 --> 00:30:32.220] Donc, forcément, qui dit banlieue dans la tête de certaines personnes
+[00:30:32.220 --> 00:30:34.500] qui ne réfléchissent pas plus loin que le bout de leur nez, désolé,
+[00:30:34.500 --> 00:30:36.620] ça rime avec émigration.
+[00:30:36.620 --> 00:30:40.060] Je suis issu d'immigration, je n'ai jamais rien cassé de ma life,
+[00:30:40.060 --> 00:30:41.980] et tous ceux de l'immigration que je connais dans mon entourage
+[00:30:41.980 --> 00:30:44.740] n'auront jamais rien pété de leur life non plus.
+[00:30:44.740 --> 00:30:49.420] Et le 19, au soir, à Lyon, il a fallé s'y attendre,
+[00:30:49.420 --> 00:30:53.860] l'ultra-droite a défilé malgré l'interdiction.
+[00:30:53.860 --> 00:30:55.500] Et Gérald Darmanin reconnaît.
+[00:30:58.060 --> 00:31:02.420] Alors ma position, je ne sais pas si c'est par calcul ou un échec,
+[00:31:02.420 --> 00:31:07.060] mais le gouvernement était prévenu et il a accusé l'ultra-gauche
+[00:31:07.060 --> 00:31:09.860] avant de compter ses policiers.
+[00:31:09.860 --> 00:31:17.140] Pourrissement voulu ou pas, le récit qui en sort profite au même camp,
+[00:31:17.140 --> 00:31:22.060] celui du palais, celui du roi qui n'en démore pas.
+[00:31:22.060 --> 00:31:29.300] Ce n'est pas qu'en France, les amis, ce qui est en train de se passer.
+[00:31:29.300 --> 00:31:32.140] En Albanie, des étudiants dans la rue et un Premier ministre
+[00:31:32.140 --> 00:31:35.140] qui parle de mains étrangères.
+[00:31:35.580 --> 00:31:38.060] En Italie, des émeutes à Milan et un mouvement qui s'appelle
+[00:31:38.060 --> 00:31:40.820] le mouvement du 17 octobre, carrément.
+[00:31:40.820 --> 00:31:45.380] Et en Espagne et au Portugal, des tentes sur des places pour le logement.
+[00:31:45.380 --> 00:31:47.100] Et ça va continuer.
+[00:31:47.100 --> 00:31:50.340] Alors pourquoi tout ça commence à se dérouler partout en même temps ?
+[00:31:50.340 --> 00:31:52.260] Et bien une des raisons, elle est assez simple.
+[00:31:52.260 --> 00:31:55.660] Enfin, de nouveau, c'est multifactoriel comme situation.
+[00:31:55.660 --> 00:32:00.460] Mais l'une des clés, c'est que l'Europe importe presque tout son pétrole.
+[00:32:00.460 --> 00:32:03.340] Et quand l'énergie monte, tout monte.
+[00:32:03.340 --> 00:32:07.100] Et le 17 octobre est un symptôme d'une économie construite sur des énergies
+[00:32:07.100 --> 00:32:12.380] fossiles pas chères et abondantes à une époque qui se cogne au limite.
+[00:32:12.380 --> 00:32:17.660] Et juste avant le 17, un sondage Elab pour BFM TV a précisé que près
+[00:32:17.660 --> 00:32:21.020] de 70% des Français approuvaient la mobilisation
+[00:32:21.020 --> 00:32:23.420] et pas réussi pour les électeurs du RN.
+[00:32:23.420 --> 00:32:26.900] Des colères qui marchent chacune dans leur coin.
+[00:32:26.900 --> 00:32:29.860] Et c'est ça, en fait, qui est assez incroyable,
+[00:32:29.860 --> 00:32:32.420] et d'ailleurs qui était le mot magique de ma précédente vidéo.
+[00:32:32.460 --> 00:32:38.060] Des colères qui marchaient chacune dans leur coin se sont retrouvées dans la même rue.
+[00:32:38.060 --> 00:32:39.700] Elles ont convergé.
+[00:32:39.700 --> 00:32:42.340] Les intérêts communs se sont réunis.
+[00:32:42.340 --> 00:32:44.780] Alors erreur ou choix ?
+[00:32:44.780 --> 00:32:48.020] La commission banquette devra répondre parce qu'il y en a une.
+[00:32:48.020 --> 00:32:54.860] Qui a prévu 190 000 manifestants alors que le renseignement est en train d'alerter ?
+[00:32:54.860 --> 00:33:00.620] Qui sont les cagoulés de Metz et d'autres vidéos qu'on a vues de policiers,
+[00:33:00.620 --> 00:33:03.380] ou pas policiers infiltrés dans les manifestations ?
+[00:33:03.380 --> 00:33:08.780] À qui profite un plein qui coûte ultra cher aujourd'hui ?
+[00:33:08.780 --> 00:33:10.340] Il y a deux chemins.
+[00:33:10.340 --> 00:33:17.060] Celui du palais, on gère la colère par la police, par les lois, par le récit,
+[00:33:17.060 --> 00:33:20.580] par des décrets, par des couvre-feu, par l'armée,
+[00:33:20.580 --> 00:33:22.820] et on laisse pourrir la rue.
+[00:33:22.820 --> 00:33:24.460] Ou alors l'inverse.
+[00:33:24.460 --> 00:33:27.020] On accepte de regarder la réalité en face.
+[00:33:27.020 --> 00:33:29.180] On regarde la limite.
+[00:33:29.220 --> 00:33:33.660] On accepte et on organise la sobriété au lieu de la subir.
+[00:33:33.660 --> 00:33:36.180] Ça ne veut pas dire qu'il faut s'organiser à devenir pauvre.
+[00:33:36.180 --> 00:33:36.860] Non.
+[00:33:36.860 --> 00:33:38.860] C'est-à-dire qu'est-ce qu'on fait avec ces ressources-là ?
+[00:33:38.860 --> 00:33:40.780] Qu'est-ce qu'on fait face à ces réalités ?
+[00:33:40.780 --> 00:33:43.020] Et comment est-ce qu'on crée un projet de société commun ?
+[00:33:43.020 --> 00:33:45.700] C'est aussi d'ailleurs l'un des projets de Jean Covici que je salue,
+[00:33:45.700 --> 00:33:48.700] avec un commun d'accord, je vous mets les liens en description, c'est intéressant,
+[00:33:48.700 --> 00:33:51.820] faire débattre la société sur la réalité physique
+[00:33:51.820 --> 00:33:55.460] et des limites de notre planète pour faire des choix en conscience.
+[00:33:55.460 --> 00:33:58.780] Et en tout cas ce qui est sûr, c'est que ce deuxième chemin ne viendra pas du palais.
+[00:33:58.780 --> 00:34:01.220] Les rares sont venus les fois dans l'histoire où c'est venu de haut.
+[00:34:01.220 --> 00:34:03.220] Et pas tout d'un coup un roi qui s'est réveillé en disant
+[00:34:03.220 --> 00:34:08.700] ça y est je vais tout changer, ça viendra de vous.
+[00:34:08.700 --> 00:34:12.820] Et le 17 octobre, quelque chose de fort s'est vraiment lancé.
+[00:34:12.820 --> 00:34:15.340] Alors ne le laissez pas pourrir.
+[00:34:15.340 --> 00:34:21.340] Ce qu'il faut c'est être calibré et prêt avec un vrai programme au bon moment
+[00:34:21.340 --> 00:34:23.660] et une proposition sérieuse derrière.
+[00:34:23.660 --> 00:34:28.260] Parce que se mobiliser des mouvements et être à fond dans la rue c'est génial
+[00:34:28.300 --> 00:34:32.820] mais tu dois être sûr de préparer tes arrières avec un projet qui va réunir
+[00:34:32.820 --> 00:34:35.300] et qui va converger pour un maximum de gens.
+[00:34:35.300 --> 00:34:39.100] Sur limite, on appelle à voter pour personne.
+[00:34:39.100 --> 00:34:42.740] Mais vérifier avant de partager, poser des questions,
+[00:34:42.740 --> 00:34:45.940] même ici en commentaire, vraiment j'ai cessé de faire un effort de fou,
+[00:34:45.940 --> 00:34:47.940] c'est de répondre à tout le monde.
+[00:34:47.940 --> 00:34:52.340] Quasiment pas tout le monde mais quand même on répond à 30% des messages en plus.
+[00:34:52.340 --> 00:34:57.300] Posez-vous des questions quand on vous dit de choisir votre camp.
+[00:34:57.340 --> 00:35:02.140] Parce que le pourrissement ne marche que si on regarde ailleurs
+[00:35:02.140 --> 00:35:03.820] et qu'on ne regarde pas les causes réelles.
+[00:35:03.820 --> 00:35:07.740] Et justement, ne regardez pas ailleurs, il se passe plein de choses dans le monde.
+[00:35:07.740 --> 00:35:10.220] Et notre travail c'est de le documenter un maximum,
+[00:35:10.220 --> 00:35:12.220] en tout cas de le rendre accessif, je ne suis pas trop chiant.
+[00:35:12.220 --> 00:35:14.140] J'espère que ce n'est pas trop chiant les amis.
+[00:35:14.140 --> 00:35:18.740] Le 25 octobre, il y a une date importante, le Brésil vote.
+[00:35:18.740 --> 00:35:22.780] Et ma grosse vidéo sur le Brésil sort dans quelques jours.
+[00:35:22.780 --> 00:35:25.740] Et certains vont peut-être se dire, non mais attends frère, le Brésil c'est quand même loin,
+[00:35:25.740 --> 00:35:28.700] si tu me racontais par rapport à ça, alors là,
+[00:35:28.700 --> 00:35:34.700] vous n'imaginez pas à quel point les élections qui ont reçu le deuxième tour,
+[00:35:34.700 --> 00:35:38.140] Bolsonaro contre Lula, Bolsonaro office,
+[00:35:38.140 --> 00:35:39.980] ce qui va se passer là, ce qui va se décider,
+[00:35:39.980 --> 00:35:43.460] va influencer le reste de l'avenir de la planète.
+[00:35:43.460 --> 00:35:46.300] Pour les 5 prochaines années,
+[00:35:46.300 --> 00:35:49.980] avec des points de bascule qui peuvent être dépassés et irrécupérables.
+[00:35:49.980 --> 00:35:52.460] Ce que je m'apprête à vous raconter dans la prochaine vidéo,
+[00:35:52.460 --> 00:35:55.340] c'est très sérieux, soyez au rendez-vous.
+[00:35:55.380 --> 00:36:00.820] Et merci aussi la vidéo El Nino, l'épisode 3,
+[00:36:00.820 --> 00:36:03.180] parce que c'est la troisième fois que j'en parle sur la chaîne d'El Nino,
+[00:36:03.180 --> 00:36:04.820] a passé le million.
+[00:36:04.820 --> 00:36:06.340] Je vous mets les liens bien sûr en description.
+[00:36:06.340 --> 00:36:09.660] D'autres vidéos sur les limites planétaires arrivent.
+[00:36:09.660 --> 00:36:12.940] Mais forcément, quand ça touche les humains et la politique et nos sociétés,
+[00:36:12.940 --> 00:36:14.100] je me dois le documenter aussi.
+[00:36:14.100 --> 00:36:16.460] C'est pour ça que ces derniers jours, j'ai fait pas mal de vidéos.
+[00:36:16.460 --> 00:36:18.740] Et il y en aura d'autres, parce que je dois parler des midterms.
+[00:36:18.740 --> 00:36:21.700] Je dois parler de plein de sujets encore à venir.
+[00:36:21.700 --> 00:36:23.500] Merci à vous d'être là. Merci aux tipeurs.
+[00:36:23.540 --> 00:36:25.740] Toutes les sources, comme d'hab, sont en description de cette vidéo.
+[00:36:25.740 --> 00:36:30.700] Vous avez accès à un article basé sur tout le texte que j'ai pris le temps d'écrire.
+[00:36:30.700 --> 00:36:32.700] Ça, c'est sur Limites.Media.
+[00:36:32.700 --> 00:36:35.020] Le texte de cette vidéo, les sources, bien sûr.
+[00:36:35.020 --> 00:36:36.780] Tous les liens en description, allez-y.
+[00:36:36.780 --> 00:36:41.220] Et le mot du jour pour voir qui sont les vrais qui sont restés jusqu'à la fin.
+[00:36:41.220 --> 00:36:46.540] Le mot sera, au lieu de pourrissement, moi, je propose compost.
+[00:36:46.540 --> 00:36:49.340] C'était Vince, force à tous, prenez soin de vous.
+[00:36:49.340 --> 00:36:51.580] Unissons-nous plutôt que nous diviser.
+[00:36:51.620 --> 00:36:55.660] Merci et à bientôt, très vite, sur Limites.
+[00:36:55.660 --> 00:36:56.980] Ciao tout le monde.
