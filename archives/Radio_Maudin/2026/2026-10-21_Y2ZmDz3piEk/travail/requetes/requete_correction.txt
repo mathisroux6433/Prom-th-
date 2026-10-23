@@ -1,0 +1,609 @@
+Corrige contextuellement la transcription horodatée ci-dessous.
+
+Règles obligatoires : conserve exactement une ligne par segment et exactement les deux horodatages de chaque ligne ; ne résume pas ; ne reformule pas le registre oral ; corrige seulement les erreurs de reconnaissance établies par le contexte (noms propres, institutions, lieux, événements, termes techniques et expressions manifestement mal reconnues). Si une forme reste incertaine, conserve-la et ajoute immédiatement `[incertain]`. Retourne uniquement la transcription complète corrigée.
+
+MÉTADONNÉES :
+{'schema_version': '1.0', 'id': 'Y2ZmDz3piEk', 'title': 'CETTE GAUCHISTE VIRE À DROITE EN DIRECT APRES LE 17 OCTOBRE', 'channel': 'Radio Maudin', 'channel_id': 'UCDpxRTQSAgb-XElbM3g92gg', 'upload_date': '20261021', 'duration_seconds': 1732, 'webpage_url': 'https://www.youtube.com/watch?v=Y2ZmDz3piEk', 'description': 'Maudin, tu penses quoi du 17 octobre?\nTout est dans cet échange...\n______________ \nDEVENEZ MEMBRE PAYANT DE LA CHAINE POUR ME SOUTENIR : https://www.youtube.com/channel/UCDpxRTQSAgb-XElbM3g92gg/join\n\nMa chaîne principale :\nhttps://www.youtube.com/@Maudin/\n\nMe suivre sur les réseaux sociaux : \nX : https://twitter.com/MaudinMalin \nINSTA: https://www.instagram.com/maudinmalin/', 'language': 'fr-FR'}
+
+TRANSCRIPTION BRUTE :
+[00:00:00.000 --> 00:00:01.400] Et bienvenue sur Radio Moderne.
+[00:00:01.400 --> 00:00:03.800] Alors, encore une fois, vous avez été nombreux à me demander
+[00:00:03.800 --> 00:00:06.720] de faire une vidéo sur les événements du 17 octobre.
+[00:00:06.720 --> 00:00:08.760] J'ai eu du mal à me décider
+[00:00:08.760 --> 00:00:10.680] sous quel angle j'allais attaquer le problème.
+[00:00:10.680 --> 00:00:15.080] Et puis, finalement, je suis tombé sur la vidéo parfaite.
+[00:00:15.080 --> 00:00:19.080] La vidéo qui synthétise parfaitement la situation.
+[00:00:20.600 --> 00:00:26.370] Les gens ils se sentent, c'est normal, on a la marre de tout ça.
+[00:00:26.370 --> 00:00:28.850] Parce que c'est une sale bourgeoise
+[00:00:28.850 --> 00:00:31.610] parce que je les ai empêchés de piller le petit commerce d'en bas.
+[00:00:31.650 --> 00:00:33.210] Franchement, c'est un dommage que la terrelle...
+[00:00:33.210 --> 00:00:34.450] Ah bah génial !
+[00:00:34.450 --> 00:00:36.890] Le milifantisme pacifiste ne marche pas.
+[00:00:36.890 --> 00:00:39.970] Nelson Mandela, il a appelé à prendre les armes à un moment donné.
+[00:00:39.970 --> 00:00:42.730] Parce que la parceille de manière pacifiste, ça n'aurait jamais pu être tue.
+[00:00:42.730 --> 00:00:43.930] On est d'accord.
+[00:00:43.930 --> 00:00:47.050] Donc voilà, je ne vous avais pas menti, il s'en passe des choses dans cette vidéo.
+[00:00:47.050 --> 00:00:50.850] Vidéo qui nous vient, attention, il faut quand même le signaler du média brut.
+[00:00:50.850 --> 00:00:52.330] Ce n'est pas souvent que je leur fais des compliments,
+[00:00:52.330 --> 00:00:54.050] mais là, il se passe vraiment quelque chose,
+[00:00:54.050 --> 00:00:57.370] c'est-à-dire qu'on a véritablement affaire à de la contradiction,
+[00:00:57.370 --> 00:00:59.090] à un débat contradictoire.
+[00:00:59.130 --> 00:01:02.370] Et plus exactement, à la gauche qui se bouffe de l'intérieur.
+[00:01:02.370 --> 00:01:03.170] Et ça, c'est beau.
+[00:01:03.170 --> 00:01:07.290] En tout cas, juste pour rebondir sur les propos de la gauchiste à lunettes à gauche,
+[00:01:07.290 --> 00:01:11.210] il y a clairement l'idée, très très répandue aujourd'hui à l'extrême-gauche,
+[00:01:11.210 --> 00:01:14.370] que la violence est un outil politique comme les autres.
+[00:01:14.370 --> 00:01:15.930] Ce qui est d'ailleurs extrêmement amusant,
+[00:01:15.930 --> 00:01:17.850] parce que quand on écoute les gens d'extrême-gauche
+[00:01:17.850 --> 00:01:20.250] qui voient de l'extrême-droite et des nazis partout,
+[00:01:20.250 --> 00:01:24.690] normalement, l'idée de faire de la violence un outil politique presque comme les autres,
+[00:01:24.690 --> 00:01:28.050] c'est censé être une des caractéristiques du fascisme.
+[00:01:28.090 --> 00:01:31.330] Alors moi, je veux bien que les gens se soient lassés de la rhétorique du
+[00:01:31.330 --> 00:01:33.850] « les véritables fascistes, ce sont les gens de gauche »,
+[00:01:33.850 --> 00:01:36.490] n'empêche que ça se vérifie en permanence.
+[00:01:36.490 --> 00:01:39.570] Ce qui est rigolo aussi, c'est son exemple de Nelson Mandela,
+[00:01:39.570 --> 00:01:41.730] qui aurait mis fin à l'apartheid, alors que bon,
+[00:01:41.730 --> 00:01:45.730] la situation en Afrique du Sud, dans les faits, elle n'a pas beaucoup évolué.
+[00:01:45.730 --> 00:01:47.370] Et aujourd'hui, les violences continuent d'ailleurs.
+[00:01:47.370 --> 00:01:51.410] Les fermiers blancs sont massacrés de manière particulièrement atroce d'ailleurs.
+[00:01:51.410 --> 00:01:52.650] Et en fait, tout le problème est là.
+[00:01:52.650 --> 00:01:57.050] C'est-à-dire que la violence, c'est juste un outil qui sert à faire passer en force
+[00:01:57.050 --> 00:02:01.090] des idées en planquant sous le tapis les causes profondes des problèmes.
+[00:02:01.090 --> 00:02:02.810] Et ça, ça mène à quoi ?
+[00:02:02.810 --> 00:02:06.210] Eh ben concrètement, ça mène à rendre la violence permanente.
+[00:02:06.210 --> 00:02:08.970] Mais c'est quand même intéressant de voir quelle figure ils mettent en avant,
+[00:02:08.970 --> 00:02:10.970] parce qu'il ne faut pas oublier que chez les gens de gauche aujourd'hui,
+[00:02:10.970 --> 00:02:13.890] il y a toujours une dimension raciale derrière le discours.
+[00:02:13.890 --> 00:02:16.130] Et il y a toujours cette idée des gentils noirs,
+[00:02:16.130 --> 00:02:18.170] des gentils racisés contre les méchants blancs.
+[00:02:18.170 --> 00:02:22.250] Et donc la figure de Mandela, pour eux, c'est le top du top, c'est l'idéal,
+[00:02:22.250 --> 00:02:25.770] parce que ça représente vraiment cette vision caricaturale des choses.
+[00:02:25.770 --> 00:02:29.210] Mais ce qui est quand même extraordinaire dans cette séquence,
+[00:02:29.210 --> 00:02:34.090] c'est que la dame à droite, qui est très probablement une femme de gauche en train de déchanter,
+[00:02:34.090 --> 00:02:37.530] elle explique quand même qu'elle était avec son bébé
+[00:02:37.530 --> 00:02:40.810] et qu'elle a été menacée de vieille par des racailles,
+[00:02:40.810 --> 00:02:44.770] sous prétexte qu'elle était une bourgeoise parce qu'elle voulait défendre un commerce.
+[00:02:44.770 --> 00:02:50.490] Et que répond la gauchiste de gauche que ce n'était qu'un dommage collatéral ?
+[00:02:50.490 --> 00:02:54.090] Et ça, c'est extraordinaire, parce que là, on voit clairement
+[00:02:54.090 --> 00:02:56.530] comment fonctionne une personne de gauche.
+[00:02:56.530 --> 00:03:00.130] C'est mettre les idées, le concept avant le réel.
+[00:03:00.130 --> 00:03:04.330] Parce qu'elle lui dit quand même que ce qui lui est arrivé, c'est un dommage collatéral.
+[00:03:04.330 --> 00:03:08.810] Donc en fait, au nom de leur lutte abstraite contre les inégalités,
+[00:03:08.810 --> 00:03:13.090] le capitalisme ou que sais-je, ces gens sont prêts à tout.
+[00:03:13.090 --> 00:03:16.210] Et quand je dis à tout, je dis vraiment à tout.
+[00:03:16.210 --> 00:03:20.570] Si leur combat doit passer par le vieil d'une jeune maman, eh ben qu'il en soit ainsi.
+[00:03:20.570 --> 00:03:23.530] Ce qui est extraordinaire aussi, c'est à quel point les racailles
+[00:03:23.530 --> 00:03:27.530] ont adopté une partie de la rhétorique des bobos gauchistes.
+[00:03:27.530 --> 00:03:30.570] Ils parlent donc de la bourgeoisie, des bourgeois.
+[00:03:30.570 --> 00:03:33.530] Et on rappelle aussi comme ça, juste au passage,
+[00:03:33.530 --> 00:03:37.730] que les massacres des bourgeois ou des personnes considérées comme bourgeoises
+[00:03:37.730 --> 00:03:41.210] ou des ennemis de classe, ça fait partie des méthodes des communistes.
+[00:03:41.210 --> 00:03:43.570] Et on l'a vu à de nombreuses reprises dans l'histoire,
+[00:03:43.570 --> 00:03:45.930] que ce soit sous les coumères rouges au Cambodge,
+[00:03:45.930 --> 00:03:48.970] en Chine dans les années 60 ou bien en Ukraine ou même en Russie.
+[00:03:48.970 --> 00:03:53.050] Les ennemis de classe, c'est aux communistes que les races inférieures étaient aux nazis.
+[00:03:53.050 --> 00:03:56.490] Et quand en plus vous voyez qu'au-delà de 4000 euros par mois,
+[00:03:56.490 --> 00:03:59.290] par exemple, vous êtes déjà à classer dans les bourgeois pour certains,
+[00:03:59.290 --> 00:04:03.090] à la fin, ça fait quand même une grosse partie de la population à éradiquer.
+[00:04:03.090 --> 00:04:05.570] Et là, notre gauchiste à droite,
+[00:04:05.570 --> 00:04:08.730] elle est en train de réaliser un sacré paquet de choses tout à coup.
+[00:04:08.730 --> 00:04:11.690] Et ça, c'est quand même une bonne nouvelle.
+[00:04:11.690 --> 00:04:15.050] Ça suffit de dire qu'il y a une violence institutionnelle qui justifie la violence physique.
+[00:04:15.050 --> 00:04:16.930] Mais vous laissez la violence institutionnelle, du coup ?
+[00:04:16.930 --> 00:04:19.850] Mais là, il y a une violence physique qui est une violence physique.
+[00:04:19.850 --> 00:04:21.490] Il y a un quartier qui est saccagé.
+[00:04:21.490 --> 00:04:22.890] Donc là, je reviens un petit peu avant.
+[00:04:22.890 --> 00:04:25.250] Parce que ce propos-là, il est vraiment essentiel.
+[00:04:25.250 --> 00:04:29.730] C'est ce truc de mettre sur un pied d'égalité la violence dite institutionnelle
+[00:04:29.730 --> 00:04:32.570] et la violence réelle, la violence physique.
+[00:04:32.570 --> 00:04:34.930] Sachant que dans les violences institutionnelles,
+[00:04:34.930 --> 00:04:39.090] il y a tous ces délires de racisme systémique et de sparadrap marron, etc.
+[00:04:39.090 --> 00:04:41.810] Et surtout, ce délire de violence institutionnelle,
+[00:04:41.810 --> 00:04:45.970] il se base sur des mythes comme quoi les personnes non blanches
+[00:04:45.970 --> 00:04:48.450] auraient plus de difficultés à accéder à l'emploi.
+[00:04:48.450 --> 00:04:51.850] Alors qu'encore une fois, tous les tests sur les CV anonymes
+[00:04:51.850 --> 00:04:54.530] qui ont été mis en place ont prouvé l'inverse,
+[00:04:54.530 --> 00:04:57.570] ont prouvé que s'il y a un biais aujourd'hui en France,
+[00:04:57.570 --> 00:05:00.090] c'est un biais antiraciste et que donc les employeurs
+[00:05:00.090 --> 00:05:03.650] avaient beaucoup plus tendance à donner leur chance aux personnes non blanches
+[00:05:03.650 --> 00:05:08.210] dans le but justement de compenser des inégalités et des injustices
+[00:05:08.210 --> 00:05:09.930] dont on leur parle à longueur de journée.
+[00:05:09.930 --> 00:05:12.570] De même, si on constate d'après les chiffres,
+[00:05:12.570 --> 00:05:16.850] on a quasiment les deux tiers des personnes qui vivent en HLM,
+[00:05:16.850 --> 00:05:20.370] donc qui profitent de loyers ultra avantageux
+[00:05:20.370 --> 00:05:24.010] et ceux dans des zones qui permettent un accès privilégié à l'emploi
+[00:05:24.010 --> 00:05:26.730] comparé aux gens qui habitent en campagne par exemple.
+[00:05:26.730 --> 00:05:28.170] C'est des gens qui ont accès au transport,
+[00:05:28.170 --> 00:05:30.490] qui ont accès au travail, qui ont accès à tout,
+[00:05:30.490 --> 00:05:34.130] à qui on verse des milliards et des milliards chaque année
+[00:05:34.130 --> 00:05:37.250] et qui trouvent encore le moyen de se faire passer pour désoprimer.
+[00:05:37.250 --> 00:05:38.890] Ça, c'est insupportable.
+[00:05:38.890 --> 00:05:40.610] Oui, parce que peut-être que certains l'ont oublié,
+[00:05:40.610 --> 00:05:45.050] mais à la base, le 17 octobre, c'était censé être un mouvement de lycéen.
+[00:05:45.050 --> 00:05:47.770] Bon, mais évidemment, personne n'a jamais été dupe, je pense.
+[00:05:47.810 --> 00:05:51.170] Même si les gens ont plus ou moins osé se l'avouer à eux-mêmes,
+[00:05:51.170 --> 00:05:55.770] mais ces manifestations-là, elles avaient des motivations avant tout identitaires,
+[00:05:55.770 --> 00:05:56.890] anti-France.
+[00:05:56.890 --> 00:05:59.090] D'ailleurs, il y a quelque chose qui était assez intéressant à constater,
+[00:05:59.090 --> 00:06:01.330] c'est que sur certaines vidéos, des lycéens,
+[00:06:01.330 --> 00:06:02.810] des lycées de banlieue notamment,
+[00:06:02.810 --> 00:06:05.810] avaient montré à quel point leur lycée était dégradé,
+[00:06:05.810 --> 00:06:09.330] qu'il n'y avait plus de plafond, que les portes étaient taguées, défoncées, etc.
+[00:06:09.330 --> 00:06:11.570] Mais encore une fois, qui a fait ça ?
+[00:06:11.570 --> 00:06:13.730] Qui a détruit ces lycées ?
+[00:06:13.730 --> 00:06:16.010] C'est exactement la même logique
+[00:06:16.010 --> 00:06:18.170] que ces habitants de banlieue qui se plaignent,
+[00:06:18.170 --> 00:06:21.610] que les gens p*** dans les couloirs, qu'il y ait des déchets partout, etc.
+[00:06:21.610 --> 00:06:23.810] Qui dégrade au bout d'un moment ?
+[00:06:23.810 --> 00:06:26.530] Parce que là-dessus, on va quand même arrêter de se mentir 5 secondes.
+[00:06:26.530 --> 00:06:29.130] Si certaines populations dégradent
+[00:06:29.130 --> 00:06:32.370] et ne respectent pas l'environnement dans lequel ils vivent,
+[00:06:32.370 --> 00:06:35.970] c'est parce qu'ils ne considèrent pas cet endroit comme un chez-eux.
+[00:06:35.970 --> 00:06:38.810] Ils ne considèrent pas ce pays comme leur pays.
+[00:06:38.810 --> 00:06:42.370] Parce que quand on considère un lieu comme étant notre chez-nous,
+[00:06:42.370 --> 00:06:44.690] voire notre pays, on ne le dégrade pas.
+[00:06:44.690 --> 00:06:46.410] On ne lui manque pas de respect.
+[00:06:46.410 --> 00:06:49.250] Qui plus est quand c'est nous qui allons payer derrière ?
+[00:06:49.250 --> 00:06:52.170] Mais là, on a affaire à des gens qui non seulement ne sont pas chez eux,
+[00:06:52.170 --> 00:06:56.290] mais qui en plus ne subissent jamais les conséquences de leurs actes.
+[00:06:56.290 --> 00:06:59.450] Ce sont des gens qui détruisent et qui ne payent jamais rien.
+[00:06:59.450 --> 00:07:03.170] Donc tout ça pour vous dire que ces violences dites institutionnelles,
+[00:07:03.170 --> 00:07:06.330] qui sont par exemple, et ça c'est vraiment l'exemple qui revient le plus souvent,
+[00:07:06.330 --> 00:07:10.810] que des propriétaires vont souvent refuser de louer à des Noirs ou des Arabes.
+[00:07:10.850 --> 00:07:15.130] Eh bien peut-être que ces violences dites institutionnelles,
+[00:07:15.130 --> 00:07:17.410] ce sont des jugements à posteriori.
+[00:07:17.410 --> 00:07:21.330] Ce sont des gens qui refusent de louer à tel ou tel type de population,
+[00:07:21.330 --> 00:07:23.290] parce qu'ils en ont déjà fait l'expérience.
+[00:07:23.290 --> 00:07:26.010] Peut-être que ces violences institutionnelles justement
+[00:07:26.010 --> 00:07:29.090] découlent de ces violences réelles, de ces violences physiques.
+[00:07:29.090 --> 00:07:31.610] Peut-être que les gens ne sont pas nés racistes,
+[00:07:31.610 --> 00:07:33.210] mais qu'ils le sont devenus,
+[00:07:33.210 --> 00:07:37.090] à force d'avoir à subir les comportements de certaines communautés.
+[00:07:41.810 --> 00:07:44.010] Alors là, il faut quand même se rendre compte
+[00:07:44.010 --> 00:07:47.850] d'à quel point l'exemple des Gilets jaunes est totalement à côté de la plaque.
+[00:07:47.850 --> 00:07:50.770] Puisque ça c'est vraiment le truc qu'on remarque à chaque fois,
+[00:07:50.770 --> 00:07:54.250] c'est que lorsqu'il s'agit de tirer ou d'employer la force,
+[00:07:54.250 --> 00:07:56.530] que ce soit contre les paysans ou les Gilets jaunes,
+[00:07:56.530 --> 00:07:57.570] là il n'y a pas de problème.
+[00:07:57.570 --> 00:08:02.410] Alors même que c'étaient des manifestations qui à la base étaient pacifiques.
+[00:08:02.410 --> 00:08:04.570] Alors que là, soyons très clairs,
+[00:08:04.570 --> 00:08:07.450] les intentions belliqueuses, le pillage, etc.
+[00:08:07.450 --> 00:08:09.530] ils étaient annoncés, plus encore.
+[00:08:09.570 --> 00:08:11.010] Là, pour le 24 octobre,
+[00:08:11.010 --> 00:08:14.290] les racailles sont déjà en train de s'organiser
+[00:08:14.290 --> 00:08:15.810] pour essayer de faire encore pire.
+[00:08:15.810 --> 00:08:17.770] Parce qu'on rappelle quand même qu'à Marseille,
+[00:08:17.770 --> 00:08:21.490] on parle d'environ 30 000 personnes qui ont participé au pillage.
+[00:08:21.490 --> 00:08:24.530] Et ben, ces gens-là, ils ont prévu de monter à Paris
+[00:08:24.530 --> 00:08:27.890] pour faire encore pire avec bien sûr l'aval
+[00:08:27.890 --> 00:08:30.170] de nos petits bobos d'extrême-gauche
+[00:08:30.170 --> 00:08:33.850] qui les voient un petit peu comme les bras armés de leur petite révolution.
+[00:08:35.050 --> 00:08:37.690] En mode là, les Marseillais, ils se chauffent à monter sur Paris.
+[00:08:37.690 --> 00:08:38.370] Ouais !
+[00:08:38.410 --> 00:08:40.170] Cette image, elle décrit tout !
+[00:08:40.170 --> 00:08:41.210] Elle décrit tout !
+[00:08:41.210 --> 00:08:42.210] En plus, ça a dit quoi ?
+[00:08:42.210 --> 00:08:44.410] Le 17, 18, c'est échauffement.
+[00:08:44.410 --> 00:08:45.810] Le max, c'est 24.
+[00:08:46.330 --> 00:08:50.290] Voilà, donc si vous voulez, on peut pas dire que l'État n'a pas été prévenu.
+[00:08:50.290 --> 00:08:54.050] On peut pas dire qu'ils n'avaient pas les moyens de s'organiser.
+[00:08:54.050 --> 00:08:56.010] Parce que de toute façon, ces populations-là,
+[00:08:56.010 --> 00:08:58.090] que ce soit pour célébrer un événement
+[00:08:58.090 --> 00:08:59.410] ou pour faire une manifestation,
+[00:08:59.410 --> 00:09:01.290] les méthodes sont strictement les mêmes.
+[00:09:01.290 --> 00:09:02.730] Donc si vous voulez, on a l'expérience.
+[00:09:02.730 --> 00:09:03.930] On sait comment ça se passe.
+[00:09:03.930 --> 00:09:06.210] Au bout d'un moment, si l'État laisse faire,
+[00:09:06.210 --> 00:09:08.090] donc si les forces de l'ordre laissent faire,
+[00:09:08.090 --> 00:09:10.810] parce qu'on rappelle quand même juste au cas où que les forces de l'ordre,
+[00:09:10.810 --> 00:09:12.250] c'est un outil de l'État.
+[00:09:12.250 --> 00:09:14.290] Donc au bout d'un moment, s'ils laissent faire,
+[00:09:14.290 --> 00:09:16.490] c'est parce qu'ils choisissent de laisser faire.
+[00:09:16.490 --> 00:09:18.170] Et pourquoi est-ce qu'ils choisissent de laisser faire ?
+[00:09:18.170 --> 00:09:20.730] Eh bien, tout simplement parce qu'ils sont terrifiés
+[00:09:20.730 --> 00:09:24.010] à l'idée que les banlieues s'embrasent, encore une fois.
+[00:09:24.010 --> 00:09:26.610] Là, en gros, le calcul, c'est OK.
+[00:09:26.610 --> 00:09:28.610] Il va y avoir des pillages et des dégradations,
+[00:09:28.610 --> 00:09:30.250] mais c'est que pendant une journée.
+[00:09:30.250 --> 00:09:33.130] Si on en bute un ou deux en essayant de les empêcher de piller,
+[00:09:33.130 --> 00:09:34.530] on est parti pour des semaines.
+[00:09:34.530 --> 00:09:35.650] C'est rien d'autre que ça.
+[00:09:35.690 --> 00:09:39.890] L'État plie devant les banlieues et l'extrême gauche.
+[00:09:39.890 --> 00:09:42.370] Je ne sais pas si vous avez vu, mais Naïve Boukele,
+[00:09:42.370 --> 00:09:45.610] le président du Salvador, il a récemment dit à la France
+[00:09:45.610 --> 00:09:49.170] que ce qu'il avait réglé comme situation, c'était mille fois pire.
+[00:09:49.170 --> 00:09:51.210] Il a réglé ça en quelques mois.
+[00:09:51.210 --> 00:09:55.170] Alors, soyons honnêtes, la France a les moyens de régler le problème,
+[00:09:55.170 --> 00:09:57.850] parce que ce n'est pas compliqué à régler comme problème.
+[00:09:57.850 --> 00:10:01.050] Qui fait obstacle à la résolution de ce problème ?
+[00:10:01.050 --> 00:10:04.690] C'est la gauche et l'extrême gauche qui vont considérer
+[00:10:04.730 --> 00:10:07.010] que le fait d'envoyer l'armée, par exemple,
+[00:10:07.010 --> 00:10:11.170] pour protéger les citoyens et punir ces criminels et ces délinquants,
+[00:10:11.170 --> 00:10:13.450] ce serait soit de la discrimination de classe,
+[00:10:13.450 --> 00:10:15.450] soit de la discrimination raciale.
+[00:10:15.450 --> 00:10:20.050] Si Macron fait ça, c'est la garantie de se faire traiter de raciste
+[00:10:20.050 --> 00:10:22.770] par la quasi intégralité des médias du pays.
+[00:10:22.770 --> 00:10:25.850] Et donc, en fait, dans un sens, quand on vit dans un système comme celui-là,
+[00:10:25.850 --> 00:10:29.530] avec des médias qui s'opposent frontalement à ce qu'on parle,
+[00:10:29.530 --> 00:10:31.090] à ce qu'on dénonce le réel,
+[00:10:31.090 --> 00:10:33.530] malheureusement, le seul espoir qu'on ait,
+[00:10:33.530 --> 00:10:37.490] c'est que ces bobos gauchistes voient, en fait, de leurs yeux
+[00:10:37.490 --> 00:10:40.330] pourquoi ils se battent, quelle population ils défendent.
+[00:10:40.330 --> 00:10:42.730] Comme cette brave dame à droite,
+[00:10:42.730 --> 00:10:46.410] qui s'est faite menacer de V, alors qu'elle était avec son bébé.
+[00:10:46.410 --> 00:10:48.130] Alors, tout ce qu'on peut espérer, effectivement,
+[00:10:48.130 --> 00:10:53.170] c'est que cette confrontation au réel soit la moins douloureuse possible pour eux,
+[00:10:53.170 --> 00:10:54.250] mais il faut qu'elle se fasse.
+[00:10:54.250 --> 00:10:56.370] Et enfin, dernière chose, juste comme ça,
+[00:10:56.370 --> 00:11:00.850] mais j'ai vu par-ci par-là des gens de quartier, etc. se plaindre
+[00:11:00.890 --> 00:11:04.250] que les gilets jaunes et les paysans n'étaient pas là pour les défendre.
+[00:11:04.250 --> 00:11:08.930] Mais enfin, s'il y a bien deux mouvements où la diversité était absente,
+[00:11:08.930 --> 00:11:11.730] c'était bien les mouvements paysans et les gilets jaunes.
+[00:11:11.730 --> 00:11:15.930] Donc ça, c'est quand même extraordinaire d'aller réclamer la solidarité de gens,
+[00:11:15.930 --> 00:11:18.530] alors qu'eux-mêmes n'étaient pas là pour les soutenir.
+[00:11:18.530 --> 00:11:21.130] Pourquoi ? Parce qu'ils n'en ont rien à faire.
+[00:11:21.130 --> 00:11:24.130] Ils ne se reconnaissent pas dans leurs revendications.
+[00:11:24.130 --> 00:11:28.130] Ils ne se reconnaissent de toute façon que dans leur communautarisme.
+[00:11:28.170 --> 00:11:31.170] Vous parlez des centaines de morts au travail depuis des années
+[00:11:31.170 --> 00:11:32.570] à cause du système néo-libéral...
+[00:11:32.570 --> 00:11:34.050] Mais vous le subissez pas, madame !
+[00:11:34.770 --> 00:11:37.930] Voilà, donc là, on va être dans le gloubibouga le plus total.
+[00:11:37.930 --> 00:11:41.330] Maintenant, les accidents du travail qu'il y a en France,
+[00:11:41.330 --> 00:11:43.090] c'est à cause du néo-libéralisme.
+[00:11:43.090 --> 00:11:46.610] Bon alors, déjà, dire qu'on est dans un système libéral en France,
+[00:11:46.610 --> 00:11:48.370] qui est quasiment un pays communiste,
+[00:11:48.370 --> 00:11:51.170] un des pays qui a le plus de fonctionnaires au monde,
+[00:11:51.170 --> 00:11:55.250] un des pays avec le plus haut taux d'imposition au monde,
+[00:11:55.250 --> 00:11:57.250] et on nous fait croire que c'est un pays libéral.
+[00:11:57.250 --> 00:11:58.410] Mais c'est de la folie !
+[00:11:58.410 --> 00:12:01.970] Mais surtout, aller imputer des accidents du travail au libéralisme,
+[00:12:01.970 --> 00:12:03.370] ça n'a aucun sens.
+[00:12:03.370 --> 00:12:05.410] Parce qu'évidemment, dans les pays communistes,
+[00:12:05.410 --> 00:12:08.450] il n'y a jamais aucun accident du travail.
+[00:12:08.450 --> 00:12:10.210] Personne ne se blesse au travail.
+[00:12:10.210 --> 00:12:13.210] D'ailleurs, si vous regardez les chiffres de ces morts au travail,
+[00:12:13.210 --> 00:12:15.410] vous voyez que plus de la moitié sont liés à des malaises,
+[00:12:15.410 --> 00:12:18.330] malaises qui ne sont pas forcément liés au travail lui-même.
+[00:12:18.330 --> 00:12:22.170] Ensuite viennent les chutes, les accidents dans la main du tension, etc.
+[00:12:22.170 --> 00:12:23.970] et puis les accidents de la route.
+[00:12:23.970 --> 00:12:27.210] Donc en fait, si vous voulez que vous soyez dans un pays libéral ou pas,
+[00:12:27.250 --> 00:12:28.690] ça ne changera pas grand-chose.
+[00:12:29.730 --> 00:12:31.450] C'est le reflet de la violence de l'État, madame !
+[00:12:31.450 --> 00:12:34.650] C'est le reflet de la violence de l'État et du système néolibéraliste !
+[00:12:34.650 --> 00:12:35.650] Ça, c'est le reflet !
+[00:12:35.650 --> 00:12:37.650] Il y a des immables privés qui se bouillent !
+[00:12:37.650 --> 00:12:39.650] C'est l'image de cette violence-là qui est en train de...
+[00:12:39.650 --> 00:12:42.330] La violence de l'État, mais est-ce qu'il ne faut pas entendre ?
+[00:12:42.330 --> 00:12:46.450] Si au moins l'État était capable de faire preuve de violence,
+[00:12:46.450 --> 00:12:48.570] parce que c'est ça le pire, en fait, dans tout ça,
+[00:12:48.570 --> 00:12:52.330] c'est que les Français se font taxer dans tous les sens,
+[00:12:52.330 --> 00:12:54.770] payent des impôts extraordinairement élevés
+[00:12:54.770 --> 00:12:58.570] pour financer un État qui n'est même pas capable d'assurer
+[00:12:58.570 --> 00:13:01.330] des fonctions aussi élémentaires que la sécurité.
+[00:13:01.330 --> 00:13:05.810] Si au moins l'État était capable d'exercer sa violence,
+[00:13:05.810 --> 00:13:07.810] ces gens sont des fous furieux.
+[00:13:08.810 --> 00:13:11.810] Mais c'est la propriété privée, c'est pas grave !
+[00:13:11.810 --> 00:13:13.810] Moi j'étais avec mon nourrisson !
+[00:13:14.290 --> 00:13:15.490] Voilà, extraordinaire.
+[00:13:15.490 --> 00:13:18.290] C'est la propriété privée, donc c'est pas grave.
+[00:13:18.290 --> 00:13:20.650] C'est vraiment ça qu'elle nous dit, cette brave dame.
+[00:13:20.650 --> 00:13:23.530] Alors, juste au cas où comme ça, parce que ça c'est pareil,
+[00:13:23.570 --> 00:13:25.250] ça fait partie de la rhétorique de la gauche,
+[00:13:25.250 --> 00:13:28.490] de tout le temps remettre sur le tapis la question des droits de l'homme.
+[00:13:28.490 --> 00:13:30.530] Vous savez, la France est le pays de droits de l'homme,
+[00:13:30.530 --> 00:13:32.770] et en fait les droits de l'homme n'y sont pas respectés.
+[00:13:32.770 --> 00:13:37.050] La propriété privée s'est inscrite dans les droits de l'homme.
+[00:13:37.050 --> 00:13:39.970] Enfin, mais c'est la propriété privée, donc c'est pas grave.
+[00:13:39.970 --> 00:13:41.730] Mais c'est incroyable !
+[00:13:41.730 --> 00:13:44.090] Parce que c'est justement parce qu'il y a propriété privée
+[00:13:44.090 --> 00:13:47.130] que cette dame-là, elle aurait eu le droit de se sentir en sécurité
+[00:13:47.130 --> 00:13:49.170] avec son enfant chez elle.
+[00:13:49.170 --> 00:13:51.250] Ces gens sont totalement déconnectés.
+[00:13:53.570 --> 00:13:54.730] Vous n'êtes pas pacifistes !
+[00:13:54.730 --> 00:13:57.530] Non mais attendez, moi je n'ai rien fait à la police !
+[00:13:57.530 --> 00:13:59.970] Moi je n'ai rien fait à la police plus, hier je me fais barricader.
+[00:13:59.970 --> 00:14:03.210] Hier j'ai été barricadée avec mon nourrisson, avec des mecs qui menaçaient de me violer.
+[00:14:03.210 --> 00:14:05.690] Donc c'est très dingue, mais en fait je ne suis pas justifiée de cette violence.
+[00:14:05.690 --> 00:14:08.810] Mais si, un petit peu, parce que vous dites qu'il n'y a pas de révolution sans violence.
+[00:14:09.530 --> 00:14:12.010] Et donc là on en revient en fait à l'extrait du début,
+[00:14:12.010 --> 00:14:16.010] où l'ex-gauchiste qui est à droite de l'écran a la révélation
+[00:14:16.010 --> 00:14:18.610] « Ah mais en fait, vous n'êtes pas pacifistes ! »
+[00:14:18.610 --> 00:14:20.250] Et non, bien évidemment que non.
+[00:14:20.250 --> 00:14:23.770] Après, soyons clairs, personne n'est contre la violence, ça n'a aucun sens.
+[00:14:23.770 --> 00:14:27.210] On est toujours contre une violence qu'on estime être illégitime.
+[00:14:27.210 --> 00:14:31.770] Et là, dans la tête de cette dame, et de quelques illuminés d'extrême gauche,
+[00:14:31.770 --> 00:14:33.650] ces violences-là sont légitimes.
+[00:14:33.650 --> 00:14:36.970] Et une des manières qui a eu de légitimer ces violences,
+[00:14:36.970 --> 00:14:40.450] c'est que le 17 octobre, c'était aussi la date anniversaire
+[00:14:40.450 --> 00:14:46.130] des fameux noyés algériens dans la Seine en 1961.
+[00:14:46.130 --> 00:14:48.850] Je crois que là-dessus, il faut quand même remettre pas mal de contexte.
+[00:14:48.890 --> 00:14:53.690] Parce que cette histoire-là, elle est instrumentalisée depuis des décennies.
+[00:14:53.690 --> 00:14:55.330] C'était déjà le cas quand j'étais au lycée.
+[00:14:55.330 --> 00:14:58.570] Donc en gros, l'idée que la France aurait noyé 200 algériens.
+[00:14:58.570 --> 00:15:00.570] Bon attends, il faut remettre les choses un petit peu dans l'ordre.
+[00:15:00.570 --> 00:15:06.050] Déjà donc, le 17 octobre 1961, la France et l'Algérie étaient en guerre.
+[00:15:06.050 --> 00:15:09.490] Et donc, la France a instauré un couvre-feu
+[00:15:09.490 --> 00:15:13.050] qui visait spécifiquement les ressortissants algériens.
+[00:15:13.050 --> 00:15:16.770] Est-ce que ça vous semble délirant que dans le contexte d'une guerre,
+[00:15:16.770 --> 00:15:21.330] les ressortissants du pays ennemi soient soumis à certaines règles,
+[00:15:21.330 --> 00:15:23.250] à certaines conditions comme un couvre-feu ?
+[00:15:23.250 --> 00:15:26.330] Moi personnellement, non, ça ne me semble pas délirant du tout.
+[00:15:26.330 --> 00:15:31.890] Et donc, sous la pulsion du FLN, les Algériens de France ont manifesté.
+[00:15:31.890 --> 00:15:36.410] Pendant le contexte de guerre, je le rappelle, les manifestations dégénèrent,
+[00:15:36.410 --> 00:15:40.770] des manifestants sont tués, certains vont même tomber dans la Seine.
+[00:15:40.770 --> 00:15:42.730] Et c'est là que ça devient n'importe quoi.
+[00:15:42.730 --> 00:15:45.690] Parce que cette histoire de 200 algériens noyés,
+[00:15:45.690 --> 00:15:48.130] elle ne repose absolument sur rien du tout.
+[00:15:48.130 --> 00:15:50.850] Oui, il y a eu des noyés, mais certainement pas 200.
+[00:15:50.850 --> 00:15:54.130] D'autant plus qu'il faut aussi comprendre que pendant cette période-là,
+[00:15:54.130 --> 00:15:56.770] pas uniquement la police française qui a tué des Algériens,
+[00:15:56.770 --> 00:16:00.730] c'est aussi des Algériens qui se sont tués entre eux pendant cette période.
+[00:16:00.730 --> 00:16:04.290] Notamment parce qu'il y avait une rivalité entre le FLN et le MNA,
+[00:16:04.290 --> 00:16:06.170] donc le Mouvement National Algérien.
+[00:16:06.170 --> 00:16:10.690] Donc, l'ensemble des morts ne peut pas être attribué uniquement à la police.
+[00:16:10.690 --> 00:16:11.570] C'est faux déjà.
+[00:16:11.570 --> 00:16:15.490] Et cette partie de l'histoire-là, on n'en entend quasiment jamais parlé, étrangement.
+[00:16:15.490 --> 00:16:19.770] Mais bon, soyons clairs, le coût des 200 algériens noyés le 17 octobre,
+[00:16:19.770 --> 00:16:22.970] c'est de la fake news, c'est du mensonge, c'est faux.
+[00:16:22.970 --> 00:16:28.610] Sur toute la période d'octobre 1961, il y a effectivement eu des centaines de morts.
+[00:16:28.610 --> 00:16:33.050] Et il y a au total eu plusieurs dizaines de morts le 17 octobre.
+[00:16:33.050 --> 00:16:35.930] Mais non seulement ils ne sont pas tous morts par noyade,
+[00:16:35.930 --> 00:16:39.290] mais surtout on est très loin des 200 algériens noyés.
+[00:16:39.290 --> 00:16:41.170] Et je le rappelle encore une fois,
+[00:16:41.170 --> 00:16:44.850] parmi l'ensemble des morts, ce n'est pas la police française
+[00:16:44.850 --> 00:16:48.610] qui les a tous tués, les algériens se tuaient entre eux.
+[00:16:48.610 --> 00:16:52.330] Notamment à cause de la petite guéguerre entre les FLN et les MNA,
+[00:16:52.330 --> 00:16:55.930] qui n'étaient pas d'accord sur la direction à prendre dans la lutte
+[00:16:55.930 --> 00:16:58.730] et qui voulaient tous les deux représenter les algériens.
+[00:16:58.730 --> 00:17:02.730] Et ça quand même, à une époque où on nous parle de déconstruire l'histoire, etc.
+[00:17:02.730 --> 00:17:07.730] Ce serait bien de déconstruire les choses, pas uniquement quand ça arrange.
+[00:17:07.770 --> 00:17:11.730] En fait, c'est la légalité, et moi je veux juste dire, moi franchement,
+[00:17:11.730 --> 00:17:16.370] j'étais la première, j'étais première de menacer de me violer,
+[00:17:16.370 --> 00:17:18.690] je ne vois pas comment c'est un geste politique.
+[00:17:18.690 --> 00:17:23.210] Alors, la question du V qui ne pourrait pas être quelque chose de politique,
+[00:17:23.210 --> 00:17:26.930] sachez quand même que le gauchisme, c'est une matière extrêmement malléable.
+[00:17:26.930 --> 00:17:31.010] Dans certains cas, le V, c'est vraiment la chose la plus atroce
+[00:17:31.010 --> 00:17:32.650] qui puisse être commis par un être humain,
+[00:17:32.650 --> 00:17:35.010] et il faut le condamner à tout prix au nom du féminisme.
+[00:17:35.010 --> 00:17:37.330] Mais par contre, dans certains cas,
+[00:17:37.330 --> 00:17:40.370] et notamment, on l'a vu pendant les attaques du 7 octobre,
+[00:17:40.370 --> 00:17:44.290] là, ça peut devenir une arme politique.
+[00:17:44.290 --> 00:17:48.450] Et après tout, si c'est pour combattre l'oppression, pourquoi pas ?
+[00:17:48.450 --> 00:17:50.570] Là, on est à peu près sur la même logique.
+[00:17:50.570 --> 00:17:53.010] Les menaces de V que cette femme a subies
+[00:17:53.010 --> 00:17:57.290] peuvent être légitimées, relativisées avec le contexte.
+[00:17:57.290 --> 00:18:01.890] Parce qu'après tout, c'est la lutte, on ne fait pas d'omelette sans casser les œufs, etc.
+[00:18:01.890 --> 00:18:04.570] Et ça, normalement, rien que ça, ce petit débat,
+[00:18:04.570 --> 00:18:08.450] il devrait suffire quand même à dématrixer un certain nombre de gauchistes,
+[00:18:08.450 --> 00:18:10.170] à les faire se remettre en question,
+[00:18:10.170 --> 00:18:12.330] à se questionner vraiment en profondeur.
+[00:18:12.330 --> 00:18:14.730] Parce que c'est vraiment ultra grave, en fait, comme propos.
+[00:18:14.730 --> 00:18:17.610] Et surtout, il n'y a pas besoin d'inventer des trucs.
+[00:18:17.610 --> 00:18:20.050] Parce que oui, ça, c'est aussi un truc dont je voulais parler
+[00:18:20.050 --> 00:18:21.290] par rapport à ces événements-là.
+[00:18:21.290 --> 00:18:22.890] C'est que vous le savez, certainement,
+[00:18:22.890 --> 00:18:26.130] il y a une photo de vieux en sous-vêtement qui a circulé,
+[00:18:26.130 --> 00:18:28.690] des vieux qui auraient été dépouillés par des racailles.
+[00:18:28.690 --> 00:18:31.930] Bon, cette image-là, c'était une image faite à l'IA.
+[00:18:31.970 --> 00:18:32.570] C'était faux.
+[00:18:32.570 --> 00:18:35.010] Sauf que ça a quand même largement circulé,
+[00:18:35.010 --> 00:18:38.170] notamment à la télé, de la part de certains influenceurs de droite
+[00:18:38.170 --> 00:18:39.650] qui n'ont pas pris la peine de vérifier.
+[00:18:39.650 --> 00:18:41.090] Et ça, c'est une catastrophe.
+[00:18:41.090 --> 00:18:45.370] Parce que ça décrédibilise énormément les gens qui vont dénoncer
+[00:18:45.370 --> 00:18:46.930] des violences et des faits réels.
+[00:18:46.930 --> 00:18:50.730] Parce que c'est ça la technique la plus efficace, la plus méta actuellement.
+[00:18:50.730 --> 00:18:54.290] Chez les médias de gauche, c'est de prendre une fake news
+[00:18:54.290 --> 00:18:58.850] dans un contexte où la plupart des faits dénoncés sont réels et vérifiables,
+[00:18:58.850 --> 00:19:03.290] de prendre une fake news pour décrédibiliser l'ensemble des faits dénoncés.
+[00:19:03.290 --> 00:19:05.570] D'ailleurs, moi, je ne comprends pas les gens qui font ça,
+[00:19:05.570 --> 00:19:07.650] qui font des fausses images.
+[00:19:07.650 --> 00:19:10.010] Est-ce que c'est des gens de gauche infiltrés
+[00:19:10.010 --> 00:19:11.890] qui veulent décrédibiliser leurs adversaires
+[00:19:11.890 --> 00:19:15.290] ou est-ce que c'est vraiment des gens de droite qui font ce genre de trucs ?
+[00:19:15.290 --> 00:19:16.010] Je ne sais pas.
+[00:19:16.010 --> 00:19:18.250] En tout cas, c'est absolument stupide.
+[00:19:18.250 --> 00:19:20.370] Pourquoi vouloir créer des fausses preuves,
+[00:19:20.370 --> 00:19:24.250] faire des sortes d'attentats à l'information sous faux drapeau
+[00:19:24.250 --> 00:19:27.770] alors qu'on a de véritables preuves, qu'on a des images réelles,
+[00:19:27.770 --> 00:19:30.410] qu'on a des propos réels, qu'on a des témoignages ?
+[00:19:30.410 --> 00:19:33.890] Pourquoi ça n'a strictement aucun sens ?
+[00:19:33.890 --> 00:19:38.930] Ce que je dis, c'est qu'en début de manifestation de l'État c'était calme,
+[00:19:38.930 --> 00:19:40.650] il y avait beaucoup d'appels à la révolution,
+[00:19:40.650 --> 00:19:42.090] mais c'est l'appel à la décapitation.
+[00:19:42.090 --> 00:19:43.770] La révolution, ce n'est pas calme.
+[00:19:43.770 --> 00:19:45.770] Ce n'est pas dans la calme que ça.
+[00:19:45.770 --> 00:19:47.290] Mais je suis pour la révolution.
+[00:19:47.290 --> 00:19:48.290] Il est d'abord fouillé.
+[00:19:48.290 --> 00:19:49.290] C'est bien saluant.
+[00:19:49.290 --> 00:19:50.090] Ok, mais j'imagine.
+[00:19:50.090 --> 00:19:53.530] Bon voilà, extraordinaire la confusion de cette nana à gauche
+[00:19:53.530 --> 00:19:56.170] qui hésite entre le politiquement correct
+[00:19:56.650 --> 00:19:58.970] à dire qu'elle est pacifiste, etc.
+[00:19:58.970 --> 00:20:01.010] et finalement dire qu'elle est pour la révolution
+[00:20:01.010 --> 00:20:02.810] et que la révolution, ça ne peut pas être calme,
+[00:20:02.810 --> 00:20:03.890] que ça doit être violent.
+[00:20:03.890 --> 00:20:05.290] C'est absolument extraordinaire.
+[00:20:05.290 --> 00:20:06.370] En fait, ce qui est incroyable,
+[00:20:06.370 --> 00:20:08.890] c'est qu'on va reprocher à des gens comme Zemmour et tout
+[00:20:08.890 --> 00:20:12.370] de prévenir sur la potentialité d'une guerre civile.
+[00:20:12.370 --> 00:20:13.890] En fait, ça va même plus loin à chaque fois
+[00:20:13.890 --> 00:20:16.810] que des gens de droite évoquent la possibilité d'une guerre civile.
+[00:20:16.810 --> 00:20:18.050] On leur saute à la gorge.
+[00:20:18.050 --> 00:20:20.970] On dit qu'ils sont là pour encourager la haine ou que sais-je,
+[00:20:20.970 --> 00:20:23.530] alors que tout ce qu'ils font, c'est prévenir d'un danger.
+[00:20:23.610 --> 00:20:27.370] Par contre, des gens de gauche qui justifient les pires atrocités
+[00:20:27.370 --> 00:20:30.650] au nom de la révolution, qui encouragent à la révolution
+[00:20:30.650 --> 00:20:33.290] et qui considèrent évidemment, à juste titre,
+[00:20:33.290 --> 00:20:35.210] que la révolution est quelque chose de violent
+[00:20:35.210 --> 00:20:36.610] et que cette violence est nécessaire,
+[00:20:36.610 --> 00:20:37.330] ça, ça passe.
+[00:20:37.330 --> 00:20:39.130] Il n'y a pas de problème.
+[00:20:54.050 --> 00:20:55.250] Je le fais juste en parallèle.
+[00:20:55.250 --> 00:20:56.970] Parce que c'est la réalité hier, en fait.
+[00:20:56.970 --> 00:20:57.930] Bon, là, c'est extraordinaire.
+[00:20:57.930 --> 00:21:00.810] Elle ne prend même plus la peine de nier, de toute façon.
+[00:21:00.810 --> 00:21:02.610] C'est un dommage collatéral.
+[00:21:02.610 --> 00:21:06.250] BNP, Paribas, etc. sont la source de nos problèmes,
+[00:21:06.250 --> 00:21:08.050] la propriété privée également.
+[00:21:08.050 --> 00:21:10.570] Donc, si une jeune maman doit se faire V
+[00:21:10.570 --> 00:21:12.970] au nom de la lutte contre le capitalisme
+[00:21:12.970 --> 00:21:14.770] ou de la revanche de l'Algérie,
+[00:21:14.770 --> 00:21:16.770] c'est un dommage collatéral et puis c'est tout.
+[00:21:16.770 --> 00:21:19.250] D'ailleurs, il y a un truc assez important aussi à savoir,
+[00:21:19.250 --> 00:21:20.810] c'est que pendant ces émeutes,
+[00:21:20.810 --> 00:21:23.290] il y a évidemment énormément de drapeaux étrangers
+[00:21:23.290 --> 00:21:24.330] qui ont été brandis,
+[00:21:24.330 --> 00:21:26.730] mais aussi l'hymne national algérien
+[00:21:26.730 --> 00:21:28.930] qui a été chanté à de nombreuses reprises.
+[00:21:28.930 --> 00:21:30.850] Ce qui est extrêmement intéressant aussi,
+[00:21:30.850 --> 00:21:33.610] c'est de voir quels commerces ont été épargnés.
+[00:21:33.610 --> 00:21:36.570] Et parmi eux, des kebabs, des restos halal.
+[00:21:36.570 --> 00:21:39.370] Bien sûr, aucune mosquée n'a été endommagée.
+[00:21:39.370 --> 00:21:41.050] Et ça, ça en dit quand même beaucoup.
+[00:21:41.050 --> 00:21:42.210] Mention spéciale, d'ailleurs.
+[00:21:42.210 --> 00:21:43.850] Alors, je ne peux pas vous montrer les images ici
+[00:21:43.850 --> 00:21:46.090] parce que ça va contre le règlement de YouTube.
+[00:21:46.090 --> 00:21:51.410] Mais on a vu une commerçante se voir épargnée par les pilleurs
+[00:21:51.410 --> 00:21:54.770] sous prétexte qu'elle était musulmane, qu'elle était une sœur.
+[00:21:54.770 --> 00:21:57.850] Donc, si vous voulez nier la dimension communautaire,
+[00:21:57.850 --> 00:22:00.690] la dimension identitaire même, j'ai envie de dire,
+[00:22:00.690 --> 00:22:03.770] de ces pillages, c'est au-delà de la mauvaise foi.
+[00:22:03.770 --> 00:22:08.250] Parce que là, cette dame de gauche qui justifie qu'on détruise des banques,
+[00:22:08.250 --> 00:22:10.570] bon la limite pourquoi pas, ça reste à peu près cohérent.
+[00:22:10.570 --> 00:22:14.250] Mais considérer que sans prendre aux pompiers, par exemple,
+[00:22:14.250 --> 00:22:16.090] c'est simplement un dommage collatéral,
+[00:22:16.090 --> 00:22:18.010] là, ça devient vraiment grave.
+[00:22:18.050 --> 00:22:21.450] Parce qu'encore une fois, les pompiers en ont pris plein un tronche eux aussi.
+[00:22:45.090 --> 00:22:46.570] Et ça, c'est très intéressant aussi,
+[00:22:46.610 --> 00:22:49.090] le coup du « les suffragettes ont posé des bombes ».
+[00:22:49.090 --> 00:22:50.890] Parce que, figurez-vous qu'en ce moment,
+[00:22:50.890 --> 00:22:55.210] je travaille sur une très très grosse vidéo sur le sujet des incelles,
+[00:22:55.210 --> 00:22:57.970] donc aussi du masculinisme, du féminisme, etc.
+[00:22:57.970 --> 00:23:00.730] Et ce que j'ai remarqué, c'est qu'un des arguments
+[00:23:00.730 --> 00:23:03.010] qui revient extrêmement souvent chez les féministes,
+[00:23:03.010 --> 00:23:05.490] c'est de dire « Regardez, les masculinistes tuent
+[00:23:05.490 --> 00:23:08.050] alors que les féministes, elles, n'ont jamais tué ».
+[00:23:08.050 --> 00:23:11.530] Bon, ce qui est évidemment faux, et comme elle le reconnaît elle-même,
+[00:23:11.530 --> 00:23:14.890] une partie du féminisme, notamment le féminisme américain,
+[00:23:14.890 --> 00:23:16.410] s'est imposée par la violence.
+[00:23:16.450 --> 00:23:19.090] Bon, en vérité, en France, le droit de vote des femmes
+[00:23:19.090 --> 00:23:21.170] n'est pas tellement issu de luttes violentes,
+[00:23:21.170 --> 00:23:22.610] mais enfin bon, c'est un autre débat.
+[00:23:22.610 --> 00:23:25.690] Après, soyons très clairs, la situation catastrophique
+[00:23:25.690 --> 00:23:27.690] de l'éducation nationale, etc.
+[00:23:27.690 --> 00:23:30.450] c'est aussi la conséquence directe de mai 68.
+[00:23:30.450 --> 00:23:34.130] Mai 68, ça a consisté à promettre à des gosses
+[00:23:34.130 --> 00:23:35.730] qui pouvaient avoir des défis faciles,
+[00:23:35.730 --> 00:23:37.850] prendre de la drogue et écouter du rock'n'roll.
+[00:23:37.850 --> 00:23:39.490] Evidemment, tout le monde aurait signé.
+[00:23:39.490 --> 00:23:42.130] Mais concrètement, l'avancée des droits des femmes,
+[00:23:42.130 --> 00:23:44.650] la liberté sexuelle, etc. de ces années-là,
+[00:23:44.650 --> 00:23:46.970] elle est avant tout due à des progrès techniques,
+[00:23:46.970 --> 00:23:48.170] à des progrès scientifiques,
+[00:23:48.170 --> 00:23:49.970] et notamment à l'invention de la pilule,
+[00:23:49.970 --> 00:23:52.850] mais aussi à la libéralisation du marché du travail
+[00:23:52.850 --> 00:23:55.250] et surtout à la tertiarisation
+[00:23:55.250 --> 00:23:59.090] qui a permis l'arrivée massive des femmes dans le monde du travail.
+[00:23:59.090 --> 00:24:01.650] Je sais que ça c'est un truc que les gauchistes détestent entendre,
+[00:24:01.650 --> 00:24:04.450] mais c'est le capitalisme qui a été
+[00:24:04.450 --> 00:24:07.330] l'outil le plus efficace de l'émancipation des femmes.
+[00:24:07.330 --> 00:24:09.530] Et là, tout ce qu'on se bouffe aujourd'hui,
+[00:24:09.530 --> 00:24:12.970] la destruction de l'autorité, l'incompétence de l'État,
+[00:24:12.970 --> 00:24:16.330] la chute du niveau scolaire, les communautarisations,
+[00:24:16.330 --> 00:24:21.650] tout ça, ce sont des conséquences directes de l'idéologie de 68.
+[00:24:21.650 --> 00:24:25.410] Et ça, c'est quasiment impossible à faire comprendre aux boomers,
+[00:24:25.410 --> 00:24:27.690] parce que pour eux, 68, c'est une religion.
+[00:24:27.690 --> 00:24:31.210] Remettre en question 68, pour eux, c'est du blasphème.
+[00:24:31.210 --> 00:24:32.050] C'est impossible.
+[00:24:32.050 --> 00:24:34.970] Même leur faire reconnaître que ça n'a pu ne pas avoir
+[00:24:34.970 --> 00:24:39.130] que des conséquences positives, c'est quasiment impossible.
+[00:24:39.130 --> 00:24:42.250] Parce qu'en plus, pour eux, ça rentre dans une continuité historique
+[00:24:42.250 --> 00:24:44.450] avec la révolution française, etc.
+[00:24:44.450 --> 00:24:47.210] Donc ils se sont créés un mythe autour de ça,
+[00:24:47.210 --> 00:24:49.450] un mythe qui les plaçait un petit peu en héros,
+[00:24:49.450 --> 00:24:51.770] en participant à cette révolution.
+[00:24:51.770 --> 00:24:54.370] Alors que bon, soyons clairs, encore une fois, je le répète,
+[00:24:54.370 --> 00:24:56.970] toutes les avancées entre guillemets de 68,
+[00:24:56.970 --> 00:24:59.650] elles auraient été acquises de toute manière,
+[00:24:59.650 --> 00:25:04.450] puisqu'elles sont avant tout dues à des progrès techniques et scientifiques.
+[00:25:04.450 --> 00:25:08.130] Et c'est ça, la grande trahison et la plus grande stupidité de la gauche,
+[00:25:08.130 --> 00:25:11.450] c'est que aujourd'hui, alors que la France a été
+[00:25:11.450 --> 00:25:13.970] un des bastions de la science et du progrès,
+[00:25:13.970 --> 00:25:16.370] aujourd'hui, regardez à quoi est-ce qu'on perd notre temps
+[00:25:16.370 --> 00:25:19.970] et notre argent et notre énergie à commenter et à combattre
+[00:25:19.970 --> 00:25:23.930] des stupidités et des destructions commises par des débiles profonds.
+[00:25:23.930 --> 00:25:26.530] Ces gens, à travers leurs combats stupides,
+[00:25:26.530 --> 00:25:28.850] ne font que ralentir le progrès.
+[00:25:28.850 --> 00:25:31.010] Mais enfin, moi, personnellement, je n'en peux plus.
+[00:25:31.010 --> 00:25:33.810] Qu'on me parle de 68 comme d'un truc
+[00:25:33.810 --> 00:25:35.330] duquel on devrait être redevable.
+[00:25:35.370 --> 00:25:37.970] Non, tous les problèmes qu'on a aujourd'hui,
+[00:25:37.970 --> 00:25:41.010] ce sont des conséquences directes de 68,
+[00:25:41.010 --> 00:25:45.290] et notamment la gauchisation totale des universités et l'éducation nationale,
+[00:25:45.290 --> 00:25:48.450] et la mise en pratique du fameux interdit d'interdire,
+[00:25:48.450 --> 00:25:51.250] de l'imagination au pouvoir et autres conneries du genre.
+[00:25:52.250 --> 00:25:54.530] Je vais vous donner un autre exemple.
+[00:25:54.530 --> 00:25:56.090] En fait, vous avez le droit de vote.
+[00:25:56.090 --> 00:25:57.890] Ce qu'on fait, c'est que les extrêmes voient plus.
+[00:25:57.890 --> 00:25:59.650] Moi, je pense que c'est l'extrême droite qui va passer
+[00:25:59.650 --> 00:26:01.930] et que du coup, il y aura ce chaos régulièrement dans la rue.
+[00:26:01.930 --> 00:26:03.850] Et si ça, c'est votre politique, je vous remercie.
+[00:26:04.570 --> 00:26:07.330] Voilà, donc je vous avais dit, c'est vraiment une vraie gauchiste
+[00:26:07.330 --> 00:26:10.330] qui est en train de prévenir que, à cause de ses débilités,
+[00:26:10.330 --> 00:26:12.770] c'est l'extrême droite qui va gagner.
+[00:26:12.770 --> 00:26:14.730] Mais enfin, mais évidemment, enfin bon,
+[00:26:14.730 --> 00:26:16.690] si on peut appeler le RN l'extrême droite,
+[00:26:16.690 --> 00:26:18.970] mais enfin, mais évidemment que là,
+[00:26:19.010 --> 00:26:22.690] ces imbéciles ont donné la victoire à leurs adversaires.
+[00:26:22.690 --> 00:26:25.370] Et dans un sens, c'est vrai qu'on peut les remercier quelque part.
+[00:26:45.210 --> 00:26:47.290] Voilà, vous voyez, elle en parle déjà au passé.
+[00:26:47.290 --> 00:26:49.290] J'étais du côté des progressistes.
+[00:26:49.290 --> 00:26:51.170] Mais enfin, oui, en tout cas, elle a raison.
+[00:26:51.170 --> 00:26:53.170] Les racailles qui ont commis ces destructions,
+[00:26:53.170 --> 00:26:54.970] ils s'en foutent complètement de ce mouvement
+[00:26:54.970 --> 00:26:57.770] parce que de toute façon, ce n'est pas leur pays.
+[00:26:57.770 --> 00:26:59.490] Ils ne se sentent pas chez eux.
+[00:26:59.490 --> 00:27:03.050] Ils estiment avoir aucun compte à rendre, aucun devoir envers la France.
+[00:27:03.050 --> 00:27:04.610] Ils haïssent ce pays.
+[00:27:04.610 --> 00:27:06.850] Mais enfin, effectivement, chez les gens de gauche,
+[00:27:06.850 --> 00:27:09.370] voire les boomers post 68 arts,
+[00:27:09.370 --> 00:27:10.890] ça, c'est un truc qu'on entend souvent,
+[00:27:10.890 --> 00:27:14.410] que les changements politiques ont toujours été le fait de minorités agissantes.
+[00:27:14.450 --> 00:27:20.290] Et souvent, ils rajoutent aussi que c'est la jeunesse qui change le monde, etc.
+[00:27:20.290 --> 00:27:22.770] que c'est la jeunesse qui fait la révolution, blablabla.
+[00:27:22.770 --> 00:27:24.410] Enfin, évidemment, parce que la jeunesse,
+[00:27:24.410 --> 00:27:28.330] c'est ce qu'il y a de très loin de plus facile à manipuler.
+[00:27:28.330 --> 00:27:32.810] Dans 95% des cas, ils ont une idée très vague de ce qu'ils sont en train de défendre.
+[00:27:32.810 --> 00:27:34.810] Et j'en parle d'ailleurs en toute connaissance de cause,
+[00:27:34.810 --> 00:27:36.770] parce que moi, j'étais pareil au lycée
+[00:27:36.770 --> 00:27:39.130] et presque tout le monde autour de moi était comme moi.
+[00:27:39.130 --> 00:27:42.210] Si on participait à des blocus, des grèves ou des choses comme ça,
+[00:27:42.210 --> 00:27:43.530] c'était pour pas aller en cours.
+[00:27:43.530 --> 00:27:44.570] C'était pour s'amuser.
+[00:27:44.570 --> 00:27:48.330] On répétait comme ça un peu mollement des éléments de langage avec l'extrême droite,
+[00:27:48.330 --> 00:27:49.530] des choses comme ça, mais c'est tout.
+[00:27:49.530 --> 00:27:53.890] Manipuler la jeunesse en jouant sur ses bas instincts,
+[00:27:53.890 --> 00:27:57.730] sur sa paresse, son envie des révoltes, de violence, etc.
+[00:27:57.730 --> 00:28:00.370] c'est vraiment ce qu'il y a de plus simple au monde.
+[00:28:01.530 --> 00:28:02.690] Je peux finir ma phrase ?
+[00:28:02.690 --> 00:28:04.130] Ben non, mais non !
+[00:28:04.130 --> 00:28:06.090] Vous m'écoutez pas, écoutez-moi.
+[00:28:06.090 --> 00:28:09.170] Les mecs hier qui priaient et à qui on disait vous desserrez le mouvement,
+[00:28:09.170 --> 00:28:11.970] ils s'en foutaient, ils s'en foutaient, ils sont pas de votre côté en fait.
+[00:28:11.970 --> 00:28:14.770] Vous me rendez pas compte, ils étaient là pour le chaos, ils étaient des milliers.
+[00:28:14.770 --> 00:28:15.970] C'est pas grave, c'est tout.
+[00:28:15.970 --> 00:28:16.970] Ok, bon merci.
+[00:28:17.530 --> 00:28:19.410] Voilà, c'est pas grave, de toute façon.
+[00:28:19.410 --> 00:28:20.930] Ce sont des dommages collatéraux.
+[00:28:20.930 --> 00:28:22.890] Et de toute façon, ces jeunes qui détruisent,
+[00:28:22.890 --> 00:28:27.370] c'est simplement le bras armé des bobos éléfistes.
+[00:28:27.370 --> 00:28:29.370] C'est tout, c'est rien d'autre que ça.
+[00:28:29.370 --> 00:28:31.770] C'est leur chair à canon, rien d'autre.
+[00:28:31.770 --> 00:28:33.730] Cette vidéo est extraordinaire.
+[00:28:33.730 --> 00:28:37.810] On remercie Brut, c'est quand même rare, mais là ils ont vraiment fait le travail.
+[00:28:37.810 --> 00:28:40.610] Ils nous ont vraiment proposé un document de qualité,
+[00:28:40.610 --> 00:28:41.890] quelque chose de précieux.
+[00:28:41.890 --> 00:28:42.810] Et donc merci à eux.
+[00:28:42.810 --> 00:28:45.330] Ensuite, bon, ça tourne énormément en rond.
+[00:28:45.330 --> 00:28:47.530] Donc on va s'arrêter là et je vous dis à la prochaine.

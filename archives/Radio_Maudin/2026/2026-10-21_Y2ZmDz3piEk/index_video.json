@@ -1,0 +1,357 @@
+{
+  "arguments_positions": [
+    {
+      "position": "Qualifier le préjudice subi de dommage collatéral minimise une victime au nom d'un récit politique",
+      "horodatages": [
+        "00:03:00",
+        "00:21:00"
+      ]
+    },
+    {
+      "position": "La gauche et l'extrême gauche appliqueraient des critères différents selon les auteurs des violences",
+      "horodatages": [
+        "00:10:01",
+        "00:22:00"
+      ]
+    },
+    {
+      "position": "Les pillages ne peuvent être justifiés par une référence abstraite à la révolution ou à l'anticapitalisme",
+      "horodatages": [
+        "00:20:01",
+        "00:24:01"
+      ]
+    },
+    {
+      "position": "L'État devrait exercer son autorité tout en distinguant maintien de l'ordre et justification politique",
+      "horodatages": [
+        "00:13:01",
+        "00:14:03"
+      ]
+    },
+    {
+      "position": "Le supposé virage à droite est l'interprétation du vidéaste d'une rupture avec certains discours de gauche",
+      "horodatages": [
+        "00:04:03",
+        "00:25:04"
+      ]
+    }
+  ],
+  "citations_exactes": [
+    {
+      "texte": "C'est un dommage collatéral.",
+      "horodatage": "00:21:00"
+    },
+    {
+      "texte": "Je peux finir ma phrase ?",
+      "horodatage": "00:28:01"
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "dommage collatéral",
+      "description": "Formule contestée lorsqu'elle est appliquée aux victimes des pillages",
+      "horodatages": [
+        "00:03:00",
+        "00:21:00"
+      ]
+    },
+    {
+      "nom": "violence légitime de l'État",
+      "description": "Question de la capacité étatique à maintenir l'ordre",
+      "horodatages": [
+        "00:13:01"
+      ]
+    },
+    {
+      "nom": "révolution",
+      "description": "Argument mobilisé pour présenter la violence comme inévitable",
+      "horodatages": [
+        "00:20:01"
+      ]
+    },
+    {
+      "nom": "double standard politique",
+      "description": "Traitement différent des violences selon leurs auteurs supposés",
+      "horodatages": [
+        "00:10:01"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "17 octobre 2026",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    },
+    {
+      "nom": "17 octobre 1961",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:15:00"
+      ]
+    },
+    {
+      "nom": "guerre d'Algérie",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:15:00"
+      ]
+    },
+    {
+      "nom": "mouvement des Gilets jaunes",
+      "niveau": "mention",
+      "horodatages": [
+        "00:11:00"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "gauchiste à droite",
+      "horodatages": [
+        "00:04:03"
+      ]
+    },
+    {
+      "expression": "victimes sacrifiées au récit révolutionnaire",
+      "horodatages": [
+        "00:21:00"
+      ]
+    },
+    {
+      "expression": "critique du deux poids deux mesures",
+      "horodatages": [
+        "00:10:01"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:15:00",
+        "00:27:03"
+      ]
+    },
+    {
+      "nom": "Algérie",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:15:00"
+      ]
+    },
+    {
+      "nom": "banlieues françaises",
+      "niveau": "mention",
+      "horodatages": [
+        "00:06:01"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "17 octobre",
+    "pillages",
+    "gauche",
+    "extrême gauche",
+    "dommage collatéral",
+    "révolution",
+    "Gilets jaunes",
+    "agriculteurs",
+    "État",
+    "FLN",
+    "MNA",
+    "capitalisme",
+    "féminisme"
+  ],
+  "organismes": [
+    {
+      "nom": "FLN",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:16:00"
+      ]
+    },
+    {
+      "nom": "MNA",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:16:00"
+      ]
+    },
+    {
+      "nom": "État français",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:13:01"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Maudin",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:00:00"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "qualification de dommage collatéral",
+      "relation": "minimise selon le vidéaste",
+      "cible": "préjudice individuel",
+      "horodatages": [
+        "00:03:00"
+      ]
+    },
+    {
+      "source": "récit révolutionnaire",
+      "relation": "est utilisé pour excuser selon le vidéaste",
+      "cible": "pillages",
+      "horodatages": [
+        "00:20:01"
+      ]
+    },
+    {
+      "source": "17 octobre 1961",
+      "relation": "sert de digression historique à",
+      "cible": "débat sur le 17 octobre 2026",
+      "horodatages": [
+        "00:15:00"
+      ]
+    },
+    {
+      "source": "capitalisme",
+      "relation": "est présenté par l'interlocutrice comme cause",
+      "cible": "violences et pillages",
+      "horodatages": [
+        "00:24:01"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:04:03",
+      "titre": "Présentation du débat et dommage collatéral"
+    },
+    {
+      "debut": "00:04:03",
+      "fin": "00:10:01",
+      "titre": "Expérience sociale et établissements de banlieue"
+    },
+    {
+      "debut": "00:10:01",
+      "fin": "00:15:00",
+      "titre": "Gauche, Gilets jaunes et autorité de l'État"
+    },
+    {
+      "debut": "00:15:00",
+      "fin": "00:18:01",
+      "titre": "Digression sur le 17 octobre 1961"
+    },
+    {
+      "debut": "00:18:01",
+      "fin": "00:24:01",
+      "titre": "Révolution, victimes et pillages"
+    },
+    {
+      "debut": "00:24:01",
+      "fin": "00:28:52",
+      "titre": "Capitalisme et conclusion polémique"
+    }
+  ],
+  "resume_general": "Radio Maudin commente un débat sur les pillages du 17 octobre et critique leur justification comme dommages collatéraux d'une lutte politique. Il interprète la rupture d'une participante avec ces arguments comme un virage à droite, compare le traitement des Gilets jaunes et propose une digression sur le 17 octobre 1961.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "conditions dans les lycées de banlieue",
+      "horodatages": [
+        "00:06:01",
+        "00:07:03"
+      ]
+    },
+    {
+      "sujet": "traitement politique des Gilets jaunes et agriculteurs",
+      "horodatages": [
+        "00:11:00"
+      ]
+    },
+    {
+      "sujet": "rivalité FLN-MNA",
+      "horodatages": [
+        "00:16:00"
+      ]
+    },
+    {
+      "sujet": "discours féministes identitaires",
+      "horodatages": [
+        "00:23:00"
+      ]
+    },
+    {
+      "sujet": "capitalisme comme explication des violences",
+      "horodatages": [
+        "00:24:01"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "justification politique des pillages",
+      "horodatages": [
+        "00:03:00",
+        "00:20:01"
+      ]
+    },
+    {
+      "theme": "évolution idéologique d'une participante",
+      "horodatages": [
+        "00:04:03",
+        "00:14:03"
+      ]
+    },
+    {
+      "theme": "critique de la gauche et de l'extrême gauche",
+      "horodatages": [
+        "00:10:01",
+        "00:25:04"
+      ]
+    },
+    {
+      "theme": "autorité et violence de l'État",
+      "horodatages": [
+        "00:13:01"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "pillages",
+      "variantes": [
+        "violences",
+        "dommages",
+        "casse"
+      ]
+    },
+    {
+      "canonique": "gauche",
+      "variantes": [
+        "gauchiste",
+        "extrême gauche"
+      ]
+    },
+    {
+      "canonique": "17 octobre 1961",
+      "variantes": [
+        "guerre d'Algérie",
+        "FLN",
+        "MNA"
+      ]
+    }
+  ],
+  "video_id": "Y2ZmDz3piEk"
+}
