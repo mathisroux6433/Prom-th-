@@ -54,6 +54,9 @@ promethe regenerer-index ID_YOUTUBE
 promethe regenerer-index ID_YOUTUBE --importer reponse_index.json
 ```
 
+La commande `playlist` accepte aussi une URL YouTube de type `watch?v=VIDEO&list=PLAYLIST` :
+Prométhé en extrait automatiquement l'identifiant de playlist.
+
 ### Repli automatique lorsque YouTube bloque le téléchargement
 
 Les commandes `traiter`, `reprendre`, `lot` et `playlist` essaient d'abord l'accès normal. Si YouTube

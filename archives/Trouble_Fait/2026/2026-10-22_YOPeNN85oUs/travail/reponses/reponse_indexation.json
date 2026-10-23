@@ -1,0 +1,104 @@
+{
+  "arguments_positions": [
+    {"position": "Le cadrage médiatique et social centré sur les pillages invisibilise les cortèges pacifiques et leurs motifs.", "horodatages": ["00:01:22", "00:05:21"]},
+    {"position": "Les participants expriment des difficultés légitimes mais ne les transforment pas en revendications précises et communes.", "horodatages": ["00:03:45", "00:15:13", "00:46:51"]},
+    {"position": "Sans objectif mesurable, organisation et critère de victoire, le mouvement ne peut construire un rapport de force durable.", "horodatages": ["00:47:06", "00:50:48"]},
+    {"position": "Le RIC avait fourni aux Gilets jaunes une revendication institutionnelle transversale qui manque au mouvement décrit.", "horodatages": ["00:47:11", "00:47:53"]},
+    {"position": "La perte de souveraineté économique liée à la mondialisation et à l'Union européenne limiterait la capacité des gouvernements français à répondre.", "horodatages": ["00:17:06", "00:54:19"]},
+    {"position": "La focalisation sur la violence, la répression et la récupération politique décourage les manifestants pacifiques.", "horodatages": ["00:36:57", "00:43:34", "00:46:18"]},
+    {"position": "Le redressement du niveau de vie supposerait productivité, industrie, robotique et production plutôt que décroissance.", "horodatages": ["00:55:27", "00:55:45"]}
+  ],
+  "citations_exactes": [
+    {"texte": "Il n'y a pas le début d'une revendication et d'une solution.", "horodatage": "00:47:06"},
+    {"texte": "Ils ne sont pas là pour décider.", "horodatage": "00:47:29"},
+    {"texte": "Le seul moyen d'augmenter le niveau de vie de la population, c'est d'augmenter la productivité.", "horodatage": "00:55:45"},
+    {"texte": "Il s'agit de produire plus, plus vite, plus efficacement.", "horodatage": "00:55:52"}
+  ],
+  "concepts": [
+    {"nom": "cadrage médiatique", "description": "Sélection d'images de violences au détriment des revendications", "horodatages": ["00:01:30", "00:05:21"]},
+    {"nom": "revendication", "description": "Demande concrète distinguée du simple constat d'un problème", "horodatages": ["00:15:13", "00:51:36"]},
+    {"nom": "rapport de force politique", "description": "Capacité d'un mouvement structuré à imposer un sujet et un résultat", "horodatages": ["00:48:27"]},
+    {"nom": "souveraineté populaire", "description": "Participation directe à la décision, associée au RIC", "horodatages": ["00:47:13"]},
+    {"nom": "mondialisation", "description": "Cadre économique auquel l'auteur attribue concurrence, importations et impuissance nationale", "horodatages": ["00:07:23", "00:17:06"]},
+    {"nom": "productivité", "description": "Production plus abondante et efficace présentée comme condition du niveau de vie", "horodatages": ["00:55:45"]},
+    {"nom": "décroissance", "description": "Orientation écologique critiquée par l'auteur comme contradictoire avec la hausse du niveau de vie", "horodatages": ["00:55:58"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "manifestations du 17 octobre", "niveau": "developpe", "horodatages": ["00:01:22", "00:02:19", "00:36:57"]},
+    {"nom": "mouvement des Gilets jaunes", "niveau": "developpe", "horodatages": ["00:01:44", "00:04:35", "00:47:11"]},
+    {"nom": "CPE", "niveau": "mention", "horodatages": ["00:04:59"]},
+    {"nom": "élection présidentielle de 2027", "niveau": "mention", "horodatages": ["00:48:13", "00:55:04"]},
+    {"nom": "référendum d'initiative citoyenne (RIC)", "niveau": "developpe", "horodatages": ["00:47:13"]}
+  ],
+  "expressions_representatives": [
+    {"expression": "invisibilisation des revendications", "horodatages": ["00:05:41"]},
+    {"expression": "agrégation de constats sans solution", "horodatages": ["00:46:51", "00:52:11"]},
+    {"expression": "instrumentalisation de la colère", "horodatages": ["00:48:30"]},
+    {"expression": "dérive autoritaire du maintien de l'ordre", "horodatages": ["00:36:57"]},
+    {"expression": "urgence sociale face aux contraintes structurelles", "horodatages": ["00:52:44", "00:54:10"]}
+  ],
+  "lieux_periodes": [
+    {"nom": "France", "niveau": "developpe", "horodatages": ["00:02:28", "00:53:02"]},
+    {"nom": "Paris, secteur des Halles", "niveau": "mention", "horodatages": ["00:45:28"]},
+    {"nom": "Poitiers", "niveau": "mention", "horodatages": ["00:36:57"]},
+    {"nom": "Toulouse", "niveau": "mention", "horodatages": ["00:03:00"]},
+    {"nom": "17 octobre 2026", "niveau": "developpe", "horodatages": ["00:01:22", "00:02:19"]}
+  ],
+  "mots_cles": ["manifestation", "revendications", "pillages", "violences policières", "maintien de l'ordre", "médias", "réseaux sociaux", "Gilets jaunes", "RIC", "lycéens", "pouvoir d'achat", "logement", "santé", "numerus clausus", "mondialisation", "Union européenne", "euro", "désindustrialisation", "productivité", "décroissance", "réindustrialisation", "instrumentalisation politique", "2027"],
+  "organismes": [
+    {"nom": "CRS", "niveau": "developpe", "horodatages": ["00:05:23", "00:46:37"]},
+    {"nom": "Union européenne", "niveau": "developpe", "horodatages": ["00:50:00", "00:54:23"]},
+    {"nom": "UPR", "niveau": "mention", "horodatages": ["00:08:49"]},
+    {"nom": "Le Monde", "niveau": "mention", "horodatages": ["00:36:57"]},
+    {"nom": "Brut", "niveau": "mention", "horodatages": ["00:06:07"]},
+    {"nom": "Parti socialiste", "niveau": "mention", "horodatages": ["00:49:03"]},
+    {"nom": "Les Écologistes", "niveau": "mention", "horodatages": ["00:49:03"]}
+  ],
+  "personnes": [
+    {"nom": "Emmanuel Macron", "niveau": "developpe", "horodatages": ["00:04:29", "00:54:41"]},
+    {"nom": "Marine Le Pen", "niveau": "mention", "horodatages": ["00:08:26"]},
+    {"nom": "Usul", "niveau": "mention", "horodatages": ["00:46:28"]}
+  ],
+  "relations_documentaires": [
+    {"source": "pillages et affrontements", "relation": "produisent", "cible": "cadrage médiatique dominant", "horodatages": ["00:01:30", "00:05:21"]},
+    {"source": "pluralité des difficultés", "relation": "ne se transforme pas en", "cible": "revendication commune", "horodatages": ["00:04:55", "00:46:51"]},
+    {"source": "absence de structure", "relation": "favorise", "cible": "essoufflement et récupération politique", "horodatages": ["00:48:04", "00:50:48"]},
+    {"source": "désindustrialisation", "relation": "réduit selon l'auteur", "cible": "marges de redistribution et niveau de vie", "horodatages": ["00:54:26", "00:55:32"]},
+    {"source": "rénovation thermique", "relation": "est présentée comme réponse inadéquate à", "cible": "insalubrité et températures des lycées", "horodatages": ["00:48:47", "00:50:07"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:00", "fin": "00:03:17", "titre": "Introduction et invisibilisation des manifestations pacifiques"},
+    {"debut": "00:03:17", "fin": "00:15:13", "titre": "Témoignages et inventaire des motifs de colère"},
+    {"debut": "00:15:13", "fin": "00:17:06", "titre": "Problème de la dispersion des revendications"},
+    {"debut": "00:17:06", "fin": "00:36:57", "titre": "Origines économiques et blocages politiques selon l'auteur"},
+    {"debut": "00:36:57", "fin": "00:43:34", "titre": "Maintien de l'ordre et risque autoritaire"},
+    {"debut": "00:43:34", "fin": "00:51:32", "titre": "Pourquoi l'auteur juge la manifestation inefficace"},
+    {"debut": "00:51:32", "fin": "00:57:02", "titre": "Urgence sociale, rupture structurelle et productivité"}
+  ],
+  "resume_general": "Trouble Fait analyse les manifestations du 17 octobre. L'auteur estime que les pillages ont masqué les cortèges pacifiques, mais aussi que les nombreux motifs de colère restent des constats sans objectif commun. Il relie cette faiblesse à l'instrumentalisation politique, à la répression et à une impuissance nationale qu'il attribue à la mondialisation et à l'Union européenne. Il oppose aux promesses immédiates une stratégie de souveraineté, réindustrialisation et productivité, tout en reconnaissant qu'une rupture aurait d'abord un coût social.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {"sujet": "sélection des étudiants en médecine et pénurie de soignants", "horodatages": ["00:06:52", "00:07:46"]},
+    {"sujet": "handicap et insuffisance des pensions", "horodatages": ["00:07:58"]},
+    {"sujet": "état matériel, chauffage et climatisation des lycées", "horodatages": ["00:06:18", "00:48:47"]},
+    {"sujet": "crise de la construction et pénurie de logements", "horodatages": ["00:53:36", "00:54:10"]},
+    {"sujet": "pauvreté, alimentation et pouvoir d'achat", "horodatages": ["00:52:49", "00:53:10"]},
+    {"sujet": "IA générative et robotique", "horodatages": ["00:55:37", "00:56:43"]},
+    {"sujet": "rénovation thermique et confort d'été", "horodatages": ["00:49:08", "00:49:54"]}
+  ],
+  "themes_principaux": [
+    {"theme": "efficacité politique des manifestations", "horodatages": ["00:03:03", "00:43:34", "00:55:00"]},
+    {"theme": "diversité et imprécision des revendications", "horodatages": ["00:03:45", "00:15:13", "00:51:36"]},
+    {"theme": "cadrage médiatique des violences et pillages", "horodatages": ["00:01:22", "00:05:21"]},
+    {"theme": "violences policières et dérive autoritaire", "horodatages": ["00:36:57", "00:45:35"]},
+    {"theme": "contraintes économiques, mondialisation et souveraineté", "horodatages": ["00:17:06", "00:54:19"]}
+  ],
+  "variantes_lexicales": [
+    {"canonique": "Gilets jaunes", "variantes": ["gilet jaune"]},
+    {"canonique": "référendum d'initiative citoyenne", "variantes": ["RIC", "démocratie directe"]},
+    {"canonique": "forces de l'ordre", "variantes": ["police", "policiers", "CRS", "forces mobiles"]},
+    {"canonique": "manifestation", "variantes": ["manif", "cortège", "mobilisation"]},
+    {"canonique": "pouvoir d'achat", "variantes": ["niveau de vie", "prix", "coût de l'énergie"]}
+  ],
+  "video_id": "YOPeNN85oUs"
+}

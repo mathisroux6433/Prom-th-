@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "video_id": "36y3dEfgvmo",
+  "updated_at": "2026-10-19T11:17:56.695312+00:00",
+  "steps": {
+    "metadata": {
+      "status": "complete",
+      "error": null
+    },
+    "download": {
+      "status": "complete",
+      "error": null,
+      "file": "audio.webm"
+    },
+    "transcription": {
+      "status": "complete",
+      "error": null,
+      "model": "medium",
+      "device": "cuda"
+    },
+    "correction": {
+      "status": "waiting_manual",
+      "error": "Correction contextuelle par agent IA requise",
+      "prompt": "requete_correction.txt"
+    },
+    "index": {
+      "status": "pending",
+      "error": null
+    },
+    "synthesis": {
+      "status": "pending",
+      "error": null
+    },
+    "quality_control": {
+      "status": "pending",
+      "error": null
+    }
+  }
+}

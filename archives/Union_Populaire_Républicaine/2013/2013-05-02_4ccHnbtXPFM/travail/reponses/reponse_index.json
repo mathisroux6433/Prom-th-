@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.1",
+  "video_id": "4ccHnbtXPFM",
+  "resume_general": "Quatrième et dernier volet de la conférence de François Asselineau. Il termine la critique des réformes sociales, soutient que l'Union européenne et l'OTAN sont juridiquement et géopolitiquement liées, défend une politique mondiale fondée sur la francophonie, récapitule les dix raisons, puis présente l'article 50 et appelle à adhérer à l'UPR.",
+  "themes_principaux": [
+    {"theme": "Retraites, syndicats et acquis sociaux", "horodatages": ["00:00:00", "00:03:45"], "position": "développé"},
+    {"theme": "UE, OTAN, guerres et politique étrangère", "horodatages": ["00:03:39", "00:26:17"], "position": "développé"},
+    {"theme": "Francophonie et coopérations mondiales", "horodatages": ["00:26:24", "00:42:25"], "position": "développé"},
+    {"theme": "Récapitulation des dix raisons de sortir de l'UE", "horodatages": ["00:42:25", "00:47:23"], "position": "développé"},
+    {"theme": "Article 50 du TUE et programme de l'UPR", "horodatages": ["00:47:23", "00:58:41"], "position": "développé"}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Confédération européenne des syndicats et manifestations nationales", "horodatages": ["00:00:00", "00:03:45"]},
+    {"sujet": "Guerres d'Irak, Afghanistan, Libye et Syrie", "horodatages": ["00:05:32", "00:10:42"]},
+    {"sujet": "Article 42 du TUE et subordination de la défense européenne à l'OTAN", "horodatages": ["00:10:42", "00:18:13"]},
+    {"sujet": "Charte de l'ONU et égalité souveraine des États", "horodatages": ["00:15:12", "00:17:06"]},
+    {"sujet": "Élargissement conjoint de l'OTAN et de l'UE vers l'Est", "horodatages": ["00:12:29", "00:20:13"]},
+    {"sujet": "Budget européen comparé à l'aide au développement", "horodatages": ["00:32:36", "00:36:32"]},
+    {"sujet": "Commonwealth, lusophonie, hispanophonie et francophonie", "horodatages": ["00:37:23", "00:42:25"]},
+    {"sujet": "Procédure de retrait et négociation selon l'article 50", "horodatages": ["00:47:23", "00:49:23"]},
+    {"sujet": "Histoire, recrutement et parrainages présidentiels de l'UPR", "horodatages": ["00:51:06", "00:58:41"]}
+  ],
+  "mots_cles": ["retraites", "acquis sociaux", "OTAN", "article 42 TUE", "ONU", "Charte des Nations unies", "Irak", "Afghanistan", "Libye", "Syrie", "Villepin", "De Gaulle", "francophonie", "Commonwealth", "lusophonie", "aide au développement", "article 50 TUE", "sortie de l'euro", "sortie de l'Union européenne", "UPR", "adhésion", "500 parrainages"],
+  "variantes_lexicales": [
+    {"forme": "Alliance atlantique", "equivalent": "OTAN"},
+    {"forme": "PESC / politique étrangère et de sécurité commune", "equivalent": "politique extérieure de l'Union européenne"},
+    {"forme": "retrait / sortie / dénonciation des traités", "equivalent": "procédure de sortie de l'Union européenne"},
+    {"forme": "monde francophone", "equivalent": "francophonie"},
+    {"forme": "libération nationale", "equivalent": "programme politique de sortie UE-euro-OTAN de l'UPR"}
+  ],
+  "personnes": [
+    {"nom": "François Asselineau", "niveau": "developpe", "role": "conférencier et fondateur de l'UPR", "horodatages": ["00:00:00", "00:58:41"]},
+    {"nom": "Dominique de Villepin", "niveau": "developpe", "role": "discours à l'ONU contre la guerre d'Irak", "horodatages": ["00:05:59", "00:25:07"]},
+    {"nom": "Charles de Gaulle", "niveau": "developpe", "role": "sortie du commandement intégré de l'OTAN et politique d'indépendance", "horodatages": ["00:13:01", "00:25:49"]},
+    {"nom": "George W. Bush", "niveau": "developpe", "role": "élargissement OTAN-UE vers l'Est selon l'orateur", "horodatages": ["00:12:29", "00:13:01"]},
+    {"nom": "Jean-Luc Mélenchon", "niveau": "mention", "role": "position sortie OTAN mais maintien UE contestée", "horodatages": ["00:18:13", "00:18:40"]},
+    {"nom": "David Cameron", "niveau": "mention", "role": "projet de référendum britannique sur l'UE", "horodatages": ["00:18:40"]},
+    {"nom": "Nicolas Sarkozy", "niveau": "mention", "role": "retour dans le commandement intégré et sommet francophone", "horodatages": ["00:21:21", "00:39:24"]}
+  ],
+  "organismes": [
+    {"nom": "Organisation du traité de l'Atlantique Nord", "niveau": "developpe", "role": "alliance militaire critiquée", "horodatages": ["00:05:32", "00:26:17"]},
+    {"nom": "Organisation des Nations unies", "niveau": "developpe", "role": "cadre de légalité internationale défendu", "horodatages": ["00:15:12", "00:17:06"]},
+    {"nom": "Union européenne", "niveau": "developpe", "role": "objet du plaidoyer de sortie"},
+    {"nom": "Confédération européenne des syndicats", "niveau": "developpe", "role": "organisation syndicale critiquée", "horodatages": ["00:00:36", "00:03:39"]},
+    {"nom": "Commonwealth", "niveau": "developpe", "role": "modèle de coopération non supranationale", "horodatages": ["00:37:23", "00:41:48"]},
+    {"nom": "Organisation internationale de la Francophonie", "niveau": "developpe", "role": "espace de coopération privilégié", "horodatages": ["00:39:24", "00:46:04"]},
+    {"nom": "Union populaire républicaine", "niveau": "developpe", "role": "mouvement politique promu", "horodatages": ["00:46:43", "00:58:41"]}
+  ],
+  "concepts": [
+    {"concept": "indépendance géostratégique", "definition_contextuelle": "politique étrangère française autonome de l'OTAN et de l'UE", "horodatages": ["00:10:42", "00:26:17"]},
+    {"concept": "légalité internationale", "definition_contextuelle": "recours à la Charte de l'ONU et au mandat du Conseil de sécurité", "horodatages": ["00:15:12", "00:17:06"]},
+    {"concept": "coopération linguistique mondiale", "definition_contextuelle": "association volontaire de pays sans fusion supranationale", "horodatages": ["00:37:23", "00:42:25"]},
+    {"concept": "article 50", "definition_contextuelle": "procédure de retrait assortie d'une négociation", "horodatages": ["00:47:23", "00:49:23"]},
+    {"concept": "cohérence du programme", "definition_contextuelle": "sorties conjointes de l'UE, de l'euro et de l'OTAN", "horodatages": ["00:21:33", "00:25:49"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Guerre d'Irak", "date": "2003", "niveau": "developpe", "horodatages": ["00:05:32", "00:06:30"]},
+    {"nom": "Discours de Dominique de Villepin à l'ONU", "date": "2003", "niveau": "developpe", "horodatages": ["00:05:59", "00:25:07"]},
+    {"nom": "Sortie française du commandement militaire intégré de l'OTAN", "date": "1966", "niveau": "developpe", "horodatages": ["00:13:01", "00:14:50"]},
+    {"nom": "Article 42 du TUE", "niveau": "developpe", "horodatages": ["00:10:42", "00:26:17"]},
+    {"nom": "Article 50 du TUE", "niveau": "developpe", "horodatages": ["00:47:23", "00:49:23"]},
+    {"nom": "Élection présidentielle française", "date": "2012", "niveau": "mention", "horodatages": ["00:57:02", "00:57:28"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:00", "fin": "00:03:45", "description": "Fin de la raison n°8, retraites et acquis sociaux"},
+    {"debut": "00:03:39", "fin": "00:10:42", "description": "Guerres et critique de l'alignement occidental"},
+    {"debut": "00:10:42", "fin": "00:26:17", "description": "Raison n°9, UE et OTAN"},
+    {"debut": "00:26:24", "fin": "00:42:25", "description": "Raison n°10, francophonie et monde"},
+    {"debut": "00:42:25", "fin": "00:47:23", "description": "Récapitulation des dix raisons"},
+    {"debut": "00:47:23", "fin": "00:51:06", "description": "Article 50 et programme de sortie"},
+    {"debut": "00:51:06", "fin": "00:58:41", "description": "Appel à adhérer et histoire de l'UPR"}
+  ],
+  "expressions_representatives": ["sortir à la fois de l'UE et de l'OTAN", "vision française et francophone du monde", "communauté de langue et de culture", "procédure de négociation de l'article 50", "programme de libération nationale"],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {"position": "défendue", "argument": "Les réformes sociales nationales appliquent des orientations européennes que les syndicats ne remettent pas en cause.", "horodatages": ["00:00:00", "00:03:45"]},
+    {"position": "défendue", "argument": "L'article 42 lie la défense européenne aux obligations de l'OTAN.", "horodatages": ["00:10:42", "00:18:13"]},
+    {"position": "contestée", "argument": "La France pourrait rester dans l'Union tout en menant une politique militaire pleinement indépendante de l'OTAN.", "horodatages": ["00:18:13", "00:25:49"]},
+    {"position": "défendue", "argument": "L'ONU doit primer sur les interventions militaires décidées hors mandat international.", "horodatages": ["00:15:12", "00:17:06"]},
+    {"position": "défendue", "argument": "La francophonie ouvre la France à plusieurs continents davantage qu'une intégration limitée au voisinage européen.", "horodatages": ["00:26:24", "00:42:25"]},
+    {"position": "défendue", "argument": "L'article 50 fournit une voie juridique et négociée de retrait.", "horodatages": ["00:47:23", "00:49:23"]},
+    {"position": "rapportée", "argument": "Le dernier segment est un appel explicite à rejoindre l'UPR.", "horodatages": ["00:51:06", "00:58:41"]}
+  ],
+  "lieux_periodes": [
+    {"lieu": "Irak, Afghanistan, Libye, Syrie", "periode": "2001-2013", "contexte": "interventions et guerres critiquées"},
+    {"lieu": "Europe de l'Est et Varsovie", "periode": "2001-2005", "contexte": "élargissements OTAN-UE"},
+    {"lieu": "Kampala, Ouganda", "periode": "2007", "contexte": "sommet du Commonwealth"},
+    {"lieu": "Québec", "periode": "sommet de la francophonie cité", "contexte": "coopération francophone"}
+  ],
+  "relations_documentaires": [
+    {"type": "suite_de", "video_id": "m5chZ6fPI1A", "description": "Achève l'argument social commencé en 3/4."},
+    {"type": "conclusion", "video_ids": ["Ch5Bfe5j29A", "pPK7_iavHTs", "m5chZ6fPI1A"], "description": "Récapitule les dix raisons développées dans la série."},
+    {"type": "serie", "video_ids": ["Ch5Bfe5j29A", "pPK7_iavHTs", "m5chZ6fPI1A", "4ccHnbtXPFM"], "description": "Conférence en quatre parties."}
+  ]
+}

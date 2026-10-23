@@ -1,0 +1,4073 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 8.94,
+      "end": 16.9,
+      "start_timestamp": "00:00:08.940",
+      "end_timestamp": "00:00:16.900",
+      "text": "Le septième chapitre. Vous voyez que c'est quand même un sujet important de savoir ce que c'est que la construction européenne."
+    },
+    {
+      "id": 1,
+      "start": 16.9,
+      "end": 24.42,
+      "start_timestamp": "00:00:16.900",
+      "end_timestamp": "00:00:24.420",
+      "text": "Le septième chapitre, c'est l'indifférence méprisante devant le grand retour de la pauvreté en Europe."
+    },
+    {
+      "id": 2,
+      "start": 24.42,
+      "end": 30.14,
+      "start_timestamp": "00:00:24.420",
+      "end_timestamp": "00:00:30.140",
+      "text": "Ça, c'est l'évolution du taux de chômage dans les pays du sud de l'Europe depuis 10 ans."
+    },
+    {
+      "id": 3,
+      "start": 30.14,
+      "end": 37.3,
+      "start_timestamp": "00:00:30.140",
+      "end_timestamp": "00:00:37.300",
+      "text": "Depuis 10 ans, on avait un taux de chômage, en compris entre 7% et 11%. Il s'agit des taux de chômage officiels."
+    },
+    {
+      "id": 4,
+      "start": 37.54,
+      "end": 43.02,
+      "start_timestamp": "00:00:37.540",
+      "end_timestamp": "00:00:43.020",
+      "text": "Vous avez ici la Grèce, l'Espagne, le Portugal, la zone euro et le chômage en Italie."
+    },
+    {
+      "id": 5,
+      "start": 43.02,
+      "end": 51.46,
+      "start_timestamp": "00:00:43.020",
+      "end_timestamp": "00:00:51.460",
+      "text": "Vous voyez que c'était à peu près jusqu'en décembre 2008. Depuis décembre 2008, c'est l'augmentation par exponentielle,"
+    },
+    {
+      "id": 6,
+      "start": 51.46,
+      "end": 63.1,
+      "start_timestamp": "00:00:51.460",
+      "end_timestamp": "00:01:03.100",
+      "text": "mais extraordinaire, du taux de chômage qui ne cesse que de grimper. De grimper encore, ici, c'est le taux de chômage de la Grèce qui a atteint 28%."
+    },
+    {
+      "id": 7,
+      "start": 63.14,
+      "end": 69.74,
+      "start_timestamp": "00:01:03.140",
+      "end_timestamp": "00:01:09.740",
+      "text": "D'après les toutes dernières données, 64% des Grecs de moins de 25 ans sont au chômage."
+    },
+    {
+      "id": 8,
+      "start": 71.06,
+      "end": 77.02,
+      "start_timestamp": "00:01:11.060",
+      "end_timestamp": "00:01:17.020",
+      "text": "64% des Grecs de moins de 25 ans sont au chômage."
+    },
+    {
+      "id": 9,
+      "start": 77.02,
+      "end": 86.21,
+      "start_timestamp": "00:01:17.020",
+      "end_timestamp": "00:01:26.210",
+      "text": "Deux tiers des jeunes de moins de 25 ans n'ont pas d'emploi en Grèce. On n'a jamais vu ça, hein ? Jamais."
+    },
+    {
+      "id": 10,
+      "start": 86.21,
+      "end": 93.41,
+      "start_timestamp": "00:01:26.210",
+      "end_timestamp": "00:01:33.410",
+      "text": "Le taux de chômage en Espagne suit le même chemin. On est à peu près à 27,5% du taux de chômage de la population générale."
+    },
+    {
+      "id": 11,
+      "start": 93.45,
+      "end": 99.01,
+      "start_timestamp": "00:01:33.450",
+      "end_timestamp": "00:01:39.010",
+      "text": "Le taux de chômage de Portugal a atteint à peu près 18%. Le taux de chômage en Italie a atteint 12%."
+    },
+    {
+      "id": 12,
+      "start": 99.01,
+      "end": 105.89,
+      "start_timestamp": "00:01:39.010",
+      "end_timestamp": "00:01:45.890",
+      "text": "En France, il vient d'atteindre un nouveau record à plus de 11%. Et le taux de chômage de la zone euro est à peu près maintenant"
+    },
+    {
+      "id": 13,
+      "start": 105.89,
+      "end": 118.37,
+      "start_timestamp": "00:01:45.890",
+      "end_timestamp": "00:01:58.370",
+      "text": "aux alentours de 13,5%. Vous voyez quand même que nous avons affaire à un phénomène historique. Un phénomène historique."
+    },
+    {
+      "id": 14,
+      "start": 118.41,
+      "end": 128.25,
+      "start_timestamp": "00:01:58.410",
+      "end_timestamp": "00:02:08.250",
+      "text": "Ça, c'est une saisie d'écran à titre d'exemple de ce que l'on voit arriver en Europe. C'était le 27 août 2012 sur le site du journal Le Monde."
+    },
+    {
+      "id": 15,
+      "start": 128.25,
+      "end": 138.45,
+      "start_timestamp": "00:02:08.250",
+      "end_timestamp": "00:02:18.450",
+      "text": "Unilever se prépare à un retour de la pauvreté en Europe. C'était repris du Financial Times Deutschland, le responsable pour l'Europe de Unilever,"
+    },
+    {
+      "id": 16,
+      "start": 138.45,
+      "end": 147.25,
+      "start_timestamp": "00:02:18.450",
+      "end_timestamp": "00:02:27.250",
+      "text": "qui est donc un géant anglo-néerlandais de l'agroalimentaire et des cosmétiques. Le 27 août 2012, il a dit qu'il fallait désormais appliquer en Europe"
+    },
+    {
+      "id": 17,
+      "start": 147.25,
+      "end": 153.89,
+      "start_timestamp": "00:02:27.250",
+      "end_timestamp": "00:02:33.890",
+      "text": "les méthodes utilisées dans les pays en développement en vendant des minuscules conditionnements pour tenir compte de la montée de la grande pauvreté."
+    },
+    {
+      "id": 18,
+      "start": 153.89,
+      "end": 160.37,
+      "start_timestamp": "00:02:33.890",
+      "end_timestamp": "00:02:40.370",
+      "text": "Dixit dit « Si un Espagnol ne dépense plus en moyenne que 17 euros quand il fait les courses, je ne vais pas lui proposer un paquet de lessives"
+    },
+    {
+      "id": 19,
+      "start": 160.37,
+      "end": 166.69,
+      "start_timestamp": "00:02:40.370",
+      "end_timestamp": "00:02:46.690",
+      "text": "qui coûtent la moitié de son budget. En Indonésie, nous vendons des échantillons individuels de shampoings pour 2 à 3 centimes pièces."
+    },
+    {
+      "id": 20,
+      "start": 166.69,
+      "end": 173.93,
+      "start_timestamp": "00:02:46.690",
+      "end_timestamp": "00:02:53.930",
+      "text": "Et pourtant, nous gagnons de l'argent ». On en est là. On en est maintenant à nous donner un exemple de ce que font les grands groupes"
+    },
+    {
+      "id": 21,
+      "start": 173.93,
+      "end": 180.77,
+      "start_timestamp": "00:02:53.930",
+      "end_timestamp": "00:03:00.770",
+      "text": "pour essayer de gagner de l'argent dans des pays très pauvres en Indonésie au fin fond de Sumatra ou des Molucs."
+    },
+    {
+      "id": 22,
+      "start": 180.77,
+      "end": 186.81,
+      "start_timestamp": "00:03:00.770",
+      "end_timestamp": "00:03:06.810",
+      "text": "On voit la pauvreté s'étendre à toute allure. En Grèce, le taux de chômage a atteint non pas 25% – j'ai pas mis à jour cette planche –"
+    },
+    {
+      "id": 23,
+      "start": 186.81,
+      "end": 194.65,
+      "start_timestamp": "00:03:06.810",
+      "end_timestamp": "00:03:14.650",
+      "text": "mais a atteint de 28%. Le taux de suicide a augmenté de 50% en deux ans, notamment des personnes âgées qui se retrouvent à la fin de toute une vie"
+    },
+    {
+      "id": 24,
+      "start": 194.65,
+      "end": 201.61,
+      "start_timestamp": "00:03:14.650",
+      "end_timestamp": "00:03:21.610",
+      "text": "qui n'ont plus de retraite ou d'un seul coup, on leur surprime leur retraite. Si vous allez en Grèce, si vous êtes allé en Grèce il y a 10 ans"
+    },
+    {
+      "id": 25,
+      "start": 201.61,
+      "end": 208.33,
+      "start_timestamp": "00:03:21.610",
+      "end_timestamp": "00:03:28.330",
+      "text": "et que vous y retournez maintenant, vous verrez un pays qui est en train de sombrer dans la clochardisation généralisée."
+    },
+    {
+      "id": 26,
+      "start": 208.33,
+      "end": 219.37,
+      "start_timestamp": "00:03:28.330",
+      "end_timestamp": "00:03:39.370",
+      "text": "La pauvreté s'étendre à toute allure au Portugal. En Portugal, 150 000 Portugais ont émigré en 2011, en partie sur la suggestion du gouvernement."
+    },
+    {
+      "id": 27,
+      "start": 219.37,
+      "end": 229.33,
+      "start_timestamp": "00:03:39.370",
+      "end_timestamp": "00:03:49.330",
+      "text": "C'est dans le journal Diário de Noticias. C'était en 2011. En 2012, il y en a eu plus qui ont émigré. Il y a 10 millions d'habitants au Portugal."
+    },
+    {
+      "id": 28,
+      "start": 229.41,
+      "end": 241.41,
+      "start_timestamp": "00:03:49.410",
+      "end_timestamp": "00:04:01.410",
+      "text": "Il y a 6 fois plus d'habitants en France. À la proportion de Portugal, ça voudrait dire que 900 000 à 1 million de Français auraient quitté le pays en 2011 et encore plus en 2012."
+    },
+    {
+      "id": 29,
+      "start": 241.41,
+      "end": 251.93,
+      "start_timestamp": "00:04:01.410",
+      "end_timestamp": "00:04:11.930",
+      "text": "On aurait vidé en deux ans l'ensemble de la région Haute-Normandie ou en un an l'ensemble de la région Limousin. Il s'agit d'une catastrophe sans précédent."
+    },
+    {
+      "id": 30,
+      "start": 251.93,
+      "end": 259.45,
+      "start_timestamp": "00:04:11.930",
+      "end_timestamp": "00:04:19.450",
+      "text": "Il faut remonter peut-être au Portugal de Salazar et des années 60. Il y a d'ailleurs désormais... Où vont d'ailleurs les Portugais qui émigrent ?"
+    },
+    {
+      "id": 31,
+      "start": 259.45,
+      "end": 268.81,
+      "start_timestamp": "00:04:19.450",
+      "end_timestamp": "00:04:28.810",
+      "text": "Ils ne vont pas vers les pays de l'UE. D'abord parce qu'ils n'en ont pas envie. Deuxièmement, parce qu'il n'y a pas de travail. Troisièmement, parce qu'ils n'en parlent pas la langue."
+    },
+    {
+      "id": 32,
+      "start": 268.81,
+      "end": 278.01,
+      "start_timestamp": "00:04:28.810",
+      "end_timestamp": "00:04:38.010",
+      "text": "Quatrièmement, parce qu'ils n'y seraient pas bien accueillis. Ils vont où ? Ils vont au Brésil, en Angola, au Mozambique, c'est-à-dire dans des pays de la lusophonie,"
+    },
+    {
+      "id": 33,
+      "start": 278.01,
+      "end": 283.77,
+      "start_timestamp": "00:04:38.010",
+      "end_timestamp": "00:04:43.770",
+      "text": "des pays où l'on parle le portugais. Et qui, par exemple, comme c'est le cas de l'Angola, est un pays en pleine croissance."
+    },
+    {
+      "id": 34,
+      "start": 283.77,
+      "end": 294.21,
+      "start_timestamp": "00:04:43.770",
+      "end_timestamp": "00:04:54.210",
+      "text": "Désormais plus d'émigrés portugais en Angola que d'émigrés angolais au Portugal. La pauvreté s'étend à toute allure en Espagne."
+    },
+    {
+      "id": 35,
+      "start": 294.21,
+      "end": 303.61,
+      "start_timestamp": "00:04:54.210",
+      "end_timestamp": "00:05:03.610",
+      "text": "Cris d'alarme lancé par Caritas, Caritas International. Le nombre de demandeurs d'aide, c'était 20 septembre 2012, est passé de 370 000 personnes."
+    },
+    {
+      "id": 36,
+      "start": 303.61,
+      "end": 312.73,
+      "start_timestamp": "00:05:03.610",
+      "end_timestamp": "00:05:12.730",
+      "text": "Caritas, c'est ce qui donne à manger ou à s'habiller à des gens qui sont dans un extrême d'énumement. Des SDF ou des clochards."
+    },
+    {
+      "id": 37,
+      "start": 312.73,
+      "end": 324.37,
+      "start_timestamp": "00:05:12.730",
+      "end_timestamp": "00:05:24.370",
+      "text": "Avant la crise, 370 000 personnes se couraient par an. C'est monté à 1,15 million de personnes en 2011. Le chômage continue à progresser à des niveaux records en Espagne."
+    },
+    {
+      "id": 38,
+      "start": 324.37,
+      "end": 336.49,
+      "start_timestamp": "00:05:24.370",
+      "end_timestamp": "00:05:36.490",
+      "text": "Il y a désormais... C'est des données qui datent déjà d'il y a bientôt un an. 1,737,600 foyers en Espagne ont tous leurs membres au chômage."
+    },
+    {
+      "id": 39,
+      "start": 336.49,
+      "end": 343.29,
+      "start_timestamp": "00:05:36.490",
+      "end_timestamp": "00:05:43.290",
+      "text": "Le père, la mère et les enfants. C'est-à-dire un processus de désocialisation complète. Quand vous avez..."
+    },
+    {
+      "id": 40,
+      "start": 343.29,
+      "end": 352.61,
+      "start_timestamp": "00:05:43.290",
+      "end_timestamp": "00:05:52.610",
+      "text": "Ça veut dire qu'il y a au moins 5 à 6 millions d'Espagnols qui vivent dans des familles où tout le monde est au chômage. C'est bien pire que les années 30."
+    },
+    {
+      "id": 41,
+      "start": 352.65,
+      "end": 359.25,
+      "start_timestamp": "00:05:52.650",
+      "end_timestamp": "00:05:59.250",
+      "text": "Ce qui est en train d'arriver. La pauvreté s'étend à toute allure également en France. J'avance assez vite pour ne pas vous lasser."
+    },
+    {
+      "id": 42,
+      "start": 359.25,
+      "end": 370.05,
+      "start_timestamp": "00:05:59.250",
+      "end_timestamp": "00:06:10.050",
+      "text": "Vous montrez simplement les calculs de l'INSEE. Nous avons appris en septembre 2012 les données concernant 2010. Parce que l'INSEE est une vieille dame qui baît son temps à faire ses calculs."
+    },
+    {
+      "id": 43,
+      "start": 370.05,
+      "end": 382.57,
+      "start_timestamp": "00:06:10.050",
+      "end_timestamp": "00:06:22.570",
+      "text": "Vous voyez que nous avons eu une rupture de courbe qui est une rupture quasi séculaire. Depuis, on avait une baisse. C'est ce qu'on appelle le taux de pauvreté en jaune, le taux de grande pauvreté en rouge."
+    },
+    {
+      "id": 44,
+      "start": 382.57,
+      "end": 396.01,
+      "start_timestamp": "00:06:22.570",
+      "end_timestamp": "00:06:36.010",
+      "text": "Pauvreté, c'est 60% du salaire médian en dessous de 60%. Grande pauvreté, c'est 50% du niveau de vie médian. Vous voyez qu'il y a une rupture qui intervient."
+    },
+    {
+      "id": 45,
+      "start": 396.01,
+      "end": 406.05,
+      "start_timestamp": "00:06:36.010",
+      "end_timestamp": "00:06:46.050",
+      "text": "C'est-à-dire que depuis les années 60, on avait eu une baisse continuelle du nombre de pauvres et de super-pauvres en France en nombre absolu."
+    },
+    {
+      "id": 46,
+      "start": 406.05,
+      "end": 412.13,
+      "start_timestamp": "00:06:46.050",
+      "end_timestamp": "00:06:52.130",
+      "text": "Alors que pendant ce temps-là, la population générale augmentait très vite. C'est même pas un pourcentage. Si c'était un pourcentage, ça montrerait une chute"
+    },
+    {
+      "id": 47,
+      "start": 412.13,
+      "end": 421.85,
+      "start_timestamp": "00:06:52.130",
+      "end_timestamp": "00:07:01.850",
+      "text": "beaucoup plus importante encore. Et nous avons maintenant une rupture qui tourne autour de 2002. Comme par hasard, c'est l'arrivée justement de l'euro sous forme fiduciaire."
+    },
+    {
+      "id": 48,
+      "start": 421.85,
+      "end": 430.29,
+      "start_timestamp": "00:07:01.850",
+      "end_timestamp": "00:07:10.290",
+      "text": "Et avec une réaugmentation très rapide, je suppose que nous allons terminer l'année 2013 quand on aura les statistiques, c'est-à-dire d'ici un an et demi."
+    },
+    {
+      "id": 49,
+      "start": 430.29,
+      "end": 443.03,
+      "start_timestamp": "00:07:10.290",
+      "end_timestamp": "00:07:23.030",
+      "text": "On se sera rendu compte qu'on a désormais plus de pauvres que nous en avions en 1970. L'adoption de l'euro marque un changement d'orientation séculaire,"
+    },
+    {
+      "id": 50,
+      "start": 443.03,
+      "end": 451.59,
+      "start_timestamp": "00:07:23.030",
+      "end_timestamp": "00:07:31.590",
+      "text": "le grand retour de la pauvreté. Alors arrêtez de vous laisser dire par les partisans de l'euro « mais si on sortait de l'euro, ça serait la catastrophe »."
+    },
+    {
+      "id": 51,
+      "start": 451.59,
+      "end": 466.18,
+      "start_timestamp": "00:07:31.590",
+      "end_timestamp": "00:07:46.180",
+      "text": "Dites-leur « mais attendez, justifiez-vous d'abord de ce qui se passe maintenant ». C'est quoi, ça ? Ça, c'est pas la catastrophe. Le 8e chapitre."
+    },
+    {
+      "id": 52,
+      "start": 466.18,
+      "end": 478.54,
+      "start_timestamp": "00:07:46.180",
+      "end_timestamp": "00:07:58.540",
+      "text": "L'exacerbation d'une xénophobie rampante contre les peuples non blancs. Parce que lorsqu'on a une dictature qui s'installe, il lui faut des ennemis."
+    },
+    {
+      "id": 53,
+      "start": 478.54,
+      "end": 490.7,
+      "start_timestamp": "00:07:58.540",
+      "end_timestamp": "00:08:10.700",
+      "text": "Relisez George Orwell. Relisez 1984. Relisez l'histoire de toutes les grandes dictatures. Elles ont besoin d'ennemis. Les gens qui vous disent « ah, mais l'Europe, c'est l'ouverture sur les peuples, etc. »,"
+    },
+    {
+      "id": 54,
+      "start": 490.7,
+      "end": 505.42,
+      "start_timestamp": "00:08:10.700",
+      "end_timestamp": "00:08:25.420",
+      "text": "c'est un mensonge. C'est un mensonge. Je reviens ici à cette déclaration de tout à l'heure de Michel Rocard. Michel Rocard, Premier ministre français,"
+    },
+    {
+      "id": 55,
+      "start": 505.42,
+      "end": 518.22,
+      "start_timestamp": "00:08:25.420",
+      "end_timestamp": "00:08:38.220",
+      "text": "qui dans une même déclaration à BFM Business dit au vu de l'affaiblissement des États-Unis – c'est vrai que les États-Unis s'affaiblissent – « nous devons avoir une Europe puissante"
+    },
+    {
+      "id": 56,
+      "start": 518.22,
+      "end": 529.1,
+      "start_timestamp": "00:08:38.220",
+      "end_timestamp": "00:08:49.100",
+      "text": "afin d'amorcer la grande conversation qui s'annonce avec la Chine et l'Inde dans les 15 à 20 ans qui viennent ». Qu'est-ce que ça veut dire ?"
+    },
+    {
+      "id": 57,
+      "start": 529.1,
+      "end": 546.62,
+      "start_timestamp": "00:08:49.100",
+      "end_timestamp": "00:09:06.620",
+      "text": "Ça veut dire quoi, la grande conversation qui s'annonce avec la Chine et l'Inde ? Ça veut dire que ce monsieur qui a été chef du gouvernement français agite la menace du péril jaune, du péril indien."
+    },
+    {
+      "id": 58,
+      "start": 546.66,
+      "end": 554.46,
+      "start_timestamp": "00:09:06.660",
+      "end_timestamp": "00:09:14.460",
+      "text": "Il se trouve que moi, dans mes fonctions antérieures, quand j'étais notamment au cabinet du ministre des Affaires étrangères, j'ai accompagné des chefs d'État français."
+    },
+    {
+      "id": 59,
+      "start": 554.46,
+      "end": 565.78,
+      "start_timestamp": "00:09:14.460",
+      "end_timestamp": "00:09:25.780",
+      "text": "J'ai accompagné François Mitterrand en Corée et au Kazakhstan. J'ai accompagné Jacques Chirac au Japon, en Bolivie, en Brésil, en Uruguay, au Paraguay, en Argentine."
+    },
+    {
+      "id": 60,
+      "start": 565.78,
+      "end": 576.26,
+      "start_timestamp": "00:09:25.780",
+      "end_timestamp": "00:09:36.260",
+      "text": "J'ai accompagné Jacques Chirac en Chine. Lorsque le président de la République était avec son homologue chinois, nous avons signé des accords de partenariat."
+    },
+    {
+      "id": 61,
+      "start": 576.34,
+      "end": 587.18,
+      "start_timestamp": "00:09:36.340",
+      "end_timestamp": "00:09:47.180",
+      "text": "Le Jacques Chirac était allé en Chine pour promouvoir notamment le TGV français contre l'ICE allemand. Et le président chinois, faisant semblant de dormir, relève l'œil et dit « c'est bizarre,"
+    },
+    {
+      "id": 62,
+      "start": 587.18,
+      "end": 597.67,
+      "start_timestamp": "00:09:47.180",
+      "end_timestamp": "00:09:57.670",
+      "text": "monsieur le président de la République française, j'accueillais, voici trois mois, le chancelier d'Allemagne, monsieur Schröder, qui me disait grand bien de l'ICE allemand par rapport au TGV français »."
+    },
+    {
+      "id": 63,
+      "start": 597.71,
+      "end": 608.95,
+      "start_timestamp": "00:09:57.710",
+      "end_timestamp": "00:10:08.950",
+      "text": "La réalité du monde d'aujourd'hui, c'est que le monde est en contact avec tous les pays, que nous avons des liens heureusement avec la Chine, que nous avons signé des partenariats stratégiques,"
+    },
+    {
+      "id": 64,
+      "start": 608.95,
+      "end": 621.07,
+      "start_timestamp": "00:10:08.950",
+      "end_timestamp": "00:10:21.070",
+      "text": "que PSA, que Citroën fabrique des voitures en Chine avec une co-entreprise qui s'appelle Dongfeng et Taohuan, pendant que Volkswagen fait avec un autre co-entreprise des voitures en Chine."
+    },
+    {
+      "id": 65,
+      "start": 621.07,
+      "end": 633.35,
+      "start_timestamp": "00:10:21.070",
+      "end_timestamp": "00:10:33.350",
+      "text": "Ça veut donc dire quoi, ça ? La grande conversation. Ça veut dire qu'on menace devant l'esprit des gens le fait qu'il y a un péril jaune, il y a un péril indien,"
+    },
+    {
+      "id": 66,
+      "start": 633.35,
+      "end": 638.71,
+      "start_timestamp": "00:10:33.350",
+      "end_timestamp": "00:10:38.710",
+      "text": "il y a un péril noir, il y a un péril arabe. On va en parler dans un instant. Et c'est de ça qu'il s'agit de se protéger."
+    },
+    {
+      "id": 67,
+      "start": 638.71,
+      "end": 646.63,
+      "start_timestamp": "00:10:38.710",
+      "end_timestamp": "00:10:46.630",
+      "text": "José Bové, le prétendu écolo-gaucho, etc. Il s'appelle pas José. Il s'appelle Joseph. Il n'est pas du tout agriculteur. Il est dans une famille de chercheurs."
+    },
+    {
+      "id": 68,
+      "start": 646.63,
+      "end": 656.63,
+      "start_timestamp": "00:10:46.630",
+      "end_timestamp": "00:10:56.630",
+      "text": "Il a passé sa jeunesse en Californie par parfaitement l'américain. Allez-vous vérifier, Sabdio ? Le coût de la vacante, tout ça, c'est du marketing."
+    },
+    {
+      "id": 69,
+      "start": 656.63,
+      "end": 666.55,
+      "start_timestamp": "00:10:56.630",
+      "end_timestamp": "00:11:06.550",
+      "text": "Il a fait un bloc qui s'appelle Un Paysant pour l'Europe. Quand même bizarre. Alors que l'Europe est en train de détruire notre agriculture, vous avez un paysan pour l'Europe."
+    },
+    {
+      "id": 70,
+      "start": 666.55,
+      "end": 674.95,
+      "start_timestamp": "00:11:06.550",
+      "end_timestamp": "00:11:14.950",
+      "text": "C'est quand même bizarre. D'ailleurs, il est vice-président de la Commission d'Agriculture au Parlement européen. Il a une voiture, il a une rémunération tout à fait confortable."
+    },
+    {
+      "id": 71,
+      "start": 674.95,
+      "end": 683.07,
+      "start_timestamp": "00:11:14.950",
+      "end_timestamp": "00:11:23.070",
+      "text": "Depuis qu'il a été élu pour avoir prétendu une Europe écolo. Parce qu'il y a des gens qui ont voté Bové. Alors je vois, je vote pour Bové, je veux une Europe écolo."
+    },
+    {
+      "id": 72,
+      "start": 683.07,
+      "end": 691.11,
+      "start_timestamp": "00:11:23.070",
+      "end_timestamp": "00:11:31.110",
+      "text": "Moi, je leur ai expliqué que ça arrivera à l'Europe écolo à peu près pendant 1,6 secondes tous les 10 triards d'années. Donc c'est ce qui se passe."
+    },
+    {
+      "id": 73,
+      "start": 691.11,
+      "end": 698.43,
+      "start_timestamp": "00:11:31.110",
+      "end_timestamp": "00:11:38.430",
+      "text": "Ils ont voté Bové. Il n'y a pas d'Europe écolo. Il n'y a d'ailleurs jamais eu autant d'OGM. Mais Bové, il a son poste de député européen."
+    },
+    {
+      "id": 74,
+      "start": 698.43,
+      "end": 711.83,
+      "start_timestamp": "00:11:38.430",
+      "end_timestamp": "00:11:51.830",
+      "text": "Avec sa voiture, ça chauffe probablement le tableau de bord en loupe d'or. Et en réalité, il ne change rien à rien."
+    },
+    {
+      "id": 75,
+      "start": 711.83,
+      "end": 721.34,
+      "start_timestamp": "00:11:51.830",
+      "end_timestamp": "00:12:01.340",
+      "text": "En attendant, José Bové lui dit, l'Union européenne doit rester ferme face à la Chine. Et puis pour taper un peu sur tout le monde,"
+    },
+    {
+      "id": 76,
+      "start": 721.34,
+      "end": 730.62,
+      "start_timestamp": "00:12:01.340",
+      "end_timestamp": "00:12:10.620",
+      "text": "M. Wauquiez de l'UMP plaide pour un protectionnisme européen face à la Chine et aux États-Unis. C'est d'ailleurs se foutre du monde, un protectionnisme européen."
+    },
+    {
+      "id": 77,
+      "start": 730.62,
+      "end": 737.54,
+      "start_timestamp": "00:12:10.620",
+      "end_timestamp": "00:12:17.540",
+      "text": "Comment peut-on avoir un protectionnisme européen lorsque les États ont des opinions totalement divergentes et des intérêts totalement divergents ?"
+    },
+    {
+      "id": 78,
+      "start": 737.54,
+      "end": 745.74,
+      "start_timestamp": "00:12:17.540",
+      "end_timestamp": "00:12:25.740",
+      "text": "La France voulait un protectionnisme. Ils aviaient des textiles fabriqués en Chine. Parce que nous avions une industrie textile dans les Vosges et dans le nord de la France."
+    },
+    {
+      "id": 79,
+      "start": 745.74,
+      "end": 750.54,
+      "start_timestamp": "00:12:25.740",
+      "end_timestamp": "00:12:30.540",
+      "text": "Il n'y a pas de pôle. Le commissaire européen, c'est un Britannique. Il n'y a plus d'industrie textile en Grande-Bretagne."
+    },
+    {
+      "id": 80,
+      "start": 750.54,
+      "end": 759.22,
+      "start_timestamp": "00:12:30.540",
+      "end_timestamp": "00:12:39.220",
+      "text": "Donc lui, il a supprimé les quotas textiles avec la Chine pour faire venir le maximum de textiles. Pour les Anglais, il est beaucoup préférable"
+    },
+    {
+      "id": 81,
+      "start": 759.26,
+      "end": 765.34,
+      "start_timestamp": "00:12:39.260",
+      "end_timestamp": "00:12:45.340",
+      "text": "d'acheter entièrement leurs textiles fabriqués en Chine plutôt que les acheter plus cher en France ou en Italie. Surtout quand en plus,"
+    },
+    {
+      "id": 82,
+      "start": 765.34,
+      "end": 774.78,
+      "start_timestamp": "00:12:45.340",
+      "end_timestamp": "00:12:54.780",
+      "text": "le négociateur obtient les Chinois en contrepartie de la suppression des quotas textiles, obtient en contrepartie l'ouverture du marché chinois aux lois britanniques."
+    },
+    {
+      "id": 83,
+      "start": 774.78,
+      "end": 780.02,
+      "start_timestamp": "00:12:54.780",
+      "end_timestamp": "00:13:00.020",
+      "text": "Ainsi donc pour les Britanniques, c'est gagnant, gagnant. Et pour les Français, les Espagnols, les Italiens, non plus que leurs yeux puissent pleurer"
+    },
+    {
+      "id": 84,
+      "start": 780.02,
+      "end": 792.26,
+      "start_timestamp": "00:13:00.020",
+      "end_timestamp": "00:13:12.260",
+      "text": "parce qu'ils se sont fait avoir sur tous les tableaux. Cette oxénophobie contre les peuples non blancs ne vous laissez pas intimider par ceux qui vous disent"
+    },
+    {
+      "id": 85,
+      "start": 792.3,
+      "end": 801.9,
+      "start_timestamp": "00:13:12.300",
+      "end_timestamp": "00:13:21.900",
+      "text": "« Vous voulez sortir de l'Europe, c'est que vous êtes xénophobes. » C'est le contraire qui est vrai. C'est que la construction européenne en fait prône"
+    },
+    {
+      "id": 86,
+      "start": 801.9,
+      "end": 808.58,
+      "start_timestamp": "00:13:21.900",
+      "end_timestamp": "00:13:28.580",
+      "text": "le choc des civilisations. On l'a vu dans un clip de la Commission européenne en mars 2012, il y a un an, qui a fait un scandale."
+    },
+    {
+      "id": 87,
+      "start": 808.58,
+      "end": 813.82,
+      "start_timestamp": "00:13:28.580",
+      "end_timestamp": "00:13:33.820",
+      "text": "Pour promouvoir l'élargissement de l'Union européenne auprès des jeunes, la direction générale de l'administration de la Commission européenne"
+    },
+    {
+      "id": 88,
+      "start": 813.82,
+      "end": 822.02,
+      "start_timestamp": "00:13:33.820",
+      "end_timestamp": "00:13:42.020",
+      "text": "avait commandé, payé, validé un clip vidéo qui mettait en scène d'un côté une jeune femme blanche censée représenter l'Europe"
+    },
+    {
+      "id": 89,
+      "start": 822.02,
+      "end": 829.46,
+      "start_timestamp": "00:13:42.020",
+      "end_timestamp": "00:13:49.460",
+      "text": "et de l'autre côté des hommes patibulaires, bazanés, magnons les armes martiaux. L'un était originaire de Chine, faisait du kung-fu,"
+    },
+    {
+      "id": 90,
+      "start": 829.46,
+      "end": 836.5,
+      "start_timestamp": "00:13:49.460",
+      "end_timestamp": "00:13:56.500",
+      "text": "symbole du Péril jaune. L'autre d'Inde faisait du Kalari Payattu, symbole avec le turban du monde arabe, parce que les gens"
+    },
+    {
+      "id": 91,
+      "start": 836.5,
+      "end": 845.62,
+      "start_timestamp": "00:13:56.500",
+      "end_timestamp": "00:14:05.620",
+      "text": "ne font pas forcément la différence entre les Indiens et les Arabes. Et enfin un Brésilien qui faisait de la capoeira, symbole du noir,"
+    },
+    {
+      "id": 92,
+      "start": 845.62,
+      "end": 853.22,
+      "start_timestamp": "00:14:05.620",
+      "end_timestamp": "00:14:13.220",
+      "text": "parce que les gens ne font pas non plus la différence entre Brésiliens et noirs, et qui venait l'agresser dans un décor d'entrepôt désert et angoissant."
+    },
+    {
+      "id": 93,
+      "start": 853.22,
+      "end": 859.94,
+      "start_timestamp": "00:14:13.220",
+      "end_timestamp": "00:14:19.940",
+      "text": "Ces agressions étaient censées représenter l'agressivité des briques, des puissances économiques émergentes. Et finalement, tout était bien,"
+    },
+    {
+      "id": 94,
+      "start": 859.94,
+      "end": 866.74,
+      "start_timestamp": "00:14:19.940",
+      "end_timestamp": "00:14:26.740",
+      "text": "qui finissait bien. La jeune femme blanche fermait les yeux, se multipliait par 12 pour former un cercle autour des combattants,"
+    },
+    {
+      "id": 95,
+      "start": 866.74,
+      "end": 869.86,
+      "start_timestamp": "00:14:26.740",
+      "end_timestamp": "00:14:29.860",
+      "text": "qui d'un seul coup se transformaient d'où comme des agneaux."
+    },
+    {
+      "id": 96,
+      "start": 869.86,
+      "end": 893.39,
+      "start_timestamp": "00:14:29.860",
+      "end_timestamp": "00:14:53.390",
+      "text": "« The more we are, the stronger we are », c'est de l'européen. « The more we are, the stronger we are », c'est de l'européen."
+    },
+    {
+      "id": 97,
+      "start": 893.39,
+      "end": 899.63,
+      "start_timestamp": "00:14:53.390",
+      "end_timestamp": "00:14:59.630",
+      "text": "Vous avez vu, c'est dans le cadre d'une publicité sur l'élargissement. D'ailleurs, vous avez peut-être vu à la fin,"
+    },
+    {
+      "id": 98,
+      "start": 899.63,
+      "end": 906.43,
+      "start_timestamp": "00:14:59.630",
+      "end_timestamp": "00:15:06.430",
+      "text": "c'est passé un petit peu vite, il y avait des macarons en fonction des pays. On voyait d'ailleurs que la Turquie était déjà entrée"
+    },
+    {
+      "id": 99,
+      "start": 906.43,
+      "end": 912.99,
+      "start_timestamp": "00:15:06.430",
+      "end_timestamp": "00:15:12.990",
+      "text": "dans l'UE, puisque c'est comme, vous le savez, si vous suivez mes conférences par ailleurs, l'objectif qui a été décidé par les États-Unis d'Amérique,"
+    },
+    {
+      "id": 100,
+      "start": 912.99,
+      "end": 921.31,
+      "start_timestamp": "00:15:12.990",
+      "end_timestamp": "00:15:21.310",
+      "text": "qui veulent faire correspondre le périmètre de l'OTAN et le périmètre de l'UE. Et donc voilà. Alors tout ceci a mené à des démarches officielles"
+    },
+    {
+      "id": 101,
+      "start": 921.31,
+      "end": 928.11,
+      "start_timestamp": "00:15:21.310",
+      "end_timestamp": "00:15:28.110",
+      "text": "des pays en question, parce que nous avons un clip qui est carrément un clip raciste, quand même. Alors du coup, ça a été du rétro-pédalage,"
+    },
+    {
+      "id": 102,
+      "start": 928.11,
+      "end": 936.27,
+      "start_timestamp": "00:15:28.110",
+      "end_timestamp": "00:15:36.270",
+      "text": "et effectivement, la Commission européenne a jugé nécessaire de retirer ce clip, qui avait quand même été conçu tel quel."
+    },
+    {
+      "id": 103,
+      "start": 936.27,
+      "end": 946.35,
+      "start_timestamp": "00:15:36.270",
+      "end_timestamp": "00:15:46.350",
+      "text": "Alors c'est d'autant plus scandaleux tout ceci. Que c'est fait par ailleurs, on dénonce par ailleurs des situations qui ont été engendrées"
+    },
+    {
+      "id": 104,
+      "start": 946.35,
+      "end": 957.71,
+      "start_timestamp": "00:15:46.350",
+      "end_timestamp": "00:15:57.710",
+      "text": "par l'UE, par ses décisions elles-mêmes. D'où est-ce que vient justement la montée en puissance des briques, notamment du Brésil, de l'Inde et de la Chine ?"
+    },
+    {
+      "id": 105,
+      "start": 957.71,
+      "end": 965.23,
+      "start_timestamp": "00:15:57.710",
+      "end_timestamp": "00:16:05.230",
+      "text": "Ça vient justement des décisions qui ont été prises par les traités depuis le traité de Maastricht, repris par les traités ultérieurs,"
+    },
+    {
+      "id": 106,
+      "start": 965.23,
+      "end": 975.79,
+      "start_timestamp": "00:16:05.230",
+      "end_timestamp": "00:16:15.790",
+      "text": "notamment l'article 63 actuel du TFUE, sur les capitaux et les paiements. Désormais, en vertu de l'article 63, toutes les restrictions"
+    },
+    {
+      "id": 107,
+      "start": 975.79,
+      "end": 983.15,
+      "start_timestamp": "00:16:15.790",
+      "end_timestamp": "00:16:23.150",
+      "text": "aux mouvements de capitaux entre les États membres et entre les États membres et les pays tiers sont interdites. Toutes les restrictions"
+    },
+    {
+      "id": 108,
+      "start": 983.15,
+      "end": 989.63,
+      "start_timestamp": "00:16:23.150",
+      "end_timestamp": "00:16:29.630",
+      "text": "aux paiements entre les États membres et entre les États membres et les pays tiers sont interdites. Je dis bien les pays tiers."
+    },
+    {
+      "id": 109,
+      "start": 989.63,
+      "end": 998.11,
+      "start_timestamp": "00:16:29.630",
+      "end_timestamp": "00:16:38.110",
+      "text": "La construction européenne n'a pas supprimé les contrôles de mouvements de capitaux au sein de l'UE. Elle a supprimé les mouvements de capitaux"
+    },
+    {
+      "id": 110,
+      "start": 998.11,
+      "end": 1006.35,
+      "start_timestamp": "00:16:38.110",
+      "end_timestamp": "00:16:46.350",
+      "text": "au sein de l'UE, mais aussi avec tous les pays en voie de développement. C'est-à-dire qu'en réalité, ces traités ont donné un feu vert"
+    },
+    {
+      "id": 111,
+      "start": 1006.35,
+      "end": 1015.15,
+      "start_timestamp": "00:16:46.350",
+      "end_timestamp": "00:16:55.150",
+      "text": "aux entreprises totales pour expatrier leurs usines dans des pays à très bas coût de salaire. C'est de là que viennent les délocalisations."
+    },
+    {
+      "id": 112,
+      "start": 1015.23,
+      "end": 1023.63,
+      "start_timestamp": "00:16:55.230",
+      "end_timestamp": "00:17:03.630",
+      "text": "C'est de là que ça vient. Auparavant, il y a 30 ans, en France, on ne parlait pas de délocalisations. Parce que quand une entreprise voulait délocaliser"
+    },
+    {
+      "id": 113,
+      "start": 1023.63,
+      "end": 1033.07,
+      "start_timestamp": "00:17:03.630",
+      "end_timestamp": "00:17:13.070",
+      "text": "et créer son usine, elle devait d'abord demander l'autorisation de transférer 500 millions, 1 milliard, 2 milliards, 5 milliards de francs."
+    },
+    {
+      "id": 114,
+      "start": 1033.07,
+      "end": 1039.55,
+      "start_timestamp": "00:17:13.070",
+      "end_timestamp": "00:17:19.550",
+      "text": "Elle devait donc aller au ministère français des Finances, à la direction du Trésor. On lui disait « Qu'est-ce que vous voulez ? »."
+    },
+    {
+      "id": 115,
+      "start": 1039.63,
+      "end": 1046.59,
+      "start_timestamp": "00:17:19.630",
+      "end_timestamp": "00:17:26.590",
+      "text": "Quand on dit « contrôle », on ne veut pas dire « interdiction ». Lorsque, par exemple, Peugeot avait voulu créer une usine de fabrication de voitures"
+    },
+    {
+      "id": 116,
+      "start": 1046.59,
+      "end": 1056.19,
+      "start_timestamp": "00:17:26.590",
+      "end_timestamp": "00:17:36.190",
+      "text": "en Iran, la France avait examiné le dossier, avait donné son feu vert. Parce qu'il s'agissait de fabriquer des usines des automobiles en Iran,"
+    },
+    {
+      "id": 117,
+      "start": 1056.19,
+      "end": 1064.59,
+      "start_timestamp": "00:17:36.190",
+      "end_timestamp": "00:17:44.590",
+      "text": "prendre une part de marché sur le marché iranien au bénéfice d'une entreprise française. Et il n'y avait pas de possibilité,"
+    },
+    {
+      "id": 118,
+      "start": 1064.59,
+      "end": 1073.47,
+      "start_timestamp": "00:17:44.590",
+      "end_timestamp": "00:17:53.470",
+      "text": "puisque nous étions maîtres par ailleurs de nos échanges commerciaux. Il suffisait de mettre un quota zéro d'importation de voitures de l'Iran"
+    },
+    {
+      "id": 119,
+      "start": 1073.47,
+      "end": 1082.75,
+      "start_timestamp": "00:17:53.470",
+      "end_timestamp": "00:18:02.750",
+      "text": "pour être certain que ces voitures fabriquées par Peugeot à très bas coût ne reviendraient pas en France. Donc d'une part, Peugeot gagnait des parts de marché en Iran."
+    },
+    {
+      "id": 120,
+      "start": 1082.75,
+      "end": 1090.59,
+      "start_timestamp": "00:18:02.750",
+      "end_timestamp": "00:18:10.590",
+      "text": "On favorisait le développement de l'Iran. Mais on ne mettait pas en cause les salaires, les emplois des ouvriers français fabriquant des Peugeots en France."
+    },
+    {
+      "id": 121,
+      "start": 1090.59,
+      "end": 1098.03,
+      "start_timestamp": "00:18:10.590",
+      "end_timestamp": "00:18:18.030",
+      "text": "C'est pour le marché occidental. C'est maintenant ceci qui n'existe plus. C'est-à-dire que désormais, une entreprise,"
+    },
+    {
+      "id": 122,
+      "start": 1098.03,
+      "end": 1104.51,
+      "start_timestamp": "00:18:18.030",
+      "end_timestamp": "00:18:24.510",
+      "text": "si elle veut se délocaliser en Iran, quoi qu'elle y fasse, ou en Iran, mais aussi en Maroc, ou en Tunisie pour fabriquer des sous-vêtements,"
+    },
+    {
+      "id": 123,
+      "start": 1104.51,
+      "end": 1112.63,
+      "start_timestamp": "00:18:24.510",
+      "end_timestamp": "00:18:32.630",
+      "text": "en Chine... C'est pas que la France. Zara, par exemple, vous savez, le prêt à porter. Une des plus grandes fortunes franques mondiales maintenant."
+    },
+    {
+      "id": 124,
+      "start": 1112.63,
+      "end": 1120.03,
+      "start_timestamp": "00:18:32.630",
+      "end_timestamp": "00:18:40.030",
+      "text": "Le fondateur de Zara, qui est une entreprise espagnole, a tout délocalisé dans des établissements, comme on l'a vu d'ailleurs très récemment."
+    },
+    {
+      "id": 125,
+      "start": 1120.03,
+      "end": 1129.51,
+      "start_timestamp": "00:18:40.030",
+      "end_timestamp": "00:18:49.510",
+      "text": "Vous avez vu ce drame qui est survenu au Bangladesh, avec un bâtiment qui s'est effondré. Il y a eu plus de 700 morts."
+    },
+    {
+      "id": 126,
+      "start": 1129.51,
+      "end": 1137.43,
+      "start_timestamp": "00:18:49.510",
+      "end_timestamp": "00:18:57.430",
+      "text": "Parce que dedans, c'étaient des sweatshops, c'étaient des usines de textile. On avait installé des machines qui ont fait vibrer le truc."
+    },
+    {
+      "id": 127,
+      "start": 1137.43,
+      "end": 1147.71,
+      "start_timestamp": "00:18:57.430",
+      "end_timestamp": "00:19:07.710",
+      "text": "Il y a eu plus de 700 morts. C'étaient des gens qui travaillaient pour Benetton, pour travailler pour Zara, etc., payés en gros 1 € par jour."
+    },
+    {
+      "id": 128,
+      "start": 1147.79,
+      "end": 1155.19,
+      "start_timestamp": "00:19:07.790",
+      "end_timestamp": "00:19:15.190",
+      "text": "Donc destruction des emplois en Espagne, en France, dans tout l'Occident. On fait travailler des gens à des salaires de misère,"
+    },
+    {
+      "id": 129,
+      "start": 1155.19,
+      "end": 1159.43,
+      "start_timestamp": "00:19:15.190",
+      "end_timestamp": "00:19:19.430",
+      "text": "dans des conditions tellement épouvantables qu'il y en a 700 qui sont morts dans l'ensouvelissement d'un immeuble."
+    },
+    {
+      "id": 130,
+      "start": 1159.43,
+      "end": 1168.99,
+      "start_timestamp": "00:19:19.430",
+      "end_timestamp": "00:19:28.990",
+      "text": "Et le résultat des courses, c'est que M. Zara, le fondateur de Zara, et puis les gens qui étaient de les capitaux, se ramassent des fortunes colossales."
+    },
+    {
+      "id": 131,
+      "start": 1168.99,
+      "end": 1177.19,
+      "start_timestamp": "00:19:28.990",
+      "end_timestamp": "00:19:37.190",
+      "text": "C'est de ça qu'il s'agit. Donc ça sert à quoi de dénoncer après les Chinois, les Bangladeshis, qui est responsable de cette situation,"
+    },
+    {
+      "id": 132,
+      "start": 1177.19,
+      "end": 1182.43,
+      "start_timestamp": "00:19:37.190",
+      "end_timestamp": "00:19:42.430",
+      "text": "qui a créé de l'origine de la situation. D'ailleurs, je signale l'article 32. C'est ce qui va de pair."
+    },
+    {
+      "id": 133,
+      "start": 1182.43,
+      "end": 1187.51,
+      "start_timestamp": "00:19:42.430",
+      "end_timestamp": "00:19:47.510",
+      "text": "La nécessité de promouvoir les échanges commerciaux entre les amants va accroître la force compétitive des entreprises."
+    },
+    {
+      "id": 134,
+      "start": 1187.51,
+      "end": 1194.03,
+      "start_timestamp": "00:19:47.510",
+      "end_timestamp": "00:19:54.030",
+      "text": "Expansion de la consommation dans l'Union. Les articles des traités favorisent la réimportation de ces productions."
+    },
+    {
+      "id": 135,
+      "start": 1194.03,
+      "end": 1201.83,
+      "start_timestamp": "00:19:54.030",
+      "end_timestamp": "00:20:01.830",
+      "text": "À aucun moment dans les traités, il n'est précisé qu'il aurait fallu par exemple protéger les emplois des salariés en Europe."
+    },
+    {
+      "id": 136,
+      "start": 1201.83,
+      "end": 1208.55,
+      "start_timestamp": "00:20:01.830",
+      "end_timestamp": "00:20:08.550",
+      "text": "À aucun moment il n'est précisé qu'il faudrait protéger le savoir-faire industriel des pays européens."
+    },
+    {
+      "id": 137,
+      "start": 1208.55,
+      "end": 1214.87,
+      "start_timestamp": "00:20:08.550",
+      "end_timestamp": "00:20:14.870",
+      "text": "La seule chose dont on parle, c'est accroître la force compétitive des entreprises, à promouvoir les échanges commerciaux et l'expansion de la consommation."
+    },
+    {
+      "id": 138,
+      "start": 1214.87,
+      "end": 1219.91,
+      "start_timestamp": "00:20:14.870",
+      "end_timestamp": "00:20:19.910",
+      "text": "Bah oui. Ah oui, maintenant, effectivement, les femmes, essentiellement, peuvent acheter des petites robes chez Zara."
+    },
+    {
+      "id": 139,
+      "start": 1219.91,
+      "end": 1227.51,
+      "start_timestamp": "00:20:19.910",
+      "end_timestamp": "00:20:27.510",
+      "text": "Ça coûte pas très cher. Sauf que bientôt, elles pourront plus les acheter parce qu'elles n'ont plus d'argent."
+    },
+    {
+      "id": 140,
+      "start": 1227.51,
+      "end": 1234.47,
+      "start_timestamp": "00:20:27.510",
+      "end_timestamp": "00:20:34.470",
+      "text": "En clair, le feu vert aux entreprises pour importer des produits qu'elles ont faites dans des pays à très bas coût de salaire."
+    },
+    {
+      "id": 141,
+      "start": 1234.47,
+      "end": 1243.43,
+      "start_timestamp": "00:20:34.470",
+      "end_timestamp": "00:20:43.430",
+      "text": "Je vous ai donc parlé de ceci, Jean-Marie Voucha-Pitrenov, qui est l'avant-dernier, la construction artificielle d'un apartheid de planétaires et guerriers."
+    },
+    {
+      "id": 142,
+      "start": 1243.43,
+      "end": 1250.47,
+      "start_timestamp": "00:20:43.430",
+      "end_timestamp": "00:20:50.470",
+      "text": "Nous sommes là aussi les seuls à dire ce qu'est la construction européenne pour de vrai."
+    },
+    {
+      "id": 143,
+      "start": 1250.47,
+      "end": 1255.35,
+      "start_timestamp": "00:20:50.470",
+      "end_timestamp": "00:20:55.350",
+      "text": "Cette construction dont du berceau à la tombe, on vous a dit, grand bien."
+    },
+    {
+      "id": 144,
+      "start": 1255.35,
+      "end": 1264.23,
+      "start_timestamp": "00:20:55.350",
+      "end_timestamp": "00:21:04.230",
+      "text": "En réalité, il n'y a rien qui ressemble plus à la construction européenne que ça. C'est l'apartheid sud-africain en 1979."
+    },
+    {
+      "id": 145,
+      "start": 1264.23,
+      "end": 1271.91,
+      "start_timestamp": "00:21:04.230",
+      "end_timestamp": "00:21:11.910",
+      "text": "La politique d'apartheid avait été lancée en Afrique du Sud par le parti du Congrès en 1948."
+    },
+    {
+      "id": 146,
+      "start": 1271.91,
+      "end": 1278.07,
+      "start_timestamp": "00:21:11.910",
+      "end_timestamp": "00:21:18.070",
+      "text": "Il y avait deux types d'apartheid, ce qu'on avait appelé le petty apartheid et le grand apartheid."
+    },
+    {
+      "id": 147,
+      "start": 1278.07,
+      "end": 1283.43,
+      "start_timestamp": "00:21:18.070",
+      "end_timestamp": "00:21:23.430",
+      "text": "Petty apartheid, c'était l'apartheid mesquin. Petty, P-E-T-Y, en anglais, ça veut dire mesquin."
+    },
+    {
+      "id": 148,
+      "start": 1283.43,
+      "end": 1291.27,
+      "start_timestamp": "00:21:23.430",
+      "end_timestamp": "00:21:31.270",
+      "text": "C'est-à-dire les personnes de couleur, les noirs, les métis, etc., avaient droit à aller dans les plages pourries, on les mettait dans des autobus pourris, etc."
+    },
+    {
+      "id": 149,
+      "start": 1291.27,
+      "end": 1295.75,
+      "start_timestamp": "00:21:31.270",
+      "end_timestamp": "00:21:35.750",
+      "text": "Et les blancs avaient les accès aux meilleurs endroits."
+    },
+    {
+      "id": 150,
+      "start": 1295.75,
+      "end": 1306.71,
+      "start_timestamp": "00:21:35.750",
+      "end_timestamp": "00:21:46.710",
+      "text": "Petit à petit, ce petit apartheid avait été supprimé dans les années 60 et 70 tellement c'était contraire à l'évolution générale des esprits et au monde et à des protestations planétaires."
+    },
+    {
+      "id": 151,
+      "start": 1306.71,
+      "end": 1312.55,
+      "start_timestamp": "00:21:46.710",
+      "end_timestamp": "00:21:52.550",
+      "text": "Mais en revanche, avait subsisté le grand apartheid. C'était quoi le grand apartheid ?"
+    },
+    {
+      "id": 152,
+      "start": 1312.55,
+      "end": 1320.47,
+      "start_timestamp": "00:21:52.550",
+      "end_timestamp": "00:22:00.470",
+      "text": "C'était que la pensée officielle du gouvernement de Pretoria, de Johannesburg et du Cap, c'était qu'en fait,"
+    },
+    {
+      "id": 153,
+      "start": 1320.47,
+      "end": 1330.71,
+      "start_timestamp": "00:22:00.470",
+      "end_timestamp": "00:22:10.710",
+      "text": "c'est ce que j'appelle une pensée racialiste et pas forcément raciste. Enfin, c'était raciste, mais c'était présenté comme pas exactement raciste, c'est-à-dire qu'il disait qu'en fait,"
+    },
+    {
+      "id": 154,
+      "start": 1330.71,
+      "end": 1342.63,
+      "start_timestamp": "00:22:10.710",
+      "end_timestamp": "00:22:22.630",
+      "text": "il y avait des races différentes qui devaient avoir des développements séparés. Toute l'hypocrisie était de faire semblant qu'il ne postulait pas une hiérarchie entre ces races."
+    },
+    {
+      "id": 155,
+      "start": 1342.71,
+      "end": 1355.75,
+      "start_timestamp": "00:22:22.710",
+      "end_timestamp": "00:22:35.750",
+      "text": "Et donc, l'Afrique du Sud avait été découpée en morceaux avec des zones réservées aux Blancs, à Cape Town, à Riversdale, Port-Elisabeth, Blomfontein,"
+    },
+    {
+      "id": 156,
+      "start": 1355.75,
+      "end": 1364.55,
+      "start_timestamp": "00:22:35.750",
+      "end_timestamp": "00:22:44.550",
+      "text": "la capitale de l'État libre d'Orange, vous connaissez l'histoire du trek des bourgs, Pretoria, Johannesburg et puis quelques zones du côté de Durban."
+    },
+    {
+      "id": 157,
+      "start": 1364.55,
+      "end": 1371.83,
+      "start_timestamp": "00:22:44.550",
+      "end_timestamp": "00:22:51.830",
+      "text": "Dans ces zones-là, seuls les Blancs pouvaient y vivre. Ils pouvaient avoir de la domesticité de couleurs qui pouvaient venir, un peu comme nos travailleurs immigrés,"
+    },
+    {
+      "id": 158,
+      "start": 1371.83,
+      "end": 1379.67,
+      "start_timestamp": "00:22:51.830",
+      "end_timestamp": "00:22:59.670",
+      "text": "mais à condition de repartir ensuite dans leur ghetto. Et puis il y avait d'autres zones qui étaient réservées au Khalad, c'est-à-dire au Métis."
+    },
+    {
+      "id": 159,
+      "start": 1379.67,
+      "end": 1388.63,
+      "start_timestamp": "00:22:59.670",
+      "end_timestamp": "00:23:08.630",
+      "text": "Il y avait des zones qui étaient réservées aux Blancs, c'est-à-dire aux Noirs. Il y avait des zones qui étaient conçues comme étant des États à vocation d'être indépendants,"
+    },
+    {
+      "id": 160,
+      "start": 1388.63,
+      "end": 1396.47,
+      "start_timestamp": "00:23:08.630",
+      "end_timestamp": "00:23:16.470",
+      "text": "ce qu'on appelait les Bantoustans. Stans pour États, Bantou, parce que c'étaient les peuples bantouls. Il y avait le Potosuana, le Transkei, le Siskei,"
+    },
+    {
+      "id": 161,
+      "start": 1396.55,
+      "end": 1406.95,
+      "start_timestamp": "00:23:16.550",
+      "end_timestamp": "00:23:26.950",
+      "text": "qui devaient être des États indépendants. Aucun autre État au monde ne reconnaissait dans la communauté des États mondiaux, sauf l'Arodésie, qui était l'État juste au nord,"
+    },
+    {
+      "id": 162,
+      "start": 1406.95,
+      "end": 1416.07,
+      "start_timestamp": "00:23:26.950",
+      "end_timestamp": "00:23:36.070",
+      "text": "qui est devenu le Zimbabwe depuis. Et puis il y avait aussi des États, des zones qui étaient réservées aux Indians, puisque vous savez que sur la côte est de l'Afrique du Sud,"
+    },
+    {
+      "id": 163,
+      "start": 1416.07,
+      "end": 1424.15,
+      "start_timestamp": "00:23:36.070",
+      "end_timestamp": "00:23:44.150",
+      "text": "il y a des fortes communautés indiennes. D'ailleurs, Gandhi était né en Afrique du Sud à la fin du XIXe siècle justement d'une famille de marchands indiens."
+    },
+    {
+      "id": 164,
+      "start": 1424.15,
+      "end": 1433.99,
+      "start_timestamp": "00:23:44.150",
+      "end_timestamp": "00:23:53.990",
+      "text": "Vous voyez d'ailleurs bien qu'on mélangeait au passage des caractères ethniques et des caractères de type nationaux, puisqu'un Indien, ça n'est pas vraiment un caractère ethnique."
+    },
+    {
+      "id": 165,
+      "start": 1433.99,
+      "end": 1444.63,
+      "start_timestamp": "00:23:53.990",
+      "end_timestamp": "00:24:04.630",
+      "text": "Ce qu'il est important de comprendre, c'est que cette politique dite d'apartheid n'était pas une innocente description de l'Afrique du Sud comme le prétendaient les dirigeants sud-africains."
+    },
+    {
+      "id": 166,
+      "start": 1444.63,
+      "end": 1452.95,
+      "start_timestamp": "00:24:04.630",
+      "end_timestamp": "00:24:12.950",
+      "text": "C'était une politique active fondée sur la séparation des races et des peuples pour permettre aux Blancs de dominer le pays."
+    },
+    {
+      "id": 167,
+      "start": 1453.27,
+      "end": 1461.91,
+      "start_timestamp": "00:24:13.270",
+      "end_timestamp": "00:24:21.910",
+      "text": "Si vous avez compris ce que c'était que l'apartheid, vous avez compris ce que c'est que maintenant la construction européenne et la théorie du monde multipolaire chère aux Américains."
+    },
+    {
+      "id": 168,
+      "start": 1461.91,
+      "end": 1473.27,
+      "start_timestamp": "00:24:21.910",
+      "end_timestamp": "00:24:33.270",
+      "text": "Puisque c'est en fait le même état d'esprit anglo-saxon qui se cache derrière. C'est-à-dire qu'il y a un monde, il va y avoir un Western Christendom, le monde judéo-chrétien,"
+    },
+    {
+      "id": 169,
+      "start": 1473.27,
+      "end": 1481.35,
+      "start_timestamp": "00:24:33.270",
+      "end_timestamp": "00:24:41.350",
+      "text": "Amérique du Nord et Europe, et Union européenne. C'est ça qui se cache derrière le prochain grand marché transatlantique."
+    },
+    {
+      "id": 170,
+      "start": 1481.43,
+      "end": 1490.55,
+      "start_timestamp": "00:24:41.430",
+      "end_timestamp": "00:24:50.550",
+      "text": "Et puis il y a l'Amérique latine. Pourquoi pas judéo-chrétien ? Parce qu'ils ne peuvent pas piffer les Yanquis. Donc on les met de côté."
+    },
+    {
+      "id": 171,
+      "start": 1490.55,
+      "end": 1501.83,
+      "start_timestamp": "00:24:50.550",
+      "end_timestamp": "00:25:01.830",
+      "text": "Vous voyez bien au passage que c'est une théorie qui n'a aucune scientificité. Et puis il y a les méchants. Les méchants, c'est les verts. Les méchants, c'est les musulmans."
+    },
+    {
+      "id": 172,
+      "start": 1501.83,
+      "end": 1513.91,
+      "start_timestamp": "00:25:01.830",
+      "end_timestamp": "00:25:13.910",
+      "text": "Ça commence à peu près au Sénégal. Il y a le Mali, il y a la Mauritanie. Ça passe par les pays du Maghreb, les pays du Mâchereq, les pays du Sahel,"
+    },
+    {
+      "id": 173,
+      "start": 1513.91,
+      "end": 1522.79,
+      "start_timestamp": "00:25:13.910",
+      "end_timestamp": "00:25:22.790",
+      "text": "la péninsule arabique, les Baddawiyah d'Arabie. Ça concerne... On ne sait pas trop bien où mettre les Turcs. Parce que les Turcs font partie de l'OTAN."
+    },
+    {
+      "id": 174,
+      "start": 1522.79,
+      "end": 1531.27,
+      "start_timestamp": "00:25:22.790",
+      "end_timestamp": "00:25:31.270",
+      "text": "Donc c'est des bons musulmans, les Turcs. Mais il y a les méchants. Donc c'est la Syrie, c'est l'Iran. Donc c'est très très méchant."
+    },
+    {
+      "id": 175,
+      "start": 1531.35,
+      "end": 1542.23,
+      "start_timestamp": "00:25:31.350",
+      "end_timestamp": "00:25:42.230",
+      "text": "Et puis on a les Turcs, les Turcophones, les Turkmenistans, le Kazakhstan. Et puis on a des Aryens, qui ne sont pas des Arabes, les Iraniens, les Pakistanais."
+    },
+    {
+      "id": 176,
+      "start": 1542.23,
+      "end": 1548.31,
+      "start_timestamp": "00:25:42.230",
+      "end_timestamp": "00:25:48.310",
+      "text": "Et puis après, on traverse le continent indien. On a les Bengalis. Les Bengalis ne sont ni pas des Aryens, ils sont des musulmans."
+    },
+    {
+      "id": 177,
+      "start": 1548.31,
+      "end": 1554.39,
+      "start_timestamp": "00:25:48.310",
+      "end_timestamp": "00:25:54.390",
+      "text": "Et puis après, on continue vers l'Asie du Sud-Est. On a les Malaisiens, les Boumiboutras ou les Priboumis, comme on dit, sur place,"
+    },
+    {
+      "id": 178,
+      "start": 1554.47,
+      "end": 1559.67,
+      "start_timestamp": "00:25:54.470",
+      "end_timestamp": "00:25:59.670",
+      "text": "c'est-à-dire les fils du sol. Et puis ça va même jusqu'à l'Iriandjaïa, c'est-à-dire les Papous, de la Lille de Papouasie-Nouvelle-Guinée,"
+    },
+    {
+      "id": 179,
+      "start": 1559.67,
+      "end": 1569.91,
+      "start_timestamp": "00:25:59.670",
+      "end_timestamp": "00:26:09.910",
+      "text": "dont la partie occidentale appartient à l'Indonésie. Donc les Américains, c'est la théorie du choc multipolaire de Samuel Huntington dont je parle."
+    },
+    {
+      "id": 180,
+      "start": 1571.11,
+      "end": 1580.23,
+      "start_timestamp": "00:26:11.110",
+      "end_timestamp": "00:26:20.230",
+      "text": "C'est pas une vaticination de ma part. Ça veut dire qu'on a un découpage totalement artificiel de la planète où on met dans le même sac, si j'ose dire,"
+    },
+    {
+      "id": 181,
+      "start": 1580.87,
+      "end": 1587.51,
+      "start_timestamp": "00:26:20.870",
+      "end_timestamp": "00:26:27.510",
+      "text": "d'abord les peuples uniquement en fonction du critère religieux, comme si c'était le seul critère qui distinguait les populations,"
+    },
+    {
+      "id": 182,
+      "start": 1587.51,
+      "end": 1594.79,
+      "start_timestamp": "00:26:27.510",
+      "end_timestamp": "00:26:34.790",
+      "text": "alors qu'il y a mille critères littérants. Il y a l'histoire, la langue, le schéma anthropologique, le rôle de la femme, par exemple."
+    },
+    {
+      "id": 183,
+      "start": 1594.79,
+      "end": 1600.39,
+      "start_timestamp": "00:26:34.790",
+      "end_timestamp": "00:26:40.390",
+      "text": "L'islam, on sait très bien que l'islam du Moyen-Orient n'a rien à voir avec l'islam du sous-continent indien,"
+    },
+    {
+      "id": 184,
+      "start": 1600.39,
+      "end": 1608.07,
+      "start_timestamp": "00:26:40.390",
+      "end_timestamp": "00:26:48.070",
+      "text": "puisqu'il y a le phénomène de la Shakti, vous connaissez peut-être, pour ceux qui connaissent le monde indien, le principe féminin qui prévaut sur tout autre chose."
+    },
+    {
+      "id": 185,
+      "start": 1608.07,
+      "end": 1613.99,
+      "start_timestamp": "00:26:48.070",
+      "end_timestamp": "00:26:53.990",
+      "text": "C'est pas pour rien que le sous-continent indien est la zone du monde où il y a le plus de chefs de gouvernement femmes,"
+    },
+    {
+      "id": 186,
+      "start": 1613.99,
+      "end": 1626.63,
+      "start_timestamp": "00:26:53.990",
+      "end_timestamp": "00:27:06.630",
+      "text": "que ce soit au Bangladesh avec la Begum Khalid Asia, que ce soit au Sri Lanka avec la Mme Bandaraneke Sukumaratunga qui a été présidente de la République du Sri Lanka,"
+    },
+    {
+      "id": 187,
+      "start": 1626.63,
+      "end": 1635.75,
+      "start_timestamp": "00:27:06.630",
+      "end_timestamp": "00:27:15.750",
+      "text": "que ce soit en Pakistan où il y avait eu la Mme Bhutto qui avait été premier ministre du Pakistan, que ce soit en Inde avec Indira Gandhi."
+    },
+    {
+      "id": 188,
+      "start": 1636.23,
+      "end": 1644.47,
+      "start_timestamp": "00:27:16.230",
+      "end_timestamp": "00:27:24.470",
+      "text": "Donc nous avons ici, ça prouve que ces schémas anthropologiques sont plus puissants que les religions, puisqu'il y a deux pays à domination musulmane,"
+    },
+    {
+      "id": 189,
+      "start": 1644.47,
+      "end": 1650.23,
+      "start_timestamp": "00:27:24.470",
+      "end_timestamp": "00:27:30.230",
+      "text": "Pakistan et Bangladesh, un pays à domination bouddhiste qui est le Sri Lanka, un pays à domination hindouiste qui est l'Inde,"
+    },
+    {
+      "id": 190,
+      "start": 1650.23,
+      "end": 1662.98,
+      "start_timestamp": "00:27:30.230",
+      "end_timestamp": "00:27:42.980",
+      "text": "et pourtant tous ces pays se retrouvent avec ce principe de la Shakti. On ne fait pas la différence entre le sunnite, les chiites, les aïdites."
+    },
+    {
+      "id": 191,
+      "start": 1663.06,
+      "end": 1672.98,
+      "start_timestamp": "00:27:43.060",
+      "end_timestamp": "00:27:52.980",
+      "text": "Toujours selon ce découpage, il y avait le monde bleu-ciel ici, c'est le monde orthodoxe, ils sont assez méchants, un peu moins que les verts, mais quand même."
+    },
+    {
+      "id": 192,
+      "start": 1674.66,
+      "end": 1687.27,
+      "start_timestamp": "00:27:54.660",
+      "end_timestamp": "00:28:07.270",
+      "text": "Il y a le monde chinois, très dangereux. Il y a le monde japonais, bon sympa, parce qu'on a des bases militaires chez eux, donc puis on leur a cassé la figure à deux reprises en 45."
+    },
+    {
+      "id": 193,
+      "start": 1688.23,
+      "end": 1697.59,
+      "start_timestamp": "00:28:08.230",
+      "end_timestamp": "00:28:17.590",
+      "text": "Il y a le monde indien, en orange, comme si l'Inde n'était pas un pays musulman, alors que l'Inde est le deuxième pays musulman de la planète après l'Indonésie,"
+    },
+    {
+      "id": 194,
+      "start": 1697.59,
+      "end": 1707.91,
+      "start_timestamp": "00:28:17.590",
+      "end_timestamp": "00:28:27.910",
+      "text": "en termes de population. Il y a plus de musulmans en Inde qu'au Pakistan ou qu'en Bangladesh, en tout cas ça se vaut. Et puis enfin, alors là, Terra incognita, c'est l'Afrique."
+    },
+    {
+      "id": 195,
+      "start": 1708.79,
+      "end": 1718.07,
+      "start_timestamp": "00:28:28.790",
+      "end_timestamp": "00:28:38.070",
+      "text": "Ceux-là, on ne sait pas très bien quoi en faire, donc on les met tous ensemble. On met des musulmans anglophones comme au Nigeria, des chrétiens francophones comme en Côte d'Ivoire,"
+    },
+    {
+      "id": 196,
+      "start": 1718.07,
+      "end": 1725.67,
+      "start_timestamp": "00:28:38.070",
+      "end_timestamp": "00:28:45.670",
+      "text": "on met des gens d'origine malaisienne comme les malgaches, d'origine bantoue comme en Afrique du Sud, on mélange des pays parmi les plus pauvres du monde,"
+    },
+    {
+      "id": 197,
+      "start": 1725.67,
+      "end": 1736.39,
+      "start_timestamp": "00:28:45.670",
+      "end_timestamp": "00:28:56.390",
+      "text": "comme par exemple, je ne sais pas moi, l'Éthiopie ou le Rwanda avec des pays qui sont quand même très développés ou assez développés, comme par exemple l'Afrique du Sud,"
+    },
+    {
+      "id": 198,
+      "start": 1736.39,
+      "end": 1750.31,
+      "start_timestamp": "00:28:56.390",
+      "end_timestamp": "00:29:10.310",
+      "text": "tout ceci va dans le même sac. Donc tout ceci n'a aucune valeur scientifique. C'est exactement comme l'Apartheid. Sauf que c'est exactement décrit comme ça dans le Choc des civilisations de Samuel Huntington."
+    },
+    {
+      "id": 199,
+      "start": 1750.39,
+      "end": 1761.35,
+      "start_timestamp": "00:29:10.390",
+      "end_timestamp": "00:29:21.350",
+      "text": "Le livre s'écrit en original The Clash of Civilisations and the Remaking of World Order. Le Choc des civilisations et la refondation de l'ordre mondial."
+    },
+    {
+      "id": 200,
+      "start": 1761.35,
+      "end": 1771.67,
+      "start_timestamp": "00:29:21.350",
+      "end_timestamp": "00:29:31.670",
+      "text": "Comme l'Apartheid sud-africain, ce n'est pas une innocente description du monde. Cela se veut d'une politique active pour refonder l'ordre mondial."
+    },
+    {
+      "id": 201,
+      "start": 1771.75,
+      "end": 1781.91,
+      "start_timestamp": "00:29:31.750",
+      "end_timestamp": "00:29:41.910",
+      "text": "Vous avez compris ce qu'était l'Apartheid sud-africain ? Vous comprenez maintenant ce que c'est le Choc des civilisations et vous comprenez maintenant ce que c'est que la construction européenne,"
+    },
+    {
+      "id": 202,
+      "start": 1781.91,
+      "end": 1799.11,
+      "start_timestamp": "00:29:41.910",
+      "end_timestamp": "00:29:59.110",
+      "text": "qui est l'un des éléments de définition de cet apartheid planétaire, voilà la réalité de la situation. Alors je voudrais attirer votre attention sur l'extrême méfiance que vous devez avoir lorsqu'on vous parle de civilisations."
+    },
+    {
+      "id": 203,
+      "start": 1799.11,
+      "end": 1809.27,
+      "start_timestamp": "00:29:59.110",
+      "end_timestamp": "00:30:09.270",
+      "text": "Il se trouve que je suis un amateur d'histoire et un amateur aussi de collection de médailles. Ça s'appelle la faléristique. Et dans mes médailles, chez moi, j'ai cette médaille à laquelle je tiens beaucoup."
+    },
+    {
+      "id": 204,
+      "start": 1809.27,
+      "end": 1819.75,
+      "start_timestamp": "00:30:09.270",
+      "end_timestamp": "00:30:19.750",
+      "text": "Elle n'est pas très grande. Elle doit faire à peu près un peu moins de 5 cm de diamètre. Elle a été frappée en 1854 à l'occasion d'une alliance."
+    },
+    {
+      "id": 205,
+      "start": 1819.83,
+      "end": 1835.91,
+      "start_timestamp": "00:30:19.830",
+      "end_timestamp": "00:30:35.910",
+      "text": "L'alliance, je veux le montrer un petit peu plus clairement, c'est en 1854, sous le règne de Napoléon III et celui de la reine Victoria d'Angleterre, la France et la Grande-Bretagne s'unirent pour assurer la paix du monde."
+    },
+    {
+      "id": 206,
+      "start": 1835.91,
+      "end": 1849.43,
+      "start_timestamp": "00:30:35.910",
+      "end_timestamp": "00:30:49.430",
+      "text": "Voilà ce qui est écrit au revers de cette médaille. Les puissances européennes en 1854 prétendaient faire la guerre pour assurer la paix du monde parce que c'est une guerre qu'il s'agit."
+    },
+    {
+      "id": 207,
+      "start": 1849.43,
+      "end": 1867.58,
+      "start_timestamp": "00:30:49.430",
+      "end_timestamp": "00:31:07.580",
+      "text": "À la limite, on pourrait écrire presque la même chose. En 2012, sous le règne de Sarkozy Ier et celui de la reine Élisabeth II, la France et la Grande-Bretagne s'unirent pour assurer la paix en Libye."
+    },
+    {
+      "id": 208,
+      "start": 1867.58,
+      "end": 1877.9,
+      "start_timestamp": "00:31:07.580",
+      "end_timestamp": "00:31:17.900",
+      "text": "C'est exactement la même chose. Mais le plus drôle, c'est l'avère de la médaille. Cette avère est extraordinaire. Je vais peut-être légèrement éteindre là pour le coup,"
+    },
+    {
+      "id": 209,
+      "start": 1877.9,
+      "end": 1897.34,
+      "start_timestamp": "00:31:17.900",
+      "end_timestamp": "00:31:37.340",
+      "text": "pour que vous voyez mieux ce qui... Voilà. Sur cette avère, vous voyez donc trois personnalités. Au centre, vous avez Napoléon III, avec marqué « catholicisme »."
+    },
+    {
+      "id": 210,
+      "start": 1897.34,
+      "end": 1907.34,
+      "start_timestamp": "00:31:37.340",
+      "end_timestamp": "00:31:47.340",
+      "text": "À côté, à gauche, à sa droite, à la droite de l'empereur des Français, il la tient par la main, vous avez la reine Victoria. Il y a marqué « protestantisme »."
+    },
+    {
+      "id": 211,
+      "start": 1907.5,
+      "end": 1916.94,
+      "start_timestamp": "00:31:47.500",
+      "end_timestamp": "00:31:56.940",
+      "text": "Et à droite, il le tient, il est à gauche de Napoléon III, il le tient par la main, c'est le sultan Abdulmessi I, il y a marqué « islamisme »."
+    },
+    {
+      "id": 212,
+      "start": 1916.94,
+      "end": 1931.8,
+      "start_timestamp": "00:31:56.940",
+      "end_timestamp": "00:32:11.800",
+      "text": "Et il y a marqué, en dessous, à l'exergue, comme on dit, « civilisation ». Et au-dessus, il y a marqué « Dieu les protège ». C'est quand même merveilleux."
+    },
+    {
+      "id": 213,
+      "start": 1931.8,
+      "end": 1944.36,
+      "start_timestamp": "00:32:11.800",
+      "end_timestamp": "00:32:24.360",
+      "text": "En 1854, « catholicisme », « protestantisme », « islamisme » firent ainsi la guerre pour défendre la civilisation contre qui ?"
+    },
+    {
+      "id": 214,
+      "start": 1944.36,
+      "end": 1957.34,
+      "start_timestamp": "00:32:24.360",
+      "end_timestamp": "00:32:37.340",
+      "text": "— Les Russes. — Contre les Russes. Contre l'orthodoxie. La lutte contre les civilisations, c'était les orthodoxes, les méchants."
+    },
+    {
+      "id": 215,
+      "start": 1957.5,
+      "end": 1972.82,
+      "start_timestamp": "00:32:37.500",
+      "end_timestamp": "00:32:52.820",
+      "text": "Qu'est-ce qui se passait ? En réalité, le prétexte religieux était évidemment fallacieux. Excusez-moi, je vais le ramener pour la compréhension."
+    },
+    {
+      "id": 216,
+      "start": 1972.82,
+      "end": 1984.34,
+      "start_timestamp": "00:32:52.820",
+      "end_timestamp": "00:33:04.340",
+      "text": "En réalité, le prétexte religieux était fallacieux. La véritable raison du conflit était que la Turquie était très faible, que les Français et les Anglais craignaient de voir la Russie,"
+    },
+    {
+      "id": 217,
+      "start": 1984.5,
+      "end": 1994.34,
+      "start_timestamp": "00:33:04.500",
+      "end_timestamp": "00:33:14.340",
+      "text": "du temps de Tsar Nicolas Ier, qui avait libéré la Moldavie, la Wallachie, c'est-à-dire ce qu'allait devenir la Roumanie actuelle, qui a foncé vers la zone nord des Balkans,"
+    },
+    {
+      "id": 218,
+      "start": 1994.34,
+      "end": 2003.54,
+      "start_timestamp": "00:33:14.340",
+      "end_timestamp": "00:33:23.540",
+      "text": "c'est-à-dire la partie nord de l'actuelle Bulgarie, qui avait comme objectif de libérer les Détroits, de conquérir Constantinople, de rendre Sainte-Sophie à la religion orthodoxe."
+    },
+    {
+      "id": 219,
+      "start": 2003.54,
+      "end": 2013.7,
+      "start_timestamp": "00:33:23.540",
+      "end_timestamp": "00:33:33.700",
+      "text": "Sauf que les Anglais ne le voyaient pas du tout de cette manière, puisque eux avaient pris pied à Chypre et donc entendaient avoir la maîtrise du commerce en Méditerranée orientale."
+    },
+    {
+      "id": 220,
+      "start": 2013.7,
+      "end": 2028.34,
+      "start_timestamp": "00:33:33.700",
+      "end_timestamp": "00:33:48.340",
+      "text": "Quant aux Français, d'abord, Napoléon III vouait une admiration sans bornes à la reine Victoria, un peu comme Sarkozy vouait une admiration sans bornes à Georges Bouches."
+    },
+    {
+      "id": 221,
+      "start": 2028.34,
+      "end": 2041.38,
+      "start_timestamp": "00:33:48.340",
+      "end_timestamp": "00:34:01.380",
+      "text": "Donc Napoléon III, saisi d'Anglomanie, s'était allié avec l'Angleterre, avec la vocation de protéger les chrétiens du Liban et du Levant,"
+    },
+    {
+      "id": 222,
+      "start": 2041.62,
+      "end": 2054.02,
+      "start_timestamp": "00:34:01.620",
+      "end_timestamp": "00:34:14.020",
+      "text": "dont nous avons la protection depuis la corde de François I avec Soliman le Magnifique en 1526, et donc faisait la guerre prétendument pour assurer la paix du monde"
+    },
+    {
+      "id": 223,
+      "start": 2054.02,
+      "end": 2064.58,
+      "start_timestamp": "00:34:14.020",
+      "end_timestamp": "00:34:24.580",
+      "text": "contre l'empire des Tsars, qui menaçaient de prendre les Détroits. C'est ce qui explique l'alliance entre la France de Napoléon III, le Royaume-Uni,"
+    },
+    {
+      "id": 224,
+      "start": 2064.66,
+      "end": 2072.02,
+      "start_timestamp": "00:34:24.660",
+      "end_timestamp": "00:34:32.020",
+      "text": "l'empire ottoman du Sultan Abdulmesside Ier, la bataille de Sébastopol. Si vous allez dans les grandes villes de France, à commencer par Paris,"
+    },
+    {
+      "id": 225,
+      "start": 2072.02,
+      "end": 2080.98,
+      "start_timestamp": "00:34:32.020",
+      "end_timestamp": "00:34:40.980",
+      "text": "vous avez à Paris le métro Crimée, vous avez le pont de l'Alma, vous avez le boulevard de Sébastopol. Tout ceci fait référence à cette période de l'histoire."
+    },
+    {
+      "id": 226,
+      "start": 2081.94,
+      "end": 2092.34,
+      "start_timestamp": "00:34:41.940",
+      "end_timestamp": "00:34:52.340",
+      "text": "Ce qui s'est passé après, c'est que, comme vous le savez, Napoléon III a été battu en 1870. Le second empire s'effondre. L'Allemagne, d'un seul coup,"
+    },
+    {
+      "id": 227,
+      "start": 2092.34,
+      "end": 2102.1,
+      "start_timestamp": "00:34:52.340",
+      "end_timestamp": "00:35:02.100",
+      "text": "devient un Reich. Bismarck, ce génie politique transforme qui avait déjà gagné la bataille de Sadova en 1866, à partir de 1871,"
+    },
+    {
+      "id": 228,
+      "start": 2102.1,
+      "end": 2109.86,
+      "start_timestamp": "00:35:02.100",
+      "end_timestamp": "00:35:09.860",
+      "text": "impose aux Français la création du deuxième Reich, qui est proclamé dans la Galerie des Glaces à Versailles. D'un seul coup, la France cherche un allié de revers."
+    },
+    {
+      "id": 229,
+      "start": 2111.35,
+      "end": 2119.27,
+      "start_timestamp": "00:35:11.350",
+      "end_timestamp": "00:35:19.270",
+      "text": "Or, l'Empire ottoman est en train de se désagréger. Et donc, quel est l'allié de revers de la IIIe République ? Il n'y en a qu'un, c'est la Russie."
+    },
+    {
+      "id": 230,
+      "start": 2120.15,
+      "end": 2132.87,
+      "start_timestamp": "00:35:20.150",
+      "end_timestamp": "00:35:32.870",
+      "text": "Donc, d'un seul coup, d'un seul, celui qu'il s'agissait de combattre en 1854 devient d'un seul coup l'allié privilégié. Cette assiette célèbre l'Alliance en représentant"
+    },
+    {
+      "id": 231,
+      "start": 2132.95,
+      "end": 2140.39,
+      "start_timestamp": "00:35:32.950",
+      "end_timestamp": "00:35:40.390",
+      "text": "l'Alliance franco-russes de 1886. Ça a même fait des entremets franco-russes. L'Alliance représentant deux soldats, l'un français et l'autre russe,"
+    },
+    {
+      "id": 232,
+      "start": 2140.39,
+      "end": 2150.31,
+      "start_timestamp": "00:35:40.390",
+      "end_timestamp": "00:35:50.310",
+      "text": "qui se serrent la main avec l'aide d'un ange. En 42 ans, la civilisation a complètement changé de camp. Désormais, la Russie est dans le camp de la civilisation."
+    },
+    {
+      "id": 233,
+      "start": 2150.31,
+      "end": 2157.99,
+      "start_timestamp": "00:35:50.310",
+      "end_timestamp": "00:35:57.990",
+      "text": "Ça, c'est une autre médaille que je possède qui est très belle. On voit le portrait de Nicolas II et d'Alexandr Affeodorovna, qui est la tsarine,"
+    },
+    {
+      "id": 234,
+      "start": 2157.99,
+      "end": 2169.35,
+      "start_timestamp": "00:35:57.990",
+      "end_timestamp": "00:36:09.350",
+      "text": "les mecs qui seront assassinés le 17 juillet 1918 à Yekaterinburg. Ils sont encore jeunes. Ils sont célébrés par la IIIe République en 1896."
+    },
+    {
+      "id": 235,
+      "start": 2169.35,
+      "end": 2178.15,
+      "start_timestamp": "00:36:09.350",
+      "end_timestamp": "00:36:18.150",
+      "text": "Ils vont à Cherbourg, à Paris, à Chalon. Ils sont accueillis par Félix Sefort, le président de la République, dont la décence m'interdit de dire comment il est mort."
+    },
+    {
+      "id": 236,
+      "start": 2178.15,
+      "end": 2190.99,
+      "start_timestamp": "00:36:18.150",
+      "end_timestamp": "00:36:30.990",
+      "text": "Et ils seront donc célébrés dans la chambre de la civilisation. Et puis arrive 1914-18. Et puis à la fin de 1918, on distribue des médailles."
+    },
+    {
+      "id": 237,
+      "start": 2190.99,
+      "end": 2201.51,
+      "start_timestamp": "00:36:30.990",
+      "end_timestamp": "00:36:41.510",
+      "text": "La grande médaille interalliée, République française, la grande guerre pour la civilisation 1914-18. C'est-à-dire que l'ennemi de la civilisation, c'est l'Allemagne."
+    },
+    {
+      "id": 238,
+      "start": 2201.55,
+      "end": 2211.51,
+      "start_timestamp": "00:36:41.550",
+      "end_timestamp": "00:36:51.510",
+      "text": "Alors je crois que c'est quand même très important de regarder ça. Ça vous fait un peu sourire. C'est un survol historique un peu plaisant, mais qui – je crois – est très profond."
+    },
+    {
+      "id": 239,
+      "start": 2211.51,
+      "end": 2217.31,
+      "start_timestamp": "00:36:51.510",
+      "end_timestamp": "00:36:57.310",
+      "text": "Ce que ça veut dire, c'est que les Français – pas seulement les Français, mais les Français en particulier, puisque c'est les exemples que je donne"
+    },
+    {
+      "id": 240,
+      "start": 2217.31,
+      "end": 2231.23,
+      "start_timestamp": "00:36:57.310",
+      "end_timestamp": "00:37:11.230",
+      "text": "qui me concernent directement – doivent refuser, mordicus, tout concept de guerre des civilisations, qui a hélas prouvé sa fausté et sa dangerosité tout au long de notre histoire."
+    },
+    {
+      "id": 241,
+      "start": 2231.27,
+      "end": 2240.23,
+      "start_timestamp": "00:37:11.270",
+      "end_timestamp": "00:37:20.230",
+      "text": "La guerre des civilisations, c'est la rhétorique classique de mise en condition de l'opinion pour donner un caractère légitime à des guerres d'agression"
+    },
+    {
+      "id": 242,
+      "start": 2240.23,
+      "end": 2247.55,
+      "start_timestamp": "00:37:20.230",
+      "end_timestamp": "00:37:27.550",
+      "text": "dont les vraies raisons sont géopolitiques, économiques et commerciales. C'est aujourd'hui le cas. Quand on dit de défendre la civilisation,"
+    },
+    {
+      "id": 243,
+      "start": 2247.55,
+      "end": 2255.15,
+      "start_timestamp": "00:37:27.550",
+      "end_timestamp": "00:37:35.150",
+      "text": "on rentre en menade à le terrorisme islamiste. Qu'est-ce qu'il se passe concrètement ? Il se passe concrètement des guerres néocoloniales illégales"
+    },
+    {
+      "id": 244,
+      "start": 2255.15,
+      "end": 2265.03,
+      "start_timestamp": "00:37:35.150",
+      "end_timestamp": "00:37:45.030",
+      "text": "qui vont faire un million de morts en Irak, etc., d'appropriation des matières premières en Irak, en Libye, etc. C'est de ça qu'il s'agit."
+    },
+    {
+      "id": 245,
+      "start": 2265.03,
+      "end": 2275.13,
+      "start_timestamp": "00:37:45.030",
+      "end_timestamp": "00:37:55.130",
+      "text": "Et de grands travaux pour Halliburton. C'est de ça qu'il s'agit. De nos jours, c'est le complément idéologique de la construction européenne"
+    },
+    {
+      "id": 246,
+      "start": 2275.13,
+      "end": 2283.89,
+      "start_timestamp": "00:37:55.130",
+      "end_timestamp": "00:38:03.890",
+      "text": "qui vise à faire coïncir le périmètre de l'OTAN et des États-Unis plus de l'UE, périmètre rebaptisé communauté internationale dans tous les médias de ce bloc."
+    },
+    {
+      "id": 247,
+      "start": 2283.89,
+      "end": 2293.41,
+      "start_timestamp": "00:38:03.890",
+      "end_timestamp": "00:38:13.410",
+      "text": "Ça fait partie du mélange, du discours, de la nove-langue d'aujourd'hui. Communauté internationale. Quand vous êtes à la radio,"
+    },
+    {
+      "id": 248,
+      "start": 2293.41,
+      "end": 2300.89,
+      "start_timestamp": "00:38:13.410",
+      "end_timestamp": "00:38:20.890",
+      "text": "je sais pas ce qui est en Belgique, mais en France, la communauté internationale est très préoccupée par la situation des droits de l'homme en Chine."
+    },
+    {
+      "id": 249,
+      "start": 2300.89,
+      "end": 2309.92,
+      "start_timestamp": "00:38:20.890",
+      "end_timestamp": "00:38:29.920",
+      "text": "Tiens, la Chine, 22% de l'humanité, n'est pas dans la communauté internationale. La communauté internationale s'inquiète de la décision prise"
+    },
+    {
+      "id": 250,
+      "start": 2309.92,
+      "end": 2318.95,
+      "start_timestamp": "00:38:29.920",
+      "end_timestamp": "00:38:38.950",
+      "text": "par la présidente argentine de renationaliser une entreprise espagnole. Tiens, l'Argentine n'est pas non plus dans la communauté internationale."
+    },
+    {
+      "id": 251,
+      "start": 2318.95,
+      "end": 2329.79,
+      "start_timestamp": "00:38:38.950",
+      "end_timestamp": "00:38:49.790",
+      "text": "La communauté internationale demande la libération des Pussy Riot injustement emprisonnés en Russie. Oh ! La Russie n'est pas dans la communauté internationale non plus."
+    },
+    {
+      "id": 252,
+      "start": 2329.79,
+      "end": 2335.15,
+      "start_timestamp": "00:38:49.790",
+      "end_timestamp": "00:38:55.150",
+      "text": "La communauté internationale est très inquiète des projets nucléaires iraniens. Mince, l'Iran n'est pas dans la communauté internationale."
+    },
+    {
+      "id": 253,
+      "start": 2335.15,
+      "end": 2341.03,
+      "start_timestamp": "00:38:55.150",
+      "end_timestamp": "00:39:01.030",
+      "text": "La communauté internationale est très inquiète d'une manœuvre faite par la Corée du Nord. La Corée du Nord n'est pas dans la communauté internationale."
+    },
+    {
+      "id": 254,
+      "start": 2341.07,
+      "end": 2348.59,
+      "start_timestamp": "00:39:01.070",
+      "end_timestamp": "00:39:08.590",
+      "text": "La communauté internationale s'inquiète des idées ives qui ont pu être commises dans tel ou tel parti pays du Sud, de l'Afrique."
+    },
+    {
+      "id": 255,
+      "start": 2348.59,
+      "end": 2354.51,
+      "start_timestamp": "00:39:08.590",
+      "end_timestamp": "00:39:14.510",
+      "text": "Pfff... C'est qui qui est dans la communauté internationale, en définitive ? Ceux qui sont dans la communauté internationale,"
+    },
+    {
+      "id": 256,
+      "start": 2354.51,
+      "end": 2363.15,
+      "start_timestamp": "00:39:14.510",
+      "end_timestamp": "00:39:23.150",
+      "text": "ce sont les États-Unis américains et les États-Unis européens. Point. Donc voilà ce qui se cache derrière la construction européenne."
+    },
+    {
+      "id": 257,
+      "start": 2363.15,
+      "end": 2373.03,
+      "start_timestamp": "00:39:23.150",
+      "end_timestamp": "00:39:33.030",
+      "text": "Et je voudrais attirer à cette occasion votre attention sur quelque chose qui vous permet de montrer la fausté de tous les gens"
+    },
+    {
+      "id": 258,
+      "start": 2373.03,
+      "end": 2381.67,
+      "start_timestamp": "00:39:33.030",
+      "end_timestamp": "00:39:41.670",
+      "text": "qui vous parlent de choc des civilisations. Le monde d'aujourd'hui n'est pas celui que l'on vous présente. Vous devez refuser la construction européenne,"
+    },
+    {
+      "id": 259,
+      "start": 2381.67,
+      "end": 2388.95,
+      "start_timestamp": "00:39:41.670",
+      "end_timestamp": "00:39:48.950",
+      "text": "parce que ça n'est pas l'aimable construction porteuse de paix que l'on vous présente depuis que vous êtes nés. C'est tout le contraire qui est vrai."
+    },
+    {
+      "id": 260,
+      "start": 2388.99,
+      "end": 2396.19,
+      "start_timestamp": "00:39:48.990",
+      "end_timestamp": "00:39:56.190",
+      "text": "C'est une construction qui partage les torchons et les serviettes. C'est une construction qui postule que les Français, par exemple,"
+    },
+    {
+      "id": 261,
+      "start": 2396.19,
+      "end": 2404.83,
+      "start_timestamp": "00:39:56.190",
+      "end_timestamp": "00:40:04.830",
+      "text": "devraient fusionner avec les Laëtons, les Lituaniens, les Estoniens, les Slovaks, les Finlandais, les Chypriotes. Je n'ai rien contre ces peuples."
+    },
+    {
+      "id": 262,
+      "start": 2404.83,
+      "end": 2412.43,
+      "start_timestamp": "00:40:04.830",
+      "end_timestamp": "00:40:12.430",
+      "text": "Mais il se trouve que les Français ne les connaissent pratiquement pas. Il y a, je crois, de mémoire, quelque chose comme 800 Finlandais"
+    },
+    {
+      "id": 263,
+      "start": 2412.43,
+      "end": 2422.23,
+      "start_timestamp": "00:40:12.430",
+      "end_timestamp": "00:40:22.230",
+      "text": "qui sont inscrits au Consulat de Finlande en France vivant, résidant en France. Nous avons 5 à 6 millions de Français d'origine maghrébine."
+    },
+    {
+      "id": 264,
+      "start": 2422.23,
+      "end": 2431.19,
+      "start_timestamp": "00:40:22.230",
+      "end_timestamp": "00:40:31.190",
+      "text": "C'est tout. Il n'y a pas besoin de discuter. Nos liens nous poussent la France beaucoup plus vers les pays du Sud que vers des pays de l'UE."
+    },
+    {
+      "id": 265,
+      "start": 2431.19,
+      "end": 2441.11,
+      "start_timestamp": "00:40:31.190",
+      "end_timestamp": "00:40:41.110",
+      "text": "Et dire le contraire, c'est imposer un raisonnement qui est contraire à la réalité des faits et qui a comme arrière-pensée l'idée de bâtir"
+    },
+    {
+      "id": 266,
+      "start": 2441.15,
+      "end": 2447.75,
+      "start_timestamp": "00:40:41.150",
+      "end_timestamp": "00:40:47.750",
+      "text": "un choc des civilisations qui est celui que je vous ai montré. Alors il y a quelque chose qui me permet de prouver ce raisonnement."
+    },
+    {
+      "id": 267,
+      "start": 2447.75,
+      "end": 2456.03,
+      "start_timestamp": "00:40:47.750",
+      "end_timestamp": "00:40:56.030",
+      "text": "Ce sont les affinités réelles entre les peuples telles qu'on peut le mesurer d'après Facebook. J'ai trouvé un logiciel formidable qui permet de voir..."
+    },
+    {
+      "id": 268,
+      "start": 2456.03,
+      "end": 2464.19,
+      "start_timestamp": "00:40:56.030",
+      "end_timestamp": "00:41:04.190",
+      "text": "Alors ça n'est qu'un élément parmi d'autres, mais il est original et il a le mérite de s'intéresser à un moyen de communication très contemporain"
+    },
+    {
+      "id": 269,
+      "start": 2464.19,
+      "end": 2470.15,
+      "start_timestamp": "00:41:04.190",
+      "end_timestamp": "00:41:10.150",
+      "text": "qui sont les liens d'amitié Facebook. Vous savez que Facebook, c'est essentiellement des gens de moins de 35 ou 40 ans."
+    },
+    {
+      "id": 270,
+      "start": 2470.19,
+      "end": 2479.11,
+      "start_timestamp": "00:41:10.190",
+      "end_timestamp": "00:41:19.110",
+      "text": "Donc c'est quelque chose d'avenir. Nous avons ici des cartes qui représentent en fonction du diamètre l'importance du nombre de liens d'amitié."
+    },
+    {
+      "id": 271,
+      "start": 2479.11,
+      "end": 2487.03,
+      "start_timestamp": "00:41:19.110",
+      "end_timestamp": "00:41:27.030",
+      "text": "Ça se chiffre par ailleurs en dizaines de milliers, centaines de milliers, parfois millions. L'importance des liens d'amitié entre les peuples du monde."
+    },
+    {
+      "id": 272,
+      "start": 2487.03,
+      "end": 2495.51,
+      "start_timestamp": "00:41:27.030",
+      "end_timestamp": "00:41:35.510",
+      "text": "Les affinités réelles du peuple français telles qu'on le voit d'après ces statistiques, en un, c'est avec les Belges ou allons."
+    },
+    {
+      "id": 273,
+      "start": 2495.51,
+      "end": 2504.43,
+      "start_timestamp": "00:41:35.510",
+      "end_timestamp": "00:41:44.430",
+      "text": "Je suis pas là pour vous cirer les pompes, mais c'est la vérité. En un, c'est la Belgique avec laquelle il y a le plus de liens Facebook."
+    },
+    {
+      "id": 274,
+      "start": 2504.43,
+      "end": 2513.67,
+      "start_timestamp": "00:41:44.430",
+      "end_timestamp": "00:41:53.670",
+      "text": "Et puis en deux, c'est le Maroc et les Marocains. Et puis en trois, ce sont les Tunisiens. Et puis en quatre, ce sont les Algériens."
+    },
+    {
+      "id": 275,
+      "start": 2513.67,
+      "end": 2522.95,
+      "start_timestamp": "00:41:53.670",
+      "end_timestamp": "00:42:02.950",
+      "text": "Et en cinq, ce sont les Suisses romans. Ça ne veut pas dire que nous n'avons pas des liens avec des Canadiens, des Mexicains, avec des Vénézuéliens,"
+    },
+    {
+      "id": 276,
+      "start": 2522.99,
+      "end": 2532.47,
+      "start_timestamp": "00:42:02.990",
+      "end_timestamp": "00:42:12.470",
+      "text": "avec Madagascar, la Réunion, etc., avec Lille-Maurice. Mais ça veut dire qu'en termes de volume, voilà quels sont les premiers liens des Français,"
+    },
+    {
+      "id": 277,
+      "start": 2532.47,
+      "end": 2543.67,
+      "start_timestamp": "00:42:12.470",
+      "end_timestamp": "00:42:23.670",
+      "text": "les liens d'amitié. C'est normal. Ça correspond à la composition linguistique de notre pays et également à la composition avec les immigrations,"
+    },
+    {
+      "id": 278,
+      "start": 2543.67,
+      "end": 2552.47,
+      "start_timestamp": "00:42:23.670",
+      "end_timestamp": "00:42:32.470",
+      "text": "avec les liens familiaux, les liens touristiques, les liens commerciaux qui existent. Et ce qui existe pour la France, donc qui montre que les Français"
+    },
+    {
+      "id": 279,
+      "start": 2552.51,
+      "end": 2560.31,
+      "start_timestamp": "00:42:32.510",
+      "end_timestamp": "00:42:40.310",
+      "text": "n'ont que de faibles liens avec tous les peuples de l'UE, à l'exception des Belges, les liens avec les pays du Maghreb sont beaucoup plus forts."
+    },
+    {
+      "id": 280,
+      "start": 2561.15,
+      "end": 2567.95,
+      "start_timestamp": "00:42:41.150",
+      "end_timestamp": "00:42:47.950",
+      "text": "Mais nous avons maintenant, si on regarde pour l'Allemagne, les affinités du peuple allemand. C'est en un, les Autrichiens."
+    },
+    {
+      "id": 281,
+      "start": 2568.83,
+      "end": 2576.47,
+      "start_timestamp": "00:42:48.830",
+      "end_timestamp": "00:42:56.470",
+      "text": "Il y a même un type qui s'appelle Adolf en 1938, qui pensait que c'était le même peuple. En deux, les Suisses alémaniques."
+    },
+    {
+      "id": 282,
+      "start": 2576.95,
+      "end": 2582.59,
+      "start_timestamp": "00:42:56.950",
+      "end_timestamp": "00:43:02.590",
+      "text": "En trois, les Turcs. Ben oui, parce qu'il y a une très forte communauté turcophone d'origine turque en Allemagne."
+    },
+    {
+      "id": 283,
+      "start": 2583.79,
+      "end": 2591.63,
+      "start_timestamp": "00:43:03.790",
+      "end_timestamp": "00:43:11.630",
+      "text": "En quatre, les Néerlandais, parce qu'il y a une proximité de l'Allemagne et des Pays-Bas. Et en cinq, les Serbes."
+    },
+    {
+      "id": 284,
+      "start": 2592.83,
+      "end": 2599.39,
+      "start_timestamp": "00:43:12.830",
+      "end_timestamp": "00:43:19.390",
+      "text": "Voilà la réalité de la situation. Les liens des Allemands avec la France, on nous bassine avec l'amitié franco-allemande."
+    },
+    {
+      "id": 285,
+      "start": 2599.39,
+      "end": 2605.67,
+      "start_timestamp": "00:43:19.390",
+      "end_timestamp": "00:43:25.670",
+      "text": "C'est une plaisanterie de garçon bain. Je ne dis pas ça par anti-germainisme. Pas du tout."
+    },
+    {
+      "id": 286,
+      "start": 2606.15,
+      "end": 2611.67,
+      "start_timestamp": "00:43:26.150",
+      "end_timestamp": "00:43:31.670",
+      "text": "Je dis simplement que ce sont les réalités que je vous montre. Les Allemands n'ont que de très faibles liens avec les Français,"
+    },
+    {
+      "id": 287,
+      "start": 2611.67,
+      "end": 2618.83,
+      "start_timestamp": "00:43:31.670",
+      "end_timestamp": "00:43:38.830",
+      "text": "beaucoup plus faibles que les liens avec les Turcs. Les liens que les Allemands ont avec les Français sont de même ordre que ceux qu'ils ont avec les Australiens."
+    },
+    {
+      "id": 288,
+      "start": 2620.03,
+      "end": 2627.71,
+      "start_timestamp": "00:43:40.030",
+      "end_timestamp": "00:43:47.710",
+      "text": "Les affinités du peuple britannique, telles que ça ressort par les liens d'amitié Facebook, en un, les Irlandais, en deux, les Australiens,"
+    },
+    {
+      "id": 289,
+      "start": 2627.79,
+      "end": 2637.39,
+      "start_timestamp": "00:43:47.790",
+      "end_timestamp": "00:43:57.390",
+      "text": "en trois, les Nigériens, en quatre, les Sud-Africains, en cinq, les Néo-Zélandais. Là aussi, ce qui prime, ce sont les liens de l'histoire,"
+    },
+    {
+      "id": 290,
+      "start": 2637.39,
+      "end": 2644.39,
+      "start_timestamp": "00:43:57.390",
+      "end_timestamp": "00:44:04.390",
+      "text": "de la langue, du Commonwealth, des immigrations, des mouvements migratoires. Les Britanniques ont les liens les plus forts avec les pays du Commonwealth."
+    },
+    {
+      "id": 291,
+      "start": 2644.39,
+      "end": 2651.39,
+      "start_timestamp": "00:44:04.390",
+      "end_timestamp": "00:44:11.390",
+      "text": "Ils ont des liens faibles avec tous les peuples de l'Union européenne, à l'exception des Irlandais. Les affinités réelles du peuple espagnol,"
+    },
+    {
+      "id": 292,
+      "start": 2651.47,
+      "end": 2658.47,
+      "start_timestamp": "00:44:11.470",
+      "end_timestamp": "00:44:18.470",
+      "text": "en un, les Équatoriens, en deux, les Dominicains. Les Dominicains, le république dominicaine, ce n'est pas des Moines, ce n'est pas des Franciscains."
+    },
+    {
+      "id": 293,
+      "start": 2658.47,
+      "end": 2668.39,
+      "start_timestamp": "00:44:18.470",
+      "end_timestamp": "00:44:28.390",
+      "text": "En quatre, les Roumains. En trois, les Roumains. En quatre, les Colombiens. En cinq, les Vénézuéliens. Les Espagnols ont les liens les plus forts avec les pays hispanophones"
+    },
+    {
+      "id": 294,
+      "start": 2668.39,
+      "end": 2674.39,
+      "start_timestamp": "00:44:28.390",
+      "end_timestamp": "00:44:34.390",
+      "text": "d'Amérique latine. Ils n'ont que d'assez faibles liens avec tous les peuples de l'Union européenne, à l'exception des Roumains."
+    },
+    {
+      "id": 295,
+      "start": 2674.39,
+      "end": 2682.39,
+      "start_timestamp": "00:44:34.390",
+      "end_timestamp": "00:44:42.390",
+      "text": "Les affinités réelles du peuple portugais. En un, les Suisses. En deux, les Capverdiens, qui sont un pays lusophone. En trois, les Angolais, pays lusophones,"
+    },
+    {
+      "id": 296,
+      "start": 2682.39,
+      "end": 2691.39,
+      "start_timestamp": "00:44:42.390",
+      "end_timestamp": "00:44:51.390",
+      "text": "anciennes colonies portugaises. En quatre, les Brésiliens, pays qui parlent le portugais. En cinq, les Français. Bah oui, parce qu'il y a eu une forte immigration portugaise"
+    },
+    {
+      "id": 297,
+      "start": 2691.39,
+      "end": 2699.39,
+      "start_timestamp": "00:44:51.390",
+      "end_timestamp": "00:44:59.390",
+      "text": "en France dans les années 60. C'était l'époque de Linda de Sousa, de la valise en carton. Et puis ça s'est taré dans les années 70-80."
+    },
+    {
+      "id": 298,
+      "start": 2699.39,
+      "end": 2706.39,
+      "start_timestamp": "00:44:59.390",
+      "end_timestamp": "00:45:06.390",
+      "text": "Et maintenant, il y a des Français d'origine portugaise dont les liens petit à petit d'ailleurs se distandent avec la mère patrie d'origine,"
+    },
+    {
+      "id": 299,
+      "start": 2706.39,
+      "end": 2715.39,
+      "start_timestamp": "00:45:06.390",
+      "end_timestamp": "00:45:15.390",
+      "text": "mais qui ont quand même gardé encore des liens avec le Portugal, ce qui explique ce classement. Les affinités réelles maintenant du peuple algérien."
+    },
+    {
+      "id": 300,
+      "start": 2715.39,
+      "end": 2725.39,
+      "start_timestamp": "00:45:15.390",
+      "end_timestamp": "00:45:25.390",
+      "text": "En un, les Tunisiens. En deux, les Marocains. En trois, les Français. En quatre, les Égyptiens. Et en cinq, les Jordaniens. Là aussi, c'est l'histoire"
+    },
+    {
+      "id": 301,
+      "start": 2725.39,
+      "end": 2733.39,
+      "start_timestamp": "00:45:25.390",
+      "end_timestamp": "00:45:33.390",
+      "text": "qui prime surtout. Pourquoi la Jordanie-Égypte ? Parce qu'il y a un certain nombre de travailleurs émigrés algériens qui vont travailler dans ces pays."
+    },
+    {
+      "id": 302,
+      "start": 2733.39,
+      "end": 2741.39,
+      "start_timestamp": "00:45:33.390",
+      "end_timestamp": "00:45:41.390",
+      "text": "Les affinités réelles du peuple marocain. En un, les Algériens. En deux, les Tunisiens. En trois, les Français. En quatre, les Égyptiens."
+    },
+    {
+      "id": 303,
+      "start": 2741.39,
+      "end": 2749.39,
+      "start_timestamp": "00:45:41.390",
+      "end_timestamp": "00:45:49.390",
+      "text": "En cinq, les Sahrawis. Mais le Sahara occidental, comme vous le savez, disputé. Les Marocains considèrent que ça fait partie intégrante de leur propre pays."
+    },
+    {
+      "id": 304,
+      "start": 2749.39,
+      "end": 2756.39,
+      "start_timestamp": "00:45:49.390",
+      "end_timestamp": "00:45:56.390",
+      "text": "C'est intéressant de voir, dans le cas précédent comme dans celui-ci, qu'il n'y a pas d'UMA musulmane sur Facebook."
+    },
+    {
+      "id": 305,
+      "start": 2756.39,
+      "end": 2762.39,
+      "start_timestamp": "00:45:56.390",
+      "end_timestamp": "00:46:02.390",
+      "text": "Les présupposés du choc des civilisations n'existent pas. Et c'est tant mieux, d'ailleurs, qu'il en soit ainsi."
+    },
+    {
+      "id": 306,
+      "start": 2762.39,
+      "end": 2771.39,
+      "start_timestamp": "00:46:02.390",
+      "end_timestamp": "00:46:11.390",
+      "text": "Il n'y a pas une fascination des internautes marocains pour l'Arabie saoudite, pour l'Iran, pour les pays. Non."
+    },
+    {
+      "id": 307,
+      "start": 2771.39,
+      "end": 2780.39,
+      "start_timestamp": "00:46:11.390",
+      "end_timestamp": "00:46:20.390",
+      "text": "Les liens qui priment, ce sont les liens laissés par l'histoire ou par la géographie ou par la langue."
+    },
+    {
+      "id": 308,
+      "start": 2780.39,
+      "end": 2786.39,
+      "start_timestamp": "00:46:20.390",
+      "end_timestamp": "00:46:26.390",
+      "text": "Il n'y a pas d'UMA musulmane sur Facebook. La théorie du choc des civilisations est démentie sur les faits."
+    },
+    {
+      "id": 309,
+      "start": 2786.39,
+      "end": 2795.39,
+      "start_timestamp": "00:46:26.390",
+      "end_timestamp": "00:46:35.390",
+      "text": "Elle repose sur des préjugés et sur des mensonges. Les affinités réelles du peuple sénégalais, du moins des sénégalais qui ont accès à Internet."
+    },
+    {
+      "id": 310,
+      "start": 2795.39,
+      "end": 2802.39,
+      "start_timestamp": "00:46:35.390",
+      "end_timestamp": "00:46:42.390",
+      "text": "Bien entendu, ce n'est pas forcément révélateur de toute la population sénégalaise. Mais on voit qu'en un, c'est les Français. Bah oui."
+    },
+    {
+      "id": 311,
+      "start": 2802.39,
+      "end": 2809.39,
+      "start_timestamp": "00:46:42.390",
+      "end_timestamp": "00:46:49.390",
+      "text": "Il y a une très forte émigration sénégalaise en France. Il y a aussi un certain nombre de Français présents au Sénégal."
+    },
+    {
+      "id": 312,
+      "start": 2809.39,
+      "end": 2815.39,
+      "start_timestamp": "00:46:49.390",
+      "end_timestamp": "00:46:55.390",
+      "text": "En deux, les Mauritaniens. En trois, les Ivoiriens. En quatre, les Marocains. En cinq, les Espagnols."
+    },
+    {
+      "id": 313,
+      "start": 2815.39,
+      "end": 2821.39,
+      "start_timestamp": "00:46:55.390",
+      "end_timestamp": "00:47:01.390",
+      "text": "Ce qui est intéressant, c'est de noter la prééminence des liens avec la France et avec la francophonie."
+    },
+    {
+      "id": 314,
+      "start": 2821.39,
+      "end": 2828.39,
+      "start_timestamp": "00:47:01.390",
+      "end_timestamp": "00:47:08.390",
+      "text": "Les liens du peuple mauricien de l'île Maurice. Je ne vais pas vous en parler comme ça pendant des heures."
+    },
+    {
+      "id": 315,
+      "start": 2828.39,
+      "end": 2834.39,
+      "start_timestamp": "00:47:08.390",
+      "end_timestamp": "00:47:14.390",
+      "text": "Je pourrais vous parler des 200 pays. Mais tout ça est tout à fait passionnant. En un, c'est les Français de la Réunion et de la métropole."
+    },
+    {
+      "id": 316,
+      "start": 2834.39,
+      "end": 2840.39,
+      "start_timestamp": "00:47:14.390",
+      "end_timestamp": "00:47:20.390",
+      "text": "En deux, les Australiens. En trois, les Britanniques. En quatre, les Indiens. Vous avez qu'une très forte communauté d'origine indienne à l'île Maurice."
+    },
+    {
+      "id": 317,
+      "start": 2840.39,
+      "end": 2850.39,
+      "start_timestamp": "00:47:20.390",
+      "end_timestamp": "00:47:30.390",
+      "text": "À peu près 70% de la population. À noter la prééminence des liens avec la France et l'océan Indien. Je terminerai avec les affinités réelles du peuple haïtien."
+    },
+    {
+      "id": 318,
+      "start": 2850.39,
+      "end": 2860.39,
+      "start_timestamp": "00:47:30.390",
+      "end_timestamp": "00:47:40.390",
+      "text": "En un, les Français, à la fois de France et de Guadeloupe. En deux, la Dominique, parce qu'il y a beaucoup de personnel dans les hôtels de République dominicaine."
+    },
+    {
+      "id": 319,
+      "start": 2860.39,
+      "end": 2866.39,
+      "start_timestamp": "00:47:40.390",
+      "end_timestamp": "00:47:46.390",
+      "text": "En trois, les Canadiens. Il y a une forte communauté haïtienne au Canada, en particulier au Québec francophone."
+    },
+    {
+      "id": 320,
+      "start": 2866.39,
+      "end": 2873.39,
+      "start_timestamp": "00:47:46.390",
+      "end_timestamp": "00:47:53.390",
+      "text": "Et en quatre, les Américains. Il y a une forte communauté haïtienne, aussi bien en Floride qu'en New York. Voilà la réalité."
+    },
+    {
+      "id": 321,
+      "start": 2873.39,
+      "end": 2883.39,
+      "start_timestamp": "00:47:53.390",
+      "end_timestamp": "00:48:03.390",
+      "text": "Il a noté la prééminence des liens avec la France et l'environnement régional. Nous voici arrivés à la fin de cette conférence, dont ma conclusion,"
+    },
+    {
+      "id": 322,
+      "start": 2883.39,
+      "end": 2894.39,
+      "start_timestamp": "00:48:03.390",
+      "end_timestamp": "00:48:14.390",
+      "text": "ce sera un proverbe français qui dit « qui veut faire l'ange, fait la bête ». Oui, parce qu'évidemment, moi, quand j'étais jeune, quand j'étais étudiant,"
+    },
+    {
+      "id": 323,
+      "start": 2894.39,
+      "end": 2900.39,
+      "start_timestamp": "00:48:14.390",
+      "end_timestamp": "00:48:20.390",
+      "text": "la première fois que j'ai eu le droit de vote, j'ai voté pour la liste de Mme Simone Weil de l'UDF, peut-être le plus européiste qui soit,"
+    },
+    {
+      "id": 324,
+      "start": 2900.39,
+      "end": 2906.39,
+      "start_timestamp": "00:48:20.390",
+      "end_timestamp": "00:48:26.390",
+      "text": "parce que finalement, je faisais ce qu'on m'avait enseigné. Et comme je suis comme tout le monde, c'est-à-dire que je suis pour la paix,"
+    },
+    {
+      "id": 325,
+      "start": 2906.39,
+      "end": 2911.39,
+      "start_timestamp": "00:48:26.390",
+      "end_timestamp": "00:48:31.390",
+      "text": "et que je suis pour l'entente avec les peuples et les civilisations, comme j'aime beaucoup voyager, je trouvais que c'était très bien."
+    },
+    {
+      "id": 326,
+      "start": 2911.39,
+      "end": 2922.39,
+      "start_timestamp": "00:48:31.390",
+      "end_timestamp": "00:48:42.390",
+      "text": "Sauf qu'en réalité, j'ai petit à petit découvert ce qui se cachait derrière tout ce projet. C'est un projet qui porte en lui la guerre,"
+    },
+    {
+      "id": 327,
+      "start": 2922.39,
+      "end": 2932.39,
+      "start_timestamp": "00:48:42.390",
+      "end_timestamp": "00:48:52.390",
+      "text": "qui porte en lui la xénophobie, contrairement à ce que l'on nous assure, qui porte en lui la pensée impériale. Voici par exemple le European Air Group."
+    },
+    {
+      "id": 328,
+      "start": 2932.39,
+      "end": 2941.39,
+      "start_timestamp": "00:48:52.390",
+      "end_timestamp": "00:49:01.390",
+      "text": "« Improve capability through interoperability ». Vous voyez que c'est écrit en européen. Donc c'est quoi les symboles ?"
+    },
+    {
+      "id": 329,
+      "start": 2941.39,
+      "end": 2950.39,
+      "start_timestamp": "00:49:01.390",
+      "end_timestamp": "00:49:10.390",
+      "text": "Ça, c'était le vendredi 15 juillet 2011, la réunion annuelle du groupe de travail. Ce sont les embryons de l'armée européenne que l'on veut nous promouvoir,"
+    },
+    {
+      "id": 330,
+      "start": 2950.39,
+      "end": 2960.39,
+      "start_timestamp": "00:49:10.390",
+      "end_timestamp": "00:49:20.390",
+      "text": "où sont passés les symboles de la République française. On a le retour de l'aigle impériale. Je renvoie à ceux de ça intérêt"
+    },
+    {
+      "id": 331,
+      "start": 2960.39,
+      "end": 2968.67,
+      "start_timestamp": "00:49:20.390",
+      "end_timestamp": "00:49:28.670",
+      "text": "à ma conférence sur l'histoire de France et sur les symboliques des aigles et la symbolique de la République."
+    },
+    {
+      "id": 332,
+      "start": 2968.67,
+      "end": 2975.67,
+      "start_timestamp": "00:49:28.670",
+      "end_timestamp": "00:49:35.670",
+      "text": "Est-ce que vous croyez que c'est quelque chose qui est sain, cette espèce d'aigle qui domine la planète ?"
+    },
+    {
+      "id": 333,
+      "start": 2975.67,
+      "end": 2985.67,
+      "start_timestamp": "00:49:35.670",
+      "end_timestamp": "00:49:45.670",
+      "text": "Est-ce que vous croyez qu'il est sain de voir ces personnalités qui singent à s'y méprendre les militaires américains ?"
+    },
+    {
+      "id": 334,
+      "start": 2985.67,
+      "end": 2993.67,
+      "start_timestamp": "00:49:45.670",
+      "end_timestamp": "00:49:53.670",
+      "text": "Parce que c'est de ça qu'il s'agit. Avec la même couleur bleu-pétrole, les uniformes, le même côté veterans, le même côté patriotique,"
+    },
+    {
+      "id": 335,
+      "start": 2993.67,
+      "end": 3000.67,
+      "start_timestamp": "00:49:53.670",
+      "end_timestamp": "00:50:00.670",
+      "text": "mais un patriotique qu'un nationalisme européen. Les mêmes qui vous disent « Quoi ? Vous voulez sortir de l'Europe ? Vous êtes un nationalisme ? »"
+    },
+    {
+      "id": 336,
+      "start": 3000.67,
+      "end": 3010.4,
+      "start_timestamp": "00:50:00.670",
+      "end_timestamp": "00:50:10.400",
+      "text": "Le nationalisme européen porte toujours plus haut. Voilà la réunion par exemple à Rome de toute cette armada."
+    },
+    {
+      "id": 337,
+      "start": 3010.4,
+      "end": 3018.4,
+      "start_timestamp": "00:50:10.400",
+      "end_timestamp": "00:50:18.400",
+      "text": "La question que l'on est en train de se poser, c'est qu'est-ce qui est en train de devenir l'armée du peuple de la République française,"
+    },
+    {
+      "id": 338,
+      "start": 3018.4,
+      "end": 3025.4,
+      "start_timestamp": "00:50:18.400",
+      "end_timestamp": "00:50:25.400",
+      "text": "l'armée des conscrits, le principe républicain d'une armée du peuple. Vous savez ce que c'est qu'une armée faite du peuple ?"
+    },
+    {
+      "id": 339,
+      "start": 3025.4,
+      "end": 3031.4,
+      "start_timestamp": "00:50:25.400",
+      "end_timestamp": "00:50:31.400",
+      "text": "C'est une armée qui ne tire pas sur le peuple parce qu'elle est faite avec les enfants du peuple."
+    },
+    {
+      "id": 340,
+      "start": 3031.4,
+      "end": 3038.4,
+      "start_timestamp": "00:50:31.400",
+      "end_timestamp": "00:50:38.400",
+      "text": "Tandis que progressivement, dans toute l'Union européenne, on nous a expliqué qu'il fallait en finir avec les armées de conscrits,"
+    },
+    {
+      "id": 341,
+      "start": 3038.4,
+      "end": 3045.4,
+      "start_timestamp": "00:50:38.400",
+      "end_timestamp": "00:50:45.400",
+      "text": "que maintenant, la guerre est quelque chose de beaucoup plus complexe, et qu'il fallait donc avoir des armées faites d'experts,"
+    },
+    {
+      "id": 342,
+      "start": 3045.4,
+      "end": 3054.4,
+      "start_timestamp": "00:50:45.400",
+      "end_timestamp": "00:50:54.400",
+      "text": "tellement d'experts d'ailleurs que l'on apprend ces jours-ci qu'en Grèce, semble-t-il, il y a des accords qui ont été passés avec des sociétés américaines"
+    },
+    {
+      "id": 343,
+      "start": 3054.4,
+      "end": 3063.4,
+      "start_timestamp": "00:50:54.400",
+      "end_timestamp": "00:51:03.400",
+      "text": "qui sont des sociétés de mercenaires pour éventuellement aller lutter contre les manifestants grecs parce qu'on n'est pas tout à fait sûrs de l'armée grecque."
+    },
+    {
+      "id": 344,
+      "start": 3063.4,
+      "end": 3072.64,
+      "start_timestamp": "00:51:03.400",
+      "end_timestamp": "00:51:12.640",
+      "text": "C'est de ça qu'il s'agit désormais. Les armées sont de plus en plus coupées des peuples et utilisées de façon agressive."
+    },
+    {
+      "id": 345,
+      "start": 3072.64,
+      "end": 3080.64,
+      "start_timestamp": "00:51:12.640",
+      "end_timestamp": "00:51:20.640",
+      "text": "On a toute une rhétorique sur ce drapeau qui est le drapeau de la Sainte Vierge qui devient désormais un drapeau agressif."
+    },
+    {
+      "id": 346,
+      "start": 3080.64,
+      "end": 3092.64,
+      "start_timestamp": "00:51:20.640",
+      "end_timestamp": "00:51:32.640",
+      "text": "On voit par exemple l'Eurocorps se développer avec cette symbolique. Je me dis, tiens, c'est quoi l'Eurocorps ? C'est l'embryon d'une armée de terre."
+    },
+    {
+      "id": 347,
+      "start": 3092.64,
+      "end": 3098.64,
+      "start_timestamp": "00:51:32.640",
+      "end_timestamp": "00:51:38.640",
+      "text": "C'est quand même bizarre. C'est quoi ça ? On dirait l'épée de Lancelot, vous savez, ou de... Qu'est-ce que c'est que ça ?"
+    },
+    {
+      "id": 348,
+      "start": 3098.64,
+      "end": 3109.64,
+      "start_timestamp": "00:51:38.640",
+      "end_timestamp": "00:51:49.640",
+      "text": "Ça me rappelle quelque chose. J'ai pas trop de mal à trouver ce que ça me rappelait. Oui, c'est le mythe de Lohengrin,"
+    },
+    {
+      "id": 349,
+      "start": 3109.64,
+      "end": 3120.64,
+      "start_timestamp": "00:51:49.640",
+      "end_timestamp": "00:52:00.640",
+      "text": "de Parsifal. C'est le mythe du chevalier teutonique. C'est le mythe du monde blanc qui a besoin de l'arme blanche pour lutter contre l'arme blanche et la chrétienté."
+    },
+    {
+      "id": 350,
+      "start": 3120.64,
+      "end": 3126.64,
+      "start_timestamp": "00:52:00.640",
+      "end_timestamp": "00:52:06.640",
+      "text": "C'est de ça qu'il s'agit ce drapeau avec les 12 étoiles d'or. Où est passée l'armée de la République française ?"
+    },
+    {
+      "id": 351,
+      "start": 3126.64,
+      "end": 3139.78,
+      "start_timestamp": "00:52:06.640",
+      "end_timestamp": "00:52:19.780",
+      "text": "Cette photo a fait le tour du monde. Une photo qui a été prise en Afghanistan avec des soldats américains de l'ISAF à laquelle sont mêlés des armées de l'Europe,"
+    },
+    {
+      "id": 352,
+      "start": 3139.78,
+      "end": 3150.78,
+      "start_timestamp": "00:52:19.780",
+      "end_timestamp": "00:52:30.780",
+      "text": "notamment des soldats français, qui ont posé ouvertement avec un drapeau SS, et trouvant ça rigolo, trouvant ça malin."
+    },
+    {
+      "id": 353,
+      "start": 3150.78,
+      "end": 3164.19,
+      "start_timestamp": "00:52:30.780",
+      "end_timestamp": "00:52:44.190",
+      "text": "Tout ceci commence à se sentir, à se savoir à travers les pays d'Europe. Ici, c'était lors de la campagne contre l'introduction de l'euro en Suède."
+    },
+    {
+      "id": 354,
+      "start": 3165.19,
+      "end": 3173.19,
+      "start_timestamp": "00:52:45.190",
+      "end_timestamp": "00:52:53.190",
+      "text": "Les manipulations médiatiques de l'opinion suédoise par les partisans de l'Europe étaient scandaleuses. Je renvoie à ma conférence ad hoc qui s'appelle"
+    },
+    {
+      "id": 355,
+      "start": 3173.19,
+      "end": 3179.19,
+      "start_timestamp": "00:52:53.190",
+      "end_timestamp": "00:52:59.190",
+      "text": "« Faut-il avoir peur de sortir de l'euro ? », où je montre comment, pendant toute l'année 2003 jusqu'au 14 septembre 2003,"
+    },
+    {
+      "id": 356,
+      "start": 3179.19,
+      "end": 3187.19,
+      "start_timestamp": "00:52:59.190",
+      "end_timestamp": "00:53:07.190",
+      "text": "le peuple suédois a été soumis à un bombardement idéologique effarant pour approuver l'entrée de l'euro, ce que, en définitive, il a rejeté."
+    },
+    {
+      "id": 357,
+      "start": 3187.19,
+      "end": 3196.19,
+      "start_timestamp": "00:53:07.190",
+      "end_timestamp": "00:53:16.190",
+      "text": "D'ailleurs, plus personne n'en parle, parce que depuis lors, la situation en Suède est bien, bien, bien meilleure que dans tous les autres pays de l'UE quant à adopter l'euro."
+    },
+    {
+      "id": 358,
+      "start": 3196.19,
+      "end": 3207.19,
+      "start_timestamp": "00:53:16.190",
+      "end_timestamp": "00:53:27.190",
+      "text": "Eh bien, les opposants avaient été obligés, avaient eu l'idée de détourner une affiche de propagande d'hitlerienne en la mettant aux couleurs de l'UE,"
+    },
+    {
+      "id": 359,
+      "start": 3207.19,
+      "end": 3215.19,
+      "start_timestamp": "00:53:27.190",
+      "end_timestamp": "00:53:35.190",
+      "text": "en mettant « It is not fascism when we do it ». À partir du moment où c'est nous, les européistes, qui le faisons, ce n'est plus du fascisme."
+    },
+    {
+      "id": 360,
+      "start": 3216.19,
+      "end": 3225.19,
+      "start_timestamp": "00:53:36.190",
+      "end_timestamp": "00:53:45.190",
+      "text": "Là, c'est des badges qui se vendent un peu partout, notamment en Grèce. « Ein Reich, ein Volk, ein Euro »."
+    },
+    {
+      "id": 361,
+      "start": 3225.19,
+      "end": 3231.19,
+      "start_timestamp": "00:53:45.190",
+      "end_timestamp": "00:53:51.190",
+      "text": "Là, c'est la façon dont Mme Merkel, par exemple, est accueillie lorsqu'elle arrive en Grèce par des manifestants."
+    },
+    {
+      "id": 362,
+      "start": 3231.19,
+      "end": 3237.19,
+      "start_timestamp": "00:53:51.190",
+      "end_timestamp": "00:53:57.190",
+      "text": "Là, c'est la façon dont les Italiens parlent désormais de l'Allemagne « Quart Reich », le quatrième Reich."
+    },
+    {
+      "id": 363,
+      "start": 3237.19,
+      "end": 3251.19,
+      "start_timestamp": "00:53:57.190",
+      "end_timestamp": "00:54:11.190",
+      "text": "Là, le journal « Democracy » qui présente Mme Merkel en format d'Hitler. Est-ce que tous aussi ne vous rappellent pas ce que je vous ai montré tout à l'heure sur Walter Hallstein ?"
+    },
+    {
+      "id": 364,
+      "start": 3251.19,
+      "end": 3260.19,
+      "start_timestamp": "00:54:11.190",
+      "end_timestamp": "00:54:20.190",
+      "text": "C'est ça qui est atroce dans l'histoire. C'est qu'elle ne se répète jamais, mais elle bégaye tout le temps. Elle se représente toujours sous d'autres formes."
+    },
+    {
+      "id": 365,
+      "start": 3260.19,
+      "end": 3268.19,
+      "start_timestamp": "00:54:20.190",
+      "end_timestamp": "00:54:28.190",
+      "text": "Et quand je dis ça, loin de moins l'idée de tenir des propos antigermaniques, puisqu'en réalité, les Allemands veulent sortir de l'euro."
+    },
+    {
+      "id": 366,
+      "start": 3268.19,
+      "end": 3280.19,
+      "start_timestamp": "00:54:28.190",
+      "end_timestamp": "00:54:40.190",
+      "text": "Ce sont les Américains qui les en empêchent. Je vous renvoie à une autre conférence sur la question. J'en parlerai demain à Lille dans la tragédie de l'euro."
+    },
+    {
+      "id": 367,
+      "start": 3280.19,
+      "end": 3294.19,
+      "start_timestamp": "00:54:40.190",
+      "end_timestamp": "00:54:54.190",
+      "text": "En conclusion, je citerai ce philosophe américain d'origine espagnole, Georges Santayana. « Fanaticism consists in redoubling your thought when you have forgotten your aim. »"
+    },
+    {
+      "id": 368,
+      "start": 3294.19,
+      "end": 3305.19,
+      "start_timestamp": "00:54:54.190",
+      "end_timestamp": "00:55:05.190",
+      "text": "Un fanatique, c'est quelqu'un qui redouble d'efforts quand il ne sait plus pourquoi il le fait. Les européistes, ceux qui tirent les fusils celles, savent ce qu'ils font."
+    },
+    {
+      "id": 369,
+      "start": 3305.19,
+      "end": 3312.19,
+      "start_timestamp": "00:55:05.190",
+      "end_timestamp": "00:55:12.190",
+      "text": "Mais les peuples qui croient encore à la construction européenne, eux, ne savent plus pourquoi ils le font."
+    },
+    {
+      "id": 370,
+      "start": 3312.19,
+      "end": 3322.19,
+      "start_timestamp": "00:55:12.190",
+      "end_timestamp": "00:55:22.190",
+      "text": "Il faut que les peuples se ressaisissent, comprennent que l'européisme, en fait qu'on leur a présenté sous un jour angélique, est devenu un redoutable fanatisme."
+    },
+    {
+      "id": 371,
+      "start": 3322.19,
+      "end": 3333.19,
+      "start_timestamp": "00:55:22.190",
+      "end_timestamp": "00:55:33.190",
+      "text": "Et je voudrais vous donner un message d'espoir. J'avais commencé cette conférence en vous montrant la Constitution de l'Union soviétique de 1977."
+    },
+    {
+      "id": 372,
+      "start": 3333.19,
+      "end": 3341.19,
+      "start_timestamp": "00:55:33.190",
+      "end_timestamp": "00:55:41.190",
+      "text": "Je voudrais vous remontrer la Constitution de l'Union soviétique du 5 décembre 1936 qu'avait rédigé Staline."
+    },
+    {
+      "id": 373,
+      "start": 3341.19,
+      "end": 3350.19,
+      "start_timestamp": "00:55:41.190",
+      "end_timestamp": "00:55:50.190",
+      "text": "Article 17. Chaque république fédérée conserve le droit de sortir librement de l'URSS."
+    },
+    {
+      "id": 374,
+      "start": 3350.19,
+      "end": 3362.19,
+      "start_timestamp": "00:55:50.190",
+      "end_timestamp": "00:56:02.190",
+      "text": "Ça avait été repris par la Constitution Brezhnev du 7 octobre 1977. C'était devenu l'article 72. Chaque république fédérée conserve le droit de sortir librement de l'URSS."
+    },
+    {
+      "id": 375,
+      "start": 3362.19,
+      "end": 3372.19,
+      "start_timestamp": "00:56:02.190",
+      "end_timestamp": "00:56:12.190",
+      "text": "Quand j'ai présenté le concours de l'École nationale d'administration en France en 1983, nous avions des cours de droit constitutionnel sur les grands pays du monde."
+    },
+    {
+      "id": 376,
+      "start": 3372.19,
+      "end": 3383.19,
+      "start_timestamp": "00:56:12.190",
+      "end_timestamp": "00:56:23.190",
+      "text": "Et je me rappelle les profs que j'avais qui riaient. Oui, à l'article 72, on se demande pourquoi Brezhnev a conservé l'article 17 de la Constitution Staline,"
+    },
+    {
+      "id": 377,
+      "start": 3383.19,
+      "end": 3390.19,
+      "start_timestamp": "00:56:23.190",
+      "end_timestamp": "00:56:30.190",
+      "text": "qui n'a jamais été appliquée, qui, bien sûr, ne s'appliquera jamais. Vous comprenez bien, l'URSS ne va jamais accepter qu'une des républiques s'en aille."
+    },
+    {
+      "id": 378,
+      "start": 3390.19,
+      "end": 3399.19,
+      "start_timestamp": "00:56:30.190",
+      "end_timestamp": "00:56:39.190",
+      "text": "Ça, c'est ce qu'on me disait en 1983. Ceux d'entre vous qui ont plus de 40 ans savent de quoi je parle. Peut-être ceux qui en ont moins de 30 ne le savent pas."
+    },
+    {
+      "id": 379,
+      "start": 3399.19,
+      "end": 3413.19,
+      "start_timestamp": "00:56:39.190",
+      "end_timestamp": "00:56:53.190",
+      "text": "Et tous ceux qui ont plus de 45 ans dans cette salle savent très bien que dans les années 70-80, personne ne pouvait jamais imaginer que l'Union soviétique puisse se désintégrer."
+    },
+    {
+      "id": 380,
+      "start": 3413.19,
+      "end": 3420.19,
+      "start_timestamp": "00:56:53.190",
+      "end_timestamp": "00:57:00.190",
+      "text": "Et donc dans le concours de l'ENA, il fallait préparer ça, en disant oui, l'article 72, c'est un article pro forma, mais qui ne sera jamais appliqué."
+    },
+    {
+      "id": 381,
+      "start": 3420.19,
+      "end": 3435.19,
+      "start_timestamp": "00:57:00.190",
+      "end_timestamp": "00:57:15.190",
+      "text": "On en riait. On en riait. C'était en 1983. Sauf que pas de pot. Le 11 mars 1990, sept ans après, la République socialiste soviétique de Lituanie"
+    },
+    {
+      "id": 382,
+      "start": 3435.19,
+      "end": 3443.19,
+      "start_timestamp": "00:57:15.190",
+      "end_timestamp": "00:57:23.190",
+      "text": "proclama son indépendance de l'Union soviétique en application de l'article 72 de la Constitution de l'URSS."
+    },
+    {
+      "id": 383,
+      "start": 3443.19,
+      "end": 3454.19,
+      "start_timestamp": "00:57:23.190",
+      "end_timestamp": "00:57:34.190",
+      "text": "Ne méprisez jamais l'existence d'un article dans un traité. Même si aujourd'hui, il vous paraît absolument ahurissant, demain, peut-être, il sera mis en œuvre."
+    },
+    {
+      "id": 384,
+      "start": 3454.19,
+      "end": 3467.19,
+      "start_timestamp": "00:57:34.190",
+      "end_timestamp": "00:57:47.190",
+      "text": "C'est ça que j'ai retenu, moi, de l'histoire des années 80, entre l'étudiant à l'ENA que j'étais, qui rigolait parce qu'on lui avait appris à rigoler d'un article,"
+    },
+    {
+      "id": 385,
+      "start": 3467.19,
+      "end": 3473.19,
+      "start_timestamp": "00:57:47.190",
+      "end_timestamp": "00:57:53.190",
+      "text": "et découvrant sept ans après que cet article était mis en œuvre. Pourquoi il était mis en œuvre et pourquoi on rigolait ?"
+    },
+    {
+      "id": 386,
+      "start": 3473.19,
+      "end": 3485.19,
+      "start_timestamp": "00:57:53.190",
+      "end_timestamp": "00:58:05.190",
+      "text": "On rigolait parce qu'on imaginait... C'était inimaginable que sous Brejnev ou sous Stalin ou sous Chernenko ou sous Andropov, on pensait inimaginable"
+    },
+    {
+      "id": 387,
+      "start": 3485.19,
+      "end": 3494.19,
+      "start_timestamp": "00:58:05.190",
+      "end_timestamp": "00:58:14.190",
+      "text": "que l'Union soviétique puisse se désintégrer. Sauf qu'à la fin des années 90, la nécrose de l'utopie de la construction du socialisme"
+    },
+    {
+      "id": 388,
+      "start": 3494.19,
+      "end": 3503.19,
+      "start_timestamp": "00:58:14.190",
+      "end_timestamp": "00:58:23.190",
+      "text": "s'est arrivée à un tel point de blocage que même les dirigeants eux-mêmes n'y croyaient plus, que dans les sphères dirigeantes, plus personne ne croyait"
+    },
+    {
+      "id": 389,
+      "start": 3503.19,
+      "end": 3512.54,
+      "start_timestamp": "00:58:23.190",
+      "end_timestamp": "00:58:32.540",
+      "text": "à ce dogme antédiluvien qui avait prouvé qu'il ne marchait, qu'il était impraticable. Mais c'est exactement ce qui est en train de se produire,"
+    },
+    {
+      "id": 390,
+      "start": 3512.54,
+      "end": 3522.54,
+      "start_timestamp": "00:58:32.540",
+      "end_timestamp": "00:58:42.540",
+      "text": "non pas avec la construction du socialisme, mais avec la construction européenne. Dans les allées du pouvoir, plus personne n'y croit."
+    },
+    {
+      "id": 391,
+      "start": 3522.54,
+      "end": 3531.54,
+      "start_timestamp": "00:58:42.540",
+      "end_timestamp": "00:58:51.540",
+      "text": "Tout le monde sait que ce truc ne marche pas. Je peux vous l'assurer. Dans tous les milieux à Paris, tout le monde derrière les portes capitonnées"
+    },
+    {
+      "id": 392,
+      "start": 3531.54,
+      "end": 3538.54,
+      "start_timestamp": "00:58:51.540",
+      "end_timestamp": "00:58:58.540",
+      "text": "disent... Combien j'en ai entendu ? Des ministres qui me disent « Oui, on n'aurait jamais dû faire cet élargissement, ça ne marche absolument plus »."
+    },
+    {
+      "id": 393,
+      "start": 3538.54,
+      "end": 3545.54,
+      "start_timestamp": "00:58:58.540",
+      "end_timestamp": "00:59:05.540",
+      "text": "Ils disent ça il y a un an, il y a deux ans. Sauf qu'est-ce qui se passe ? Eh bien on va faire un nouvel élargissement avec l'entrée de la Croatie."
+    },
+    {
+      "id": 394,
+      "start": 3545.54,
+      "end": 3552.54,
+      "start_timestamp": "00:59:05.540",
+      "end_timestamp": "00:59:12.540",
+      "text": "Ça veut dire qu'ils ne sont même pas capables de tirer les conclusions du propre diagnostic qu'ils posent. Et pourquoi ? Parce qu'ils n'ont plus les manettes."
+    },
+    {
+      "id": 395,
+      "start": 3552.54,
+      "end": 3562.54,
+      "start_timestamp": "00:59:12.540",
+      "end_timestamp": "00:59:22.540",
+      "text": "Parce que ce ne sont plus les dirigeants nationaux qui décident de cette machine qui est devenue folle. Donc nous allons lentement, sûrement inexorablement"
+    },
+    {
+      "id": 396,
+      "start": 3562.54,
+      "end": 3572.54,
+      "start_timestamp": "00:59:22.540",
+      "end_timestamp": "00:59:32.540",
+      "text": "vers une fin qui ressemble à la fin de la construction du socialisme. Que faire ? Eh bien on vient d'avoir la solution. Il y a un article dans les traités..."
+    },
+    {
+      "id": 397,
+      "start": 3572.54,
+      "end": 3580.54,
+      "start_timestamp": "00:59:32.540",
+      "end_timestamp": "00:59:40.540",
+      "text": "C'est pas l'article 72 de la Constitution Brejnev, c'est l'article 50 du TUE, du Traité de l'Union européenne."
+    },
+    {
+      "id": 398,
+      "start": 3580.54,
+      "end": 3587.54,
+      "start_timestamp": "00:59:40.540",
+      "end_timestamp": "00:59:47.540",
+      "text": "« Tout État membre peut décider, conformément à ses règles constitutionnelles, de se retirer de l'Union »."
+    },
+    {
+      "id": 399,
+      "start": 3587.54,
+      "end": 3595.54,
+      "start_timestamp": "00:59:47.540",
+      "end_timestamp": "00:59:55.540",
+      "text": "Article interdit d'être prononcé à la télévision française, à la radio. Nous sommes le seul mouvement politique qui ne cesse de dire"
+    },
+    {
+      "id": 400,
+      "start": 3595.54,
+      "end": 3605.54,
+      "start_timestamp": "00:59:55.540",
+      "end_timestamp": "01:00:05.540",
+      "text": "On a le droit d'en discuter. Ça existe. C'est pas du populisme. Ça existe. On a le droit d'en parler ou pas ? Non."
+    },
+    {
+      "id": 401,
+      "start": 3605.54,
+      "end": 3614.54,
+      "start_timestamp": "01:00:05.540",
+      "end_timestamp": "01:00:14.540",
+      "text": "De plus en plus, heureusement qu'Internet est là, comme les samizdat étaient là. Heureusement qu'Internet est là pour enforcer progressivement"
+    },
+    {
+      "id": 402,
+      "start": 3614.54,
+      "end": 3624.54,
+      "start_timestamp": "01:00:14.540",
+      "end_timestamp": "01:00:24.540",
+      "text": "la maîtrise des médias à relâcher sa pression. L'Alinéa II de cet article 50 précise que l'État membre qui décide de se retirer"
+    },
+    {
+      "id": 403,
+      "start": 3624.54,
+      "end": 3634.54,
+      "start_timestamp": "01:00:24.540",
+      "end_timestamp": "01:00:34.540",
+      "text": "notifie son intention au Conseil européen. « À la lumière des orientations du Conseil, l'Union négocie et conclut avec cet État un accord fixant les modalités de son retrait »."
+    },
+    {
+      "id": 404,
+      "start": 3634.54,
+      "end": 3645.54,
+      "start_timestamp": "01:00:34.540",
+      "end_timestamp": "01:00:45.540",
+      "text": "En d'autres termes, cet accord prévoit très sagement une obligation d'information de ses partenaires et ensuite une obligation de bâtir un accord"
+    },
+    {
+      "id": 405,
+      "start": 3645.54,
+      "end": 3655.54,
+      "start_timestamp": "01:00:45.540",
+      "end_timestamp": "01:00:55.540",
+      "text": "de négociation de retrait pour que ça se passe le mieux du monde en pays civilisé. Et les autres pays ne peuvent pas s'y opposer puisqu'ils ont tous ratifié"
+    },
+    {
+      "id": 406,
+      "start": 3655.54,
+      "end": 3662.54,
+      "start_timestamp": "01:00:55.540",
+      "end_timestamp": "01:01:02.540",
+      "text": "ce traité. Donc ils sont tous d'un tombé d'accord sous cette clause de sortie, ce qui nous distingue. Je l'ai dit tout à l'heure quand je parlais du chapitre"
+    },
+    {
+      "id": 407,
+      "start": 3662.54,
+      "end": 3670.54,
+      "start_timestamp": "01:01:02.540",
+      "end_timestamp": "01:01:10.540",
+      "text": "sur le viol du droit, nous nous sommes respectueux du droit même de celui que nous n'avons pas voulu. Puisqu'il y a un article et qu'il y a qui prévoit"
+    },
+    {
+      "id": 408,
+      "start": 3670.54,
+      "end": 3678.54,
+      "start_timestamp": "01:01:10.540",
+      "end_timestamp": "01:01:18.540",
+      "text": "à la sortie, nous devons respecter cet article parce que personne ne pourra nous le reprocher. Ceux qui vous disent « La France n'a qu'à désobéir"
+    },
+    {
+      "id": 409,
+      "start": 3678.54,
+      "end": 3684.54,
+      "start_timestamp": "01:01:18.540",
+      "end_timestamp": "01:01:24.540",
+      "text": "au traité, la France n'a qu'à faire un bras d'honneur, nous on est pour l'Europe mais on va désobéir au traité », c'est ce que dit le Front de Gauche."
+    },
+    {
+      "id": 410,
+      "start": 3684.54,
+      "end": 3690.54,
+      "start_timestamp": "01:01:24.540",
+      "end_timestamp": "01:01:30.540",
+      "text": "C'est moque de vous. Comment est-ce que vous pouvez aller dans un dîner en ville, mettre les pieds sur la table et lâcher des flatulences"
+    },
+    {
+      "id": 411,
+      "start": 3690.54,
+      "end": 3700.68,
+      "start_timestamp": "01:01:30.540",
+      "end_timestamp": "01:01:40.680",
+      "text": "en espérant que vous allez rester avec les convives ? Nous nous disons tout simplement « Nous voulons être en bon terme avec les autres et nous allons"
+    },
+    {
+      "id": 412,
+      "start": 3700.68,
+      "end": 3708.68,
+      "start_timestamp": "01:01:40.680",
+      "end_timestamp": "01:01:48.680",
+      "text": "nous comporter comme il se doit ». Alors certains me disent « Mais oui, mais les autres vont vous mettre des bâtons dans les roues »."
+    },
+    {
+      "id": 413,
+      "start": 3708.68,
+      "end": 3714.68,
+      "start_timestamp": "01:01:48.680",
+      "end_timestamp": "01:01:54.680",
+      "text": "Mais non, pourquoi les autres voudraient-ils nous mettre des bâtons dans les roues ? Lorsque les Royaumes-Unis, les Britanniques ont dit récemment"
+    },
+    {
+      "id": 414,
+      "start": 3714.68,
+      "end": 3722.68,
+      "start_timestamp": "01:01:54.680",
+      "end_timestamp": "01:02:02.680",
+      "text": "qu'ils vont faire un référendum sur la sortie de l'UE, qu'est-ce qu'on n'a pas entendu en France ? Les plus européistes étaient là à défilater"
+    },
+    {
+      "id": 415,
+      "start": 3722.68,
+      "end": 3730.68,
+      "start_timestamp": "01:02:02.680",
+      "end_timestamp": "01:02:10.680",
+      "text": "leurs objets qui s'en aillent en ras-le-bol. Les mêmes qui disent qu'ils sont pour l'Europe nous disent « C'est formidable, s'ils pouvaient partir au plus vite »."
+    },
+    {
+      "id": 416,
+      "start": 3730.68,
+      "end": 3739.38,
+      "start_timestamp": "01:02:10.680",
+      "end_timestamp": "01:02:19.380",
+      "text": "Mais lorsque les Français auront dit qu'ils veulent sortir de l'Europe, vous savez ce que diront les autres pays ? « On va faire comme eux »."
+    },
+    {
+      "id": 417,
+      "start": 3739.38,
+      "end": 3745.38,
+      "start_timestamp": "01:02:19.380",
+      "end_timestamp": "01:02:25.380",
+      "text": "Eh oui. Et d'ailleurs, au passage, même si l'on voulait nous mettre des bâtons dans les roues, je signale qu'il y a l'aligné à un droit,"
+    },
+    {
+      "id": 418,
+      "start": 3745.38,
+      "end": 3752.38,
+      "start_timestamp": "01:02:25.380",
+      "end_timestamp": "01:02:32.380",
+      "text": "les traités CESDA seraient applicables à l'État concerné à partir de la date d'entrée en vigueur de l'accord de retrait ou sinon à défaut"
+    },
+    {
+      "id": 419,
+      "start": 3752.38,
+      "end": 3760.38,
+      "start_timestamp": "01:02:32.380",
+      "end_timestamp": "01:02:40.380",
+      "text": "deux ans après la notification. C'est-à-dire que si ça traînait en longueur au bout de deux ans, de toute façon, on sort de plein droit."
+    },
+    {
+      "id": 420,
+      "start": 3760.38,
+      "end": 3772.38,
+      "start_timestamp": "01:02:40.380",
+      "end_timestamp": "01:02:52.380",
+      "text": "L'Union populaire républicaine seule sur toute la scène politique française propose aux Français de sortir unilatéralement, juridiquement, sereinement,"
+    },
+    {
+      "id": 421,
+      "start": 3772.38,
+      "end": 3780.38,
+      "start_timestamp": "01:02:52.380",
+      "end_timestamp": "01:03:00.380",
+      "text": "en adulte d'une prison des peuples qui s'appelle l'Union européenne, qui nous mène au conflit des civilisations et de l'euro,"
+    },
+    {
+      "id": 422,
+      "start": 3780.38,
+      "end": 3791.38,
+      "start_timestamp": "01:03:00.380",
+      "end_timestamp": "01:03:11.380",
+      "text": "qui nous mène à l'appauvrissement et à la ruine générale, tout ça par la mise en œuvre de l'article 50 du traité de l'Union européenne."
+    },
+    {
+      "id": 423,
+      "start": 3791.38,
+      "end": 3821.86,
+      "start_timestamp": "01:03:11.380",
+      "end_timestamp": "01:03:41.860",
+      "text": "Je vous remercie de votre attention. Je vous remercie de votre attention pour une conférence qui est longue, comme toutes mes conférences d'ailleurs."
+    },
+    {
+      "id": 424,
+      "start": 3821.86,
+      "end": 3835.86,
+      "start_timestamp": "01:03:41.860",
+      "end_timestamp": "01:03:55.860",
+      "text": "Je suis toujours touché de voir l'assistance et l'intérêt que je peux dire. Vous voyez en tout cas de mon côté que j'essaye toujours de rendre"
+    },
+    {
+      "id": 425,
+      "start": 3835.86,
+      "end": 3844.86,
+      "start_timestamp": "01:03:55.860",
+      "end_timestamp": "01:04:04.860",
+      "text": "le plus didactique et pédagogique possible des informations qui sont inconnues ou méconnues et de vous apporter des éléments de réflexion"
+    },
+    {
+      "id": 426,
+      "start": 3844.86,
+      "end": 3853.86,
+      "start_timestamp": "01:04:04.860",
+      "end_timestamp": "01:04:13.860",
+      "text": "Pour ceux d'entre vous qui me connaissent, renforcez peut-être la conviction qui les anime selon laquelle nous avons les bonnes analyses et les bonnes solutions"
+    },
+    {
+      "id": 427,
+      "start": 3853.86,
+      "end": 3860.86,
+      "start_timestamp": "01:04:13.860",
+      "end_timestamp": "01:04:20.860",
+      "text": "et pour ceux d'entre vous qui ne me connaissent pas, et vous montrez et vous faire entrer peut-être dans un processus de réflexion"
+    },
+    {
+      "id": 428,
+      "start": 3860.86,
+      "end": 3871.86,
+      "start_timestamp": "01:04:20.860",
+      "end_timestamp": "01:04:31.860",
+      "text": "pour vous montrer que peut-être nous avons raison, que peut-être tout ce qu'on vous a dit, beaucoup de choses que l'on vous a dites depuis très longtemps"
+    },
+    {
+      "id": 429,
+      "start": 3871.86,
+      "end": 3878.86,
+      "start_timestamp": "01:04:31.860",
+      "end_timestamp": "01:04:38.860",
+      "text": "sont des choses qui appartiennent au domaine de la désinformation. Avant de vous donner la parole, enfin je vais vous la donner dans un instant"
+    },
+    {
+      "id": 430,
+      "start": 3878.86,
+      "end": 3885.86,
+      "start_timestamp": "01:04:38.860",
+      "end_timestamp": "01:04:45.860",
+      "text": "je voulais simplement conclure en vous rappelant ce que disait Max Frisch, qui est un essayiste suisse."
+    },
+    {
+      "id": 431,
+      "start": 3885.86,
+      "end": 3893.86,
+      "start_timestamp": "01:04:45.860",
+      "end_timestamp": "01:04:53.860",
+      "text": "Face à une dictature qui avance, il y a pire que le bruit des bottes, c'est le silence des pantoufles."
+    },
+    {
+      "id": 432,
+      "start": 3893.86,
+      "end": 3902.86,
+      "start_timestamp": "01:04:53.860",
+      "end_timestamp": "01:05:02.860",
+      "text": "Nous sommes dans un univers où beaucoup de Français, nous avons un certain nombre de Français expatriés en Belgique"
+    },
+    {
+      "id": 433,
+      "start": 3902.86,
+      "end": 3907.86,
+      "start_timestamp": "01:05:02.860",
+      "end_timestamp": "01:05:07.860",
+      "text": "ou même des Belges qui sont adhérents de notre mouvement, nous acceptons les adhésions d'étrangers"
+    },
+    {
+      "id": 434,
+      "start": 3907.86,
+      "end": 3912.86,
+      "start_timestamp": "01:05:07.860",
+      "end_timestamp": "01:05:12.860",
+      "text": "la seule chose c'est qu'ils n'ont pas le droit de vote au moment du congrès tous les trois ans pour élire des dirigeants"
+    },
+    {
+      "id": 435,
+      "start": 3912.86,
+      "end": 3918.86,
+      "start_timestamp": "01:05:12.860",
+      "end_timestamp": "01:05:18.860",
+      "text": "c'est réservé aux gens de nationalité française, mais pour le reste ils peuvent adhérer ou ils peuvent être donateurs"
+    },
+    {
+      "id": 436,
+      "start": 3918.86,
+      "end": 3927.86,
+      "start_timestamp": "01:05:18.860",
+      "end_timestamp": "01:05:27.860",
+      "text": "nous avons de plus en plus de gens qui nous suivent mais beaucoup beaucoup beaucoup plus qui nous suivent mais qui ne veulent pas adhérer"
+    },
+    {
+      "id": 437,
+      "start": 3927.86,
+      "end": 3933.86,
+      "start_timestamp": "01:05:27.860",
+      "end_timestamp": "01:05:33.860",
+      "text": "ou qui n'hésitent. Alors je leur demande pourquoi vous n'adhérez pas et ils me disent oui mais parce que je ne fais pas de politique"
+    },
+    {
+      "id": 438,
+      "start": 3933.86,
+      "end": 3942.86,
+      "start_timestamp": "01:05:33.860",
+      "end_timestamp": "01:05:42.860",
+      "text": "je ne veux pas faire de politique. Le problème c'est que si tout le monde reste derrière son écran d'ordinateur comme un geek"
+    },
+    {
+      "id": 439,
+      "start": 3942.86,
+      "end": 3953.86,
+      "start_timestamp": "01:05:42.860",
+      "end_timestamp": "01:05:53.860",
+      "text": "à jouer les tactilos, à s'indigner mutuellement, à se renvoyer des vidéos des uns des autres, au bout du compte il ne se passera rien"
+    },
+    {
+      "id": 440,
+      "start": 3953.86,
+      "end": 3961.86,
+      "start_timestamp": "01:05:53.860",
+      "end_timestamp": "01:06:01.860",
+      "text": "c'est la raison pour laquelle j'attire votre attention sur le fait qu'il y a un moment à partir duquel il faut se regarder, se ressaisir"
+    },
+    {
+      "id": 441,
+      "start": 3961.86,
+      "end": 3967.86,
+      "start_timestamp": "01:06:01.860",
+      "end_timestamp": "01:06:07.860",
+      "text": "pas tout de suite les gens qui nous découvrent, je dis toujours aux gens attendez attendez vous précipitez pas, regardez mes conférences"
+    },
+    {
+      "id": 442,
+      "start": 3967.86,
+      "end": 3974.86,
+      "start_timestamp": "01:06:07.860",
+      "end_timestamp": "01:06:14.860",
+      "text": "documentez-vous, allez voir des gens qui sont chez nous, allez vérifier si ce que je dis n'est pas faux etc. ne vous précipitez pas"
+    },
+    {
+      "id": 443,
+      "start": 3974.86,
+      "end": 3980.86,
+      "start_timestamp": "01:06:14.860",
+      "end_timestamp": "01:06:20.860",
+      "text": "moi je souhaite que les gens ils adhèrent en pleine conviction mais une fois que vous êtes convaincu à ce moment-là il faut y aller"
+    },
+    {
+      "id": 444,
+      "start": 3980.86,
+      "end": 3988.86,
+      "start_timestamp": "01:06:20.860",
+      "end_timestamp": "01:06:28.860",
+      "text": "il faut arrêter de procrastiner, sortir de la destruction européenne ça commence par adhérer à l'UPR et c'est la raison qui explique"
+    },
+    {
+      "id": 445,
+      "start": 3988.86,
+      "end": 3995.86,
+      "start_timestamp": "01:06:28.860",
+      "end_timestamp": "01:06:35.860",
+      "text": "je crois la croissance de notre mouvement dont je parlais au début quand j'ai créé ce mouvement en mars 2007 il y avait à peu près"
+    },
+    {
+      "id": 446,
+      "start": 3995.86,
+      "end": 4002.86,
+      "start_timestamp": "01:06:35.860",
+      "end_timestamp": "01:06:42.860",
+      "text": "25 personnes qui ont adhéré au congrès fondateur c'était pour l'essentiel d'ailleurs des amis dont la plupart m'ont adhéré pour me faire plaisir"
+    },
+    {
+      "id": 447,
+      "start": 4002.86,
+      "end": 4011.86,
+      "start_timestamp": "01:06:42.860",
+      "end_timestamp": "01:06:51.860",
+      "text": "mais ne pensaient pas du tout que ce que je disais était exact, on a encore à peu près 5 personnes qui ont adhéré le premier jour"
+    },
+    {
+      "id": 448,
+      "start": 4011.86,
+      "end": 4022.86,
+      "start_timestamp": "01:06:51.860",
+      "end_timestamp": "01:07:02.860",
+      "text": "et qui sont encore dans le mouvement et puis progressivement nous avons végété à la fin 2007 nous étions 47 à la fin 2008 nous étions 88"
+    },
+    {
+      "id": 449,
+      "start": 4022.86,
+      "end": 4030.86,
+      "start_timestamp": "01:07:02.860",
+      "end_timestamp": "01:07:10.860",
+      "text": "à la fin 2009 il y avait des gens qui étaient partis entre temps à la fin 2009 on était 158 on était donc un groupe uscule en fait"
+    },
+    {
+      "id": 450,
+      "start": 4030.86,
+      "end": 4038.86,
+      "start_timestamp": "01:07:10.860",
+      "end_timestamp": "01:07:18.860",
+      "text": "c'était tout petit ça ne marchait pas et puis à la fin de 2010 on est monté à 243 c'est l'arrivée de la crise financière c'est aussi le développement"
+    },
+    {
+      "id": 451,
+      "start": 4038.86,
+      "end": 4048.86,
+      "start_timestamp": "01:07:18.860",
+      "end_timestamp": "01:07:28.860",
+      "text": "des premières conférences diffusées par internet à la fin 2011 nous étions 707 c'est le moment où j'avais présenté"
+    },
+    {
+      "id": 452,
+      "start": 4048.86,
+      "end": 4055.86,
+      "start_timestamp": "01:07:28.860",
+      "end_timestamp": "01:07:35.860",
+      "text": "j'avais présenté, on était pas encore 700, on était à peu près 650 adhérents, j'ai présenté ma candidature à l'élection présidentielle"
+    },
+    {
+      "id": 453,
+      "start": 4055.86,
+      "end": 4062.86,
+      "start_timestamp": "01:07:35.860",
+      "end_timestamp": "01:07:42.860",
+      "text": "je n'ai pas réussi à avoir les 500 parrainages c'est un véritable scandale démocratique parce qu'en fait il n'y a pas 2 tours"
+    },
+    {
+      "id": 454,
+      "start": 4062.86,
+      "end": 4070.86,
+      "start_timestamp": "01:07:42.860",
+      "end_timestamp": "01:07:50.860",
+      "text": "dans l'élection présidentielle en France il y a au moins 3 tours sinon 4 tours il y a le tour décidé par les médias de ceux à qui vont donner la parole"
+    },
+    {
+      "id": 455,
+      "start": 4070.86,
+      "end": 4078.86,
+      "start_timestamp": "01:07:50.860",
+      "end_timestamp": "01:07:58.860",
+      "text": "et si personne ne vous donne la parole on a eu plus de 250 adhérents militants qui ont cherché des parrainages pour moi"
+    },
+    {
+      "id": 456,
+      "start": 4078.86,
+      "end": 4084.86,
+      "start_timestamp": "01:07:58.860",
+      "end_timestamp": "01:08:04.860",
+      "text": "mais ils allaient voir des maires des petits villages ils disaient mais je ne sais pas qui est ce monsieur j'en ai jamais entendu parler à la télé à la radio"
+    },
+    {
+      "id": 457,
+      "start": 4084.86,
+      "end": 4091.86,
+      "start_timestamp": "01:08:04.860",
+      "end_timestamp": "01:08:11.860",
+      "text": "alors on disait mais si mais c'est un candidat sérieux mais vous savez les médias font un filtrage donc les maires disaient mais non"
+    },
+    {
+      "id": 458,
+      "start": 4091.86,
+      "end": 4101.86,
+      "start_timestamp": "01:08:11.860",
+      "end_timestamp": "01:08:21.860",
+      "text": "j'ai vu madame Cindy Lee, Cindy Lee c'était la candidate du parti du plaisir elle exibait ses seins sur les marchés"
+    },
+    {
+      "id": 459,
+      "start": 4101.86,
+      "end": 4109.0,
+      "start_timestamp": "01:08:21.860",
+      "end_timestamp": "01:08:29.000",
+      "text": "c'est peut-être ce que j'aurais dû faire je suis pas sûr que j'aurais eu le même succès"
+    },
+    {
+      "id": 460,
+      "start": 4109.0,
+      "end": 4119.0,
+      "start_timestamp": "01:08:29.000",
+      "end_timestamp": "01:08:39.000",
+      "text": "Cindy Lee exibait sa poitrine généreuse avec des lèvres silicone et du gloss sur les marchés donc ça lui a valu d'avoir une notice wikipédiale"
+    },
+    {
+      "id": 461,
+      "start": 4119.0,
+      "end": 4129.0,
+      "start_timestamp": "01:08:39.000",
+      "end_timestamp": "01:08:49.000",
+      "text": "France TF1, France 2 etc. Sinon moi ce que je dis là c'est inacceptable pour l'oligarchie qui détient les médias"
+    },
+    {
+      "id": 462,
+      "start": 4129.0,
+      "end": 4139.0,
+      "start_timestamp": "01:08:49.000",
+      "end_timestamp": "01:08:59.000",
+      "text": "donc nous nous avons été obligés d'aller voir les maires et puis eh bien et puis et puis et puis et puis et puis ce qui est arrivé la fin des"
+    },
+    {
+      "id": 463,
+      "start": 4139.0,
+      "end": 4147.0,
+      "start_timestamp": "01:08:59.000",
+      "end_timestamp": "01:09:07.000",
+      "text": "jour où Fatidique fallait remettre les 500 parrainages et découvert que j'en avais très très très très peu"
+    },
+    {
+      "id": 464,
+      "start": 4147.0,
+      "end": 4152.14,
+      "start_timestamp": "01:09:07.000",
+      "end_timestamp": "01:09:12.140",
+      "text": "Et donc là, je le raconte souvent à mes amis. J'ai été un petit peu, vous savez, comme dans Tintin, il y a Milou."
+    },
+    {
+      "id": 465,
+      "start": 4152.14,
+      "end": 4156.0,
+      "start_timestamp": "01:09:12.140",
+      "end_timestamp": "01:09:16.000",
+      "text": "Je crois que c'est dans le sceptre d'Autochart qu'il y a le sceptre. Il doit rapporter le sceptre d'Autochart."
+    },
+    {
+      "id": 466,
+      "start": 4156.0,
+      "end": 4161.08,
+      "start_timestamp": "01:09:16.000",
+      "end_timestamp": "01:09:21.080",
+      "text": "Et puis d'un coup, il veut un os. Et il hésite. Est-ce qu'il lâche le sceptre pour prendre l'os ?"
+    },
+    {
+      "id": 467,
+      "start": 4161.08,
+      "end": 4166.24,
+      "start_timestamp": "01:09:21.080",
+      "end_timestamp": "01:09:26.240",
+      "text": "Et puis dans sa tête, il y a un petit Milou sous forme d'ange et un petit Milou sous forme de diable."
+    },
+    {
+      "id": 468,
+      "start": 4166.24,
+      "end": 4171.04,
+      "start_timestamp": "01:09:26.240",
+      "end_timestamp": "01:09:31.040",
+      "text": "Alors le diable, il dit oui, oui, l'os est très bon. Et puis l'ange, il dit non, non, non, il faut faire ton devoir. Voilà."
+    },
+    {
+      "id": 469,
+      "start": 4171.16,
+      "end": 4179.12,
+      "start_timestamp": "01:09:31.160",
+      "end_timestamp": "01:09:39.120",
+      "text": "Donc j'avoue que pendant quelques minutes, j'ai hésité en disant... Est-ce que j'avoue que j'ai eu que 17 parrainages ?"
+    },
+    {
+      "id": 470,
+      "start": 4179.12,
+      "end": 4187.8,
+      "start_timestamp": "01:09:39.120",
+      "end_timestamp": "01:09:47.800",
+      "text": "Ou j'ai l'air un peu d'un con ? Ou est-ce que je dis que j'en ai eu 412 ? Comme tout le monde."
+    },
+    {
+      "id": 471,
+      "start": 4187.8,
+      "end": 4193.04,
+      "start_timestamp": "01:09:47.800",
+      "end_timestamp": "01:09:53.040",
+      "text": "Et puis entre le petit ange et le petit diable, j'ai fini par choisir le petit ange."
+    },
+    {
+      "id": 472,
+      "start": 4193.04,
+      "end": 4199.2,
+      "start_timestamp": "01:09:53.040",
+      "end_timestamp": "01:09:59.200",
+      "text": "Parce que je pense que la vérité finit toujours par l'emporter. Donc j'ai dit, j'ai fait une vidéo là-dessus,"
+    },
+    {
+      "id": 473,
+      "start": 4199.24,
+      "end": 4204.44,
+      "start_timestamp": "01:09:59.240",
+      "end_timestamp": "01:10:04.440",
+      "text": "et que nous avions eu 17 parrainages. Parce que c'est trop injuste d'avoir eu 17 parrainages,"
+    },
+    {
+      "id": 474,
+      "start": 4204.44,
+      "end": 4210.84,
+      "start_timestamp": "01:10:04.440",
+      "end_timestamp": "01:10:10.840",
+      "text": "compte tenu – je crois – de la qualité des informations, de la réflexion, de la densité du programme présidentiel"
+    },
+    {
+      "id": 475,
+      "start": 4210.84,
+      "end": 4217.16,
+      "start_timestamp": "01:10:10.840",
+      "end_timestamp": "01:10:17.160",
+      "text": "que j'avais présenté, et compte tenu de l'effort considérable qu'avaient consacré les quelques centaines de militants"
+    },
+    {
+      "id": 476,
+      "start": 4217.16,
+      "end": 4221.88,
+      "start_timestamp": "01:10:17.160",
+      "end_timestamp": "01:10:21.880",
+      "text": "que nous avions à l'époque. Voilà. Ça nous a d'ailleurs porté chance, puisque finalement, il y a pas mal de gens"
+    },
+    {
+      "id": 477,
+      "start": 4221.88,
+      "end": 4229.48,
+      "start_timestamp": "01:10:21.880",
+      "end_timestamp": "01:10:29.480",
+      "text": "qui ont adhéré après. Après avoir vu ça, vous allez dire « Ah, pour la première fois, voilà quelqu'un qui dit un truc inattendu."
+    },
+    {
+      "id": 478,
+      "start": 4229.48,
+      "end": 4235.08,
+      "start_timestamp": "01:10:29.480",
+      "end_timestamp": "01:10:35.080",
+      "text": "Tous les gens qui n'ont pas les parrainages disent qu'ils en ont 412 ou 450. Voilà quelqu'un qui dit qu'il en a eu 17 »."
+    },
+    {
+      "id": 479,
+      "start": 4235.08,
+      "end": 4241.12,
+      "start_timestamp": "01:10:35.080",
+      "end_timestamp": "01:10:41.120",
+      "text": "C'est d'ailleurs la vérité. Ceux qui vous disent qu'ils en ont eu 450, ils l'ont pas eu. Et ceux qui en ont eu 750,"
+    },
+    {
+      "id": 480,
+      "start": 4241.12,
+      "end": 4248.0,
+      "start_timestamp": "01:10:41.120",
+      "end_timestamp": "01:10:48.000",
+      "text": "c'est que quelqu'un leur a donné. C'est comme ça que ça se passe en France. Donc nous étions à 707,"
+    },
+    {
+      "id": 481,
+      "start": 4248.0,
+      "end": 4252.84,
+      "start_timestamp": "01:10:48.000",
+      "end_timestamp": "01:10:52.840",
+      "text": "et puis après est arrivée la crise de l'euro, qui n'a fait que donner de l'eau au moulin de notre mouvement."
+    },
+    {
+      "id": 482,
+      "start": 4252.84,
+      "end": 4261.68,
+      "start_timestamp": "01:10:52.840",
+      "end_timestamp": "01:11:01.680",
+      "text": "Et on est passé de 707 à 2158 au cours de l'année 2012. C'est-à-dire, comme vous le voyez, un triplement au cours de l'année 2012."
+    },
+    {
+      "id": 483,
+      "start": 4261.68,
+      "end": 4269.84,
+      "start_timestamp": "01:11:01.680",
+      "end_timestamp": "01:11:09.840",
+      "text": "Et pour l'année 2013, qui est actuellement pas mal engagée, nous en sommes à... Hier soir, nous en étions à 2895."
+    },
+    {
+      "id": 484,
+      "start": 4269.84,
+      "end": 4274.68,
+      "start_timestamp": "01:11:09.840",
+      "end_timestamp": "01:11:14.680",
+      "text": "Je vais pas regarder le compteur de ce qui est arrivé, mais on a en moyenne 5 à 6 ou 7 adhésions par jour,"
+    },
+    {
+      "id": 485,
+      "start": 4274.72,
+      "end": 4281.32,
+      "start_timestamp": "01:11:14.720",
+      "end_timestamp": "01:11:21.320",
+      "text": "ce qui signifie que nous sommes actuellement pratiquement à 2900. Très prochainement, on va franchir le cap des 3 000."
+    },
+    {
+      "id": 486,
+      "start": 4281.32,
+      "end": 4289.52,
+      "start_timestamp": "01:11:21.320",
+      "end_timestamp": "01:11:29.520",
+      "text": "Et si nous continuons à ce rythme, nous serons à peu près 4 200 adhérents au 31 décembre. Ce sont des vrais nombres."
+    },
+    {
+      "id": 487,
+      "start": 4289.52,
+      "end": 4299.56,
+      "start_timestamp": "01:11:29.520",
+      "end_timestamp": "01:11:39.560",
+      "text": "Ce sont pas des nombres traficotés, style Mme Boutin ou M. Dupont-Aignan, qui en annonce 12 500. On sait qu'on en a plus que lui."
+    },
+    {
+      "id": 488,
+      "start": 4299.56,
+      "end": 4306.96,
+      "start_timestamp": "01:11:39.560",
+      "end_timestamp": "01:11:46.960",
+      "text": "Donc nous, ce sont les vrais nombres. Ça n'est pas encore ni rebolant. On n'en est pas encore à 100 000."
+    },
+    {
+      "id": 489,
+      "start": 4306.96,
+      "end": 4312.0,
+      "start_timestamp": "01:11:46.960",
+      "end_timestamp": "01:11:52.000",
+      "text": "D'ailleurs, personne en France en est à 100 000, puisqu'il y a un désaveu général de l'ensemble des mouvements politiques."
+    },
+    {
+      "id": 490,
+      "start": 4312.0,
+      "end": 4321.36,
+      "start_timestamp": "01:11:52.000",
+      "end_timestamp": "01:12:01.360",
+      "text": "Mais en tout cas, ce que j'ai plaisir à annoncer, enfin ce qui nous fait honneur à tous les adhérents de l'UPR,"
+    },
+    {
+      "id": 491,
+      "start": 4321.36,
+      "end": 4327.12,
+      "start_timestamp": "01:12:01.360",
+      "end_timestamp": "01:12:07.120",
+      "text": "c'est que nous sommes en train de réaliser quelque chose qui n'a jamais été fait en France, c'est-à-dire l'apparition d'un vrai mouvement politique"
+    },
+    {
+      "id": 492,
+      "start": 4327.12,
+      "end": 4334.4,
+      "start_timestamp": "01:12:07.120",
+      "end_timestamp": "01:12:14.400",
+      "text": "puissant qui est en plein développement, qui commence à acquitter depuis maintenant un certain nombre de mois d'ailleurs l'ensemble des médias"
+    },
+    {
+      "id": 493,
+      "start": 4334.4,
+      "end": 4341.84,
+      "start_timestamp": "01:12:14.400",
+      "end_timestamp": "01:12:21.840",
+      "text": "et des autres partis politiques. Il y a une omerta qui est sur nous, mais la grande majorité des journalistes français sont abonnés Twitter"
+    },
+    {
+      "id": 494,
+      "start": 4341.84,
+      "end": 4350.72,
+      "start_timestamp": "01:12:21.840",
+      "end_timestamp": "01:12:30.720",
+      "text": "ou nous viennent consulter notre site très très régulièrement, nous suivent très précisément. Et nous sommes désormais donc sur une tendance exponentielle"
+    },
+    {
+      "id": 495,
+      "start": 4350.72,
+      "end": 4356.96,
+      "start_timestamp": "01:12:30.720",
+      "end_timestamp": "01:12:36.960",
+      "text": "dont on peut espérer qu'à la fin 2014, on aura sans doute atteint les 10 000. C'est quand même très important puisque d'ores et déjà,"
+    },
+    {
+      "id": 496,
+      "start": 4356.96,
+      "end": 4366.24,
+      "start_timestamp": "01:12:36.960",
+      "end_timestamp": "01:12:46.240",
+      "text": "nous avons plus d'adhérents avérés que le NPA de M. Besancenot, probablement que le DLR de M. Duport-Aiténian, plus que le PCD de Mme Christine Boutin."
+    },
+    {
+      "id": 497,
+      "start": 4366.24,
+      "end": 4373.8,
+      "start_timestamp": "01:12:46.240",
+      "end_timestamp": "01:12:53.800",
+      "text": "Tout ceci sans jamais, jamais, jamais avoir été passé sur une des très grandes télévisions, une des très grandes radios nationales."
+    },
+    {
+      "id": 498,
+      "start": 4373.8,
+      "end": 4380.32,
+      "start_timestamp": "01:12:53.800",
+      "end_timestamp": "01:13:00.320",
+      "text": "Voilà ce que je voulais vous dire pour vous montrer que ce qui est déjà, d'ores et déjà acquis, c'est que nous sommes en train,"
+    },
+    {
+      "id": 499,
+      "start": 4380.32,
+      "end": 4391.0,
+      "start_timestamp": "01:13:00.320",
+      "end_timestamp": "01:13:11.000",
+      "text": "je le pense profondément, de réhabiliter la politique en France, ou en certaines formes de politique, c'est-à-dire de réintroduire dans le débat politique"
+    },
+    {
+      "id": 500,
+      "start": 4391.0,
+      "end": 4400.64,
+      "start_timestamp": "01:13:11.000",
+      "end_timestamp": "01:13:20.640",
+      "text": "de la profondeur, de la vérité, de l'honnêteté intellectuelle, du vrai débat politique. Nous refusons, moi je refuse, les coups médiatiques,"
+    },
+    {
+      "id": 501,
+      "start": 4400.64,
+      "end": 4407.6,
+      "start_timestamp": "01:13:20.640",
+      "end_timestamp": "01:13:27.600",
+      "text": "les trucs, les machins. C'est du broignant qui va aller à chevauffer une paire de lunettes à eux, on fait des conneries, quoi."
+    },
+    {
+      "id": 502,
+      "start": 4407.6,
+      "end": 4414.96,
+      "start_timestamp": "01:13:27.600",
+      "end_timestamp": "01:13:34.960",
+      "text": "Tout ça, c'est... Non. Nous, on dit toujours la même chose. On fait des analyses de fond. On dit les choses telles qu'elles sont."
+    },
+    {
+      "id": 503,
+      "start": 4414.96,
+      "end": 4421.24,
+      "start_timestamp": "01:13:34.960",
+      "end_timestamp": "01:13:41.240",
+      "text": "Nous sommes le seul mouvement politique à décrypter ce que je viens de faire devant vous. Il n'y en a pas un seul en France qui le fait,"
+    },
+    {
+      "id": 504,
+      "start": 4421.24,
+      "end": 4428.48,
+      "start_timestamp": "01:13:41.240",
+      "end_timestamp": "01:13:48.480",
+      "text": "qui décrypte le rôle des États-Unis d'Avérie, qui décrypte l'origine de la construction européenne, qui décrypte que la construction européenne"
+    },
+    {
+      "id": 505,
+      "start": 4428.48,
+      "end": 4435.92,
+      "start_timestamp": "01:13:48.480",
+      "end_timestamp": "01:13:55.920",
+      "text": "s'inscrit dans un choc des civilisations, qui décrypte tout ceci pour ses auditoires. Et la grande récompense que nous avons,"
+    },
+    {
+      "id": 506,
+      "start": 4435.96,
+      "end": 4443.8,
+      "start_timestamp": "01:13:55.960",
+      "end_timestamp": "01:14:03.800",
+      "text": "c'est que nous sommes de plus en plus suifiés. Voilà. Après ces petits propos un petit peu d'auto-satisfaction que vous m'aurez perdonné,"
+    },
+    {
+      "id": 507,
+      "start": 4443.8,
+      "end": 4447.44,
+      "start_timestamp": "01:14:03.800",
+      "end_timestamp": "01:14:07.440",
+      "text": "je suis à votre disposition pour répondre à toutes vos questions."
+    }
+  ]
+}

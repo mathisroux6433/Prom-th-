@@ -1,0 +1,3761 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 12.78,
+      "end": 22.28,
+      "start_timestamp": "00:00:12.780",
+      "end_timestamp": "00:00:22.280",
+      "text": "— La conférence, donc, de ce soir, c'est une conférence que j'ai commencé à présenter il y a environ 3 ans."
+    },
+    {
+      "id": 1,
+      "start": 22.28,
+      "end": 28.6,
+      "start_timestamp": "00:00:22.280",
+      "end_timestamp": "00:00:28.600",
+      "text": "Je l'ai... Ceux qui la connaissent déjà pourront le remarquer. Il y a quand même beaucoup de passages qui ont été..."
+    },
+    {
+      "id": 2,
+      "start": 28.6,
+      "end": 37.2,
+      "start_timestamp": "00:00:28.600",
+      "end_timestamp": "00:00:37.200",
+      "text": "Enfin certains passages qui ont été mis au goût du jour, un petit peu modernisés. Mais dans son essence, dans sa qualité intrinsèque,"
+    },
+    {
+      "id": 3,
+      "start": 37.2,
+      "end": 48.88,
+      "start_timestamp": "00:00:37.200",
+      "end_timestamp": "00:00:48.880",
+      "text": "c'est toujours la même conférence. Alors j'insiste là-dessus, parce que je tire – je l'avoue – une certaine fierté au fait que..."
+    },
+    {
+      "id": 4,
+      "start": 48.88,
+      "end": 57.16,
+      "start_timestamp": "00:00:48.880",
+      "end_timestamp": "00:00:57.160",
+      "text": "Je crois que c'est une preuve d'honnêteté intellectuelle. C'est que les conférences que j'ai prononcées circulent toujours"
+    },
+    {
+      "id": 5,
+      "start": 57.16,
+      "end": 64.44,
+      "start_timestamp": "00:00:57.160",
+      "end_timestamp": "00:01:04.440",
+      "text": "depuis 6 ans sur Internet. Comme la charte fondatrice de notre mouvement qui a été adoptée le 25 mars 2007 est toujours inchangée"
+    },
+    {
+      "id": 6,
+      "start": 64.44,
+      "end": 71.16,
+      "start_timestamp": "00:01:04.440",
+      "end_timestamp": "00:01:11.160",
+      "text": "sans aucune virgule modifiée depuis 6 ans. Et si de plus en plus de gens adhèrent à notre mouvement, c'est justement parce qu'ils se rendent compte"
+    },
+    {
+      "id": 7,
+      "start": 71.16,
+      "end": 78.48,
+      "start_timestamp": "00:01:11.160",
+      "end_timestamp": "00:01:18.480",
+      "text": "que si vous permettez ces expressions un petit peu triviales, ça tient la route. C'est-à-dire que 6 ans après, c'est toujours la même chose que nous disons."
+    },
+    {
+      "id": 8,
+      "start": 78.48,
+      "end": 84.66,
+      "start_timestamp": "00:01:18.480",
+      "end_timestamp": "00:01:24.660",
+      "text": "Et c'est toujours de plus en plus vérifié par les événements. C'est à comparer à ce que vous proposent tous les autres partis politiques français"
+    },
+    {
+      "id": 9,
+      "start": 84.66,
+      "end": 90.82,
+      "start_timestamp": "00:01:24.660",
+      "end_timestamp": "00:01:30.820",
+      "text": "qui ne cessent que de changer constamment leurs propositions, leurs analyses au gré des événements."
+    },
+    {
+      "id": 10,
+      "start": 90.82,
+      "end": 98.3,
+      "start_timestamp": "00:01:30.820",
+      "end_timestamp": "00:01:38.300",
+      "text": "Évidemment, maintenant que c'est une catastrophe dans l'Europe, il y a de plus en plus de mouvements qui commencent à se rapprocher"
+    },
+    {
+      "id": 11,
+      "start": 98.3,
+      "end": 109.51,
+      "start_timestamp": "00:01:38.300",
+      "end_timestamp": "00:01:49.510",
+      "text": "de ce que nous nous disons. Bien sûr. Bien sûr. Mais à qui devez-vous faire confiance ? Alors ces 10 raisons, je vais commencer tout de suite,"
+    },
+    {
+      "id": 12,
+      "start": 109.51,
+      "end": 119.19,
+      "start_timestamp": "00:01:49.510",
+      "end_timestamp": "00:01:59.190",
+      "text": "parce que c'est une conférence très longue. La première raison a été notamment très singulièrement à modifier pour faire ressortir"
+    },
+    {
+      "id": 13,
+      "start": 119.19,
+      "end": 127.03,
+      "start_timestamp": "00:01:59.190",
+      "end_timestamp": "00:02:07.030",
+      "text": "un nouvel argumentaire. C'est en fait l'argumentaire que j'ai présenté la première fois il y a quelques jours devant des élèves polytechniciens."
+    },
+    {
+      "id": 14,
+      "start": 127.03,
+      "end": 136.55,
+      "start_timestamp": "00:02:07.030",
+      "end_timestamp": "00:02:16.550",
+      "text": "Je leur ai fait un petit cours de maths, si je me permets. Donc je vais faire pareil. Vous allez voir, je trouve que derrière, c'est assez intéressant."
+    },
+    {
+      "id": 15,
+      "start": 136.55,
+      "end": 147.11,
+      "start_timestamp": "00:02:16.550",
+      "end_timestamp": "00:02:27.110",
+      "text": "La raison n°1, c'est qu'il faut rétablir la démocratie en rendant leur sens aux élections. Je me plais à souligner que j'ai un de nos adhérents,"
+    },
+    {
+      "id": 16,
+      "start": 147.11,
+      "end": 154.71,
+      "start_timestamp": "00:02:27.110",
+      "end_timestamp": "00:02:34.710",
+      "text": "qui est de Côte-d'Or, qui a fait pour moi... Qui travaille dans une entreprise de transport, qui rencontre beaucoup de gens,"
+    },
+    {
+      "id": 17,
+      "start": 154.71,
+      "end": 161.75,
+      "start_timestamp": "00:02:34.710",
+      "end_timestamp": "00:02:41.750",
+      "text": "et qui a fait une petite enquête il y a quelques jours, une espèce d'enquête de terrain. Je lui demandais « Mais pourquoi, finalement,"
+    },
+    {
+      "id": 18,
+      "start": 161.75,
+      "end": 169.63,
+      "start_timestamp": "00:02:41.750",
+      "end_timestamp": "00:02:49.630",
+      "text": "est-ce que nos concitoyens ne s'intéressent plus à la politique ? ». Donc il a fait une enquête un peu de micro-trottoir parmi tous ses collègues de travail, etc.,"
+    },
+    {
+      "id": 19,
+      "start": 169.63,
+      "end": 177.39,
+      "start_timestamp": "00:02:49.630",
+      "end_timestamp": "00:02:57.390",
+      "text": "à beaucoup de gens qu'il a rencontrés. Et donc il m'écrit, ce qui, d'ailleurs, est la confirmation de ce que je ne cessaie de dire"
+    },
+    {
+      "id": 20,
+      "start": 177.39,
+      "end": 185.39,
+      "start_timestamp": "00:02:57.390",
+      "end_timestamp": "00:03:05.390",
+      "text": "depuis plusieurs années, ce que vous sentez tous d'ailleurs intuitivement, pour résumer les gens. Le sentiment qu'on fonde même peu importe leur vote."
+    },
+    {
+      "id": 21,
+      "start": 185.39,
+      "end": 192.51,
+      "start_timestamp": "00:03:05.390",
+      "end_timestamp": "00:03:12.510",
+      "text": "Les gens qu'ils élisent appliquent de toute manière tous la même politique. Voilà. « Tous font de belles promesses pendant les campagnes électorales."
+    },
+    {
+      "id": 22,
+      "start": 192.51,
+      "end": 200.59,
+      "start_timestamp": "00:03:12.510",
+      "end_timestamp": "00:03:20.590",
+      "text": "Une fois élus, placent leurs copains au pouvoir en oubliant leur programme ». C'est Alexandre de Côte-d'Or qui a fait cette analyse."
+    },
+    {
+      "id": 23,
+      "start": 200.59,
+      "end": 209.91,
+      "start_timestamp": "00:03:20.590",
+      "end_timestamp": "00:03:29.910",
+      "text": "Et puis il me cite toute une série de réactions enregistrées. Voilà un homme de 35 ans. « Pourquoi est-ce que vous n'intéressez pas à la politique ?"
+    },
+    {
+      "id": 24,
+      "start": 209.91,
+      "end": 216.27,
+      "start_timestamp": "00:03:29.910",
+      "end_timestamp": "00:03:36.270",
+      "text": "– Réponse parce qu'ils se foutent de nous. C'est de la fumisterie. Ce qu'ils veulent, c'est la place et placer les copains et les copines."
+    },
+    {
+      "id": 25,
+      "start": 216.27,
+      "end": 223.19,
+      "start_timestamp": "00:03:36.270",
+      "end_timestamp": "00:03:43.190",
+      "text": "– Un autre, âgé de 40 ans, parce qu'ils nous prennent pour des cons. Ils nous racontent ce qu'ils veulent sans oublier de nous mentir."
+    },
+    {
+      "id": 26,
+      "start": 223.19,
+      "end": 228.35,
+      "start_timestamp": "00:03:43.190",
+      "end_timestamp": "00:03:48.350",
+      "text": "– Et un autre, sondé âgé de 39 ans, parce qu'ils nous disent tous la même chose. Ils promettent tous la même chose,"
+    },
+    {
+      "id": 27,
+      "start": 228.35,
+      "end": 233.95,
+      "start_timestamp": "00:03:48.350",
+      "end_timestamp": "00:03:53.950",
+      "text": "que c'est toujours les mêmes qui se serrent la ceinture et qu'ils n'appliquent pas à eux ce qu'ils demandent à nous de faire."
+    },
+    {
+      "id": 28,
+      "start": 233.95,
+      "end": 239.95,
+      "start_timestamp": "00:03:53.950",
+      "end_timestamp": "00:03:59.950",
+      "text": "– Un autre encore, c'est tous des menteurs. Ils ne tiennent pas leurs paroles. Ils sont emprisonnés dans un système."
+    },
+    {
+      "id": 29,
+      "start": 239.95,
+      "end": 245.43,
+      "start_timestamp": "00:03:59.950",
+      "end_timestamp": "00:04:05.430",
+      "text": "– Un autre encore, âgé de 34 ans. Ils sont tous pareils. Ils veulent tous la place. Ils promettent tout une fois qu'ils ont la place,"
+    },
+    {
+      "id": 30,
+      "start": 245.43,
+      "end": 249.55,
+      "start_timestamp": "00:04:05.430",
+      "end_timestamp": "00:04:09.550",
+      "text": "ou ils reviennent sur ce qu'ils ont dit, ou ils se laissent manipuler."
+    },
+    {
+      "id": 31,
+      "start": 249.55,
+      "end": 256.19,
+      "start_timestamp": "00:04:09.550",
+      "end_timestamp": "00:04:16.190",
+      "text": "– Un autre de 26 ans. Je n'arrive pas à trouver de parti qui adhère à mes idées, et je ne crois plus en aucun parti en place."
+    },
+    {
+      "id": 32,
+      "start": 256.19,
+      "end": 261.23,
+      "start_timestamp": "00:04:16.190",
+      "end_timestamp": "00:04:21.230",
+      "text": "– Un autre âgé de 19 ans, parce que vis-à-vis des autres, je n'ai pas assez de connaissances de la politique pour apporter mes idées,"
+    },
+    {
+      "id": 33,
+      "start": 261.23,
+      "end": 268.07,
+      "start_timestamp": "00:04:21.230",
+      "end_timestamp": "00:04:28.070",
+      "text": "et je ne m'y intéresse pas par manque de temps ». Enfin voilà. Donc il y a une très grande partie de nos compatriotes qui sont absolument dégoûtés,"
+    },
+    {
+      "id": 34,
+      "start": 268.07,
+      "end": 275.03,
+      "start_timestamp": "00:04:28.070",
+      "end_timestamp": "00:04:35.030",
+      "text": "qui ont le sentiment que leur vote ne sert plus à rien. Alors ce que je voulais dire en préambule, c'est que c'est effectivement"
+    },
+    {
+      "id": 35,
+      "start": 275.03,
+      "end": 283.47,
+      "start_timestamp": "00:04:35.030",
+      "end_timestamp": "00:04:43.470",
+      "text": "le problème numéro 1. C'est la fin de la démocratie. Et je voulais voir avec vous... Vous expliquer qu'il s'agit d'abord d'un problème mathématique,"
+    },
+    {
+      "id": 36,
+      "start": 283.47,
+      "end": 289.91,
+      "start_timestamp": "00:04:43.470",
+      "end_timestamp": "00:04:49.910",
+      "text": "avant même d'un problème politique. Alors on va examiner entre tous ensemble ce problème mathématique. Je vais essayer de vous le présenter"
+    },
+    {
+      "id": 37,
+      "start": 289.91,
+      "end": 296.23,
+      "start_timestamp": "00:04:49.910",
+      "end_timestamp": "00:04:56.230",
+      "text": "d'une façon simple. Ça a été en tout cas validé par les étudiants de polytechnique. Ensuite, ils n'ont pas bronché."
+    },
+    {
+      "id": 38,
+      "start": 296.23,
+      "end": 302.75,
+      "start_timestamp": "00:04:56.230",
+      "end_timestamp": "00:05:02.750",
+      "text": "Au contraire, ils ont trouvé ça intéressant. Quand vous avez un seul État indépendant, si un État est indépendant,"
+    },
+    {
+      "id": 39,
+      "start": 302.75,
+      "end": 312.03,
+      "start_timestamp": "00:05:02.750",
+      "end_timestamp": "00:05:12.030",
+      "text": "sa politique est tout le temps cohérente. C'est-à-dire que vous avez un gouvernement soit de gauche, soit de droite."
+    },
+    {
+      "id": 40,
+      "start": 312.03,
+      "end": 319.19,
+      "start_timestamp": "00:05:12.030",
+      "end_timestamp": "00:05:19.190",
+      "text": "Il est vrai que dans certains cas, ça dépend des pays. On peut avoir une cohabitation institutionnelle. Mais c'est quand même assez rare."
+    },
+    {
+      "id": 41,
+      "start": 319.19,
+      "end": 323.63,
+      "start_timestamp": "00:05:19.190",
+      "end_timestamp": "00:05:23.630",
+      "text": "Donc quand les Français votent à droite, ils ont un gouvernement de droite. Et quand ils votent à gauche, ils ont un gouvernement de gauche."
+    },
+    {
+      "id": 42,
+      "start": 323.63,
+      "end": 328.75,
+      "start_timestamp": "00:05:23.630",
+      "end_timestamp": "00:05:28.750",
+      "text": "C'est comme ça que ça se passait sous De Gaulle ou sous Mitterrand. Il n'y avait pas de malaise politique."
+    },
+    {
+      "id": 43,
+      "start": 328.75,
+      "end": 334.31,
+      "start_timestamp": "00:05:28.750",
+      "end_timestamp": "00:05:34.310",
+      "text": "Lorsque les Français ont élu Mitterrand en 1981, les gens de droite étaient furieux, les gens de gauche étaient enchantés."
+    },
+    {
+      "id": 44,
+      "start": 334.31,
+      "end": 341.19,
+      "start_timestamp": "00:05:34.310",
+      "end_timestamp": "00:05:41.190",
+      "text": "Mais personne ne disait qu'il n'y avait plus de démocratie en France. Donc la probabilité d'une politique cohérente de droite"
+    },
+    {
+      "id": 45,
+      "start": 341.19,
+      "end": 349.79,
+      "start_timestamp": "00:05:41.190",
+      "end_timestamp": "00:05:49.790",
+      "text": "ou cohérente de gauche, c'est... On va voir pourquoi ensuite. 1. 1, c'est-à-dire 0,5 à la puissance 0. 50% puissance 0 égale 1."
+    },
+    {
+      "id": 46,
+      "start": 349.79,
+      "end": 355.71,
+      "start_timestamp": "00:05:49.790",
+      "end_timestamp": "00:05:55.710",
+      "text": "Donc on va voir pourquoi un peu... Je sais pas si d'entre vous, ce sont des mathématiciens. Maintenant, si vous avez 2 États,"
+    },
+    {
+      "id": 47,
+      "start": 355.71,
+      "end": 363.99,
+      "start_timestamp": "00:05:55.710",
+      "end_timestamp": "00:06:03.990",
+      "text": "2 États que l'on force à adopter une politique commune, par exemple l'Allemagne et la France, vous avez une première possibilité."
+    },
+    {
+      "id": 48,
+      "start": 363.99,
+      "end": 369.23,
+      "start_timestamp": "00:06:03.990",
+      "end_timestamp": "00:06:09.230",
+      "text": "C'est qu'il y a en France un gouvernement du PS et en Allemagne un gouvernement de la chrétienne démocratie."
+    },
+    {
+      "id": 49,
+      "start": 369.23,
+      "end": 374.31,
+      "start_timestamp": "00:06:09.230",
+      "end_timestamp": "00:06:14.310",
+      "text": "C'est-à-dire l'équivalent du MP, la CDU. C'est ce qui se passe par exemple actuellement."
+    },
+    {
+      "id": 50,
+      "start": 374.31,
+      "end": 382.39,
+      "start_timestamp": "00:06:14.310",
+      "end_timestamp": "00:06:22.390",
+      "text": "M. Hollande en France, Mme Merkel en Allemagne. Donc vous avez une incohérence, puisque vous avez un gouvernement de gauche"
+    },
+    {
+      "id": 51,
+      "start": 382.39,
+      "end": 387.99,
+      "start_timestamp": "00:06:22.390",
+      "end_timestamp": "00:06:27.990",
+      "text": "et un gouvernement de droite. Maintenant, vous pouvez avoir une autre formule. C'est le parti socialiste en France,"
+    },
+    {
+      "id": 52,
+      "start": 387.99,
+      "end": 395.51,
+      "start_timestamp": "00:06:27.990",
+      "end_timestamp": "00:06:35.510",
+      "text": "parti socialiste en Allemagne. Donc vous avez à faire cette fois-ci une cohérence de gauche, si on force à avoir la même politique commune"
+    },
+    {
+      "id": 53,
+      "start": 395.51,
+      "end": 402.75,
+      "start_timestamp": "00:06:35.510",
+      "end_timestamp": "00:06:42.750",
+      "text": "entre les 2 États. Et puis vous avez une autre possibilité. C'est du MP. Je simplifie à l'extrême, bien entendu."
+    },
+    {
+      "id": 54,
+      "start": 402.75,
+      "end": 410.03,
+      "start_timestamp": "00:06:42.750",
+      "end_timestamp": "00:06:50.030",
+      "text": "Je simplifie uniquement sur un simple clivage droite-gauche. L'UMP en France, parti socialiste en Allemagne, incohérence."
+    },
+    {
+      "id": 55,
+      "start": 410.03,
+      "end": 418.59,
+      "start_timestamp": "00:06:50.030",
+      "end_timestamp": "00:06:58.590",
+      "text": "Cette fois-ci, droite-gauche. Et puis enfin, UMP en France, CDU en Allemagne. Et cette fois-ci, on aura cohérence de mouvement de droite."
+    },
+    {
+      "id": 56,
+      "start": 418.59,
+      "end": 426.67,
+      "start_timestamp": "00:06:58.590",
+      "end_timestamp": "00:07:06.670",
+      "text": "Ça veut donc dire que sur ces 4 possibilités, eh bien nous aurons 2 possibilités de cohérence, de politique cohérente"
+    },
+    {
+      "id": 57,
+      "start": 426.67,
+      "end": 432.75,
+      "start_timestamp": "00:07:06.670",
+      "end_timestamp": "00:07:12.750",
+      "text": "au niveau de la fusion de ces 2 États, soit une politique de droite, soit une politique de gauche, et 2 incohérentes."
+    },
+    {
+      "id": 58,
+      "start": 432.75,
+      "end": 438.35,
+      "start_timestamp": "00:07:12.750",
+      "end_timestamp": "00:07:18.350",
+      "text": "Ça veut donc dire que la probabilité d'une politique cohérente de droite ou de gauche dans un attelage de 2 États,"
+    },
+    {
+      "id": 59,
+      "start": 438.35,
+      "end": 447.83,
+      "start_timestamp": "00:07:18.350",
+      "end_timestamp": "00:07:27.830",
+      "text": "c'est de 0,5 à la puissance 1, c'est-à-dire 0,5, 50% de chance. Maintenant, si on a 3 États que l'on force à adopter"
+    },
+    {
+      "id": 60,
+      "start": 447.83,
+      "end": 455.03,
+      "start_timestamp": "00:07:27.830",
+      "end_timestamp": "00:07:35.030",
+      "text": "une politique commune à France, l'Allemagne et l'Espagne, alors là, vous allez avoir... Les possibilités vont se multiplier."
+    },
+    {
+      "id": 61,
+      "start": 455.03,
+      "end": 465.75,
+      "start_timestamp": "00:07:35.030",
+      "end_timestamp": "00:07:45.750",
+      "text": "Première possibilité, le PSF de droite, la CDU de droite... Parti socialiste de gauche en France, CDU de droite en Allemagne,"
+    },
+    {
+      "id": 62,
+      "start": 465.75,
+      "end": 477.19,
+      "start_timestamp": "00:07:45.750",
+      "end_timestamp": "00:07:57.190",
+      "text": "et le Parti populaire de droite en Espagne. On aura incohérence gauche-droite-droite. On peut avoir PS, CDU et le PSE."
+    },
+    {
+      "id": 63,
+      "start": 477.19,
+      "end": 488.51,
+      "start_timestamp": "00:07:57.190",
+      "end_timestamp": "00:08:08.510",
+      "text": "On aura incohérence gauche-droite-gauche. On peut avoir PS, SPD et PSE. On aura incohérence gauche-gauche-droite."
+    },
+    {
+      "id": 64,
+      "start": 488.51,
+      "end": 498.23,
+      "start_timestamp": "00:08:08.510",
+      "end_timestamp": "00:08:18.230",
+      "text": "On peut avoir PS, SPD et PSE. Là, on aura cohérence. On aura une cohérence gauche-gauche-gauche."
+    },
+    {
+      "id": 65,
+      "start": 498.23,
+      "end": 505.23,
+      "start_timestamp": "00:08:18.230",
+      "end_timestamp": "00:08:25.230",
+      "text": "On peut avoir l'UMP en France, la CDU et le PS, c'est-à-dire droite-droite-droite. Ça sera cohérent."
+    },
+    {
+      "id": 66,
+      "start": 505.23,
+      "end": 514.19,
+      "start_timestamp": "00:08:25.230",
+      "end_timestamp": "00:08:34.190",
+      "text": "Mais on peut avoir l'UMP, le CDU et le PSE. Ça sera incohérent droite-droite-gauche. On peut avoir l'UMP, le SPD et le PS."
+    },
+    {
+      "id": 67,
+      "start": 514.19,
+      "end": 523.51,
+      "start_timestamp": "00:08:34.190",
+      "end_timestamp": "00:08:43.510",
+      "text": "Ça sera incohérent droite-gauche-droite. Et enfin, on peut avoir l'UMP, le SPD et le PSE. Ça sera incohérent droite-gauche-gauche."
+    },
+    {
+      "id": 68,
+      "start": 523.51,
+      "end": 530.55,
+      "start_timestamp": "00:08:43.510",
+      "end_timestamp": "00:08:50.550",
+      "text": "Ce qui veut dire que... Vous voyez, c'est très intéressant, d'après une vue mathématique, parce que ça veut dire que là, maintenant,"
+    },
+    {
+      "id": 69,
+      "start": 530.55,
+      "end": 539.15,
+      "start_timestamp": "00:08:50.550",
+      "end_timestamp": "00:08:59.150",
+      "text": "avec 3 États, on a 8 possibilités. Il n'y a plus que 2 sur les 8 de politique cohérente, soit une politique entièrement de droite,"
+    },
+    {
+      "id": 70,
+      "start": 539.15,
+      "end": 545.31,
+      "start_timestamp": "00:08:59.150",
+      "end_timestamp": "00:09:05.310",
+      "text": "soit une politique entièrement de gauche. Sinon, c'est une politique totalement incohérente. Donc la probabilité d'une politique cohérente"
+    },
+    {
+      "id": 71,
+      "start": 545.31,
+      "end": 553.23,
+      "start_timestamp": "00:09:05.310",
+      "end_timestamp": "00:09:13.230",
+      "text": "soit totalement de droite, soit totalement de gauche dans un attelage de 3 États est donc de 0,5 au carré. Ça ne fait plus que 0,25."
+    },
+    {
+      "id": 72,
+      "start": 553.23,
+      "end": 563.91,
+      "start_timestamp": "00:09:13.230",
+      "end_timestamp": "00:09:23.910",
+      "text": "25 chance sur 100. Alors je vais pas passer toute la journée à faire les choses. Je vais maintenant basculer en termes théoriques, mathématiques."
+    },
+    {
+      "id": 73,
+      "start": 563.91,
+      "end": 573.71,
+      "start_timestamp": "00:09:23.910",
+      "end_timestamp": "00:09:33.710",
+      "text": "En termes théoriques, il faut résonner ce passage en termes mathématiques. Ceux qui sont rétifs aux mathématiques me font confiance."
+    },
+    {
+      "id": 74,
+      "start": 573.71,
+      "end": 582.71,
+      "start_timestamp": "00:09:33.710",
+      "end_timestamp": "00:09:42.710",
+      "text": "Les autres tressent l'oreille. En fait, si on a n États, n étant supérieur ou égal à 1, à un instant donné, il y a 2 puissances n"
+    },
+    {
+      "id": 75,
+      "start": 582.71,
+      "end": 590.79,
+      "start_timestamp": "00:09:42.710",
+      "end_timestamp": "00:09:50.790",
+      "text": "possibilités pour que les NU plaît le gouvernement en supposant qu'il n'y en a que 2 par États, gauche et droite."
+    },
+    {
+      "id": 76,
+      "start": 590.79,
+      "end": 595.99,
+      "start_timestamp": "00:09:50.790",
+      "end_timestamp": "00:09:55.990",
+      "text": "C'est la supposition de départ. Parce qu'en fait, c'est beaucoup plus compliqué quand je vais le dire dans un instant."
+    },
+    {
+      "id": 77,
+      "start": 595.99,
+      "end": 603.75,
+      "start_timestamp": "00:09:55.990",
+      "end_timestamp": "00:10:03.750",
+      "text": "Ça veut donc dire que seuls 2 NU plaît permettent une politique cohérente. Le NU plaît. GGGGG. Tout est à gauche. Ou bien DDDDD."
+    },
+    {
+      "id": 78,
+      "start": 603.75,
+      "end": 610.95,
+      "start_timestamp": "00:10:03.750",
+      "end_timestamp": "00:10:10.950",
+      "text": "Tout est de droite. Donc puisque les éventualités de politique cohérente et de politique incohérente ne se recoupent pas,"
+    },
+    {
+      "id": 79,
+      "start": 610.95,
+      "end": 619.83,
+      "start_timestamp": "00:10:10.950",
+      "end_timestamp": "00:10:19.830",
+      "text": "la politique est incohérente pour les 2 puissances n – 2 NU plaît restants. Ce qui donc fait une probabilité d'avoir une politique cohérente"
+    },
+    {
+      "id": 80,
+      "start": 619.83,
+      "end": 628.23,
+      "start_timestamp": "00:10:19.830",
+      "end_timestamp": "00:10:28.230",
+      "text": "qui est de 2 divisé par 2 puissance n, est égal à 1 si divisé par 2 puissance n – 1. C'est égal à 0,5 à la puissance n – 1."
+    },
+    {
+      "id": 81,
+      "start": 628.23,
+      "end": 634.63,
+      "start_timestamp": "00:10:28.230",
+      "end_timestamp": "00:10:34.630",
+      "text": "On retombe de façon mathématique... C'est un petit peu compliqué, peut-être, pour ça que ça parle entre nous, parce que ça parle en polytechnicien."
+    },
+    {
+      "id": 82,
+      "start": 634.63,
+      "end": 642.35,
+      "start_timestamp": "00:10:34.630",
+      "end_timestamp": "00:10:42.350",
+      "text": "On retombe de façon mathématique sur cette règle d'empirique qu'on avait découverte ensemble au cours des 3 premiers exercices,"
+    },
+    {
+      "id": 83,
+      "start": 642.35,
+      "end": 651.63,
+      "start_timestamp": "00:10:42.350",
+      "end_timestamp": "00:10:51.630",
+      "text": "avec 1, 2 et 3 états. Alors c'est évidemment très important, cette petite découverte que je vous propose, parce qu'en première approximation,"
+    },
+    {
+      "id": 84,
+      "start": 651.63,
+      "end": 659.59,
+      "start_timestamp": "00:10:51.630",
+      "end_timestamp": "00:10:59.590",
+      "text": "la probabilité d'avoir une politique cohérente de droite ou de gauche dans un attelage de 1 état est donc de 0,5 à la puissance n – 1."
+    },
+    {
+      "id": 85,
+      "start": 659.59,
+      "end": 666.49,
+      "start_timestamp": "00:10:59.590",
+      "end_timestamp": "00:11:06.490",
+      "text": "Et encore, on simplifie. Oui, à l'extrême, on dit seulement la droite ou seulement la gauche. Donc c'est un calcul"
+    },
+    {
+      "id": 86,
+      "start": 666.49,
+      "end": 672.35,
+      "start_timestamp": "00:11:06.490",
+      "end_timestamp": "00:11:12.350",
+      "text": "exagérément favorable, car il postule implicitement d'abord que les choix sont binaires, droite-gauche. Dans chaque pays,"
+    },
+    {
+      "id": 87,
+      "start": 672.35,
+      "end": 677.35,
+      "start_timestamp": "00:11:12.350",
+      "end_timestamp": "00:11:17.350",
+      "text": "en pratique, c'est beaucoup plus compliqué. Il y a les écologistes, l'extrême-droite, l'extrême-gauche, etc."
+    },
+    {
+      "id": 88,
+      "start": 677.35,
+      "end": 683.87,
+      "start_timestamp": "00:11:17.350",
+      "end_timestamp": "00:11:23.870",
+      "text": "Deuxièmement, ça postule que les gauches et les droites ont des programmes incompatibles selon les États, ce qui est totalement faux."
+    },
+    {
+      "id": 89,
+      "start": 683.87,
+      "end": 693.53,
+      "start_timestamp": "00:11:23.870",
+      "end_timestamp": "00:11:33.530",
+      "text": "La gauche, ce qui reste de la gauche française ou la gauche britannique n'a rien à voir avec par exemple la gauche – comment dirais-je – grecque."
+    },
+    {
+      "id": 90,
+      "start": 693.53,
+      "end": 699.59,
+      "start_timestamp": "00:11:33.530",
+      "end_timestamp": "00:11:39.590",
+      "text": "Donc ils ne sont pas de même d'accord entre eux. On simplifie. C'est vraiment une vision totalement simplifiée."
+    },
+    {
+      "id": 91,
+      "start": 699.59,
+      "end": 707.95,
+      "start_timestamp": "00:11:39.590",
+      "end_timestamp": "00:11:47.950",
+      "text": "Et enfin, un autre élément décisif qui vient – comment dirais-je – simplifier mon analyse, c'est qu'on suppose qu'il n'y a pas"
+    },
+    {
+      "id": 92,
+      "start": 707.95,
+      "end": 713.73,
+      "start_timestamp": "00:11:47.950",
+      "end_timestamp": "00:11:53.730",
+      "text": "d'opposition supplémentaire entre les intérêts nationaux, ce qui est archi-faux, parce que ce qui prime avant toute chose,"
+    },
+    {
+      "id": 93,
+      "start": 713.73,
+      "end": 721.03,
+      "start_timestamp": "00:11:53.730",
+      "end_timestamp": "00:12:01.030",
+      "text": "avant la droite et la gauche, c'est d'abord les intérêts nationaux. La gauche, par exemple, au Slovaque, n'a pas du tout la gauche polonaise"
+    },
+    {
+      "id": 94,
+      "start": 721.03,
+      "end": 725.07,
+      "start_timestamp": "00:12:01.030",
+      "end_timestamp": "00:12:05.070",
+      "text": "ou la gauche des pays de l'Est, n'a pas du tout les mêmes intérêts que la gauche des pays de l'Ouest européen,"
+    },
+    {
+      "id": 95,
+      "start": 725.07,
+      "end": 733.5,
+      "start_timestamp": "00:12:05.070",
+      "end_timestamp": "00:12:13.500",
+      "text": "par exemple, en matière de lutte contre les délocalisations. Néanmoins, et en restant sur cette grande simplification"
+    },
+    {
+      "id": 96,
+      "start": 733.5,
+      "end": 741.48,
+      "start_timestamp": "00:12:13.500",
+      "end_timestamp": "00:12:21.480",
+      "text": "que je vous propose, on peut quand même en tirer une conclusion qui est assez phénoménale. Pour 6 États, l'Europe des 6,"
+    },
+    {
+      "id": 97,
+      "start": 741.48,
+      "end": 748.86,
+      "start_timestamp": "00:12:21.480",
+      "end_timestamp": "00:12:28.860",
+      "text": "celles que nous avons connues à partir de 1957, eh bien la probabilité d'une politique cohérente droite-gauche,"
+    },
+    {
+      "id": 98,
+      "start": 748.86,
+      "end": 760.9,
+      "start_timestamp": "00:12:28.860",
+      "end_timestamp": "00:12:40.900",
+      "text": "avec mes simplifications, c'était de 0,5 à la puissance 5, c'est-à-dire 0,031, 3,1%, ce qui signifie qu'on pouvait avoir"
+    },
+    {
+      "id": 99,
+      "start": 760.9,
+      "end": 771.26,
+      "start_timestamp": "00:12:40.900",
+      "end_timestamp": "00:12:51.260",
+      "text": "une probabilité d'avoir une politique cohérente de 3 ans sur un siècle. Celle de l'Europe des 6. Mais l'Europe des 27..."
+    },
+    {
+      "id": 100,
+      "start": 771.26,
+      "end": 777.56,
+      "start_timestamp": "00:12:51.260",
+      "end_timestamp": "00:12:57.560",
+      "text": "Pour 27 États, la probabilité d'une politique cohérente soit entièrement de droite au niveau des 27, soit entièrement de gauche,"
+    },
+    {
+      "id": 101,
+      "start": 777.56,
+      "end": 790.64,
+      "start_timestamp": "00:12:57.560",
+      "end_timestamp": "00:13:10.640",
+      "text": "elle est actuellement de 0,5 à la puissance 26, c'est-à-dire de... Excusez-moi. 0,000000014901 chance sur 100."
+    },
+    {
+      "id": 102,
+      "start": 790.64,
+      "end": 801.41,
+      "start_timestamp": "00:13:10.640",
+      "end_timestamp": "00:13:21.410",
+      "text": "C'est-à-dire très exactement une demi-journée tous les 100 000 ans. C'est une dédicace spéciale que je fais à M. Mélenchon,"
+    },
+    {
+      "id": 103,
+      "start": 801.41,
+      "end": 809.34,
+      "start_timestamp": "00:13:21.410",
+      "end_timestamp": "00:13:29.340",
+      "text": "qui vous propose une Europe de gauche, ou à M. Gohne-Bendit, qui vous propose une Europe écologique."
+    },
+    {
+      "id": 104,
+      "start": 809.34,
+      "end": 815.7,
+      "start_timestamp": "00:13:29.340",
+      "end_timestamp": "00:13:35.700",
+      "text": "Ça, j'y reviendrai, parce que la probabilité est infinitésimale. C'est évidemment très important à comprendre."
+    },
+    {
+      "id": 105,
+      "start": 815.7,
+      "end": 823.26,
+      "start_timestamp": "00:13:35.700",
+      "end_timestamp": "00:13:43.260",
+      "text": "Je vous montre ici que de toute façon, nous serons bientôt au 1er juillet 28 États, puisque la Croatie va se joindre à nous."
+    },
+    {
+      "id": 106,
+      "start": 823.26,
+      "end": 828.8,
+      "start_timestamp": "00:13:43.260",
+      "end_timestamp": "00:13:48.800",
+      "text": "Et donc à ce moment-là, la probabilité d'avoir une politique cohérente soit entièrement de droite, soit entièrement de gauche"
+    },
+    {
+      "id": 107,
+      "start": 828.8,
+      "end": 844.98,
+      "start_timestamp": "00:13:48.800",
+      "end_timestamp": "00:14:04.980",
+      "text": "au sein de l'UE, tombera à 0,5827, c'est-à-dire 0,00000007451 chance sur 100, c'est-à-dire 6 heures 30 minutes tous les 100 000 ans."
+    },
+    {
+      "id": 108,
+      "start": 844.98,
+      "end": 855.22,
+      "start_timestamp": "00:14:04.980",
+      "end_timestamp": "00:14:15.220",
+      "text": "Les conséquences sont évidemment considérables, parce qu'au-delà de la mathématique, ça se traduit bien dans la réalité des événements."
+    },
+    {
+      "id": 109,
+      "start": 855.22,
+      "end": 860.82,
+      "start_timestamp": "00:14:15.220",
+      "end_timestamp": "00:14:20.820",
+      "text": "La conséquence, c'est qu'il est mathématiquement impossible d'avoir une politique cohérente au sein de l'UE."
+    },
+    {
+      "id": 110,
+      "start": 860.82,
+      "end": 868.66,
+      "start_timestamp": "00:14:20.820",
+      "end_timestamp": "00:14:28.660",
+      "text": "La probabilité est infinitésimale. Ça veut donc dire que les institutions européennes sont en situation de cohabitation"
+    },
+    {
+      "id": 111,
+      "start": 868.66,
+      "end": 875.94,
+      "start_timestamp": "00:14:28.660",
+      "end_timestamp": "00:14:35.940",
+      "text": "droite-gauche permanente. C'est d'ailleurs le cas en ce moment. Vous voyez actuellement le Conseil européen,"
+    },
+    {
+      "id": 112,
+      "start": 875.94,
+      "end": 883.98,
+      "start_timestamp": "00:14:35.940",
+      "end_timestamp": "00:14:43.980",
+      "text": "c'est-à-dire les 27 chefs d'État et de gouvernement de l'UE. Il y en a 13 qui sont de droite du Parti populaire européen."
+    },
+    {
+      "id": 113,
+      "start": 883.98,
+      "end": 895.18,
+      "start_timestamp": "00:14:43.980",
+      "end_timestamp": "00:14:55.180",
+      "text": "Portugal, Espagne, Allemagne, Luxembourg, Pologne, Suède, Finlande, Lettonie, Irlande, Hongrie, Roumanie, Grèce, Malte."
+    },
+    {
+      "id": 114,
+      "start": 895.18,
+      "end": 906.38,
+      "start_timestamp": "00:14:55.180",
+      "end_timestamp": "00:15:06.380",
+      "text": "Et puis nous n'avons pas l'île de Chypre qui est un petit peu sur le départ. Et puis nous avons 6 gouvernements de gauche"
+    },
+    {
+      "id": 115,
+      "start": 906.38,
+      "end": 913.74,
+      "start_timestamp": "00:15:06.380",
+      "end_timestamp": "00:15:13.740",
+      "text": "qui sont relatifs aux partis socialistes européens. La France, la Belgique, le Danemark, la Slovaquie et l'Autriche."
+    },
+    {
+      "id": 116,
+      "start": 913.74,
+      "end": 918.46,
+      "start_timestamp": "00:15:13.740",
+      "end_timestamp": "00:15:18.460",
+      "text": "Et puis nous avons... Parce que mon schéma était très simplificateur. J'étais uniquement droite-gauche."
+    },
+    {
+      "id": 117,
+      "start": 918.46,
+      "end": 924.22,
+      "start_timestamp": "00:15:18.460",
+      "end_timestamp": "00:15:24.220",
+      "text": "Je pensais que ça serait très complexe à vous présenter. C'était déjà pas tout à fait simple."
+    },
+    {
+      "id": 118,
+      "start": 924.22,
+      "end": 932.66,
+      "start_timestamp": "00:15:24.220",
+      "end_timestamp": "00:15:32.660",
+      "text": "Donc maintenant, vous en avez 2 qui sont des libéraux démocrates en Estonie et aux Pays-Bas, un peu l'équivalent du centre."
+    },
+    {
+      "id": 119,
+      "start": 932.66,
+      "end": 940.26,
+      "start_timestamp": "00:15:32.660",
+      "end_timestamp": "00:15:40.260",
+      "text": "Vous en avez 2 qui sont du groupe conservateur et réformiste. C'est-à-dire – on pourrait appeler ça – des souverainistes light, légers."
+    },
+    {
+      "id": 120,
+      "start": 940.26,
+      "end": 946.34,
+      "start_timestamp": "00:15:40.260",
+      "end_timestamp": "00:15:46.340",
+      "text": "C'est le gouvernement de M. Cameron en Grande-Bretagne et le gouvernement de Schaic. Le gouvernement de Schaic a refusé d'adopter l'euro."
+    },
+    {
+      "id": 121,
+      "start": 946.34,
+      "end": 959.1,
+      "start_timestamp": "00:15:46.340",
+      "end_timestamp": "00:15:59.100",
+      "text": "Et le gouvernement de M. Cameron qui a annoncé un référendum sur la sortie de l'UE. Et puis vous en avez 4 qui sont des partis indépendants."
+    },
+    {
+      "id": 122,
+      "start": 959.1,
+      "end": 969.86,
+      "start_timestamp": "00:15:59.100",
+      "end_timestamp": "00:16:09.860",
+      "text": "Donc vous voyez que c'est une illustration exacte de ce que je vous présentais. Au passage, il y a beaucoup moins de chances"
+    },
+    {
+      "id": 123,
+      "start": 969.86,
+      "end": 981.76,
+      "start_timestamp": "00:16:09.860",
+      "end_timestamp": "00:16:21.760",
+      "text": "d'avoir une politique monocolore cohérente au niveau de l'UE que de gagner au gros lot, au loto. Donc ceux qui vous font croire à une autre Europe"
+    },
+    {
+      "id": 124,
+      "start": 981.76,
+      "end": 987.68,
+      "start_timestamp": "00:16:21.760",
+      "end_timestamp": "00:16:27.680",
+      "text": "sont exactement les mêmes arnaqueurs que le loto, qui vous fait croire toutes les semaines que vous allez gagner le gros lot."
+    },
+    {
+      "id": 125,
+      "start": 987.68,
+      "end": 994.2,
+      "start_timestamp": "00:16:27.680",
+      "end_timestamp": "00:16:34.200",
+      "text": "Donc vous pouvez jouer 40 ans, 50 ans de votre vie. Alors oui, il y a une fois une personne... On sait qu'il y a quelqu'un qui gagne,"
+    },
+    {
+      "id": 126,
+      "start": 994.2,
+      "end": 1001.44,
+      "start_timestamp": "00:16:34.200",
+      "end_timestamp": "00:16:41.440",
+      "text": "mais on ne le sait jamais. Parce qu'en réalité, la probabilité était infinitésimale. Mais la probabilité de voir au sein de l'UE"
+    },
+    {
+      "id": 127,
+      "start": 1001.44,
+      "end": 1008.56,
+      "start_timestamp": "00:16:41.440",
+      "end_timestamp": "00:16:48.560",
+      "text": "une seule et même Europe, une Europe sociale par exemple, elle est nulle. Je vous l'ai dit, 16h30 tous les 100 000 ans."
+    },
+    {
+      "id": 128,
+      "start": 1008.56,
+      "end": 1016.26,
+      "start_timestamp": "00:16:48.560",
+      "end_timestamp": "00:16:56.260",
+      "text": "Et dans une première approximation. Dans une première approximation, parce que les conséquences de tout ça, c'est qu'il n'y a qu'aux habitations"
+    },
+    {
+      "id": 129,
+      "start": 1016.26,
+      "end": 1023.7,
+      "start_timestamp": "00:16:56.260",
+      "end_timestamp": "00:17:03.700",
+      "text": "droite-gauche permanentes indifférentes aux élections nationales. Les Français ont voté à gauche. Ça n'a rien changé au fait que les autres pays, eux,"
+    },
+    {
+      "id": 130,
+      "start": 1023.7,
+      "end": 1035.34,
+      "start_timestamp": "00:17:03.700",
+      "end_timestamp": "00:17:15.340",
+      "text": "n'allaient pas voter. Donc il n'y a pas de politique du tout. Ça ne change rien. À Bruxelles, c'est le règne des lobbies qui s'installe,"
+    },
+    {
+      "id": 131,
+      "start": 1035.34,
+      "end": 1044.86,
+      "start_timestamp": "00:17:15.340",
+      "end_timestamp": "00:17:24.860",
+      "text": "puisque de toute façon, le gouvernement de l'UE, la Commission, est systématiquement mélangé de droite et de gauche."
+    },
+    {
+      "id": 132,
+      "start": 1044.86,
+      "end": 1052.7,
+      "start_timestamp": "00:17:24.860",
+      "end_timestamp": "00:17:32.700",
+      "text": "Et lorsque par exemple un pays comme la France bascule – si on peut appeler ça une bascule – de droite à gauche, au même moment,"
+    },
+    {
+      "id": 133,
+      "start": 1052.7,
+      "end": 1063.06,
+      "start_timestamp": "00:17:32.700",
+      "end_timestamp": "00:17:43.060",
+      "text": "l'Espagne a basculé de gauche à droite, quelques mois après. Donc on a face à une espèce de Rubik's Cube insoluble qui est fait qu'à chaque fois,"
+    },
+    {
+      "id": 134,
+      "start": 1063.06,
+      "end": 1069.72,
+      "start_timestamp": "00:17:43.060",
+      "end_timestamp": "00:17:49.720",
+      "text": "vous avez une possibilité d'avoir tous les pays de la même couleur. Encore une fois, supposer que même s'ils étaient tous à gauche,"
+    },
+    {
+      "id": 135,
+      "start": 1069.72,
+      "end": 1076.28,
+      "start_timestamp": "00:17:49.720",
+      "end_timestamp": "00:17:56.280",
+      "text": "qu'ils étaient d'abord, ils ne feraient pas le cas, parce qu'il y a par exemple les intérêts nationaux. Mais je simplifie à l'extrême le raisonnement."
+    },
+    {
+      "id": 136,
+      "start": 1076.28,
+      "end": 1083.2,
+      "start_timestamp": "00:17:56.280",
+      "end_timestamp": "00:18:03.200",
+      "text": "Donc les élections nationales dans un État en particulier ne peuvent plus rien changer, d'autant plus que les décisions prises par la Commission"
+    },
+    {
+      "id": 137,
+      "start": 1083.2,
+      "end": 1091.84,
+      "start_timestamp": "00:18:03.200",
+      "end_timestamp": "00:18:11.840",
+      "text": "s'imposent. Et vous savez que tous les choix stratégiques sont décidés par l'UE. C'est très exactement ce que constatent les Français."
+    },
+    {
+      "id": 138,
+      "start": 1091.84,
+      "end": 1098.72,
+      "start_timestamp": "00:18:11.840",
+      "end_timestamp": "00:18:18.720",
+      "text": "Ils sont furaques, parce qu'ils ont voté pour Sarkozy en pensant que Sarkozy allait changer, allait améliorer le système,"
+    },
+    {
+      "id": 139,
+      "start": 1098.72,
+      "end": 1106.24,
+      "start_timestamp": "00:18:18.720",
+      "end_timestamp": "00:18:26.240",
+      "text": "diminuer l'endettement public, etc. Ils se sont aperçus que ça ne changeait rien. Après ça, ils étaient tellement furaques"
+    },
+    {
+      "id": 140,
+      "start": 1106.24,
+      "end": 1112.2,
+      "start_timestamp": "00:18:26.240",
+      "end_timestamp": "00:18:32.200",
+      "text": "contre Sarkozy qu'ils ont voté pour Hollande en disant « Avec Hollande, quand même, on va enfin défendre les travailleurs."
+    },
+    {
+      "id": 141,
+      "start": 1112.2,
+      "end": 1119.08,
+      "start_timestamp": "00:18:32.200",
+      "end_timestamp": "00:18:39.080",
+      "text": "On va enfin lutter contre les délocalisations ». C'était il y a 10 mois maintenant. On n'a jamais vu un président de la République"
+    },
+    {
+      "id": 142,
+      "start": 1119.08,
+      "end": 1128.52,
+      "start_timestamp": "00:18:39.080",
+      "end_timestamp": "00:18:48.520",
+      "text": "sombrer aussi vite dans des abîmes d'impopularité, parce que les Français de gauche se disent... Encore une fois, c'était cette petite..."
+    },
+    {
+      "id": 143,
+      "start": 1128.52,
+      "end": 1133.4,
+      "start_timestamp": "00:18:48.520",
+      "end_timestamp": "00:18:53.400",
+      "text": "Cette étude qui a été faite donc sur le terrain. C'est ce que disent les gens. Ils sont furaques. Mais ils sont furaques,"
+    },
+    {
+      "id": 144,
+      "start": 1133.4,
+      "end": 1142.0,
+      "start_timestamp": "00:18:53.400",
+      "end_timestamp": "00:19:02.000",
+      "text": "parce qu'on ne leur dit pas pourquoi. Moi, je suis assez volontiers et prêt à dédouaner un petit peu M. Sarkozy, M. Hollande."
+    },
+    {
+      "id": 145,
+      "start": 1142.0,
+      "end": 1146.2,
+      "start_timestamp": "00:19:02.000",
+      "end_timestamp": "00:19:06.200",
+      "text": "Je les dédouane pas, parce qu'ils sont co-responsables, parce qu'ils refusent de dire ce que je vous dis."
+    },
+    {
+      "id": 146,
+      "start": 1146.2,
+      "end": 1154.76,
+      "start_timestamp": "00:19:06.200",
+      "end_timestamp": "00:19:14.760",
+      "text": "C'est donc qu'ils sont complices de cette situation, de ce théâtre d'ombre qui a été transformé, dont encore on a transformé la démocratie."
+    },
+    {
+      "id": 147,
+      "start": 1154.76,
+      "end": 1161.14,
+      "start_timestamp": "00:19:14.760",
+      "end_timestamp": "00:19:21.140",
+      "text": "Mais en gros, c'est fondamentalement parce qu'ils appartiennent et ils soutiennent un système qui de toute façon"
+    },
+    {
+      "id": 148,
+      "start": 1161.14,
+      "end": 1170.12,
+      "start_timestamp": "00:19:21.140",
+      "end_timestamp": "00:19:30.120",
+      "text": "vit de sens les élections nationales. Donc du coup, oui. Mais qu'est-ce qui se passe ? Il se passe que les électeurs réalisent progressivement"
+    },
+    {
+      "id": 149,
+      "start": 1170.12,
+      "end": 1176.0,
+      "start_timestamp": "00:19:30.120",
+      "end_timestamp": "00:19:36.000",
+      "text": "élection après élection qu'ils ne servent plus à rien de voter à droite ou de voter à gauche, car cela ne change rien,"
+    },
+    {
+      "id": 150,
+      "start": 1176.0,
+      "end": 1182.48,
+      "start_timestamp": "00:19:36.000",
+      "end_timestamp": "00:19:42.480",
+      "text": "à la politique subie qui est justement imposée par les institutions européennes. Du coup, l'abstention ne fait que grimper"
+    },
+    {
+      "id": 151,
+      "start": 1182.48,
+      "end": 1191.4,
+      "start_timestamp": "00:19:42.480",
+      "end_timestamp": "00:19:51.400",
+      "text": "élection après élection. C'est exactement ce que l'on observe, d'ailleurs. Ça, c'est le pourcentage de l'abstention"
+    },
+    {
+      "id": 152,
+      "start": 1191.4,
+      "end": 1199.8,
+      "start_timestamp": "00:19:51.400",
+      "end_timestamp": "00:19:59.800",
+      "text": "aux élections européennes en France. Aux premières élections, en 1979, il y avait 42,5% d'abstention, ce qui était déjà considérable."
+    },
+    {
+      "id": 153,
+      "start": 1199.8,
+      "end": 1205.6,
+      "start_timestamp": "00:19:59.800",
+      "end_timestamp": "00:20:05.600",
+      "text": "On montre que déjà, à l'époque, beaucoup de Français s'en désintéressaient. Ils comprenaient pas d'ailleurs ce qui se passe"
+    },
+    {
+      "id": 154,
+      "start": 1205.6,
+      "end": 1212.5,
+      "start_timestamp": "00:20:05.600",
+      "end_timestamp": "00:20:12.500",
+      "text": "au Parlement européen, d'ailleurs. J'avoue qu'ils ont des excuses. On ne peut pas le comprendre. Comme je l'explique souvent,"
+    },
+    {
+      "id": 155,
+      "start": 1212.5,
+      "end": 1221.16,
+      "start_timestamp": "00:20:12.500",
+      "end_timestamp": "00:20:21.160",
+      "text": "nous avons l'affaire pour la première fois dans l'histoire de l'humanité, une dictature qui s'impose par l'ennui et la complexité."
+    },
+    {
+      "id": 156,
+      "start": 1221.16,
+      "end": 1226.76,
+      "start_timestamp": "00:20:21.160",
+      "end_timestamp": "00:20:26.760",
+      "text": "D'ailleurs, quand vous êtes autour de vous, si vous parlez à des amis, de la famille... Ah, dis-on, tiens, je vais te parler un truc."
+    },
+    {
+      "id": 157,
+      "start": 1226.76,
+      "end": 1232.08,
+      "start_timestamp": "00:20:26.760",
+      "end_timestamp": "00:20:32.080",
+      "text": "Tu sais, j'ai appris... Là, j'ai écouté une conférence d'un type. Là, il parle de l'article 63 du traité sur le fonctionnement"
+    },
+    {
+      "id": 158,
+      "start": 1232.08,
+      "end": 1237.68,
+      "start_timestamp": "00:20:32.080",
+      "end_timestamp": "00:20:37.680",
+      "text": "d'une européenne qui interdit les... Oh, là ! Oh, oh, oh ! Tu me prends la tête ! Qu'est-ce que c'est que ça ? Non, non, non."
+    },
+    {
+      "id": 159,
+      "start": 1237.68,
+      "end": 1245.72,
+      "start_timestamp": "00:20:37.680",
+      "end_timestamp": "00:20:45.720",
+      "text": "C'est compliqué. Les gens ne veulent pas. Nous avons donc l'affaire pour... C'est vraiment très intéressant."
+    },
+    {
+      "id": 160,
+      "start": 1245.72,
+      "end": 1255.68,
+      "start_timestamp": "00:20:45.720",
+      "end_timestamp": "00:20:55.680",
+      "text": "Je le disais déjà hier soir. Ça renvoie Staline, Hitler, tous les grands dictateurs du monde au rang d'amateurs."
+    },
+    {
+      "id": 161,
+      "start": 1255.68,
+      "end": 1263.44,
+      "start_timestamp": "00:20:55.680",
+      "end_timestamp": "00:21:03.440",
+      "text": "On a pour la première fois une dictature qui s'impose par l'ennui et la complexité. C'est tellement compliqué et c'est tellement merdant"
+    },
+    {
+      "id": 162,
+      "start": 1263.44,
+      "end": 1271.44,
+      "start_timestamp": "00:21:03.440",
+      "end_timestamp": "00:21:11.440",
+      "text": "que les gens ne veulent pas en entendre parler. Alors ça, c'était l'évolution de l'abstention. Il était intéressant de le croiser"
+    },
+    {
+      "id": 163,
+      "start": 1271.44,
+      "end": 1278.6,
+      "start_timestamp": "00:21:11.440",
+      "end_timestamp": "00:21:18.600",
+      "text": "avec l'évolution du pourcentage de députés français parmi les députés au Parlement européen. Et vous voyez que le nombre de députés..."
+    },
+    {
+      "id": 164,
+      "start": 1278.6,
+      "end": 1285.64,
+      "start_timestamp": "00:21:18.600",
+      "end_timestamp": "00:21:25.640",
+      "text": "Le pourcentage de députés français a diminué au fur et à mesure des élargissements. En 1979, il y en a encore à peu près..."
+    },
+    {
+      "id": 165,
+      "start": 1285.68,
+      "end": 1292.08,
+      "start_timestamp": "00:21:25.680",
+      "end_timestamp": "00:21:32.080",
+      "text": "Un député au Parlement européen sur cinq était français. C'était avant tous les élargissements. Maintenant, on est tombé"
+    },
+    {
+      "id": 166,
+      "start": 1292.08,
+      "end": 1299.56,
+      "start_timestamp": "00:21:32.080",
+      "end_timestamp": "00:21:39.560",
+      "text": "à moins de 10 en 2009 avec les élargissements aux 10 pays de l'Est en 2005, puis à la Roumanie et à la Bulgarie en 2007."
+    },
+    {
+      "id": 167,
+      "start": 1299.56,
+      "end": 1308.0,
+      "start_timestamp": "00:21:39.560",
+      "end_timestamp": "00:21:48.000",
+      "text": "Donc vous voyez, la courbe entre les deux est intéressante. Elles sont en miroir. Ça montre que plus la France est diluée"
+    },
+    {
+      "id": 168,
+      "start": 1308.0,
+      "end": 1315.52,
+      "start_timestamp": "00:21:48.000",
+      "end_timestamp": "00:21:55.520",
+      "text": "dans cette tour de babel incompréhensible, plus les Français se désintéressent de ce qui s'y passe."
+    },
+    {
+      "id": 169,
+      "start": 1315.52,
+      "end": 1321.64,
+      "start_timestamp": "00:21:55.520",
+      "end_timestamp": "00:22:01.640",
+      "text": "Plus le temps passe, plus l'Europe s'élargit, plus les Français s'en désintéressent. À ce rythme... Vous avez ici une droite de régression linéaire."
+    },
+    {
+      "id": 170,
+      "start": 1321.64,
+      "end": 1327.08,
+      "start_timestamp": "00:22:01.640",
+      "end_timestamp": "00:22:07.080",
+      "text": "C'est un peu mathématique, ma conférence aujourd'hui. Eh bien à ce rythme, l'abstention devrait mathématiquement atteindre"
+    },
+    {
+      "id": 171,
+      "start": 1327.08,
+      "end": 1333.8,
+      "start_timestamp": "00:22:07.080",
+      "end_timestamp": "00:22:13.800",
+      "text": "100% dans 63 ans. C'est-à-dire qu'aux élections de 2074, il n'y aurait plus qu'une seule personne qui irait noter."
+    },
+    {
+      "id": 172,
+      "start": 1333.8,
+      "end": 1339.08,
+      "start_timestamp": "00:22:13.800",
+      "end_timestamp": "00:22:19.080",
+      "text": "Ça se passera évidemment pas comme ça, puisqu'il y a un proverbe qui s'applique, vous savez, dans le terme boursier."
+    },
+    {
+      "id": 173,
+      "start": 1339.08,
+      "end": 1345.4,
+      "start_timestamp": "00:22:19.080",
+      "end_timestamp": "00:22:25.400",
+      "text": "On dit « des arbres ne montent pas jusqu'au ciel ». Ça s'applique également en termes de politique, en termes d'histoire. Voilà."
+    },
+    {
+      "id": 174,
+      "start": 1345.4,
+      "end": 1353.8,
+      "start_timestamp": "00:22:25.400",
+      "end_timestamp": "00:22:33.800",
+      "text": "On lit dans ces évolutions qu'il y aura forcément une rupture quelque part. On peut pas avoir en 2074 des élections continentales."
+    },
+    {
+      "id": 175,
+      "start": 1353.8,
+      "end": 1360.4,
+      "start_timestamp": "00:22:33.800",
+      "end_timestamp": "00:22:40.400",
+      "text": "Plus personne ne va noter. Alors ce que je vous montrais, c'était des élections européennes. Mais le syndrome se répand maintenant"
+    },
+    {
+      "id": 176,
+      "start": 1360.4,
+      "end": 1366.32,
+      "start_timestamp": "00:22:40.400",
+      "end_timestamp": "00:22:46.320",
+      "text": "à toutes les élections. J'ai pris ici les élections cantonales. C'est l'antithèse même des élections européennes."
+    },
+    {
+      "id": 177,
+      "start": 1366.32,
+      "end": 1372.04,
+      "start_timestamp": "00:22:46.320",
+      "end_timestamp": "00:22:52.040",
+      "text": "C'est l'élection de proximité par excellence avec les municipales. C'est son conseiller général. C'est par canton."
+    },
+    {
+      "id": 178,
+      "start": 1372.04,
+      "end": 1379.2,
+      "start_timestamp": "00:22:52.040",
+      "end_timestamp": "00:22:59.200",
+      "text": "C'est vraiment la France rurale. Eh bien c'étaient des élections qui étaient absolument insumercibles aux phénomènes de l'abstention,"
+    },
+    {
+      "id": 179,
+      "start": 1379.2,
+      "end": 1385.76,
+      "start_timestamp": "00:22:59.200",
+      "end_timestamp": "00:23:05.760",
+      "text": "puisqu'on voit que de 1976 jusqu'à 2008... Vous savez que c'est des élections qui ont lieu tous les 3 ans, une moitié de la France puis l'autre."
+    },
+    {
+      "id": 180,
+      "start": 1385.76,
+      "end": 1392.4,
+      "start_timestamp": "00:23:05.760",
+      "end_timestamp": "00:23:12.400",
+      "text": "Eh bien on avait une abstention qui était aux alentours de 30% à 35% des voix. C'est-à-dire que c'était vraiment très régulier."
+    },
+    {
+      "id": 181,
+      "start": 1392.4,
+      "end": 1399.0,
+      "start_timestamp": "00:23:12.400",
+      "end_timestamp": "00:23:19.000",
+      "text": "Et il n'y avait eu qu'une seule exception. C'était en 1988 où il y avait eu 50,9% d'abstention, parce que c'était une année"
+    },
+    {
+      "id": 182,
+      "start": 1399.0,
+      "end": 1404.48,
+      "start_timestamp": "00:23:19.000",
+      "end_timestamp": "00:23:24.480",
+      "text": "tout à fait particulière où les Français avaient été convoqués aux urnes constamment. Ils avaient dû voter"
+    },
+    {
+      "id": 183,
+      "start": 1404.48,
+      "end": 1410.68,
+      "start_timestamp": "00:23:24.480",
+      "end_timestamp": "00:23:30.680",
+      "text": "premier tour de l'élection présidentielle de 1988. Vous vous rappelez certainement. Mitterrand a fini par être réélu."
+    },
+    {
+      "id": 184,
+      "start": 1410.68,
+      "end": 1419.44,
+      "start_timestamp": "00:23:30.680",
+      "end_timestamp": "00:23:39.440",
+      "text": "Deuxième tour de l'élection présidentielle de 1988. Premier tour de l'élection législative de 1988. Deuxième tour de l'élection législative de 1988."
+    },
+    {
+      "id": 185,
+      "start": 1419.44,
+      "end": 1425.16,
+      "start_timestamp": "00:23:39.440",
+      "end_timestamp": "00:23:45.160",
+      "text": "Et puis il y a eu en plus de ça pour couronner le tour du référendum sur la Nouvelle-Calédonie. Donc du coup, les Français ne voulaient plus aller voter."
+    },
+    {
+      "id": 186,
+      "start": 1425.16,
+      "end": 1431.04,
+      "start_timestamp": "00:23:45.160",
+      "end_timestamp": "00:23:51.040",
+      "text": "C'est d'ailleurs pour ça que maintenant, on évite d'avoir trop de scrutins nationaux la même année. Donc si on enlève cette pique,"
+    },
+    {
+      "id": 187,
+      "start": 1431.04,
+      "end": 1438.52,
+      "start_timestamp": "00:23:51.040",
+      "end_timestamp": "00:23:58.520",
+      "text": "vous voyez que c'était en gros très très linéaire. Et puis on a eu ce phénomène inouï de 2011 qui a laissé pantois"
+    },
+    {
+      "id": 188,
+      "start": 1438.52,
+      "end": 1444.36,
+      "start_timestamp": "00:23:58.520",
+      "end_timestamp": "00:24:04.360",
+      "text": "les spécialistes politiques. C'est que d'un seul coup, on a eu 56% d'abstention aux élections cantonales."
+    },
+    {
+      "id": 189,
+      "start": 1444.36,
+      "end": 1451.38,
+      "start_timestamp": "00:24:04.360",
+      "end_timestamp": "00:24:11.380",
+      "text": "C'est du jamais vu depuis la révolution française dans les élections cantonales. Donc ça veut dire que même maintenant,"
+    },
+    {
+      "id": 190,
+      "start": 1451.38,
+      "end": 1459.68,
+      "start_timestamp": "00:24:11.380",
+      "end_timestamp": "00:24:19.680",
+      "text": "cette élection qui est quand même très proche du peuple, eh bien désormais, les gens ne veulent plus aller voter."
+    },
+    {
+      "id": 191,
+      "start": 1459.68,
+      "end": 1471.32,
+      "start_timestamp": "00:24:19.680",
+      "end_timestamp": "00:24:31.320",
+      "text": "Les gens sont dégoûtés de la politique. La conséquence également... Et ça, c'est une dédicace spéciale à tous les partis politiques français"
+    },
+    {
+      "id": 192,
+      "start": 1471.32,
+      "end": 1480.52,
+      "start_timestamp": "00:24:31.320",
+      "end_timestamp": "00:24:40.520",
+      "text": "qui vous promettent une autre Europe. Parce que nous, notre spécialité... Quand j'ai créé ce mouvement, c'est que je me suis laissé balader"
+    },
+    {
+      "id": 193,
+      "start": 1480.52,
+      "end": 1487.06,
+      "start_timestamp": "00:24:40.520",
+      "end_timestamp": "00:24:47.060",
+      "text": "par des autres mouvements politiques que j'avais crus. Un jour, je me suis dit... Mais enfin, bon, ça va. Cette histoire d'autre Europe,"
+    },
+    {
+      "id": 194,
+      "start": 1487.06,
+      "end": 1495.12,
+      "start_timestamp": "00:24:47.060",
+      "end_timestamp": "00:24:55.120",
+      "text": "il faut quand même arrêter. C'est vraiment une plaisanterie. Ça fait quand même maintenant des décennies qu'on nous promet une autre Europe."
+    },
+    {
+      "id": 195,
+      "start": 1495.12,
+      "end": 1502.6,
+      "start_timestamp": "00:24:55.120",
+      "end_timestamp": "00:25:02.600",
+      "text": "Donc toute possibilité de bâtir une autre Europe est vouée à l'échec. Pourquoi ? Parce qu'il faudrait une unanimité des 27 gouvernements"
+    },
+    {
+      "id": 196,
+      "start": 1502.6,
+      "end": 1511.86,
+      "start_timestamp": "00:25:02.600",
+      "end_timestamp": "00:25:11.860",
+      "text": "pour y parvenir. Il faut donc qu'il y ait des 27 gouvernements qui soient d'accord. Alors à ce propos, c'est ce qui explique..."
+    },
+    {
+      "id": 197,
+      "start": 1511.86,
+      "end": 1519.96,
+      "start_timestamp": "00:25:11.860",
+      "end_timestamp": "00:25:19.960",
+      "text": "On a vu que c'était la probabilité que les 57 gouvernements soient d'accord. On l'a vu en supposant qu'il y ait un rôle de 1 sur 2."
+    },
+    {
+      "id": 198,
+      "start": 1519.96,
+      "end": 1529.08,
+      "start_timestamp": "00:25:19.960",
+      "end_timestamp": "00:25:29.080",
+      "text": "Ça veut dire qu'on aurait une probabilité de 6 heures 30 minutes tous les 100 000 ans. Vous l'avez vu."
+    },
+    {
+      "id": 199,
+      "start": 1529.08,
+      "end": 1536.12,
+      "start_timestamp": "00:25:29.080",
+      "end_timestamp": "00:25:36.120",
+      "text": "Alors c'est ça qui vous explique. Par exemple, le PS, en 1979, a fait la campagne pour les élections européennes avec le titre"
+    },
+    {
+      "id": 200,
+      "start": 1536.12,
+      "end": 1546.55,
+      "start_timestamp": "00:25:36.120",
+      "end_timestamp": "00:25:46.550",
+      "text": "« Changer l'Europe, vivre au pays ». Et puis en 2009, 30 ans après, sa campagne, c'était « Changez l'Europe.fr »."
+    },
+    {
+      "id": 201,
+      "start": 1546.55,
+      "end": 1556.51,
+      "start_timestamp": "00:25:46.550",
+      "end_timestamp": "00:25:56.510",
+      "text": "La seule différence qui s'était passée entre les deux, c'est la mention d'Internet. Mais ça veut dire que le PS a quand même eu le culot"
+    },
+    {
+      "id": 202,
+      "start": 1556.51,
+      "end": 1565.43,
+      "start_timestamp": "00:25:56.510",
+      "end_timestamp": "00:26:05.430",
+      "text": "de faire le même slogan à 30 ans d'Internet. Naturellement, d'ailleurs, on peut être à peu près certain que l'année prochaine,"
+    },
+    {
+      "id": 203,
+      "start": 1565.43,
+      "end": 1575.43,
+      "start_timestamp": "00:26:05.430",
+      "end_timestamp": "00:26:15.430",
+      "text": "si tout va bien, on va nous promettre encore de changer l'Europe. Ça fait maintenant... En fait, d'ailleurs, lors du traité de Rome de 1957,"
+    },
+    {
+      "id": 204,
+      "start": 1575.43,
+      "end": 1581.39,
+      "start_timestamp": "00:26:15.430",
+      "end_timestamp": "00:26:21.390",
+      "text": "on a... Vous trouverez sur Internet un texte tout à fait intéressant de Pierre-Mandès France, qui était donc socialiste,"
+    },
+    {
+      "id": 205,
+      "start": 1581.39,
+      "end": 1589.52,
+      "start_timestamp": "00:26:21.390",
+      "end_timestamp": "00:26:29.520",
+      "text": "qui, d'ailleurs, était très réservé sur la conscience européenne et qui proposait une autre Europe il y a 56 ans."
+    },
+    {
+      "id": 206,
+      "start": 1589.52,
+      "end": 1601.76,
+      "start_timestamp": "00:26:29.520",
+      "end_timestamp": "00:26:41.760",
+      "text": "Alors on a une illustration de ce phénomène. C'est que si vous voulez par exemple une Europe écologique, ou bien une Europe d'extrême droite,"
+    },
+    {
+      "id": 207,
+      "start": 1601.76,
+      "end": 1608.56,
+      "start_timestamp": "00:26:41.760",
+      "end_timestamp": "00:26:48.560",
+      "text": "une Europe des... Je sais pas quoi. Vision Le Pen. Ou bien une Europe vision extrême gauche, Europe des travailleurs,"
+    },
+    {
+      "id": 208,
+      "start": 1608.56,
+      "end": 1614.24,
+      "start_timestamp": "00:26:48.560",
+      "end_timestamp": "00:26:54.240",
+      "text": "que promettait Mme Laguillet. C'est pour ça, d'ailleurs, qu'elle a appelé les Français à ne pas voter le nom ou à voter le maître."
+    },
+    {
+      "id": 209,
+      "start": 1614.24,
+      "end": 1619.68,
+      "start_timestamp": "00:26:54.240",
+      "end_timestamp": "00:26:59.680",
+      "text": "Si les Français ont l'euro, c'est finalement grâce à Mme Laguillet, parce qu'elle représentait 5% des voix."
+    },
+    {
+      "id": 210,
+      "start": 1619.68,
+      "end": 1627.16,
+      "start_timestamp": "00:26:59.680",
+      "end_timestamp": "00:27:07.160",
+      "text": "Et si l'on est en train de démolir un à un tous les acquis sociaux des Français pour sauver l'euro, prétendument, c'est finalement à Mme Laguillet"
+    },
+    {
+      "id": 211,
+      "start": 1627.16,
+      "end": 1636.56,
+      "start_timestamp": "00:27:07.160",
+      "end_timestamp": "00:27:16.560",
+      "text": "qu'on le doit, puisqu'elle avait le pouvoir de faire échouer ça. Si le flûte ouvrière en 1992 avait appelé les Français à voter non,"
+    },
+    {
+      "id": 212,
+      "start": 1636.56,
+      "end": 1643.12,
+      "start_timestamp": "00:27:16.560",
+      "end_timestamp": "00:27:23.120",
+      "text": "le nom l'emportait largement. Elle reprendait au 5%. Elle a appelé l'abstention. Le oui a emporté à 51%, vous savez."
+    },
+    {
+      "id": 213,
+      "start": 1643.12,
+      "end": 1651.52,
+      "start_timestamp": "00:27:23.120",
+      "end_timestamp": "00:27:31.520",
+      "text": "Alors donc j'imagine qu'un courant de pensée ayant 15% de chance de parvenir au pouvoir en moyenne dans chaque pays d'Europe..."
+    },
+    {
+      "id": 214,
+      "start": 1651.52,
+      "end": 1656.8,
+      "start_timestamp": "00:27:31.520",
+      "end_timestamp": "00:27:36.800",
+      "text": "Par exemple l'extrême gauche. Vous voyez que je suis quand même très généreux. Pensez que l'extrême gauche a 15% de probabilité"
+    },
+    {
+      "id": 215,
+      "start": 1656.8,
+      "end": 1664.76,
+      "start_timestamp": "00:27:36.800",
+      "end_timestamp": "00:27:44.760",
+      "text": "d'arriver au pouvoir en France. C'est quand même très généreux. Pensez que les écologistes ont 15% de chance d'arriver au pouvoir en France."
+    },
+    {
+      "id": 216,
+      "start": 1664.76,
+      "end": 1671.72,
+      "start_timestamp": "00:27:44.760",
+      "end_timestamp": "00:27:51.720",
+      "text": "C'est très généreux. C'est pas la même chose que les statistiques que le nombre de voix obtenues. 15% de chance, ça voudrait dire"
+    },
+    {
+      "id": 217,
+      "start": 1671.72,
+      "end": 1677.2,
+      "start_timestamp": "00:27:51.720",
+      "end_timestamp": "00:27:57.200",
+      "text": "qu'une fois toutes les sept élections, ils peuvent y parvenir. Pour le FN, ça fait 40 ans que ce parti existe."
+    },
+    {
+      "id": 218,
+      "start": 1677.2,
+      "end": 1684.56,
+      "start_timestamp": "00:27:57.200",
+      "end_timestamp": "00:28:04.560",
+      "text": "Il n'est jamais parvenu à quoi que ce soit. Pareil pour les écologistes. Pareil pour le Parti communiste, qui a été créé en 1920"
+    },
+    {
+      "id": 219,
+      "start": 1684.56,
+      "end": 1694.12,
+      "start_timestamp": "00:28:04.560",
+      "end_timestamp": "00:28:14.120",
+      "text": "et qui donc bientôt, un siècle après, n'est jamais parvenu au pouvoir. Mais je suppose, pour être gentil, qu'il y a 15% de probabilité."
+    },
+    {
+      "id": 220,
+      "start": 1694.12,
+      "end": 1702.0,
+      "start_timestamp": "00:28:14.120",
+      "end_timestamp": "00:28:22.000",
+      "text": "Eh bien on a, selon le même raisonnement de tout à l'heure, la probabilité d'avoir une politique uniforme des 27 qui est nécessaire"
+    },
+    {
+      "id": 221,
+      "start": 1702.0,
+      "end": 1709.36,
+      "start_timestamp": "00:28:22.000",
+      "end_timestamp": "00:28:29.360",
+      "text": "pour changer l'Europe, pour avoir justement un traité qui serait un traité d'une Europe des travailleurs ou un traité d'une Europe écologique."
+    },
+    {
+      "id": 222,
+      "start": 1709.36,
+      "end": 1714.32,
+      "start_timestamp": "00:28:29.360",
+      "end_timestamp": "00:28:34.320",
+      "text": "Eh bien c'est le même raisonnement que tout à l'heure. Sauf que tout à l'heure, j'étais parti sur la base de 50% de chance"
+    },
+    {
+      "id": 223,
+      "start": 1714.32,
+      "end": 1719.52,
+      "start_timestamp": "00:28:34.320",
+      "end_timestamp": "00:28:39.520",
+      "text": "d'avoir un gouvernement de droite, 50% de chance d'avoir un gouvernement de gauche. Cette fois-ci, je pars 15% de chance."
+    },
+    {
+      "id": 224,
+      "start": 1719.52,
+      "end": 1729.6,
+      "start_timestamp": "00:28:39.520",
+      "end_timestamp": "00:28:49.600",
+      "text": "Donc pour 27 États de l'Europe élargie depuis 2007, la probabilité d'avoir une politique cohérente, écologiste, la probabilité d'avoir une Europe écolo"
+    },
+    {
+      "id": 225,
+      "start": 1729.6,
+      "end": 1735.8,
+      "start_timestamp": "00:28:49.600",
+      "end_timestamp": "00:28:55.800",
+      "text": "ou d'avoir une Europe d'extrême gauche, une Europe des travailleurs, c'est actuellement avec cette approximation mathématique."
+    },
+    {
+      "id": 226,
+      "start": 1735.8,
+      "end": 1753.96,
+      "start_timestamp": "00:28:55.800",
+      "end_timestamp": "00:29:13.960",
+      "text": "C'est de 0,15% à la puissance 26%, c'est-à-dire 3,79% à la puissance moins 22%, c'est-à-dire 0,000 000 000 000 000 000 000 000 000 000 0,79%"
+    },
+    {
+      "id": 227,
+      "start": 1753.96,
+      "end": 1765.76,
+      "start_timestamp": "00:29:13.960",
+      "end_timestamp": "00:29:25.760",
+      "text": "ou si vous préférez, 1,2% tous les trillions d'années. 1 milliard, 2 milliards d'années. C'est quand même là-dessus."
+    },
+    {
+      "id": 228,
+      "start": 1765.76,
+      "end": 1776.16,
+      "start_timestamp": "00:29:25.760",
+      "end_timestamp": "00:29:36.160",
+      "text": "C'est là-dessus que repose la manipulation de gens comme M. José Bové, M. Colmendit, qui vous ont appelé à voter oui"
+    },
+    {
+      "id": 229,
+      "start": 1776.16,
+      "end": 1785.56,
+      "start_timestamp": "00:29:36.160",
+      "end_timestamp": "00:29:45.560",
+      "text": "et à voter pour les listes E et V pour une Europe écologique. Le résultat, c'est quoi ? C'est que M. José Bové est député européen."
+    },
+    {
+      "id": 230,
+      "start": 1785.56,
+      "end": 1792.96,
+      "start_timestamp": "00:29:45.560",
+      "end_timestamp": "00:29:52.960",
+      "text": "Il est d'ailleurs vice-président de la Commission agriculture. Il a donc une rémunération tout à fait confortable, que j'explique dans une autre conférence"
+    },
+    {
+      "id": 231,
+      "start": 1792.96,
+      "end": 1800.0,
+      "start_timestamp": "00:29:52.960",
+      "end_timestamp": "00:30:00.000",
+      "text": "qui s'appelle l'Europe, c'est la paie. On peut dire peut-être, je sais pas, en gros, 15 000 € par mois. Il doit avoir une voiture, sans doute."
+    },
+    {
+      "id": 232,
+      "start": 1800.0,
+      "end": 1805.64,
+      "start_timestamp": "00:30:00.000",
+      "end_timestamp": "00:30:05.640",
+      "text": "Je sais pas. On va lui demander. M. Bové, est-ce que vous avez une voiture ? On ne sait pas. Avec chauffeur, on ne sait pas, peut-être. Bon."
+    },
+    {
+      "id": 233,
+      "start": 1805.64,
+      "end": 1816.73,
+      "start_timestamp": "00:30:05.640",
+      "end_timestamp": "00:30:16.730",
+      "text": "Et puis il a de l'argent pour ses collaborateurs. Mais jamais l'Europe n'a imposé autant d'OGM. Il ne sert à rien."
+    },
+    {
+      "id": 234,
+      "start": 1816.73,
+      "end": 1825.17,
+      "start_timestamp": "00:30:16.730",
+      "end_timestamp": "00:30:25.170",
+      "text": "Il ne sert pas exactement à rien. Il sert à faire croire aux Français qu'ils vont gagner le gros lot. Et ils ont la probabilité de le gagner"
+    },
+    {
+      "id": 235,
+      "start": 1825.33,
+      "end": 1834.17,
+      "start_timestamp": "00:30:25.330",
+      "end_timestamp": "00:30:34.170",
+      "text": "pendant 1,2 secondes, tous les trillions d'années. C'est tous les milliards de milliards d'années. Et ça va recommencer en 2014."
+    },
+    {
+      "id": 236,
+      "start": 1834.17,
+      "end": 1841.17,
+      "start_timestamp": "00:30:34.170",
+      "end_timestamp": "00:30:41.170",
+      "text": "On va encore avoir les écolos qui vont dire « Votez pour nous » pour avoir une Europe écologique. On va encore avoir M. Le Pen, qui paraît-il,"
+    },
+    {
+      "id": 237,
+      "start": 1841.17,
+      "end": 1848.77,
+      "start_timestamp": "00:30:41.170",
+      "end_timestamp": "00:30:48.770",
+      "text": "qui va annoncer... Qui va se présenter. Ça fait déjà 30 ans de mandat, hein, M. Le Pen. 30 ans depuis 1984."
+    },
+    {
+      "id": 238,
+      "start": 1848.77,
+      "end": 1856.89,
+      "start_timestamp": "00:30:48.770",
+      "end_timestamp": "00:30:56.890",
+      "text": "En valeur cumulée, j'avais fait un calcul. Elle a dû se ramasser à peu près 5 à 6 millions d'euros. Et M. Le Pen va être de nouveau candidat"
+    },
+    {
+      "id": 239,
+      "start": 1856.89,
+      "end": 1866.21,
+      "start_timestamp": "00:30:56.890",
+      "end_timestamp": "00:31:06.210",
+      "text": "pour une Europe des patries, etc. Et puis vous avez l'extrême gauche qui va vous proposer l'Europe des travailleurs. Voilà."
+    },
+    {
+      "id": 240,
+      "start": 1866.21,
+      "end": 1871.97,
+      "start_timestamp": "00:31:06.210",
+      "end_timestamp": "00:31:11.970",
+      "text": "Voilà comment ça marche. Alors que ce qu'il faudrait, c'est évidemment... Enfin en tout cas, c'est ce que nous nous disons."
+    },
+    {
+      "id": 241,
+      "start": 1871.97,
+      "end": 1878.29,
+      "start_timestamp": "00:31:11.970",
+      "end_timestamp": "00:31:18.290",
+      "text": "Nous nous disons que c'est un piège à cons. Tout a été fait. C'est une illustration mathématique de ce que je présente"
+    },
+    {
+      "id": 242,
+      "start": 1878.29,
+      "end": 1883.65,
+      "start_timestamp": "00:31:18.290",
+      "end_timestamp": "00:31:23.650",
+      "text": "sous une autre forme dans mes conférences, qui est un proverbe chinois. Enfin c'est un stratagème chinois."
+    },
+    {
+      "id": 243,
+      "start": 1883.65,
+      "end": 1889.21,
+      "start_timestamp": "00:31:23.650",
+      "end_timestamp": "00:31:29.210",
+      "text": "C'est appelé le stratagème des chaînes. Il faut bien comprendre qu'il n'y a pas de possibilité d'autre Europe."
+    },
+    {
+      "id": 244,
+      "start": 1889.21,
+      "end": 1896.57,
+      "start_timestamp": "00:31:29.210",
+      "end_timestamp": "00:31:36.570",
+      "text": "C'est impossible. Si l'Europe est comme elle est, c'est parce qu'elle a la résultante d'un terrain national totalement contradictoire"
+    },
+    {
+      "id": 245,
+      "start": 1896.57,
+      "end": 1903.45,
+      "start_timestamp": "00:31:36.570",
+      "end_timestamp": "00:31:43.450",
+      "text": "et qu'elle est pilotée en soumains par une grande puissance qui a imposé qu'elle puisse se développer, c'est-à-dire les États-Unis et la Méditerranée."
+    },
+    {
+      "id": 246,
+      "start": 1903.45,
+      "end": 1909.95,
+      "start_timestamp": "00:31:43.450",
+      "end_timestamp": "00:31:49.950",
+      "text": "Et maintenant, vous ne pouvez rien changer à rien. D'ailleurs, les événements ne cessent de confirmer mon analyse."
+    },
+    {
+      "id": 247,
+      "start": 1909.95,
+      "end": 1918.05,
+      "start_timestamp": "00:31:49.950",
+      "end_timestamp": "00:31:58.050",
+      "text": "M. Hollande s'est bien fait élire. Il boit si moins d'un an en disant qu'il allait refaire le TSCG, qu'il allait le renégocier."
+    },
+    {
+      "id": 248,
+      "start": 1918.05,
+      "end": 1927.17,
+      "start_timestamp": "00:31:58.050",
+      "end_timestamp": "00:32:07.170",
+      "text": "Il a rien renégocié du tout. Il a fait un bras d'honneur à ses électeurs. C'est comme ça que ça se passe chez McDonald's."
+    },
+    {
+      "id": 249,
+      "start": 1927.17,
+      "end": 1934.55,
+      "start_timestamp": "00:32:07.170",
+      "end_timestamp": "00:32:14.550",
+      "text": "Les conséquences ultimes, eh bien c'est que construire l'Europe... Si vous vous mettez maintenant du côté des européistes,"
+    },
+    {
+      "id": 250,
+      "start": 1934.55,
+      "end": 1942.97,
+      "start_timestamp": "00:32:14.550",
+      "end_timestamp": "00:32:22.970",
+      "text": "ceux qui justement ont les mandats extrêmement rémunérateurs, ils ont l'argent, le pouvoir, l'accès aux médias..."
+    },
+    {
+      "id": 251,
+      "start": 1942.97,
+      "end": 1952.55,
+      "start_timestamp": "00:32:22.970",
+      "end_timestamp": "00:32:32.550",
+      "text": "Et en plus, ils peuvent... Quelqu'un comme moi l'interdirait l'antenne, le pestifierait l'antenne. Et en plus de ça,"
+    },
+    {
+      "id": 252,
+      "start": 1952.55,
+      "end": 1962.04,
+      "start_timestamp": "00:32:32.550",
+      "end_timestamp": "00:32:42.040",
+      "text": "ils peuvent se prévaloir d'être des gens extraordinairement moraux, alors que je se rêve d'être une espèce d'affreux Jojo."
+    },
+    {
+      "id": 253,
+      "start": 1962.04,
+      "end": 1968.04,
+      "start_timestamp": "00:32:42.040",
+      "end_timestamp": "00:32:48.040",
+      "text": "En réalité, construire l'Europe implique pour les dirigeants européistes de prendre l'habitude de ne plus tenir aucun compte"
+    },
+    {
+      "id": 254,
+      "start": 1968.04,
+      "end": 1976.26,
+      "start_timestamp": "00:32:48.040",
+      "end_timestamp": "00:32:56.260",
+      "text": "de la volonté réelle des peuples. Ils ne peuvent pas... C'est le patour de Babel systématique. On ne peut même pas reprocher"
+    },
+    {
+      "id": 255,
+      "start": 1976.26,
+      "end": 1984.2,
+      "start_timestamp": "00:32:56.260",
+      "end_timestamp": "00:33:04.200",
+      "text": "aux européistes d'être finalement contre les peuples, puisqu'ils peuvent toujours s'appuyer sur un peuple contre l'autre."
+    },
+    {
+      "id": 256,
+      "start": 1984.2,
+      "end": 1988.92,
+      "start_timestamp": "00:33:04.200",
+      "end_timestamp": "00:33:08.920",
+      "text": "Les intérêts, par exemple, à Chypre ou en Grèce, les intérêts des Chypriotes ou des Grecs sont exactement opposés"
+    },
+    {
+      "id": 257,
+      "start": 1988.92,
+      "end": 1996.68,
+      "start_timestamp": "00:33:08.920",
+      "end_timestamp": "00:33:16.680",
+      "text": "aux intérêts des Allemands, des Finlandais, des Néerlandais et des Luxembourgeois. Donc tout ceci nous mène à quoi ?"
+    },
+    {
+      "id": 258,
+      "start": 1996.68,
+      "end": 2003.92,
+      "start_timestamp": "00:33:16.680",
+      "end_timestamp": "00:33:23.920",
+      "text": "Eh bien nous mène à cette illustration de cette citation de M. Padoas-Körpa que je cite presque à toutes mes conférences."
+    },
+    {
+      "id": 259,
+      "start": 2003.92,
+      "end": 2013.04,
+      "start_timestamp": "00:33:23.920",
+      "end_timestamp": "00:33:33.040",
+      "text": "Ce monsieur est décédé. Il est mort en 2008, je crois. Il était italien. Il avait été ce que les Américains appellent"
+    },
+    {
+      "id": 260,
+      "start": 2013.04,
+      "end": 2021.36,
+      "start_timestamp": "00:33:33.040",
+      "end_timestamp": "00:33:41.360",
+      "text": "« un insider », c'est-à-dire quelqu'un qui connaît inside, l'intérieur, qui connaît les choses de l'intérieur, là où on se raconte pas des salades."
+    },
+    {
+      "id": 261,
+      "start": 2021.36,
+      "end": 2027.68,
+      "start_timestamp": "00:33:41.360",
+      "end_timestamp": "00:33:47.680",
+      "text": "Donc M. Padoas-Körpa, il était le président du think tank Notre Europe, qui a été créé par Jacques Delors, le président fondateur,"
+    },
+    {
+      "id": 262,
+      "start": 2027.68,
+      "end": 2034.8,
+      "start_timestamp": "00:33:47.680",
+      "end_timestamp": "00:33:54.800",
+      "text": "et Pascal Lamy, qui est le président d'honneur. Il a été évidemment diplômé de l'institution américaine, du Massachusetts Institute of Technology,"
+    },
+    {
+      "id": 263,
+      "start": 2034.8,
+      "end": 2043.0,
+      "start_timestamp": "00:33:54.800",
+      "end_timestamp": "00:34:03.000",
+      "text": "du MIT de Harvard. Il est l'ancien président du comité directeur du FMI. Il a été ministre de l'Économie et des Finances,"
+    },
+    {
+      "id": 264,
+      "start": 2043.0,
+      "end": 2053.92,
+      "start_timestamp": "00:34:03.000",
+      "end_timestamp": "00:34:13.920",
+      "text": "du Finance italien, de 2006 à 2008. Il a été membre du directoire de la Monde centrale européenne. Enfin bref, c'est pas un ignorant."
+    },
+    {
+      "id": 265,
+      "start": 2053.92,
+      "end": 2061.12,
+      "start_timestamp": "00:34:13.920",
+      "end_timestamp": "00:34:21.120",
+      "text": "C'est pas un batteleur. Ça n'est pas un humoriste. Ça n'est pas des propos de comptoir. C'est d'autant moins des propos de comptoir"
+    },
+    {
+      "id": 266,
+      "start": 2061.12,
+      "end": 2068.16,
+      "start_timestamp": "00:34:21.120",
+      "end_timestamp": "00:34:28.160",
+      "text": "que je vais vous rapporter qu'il les a écrits dans un article qui s'appelait « Les enseignements de l'aventure européenne »,"
+    },
+    {
+      "id": 267,
+      "start": 2068.16,
+      "end": 2075.52,
+      "start_timestamp": "00:34:28.160",
+      "end_timestamp": "00:34:35.520",
+      "text": "article qui est apparu dans une revue française de grande qualité. Il s'appelle « Commentaire », dans son n°87 de l'automne 99."
+    },
+    {
+      "id": 268,
+      "start": 2075.52,
+      "end": 2082.76,
+      "start_timestamp": "00:34:35.520",
+      "end_timestamp": "00:34:42.760",
+      "text": "Et qu'est-ce qu'il a dit, M. Padoas-Kjop ? Il a dit « La construction européenne est une révolution, mais les révolutionnaires,"
+    },
+    {
+      "id": 269,
+      "start": 2082.76,
+      "end": 2090.1,
+      "start_timestamp": "00:34:42.760",
+      "end_timestamp": "00:34:50.100",
+      "text": "même si les révolutionnaires ne sont pas des conspirateurs blêmes et maigres, mais des employés, des fonctionnaires, des banquiers"
+    },
+    {
+      "id": 270,
+      "start": 2090.1,
+      "end": 2099.66,
+      "start_timestamp": "00:34:50.100",
+      "end_timestamp": "00:34:59.660",
+      "text": "et des professeurs », qui est quand même extraordinaire. « Une révolution de banquiers ». C'est pas moi qui le dis."
+    },
+    {
+      "id": 271,
+      "start": 2099.66,
+      "end": 2107.18,
+      "start_timestamp": "00:34:59.660",
+      "end_timestamp": "00:35:07.180",
+      "text": "Vous savez que vous me connaissez. Enfin ceux qui ne me le connaissent pas, le découvre. Je suis trop prudent et j'ai trop..."
+    },
+    {
+      "id": 272,
+      "start": 2107.18,
+      "end": 2114.82,
+      "start_timestamp": "00:35:07.180",
+      "end_timestamp": "00:35:14.820",
+      "text": "Comment dirais-je ? De déontologie professionnelle acquise pour ne jamais avancer quoi que ce soit sans que je puisse vous présenter la source."
+    },
+    {
+      "id": 273,
+      "start": 2114.82,
+      "end": 2122.98,
+      "start_timestamp": "00:35:14.820",
+      "end_timestamp": "00:35:22.980",
+      "text": "Donc il ne s'agit pas encore une fois d'un olibrius. Il s'agit de quelqu'un qui a été tout à fait dans les allées du pouvoir européen,"
+    },
+    {
+      "id": 274,
+      "start": 2122.98,
+      "end": 2130.74,
+      "start_timestamp": "00:35:22.980",
+      "end_timestamp": "00:35:30.740",
+      "text": "ce qui a été mini, ce qui a été UFMI, directoire de la Banque centrale européenne, et qui écrit dans une des grandes revues françaises de qualité."
+    },
+    {
+      "id": 275,
+      "start": 2130.74,
+      "end": 2141.06,
+      "start_timestamp": "00:35:30.740",
+      "end_timestamp": "00:35:41.060",
+      "text": "Il s'appelle « Commentaire », une revue trimestrielle. Et c'est donc lui qui nous explique que la construction européenne est une révolution faite par des banquiers."
+    },
+    {
+      "id": 276,
+      "start": 2141.06,
+      "end": 2147.86,
+      "start_timestamp": "00:35:41.060",
+      "end_timestamp": "00:35:47.860",
+      "text": "Et il continue en disant « L'Europe ne procède pas à un mouvement démocratique. Elle s'est faite suivant une méthode que l'on pourrait définir"
+    },
+    {
+      "id": 277,
+      "start": 2147.86,
+      "end": 2157.38,
+      "start_timestamp": "00:35:47.860",
+      "end_timestamp": "00:35:57.380",
+      "text": "du terme de despotisme éclairé ». Donc le despotisme éclairé, je le rappelle à chaque fois, ça fait allusion à cette période de l'histoire de l'Europe"
+    },
+    {
+      "id": 278,
+      "start": 2157.38,
+      "end": 2166.18,
+      "start_timestamp": "00:35:57.380",
+      "end_timestamp": "00:36:06.180",
+      "text": "au XVIIIe siècle, où il y avait donc essentiellement deux autocrates. D'une part, l'autocrate de toutes les Russies, c'est-à-dire la grande Catherine de Russie,"
+    },
+    {
+      "id": 279,
+      "start": 2166.18,
+      "end": 2172.74,
+      "start_timestamp": "00:36:06.180",
+      "end_timestamp": "00:36:12.740",
+      "text": "qui avait en gros estourbi son beau-père le tsar, puis son mari le tsar pour devenir tsarine à la place des autres. Et puis deuxièmement,"
+    },
+    {
+      "id": 280,
+      "start": 2172.74,
+      "end": 2180.3,
+      "start_timestamp": "00:36:12.740",
+      "end_timestamp": "00:36:20.300",
+      "text": "Frédéric II de Prusse, qui étaient des tyrans dans leur propre pays, qui ne toléraient pas la moindre contestation, rien du tout,"
+    },
+    {
+      "id": 281,
+      "start": 2180.3,
+      "end": 2192.46,
+      "start_timestamp": "00:36:20.300",
+      "end_timestamp": "00:36:32.460",
+      "text": "mais qui prétendaient faire le bien de leur peuple, et qui donc conversaient et échangaient des lettres avec Voltaire, avec Diderot,"
+    },
+    {
+      "id": 282,
+      "start": 2192.46,
+      "end": 2201.74,
+      "start_timestamp": "00:36:32.460",
+      "end_timestamp": "00:36:41.740",
+      "text": "avec les philosophes français des Lumières. Et donc on les appelait des despots éclairés. Remarquez bien d'ailleurs que tous les tyrans"
+    },
+    {
+      "id": 283,
+      "start": 2201.74,
+      "end": 2209.18,
+      "start_timestamp": "00:36:41.740",
+      "end_timestamp": "00:36:49.180",
+      "text": "de toute l'histoire de l'humanité à toutes les époques de l'histoire ont toujours prétendu faire le bien de leur peuple. Ça n'est pas nouveau."
+    },
+    {
+      "id": 284,
+      "start": 2209.18,
+      "end": 2218.14,
+      "start_timestamp": "00:36:49.180",
+      "end_timestamp": "00:36:58.140",
+      "text": "Donc en réalité, ce M. Padua-Scioppa nous explique que le traité sur l'UE, en réalité, doit être réinterprété."
+    },
+    {
+      "id": 285,
+      "start": 2218.14,
+      "end": 2225.14,
+      "start_timestamp": "00:36:58.140",
+      "end_timestamp": "00:37:05.140",
+      "text": "L'article 1 bis précise que l'UE est fondée sur les valeurs de respect de la dignité humaine, de liberté, de démocratie."
+    },
+    {
+      "id": 286,
+      "start": 2225.14,
+      "end": 2235.42,
+      "start_timestamp": "00:37:05.140",
+      "end_timestamp": "00:37:15.420",
+      "text": "Et en réalité, un insider, ni non, c'est en fait du despotisme éclairé. Et ce despotisme éclairé, il est l'illustration de cet analyse mathématique"
+    },
+    {
+      "id": 287,
+      "start": 2235.42,
+      "end": 2243.34,
+      "start_timestamp": "00:37:15.420",
+      "end_timestamp": "00:37:23.340",
+      "text": "du 2 divisé par 2 puissance L-1 dont je vous parlais tout à l'heure. C'est-à-dire 0,5 à la puissance L-1, la probabilité d'avoir"
+    },
+    {
+      "id": 288,
+      "start": 2243.34,
+      "end": 2251.66,
+      "start_timestamp": "00:37:23.340",
+      "end_timestamp": "00:37:31.660",
+      "text": "une poésie cohérente droite ou gauche au niveau de l'UE. Et la probabilité d'une autre Europe, je vous le rappelle, est en de 1,2 secondes"
+    },
+    {
+      "id": 289,
+      "start": 2251.66,
+      "end": 2260.26,
+      "start_timestamp": "00:37:31.660",
+      "end_timestamp": "00:37:40.260",
+      "text": "tous les triomphes d'années. Donc quand on est face à ça, pour faire avancer le schmilblick, eh bien donc une petite oligarchie a pris le pouvoir,"
+    },
+    {
+      "id": 290,
+      "start": 2260.26,
+      "end": 2267.57,
+      "start_timestamp": "00:37:40.260",
+      "end_timestamp": "00:37:47.570",
+      "text": "puisqu'elle considère que sinon, rien ne se passe. Et elle a raison. Rien ne se passera. C'est un blocage systématique."
+    },
+    {
+      "id": 291,
+      "start": 2267.57,
+      "end": 2274.29,
+      "start_timestamp": "00:37:47.570",
+      "end_timestamp": "00:37:54.290",
+      "text": "Voilà. Alors le résultat de tout ça, eh bien c'est qu'évidemment, les peuples sont furieux, parce qu'ils se rendent compte quand même"
+    },
+    {
+      "id": 292,
+      "start": 2274.29,
+      "end": 2280.13,
+      "start_timestamp": "00:37:54.290",
+      "end_timestamp": "00:38:00.130",
+      "text": "qu'il se passe quelque chose. Et donc les Français se détournent petit à petit de la construction européenne."
+    },
+    {
+      "id": 293,
+      "start": 2280.13,
+      "end": 2287.93,
+      "start_timestamp": "00:38:00.130",
+      "end_timestamp": "00:38:07.930",
+      "text": "Je rappelle qu'on a demandé aux Français seulement à 4 reprises ce qu'ils en pensaient. On ne leur a jamais demandé s'ils étaient d'accord."
+    },
+    {
+      "id": 294,
+      "start": 2287.93,
+      "end": 2294.53,
+      "start_timestamp": "00:38:07.930",
+      "end_timestamp": "00:38:14.530",
+      "text": "Jamais. On n'a jamais demandé aux Français « Êtes-vous d'accord pour faire disparaître la France ? ». Jamais."
+    },
+    {
+      "id": 295,
+      "start": 2294.53,
+      "end": 2303.49,
+      "start_timestamp": "00:38:14.530",
+      "end_timestamp": "00:38:23.490",
+      "text": "En 1957, ils ont appris au petit déjeuner... Ils avaient élu des députés. On était sous Félix Gaillard, Premier ministre de la IVe République,"
+    },
+    {
+      "id": 296,
+      "start": 2303.49,
+      "end": 2309.85,
+      "start_timestamp": "00:38:23.490",
+      "end_timestamp": "00:38:29.850",
+      "text": "président du Conseil, comme on disait à l'époque. Ils avaient élu des députés, de droite ou de gauche. Bon. Et puis un jour,"
+    },
+    {
+      "id": 297,
+      "start": 2309.85,
+      "end": 2314.65,
+      "start_timestamp": "00:38:29.850",
+      "end_timestamp": "00:38:34.650",
+      "text": "ils ont pris leur petit déjeuner. Ils ont dit « Ah tiens, il y a eu un traité qui a été signé à Rome ». Bon."
+    },
+    {
+      "id": 298,
+      "start": 2314.65,
+      "end": 2322.41,
+      "start_timestamp": "00:38:34.650",
+      "end_timestamp": "00:38:42.410",
+      "text": "Alors ils ont demandé leur avis. C'est les députés après qui ont ratifié sans qu'ils aient été élus pour cela. Bon."
+    },
+    {
+      "id": 299,
+      "start": 2322.41,
+      "end": 2331.85,
+      "start_timestamp": "00:38:42.410",
+      "end_timestamp": "00:38:51.850",
+      "text": "Et puis l'affaire a été ratifiée. Donc ensuite, on a demandé aux Français seulement... Je parle que des Français."
+    },
+    {
+      "id": 300,
+      "start": 2332.01,
+      "end": 2340.53,
+      "start_timestamp": "00:38:52.010",
+      "end_timestamp": "00:39:00.530",
+      "text": "Le cas est général, hein. C'est partout pareil. Pour les Français, on leur a demandé leur avis à 3 reprises en 1972, en 1992, en 2005."
+    },
+    {
+      "id": 301,
+      "start": 2340.53,
+      "end": 2349.93,
+      "start_timestamp": "00:39:00.530",
+      "end_timestamp": "00:39:09.930",
+      "text": "En 1972, on leur a demandé « Est-ce que vous êtes d'accord pour que la Grande-Bretagne, le Danemark et l'Irlande entrent dans le marché commun ? »."
+    },
+    {
+      "id": 302,
+      "start": 2349.93,
+      "end": 2356.85,
+      "start_timestamp": "00:39:09.930",
+      "end_timestamp": "00:39:16.850",
+      "text": "Il y avait la Norvège également. Mais la Norvège, ensuite, a dit non. Bon. À l'époque, le Parti socialiste a appelé à s'abstenir."
+    },
+    {
+      "id": 303,
+      "start": 2356.85,
+      "end": 2363.05,
+      "start_timestamp": "00:39:16.850",
+      "end_timestamp": "00:39:23.050",
+      "text": "Il y a eu une très forte abstention. Enfin une très forte. Il y a eu 34% d'abstention, ce qui était beaucoup pour l'époque, en 1972."
+    },
+    {
+      "id": 304,
+      "start": 2363.05,
+      "end": 2370.25,
+      "start_timestamp": "00:39:23.050",
+      "end_timestamp": "00:39:30.250",
+      "text": "Et en fait, il y a eu 31% des Français qui ont voté non. Mais s'il y avait une majorité de Français qui avaient voté non,"
+    },
+    {
+      "id": 305,
+      "start": 2370.25,
+      "end": 2378.52,
+      "start_timestamp": "00:39:30.250",
+      "end_timestamp": "00:39:38.520",
+      "text": "on restait dans le marché commun. On n'a pas demandé aux Français « Est-ce que vous êtes d'accord pour sortir du truc ? »,"
+    },
+    {
+      "id": 306,
+      "start": 2378.52,
+      "end": 2383.8,
+      "start_timestamp": "00:39:38.520",
+      "end_timestamp": "00:39:43.800",
+      "text": "« Est-ce que vous êtes d'accord pour faire disparaître la France dans un ensemble continental ? ». Jamais."
+    },
+    {
+      "id": 307,
+      "start": 2383.8,
+      "end": 2390.52,
+      "start_timestamp": "00:39:43.800",
+      "end_timestamp": "00:39:50.520",
+      "text": "En 1992, rebollote. Cette fois-ci, on leur a demandé « Est-ce que vous êtes d'accord pour avoir une monnaie commune européenne ? »."
+    },
+    {
+      "id": 308,
+      "start": 2390.52,
+      "end": 2396.28,
+      "start_timestamp": "00:39:50.520",
+      "end_timestamp": "00:39:56.280",
+      "text": "Certains appellent ça une monnaie unique. Mais en fait, c'est une monnaie commune européenne. Et éventuellement aussi,"
+    },
+    {
+      "id": 309,
+      "start": 2396.28,
+      "end": 2403.08,
+      "start_timestamp": "00:39:56.280",
+      "end_timestamp": "00:40:03.080",
+      "text": "avoir une politique étrangère de sécurité commune. C'était le deuxième pilier. Puis une justice. Enfin bon."
+    },
+    {
+      "id": 310,
+      "start": 2403.08,
+      "end": 2412.68,
+      "start_timestamp": "00:40:03.080",
+      "end_timestamp": "00:40:12.680",
+      "text": "Et à cette occasion, il y a eu 49% de Français qui ont voté non. Donc c'est passé à un cheveu. Mais on avait bien dit aux Français"
+    },
+    {
+      "id": 311,
+      "start": 2412.68,
+      "end": 2419.88,
+      "start_timestamp": "00:40:12.680",
+      "end_timestamp": "00:40:19.880",
+      "text": "que s'ils votaient non, ils restaient quand même dans le marché commun précédent. Ensuite, en 2005, on a eu"
+    },
+    {
+      "id": 312,
+      "start": 2419.88,
+      "end": 2424.64,
+      "start_timestamp": "00:40:19.880",
+      "end_timestamp": "00:40:24.640",
+      "text": "la Constitution européenne. Et là, on a demandé aux Français « Est-ce que vous êtes d'accord pour avoir un président"
+    },
+    {
+      "id": 313,
+      "start": 2424.64,
+      "end": 2430.84,
+      "start_timestamp": "00:40:24.640",
+      "end_timestamp": "00:40:30.840",
+      "text": "du Conseil de l'UE, une ministre des Affaires étrangères pour parler d'une seule voix », ce genre de faribol."
+    },
+    {
+      "id": 314,
+      "start": 2430.84,
+      "end": 2439.84,
+      "start_timestamp": "00:40:30.840",
+      "end_timestamp": "00:40:39.840",
+      "text": "Et il n'y avait pas une Constitution. Cette fois-ci, les Français ont voté non à 54,7%. Non seulement ils sont restés dans le système existant,"
+    },
+    {
+      "id": 315,
+      "start": 2439.84,
+      "end": 2447.37,
+      "start_timestamp": "00:40:39.840",
+      "end_timestamp": "00:40:47.370",
+      "text": "mais on leur a quand même imposé à quoi ils avaient dit non. Alors ensuite, maintenant, aux dernières nouvelles, c'est un sondage Ifop."
+    },
+    {
+      "id": 316,
+      "start": 2447.37,
+      "end": 2454.93,
+      "start_timestamp": "00:40:47.370",
+      "end_timestamp": "00:40:54.930",
+      "text": "Le pas entre les années n'est pas identique. Faites attention. C'est un graphique qui n'est pas un peu bricolé, parce qu'il y a 20 ans"
+    },
+    {
+      "id": 317,
+      "start": 2454.93,
+      "end": 2460.81,
+      "start_timestamp": "00:40:54.930",
+      "end_timestamp": "00:41:00.810",
+      "text": "entre les 20 premières années, puis ensuite 13 ans, et ensuite 7 ans. Et ça n'est pas homogène, puisque dans les trois premiers cas,"
+    },
+    {
+      "id": 318,
+      "start": 2460.81,
+      "end": 2465.97,
+      "start_timestamp": "00:41:00.810",
+      "end_timestamp": "00:41:05.970",
+      "text": "c'est un vote. Dans le dernier cas, c'est un sondage. Un sondage Ifop qui a été fait à la fin de l'année dernière qui disait que"
+    },
+    {
+      "id": 319,
+      "start": 2465.97,
+      "end": 2472.49,
+      "start_timestamp": "00:41:05.970",
+      "end_timestamp": "00:41:12.490",
+      "text": "ça ne vaut que ce que ça vaut. Ça n'est qu'un sondage que si on réinterrogeait les Français sur Maastricht, il y en aurait 64% des Français"
+    },
+    {
+      "id": 320,
+      "start": 2472.49,
+      "end": 2479.49,
+      "start_timestamp": "00:41:12.490",
+      "end_timestamp": "00:41:19.490",
+      "text": "qui voteraient non. D'ailleurs, au passage, qu'est-ce que c'est que faire la politique ? Qu'est-ce que c'est qu'un homme politique responsable ?"
+    },
+    {
+      "id": 321,
+      "start": 2479.49,
+      "end": 2487.93,
+      "start_timestamp": "00:41:19.490",
+      "end_timestamp": "00:41:27.930",
+      "text": "C'est quelqu'un qui vérifie à tout instant si le peuple est d'accord. Rappelez-vous que de Gaulle rien ne le forçait à démissionner en 1969,"
+    },
+    {
+      "id": 322,
+      "start": 2487.93,
+      "end": 2494.37,
+      "start_timestamp": "00:41:27.930",
+      "end_timestamp": "00:41:34.370",
+      "text": "lorsque le référendum du 30 avril a envoyé 53% de non. Mais de Gaulle avait une tellement haute idée de la fonction qu'il avait créée"
+    },
+    {
+      "id": 323,
+      "start": 2494.37,
+      "end": 2501.29,
+      "start_timestamp": "00:41:34.370",
+      "end_timestamp": "00:41:41.290",
+      "text": "au président de la République, à laquelle était attaché beaucoup de pouvoirs. Mais pour le général, ce pouvoir n'était légitime"
+    },
+    {
+      "id": 324,
+      "start": 2501.29,
+      "end": 2507.77,
+      "start_timestamp": "00:41:41.290",
+      "end_timestamp": "00:41:47.770",
+      "text": "qu'à la condition qu'il soit sans arrêt soutenu par le peuple français. Et du jour où de Gaulle a constaté qu'il n'avait plus la majorité,"
+    },
+    {
+      "id": 325,
+      "start": 2507.77,
+      "end": 2515.89,
+      "start_timestamp": "00:41:47.770",
+      "end_timestamp": "00:41:55.890",
+      "text": "immédiatement, dans la demi-journée qui a suivi, il a présenté sa démission. Il a considéré qu'il n'avait plus la légitimité nécessaire"
+    },
+    {
+      "id": 326,
+      "start": 2515.89,
+      "end": 2523.45,
+      "start_timestamp": "00:41:55.890",
+      "end_timestamp": "00:42:03.450",
+      "text": "pour assurer le pouvoir qui lui était dévolu par la Constitution et qui donnait effectivement un grand pouvoir au président de la République,"
+    },
+    {
+      "id": 327,
+      "start": 2523.45,
+      "end": 2531.57,
+      "start_timestamp": "00:42:03.450",
+      "end_timestamp": "00:42:11.570",
+      "text": "mais que dans la contrepartie, c'était fort. Nous avons affaire maintenant à des véritables escrocs, parce que quand on est face à ça,"
+    },
+    {
+      "id": 328,
+      "start": 2531.57,
+      "end": 2537.61,
+      "start_timestamp": "00:42:11.570",
+      "end_timestamp": "00:42:17.610",
+      "text": "si nous étions dirigés par des gens honnêtes, ils devraient se dire qu'il y a un petit problème. D'ailleurs, ils le savent,"
+    },
+    {
+      "id": 329,
+      "start": 2537.61,
+      "end": 2546.53,
+      "start_timestamp": "00:42:17.610",
+      "end_timestamp": "00:42:26.530",
+      "text": "qu'il y a un petit problème, même un gros problème. J'en parlais avec quelques-uns d'entre nos militants qui sont allés voir récemment"
+    },
+    {
+      "id": 330,
+      "start": 2546.53,
+      "end": 2553.41,
+      "start_timestamp": "00:42:26.530",
+      "end_timestamp": "00:42:33.410",
+      "text": "Jean-Marie Cavada qui explique que la crise, c'est une chance pour l'Europe. Le seul et unique discours qui nous est infligé,"
+    },
+    {
+      "id": 331,
+      "start": 2553.41,
+      "end": 2560.89,
+      "start_timestamp": "00:42:33.410",
+      "end_timestamp": "00:42:40.890",
+      "text": "c'est qu'il faut continuer à accélérer. Ça n'est jamais de la faute de l'Europe. C'est parce qu'il n'y en a pas assez. Il faut plus d'Europe."
+    },
+    {
+      "id": 332,
+      "start": 2560.89,
+      "end": 2566.09,
+      "start_timestamp": "00:42:40.890",
+      "end_timestamp": "00:42:46.090",
+      "text": "C'est exactement d'ailleurs ce que disaient les Soviétiques. Plus les déconvenues s'accumulaient, les catastrophes"
+    },
+    {
+      "id": 333,
+      "start": 2566.09,
+      "end": 2571.05,
+      "start_timestamp": "00:42:46.090",
+      "end_timestamp": "00:42:51.050",
+      "text": "lors de la construction du socialisme, et puis on expliquait que ça n'était pas de la faute du socialisme. C'était parce qu'il était mal appliqué"
+    },
+    {
+      "id": 334,
+      "start": 2571.05,
+      "end": 2580.65,
+      "start_timestamp": "00:42:51.050",
+      "end_timestamp": "00:43:00.650",
+      "text": "et qu'il fallait donc accélérer. Donc on est dans un phénomène de fuite en avant, qui témoigne du caractère profondément fascisant"
+    },
+    {
+      "id": 335,
+      "start": 2580.65,
+      "end": 2587.33,
+      "start_timestamp": "00:43:00.650",
+      "end_timestamp": "00:43:07.330",
+      "text": "de ces gens, parce que n'importe qui d'honnête intellectuellement et politiquement devrait se dire face à ça « J'ai un problème."
+    },
+    {
+      "id": 336,
+      "start": 2587.33,
+      "end": 2593.25,
+      "start_timestamp": "00:43:07.330",
+      "end_timestamp": "00:43:13.250",
+      "text": "Il faut que je vérifie quand même auprès des Français si ils sont d'accord ». D'ailleurs, je signale aussi autre chose."
+    },
+    {
+      "id": 337,
+      "start": 2593.25,
+      "end": 2606.54,
+      "start_timestamp": "00:43:13.250",
+      "end_timestamp": "00:43:26.540",
+      "text": "Le principe même de la vie, c'est de pouvoir changer la vie. C'est comme ça. Voilà. En gros, quand je présentais cette conférence"
+    },
+    {
+      "id": 338,
+      "start": 2606.54,
+      "end": 2613.78,
+      "start_timestamp": "00:43:26.540",
+      "end_timestamp": "00:43:33.780",
+      "text": "il y a 2 ans, je disais... Moi, je ne connais qu'une institution où on fasse un choix à vie, une élection à vie. C'est la papauté."
+    },
+    {
+      "id": 339,
+      "start": 2613.78,
+      "end": 2624.06,
+      "start_timestamp": "00:43:33.780",
+      "end_timestamp": "00:43:44.060",
+      "text": "J'ai même été démenti par les événements, puisque le pape Benoît XVI a renoncé à son pontificat, la première fois depuis Célestin V."
+    },
+    {
+      "id": 340,
+      "start": 2624.06,
+      "end": 2630.3,
+      "start_timestamp": "00:43:44.060",
+      "end_timestamp": "00:43:50.300",
+      "text": "Donc ça veut dire quoi ? Ça veut dire que le principe même des élections, c'est que les Français et les peuples ont le droit de changer d'avis."
+    },
+    {
+      "id": 341,
+      "start": 2630.3,
+      "end": 2639.66,
+      "start_timestamp": "00:43:50.300",
+      "end_timestamp": "00:43:59.660",
+      "text": "Sinon, une fois qu'on a élu Giscard, on l'aurait toujours. Il n'est pas mort. Et les Français, après l'avoir élu en 74, en 81,"
+    },
+    {
+      "id": 342,
+      "start": 2639.66,
+      "end": 2651.16,
+      "start_timestamp": "00:43:59.660",
+      "end_timestamp": "00:44:11.160",
+      "text": "l'ont chassé, de même qu'ils ont élu Sarkozy en 2007, qu'ils l'ont chassé en 2012. Donc l'idée même que l'on a fait un traité il y a 20 ans,"
+    },
+    {
+      "id": 343,
+      "start": 2651.16,
+      "end": 2656.08,
+      "start_timestamp": "00:44:11.160",
+      "end_timestamp": "00:44:16.080",
+      "text": "que ce traité donne des conséquences absolument catastrophiques, et qu'on l'en dise aux gens... « Ah, mais les Français ont voté »."
+    },
+    {
+      "id": 344,
+      "start": 2656.08,
+      "end": 2665.78,
+      "start_timestamp": "00:44:16.080",
+      "end_timestamp": "00:44:25.780",
+      "text": "Mais les Français, oui, ben très bien. Ils ont peut-être le droit de changer d'avis. Ça serait quand même la moindre des choses de vérifier"
+    },
+    {
+      "id": 345,
+      "start": 2665.78,
+      "end": 2671.46,
+      "start_timestamp": "00:44:25.780",
+      "end_timestamp": "00:44:31.460",
+      "text": "s'ils sont encore d'accord. Toutes les statistiques montrent qu'ils ne sont pas d'accord. D'ailleurs, si je voulais en pousser"
+    },
+    {
+      "id": 346,
+      "start": 2671.46,
+      "end": 2679.54,
+      "start_timestamp": "00:44:31.460",
+      "end_timestamp": "00:44:39.540",
+      "text": "l'analyse encore plus loin, je soulignerais qu'il y a eu qu'à l'époque... C'est ce que je vais montrer, d'ailleurs, juste après, je crois."
+    },
+    {
+      "id": 347,
+      "start": 2679.54,
+      "end": 2688.94,
+      "start_timestamp": "00:44:39.540",
+      "end_timestamp": "00:44:48.940",
+      "text": "Le soutien réel du peuple français à la construction européenne ne cesse de dégringoler, parce qu'en 1972, il y avait eu..."
+    },
+    {
+      "id": 348,
+      "start": 2688.94,
+      "end": 2695.34,
+      "start_timestamp": "00:44:48.940",
+      "end_timestamp": "00:44:55.340",
+      "text": "Ça, c'est en pourcentage des électeurs inscrits, parce qu'il y a eu beaucoup d'abstention. En pourcentage des électeurs inscrits,"
+    },
+    {
+      "id": 349,
+      "start": 2695.34,
+      "end": 2707.9,
+      "start_timestamp": "00:44:55.340",
+      "end_timestamp": "00:45:07.900",
+      "text": "en 1972, il y avait eu 36% de oui à l'élargissement. En 1992, à Maastricht, il n'y avait eu que 34% des électeurs qui étaient allés voter oui."
+    },
+    {
+      "id": 350,
+      "start": 2707.9,
+      "end": 2715.42,
+      "start_timestamp": "00:45:07.900",
+      "end_timestamp": "00:45:15.420",
+      "text": "Donc la majorité n'était que toute relative. Et à la Constitution européenne, il n'y a que 30% des Français qui sont allés voter oui."
+    },
+    {
+      "id": 351,
+      "start": 2715.42,
+      "end": 2727.14,
+      "start_timestamp": "00:45:15.420",
+      "end_timestamp": "00:45:27.140",
+      "text": "Donc il y avait en 1992 34% des électeurs inscrits qui avaient voté oui. 34,4%. Il a dû y avoir à peu près 33,8% des Français qui ont voté non"
+    },
+    {
+      "id": 352,
+      "start": 2727.14,
+      "end": 2735.46,
+      "start_timestamp": "00:45:27.140",
+      "end_timestamp": "00:45:35.460",
+      "text": "et 34% qui ne sont pas allés voter. C'est ça, la vérité. Et si vous prenez tout simplement des courbes de... Comment dirais-je ?"
+    },
+    {
+      "id": 353,
+      "start": 2735.46,
+      "end": 2744.66,
+      "start_timestamp": "00:45:35.460",
+      "end_timestamp": "00:45:44.660",
+      "text": "Des courbes de mortalité, la pyramide des âges. Ça, c'était il y a 21 ans. Compte tenu des décès qui sont intervenus depuis lors d'une part,"
+    },
+    {
+      "id": 354,
+      "start": 2744.66,
+      "end": 2753.1,
+      "start_timestamp": "00:45:44.660",
+      "end_timestamp": "00:45:53.100",
+      "text": "des naissances qui sont intervenues de l'autre part, on est sûr qu'actuellement, il y a moins de 1 Français adulte sur 5 depuis plus de 18 ans."
+    },
+    {
+      "id": 355,
+      "start": 2753.1,
+      "end": 2761.18,
+      "start_timestamp": "00:45:53.100",
+      "end_timestamp": "00:46:01.180",
+      "text": "Il y a moins de 1 sur 5 qui a voté oui en 1992 à Maastricht, parce qu'il y en a un certain nombre qui sont décédés."
+    },
+    {
+      "id": 356,
+      "start": 2761.18,
+      "end": 2772.58,
+      "start_timestamp": "00:46:01.180",
+      "end_timestamp": "00:46:12.580",
+      "text": "Et il y a environ 21 tranches d'âge nouvelles. Donc nous sommes sur un schéma qui a été voté par une toute petite minorité des électeurs vivants."
+    },
+    {
+      "id": 357,
+      "start": 2772.58,
+      "end": 2780.98,
+      "start_timestamp": "00:46:12.580",
+      "end_timestamp": "00:46:20.980",
+      "text": "Et en plus de ça, ceux qui avaient voté oui à l'époque avaient voté oui sur la foi que l'euro apporterait plus de croissance et plus d'emploi."
+    },
+    {
+      "id": 358,
+      "start": 2780.98,
+      "end": 2790.14,
+      "start_timestamp": "00:46:20.980",
+      "end_timestamp": "00:46:30.140",
+      "text": "Ils ont été bernés. Ils ont été escroqués. C'est-à-dire que ceux qui... Parmi les électeurs français vivants qui ont voté oui"
+    },
+    {
+      "id": 359,
+      "start": 2790.14,
+      "end": 2800.34,
+      "start_timestamp": "00:46:30.140",
+      "end_timestamp": "00:46:40.340",
+      "text": "au traité de Maastricht et qui sont contents de ce qu'ils ont voté, on doit être à peu près un Français sur 10 ou sur 15."
+    },
+    {
+      "id": 360,
+      "start": 2800.34,
+      "end": 2808.78,
+      "start_timestamp": "00:46:40.340",
+      "end_timestamp": "00:46:48.780",
+      "text": "On est donc face à une réalité politique et sociologique qui est infinitésimale et qui témoigne donc de la suite des événements."
+    },
+    {
+      "id": 361,
+      "start": 2808.78,
+      "end": 2815.86,
+      "start_timestamp": "00:46:48.780",
+      "end_timestamp": "00:46:55.860",
+      "text": "C'est la raison n°1 de sortir de l'Europe. Si nous voulons que les Français retournent voter parce que leur vote aura de nouveau du sens,"
+    },
+    {
+      "id": 362,
+      "start": 2815.86,
+      "end": 2820.98,
+      "start_timestamp": "00:46:55.860",
+      "end_timestamp": "00:47:00.980",
+      "text": "c'est-à-dire qu'on leur aura rendu la démocratie. C'est-à-dire que lorsqu'ils voteront à droite, ils auront une politique de droite."
+    },
+    {
+      "id": 363,
+      "start": 2820.98,
+      "end": 2826.78,
+      "start_timestamp": "00:47:00.980",
+      "end_timestamp": "00:47:06.780",
+      "text": "Et lorsqu'ils voteront à gauche, ils auront une politique de gauche. Alors il faut que les Français comprennent que la construction européenne"
+    },
+    {
+      "id": 364,
+      "start": 2826.78,
+      "end": 2835.66,
+      "start_timestamp": "00:47:06.780",
+      "end_timestamp": "00:47:15.660",
+      "text": "rend leurs élections sans aucun effet. Voter à droite ou voter à gauche ne change plus rien. Entre l'Europe et la démocratie, il faut choisir."
+    },
+    {
+      "id": 365,
+      "start": 2835.66,
+      "end": 2842.62,
+      "start_timestamp": "00:47:15.660",
+      "end_timestamp": "00:47:22.620",
+      "text": "C'est comme ça. Et je vous l'ai prouvé de façon mathématique. Et je vous ai également trouvé qu'il était mathématiquement impossible"
+    },
+    {
+      "id": 366,
+      "start": 2842.62,
+      "end": 2849.72,
+      "start_timestamp": "00:47:22.620",
+      "end_timestamp": "00:47:29.720",
+      "text": "d'avoir une autre Europe. Donc il faut choisir. Soit on sort de l'Europe, on retrouve une République française,"
+    },
+    {
+      "id": 367,
+      "start": 2849.72,
+      "end": 2858.84,
+      "start_timestamp": "00:47:29.720",
+      "end_timestamp": "00:47:38.840",
+      "text": "on est maître de notre avenir collectif. Et d'ailleurs, nous, des relations économiques et internationales avec l'ensemble du monde,"
+    },
+    {
+      "id": 368,
+      "start": 2858.84,
+      "end": 2864.74,
+      "start_timestamp": "00:47:38.840",
+      "end_timestamp": "00:47:44.740",
+      "text": "comme c'est le cas actuellement, ne tombez pas dans ce panneau dont je reviendrai à la fin de cette conférence"
+    },
+    {
+      "id": 369,
+      "start": 2864.74,
+      "end": 2870.82,
+      "start_timestamp": "00:47:44.740",
+      "end_timestamp": "00:47:50.820",
+      "text": "de ceux qui veulent vous faire croire que si on sortait de l'Europe, ça serait pour aller s'enfermer au Carmel, moquer du monde."
+    },
+    {
+      "id": 370,
+      "start": 2870.82,
+      "end": 2878.2,
+      "start_timestamp": "00:47:50.820",
+      "end_timestamp": "00:47:58.200",
+      "text": "Bon. La Suisse, qui est un pays qui est à quelques dizaines de mètres d'ici, ne vit pas au Carmel. Bon. Donc ne tombez pas"
+    },
+    {
+      "id": 371,
+      "start": 2878.2,
+      "end": 2882.6,
+      "start_timestamp": "00:47:58.200",
+      "end_timestamp": "00:48:02.600",
+      "text": "dans ce panneau. Mais ne tombez pas non plus dans le panneau de ceux qui vous disent « On va changer l'ordre »."
+    },
+    {
+      "id": 372,
+      "start": 2882.6,
+      "end": 2893.69,
+      "start_timestamp": "00:48:02.600",
+      "end_timestamp": "00:48:13.690",
+      "text": "Je vous ai montré, la probabilité était nulle. La raison n°2, c'est qu'il faut casser l'accroissement exponentiel de l'endettement public."
+    },
+    {
+      "id": 373,
+      "start": 2893.69,
+      "end": 2902.43,
+      "start_timestamp": "00:48:13.690",
+      "end_timestamp": "00:48:22.430",
+      "text": "Je rappelle qu'avant 1973 et depuis Napoléon Ier, la France monétisait une partie de son déficit budgétaire par l'intermédiaire"
+    },
+    {
+      "id": 374,
+      "start": 2902.43,
+      "end": 2908.91,
+      "start_timestamp": "00:48:22.430",
+      "end_timestamp": "00:48:28.910",
+      "text": "de la Banque de France. La Banque de France créait par exemple 1 milliard de francs à partir de rien et sans intérêt,"
+    },
+    {
+      "id": 375,
+      "start": 2908.91,
+      "end": 2916.67,
+      "start_timestamp": "00:48:28.910",
+      "end_timestamp": "00:48:36.670",
+      "text": "puisque la Banque de France appartient à l'État. Alors c'était un système qui avait des inconvénients. C'était un système"
+    },
+    {
+      "id": 376,
+      "start": 2916.67,
+      "end": 2925.15,
+      "start_timestamp": "00:48:36.670",
+      "end_timestamp": "00:48:45.150",
+      "text": "qui était potentiellement inflationniste par nature. Lorsque vous offrez à un souverain la possibilité de faire de la monnaie,"
+    },
+    {
+      "id": 377,
+      "start": 2925.15,
+      "end": 2932.27,
+      "start_timestamp": "00:48:45.150",
+      "end_timestamp": "00:48:52.270",
+      "text": "il a tendance à faire de la monnaie, c'est sûr. Au début, c'est très bien, parce qu'il a plus d'argent comme ça."
+    },
+    {
+      "id": 378,
+      "start": 2932.27,
+      "end": 2937.91,
+      "start_timestamp": "00:48:52.270",
+      "end_timestamp": "00:48:57.910",
+      "text": "Mais selon la bâche que ce qui est rare est cher et que ce qui n'est pas rare n'est pas cher, plus vous sortez des billets..."
+    },
+    {
+      "id": 379,
+      "start": 2937.91,
+      "end": 2943.95,
+      "start_timestamp": "00:48:57.910",
+      "end_timestamp": "00:49:03.950",
+      "text": "Je présente les choses de façon volontairement simple. Plus vous publiez des billets, et plus vous oubliez de valoir rien."
+    },
+    {
+      "id": 380,
+      "start": 2943.95,
+      "end": 2952.55,
+      "start_timestamp": "00:49:03.950",
+      "end_timestamp": "00:49:12.550",
+      "text": "Bien évidemment. Donc c'était un système qui était par nature inflationniste. Mais ce qu'il faut comprendre aussi,"
+    },
+    {
+      "id": 381,
+      "start": 2952.55,
+      "end": 2961.37,
+      "start_timestamp": "00:49:12.550",
+      "end_timestamp": "00:49:21.370",
+      "text": "c'est que les banquiers, les révolutionnaires de M. Padoas-Kepin, les rentiers, c'est-à-dire les gens ayant de l'argent,"
+    },
+    {
+      "id": 382,
+      "start": 2961.37,
+      "end": 2968.75,
+      "start_timestamp": "00:49:21.370",
+      "end_timestamp": "00:49:28.750",
+      "text": "voyaient d'un mauvais œil que l'État, elle, contrôle sur l'économie du pays et sur les taux d'intérêt, d'autant plus qu'il y avait"
+    },
+    {
+      "id": 383,
+      "start": 2968.75,
+      "end": 2979.03,
+      "start_timestamp": "00:49:28.750",
+      "end_timestamp": "00:49:39.030",
+      "text": "un contrôle des mouvements de capitaux. On a donc parlé à cette époque d'euthanasie des rentiers. Certains ont eu cette formule un peu bizarre."
+    },
+    {
+      "id": 384,
+      "start": 2979.03,
+      "end": 2984.73,
+      "start_timestamp": "00:49:39.030",
+      "end_timestamp": "00:49:44.730",
+      "text": "Ça voulait dire qu'en fait, les rentiers étaient piégés dans leur pays respectif. En d'autres termes, par exemple, quelqu'un qui avait"
+    },
+    {
+      "id": 385,
+      "start": 2984.73,
+      "end": 2993.29,
+      "start_timestamp": "00:49:44.730",
+      "end_timestamp": "00:49:53.290",
+      "text": "une petite fortune qui tombait du ciel parce qu'il faisait un bel héritage, eh bien était contraint... Ne pouvait pas sortir cet argent de France,"
+    },
+    {
+      "id": 386,
+      "start": 2993.29,
+      "end": 2999.25,
+      "start_timestamp": "00:49:53.290",
+      "end_timestamp": "00:49:59.250",
+      "text": "pas plus d'ailleurs qu'il ne pouvait le sortir de la Grèce ou de l'Espagne et autres, sans autorisation. Mais les autorisations étaient"
+    },
+    {
+      "id": 387,
+      "start": 2999.25,
+      "end": 3007.45,
+      "start_timestamp": "00:49:59.250",
+      "end_timestamp": "00:50:07.450",
+      "text": "rarement données, surtout à des particuliers. Et donc il était obligé de placer ses fonds dans le pays d'origine, dans le pays où ils vivaient."
+    },
+    {
+      "id": 388,
+      "start": 3007.45,
+      "end": 3014.73,
+      "start_timestamp": "00:50:07.450",
+      "end_timestamp": "00:50:14.730",
+      "text": "Et s'il plaçait ses fonds par exemple dans des caisses d'épargne avec des taux d'intérêt administrés de style 3% ou 4% par an,"
+    },
+    {
+      "id": 389,
+      "start": 3014.73,
+      "end": 3021.13,
+      "start_timestamp": "00:50:14.730",
+      "end_timestamp": "00:50:21.130",
+      "text": "et si au même moment, l'inflation... Parce que justement, la création monétaire a été débridée, l'inflation faisait du 10% ou du 15%,"
+    },
+    {
+      "id": 390,
+      "start": 3021.13,
+      "end": 3031.21,
+      "start_timestamp": "00:50:21.130",
+      "end_timestamp": "00:50:31.210",
+      "text": "comme on l'a vu par exemple dans les années 60, 68, 69, 70, 71, 72, 73, 74, 75, on a eu des taux d'inflation de 15% par an."
+    },
+    {
+      "id": 391,
+      "start": 3031.21,
+      "end": 3037.45,
+      "start_timestamp": "00:50:31.210",
+      "end_timestamp": "00:50:37.450",
+      "text": "Eh bien à ce moment-là, eh bien ils étaient piégés, puisqu'ils gagnaient – mettons – 5% à la caisse d'épargne."
+    },
+    {
+      "id": 392,
+      "start": 3037.45,
+      "end": 3045.93,
+      "start_timestamp": "00:50:37.450",
+      "end_timestamp": "00:50:45.930",
+      "text": "Ils perdaient 10% par an avec la dépréciation monétaire. Donc il y avait effectivement un intérêt fondamental des classes dominantes"
+    },
+    {
+      "id": 393,
+      "start": 3045.93,
+      "end": 3052.67,
+      "start_timestamp": "00:50:45.930",
+      "end_timestamp": "00:50:52.670",
+      "text": "ou possédantes – on peut dire – à modifier ce système. Des campagnes de presse et un lobbying permanent sur les responsables politiques"
+    },
+    {
+      "id": 394,
+      "start": 3052.67,
+      "end": 3060.37,
+      "start_timestamp": "00:50:52.670",
+      "end_timestamp": "00:51:00.370",
+      "text": "mirent en avant que ce système était anachronique et inflationniste par nature, car l'État, ne devant pas payer d'intérêt pour ses déficits publics,"
+    },
+    {
+      "id": 395,
+      "start": 3060.37,
+      "end": 3064.09,
+      "start_timestamp": "00:51:00.370",
+      "end_timestamp": "00:51:04.090",
+      "text": "pouvait être tenté de créer de la masse monétaire de façon excessive, ce qui pouvait être le cas."
+    },
+    {
+      "id": 396,
+      "start": 3064.09,
+      "end": 3071.17,
+      "start_timestamp": "00:51:04.090",
+      "end_timestamp": "00:51:11.170",
+      "text": "C'est pas tout à fait vrai, parce qu'on était quand même sous l'empire de l'accord de Bretton Woods, qui faisait que les monnaies"
+    },
+    {
+      "id": 397,
+      "start": 3071.17,
+      "end": 3082.01,
+      "start_timestamp": "00:51:11.170",
+      "end_timestamp": "00:51:22.010",
+      "text": "devaient être convertibles en or. Mais enfin comme vous le savez, c'est justement en 1971 que Richard Nixon a fait voler en éclats"
+    },
+    {
+      "id": 398,
+      "start": 3082.01,
+      "end": 3093.29,
+      "start_timestamp": "00:51:22.010",
+      "end_timestamp": "00:51:33.290",
+      "text": "les accords de Bretton Woods en supprimant la convertibilité du dollar en or. Et donc il n'est pas illogique d'un point de vue historique"
+    },
+    {
+      "id": 399,
+      "start": 3093.29,
+      "end": 3101.65,
+      "start_timestamp": "00:51:33.290",
+      "end_timestamp": "00:51:41.650",
+      "text": "que la France ait pris cette fameuse loi de 1973, mais dans l'ensemble du monde occidental, des lois identiques ont été prises pour éviter"
+    },
+    {
+      "id": 400,
+      "start": 3101.65,
+      "end": 3108.41,
+      "start_timestamp": "00:51:41.650",
+      "end_timestamp": "00:51:48.410",
+      "text": "que l'affaire des accords de Bretton Woods ne donne libre cours à une espèce d'envolé inflationniste généralisé,"
+    },
+    {
+      "id": 401,
+      "start": 3108.41,
+      "end": 3116.29,
+      "start_timestamp": "00:51:48.410",
+      "end_timestamp": "00:51:56.290",
+      "text": "puisque tous les États pourraient à ce moment-là sortir autant d'argent qu'ils en voulaient. C'est ce qui a donné naissance à la loi"
+    },
+    {
+      "id": 402,
+      "start": 3116.29,
+      "end": 3126.89,
+      "start_timestamp": "00:51:56.290",
+      "end_timestamp": "00:52:06.890",
+      "text": "3 janvier 1973 sur la Banque de France, que certains polémistes appellent la loi Rothschild ou la loi Pompidou-Giscard,"
+    },
+    {
+      "id": 403,
+      "start": 3126.89,
+      "end": 3133.33,
+      "start_timestamp": "00:52:06.890",
+      "end_timestamp": "00:52:13.330",
+      "text": "parce que c'était Georges Pompidou, président de la République, qui a mis des finances. Et que Georges Pompidou avait,"
+    },
+    {
+      "id": 404,
+      "start": 3133.33,
+      "end": 3140.29,
+      "start_timestamp": "00:52:13.330",
+      "end_timestamp": "00:52:20.290",
+      "text": "comme vous le savez, été un moment banquier chez Rothschild. Donc cette loi a modifié l'organisation de la Banque de France."
+    },
+    {
+      "id": 405,
+      "start": 3140.29,
+      "end": 3148.25,
+      "start_timestamp": "00:52:20.290",
+      "end_timestamp": "00:52:28.250",
+      "text": "Elle a affaibli les droits du trésor public par rapport à celle-ci. Donc normalement, dans son article 25, elle précise que le trésor public"
+    },
+    {
+      "id": 406,
+      "start": 3148.25,
+      "end": 3153.49,
+      "start_timestamp": "00:52:28.250",
+      "end_timestamp": "00:52:33.490",
+      "text": "peut être présentateur de ses propres effets à l'escompte de la Banque de France. Alors on en parle beaucoup sur Internet."
+    },
+    {
+      "id": 407,
+      "start": 3153.49,
+      "end": 3160.41,
+      "start_timestamp": "00:52:33.490",
+      "end_timestamp": "00:52:40.410",
+      "text": "Faut pas non plus exagérer le rôle de cette loi, parce que – je vous l'ai dit – il y avait quand même cette espèce de ressort de rappel"
+    },
+    {
+      "id": 408,
+      "start": 3160.41,
+      "end": 3167.49,
+      "start_timestamp": "00:52:40.410",
+      "end_timestamp": "00:52:47.490",
+      "text": "des accords de Bretton Woods, qui faisait qu'on ne pouvait quand même pas faire tout et n'importe quoi. Mais ce qui est vrai quand même,"
+    },
+    {
+      "id": 409,
+      "start": 3167.49,
+      "end": 3176.21,
+      "start_timestamp": "00:52:47.490",
+      "end_timestamp": "00:52:56.210",
+      "text": "c'est qu'à partir de là, on a eu une loi qui a été une espèce d'endettement volontaire de la France et de tous les autres États."
+    },
+    {
+      "id": 410,
+      "start": 3176.21,
+      "end": 3183.87,
+      "start_timestamp": "00:52:56.210",
+      "end_timestamp": "00:53:03.870",
+      "text": "On s'est dit que la France ne doit pas... Il faut être sage, sinon on va voir de l'inflation énorme. Il faut donc être sage."
+    },
+    {
+      "id": 411,
+      "start": 3183.87,
+      "end": 3192.63,
+      "start_timestamp": "00:53:03.870",
+      "end_timestamp": "00:53:12.630",
+      "text": "Et comme il n'y a plus la contrainte de l'État-loi, eh bien il va falloir que le gouvernement... Enfin que l'État – pour parler plus précisément juridiquement –"
+    },
+    {
+      "id": 412,
+      "start": 3192.63,
+      "end": 3200.99,
+      "start_timestamp": "00:53:12.630",
+      "end_timestamp": "00:53:20.990",
+      "text": "que l'État fasse comme un particulier, c'est-à-dire qu'il s'endette sur les marchés financiers. Voilà. Et donc en payant des intérêts,"
+    },
+    {
+      "id": 413,
+      "start": 3200.99,
+      "end": 3206.79,
+      "start_timestamp": "00:53:20.990",
+      "end_timestamp": "00:53:26.790",
+      "text": "ça va lui coûter de l'argent. Donc du coup, eh ben il va être sage. Et donc il ne va pas s'endetter à butame éternelle."
+    },
+    {
+      "id": 414,
+      "start": 3206.79,
+      "end": 3213.71,
+      "start_timestamp": "00:53:26.790",
+      "end_timestamp": "00:53:33.710",
+      "text": "Donc on aura ainsi une sagesse qui sera imposée par la réalité. C'était comme ça que ça a été présenté."
+    },
+    {
+      "id": 415,
+      "start": 3213.71,
+      "end": 3221.83,
+      "start_timestamp": "00:53:33.710",
+      "end_timestamp": "00:53:41.830",
+      "text": "Mais avec cette loi, l'État français s'est donc volontairement privé du droit régalien de créer de la monnaie gratuitement."
+    },
+    {
+      "id": 416,
+      "start": 3221.83,
+      "end": 3229.87,
+      "start_timestamp": "00:53:41.830",
+      "end_timestamp": "00:53:49.870",
+      "text": "Et du coup, les banques privées et les marchés financiers en ont profité pour s'enrichir aux dépens de l'État."
+    },
+    {
+      "id": 417,
+      "start": 3229.87,
+      "end": 3238.79,
+      "start_timestamp": "00:53:49.870",
+      "end_timestamp": "00:53:58.790",
+      "text": "Et ce qui était auparavant prêté gratuitement mais avec un risque d'inflation a désormais été prêté contre l'intérêt sonnant et trébuchant"
+    },
+    {
+      "id": 418,
+      "start": 3238.79,
+      "end": 3247.31,
+      "start_timestamp": "00:53:58.790",
+      "end_timestamp": "00:54:07.310",
+      "text": "avec un risque moindre d'inflation, ce qui d'ailleurs reste à démontrer, puisque certains expliquent qu'en fait, l'inflation n'a pas spécialement diminué."
+    },
+    {
+      "id": 419,
+      "start": 3247.31,
+      "end": 3255.91,
+      "start_timestamp": "00:54:07.310",
+      "end_timestamp": "00:54:15.910",
+      "text": "Je pense quand même qu'on peut dire que là, elle a un peu régressé. Mais c'est vrai qu'on a quand même connu ensuite des périodes d'inflation."
+    },
+    {
+      "id": 420,
+      "start": 3255.91,
+      "end": 3264.43,
+      "start_timestamp": "00:54:15.910",
+      "end_timestamp": "00:54:24.430",
+      "text": "En tout cas, cette décision, c'est une décision d'une importance historique très considérable, puisque c'était depuis toute éternité que le souverain,"
+    },
+    {
+      "id": 421,
+      "start": 3264.43,
+      "end": 3273.23,
+      "start_timestamp": "00:54:24.430",
+      "end_timestamp": "00:54:33.230",
+      "text": "c'est-à-dire soit le peuple depuis 1789, soit le monarque avant 1789 et la reconnaissance de la souveraineté nationale,"
+    },
+    {
+      "id": 422,
+      "start": 3273.23,
+      "end": 3284.35,
+      "start_timestamp": "00:54:33.230",
+      "end_timestamp": "00:54:44.350",
+      "text": "c'était le souverain qui avait le privilège d'émissions monétaires. Dans la divine comédie, le grand poète Florentin d'Antaliguel,"
+    },
+    {
+      "id": 423,
+      "start": 3284.35,
+      "end": 3290.59,
+      "start_timestamp": "00:54:44.350",
+      "end_timestamp": "00:54:50.590",
+      "text": "qui vit au début du XIIIe siècle... Vous savez, c'est un grand poème, un des grandes œuvres littéraires de l'Europe occidentale."
+    },
+    {
+      "id": 424,
+      "start": 3290.59,
+      "end": 3301.51,
+      "start_timestamp": "00:54:50.590",
+      "end_timestamp": "00:55:01.510",
+      "text": "Dans ce document, dans ce texte, Dante place le roi de France en enfer. L'argument du poème, c'est qu'on se promène entre l'enfer,"
+    },
+    {
+      "id": 425,
+      "start": 3301.51,
+      "end": 3307.27,
+      "start_timestamp": "00:55:01.510",
+      "end_timestamp": "00:55:07.270",
+      "text": "le paradis et le purgatoire. Et en enfer, on découvre le roi de France, le très chrétien, c'est-à-dire Philippe le Bel."
+    },
+    {
+      "id": 426,
+      "start": 3307.27,
+      "end": 3312.43,
+      "start_timestamp": "00:55:07.270",
+      "end_timestamp": "00:55:12.430",
+      "text": "Et pourquoi est-ce que Dante le place en enfer ? Parce que justement, il fait de la dépréciation monétaire."
+    },
+    {
+      "id": 427,
+      "start": 3312.43,
+      "end": 3317.47,
+      "start_timestamp": "00:55:12.430",
+      "end_timestamp": "00:55:17.470",
+      "text": "C'est-à-dire qu'à l'époque, les pièces en argent ou en or étaient reniées. C'est d'ailleurs la raison pour laquelle, si vous êtes numispa,"
+    },
+    {
+      "id": 428,
+      "start": 3317.47,
+      "end": 3325.99,
+      "start_timestamp": "00:55:17.470",
+      "end_timestamp": "00:55:25.990",
+      "text": "c'est très difficile de trouver des pièces en or de l'époque médiévale, roi française ou d'autres pays qui sont en parfait état."
+    },
+    {
+      "id": 429,
+      "start": 3325.99,
+      "end": 3334.27,
+      "start_timestamp": "00:55:25.990",
+      "end_timestamp": "00:55:34.270",
+      "text": "Elles sont pratiquement toutes un peu reniées, parce qu'on grattait de l'or. On récupérait 0,1 g. Et si vous faites ça,"
+    },
+    {
+      "id": 430,
+      "start": 3334.27,
+      "end": 3342.55,
+      "start_timestamp": "00:55:34.270",
+      "end_timestamp": "00:55:42.550",
+      "text": "eh bien sur 40 pièces, vous refaites une pièce de 4 g. Vous refaites une pièce presque à l'identique. Mais elle est, comme on dit alors,"
+    },
+    {
+      "id": 431,
+      "start": 3342.55,
+      "end": 3348.03,
+      "start_timestamp": "00:55:42.550",
+      "end_timestamp": "00:55:48.030",
+      "text": "de mauvaise aloi. C'est-à-dire qu'elle n'a pas le même aloi que la pièce d'origine. Et comme vous l'avez compris,"
+    },
+    {
+      "id": 432,
+      "start": 3348.03,
+      "end": 3359.19,
+      "start_timestamp": "00:55:48.030",
+      "end_timestamp": "00:55:59.190",
+      "text": "avec 40 pièces, vous en faites une nouvelle. Ça représente une dépréciation monétaire de 2,5%. Alors ce système a été rendu obligatoire"
+    },
+    {
+      "id": 433,
+      "start": 3359.19,
+      "end": 3364.63,
+      "start_timestamp": "00:55:59.190",
+      "end_timestamp": "00:56:04.630",
+      "text": "dans toute l'UE par les traités européens, notamment par l'article 123, qui interdit à la Banque centrale européenne"
+    },
+    {
+      "id": 434,
+      "start": 3364.63,
+      "end": 3375.51,
+      "start_timestamp": "00:56:04.630",
+      "end_timestamp": "00:56:15.510",
+      "text": "ou Banque centrale des États membres de monétiser les déficits publics. Alors de ceci a découlé quelque chose qui est béant."
+    },
+    {
+      "id": 435,
+      "start": 3375.51,
+      "end": 3383.59,
+      "start_timestamp": "00:56:15.510",
+      "end_timestamp": "00:56:23.590",
+      "text": "C'est un problème béant devant l'ensemble des peuples. C'est le fait que nous avons une espèce de cancer financier"
+    },
+    {
+      "id": 436,
+      "start": 3383.59,
+      "end": 3393.31,
+      "start_timestamp": "00:56:23.590",
+      "end_timestamp": "00:56:33.310",
+      "text": "qui ne cesse de se développer dans tous les pays de l'Occident, qui est que la dette publique ne fait que croître"
+    },
+    {
+      "id": 437,
+      "start": 3393.31,
+      "end": 3401.39,
+      "start_timestamp": "00:56:33.310",
+      "end_timestamp": "00:56:41.390",
+      "text": "de façon irrésistible. Je rappelle que Nicolas Sarkozy avait été élu d'ailleurs pour faire diminuer la dette."
+    },
+    {
+      "id": 438,
+      "start": 3401.39,
+      "end": 3408.31,
+      "start_timestamp": "00:56:41.390",
+      "end_timestamp": "00:56:48.310",
+      "text": "Et en réalité, non seulement il ne l'a pas fait diminuer, il l'a fait exploser. Et pour bien comprendre... Alors il l'a fait exploser"
+    },
+    {
+      "id": 439,
+      "start": 3408.31,
+      "end": 3413.95,
+      "start_timestamp": "00:56:48.310",
+      "end_timestamp": "00:56:53.950",
+      "text": "pour des raisons puisqu'il y a eu la crise financière. Mais prétendument, au lieu de laisser les banques faire faillite,"
+    },
+    {
+      "id": 440,
+      "start": 3413.95,
+      "end": 3421.27,
+      "start_timestamp": "00:56:53.950",
+      "end_timestamp": "00:57:01.270",
+      "text": "eh bien on est allé les sauver. Et ceci a débouché sur des déficits budgétaires absolument faramineux de la France."
+    },
+    {
+      "id": 441,
+      "start": 3421.27,
+      "end": 3429.27,
+      "start_timestamp": "00:57:01.270",
+      "end_timestamp": "00:57:09.270",
+      "text": "On aimantait jusqu'à 8,5% du PIB. Et donc puisqu'on ne crée pas de monnaie, il a fallu financer ça – par rappel – sur les marchés financiers,"
+    },
+    {
+      "id": 442,
+      "start": 3429.27,
+      "end": 3437.47,
+      "start_timestamp": "00:57:09.270",
+      "end_timestamp": "00:57:17.470",
+      "text": "ce qui a fait augmenter la dette publique d'autant. Pour que vous ayez une notion de l'impasse budgétaire dans laquelle nous fonçons à toute allure,"
+    },
+    {
+      "id": 443,
+      "start": 3437.47,
+      "end": 3444.07,
+      "start_timestamp": "00:57:17.470",
+      "end_timestamp": "00:57:24.070",
+      "text": "qui ne peut se terminer que par un gigantesque feu d'artifice en France comme ailleurs, mais en France en particulier,"
+    },
+    {
+      "id": 444,
+      "start": 3444.07,
+      "end": 3451.99,
+      "start_timestamp": "00:57:24.070",
+      "end_timestamp": "00:57:31.990",
+      "text": "je voudrais vous parler de ce qu'on appelle la RGPP. Ce sont les économies réalisées par la révision générale des politiques publiques"
+    },
+    {
+      "id": 445,
+      "start": 3451.99,
+      "end": 3463.23,
+      "start_timestamp": "00:57:31.990",
+      "end_timestamp": "00:57:43.230",
+      "text": "lancées par M. Sarkozy. M. Sarkozy, président de la République, enfourchant le dada des médias dont on sait par qui ils sont tenus..."
+    },
+    {
+      "id": 446,
+      "start": 3463.23,
+      "end": 3472.15,
+      "start_timestamp": "00:57:43.230",
+      "end_timestamp": "00:57:52.150",
+      "text": "Enfin j'en parlerai tout à l'heure. C'est-à-dire par toute l'oligarchie euro-atlantiste. Eh bien M. Sarkozy est parti en guerre contre l'État."
+    },
+    {
+      "id": 447,
+      "start": 3472.15,
+      "end": 3480.15,
+      "start_timestamp": "00:57:52.150",
+      "end_timestamp": "00:58:00.150",
+      "text": "Vous savez qu'on ne cesse de dire aux Français que l'État dépense trop, que les fonctionnaires vivent de façon sardana-palesque,"
+    },
+    {
+      "id": 448,
+      "start": 3480.15,
+      "end": 3486.75,
+      "start_timestamp": "00:58:00.150",
+      "end_timestamp": "00:58:06.750",
+      "text": "comme dans les mille et une nuits. Et donc on s'est lancé dans une grande procédure au ministère par ministère."
+    },
+    {
+      "id": 449,
+      "start": 3486.75,
+      "end": 3495.55,
+      "start_timestamp": "00:58:06.750",
+      "end_timestamp": "00:58:15.550",
+      "text": "On a dit qu'il faut tout ratiboiser. Alors c'est comme ça qu'il a été décidé qu'un fonctionnaire sur deux partant à la retraite"
+    },
+    {
+      "id": 450,
+      "start": 3495.55,
+      "end": 3506.19,
+      "start_timestamp": "00:58:15.550",
+      "end_timestamp": "00:58:26.190",
+      "text": "ne serait pas remplacé, qu'il a été décidé de fermer des plateformes hospitalières pour centraliser – comment dirais-je – des hôpitaux"
+    },
+    {
+      "id": 451,
+      "start": 3506.19,
+      "end": 3511.83,
+      "start_timestamp": "00:58:26.190",
+      "end_timestamp": "00:58:31.830",
+      "text": "à des niveaux régionaux, ce qui pose d'ailleurs des problèmes de transfert, ce qui pose des problèmes d'investissement par ailleurs."
+    },
+    {
+      "id": 452,
+      "start": 3511.83,
+      "end": 3522.31,
+      "start_timestamp": "00:58:31.830",
+      "end_timestamp": "00:58:42.310",
+      "text": "Il a été décidé de fermer des écoles, des commissariats de police, de fermer des casaines de sapeurs-pompiers, etc., etc., pour faire des économies."
+    },
+    {
+      "id": 453,
+      "start": 3522.31,
+      "end": 3528.75,
+      "start_timestamp": "00:58:42.310",
+      "end_timestamp": "00:58:48.750",
+      "text": "Et puis de moins en moins de gens partout. Dans les préfectures... Par exemple, j'ai vu visiter une préfecture de région il n'y a pas très longtemps."
+    },
+    {
+      "id": 454,
+      "start": 3528.75,
+      "end": 3537.99,
+      "start_timestamp": "00:58:48.750",
+      "end_timestamp": "00:58:57.990",
+      "text": "Le préfet me montrait l'état de déchéance de l'État. Parce que c'était une très très belle préfecture du XVIIIe siècle,"
+    },
+    {
+      "id": 455,
+      "start": 3537.99,
+      "end": 3545.19,
+      "start_timestamp": "00:58:57.990",
+      "end_timestamp": "00:59:05.190",
+      "text": "dans un ancien palais épiscopal. Et j'étais au mois de février. Il y avait des décorations de Noël pour passer entre les salons,"
+    },
+    {
+      "id": 456,
+      "start": 3545.19,
+      "end": 3552.39,
+      "start_timestamp": "00:59:05.190",
+      "end_timestamp": "00:59:12.390",
+      "text": "les salons avec les grands boiseries de Louis XV. Ça, c'est tout la parade de l'État. Bon. Et comme le préfet était très sympathique"
+    },
+    {
+      "id": 457,
+      "start": 3552.39,
+      "end": 3557.73,
+      "start_timestamp": "00:59:12.390",
+      "end_timestamp": "00:59:17.730",
+      "text": "et que j'étais assez à l'aise avec lui, je me suis permis... Bien, M. le préfet, vous fêtez Noël assez tardivement."
+    },
+    {
+      "id": 458,
+      "start": 3557.73,
+      "end": 3565.15,
+      "start_timestamp": "00:59:17.730",
+      "end_timestamp": "00:59:25.150",
+      "text": "On disait le 15 février. C'est peut-être un peu narquois, de ma part. Et il m'a dit... Mais savez-vous pourquoi nous faisons cela ?"
+    },
+    {
+      "id": 459,
+      "start": 3565.15,
+      "end": 3573.85,
+      "start_timestamp": "00:59:25.150",
+      "end_timestamp": "00:59:33.850",
+      "text": "Non. Et il m'a montré que derrière les décorations de Noël qui avaient été laissées, puis les branches de sapin,"
+    },
+    {
+      "id": 460,
+      "start": 3573.85,
+      "end": 3582.47,
+      "start_timestamp": "00:59:33.850",
+      "end_timestamp": "00:59:42.470",
+      "text": "eh bien en fait, il y avait des états qui soutenaient le mur, parce que le mur s'effondrait. C'est-à-dire que les préfectures sont en train de..."
+    },
+    {
+      "id": 461,
+      "start": 3582.47,
+      "end": 3588.43,
+      "start_timestamp": "00:59:42.470",
+      "end_timestamp": "00:59:48.430",
+      "text": "On se croirait dans une pièce de Yodesco. Les préfectures sont au sens étymologique en train de s'effondrer."
+    },
+    {
+      "id": 462,
+      "start": 3588.43,
+      "end": 3594.07,
+      "start_timestamp": "00:59:48.430",
+      "end_timestamp": "00:59:54.070",
+      "text": "Il n'y a plus de frais de fonctionnement nulle part. En revanche, les collectivités locales, elles, se servent goulûment, puisque ça,"
+    },
+    {
+      "id": 463,
+      "start": 3594.07,
+      "end": 3601.11,
+      "start_timestamp": "00:59:54.070",
+      "end_timestamp": "01:00:01.110",
+      "text": "c'est paradis. C'est formidable. C'est la décentralisation. Alors je reviens à mon propos. Sinon, je vais faire une conférence fleuve."
+    },
+    {
+      "id": 464,
+      "start": 3601.11,
+      "end": 3607.59,
+      "start_timestamp": "01:00:01.110",
+      "end_timestamp": "01:00:07.590",
+      "text": "Les économies réalisées par la RGPP, le non-remplacement d'un fonctionnaire sur deux, la rationalisation des administrations,"
+    },
+    {
+      "id": 465,
+      "start": 3607.59,
+      "end": 3616.47,
+      "start_timestamp": "01:00:07.590",
+      "end_timestamp": "01:00:16.470",
+      "text": "la fermeture des services publics, les hôpitaux, les écoles, les commissariats, etc., les économies qui ont été réalisées de 2008 à 2011 sur 4 ans"
+    },
+    {
+      "id": 466,
+      "start": 3616.47,
+      "end": 3626.07,
+      "start_timestamp": "01:00:16.470",
+      "end_timestamp": "01:00:26.070",
+      "text": "ont été très exactement de 11,9 milliards d'euros. Et à 2012, on peut mettre à peu près de l'ordre de 15 milliards d'euros."
+    },
+    {
+      "id": 467,
+      "start": 3626.07,
+      "end": 3635.39,
+      "start_timestamp": "01:00:26.070",
+      "end_timestamp": "01:00:35.390",
+      "text": "C'est-à-dire qu'on peut compter que ça a rapporté 3 milliards d'euros d'économies chaque année. En cumulé, l'économie totale depuis qu'a été lancée"
+    },
+    {
+      "id": 468,
+      "start": 3635.39,
+      "end": 3646.67,
+      "start_timestamp": "01:00:35.390",
+      "end_timestamp": "01:00:46.670",
+      "text": "cette politique, c'est 15 milliards d'euros. Mais ce qu'il faut savoir, c'est que la dette publique au même moment a augmenté de 600 milliards d'euros."
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "schema_version": "1.1",
+  "video_id": "Nsoz9uOvup0",
+  "resume_general": "Deuxième partie d'une conférence de François Asselineau contestant le caractère démocratique de l'Union européenne. L'orateur dénonce la présélection médiatique des candidats, les gouvernements technocratiques de 2011, propose un récit polémique des origines autour de Walter Hallstein, critique l'abandon du référendum grec, plusieurs violations alléguées du droit, la propagande favorable à l'UE, le bilan de l'euro et l'extension de la surveillance et du mandat d'arrêt européen.",
+  "themes_principaux": [
+    {
+      "theme": "Présélection médiatique",
+      "description": "Le temps d'antenne est présenté comme déterminant la hiérarchie électorale.",
+      "reperes": [
+        "00:00:10-00:10:05"
+      ]
+    },
+    {
+      "theme": "Gouvernements technocratiques",
+      "description": "Monti et Papademos sont décrits comme nommés sous pression financière sans mandat populaire.",
+      "reperes": [
+        "00:10:05-00:18:16"
+      ]
+    },
+    {
+      "theme": "Origines historiques contestées",
+      "description": "Walter Hallstein et la propagande de la nouvelle Europe servent à construire une continuité polémique.",
+      "reperes": [
+        "00:18:16-00:28:43"
+      ]
+    },
+    {
+      "theme": "Démocratie et droit",
+      "description": "Référendum grec, parlements, droit international, clause de non-renflouement et arrêt de Karlsruhe.",
+      "reperes": [
+        "00:28:43-00:51:53"
+      ]
+    },
+    {
+      "theme": "Propagande et euro",
+      "description": "Critique des médias, des omissions et des prédictions catastrophistes sur une sortie.",
+      "reperes": [
+        "00:51:53-01:05:26"
+      ]
+    },
+    {
+      "theme": "Libertés publiques",
+      "description": "Antiterrorisme, conservation des données, INDECT, vidéosurveillance et mandat d'arrêt européen.",
+      "reperes": [
+        "01:05:26-01:16:54"
+      ]
+    }
+  ],
+  "sujets_secondaires": [
+    "CSA",
+    "élection présidentielle 2012",
+    "Goldman Sachs",
+    "lettre Trichet-Draghi",
+    "Berlusconi",
+    "Papandréou",
+    "Mario Monti",
+    "Lucas Papademos",
+    "Mouvement européen",
+    "crise de la chaise vide",
+    "Front national",
+    "Mouvement 5 étoiles",
+    "guerre d'Irak",
+    "prisons secrètes de la CIA",
+    "FESF",
+    "MES",
+    "TARGET2",
+    "note Natixis",
+    "Vigipirate",
+    "INDECT",
+    "mandat d'arrêt européen"
+  ],
+  "mots_cles": [
+    "Union européenne",
+    "euro",
+    "démocratie",
+    "médias",
+    "technocratie",
+    "Walter Hallstein",
+    "Goldman Sachs",
+    "référendum grec",
+    "article 50 TUE",
+    "article 125 TFUE",
+    "Karlsruhe",
+    "propagande",
+    "TARGET2",
+    "surveillance",
+    "INDECT",
+    "mandat d'arrêt européen"
+  ],
+  "variantes_lexicales": {
+    "Union européenne": [
+      "UE",
+      "construction européenne",
+      "Europe"
+    ],
+    "sortie de l'Union européenne": [
+      "article 50",
+      "retrait",
+      "sortie de l'UE"
+    ],
+    "technocratie": [
+      "gouverneurs",
+      "dictateurs sans élection",
+      "gouvernements techniques"
+    ],
+    "propagande": [
+      "présélection médiatique",
+      "musellement des médias",
+      "silence médiatique"
+    ],
+    "surveillance": [
+      "INDECT",
+      "Vigipirate",
+      "logs",
+      "caméras de surveillance"
+    ]
+  },
+  "personnes": [
+    {
+      "nom": "François Asselineau",
+      "role": "conférencier",
+      "reperes": [
+        "00:00:10-01:16:54"
+      ]
+    },
+    {
+      "nom": "François Hollande",
+      "role": "candidat puis président cité",
+      "reperes": [
+        "00:00:45-00:02:22",
+        "00:58:49-00:59:21"
+      ]
+    },
+    {
+      "nom": "Jean-Claude Trichet",
+      "role": "ancien président de la BCE cité",
+      "reperes": [
+        "00:11:14-00:14:01"
+      ]
+    },
+    {
+      "nom": "Mario Draghi",
+      "role": "président de la BCE cité",
+      "reperes": [
+        "00:11:14-00:16:28"
+      ]
+    },
+    {
+      "nom": "Silvio Berlusconi",
+      "role": "chef de gouvernement italien évincé selon l'orateur",
+      "reperes": [
+        "00:10:36-00:14:11"
+      ]
+    },
+    {
+      "nom": "Mario Monti",
+      "role": "président du Conseil italien cité",
+      "reperes": [
+        "00:16:28-00:18:16",
+        "00:31:46-00:33:40"
+      ]
+    },
+    {
+      "nom": "Lucas Papademos",
+      "role": "Premier ministre grec cité",
+      "reperes": [
+        "00:15:28-00:16:28",
+        "00:31:16-00:31:46"
+      ]
+    },
+    {
+      "nom": "Walter Hallstein",
+      "role": "juriste allemand et premier président de la Commission, objet d'un récit polémique",
+      "reperes": [
+        "00:18:16-00:28:43"
+      ]
+    },
+    {
+      "nom": "Michel Rocard",
+      "role": "ancien Premier ministre cité sur les risques d'éclatement de l'euro",
+      "reperes": [
+        "00:59:21-01:02:47"
+      ]
+    },
+    {
+      "nom": "Patrick Artus",
+      "role": "économiste auteur d'une note Natixis citée",
+      "reperes": [
+        "01:01:09-01:02:47"
+      ]
+    }
+  ],
+  "organismes": [
+    {
+      "nom": "Union populaire républicaine",
+      "type": "parti politique",
+      "reperes": [
+        "00:07:49-00:08:20",
+        "00:38:34-00:39:21"
+      ]
+    },
+    {
+      "nom": "Banque centrale européenne",
+      "type": "institution monétaire",
+      "reperes": [
+        "00:11:14-00:16:37"
+      ]
+    },
+    {
+      "nom": "Goldman Sachs",
+      "type": "banque d'investissement",
+      "reperes": [
+        "00:14:11-00:16:37"
+      ]
+    },
+    {
+      "nom": "Commission européenne",
+      "type": "institution de l'UE",
+      "reperes": [
+        "00:26:24-00:28:07",
+        "00:40:08-00:40:51",
+        "01:10:46-01:12:56"
+      ]
+    },
+    {
+      "nom": "Tribunal constitutionnel fédéral allemand",
+      "type": "juridiction constitutionnelle",
+      "reperes": [
+        "00:46:24-00:51:53"
+      ]
+    },
+    {
+      "nom": "Parlement européen",
+      "type": "institution de l'UE",
+      "reperes": [
+        "00:51:53-00:53:44"
+      ]
+    },
+    {
+      "nom": "Natixis",
+      "type": "établissement financier",
+      "reperes": [
+        "01:00:49-01:02:47"
+      ]
+    },
+    {
+      "nom": "Europol",
+      "type": "agence citée comme source statistique",
+      "reperes": [
+        "01:08:18-01:09:14"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "prophétie autoréalisatrice",
+      "definition_contextuelle": "faible visibilité entraînant un faible score qui justifie ensuite la faible visibilité",
+      "reperes": [
+        "00:05:21-00:09:25"
+      ]
+    },
+    {
+      "nom": "déficit démocratique",
+      "definition_contextuelle": "décalage entre compétences supranationales et légitimation politique",
+      "reperes": [
+        "00:49:07-00:51:15"
+      ]
+    },
+    {
+      "nom": "no bail-out",
+      "definition_contextuelle": "interdiction alléguée du renflouement d'un État par d'autres États",
+      "reperes": [
+        "00:43:03-00:44:47"
+      ]
+    },
+    {
+      "nom": "dogmatisme européiste",
+      "definition_contextuelle": "refus de réviser le projet malgré les résultats économiques défavorables",
+      "reperes": [
+        "00:55:59-00:57:54"
+      ]
+    },
+    {
+      "nom": "mesure d'exception permanente",
+      "definition_contextuelle": "intégration durable de dispositifs antiterroristes dans le droit commun",
+      "reperes": [
+        "01:05:26-01:10:32"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "Élection présidentielle française",
+      "date_ou_periode": "2012",
+      "reperes": [
+        "00:00:10-00:10:05"
+      ]
+    },
+    {
+      "nom": "Lettre Trichet-Draghi à Berlusconi",
+      "date_ou_periode": "août 2011",
+      "reperes": [
+        "00:11:14-00:13:28"
+      ]
+    },
+    {
+      "nom": "Référendum grec annoncé puis abandonné",
+      "date_ou_periode": "novembre 2011",
+      "reperes": [
+        "00:29:15-00:31:46"
+      ]
+    },
+    {
+      "nom": "Article 50 du TUE",
+      "date_ou_periode": "traité sur l'Union européenne",
+      "reperes": [
+        "00:34:05-00:34:22",
+        "00:46:05-00:46:24"
+      ]
+    },
+    {
+      "nom": "Article 125 du TFUE",
+      "date_ou_periode": "clause de non-renflouement",
+      "reperes": [
+        "00:43:03-00:44:47"
+      ]
+    },
+    {
+      "nom": "Arrêt Lisbonne de Karlsruhe",
+      "date_ou_periode": "30 juin 2009",
+      "reperes": [
+        "00:46:24-00:51:53"
+      ]
+    },
+    {
+      "nom": "Décision-cadre sur le mandat d'arrêt européen",
+      "date_ou_periode": "11 juin 2002, transposition française en 2004",
+      "reperes": [
+        "01:12:56-01:16:54"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:10",
+      "fin": "00:10:05",
+      "description": "présélection médiatique"
+    },
+    {
+      "debut": "00:10:05",
+      "fin": "00:18:16",
+      "description": "gouvernements Monti et Papademos"
+    },
+    {
+      "debut": "00:18:16",
+      "fin": "00:28:43",
+      "description": "Walter Hallstein et origines alléguées"
+    },
+    {
+      "debut": "00:28:43",
+      "fin": "00:38:33",
+      "description": "référendum grec et opposition politique"
+    },
+    {
+      "debut": "00:38:34",
+      "fin": "00:51:53",
+      "description": "violations alléguées du droit"
+    },
+    {
+      "debut": "00:51:53",
+      "fin": "01:05:26",
+      "description": "propagande et euro"
+    },
+    {
+      "debut": "01:05:26",
+      "fin": "01:16:54",
+      "description": "surveillance et mandat d'arrêt"
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "prophétie autoréalisatrice",
+      "reperes": [
+        "00:05:34-00:05:50"
+      ]
+    },
+    {
+      "expression": "la démocratie doit être maintenue au-dessus des appétits des marchés",
+      "reperes": [
+        "00:30:13-00:30:46"
+      ]
+    },
+    {
+      "expression": "la barbarie commence là où finit le droit",
+      "reperes": [
+        "00:38:34-00:38:47"
+      ]
+    },
+    {
+      "expression": "toujours plus de propagande, toujours moins de liberté",
+      "reperes": [
+        "00:51:53-00:52:04"
+      ]
+    }
+  ],
+  "citations_exactes": [
+    {
+      "citation": "Il y a une corrélation presque parfaite entre le nombre d'heures consacrées à un candidat et le nombre de voix qu'il recueille dans les urnes.",
+      "reperes": [
+        "00:08:20-00:08:53"
+      ]
+    },
+    {
+      "citation": "La démocratie doit être maintenue au-dessus des appétits des marchés.",
+      "reperes": [
+        "00:30:13-00:30:46"
+      ]
+    },
+    {
+      "citation": "La seule possibilité juridique de sortir de l'euro, c'est de sortir de l'Union européenne par l'article 50.",
+      "reperes": [
+        "00:46:05-00:46:15"
+      ]
+    },
+    {
+      "citation": "Les faits ont toujours raison.",
+      "reperes": [
+        "00:56:45-00:57:03"
+      ]
+    }
+  ],
+  "arguments_positions": [
+    {
+      "position": "défendue",
+      "these": "L'inégalité médiatique présélectionne les gouvernants.",
+      "raisonnement": "Le classement des temps d'antenne serait proche du classement électoral.",
+      "reperes": [
+        "00:00:10-00:10:05"
+      ]
+    },
+    {
+      "position": "défendue",
+      "these": "L'UE permet des changements de gouvernement sans choix populaire.",
+      "raisonnement": "Les cas Monti et Papademos sont reliés à la BCE et à Goldman Sachs.",
+      "reperes": [
+        "00:10:05-00:18:16"
+      ]
+    },
+    {
+      "position": "défendue et historiquement controversée",
+      "these": "La construction européenne prolonge des conceptions antidémocratiques antérieures.",
+      "raisonnement": "L'orateur met en continuité Hallstein, la nouvelle Europe nazie et la Commission d'après-guerre.",
+      "reperes": [
+        "00:18:16-00:28:43"
+      ]
+    },
+    {
+      "position": "défendue",
+      "these": "Les mécanismes de sauvetage de l'euro violent le droit et la responsabilité démocratique.",
+      "raisonnement": "FESF et MES sont confrontés à l'article 125 et au consentement fiscal national.",
+      "reperes": [
+        "00:43:03-00:44:47"
+      ]
+    },
+    {
+      "position": "défendue",
+      "these": "Sortir de l'euro seul n'est pas juridiquement prévu.",
+      "raisonnement": "L'orateur présente l'article 50 et la sortie de l'UE comme seule voie conventionnelle.",
+      "reperes": [
+        "00:44:47-00:46:24"
+      ]
+    },
+    {
+      "position": "citée puis contestée",
+      "these": "L'éclatement de l'euro entraînerait partout des dévaluations de 20 à 50 %.",
+      "raisonnement": "Une note Natixis est citée avec des ajustements nationaux très différenciés.",
+      "reperes": [
+        "00:59:21-01:02:47"
+      ]
+    },
+    {
+      "position": "défendue",
+      "these": "Rester dans l'euro comporte une catastrophe observable.",
+      "raisonnement": "Récession, chômage et révisions répétées des prévisions sont opposés au seul risque de sortie.",
+      "reperes": [
+        "01:02:47-01:05:26"
+      ]
+    },
+    {
+      "position": "défendue",
+      "these": "L'antiterrorisme européen érode durablement les libertés.",
+      "raisonnement": "Vigipirate, rétention des données, INDECT, caméras et mandat d'arrêt sont présentés comme un continuum.",
+      "reperes": [
+        "01:05:26-01:16:54"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "lieu": "Bruxelles, Belgique",
+      "periode": "juin 2013",
+      "contexte": "conférence"
+    },
+    {
+      "lieu": "France",
+      "periode": "2012-2013",
+      "contexte": "médias, élection et surveillance"
+    },
+    {
+      "lieu": "Italie et Grèce",
+      "periode": "2011-2013",
+      "contexte": "crise de l'euro et gouvernements technocratiques"
+    },
+    {
+      "lieu": "Allemagne",
+      "periode": "1935-2009",
+      "contexte": "Hallstein et arrêt constitutionnel"
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "type": "partie_de_serie",
+      "cible": "La construction européenne est-elle encore démocratique ?",
+      "precision": "épisode 2/4"
+    },
+    {
+      "type": "suite_annoncee",
+      "cible": "i9NtPPODV4A",
+      "precision": "épisode 3/4"
+    },
+    {
+      "type": "renvoi_interne",
+      "cible": "La tragédie de l'euro",
+      "precision": "conférence annoncée pour le lendemain"
+    },
+    {
+      "type": "renvoi_interne",
+      "cible": "Mais où est passée la République française ?",
+      "precision": "conférence citée sur la Constitution"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.1",
+  "video_id": "Ch5Bfe5j29A",
+  "resume_general": "Premier volet d'une conférence de François Asselineau plaidant pour la sortie de l'Union européenne. Il développe la raison n°1, selon laquelle la mise en commun des politiques de nombreux États rendrait les alternances nationales inefficaces, puis commence la raison n°2 sur la dette publique, la Banque de France, la loi de 1973 et l'article 123 du TFUE.",
+  "themes_principaux": [
+    {"theme": "Démocratie et souveraineté électorale", "horodatages": ["00:02:16", "00:46:48"], "position": "développé"},
+    {"theme": "Incohérence politique d'une union de 27 États", "horodatages": ["00:05:02", "00:17:56"], "position": "développé"},
+    {"theme": "Abstention et référendums européens", "horodatages": ["00:19:36", "00:46:40"], "position": "développé"},
+    {"theme": "Dette publique et financement monétaire", "horodatages": ["00:48:02", "01:00:46"], "position": "développé"}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Modèle probabiliste gauche-droite 0,5 puissance n-1", "horodatages": ["00:05:41", "00:13:10"]},
+    {"sujet": "Intérêts nationaux divergents au sein d'une même famille politique", "horodatages": ["00:11:47", "00:12:28"]},
+    {"sujet": "Stratégie d'une autre Europe et écologie européenne", "horodatages": ["00:27:23", "00:33:16"]},
+    {"sujet": "Citation attribuée à Tommaso Padoa-Schioppa sur la dépolitisation", "horodatages": ["00:33:16", "00:36:22"]},
+    {"sujet": "Référendums de 1972, 1992, 2005 et référendum de 1969", "horodatages": ["00:38:14", "00:46:40"]},
+    {"sujet": "Loi du 3 janvier 1973 et contexte de Bretton Woods", "horodatages": ["00:48:13", "00:54:15"]},
+    {"sujet": "RGPP et comparaison entre économies administratives et hausse de dette", "horodatages": ["00:57:24", "01:00:46"]}
+  ],
+  "mots_cles": ["Union européenne", "démocratie", "souveraineté", "abstention", "alternance", "référendum", "Maastricht", "Constitution européenne", "Banque de France", "dette publique", "création monétaire", "inflation", "marchés financiers", "article 123 TFUE", "RGPP"],
+  "variantes_lexicales": [
+    {"forme": "UE", "equivalent": "Union européenne"},
+    {"forme": "TFUE", "equivalent": "traité sur le fonctionnement de l'Union européenne"},
+    {"forme": "monétisation du déficit", "equivalent": "financement public par création monétaire"},
+    {"forme": "loi Pompidou-Giscard / loi Rothschild", "equivalent": "appellations polémiques de la loi du 3 janvier 1973"},
+    {"forme": "autre Europe", "equivalent": "réorientation politique de l'Union européenne"}
+  ],
+  "personnes": [
+    {"nom": "François Asselineau", "niveau": "developpe", "role": "conférencier et président de l'UPR", "horodatages": ["00:00:12", "01:00:46"]},
+    {"nom": "Tommaso Padoa-Schioppa", "niveau": "developpe", "role": "auteur d'une déclaration citée sur la construction européenne", "horodatages": ["00:33:16", "00:36:22"]},
+    {"nom": "Pierre Mendès France", "niveau": "mention", "role": "responsable socialiste et texte cité", "horodatages": ["00:26:15"]},
+    {"nom": "Charles de Gaulle", "niveau": "developpe", "role": "contre-exemple institutionnel et référendum de 1969", "horodatages": ["00:05:23", "00:41:27"]},
+    {"nom": "François Mitterrand", "niveau": "mention", "role": "alternance de 1981", "horodatages": ["00:05:23"]},
+    {"nom": "José Bové", "niveau": "developpe", "role": "exemple utilisé dans la critique d'une Europe écologiste", "horodatages": ["00:29:13", "00:31:58"]},
+    {"nom": "Arlette Laguiller", "niveau": "mention", "role": "position lors du référendum de Maastricht, passage partiellement incertain", "horodatages": ["00:26:48", "00:27:16"]},
+    {"nom": "Georges Pompidou", "niveau": "mention", "role": "président lors de la loi bancaire de 1973", "horodatages": ["00:52:06"]},
+    {"nom": "Valéry Giscard d'Estaing", "niveau": "mention", "role": "ministre associé à la loi de 1973", "horodatages": ["00:52:06"]}
+  ],
+  "organismes": [
+    {"nom": "Union populaire républicaine", "niveau": "developpe", "role": "mouvement de l'intervenant"},
+    {"nom": "Union européenne", "niveau": "developpe", "role": "objet principal de la critique"},
+    {"nom": "Banque de France", "niveau": "developpe", "role": "ancien financement direct de l'État", "horodatages": ["00:48:13", "00:55:59"]},
+    {"nom": "Banque centrale européenne", "niveau": "mention", "role": "institution visée par l'article 123", "horodatages": ["00:55:59"]},
+    {"nom": "Notre Europe", "niveau": "developpe", "role": "think tank présidé par Padoa-Schioppa selon l'orateur", "horodatages": ["00:33:41"]},
+    {"nom": "Lutte ouvrière", "niveau": "mention", "role": "position au référendum de 1992", "horodatages": ["00:26:48", "00:27:16"]}
+  ],
+  "concepts": [
+    {"concept": "souveraineté nationale", "definition_contextuelle": "capacité des électeurs à faire appliquer une orientation par leur vote", "horodatages": ["00:02:16", "00:47:15"]},
+    {"concept": "probabilité de cohérence politique", "definition_contextuelle": "modèle simplifié 0,5 puissance n-1 proposé par l'orateur", "horodatages": ["00:05:41", "00:13:10"]},
+    {"concept": "dépolitisation", "definition_contextuelle": "retrait de décisions au contrôle électoral national", "horodatages": ["00:33:16", "00:36:22"]},
+    {"concept": "monétisation du déficit", "definition_contextuelle": "financement du déficit par la banque centrale sans intérêt", "horodatages": ["00:48:13", "00:51:00"]},
+    {"concept": "effet boule de neige de la dette", "definition_contextuelle": "accumulation d'intérêts liée au financement de marché", "horodatages": ["00:53:12", "00:56:33"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Référendum sur l'élargissement du Marché commun", "date": "1972", "niveau": "developpe", "horodatages": ["00:38:14", "00:39:36"]},
+    {"nom": "Référendum sur le traité de Maastricht", "date": "1992", "niveau": "developpe", "horodatages": ["00:39:36", "00:45:15"]},
+    {"nom": "Référendum sur le traité constitutionnel européen", "date": "2005", "niveau": "developpe", "horodatages": ["00:40:19", "00:45:15"]},
+    {"nom": "Loi du 3 janvier 1973 sur la Banque de France", "date": "1973", "niveau": "developpe", "horodatages": ["00:51:56", "00:53:12"]},
+    {"nom": "Article 123 du TFUE", "niveau": "developpe", "horodatages": ["00:55:59", "00:56:23"]},
+    {"nom": "Accords de Bretton Woods et fin de la convertibilité du dollar", "niveau": "developpe", "horodatages": ["00:51:04", "00:51:48"]},
+    {"nom": "Révision générale des politiques publiques", "niveau": "developpe", "horodatages": ["00:57:24", "01:00:46"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:12", "fin": "00:02:16", "description": "Introduction et défiance envers la politique"},
+    {"debut": "00:02:16", "fin": "00:17:56", "description": "Raison n°1 et modèle mathématique"},
+    {"debut": "00:17:56", "fin": "00:27:23", "description": "Abstention et inefficacité du vote"},
+    {"debut": "00:27:23", "fin": "00:37:05", "description": "Critique des projets d'autre Europe et dépolitisation"},
+    {"debut": "00:37:05", "fin": "00:47:15", "description": "Référendums et consentement populaire"},
+    {"debut": "00:48:02", "fin": "01:00:46", "description": "Raison n°2, Banque de France et dette publique"}
+  ],
+  "expressions_representatives": [
+    "rendre leur sens aux élections",
+    "probabilité d'une politique cohérente",
+    "entre l'Europe et la démocratie, il faut choisir",
+    "casser l'accroissement exponentiel de l'endettement public"
+  ],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {"position": "défendue", "argument": "La multiplication des États soumis à une politique commune rend presque impossible une orientation politique homogène.", "horodatages": ["00:05:02", "00:17:56"]},
+    {"position": "défendue", "argument": "L'inefficacité perçue des alternances nourrit l'abstention.", "horodatages": ["00:19:36", "00:24:11"]},
+    {"position": "contestée", "argument": "Les projets d'autre Europe pourraient réorienter les vingt-sept États sans sortie des traités.", "horodatages": ["00:27:23", "00:33:16"]},
+    {"position": "défendue", "argument": "Le consentement aux traités européens est minoritaire lorsqu'il est rapporté à l'ensemble des inscrits.", "horodatages": ["00:44:48", "00:46:40"]},
+    {"position": "nuancée", "argument": "Le financement direct par la banque centrale comporte un risque inflationniste, mais le financement de marché impose des intérêts et alimente la dette.", "horodatages": ["00:48:13", "00:54:15"]},
+    {"position": "défendue", "argument": "L'article 123 du TFUE doit être quitté pour rendre un pouvoir de financement à la Banque de France.", "horodatages": ["00:55:59", "01:00:46"]}
+  ],
+  "lieux_periodes": [
+    {"lieu": "Pontarlier", "periode": "6 avril 2013", "contexte": "lieu et date de la conférence selon la description"},
+    {"lieu": "France et Union européenne", "periode": "1972-2013", "contexte": "référendums, abstention et dette"}
+  ],
+  "relations_documentaires": [
+    {"type": "suite", "video_id": "pPK7_iavHTs", "description": "La raison n°2 sur la dette publique se poursuit dans l'épisode 2/4."},
+    {"type": "serie", "video_ids": ["Ch5Bfe5j29A", "pPK7_iavHTs", "m5chZ6fPI1A", "4ccHnbtXPFM"], "description": "Conférence en quatre parties sur dix raisons de sortir de l'Union européenne."}
+  ]
+}

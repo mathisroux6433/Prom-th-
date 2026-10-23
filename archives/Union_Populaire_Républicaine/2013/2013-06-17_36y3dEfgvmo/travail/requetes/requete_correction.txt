@@ -1,0 +1,478 @@
+Corrige contextuellement la transcription horodatée ci-dessous.
+
+Règles obligatoires : conserve exactement une ligne par segment et exactement les deux horodatages de chaque ligne ; ne résume pas ; ne reformule pas le registre oral ; corrige seulement les erreurs de reconnaissance établies par le contexte (noms propres, institutions, lieux, événements, termes techniques et expressions manifestement mal reconnues). Si une forme reste incertaine, conserve-la et ajoute immédiatement `[incertain]`. Retourne uniquement la transcription complète corrigée.
+
+MÉTADONNÉES :
+{'schema_version': '1.0', 'id': '36y3dEfgvmo', 'title': 'La construction européenne est-elle encore démocratique ? - 1/4', 'channel': 'Union Populaire Républicaine', 'channel_id': 'UC7OMeUFuZMacpPk2fc9UlOA', 'upload_date': '20130617', 'duration_seconds': 4047, 'webpage_url': 'https://www.youtube.com/watch?v=36y3dEfgvmo', 'description': "« La construction européenne est-elle encore démocratique ? » : premier épisode de la conférence de François Asselineau à l'Université Libre de Bruxelles (ULB), le 17 juin 2013.\n\nÉpisode suivant : https://youtu.be/Nsoz9uOvup0\n\nCette conférence s'inscrit dans le déplacement de trois jours que François Asselineau a réalisé en Belgique, à l'invitation de nos adhérents et sympathisants belges et français expatriés : à Namur le mercredi 15 mai 2013, puis à Bruxelles les jeudi et vendredi 16 et 17 mai 2013.\n\n---\n*L'UPR a besoin de vous !*\n_Rejoignez le combat pour la libération de la France :_\n*Adhérez* : https://upr.fr/adhesion-en-ligne\n*Faites un don* : https://upr.fr/faire-un-don\n*Abonnez-vous à UPR-TV* : https://is.gd/1deAkt\n\n---\n*Retrouvez-nous partout sur internet et nos réseaux sociaux :*\n\n*Toutes nos analyses sur notre site* : https://www.upr.fr\n*La charte fondatrice* : https://www.upr.fr/charte-fondatrice\n*Notre programme présidentiel*  : https://upr.fr/notre-programme\n\n*YouTube*\nUPR-TV : https://www.youtube.com/@uprtvfa\nFA-TV :  https://www.youtube.com/@f_asselineau\n\n*TikTok*\n@fasselineau : https://www.tiktok.com/@fasselineau\n@uprtvfa : https://www.tiktok.com/@uprtvfa\n\n*Facebook*\n@fasselineau : https://www.facebook.com/fasselineau\n@uprfa : https://www.facebook.com/uprfa/\n\n*Instagram*\n@fasselineau : https://www.instagram.com/fasselineau\n@uprfa : https://www.instagram.com/uprtvfa\n\n*X/Twitter*\n@fasselineau : https://x.com/f_asselineau\n@uprtvfa : https://x.com/uprtvfa\n\n*LinkedIn*\n@fasselineau : https://www.linkedin.com/in/fasselineau\n@uprtvfa : https://www.linkedin.com/company/uprtvfa\n\n*Twitch*\n@frasselineau\n@uprtvfa\n\n*Snapchat*\n@frasselineau \n@uprtvfa", 'language': 'fr'}
+
+TRANSCRIPTION BRUTE :
+[00:00:08.430 --> 00:00:18.630] Merci d'être venu écouter cette conférence sur la construction européenne avec comme
+[00:00:18.630 --> 00:00:24.350] thématique la construction européenne est-elle encore démocratique ? Je voudrais remercier
+[00:00:24.350 --> 00:00:34.470] en tout premier lieu Olivier Sankara qui est étudiant à l'ULB et qui a eu l'initiative
+[00:00:34.470 --> 00:00:42.430] de nous proposer de venir faire cette conférence. Je vous remercie aussi d'être venu et d'avoir
+[00:00:42.430 --> 00:00:48.350] pris sur votre temps libre pour assister à une conférence de nature assez éminemment
+[00:00:48.350 --> 00:00:55.870] politique et qui contrevient à un certain nombre de grandes idées de notre temps. Je
+[00:00:55.870 --> 00:01:04.110] ne suis pas sûr d'ailleurs qu'une telle conférence soit déjà tenue à l'intérieur des locaux
+[00:01:04.110 --> 00:01:09.590] de l'ULB, notamment il y a un certain nombre de choses que je dirais qui sont sans doute
+[00:01:09.590 --> 00:01:15.350] assez peu fréquentes dans ces locaux. Je note d'ailleurs qu'il y a une conférence qui s'est
+[00:01:15.350 --> 00:01:22.590] tenue il y a quelques jours dont je parlerai un brièvement qui justement parlait des problèmes
+[00:01:22.590 --> 00:01:27.510] de l'Union Européenne qui sont flagrants sur une thématique que je connais bien qui
+[00:01:27.510 --> 00:01:34.710] est celle du populisme. Donc ce que je souhaite en tout cas faire, c'est ce que je fais depuis
+[00:01:34.710 --> 00:01:39.510] maintenant plusieurs années, c'est faire de l'antipopulisme, c'est-à-dire de présenter
+[00:01:39.510 --> 00:01:46.230] des analyses qui sont si possible irréfutables, c'est-à-dire fondées sur des éléments
+[00:01:46.230 --> 00:01:52.070] d'information que tout un chacun peut aller vérifier. Donc pour ce qui me concerne le
+[00:01:52.070 --> 00:01:58.070] populisme, c'est le contraire même du raisonnement. Et moi, les conférences que je tiens sont
+[00:01:58.070 --> 00:02:03.350] des conférences qui sont fondées sur la raison. La raison et l'intelligence de mes auditoires
+[00:02:03.350 --> 00:02:09.550] de telle sorte qu'ils puissent raisonner par eux-mêmes et se faire leur propre opinion. Voilà,
+[00:02:09.550 --> 00:02:14.270] pour ceux qui ne le sauraient pas, ça s'inscrit dans le cadre d'un mouvement politique qui s'appelle
+[00:02:14.270 --> 00:02:21.910] l'Union Populaire Républicaine que j'ai créé le 25 mars 2007, c'est-à-dire le jour même du 50e
+[00:02:21.910 --> 00:02:31.590] anniversaire du traité de Rome du 25 mars 1957. Donc c'est une décision que j'ai prise à l'issue
+[00:02:31.590 --> 00:02:37.830] de tout un parcours professionnel que même mes adversaires les plus acharnés ne peuvent
+[00:02:37.830 --> 00:02:42.590] contredire puisque c'est un fait. Ça veut donc dire que ça fait un peu plus de six ans que j'ai
+[00:02:42.590 --> 00:02:48.350] créé un mouvement dans l'objectif de rassembler tous les Français, qu'ils soient de droite, du
+[00:02:48.350 --> 00:02:53.870] centre ou de gauche ou d'extrême droite ou d'extrême gauche en leur disant mettez de côté pour
+[00:02:53.870 --> 00:02:59.510] l'instant tout ce qui vous sépare et réunissons nous sur le plus grand dénominateur commun des
+[00:02:59.510 --> 00:03:04.750] Français, c'est-à-dire la souveraineté et l'indépendance nationale. Nous devons tout faire pour sortir de
+[00:03:04.750 --> 00:03:09.510] l'Union Européenne qui est en train de devenir la prison des peuples de notre époque. Vous savez ce
+[00:03:09.510 --> 00:03:13.310] qu'on appelait la prison des peuples, c'était notamment, on parlait de l'empire ottoman comme
+[00:03:13.310 --> 00:03:21.550] étant la prison des peuples au 19e siècle. Alors ce mouvement s'est fondé donc sur l'idée selon laquelle
+[00:03:21.550 --> 00:03:28.550] la construction européenne était de plus en plus une dictature. D'ailleurs le slogan de notre mouvement
+[00:03:28.550 --> 00:03:35.070] c'est l'union du peuple pour rétablir la démocratie. Il y a un peu plus de six ans, donc le 25 mars 2007
+[00:03:35.070 --> 00:03:39.510] lorsque j'ai fait le congrès fondateur, il y avait d'ailleurs moins de personnes dans la salle que ce
+[00:03:39.510 --> 00:03:45.670] soit à Paris et c'était un message qui ne passait pas du tout. J'avais quelques amis qui étaient venus
+[00:03:45.670 --> 00:03:51.230] parce qu'ils étaient mes amis mais qui eux-mêmes étaient très dubitatifs, considéraient que j'exagérais.
+[00:03:51.230 --> 00:03:57.230] D'ailleurs à l'époque, rappelons-nous il y a six ans, la situation économique n'était pas glorieuse mais
+[00:03:57.230 --> 00:04:02.230] elle n'était pas devenue catastrophique au point où elle est devenue depuis. Et donc c'était un message
+[00:04:02.230 --> 00:04:07.310] qui passait finalement assez mal et la plupart des gens disaient oui, ils exagèrent beaucoup, de toute
+[00:04:07.390 --> 00:04:13.110] façon on ne peut pas revenir en arrière, de toute façon c'est vrai que l'Europe ne marche pas mais ça a toujours
+[00:04:13.110 --> 00:04:21.510] été comme ça, il faut une autre Europe, il faut améliorer l'Europe. Et puis le temps, les temps changent.
+[00:04:21.510 --> 00:04:28.590] Il y a trois jours, le 13 mai, deux ministres du gouvernement britannique actuel, M. Philippe Hammond qui est
+[00:04:28.590 --> 00:04:35.030] secrétaire d'État à la Défense et M. Michael Koff qui est le ministre de l'Éducation ont appelé à la sortie
+[00:04:35.030 --> 00:04:41.870] du Royaume-Uni de l'Union européenne. Auparavant, M. Nigel Lawson, ancien chancelier de l'échiquier britannique
+[00:04:41.870 --> 00:04:46.630] du temps de Mme Thatcher, grand européiste devant l'Éternel, a lui-même appelé à la sortie du Royaume-Uni
+[00:04:46.630 --> 00:04:52.430] de l'Union européenne. Quelques jours auparavant encore, le 30 avril dernier, c'était M. Oscar Lafontaine,
+[00:04:52.430 --> 00:04:59.790] ancien président du SPD allemand et qui a été lui-même ministre allemand des Finances avant d'être, actuellement
+[00:05:00.390 --> 00:05:05.830] dans le mouvement de gauche d'Illinque et qui a appelé, non pas à sortir de l'Union européenne, mais à dissoudre
+[00:05:05.830 --> 00:05:15.990] l'euro au plus vite. Voici donc des personnalités de droite ou de gauche en Angleterre ou en Allemagne qui appellent
+[00:05:15.990 --> 00:05:23.350] à des solutions qui pouvaient être estimées il y a encore quelques mois comme radicales ou excessives.
+[00:05:23.350 --> 00:05:28.310] Les temps changent très très vite et du coup, eh bien, le mouvement politique que j'ai créé qui était dans une
+[00:05:28.310 --> 00:05:34.550] situation effectivement qui était un groupuscule, il faut reconnaître pendant les premières années puisque
+[00:05:34.550 --> 00:05:40.790] au bout de deux, trois ans, il n'y avait que quelques, allez disons, 300 personnes qui étaient là, qui étaient
+[00:05:40.790 --> 00:05:55.950] à ce mouvement politique. En 2010, eh bien, nous sommes passés à 707 adhérents fin 2011, puis 2158 adhérents fin 2012
+[00:05:55.990 --> 00:06:03.070] et ce soir même, on est quasiment à 2900 adhérents avec une progression donc de nature exponentielle.
+[00:06:03.070 --> 00:06:08.510] Si j'ai un instant tout à l'heure, je vous montrerai la courbe. Ce sont des vrais chiffres, je ne m'amuse pas.
+[00:06:08.510 --> 00:06:15.110] Affaire comme la plupart des responsables politiques français, c'est parce qu'il en est en Belgique, mais en tout cas en France,
+[00:06:15.110 --> 00:06:21.870] souvent, on multiplie par 2, 3, 5, 10 parfois, peut-être même davantage le nombre des adhérents de son parti politique.
+[00:06:21.870 --> 00:06:28.350] Nous, on n'en est pas là. J'ai pris le parti de jouer la vérité. Voilà. Alors merci d'être venu.
+[00:06:28.350 --> 00:06:39.150] Un dernier mot pour dire que le logo que nous avons pris pour ce mouvement, c'est la branche d'Olivier qui vous peut-être...
+[00:06:39.150 --> 00:06:47.550] qui dit peut-être un petit peu moins de souvenirs à des jeunes, notamment qui ne sont pas français qu'à des Français plus âgés.
+[00:06:47.630 --> 00:06:54.070] Ce rameau d'Olivier, en fait, vous l'avez vu peut-être préalablement, c'était celui qui était gravé sur la face pile,
+[00:06:54.070 --> 00:07:02.310] enfin le côté pile, ce qu'on appelle la verre de la pièce de 1 franc qui avait été gravé par Oscar Rotti en 1898.
+[00:07:02.310 --> 00:07:07.190] Donc depuis que j'ai créé ce mouvement politique, nous sommes extrêmement clairs.
+[00:07:07.190 --> 00:07:15.790] Nous, ce que nous voulons depuis le 25 mars 2007, c'est faire sortir la France de l'UE, de l'euro, retrouver le franc et également de l'OTAN.
+[00:07:15.830 --> 00:07:20.790] J'insiste sur le fait que ce n'est pas la première fois que le franc a disparu dans notre histoire nationale.
+[00:07:20.790 --> 00:07:28.550] Il est apparu en 1360, puis il a disparu, puis il est réapparu avec le franc germinal, puis il a disparu, puis il est réapparu, puis il a disparu.
+[00:07:28.550 --> 00:07:35.070] Demain soir, à Lille, pour ceux d'entre vous qui seraient intéressés, je fais une conférence qui s'appelle la tragédie de l'euro,
+[00:07:35.070 --> 00:07:42.630] où pendant toute une première partie, je fais une conférence, un rappel historique de toutes les monnaies plurinationales de l'histoire,
+[00:07:42.630 --> 00:07:48.950] en remontant au premier livre des Maccabées de la Bible. Donc pendant toute une première partie, je montre que toutes les monnaies plurinationales
+[00:07:48.950 --> 00:07:56.870] de l'histoire ont toujours explosé. J'essaierai de vous expliquer pourquoi, et notamment pourquoi l'euro explosera fatalement
+[00:07:56.870 --> 00:08:03.950] en deuxième partie de cette conférence demain soir à Lille. Donc en attendant, nous n'avons aucune ambiguïté dans notre mouvement.
+[00:08:03.950 --> 00:08:10.790] Nous souhaitons rétablir le franc. Et il s'agit de... Notre objectif, encore une fois, n'est pas un objectif, je ne dis pas...
+[00:08:10.790 --> 00:08:19.230] J'en parlerai longuement tout à l'heure. Ni de nostalgie, ni de refermement sur soi-même, ni de xénophobie. C'est tout le contraire.
+[00:08:19.230 --> 00:08:25.190] C'est tout le contraire. C'est simplement que la France retrouve ce qui est le lot commun de toutes les nations du monde,
+[00:08:25.190 --> 00:08:35.270] puisqu'un peuple, c'est une nation, c'est une monnaie. Par ailleurs, ce rameau d'Olivier, qui a été choisi aussi parce que
+[00:08:35.350 --> 00:08:43.630] c'est un symbole propitiatoire que l'on trouve dans la religion juive, puisque c'est le rameau d'Olivier que porte la colombe.
+[00:08:43.630 --> 00:08:51.070] Après le déluge, parce qu'il marque la fin du déluge, donc c'est un symbole qui plaît aux Juifs. C'est également un symbole qui parle
+[00:08:51.070 --> 00:08:58.350] aux chrétiens, puisque c'est dans le jardin de Gethsemane que le Christ passe la dernière nuit au Mont des Olivier avant
+[00:08:58.350 --> 00:09:06.430] d'être traduit devant le Sanhédrin. C'est également un symbole propice, ou qui parle en tout cas aux musulmans,
+[00:09:06.430 --> 00:09:13.870] puisqu'il y a donc une sourate qui parle de l'Olivier comme d'un arbre sacré. Et puis c'est un symbole qui parle également aux athées,
+[00:09:13.870 --> 00:09:22.070] puisque c'était la colombe portant le rameau d'Olivier. C'était le symbole, un dessin de Picasso, qui avait servi au mouvement de la paix,
+[00:09:22.070 --> 00:09:27.550] lancé par les partis communistes occidentaux sous l'influence du mouvement de la paix émanant de Moscou.
+[00:09:27.550 --> 00:09:33.550] Après la Seconde Guerre mondiale. Voilà. Et puis ça plaît aussi, et bien toujours, tout simplement aux gens qui aiment la vie,
+[00:09:33.550 --> 00:09:39.030] aux écologistes. C'est un symbole solaire, c'est un symbole de vacances, c'est un symbole de bonheur, c'est un symbole d'éternité,
+[00:09:39.030 --> 00:09:46.550] puisque c'est également l'Olivier qui est l'arbre qui vit le plus longtemps au monde. Alors notre conférence de ce soir,
+[00:09:46.550 --> 00:09:55.510] c'est une conférence dont le titre est « La construction européenne est-elle encore démocratique ? ». Certains pourraient d'ailleurs se demander
+[00:09:55.510 --> 00:10:06.140] « Est-ce que le mot encore est justifié ? », c'est-à-dire « A-t-elle jamais été démocratique ? ». On essaiera d'en parler tout à l'heure.
+[00:10:06.140 --> 00:10:17.620] Affiché de grands et nobles principes, c'est assez facile. Je voudrais attirer votre attention sur l'actuel traité.
+[00:10:17.620 --> 00:10:25.540] Nous sommes actuellement sous l'empire de deux traités européens. Le traité sur l'Union européenne d'un côté, le TUE, le TUE,
+[00:10:25.580 --> 00:10:33.740] ça n'amende pas. Et puis le traité sur le fonctionnement de l'Union européenne, le TFU, qui émane l'un et l'autre du traité de Lisbonne.
+[00:10:33.740 --> 00:10:43.660] Au cas où vous ne le sauriez pas, mais tout est possible, même à Bruxelles, beaucoup de gens... En France, 98% de mes concitoyens
+[00:10:43.660 --> 00:10:51.460] sont très ignorants des institutions européennes. Il y a eu un premier traité le 25 mars 1957, qui a été le traité de Rome,
+[00:10:51.460 --> 00:11:01.580] créant la communauté économique européenne, la CEE. Et puis ensuite, il y a eu un traité qui a été comme une poupée gigonne.
+[00:11:01.580 --> 00:11:08.300] C'est une succession de poupées gigonne ou poupées russes, les traités européens. Ensuite, il y a eu le traité de Maastricht de 2000,
+[00:11:08.300 --> 00:11:16.580] qui a transformé la CEE en Union européenne, et qui a créé notamment la monnaie commune européenne, qui devait s'appeler l'ECU,
+[00:11:16.580 --> 00:11:24.180] dont le nom a ensuite été changé en euro. Donc ça, c'est en 2000. On a repris le traité de Rome, on a changé les numérotations des articles
+[00:11:24.180 --> 00:11:30.060] pour que personne n'y comprenne rien, et on en a injecté plein d'autres de nouveau, et on a redécoupé le traité.
+[00:11:30.060 --> 00:11:37.940] Et puis après ça, il y a eu le traité d'Amsterdam de 1997, où on a refait la même chose. On a repris les articles en les remodifiant
+[00:11:37.940 --> 00:11:43.860] encore les numéros, et puis en injectant des nouveaux transferts de souveraineté, c'est-à-dire en fait des prises de pouvoir
+[00:11:43.860 --> 00:11:51.060] dans les pays qui l'ont ratifié, notamment en matière d'immigration, par exemple. Donc ça, c'est le traité d'Amsterdam de 1997.
+[00:11:51.060 --> 00:11:56.460] Et puis après ça, ça a été le traité de Nice de 2000, toujours le même système, qui reprend les traités antérieurs,
+[00:11:56.460 --> 00:12:04.020] en remodifiant encore une fois, comme une tambouille, on remodifie les traités avec les articles, et on a injecté, on a notamment changé
+[00:12:04.020 --> 00:12:11.060] le nombre de députés au Parlement européen. On a procédé à une rupture qui avait pourtant existé depuis le début,
+[00:12:11.060 --> 00:12:17.420] c'était notamment la parité exacte entre la France et l'Allemagne. À partir de 2000, la France a accepté d'avoir moins de députés
+[00:12:17.420 --> 00:12:23.300] au Parlement européen que l'Allemagne. Et puis après ça, en 2005, est arrivée la Constitution européenne, qui avait été préparée
+[00:12:23.300 --> 00:12:32.300] par Giscard et la Convention sur l'avenir de l'Europe, avec un Présidium, ça ne s'invente pas, Présidium présidé par Giscard,
+[00:12:32.300 --> 00:12:40.340] et qui a donc débouché sur cette Constitution européenne, qui était un énième traité, c'était le traité de Nice,
+[00:12:40.380 --> 00:12:47.300] qui était donc la reprise de Rome, puis Maastricht, puis Amsterdam, puis Nice. Donc on a repris ça dans la Constitution européenne,
+[00:12:47.300 --> 00:12:53.020] là encore, en ajoutant de nouvelles choses, et en remodifiant les traités de l'Union des numérotations.
+[00:12:53.020 --> 00:13:01.580] Et puis les Français ont voté non à 55% le 29 mai 2005, suivi des Néerlandais qui ont voté non à 62% le 1er juin.
+[00:13:01.580 --> 00:13:07.280] Donc le traité et la Constitution européenne a été abandonnés. D'ailleurs, au passage, les Français ne comprenaient pas,
+[00:13:07.280 --> 00:13:12.520] mais c'est pas une Constitution, c'était un truc illisible. Oui, parce que ce n'était pas en fait une Constitution, c'était un traité.
+[00:13:12.520 --> 00:13:18.720] C'était un traité international. Simplement, les Français aimant la grande illocance, Giscard, et ayant voulu faire acte historique,
+[00:13:18.720 --> 00:13:26.560] avaient rappelé ça une Constitution européenne. Et puis donc les Français ayant voté non, Sarkozy a ensuite,
+[00:13:26.560 --> 00:13:34.440] le Président Sarkozy a fait en sorte de faire reratifier la Constitution européenne, rebaptisée traité de Lisbonne,
+[00:13:34.960 --> 00:13:40.680] où l'on a scindé les textes en deux. Donc désormais, pour la première fois, en espèce de sisyparité des traités,
+[00:13:40.680 --> 00:13:48.880] il y a deux traités, le TUE et le TFUE. Le TUE est censé donner les grandes lignes de ce qu'est la construction européenne.
+[00:13:48.880 --> 00:13:54.160] Le TFUE, lui, entre dans les détails. En réalité, c'est le TFUE qui est le plus important, puisque, comme disent les Allemands,
+[00:13:54.160 --> 00:14:02.120] der Teufel, « l'Ectime Détail », c'est-à-dire le diable réside dans les détails. Le TFUE fixe toute une série de contraintes de nature,
+[00:14:02.120 --> 00:14:10.200] notamment économique et sociale. Alors dans le TUE, l'article 1B, c'est-à-dire tout ce qui est tout au début, il y a marqué
+[00:14:10.200 --> 00:14:19.120] « l'Union européenne est fondée sur les valeurs de respect de la dignité humaine, de liberté, de démocratie, d'égalité de l'État de droit,
+[00:14:19.120 --> 00:14:26.960] ainsi que de respect des droits de l'homme ». Donc à la limite, si on lit ça, la conférence est terminée. Oui, la construction est démocratique,
+[00:14:26.960 --> 00:14:36.240] puisque c'est écrit dessus comme le porçalut. C'est marqué, voilà, c'est fondé sur la démocratie. Simplement affiché ces grands et ces nobles principes,
+[00:14:36.240 --> 00:14:46.120] l'histoire montre qu'il faut s'en méfier. Vous savez qu'en Union soviétique, il y avait eu la Constitution Staline de 1936,
+[00:14:46.120 --> 00:14:54.800] et 60 ans après la révolution d'octobre, Léonide Brejnev avait voulu se faire un petit plaisir en faisant ratifier, enfin,
+[00:14:54.800 --> 00:15:01.440] en faisant adopter par le soviet suprême de l'URSS une nouvelle constitution qui toilettait la Constitution Staline.
+[00:15:01.440 --> 00:15:09.840] Cette constitution de l'Union soviétique a été adoptée le 7 octobre 1977. Or, quand on lisait cette constitution,
+[00:15:09.840 --> 00:15:21.400] eh bien on s'apercevait que l'Union soviétique était un modèle de démocratie. C'est exactement dans le préambule, exactement comme la construction européenne.
+[00:15:21.440 --> 00:15:30.040] En particulier, on voit bien que la propriété sociale des moyens de production et une démocratie authentique pour les masses laborieuses
+[00:15:30.040 --> 00:15:41.550] se sont affirmés. C'est une société de démocratie authentique que l'URSS. Ça veut donc dire qu'affiché de grands et nobles principes,
+[00:15:41.550 --> 00:15:52.750] n'est-ce pas ? C'est assez facile. L'expérience historique montre qu'il faut s'en méfier. Alors pour examiner si la construction européenne
+[00:15:52.750 --> 00:15:59.790] est une démocratie, je vous propose un cheminement. Au cours de cette conférence, j'aurais pu dire bien d'autres choses.
+[00:15:59.790 --> 00:16:06.750] J'ai le défaut d'être un petit peu bavard. J'ai essayé de synthétiser. Et c'est encore bien long. En tout cas, de vous donner beaucoup d'informations
+[00:16:06.750 --> 00:16:15.190] pour vous faire réfléchir, peut-être des informations que vous n'aviez pas. La première chose sur laquelle je voudrais attirer votre attention,
+[00:16:15.190 --> 00:16:20.910] c'est un raisonnement que j'ai développé. Voici environ un mois devant l'école polytechnique en France, à Massy-Palaiso, devant des élèves
+[00:16:20.910 --> 00:16:29.630] polytechniciens qui sont censés être parmi les meilleurs mathématiciens de leur génération et qui ont reconnu que le raisonnement que je tenais
+[00:16:29.630 --> 00:16:40.070] tenait la route. C'est un problème mathématique. Quand on a un seul État indépendant, sa politique est tout le temps cohérente.
+[00:16:40.070 --> 00:16:48.590] Elle est soit de droite, soit de gauche. Il suffit de voter en France pour l'UMP pour avoir une politique de droite ou pour le Parti socialiste
+[00:16:48.590 --> 00:16:57.350] pour avoir une politique de gauche. Je simplifie. Je ne tiens pas compte dans ce raisonnement des autres partis politiques, de l'extrême droite,
+[00:16:57.350 --> 00:17:05.430] de l'extrême gauche, du centre, des écologistes. Je simplifie. Je parle pas également non plus des périodes dites de cohabitation.
+[00:17:05.430 --> 00:17:14.470] Ça dépend des régimes institutionnels selon les pays. Mais enfin, on peut dire globalement que dans un État indépendant, la probabilité d'avoir
+[00:17:14.470 --> 00:17:24.350] une politique cohérente soit de droite, soit de gauche est de 100%. Ou si on peut, si on vous le préférait autrement,
+[00:17:24.350 --> 00:17:33.750] la probabilité d'une politique cohérente de droite est de 50%. Je table là-dessus. Peut-être que certains diraient, oui, il y a des pays où la gauche arrive
+[00:17:33.750 --> 00:17:40.310] moins souvent au pouvoir que la droite. Mais encore une fois, je simplifie. On peut dire qu'il y a une fois sur deux la droite, une fois sur deux la gauche.
+[00:17:40.310 --> 00:17:48.430] Donc la probabilité d'avoir une politique de droite dans un pays indépendant, c'est de 50%. Et la probabilité d'avoir une politique de gauche,
+[00:17:48.430 --> 00:17:57.470] c'est également de 50%, c'est-à-dire 0,5 à la puissance 1. Et la probabilité d'avoir une politique cohérente tout court, c'est 0,5 à la puissance 0,
+[00:17:57.470 --> 00:18:09.670] c'est-à-dire 1%, 100%. Maintenant, on postule qu'il y a deux États que l'on force à adopter une politique commune, tout en ayant chacun
+[00:18:09.710 --> 00:18:19.830] leur peuple différent dont on maintient les élections. Je prends l'exemple de la France et de l'Allemagne. On va avoir la première configuration des possibles,
+[00:18:19.830 --> 00:18:29.070] toujours en simplifiant à l'extrême, en considérant qu'il n'y a que la droite et la gauche. Eh bien en France, on peut avoir une configuration avec le parti socialiste
+[00:18:29.070 --> 00:18:42.070] à gauche, la CDU allemande à droite. C'est d'ailleurs la configuration actuelle. M. Hollande est de gauche, entre guillemets, et Mme Merkel est de droite, entre guillemets.
+[00:18:42.070 --> 00:18:53.350] Dans ce cas-là, on a une incohérence gauche-droite. La deuxième possibilité, on a le parti socialiste en France et puis on a le SPD en Allemagne.
+[00:18:53.350 --> 00:19:05.350] Dans ces conditions, on a une cohérence de gauche. La troisième possibilité, c'est qu'on a l'UMP en France et le SPD au pouvoir à Berlin.
+[00:19:05.350 --> 00:19:13.350] C'était le cas par exemple avec Chirac, quand Chirac était président de la République, et Gerhard Schröder, qui était chancelier d'Allemagne.
+[00:19:13.350 --> 00:19:22.350] À ce moment-là, on a une incohérence droite-gauche. Et puis enfin, on peut avoir l'UMP à Paris et la CDU à Berlin. C'était le cas Sarkozy-Merkel.
+[00:19:22.350 --> 00:19:32.350] Là, on aura une cohérence de droite. Dans un attelage de deux États que l'on force à adopter une politique commune, la probabilité d'avoir cette fois-ci une politique cohérente,
+[00:19:32.350 --> 00:19:39.350] une politique commune cohérente, n'est plus comme tout à l'heure de 100%, elle n'est plus que de 50%. Il y a que 2 cas sur 4.
+[00:19:39.350 --> 00:19:51.350] Et la probabilité d'avoir une politique cohérente de droite tombe à 25% de la même façon que la probabilité d'avoir une politique cohérente de gauche tombe également à 25%.
+[00:19:52.350 --> 00:20:02.350] Bien entendu, tout ceci est très simplifié. Je postule en particulier que la droite allemande et la droite française disent et pensent la même chose, ce qui est faux.
+[00:20:02.350 --> 00:20:11.350] Que la gauche française et la gauche allemande seraient d'accord. Parce que je fais abstraction pour l'instant des intérêts nationaux divergents.
+[00:20:11.350 --> 00:20:21.350] Donc vous voyez que cette fois-ci, la probabilité d'avoir une politique cohérente de gauche dans un État indépendant, si on vote à gauche 50% du temps, elle est de 50% des cas.
+[00:20:21.350 --> 00:20:33.350] Si on force deux États à avoir une politique commune, elle tombe à 25% 0,5 au carré. Maintenant, je prends le cas de trois États que l'on a de force à adopter une politique commune.
+[00:20:33.350 --> 00:20:39.350] C'est la France, l'Allemagne et l'Espagne. C'est la même chose que ce que je viens de vous dire. Je vais aller un petit peu plus vite.
+[00:20:39.350 --> 00:20:48.350] On peut avoir première configuration le Parti socialiste à Paris. C'est le cas actuellement. La CDU à Berlin. C'est le cas actuellement.
+[00:20:48.350 --> 00:20:59.350] Et puis le Parti populaire espagnol. C'est le cas actuellement avec M. Rajoy. Donc on a gauche-droite-droite. Incohérence gauche-droite-droite.
+[00:21:00.350 --> 00:21:08.350] On peut avoir le PS, la CDU et le PSOE à Madrid, le Parti socialiste à Madrid, ce qui était le cas lorsque M. Zapatero était à Madrid.
+[00:21:08.350 --> 00:21:17.350] À ce moment-là, on a une incohérence gauche-droite-gauche. Et puis on peut avoir le PS, le SPD et le Parti populaire. À ce moment-là, on aura une incohérence gauche-gauche-droite.
+[00:21:17.350 --> 00:21:23.350] Et puis on peut avoir le Parti socialiste, le SPD et le PSOE. Cette fois-ci, on aura cohérence gauche-gauche-gauche.
+[00:21:24.350 --> 00:21:31.350] Et puis on peut avoir l'UMP à Paris, la CDU et le Parti populaire. En Espagne, on aura une cohérence droite-droite-droite.
+[00:21:31.350 --> 00:21:37.350] On peut avoir l'UMP à Paris, la CDU à Berlin, le PSOE à Madrid. Ça sera une incohérence droite-droite-gauche.
+[00:21:37.350 --> 00:21:43.350] On peut avoir l'UMP à Paris, le SPD à Berlin, le Parti populaire à Madrid. On aura une incohérence droite-gauche-droite.
+[00:21:43.350 --> 00:21:53.350] Et puis on peut avoir l'UMP, le SPD et le PSOE. On aura une incohérence droite-gauche-gauche.
+[00:21:53.350 --> 00:22:01.350] Cela signifie quoi ? Cela veut dire que dans un attelage de trois États que l'on force à adopter une politique commune,
+[00:22:01.350 --> 00:22:11.350] la probabilité d'avoir une politique cohérente, cette fois-ci, ça n'est plus que dans deux cas sur huit. Soit droite-droite-droite, soit gauche-gauche-gauche.
+[00:22:11.350 --> 00:22:21.350] C'est-à-dire dans deux cas sur huit, c'est-à-dire dans un cas sur quatre, c'est-à-dire 25%, 0,5 au carré.
+[00:22:21.350 --> 00:22:32.350] La probabilité d'avoir une politique cohérente de droite, ça sera un cas sur huit. C'est 12,5%, 0,5 au cube.
+[00:22:32.350 --> 00:22:42.330] La probabilité d'avoir une politique cohérente de gauche, c'est pareil, 0,5 au cube. Et tous les autres cas, ce sont des cas de cohabitation.
+[00:22:42.330 --> 00:22:55.120] Je ne vais pas vous faire les 27 États. Sinon, ça durerait très, très longtemps. C'est comme l'affaire du Brahman si ça, avec l'échiquier du jeu d'échec.
+[00:22:55.120 --> 00:23:02.120] Donc la règle mathématique que l'on peut tirer de cette affaire, c'est la suivante. Si on la raisonne en termes mathématiques,
+[00:23:02.120 --> 00:23:12.120] si N est supérieur ou égal à un État, à un instant donné, il y a deux puissances N possibilités pour que les N huplés de gouvernement,
+[00:23:12.120 --> 00:23:18.120] en supposant qu'il n'y a que deux... Excusez-moi. Il y a deux puissances N possibilités pour les N huplés de gouvernement,
+[00:23:18.120 --> 00:23:26.120] en supposant qu'il n'y a que deux huplés par État, la gauche et la droite. J'ai déjà dit que c'était une simplification.
+[00:23:26.120 --> 00:23:35.120] Donc seuls deux N huplés permettent d'avoir une politique cohérente. Le N huplé GGGGGG, tout gauche, et le N huplé DDDDD, tout droit.
+[00:23:35.120 --> 00:23:43.120] Puisque les éventualités de politique cohérente et politique incohérente ne se recoupent pas, la politique est incohérente.
+[00:23:43.120 --> 00:23:52.120] Pour les deux puissances N-2 N huplés restants, la probabilité d'avoir une politique cohérente est donc de 2 divisé par deux puissances N.
+[00:23:52.120 --> 00:24:01.120] C'est 1 divisé par deux puissances N-1, c'est-à-dire dans le cadre de figure de 0,5, 0,5 à la puissance N-1, N étant le nombre d'États.
+[00:24:01.120 --> 00:24:09.120] Pour une politique cohérente, et pour une politique cohérente de droite ou de gauche, eh bien ça sera 0,5 à la puissance N.
+[00:24:09.120 --> 00:24:16.120] Donc c'est en première approximation, dans un attelage de N États, que l'on force à adopter une politique commune.
+[00:24:16.120 --> 00:24:23.120] La probabilité d'avoir une politique cohérente soit de droite, soit de gauche, est de 0,5 à la puissance N-1,
+[00:24:23.120 --> 00:24:33.120] en supposant que la droite et la gauche ont dans chacun des 27 États 0,5, cette probabilité sur 1, c'est un 50% de chance d'être élu.
+[00:24:33.120 --> 00:24:40.120] La probabilité d'avoir une politique cohérente de droite sera de 0,5 à la puissance N, N étant le nombre d'États.
+[00:24:40.120 --> 00:24:45.120] La probabilité d'avoir une politique cohérente de gauche est de 0,5 à la puissance N également.
+[00:24:45.120 --> 00:24:50.120] Quand je dis politique cohérente, j'insiste sur un élément très important.
+[00:24:50.120 --> 00:24:54.120] C'est que pour modifier les traités, il faut l'unanimité.
+[00:24:54.120 --> 00:25:05.560] Pour modifier les traités, par exemple l'article 63, qui interdit toute restriction aux échanges de mouvement de capitaux.
+[00:25:05.560 --> 00:25:13.560] C'est de là que date la destruction de l'industrie européenne, en tout cas en France, en Italie, en Belgique, etc.
+[00:25:13.560 --> 00:25:18.560] Il n'y a plus de protection. On peut délocaliser à tout va, il n'y a plus de possibilité de s'y opposer.
+[00:25:18.560 --> 00:25:28.560] Cet article 63 ne pourra être aboli dans les traités que s'il y a l'unanimité et une unanimité de gauche, et même de très à gauche.
+[00:25:28.560 --> 00:25:32.560] A priori, la droite libérale est favorable à cet article.
+[00:25:32.560 --> 00:25:44.560] Pour modifier l'article 42 du TUE, qui porte décidément bien son nom, le TUE, l'article 42 place la défense de l'UE sous la tutelle de l'OTAN.
+[00:25:44.560 --> 00:25:53.560] Il faudrait donc avoir là aussi les 27 États qui soient d'accord pour modifier ce point. On sait déjà que ça ne sera jamais le cas.
+[00:25:53.560 --> 00:25:59.560] Il y a plusieurs États qui refuseront en toute hypothèse de supprimer cette affaire.
+[00:25:59.560 --> 00:26:10.880] Alors tout ceci... J'insiste encore une fois sur le fait que c'est un calcul exagérément favorable, parce que je postule implicitement dans ce raisonnement
+[00:26:10.880 --> 00:26:20.880] que les choix sont binaires droite-gauche dans chaque pays. En pratique, c'est beaucoup plus compliqué. Il y a les écologistes, l'extrême-droite, l'extrême-gauche, le centre. Je vous en ai déjà touché un mot.
+[00:26:20.880 --> 00:26:28.880] Deuxièmement, je postule implicitement que la gauche et la droite ont les mêmes programmes compatibles entre les États, ce qui est faux.
+[00:26:28.880 --> 00:26:34.880] Et troisièmement, je postule qu'il n'y a pas d'opposition supplémentaire entre les intérêts nationaux, ce qui est archi-faux.
+[00:26:34.880 --> 00:26:45.880] La gauche chipriote, italienne ou grecque, n'a pas un programme commun avec le labour britannique ou avec la gauche finlandaise ou danoise.
+[00:26:45.880 --> 00:26:56.880] Donc vous voyez à quel point mon raisonnement est un raisonnement finalement très favorable à l'Europe, qui minimise considérablement les autres impossibilités et les autres blocages.
+[00:26:56.880 --> 00:27:07.880] Mais néanmoins, en gardant à l'esprit ceci, il faut maintenant voir ce que ça donne. Pour six États du temps de l'Europe des six, de 1957 à 1972,
+[00:27:07.880 --> 00:27:20.880] la probabilité d'avoir une politique cohérente qu'elle fût de droite ou de gauche était donc de 0,5 à la puissance L-1, donc 0,5 à la puissance 5, c'est-à-dire de 0,031, de 3,1%.
+[00:27:20.880 --> 00:27:33.670] Ça veut donc dire pendant trois années sur un siècle du temps de l'Europe des six. La probabilité que les six États de l'Europe des six aient une politique de gauche,
+[00:27:33.670 --> 00:27:46.430] c'était 0,5 à la puissance 6, 0,5 puissance N, c'est-à-dire 1,5%, c'est-à-dire 18 mois sur un siècle du temps de l'Europe des six.
+[00:27:46.430 --> 00:27:55.430] Maintenant, pour que les 27 États... Vous savez que nous sommes 27. À partir du 1er juillet prochain, nous serons 28, avec l'entrée de la Croatie.
+[00:27:55.430 --> 00:28:06.430] Mais pour l'instant, nous sommes 27. Avec 27 États, la probabilité d'avoir une politique cohérente, soit de droite, soit de gauche, est actuellement de 0,5 à la puissance L-1,
+[00:28:06.430 --> 00:28:19.430] donc 0,5 à la puissance 26, ça veut 1,49, 10 puissance moins 8, c'est-à-dire 0,00000014901 chance sur 100, c'est-à-dire une demi-journée tous les 100 000 ans.
+[00:28:19.430 --> 00:28:36.620] Et en particulier, la probabilité d'avoir une politique unanimement de gauche social-démocrate... Je parle pas de la gauche version PTB ou version front de gauche en France.
+[00:28:36.620 --> 00:28:45.620] Je parle de la probabilité d'avoir une gauche social-démocrate, version... Comment dirais-je... Zapatero en Espagne, Hollande en France. C'est pas très méchant.
+[00:28:45.620 --> 00:28:58.620] La probabilité que les 27 États de l'UE aient en même temps 27 gouvernements version Hollande, c'est de 0,75 à la puissance 10,8. Ça fait 6 heures tous les 100 000 ans.
+[00:28:58.620 --> 00:29:11.730] Je rappelle que c'est indispensable pour modifier les traités. Je sais que certains me disent oui, mais il y a des votes à la majorité. Oui, bien sûr, il y a des sujets où il y a des votes à la majorité.
+[00:29:11.730 --> 00:29:18.730] Mais les votes à la majorité se font dans le cadre des traités existants. On ne modifie pas, on ne peut pas modifier l'article 63 dont je parlais tout à l'heure,
+[00:29:18.730 --> 00:29:25.730] l'article 121 qui fixe les grandes orientations de politique économique et notamment qui postule la privatisation des services publics.
+[00:29:25.730 --> 00:29:39.730] On ne peut pas modifier l'article 125, 124, ce qui concerne l'interdiction de la Banque centrale européenne de monétiser la dette publique, les déficits publics, etc., etc., etc.
+[00:29:39.730 --> 00:29:48.730] Alors, les conséquences de ce que je viens de vous montrer, c'est qu'il est matigmatiquement impossible d'avoir une politique cohérente au sein de l'UE.
+[00:29:48.730 --> 00:30:00.730] La probabilité est infinitésima. La deuxième conséquence, c'est que les institutions européennes sont en situation de cohabitation droite-gauche, d'ailleurs droite-gauche, chante, etc., permanente.
+[00:30:00.730 --> 00:30:08.730] C'est d'ailleurs le cas. Voici les 27 États, l'exemple actuel du Conseil européen avec les 27 chefs d'État et de gouvernement.
+[00:30:08.730 --> 00:30:19.730] Vous avez 13 États dont le chef de gouvernement vient d'un parti qui appartient au niveau européen à ce qu'on appelle le PPE, le Parti populaire européen.
+[00:30:19.730 --> 00:30:35.730] C'est l'Allemagne avec Mme Merkel, c'est l'Espagne avec M. Arroy, c'est le Portugal, c'est l'Irlande, c'est la Suède, la Finlande, la Pologne, la Hongrie, la Roumanie, la Grèce, Chypre,
+[00:30:36.730 --> 00:30:52.730] la Lettonie, j'en ai peut-être oublié un au passage. Vous en avez 6 du Parti socialiste européen, du PSA, avec la France, la Belgique, l'Autriche, la Slovaquie, le Danemark.
+[00:30:52.730 --> 00:31:05.730] Vous en avez 2 qui sont dirigés par des responsables émanents du Parti libérodémocrate et réformateur, un peu les centristes, ce sont les Pays-Bas et l'Estonie.
+[00:31:05.730 --> 00:31:16.730] Il y en a 2 qui émanent de partis conservateurs et réformistes européens, on pourrait dire, eurocritiques. C'est le Royaume-Uni et la République tchèque.
+[00:31:16.730 --> 00:31:25.730] C'est d'ailleurs plus vrai de la République tchèque puisque j'ai fait ce graphique lorsque c'était encore M. Václav Klaus qui était le président tchèque.
+[00:31:25.730 --> 00:31:38.300] Et c'est tout le temps comme ça. Il y a encore par exemple un an, un peu plus, il y a un an et demi, la France était bleue, mais l'Espagne était rouge.
+[00:31:38.300 --> 00:31:44.300] L'Espagne est passée de Zapatero à Arroy et quelques mois après, la France est passée de Sarkozy à Hollande.
+[00:31:44.300 --> 00:31:54.300] Donc vous voyez que c'est une espèce de Rubik's Cube qui bouge constamment avec 27 États et pour qu'on ait d'un seul coup les 27 qui est soit tout rouge, soit tout bleu,
+[00:31:54.300 --> 00:32:07.300] eh bien je vous l'ai montré, la probabilité est de 6 heures tous les 100 000 ans. Encore ne s'agit-il, je vous l'ai dit, que de probabilité pour des partis conservateurs libéraux
+[00:32:07.300 --> 00:32:20.300] d'un côté ou socio-démocrates de l'autre. Je ne parle même pas de partis d'extrême gauche ou de gauche interventionniste, un petit peu le front de gauche en France,
+[00:32:20.300 --> 00:32:32.300] j'en parle de tout à l'heure, ou bien d'écologistes ou bien d'extrême droite, version Front national en France par exemple, qui veulent aussi une Europe à leur sauce.
+[00:32:32.300 --> 00:32:44.300] J'ai oublié qu'il y avait 4 indépendants, pardon. Alors les conséquences également de tout ce système, c'est que puisqu'il y a une cohabitation droite, gauche, centre permanente
+[00:32:44.300 --> 00:32:57.300] au sein de l'institution qui décide des orientations de la construction européenne, cette cohabitation où il y a des appings en permanence, mais en permanence c'est toujours impossible
+[00:32:57.300 --> 00:33:07.300] à avoir les mêmes orientations, eh bien ça devient une structure totalement indifférente aux élections nationales. Il n'y a pas de politique du tout.
+[00:33:07.300 --> 00:33:18.800] Il faut bien que le représentant de la France de M. Hollande s'entende avec le représentant de l'Espagne de M. Arroy, de l'Allemagne de Mme Merkel,
+[00:33:18.800 --> 00:33:30.800] ou des Pays-Bas d'un Premier ministre qui est centriste. Il n'y a pas de politique du tout. Ça va donc être le règne des lobbies qui vont influer pour faire bouger la politique
+[00:33:30.800 --> 00:33:41.800] dans un sens ou dans un autre. Autre conséquence, les élections nationales dans un État en particulier ne peuvent plus rien changer. Les Français sont en train de le constater
+[00:33:41.800 --> 00:33:50.800] avec amertume, pourtant c'était pas faute que j'ai personnellement et le mouvement politique que j'anime que nous ayons tout fait pour prévenir les Français de ce qui les attendait.
+[00:33:50.800 --> 00:34:00.800] C'est d'ailleurs pas seulement vrai en France, c'est le vrai partout. Les élections nationales n'ont plus aucun effet puisqu'il s'agit simplement de changer un représentant
+[00:34:00.800 --> 00:34:10.800] sur 27 dans un collège qui lui-même est en situation de cohabitation permanente. Donc la cinquième conséquence, c'est que les électeurs réalisent progressivement
+[00:34:10.800 --> 00:34:21.800] élection après élection, qu'il ne sert plus à rien de voter à droite ou de voter à gauche, car cela ne change rien à la politique subie,
+[00:34:21.800 --> 00:34:31.800] qu'une politique est justement imposée par les institutions européennes. Du coup, l'abstention ne fait que grimper élection après élection et le malaise démocratique
+[00:34:31.800 --> 00:34:41.800] ne fait que s'installer sur le continent. Voici par exemple l'évolution des élections européennes en France depuis la première élection de 1979.
+[00:34:41.800 --> 00:34:51.800] Comme vous le voyez, il y avait 42,5% d'abstention en 1979, ce qui était énorme. À l'époque, il y avait en gros 25% des Français qui s'abstenaient aux grandes élections.
+[00:34:51.800 --> 00:34:58.800] Ça avait donc déjà témoigné à l'époque, en 1979, d'un profond désintérêt. Je me rappelle très bien, les médias avaient dit
+[00:34:58.800 --> 00:35:07.800] « Oh là là, 42,5%, c'est très grave. Il faut absolument que les Français se ressaisissent, qu'ils s'emparent du sujet européen.
+[00:35:07.800 --> 00:35:15.800] C'est eux donc, c'est eux qu'il s'agit. Il faut que l'Europe soit plus prêche du peuple français. Il faut absolument que ça diminue aux prochaines élections.
+[00:35:16.800 --> 00:35:22.800] En fait, de diminution, voilà qu'elle était la courbe suivie par les abstentions vote blancs et nuls à chacune des élections.
+[00:35:22.800 --> 00:35:37.800] On est passé à 45% d'abstention en 1984, 52% en 1989, on est légèrement redescendu à 50,1% en 1994, pour rebondir à 55,8% en 1999,
+[00:35:37.800 --> 00:35:50.800] 58,6% en 2004, 61,1% d'abstention vote blancs et nuls aux dernières élections en date de 2009. Si vous avez ici la courbe de régression linéaire
+[00:35:50.800 --> 00:35:58.800] qui vous montre qu'en gros, il y a tous les 5 ans environ 4 à 5% de Français de plus qui ne vont plus voter à ces élections.
+[00:35:58.800 --> 00:36:07.800] D'ailleurs, avec un taux d'abstention de blancs et nuls aux élections européennes de 2009, de 61%, la France était relativement un bon élève.
+[00:36:07.800 --> 00:36:23.430] Il y a des pays au sein de l'UE où le taux d'abstention a dépassé les 80% à ces élections. L'évolution en miroir du nombre de députés français
+[00:36:23.430 --> 00:36:32.430] parmi les députés européens me paraît intéressant à présenter sur le même graphique. En 1979, il y avait près de 20% de députés français
+[00:36:32.430 --> 00:36:42.430] au Parlement européen. Et puis au gré des élargissements, au gré des modifications de traités, je parlais tout à l'heure du traité de Nice
+[00:36:42.430 --> 00:36:50.430] qui avait justement modifié ce système, le pourcentage de députés français au Parlement européen est passé de 20% à 15%,
+[00:36:50.430 --> 00:36:59.430] légèrement remonté en 1994 à 16,8. Puis il est tombé à 15,3, 12,5 et est inférieur à 10%. Ce sont les élargissements à l'est.
+[00:36:59.430 --> 00:37:08.430] Il a fallu, comme on n'allait pas avoir des parlements avec 5000 à députés, il a fallu augmenter légèrement le nombre de députés,
+[00:37:08.430 --> 00:37:16.430] diminuer le nombre de députés des pays présents et en particulier créer quand même d'autres postes de députés. Donc une dilution.
+[00:37:16.430 --> 00:37:23.430] Ce qui est intéressant, c'est de voir que les deux courbes sont quasiment en miroir. Plus le temps passe, plus l'Europe s'élargit, plus les Français
+[00:37:23.430 --> 00:37:32.430] s'en désintéressent. Ils n'y comprennent plus rien. Et à ce rythme, l'abstention devrait mathématiquement atteindre 100% dans 63 ans.
+[00:37:32.430 --> 00:37:41.430] Dans 61 ans, j'ai fait ce graphique il y a déjà deux ans, c'est-à-dire qu'en 2074, il n'y aurait plus personne qui irait voter aux élections européennes.
+[00:37:41.430 --> 00:37:48.430] Et évidemment, comme disent les banquiers ou les boursiers, les arbres ne montent pas jusqu'au ciel. Ça veut donc dire que d'ici là,
+[00:37:48.430 --> 00:37:55.900] il y aura des choses qui vont se passer. Alors vous allez me dire que ce sont les élections européennes, c'est un cas particulier,
+[00:37:55.900 --> 00:38:02.900] les Français ne s'y intéressent pas. C'est pas très bon comme argument pour des gens qui disent que l'Europe est une construction démocratique.
+[00:38:02.900 --> 00:38:08.900] Mais ce qui est plus grave, c'est que ce phénomène, ce syndrome concerne également les autres élections.
+[00:38:08.900 --> 00:38:13.900] Puisque, comme je vous le disais préalablement, le fait de voter à droite ou à gauche pour des élections qui ne sont pas des élections européennes,
+[00:38:13.900 --> 00:38:20.900] mais par exemple l'élection présidentielle en France, les Français constatent que ça ne change rien. Sauf sur des points de détail,
+[00:38:20.900 --> 00:38:28.900] des sujets que l'on fait mousser artificiellement pour semer la zizanie, le mariage pour tous, par exemple. Ou bien, je ne sais pas,
+[00:38:28.900 --> 00:38:38.900] on va trouver des sujets qui vont être là. Là en ce moment, c'est la loi Fioraso en France sur l'enseignement tout en anglais,
+[00:38:38.900 --> 00:38:43.900] dans les établissements d'enseignement supérieurs. Et ce sont des sujets qui sont parfois très très importants.
+[00:38:43.900 --> 00:38:52.900] Mais les grands sujets fondamentaux, l'économie, le social, la diplomatie, les interventions militaires, etc., échappent complètement aux votes des Français.
+[00:38:52.900 --> 00:38:59.900] Résultat des courses, eh bien l'abstention monte dans toutes les élections. Et en particulier, je voulais vous montrer ça.
+[00:38:59.900 --> 00:39:06.900] C'est un seuil d'alerte extraordinaire. Ce sont les élections cantonales en France. C'est pour voter pour son conseiller général.
+[00:39:06.900 --> 00:39:13.900] C'est une élection de proximité. C'est une élection vraiment qui concerne les campagnes. Eh bien traditionnellement,
+[00:39:13.900 --> 00:39:21.900] on avait un taux d'abstention qui était aux alentours de 30% à 35% depuis, vous voyez, 1976. C'était un taux qui bougeait très peu.
+[00:39:21.900 --> 00:39:28.900] Il y avait une seule exception. C'était en 1988, où brutalement, le taux d'abstention avait bondi à 50%.
+[00:39:28.900 --> 00:39:32.900] Les élections cantonales, j'ai oublié de le préciser pour ceux qui ne le savent pas,
+[00:39:32.900 --> 00:39:37.900] les élections cantonales en France se déroulent tous les trois ans par moitié. Il y a moitié du pays qui vote.
+[00:39:37.900 --> 00:39:42.900] En fait, les conseils généraux sont élus pour six ans. Mais tous les trois ans, il y a une moitié de la France qui vote.
+[00:39:42.900 --> 00:39:48.900] Ça dépend des départements. Et puis trois ans après, c'est l'autre moitié. Donc on avait eu un cas exceptionnel en 1988,
+[00:39:48.900 --> 00:39:52.900] avec plus de 50% d'électeurs qui ne vont pas voter. C'est un seuil d'alerte maximum.
+[00:39:52.900 --> 00:39:58.900] C'était dû à une conjoncture, parce qu'en 1988, il y avait eu le premier tour de l'élection présidentielle,
+[00:39:58.900 --> 00:40:05.900] où Mitterrand s'était représenté. Il y avait le deuxième tour de l'élection présidentielle, où Mitterrand avait été réélu contre Chirac.
+[00:40:05.900 --> 00:40:12.900] Puis il y avait eu le premier tour de l'élection législative, qui avait suivi. Puis il y avait eu le deuxième tour de l'élection législative.
+[00:40:12.900 --> 00:40:17.900] Et puis il y avait eu le référendum sur la Nouvelle-Calédonie. Nous avions eu cinq consultations nationales.
+[00:40:17.900 --> 00:40:25.900] Et donc à l'automne, les Français avaient boycotté un petit peu les urnes. D'ailleurs, depuis là, on évite ce genre de convergences de dates.
+[00:40:25.900 --> 00:40:33.900] Et si nécessaire, on reporte d'un an les élections pour éviter qu'il y ait plusieurs élections nationales qui tombent la même année.
+[00:40:33.900 --> 00:40:42.900] Donc vous voyez en revanche ce qui s'est passé. C'est-à-dire que si l'on accepte cette pointe de 1988, on a quelque chose d'extrêmement stable.
+[00:40:42.900 --> 00:40:57.900] Sauf les dernières en date, en 2011, où on a bondi un taux jamais vu, qui a fait héberluer les politologues français à 56% d'abstention aux dernières élections cantonales.
+[00:40:57.900 --> 00:41:05.900] Comme si les Français ne voulaient plus aller voter, sont dégoûtés par toute la politique, quelle qu'il soit.
+[00:41:05.900 --> 00:41:15.900] Alors la conséquence également des calculs que je vous ai montrés, c'est que toute possibilité de bâtir une autre Europe est vouée à l'échec,
+[00:41:15.900 --> 00:41:23.900] puisqu'il faudrait l'unanimité des 27 gouvernements pour y parvenir. Je l'ai déjà dit plusieurs fois. On le mesure très concrètement.
+[00:41:23.900 --> 00:41:40.900] Ça, c'est l'affiche du PSF pour les élections européennes de 1979, les premières. Le PSF avait pris comme slogan « Changer l'Europe, vivre au pays ».
+[00:41:40.900 --> 00:41:52.900] Campagne du PSF pour les élections européennes de 1979. 30 ans après, en 2009, le PSF avait comme slogan « Changer l'Europe.fl ».
+[00:41:52.900 --> 00:42:00.900] Exactement le même slogan à 30 ans d'intervalle. La seule différence était le point FR, parce qu'entre temps, l'Internet est arrivé.
+[00:42:00.900 --> 00:42:14.560] On se moque de vous, de nous. On ne peut rien changer. Et on ne peut rien changer parce que justement, c'est cette fatalité statistique dont je parlais tout à l'heure,
+[00:42:14.560 --> 00:42:22.030] puisqu'il faudrait avoir 27 États qui soient d'accord pour ce qu'il faut, l'unanimité pour changer.
+[00:42:22.030 --> 00:42:34.010] Alors je voudrais maintenant évoquer le cas dont je parlais tout à l'heure, qui est le cas des partis plus petits.
+[00:42:34.010 --> 00:42:45.010] Les écologistes, le Front de gauche, c'est-à-dire la vraie gauche, comme certains pourraient dire, la gauche communiste ou paracommuniste,
+[00:42:45.010 --> 00:42:58.010] ou la gauche du type Parti socialiste français du Congrès des Pinets, avec un train de nationalisation, avec des propos assez véhéments contre le capitalisme, par exemple.
+[00:42:58.010 --> 00:43:04.010] Je ne parle pas de l'extrême-extrême gauche, comme en France le NPA ou du Touvrière. Je parle de, en France, le Front de gauche.
+[00:43:04.010 --> 00:43:10.010] Je parle également de la droite dure nationaliste, le Front national en France, par exemple.
+[00:43:10.010 --> 00:43:25.680] Je postule que dans chacun des 27 États, ces partis ont 15% de probabilité d'arriver au pouvoir, en tête. Pas dans une coalition, mais d'être au sommet du pouvoir.
+[00:43:25.680 --> 00:43:37.680] Vous voyez que c'est un calcul qui est exagérément favorable. Il n'y a jamais eu, en Europe, un parti du type Front national, ou du type Front de gauche,
+[00:43:37.680 --> 00:43:46.680] ou du type écologiste, qui soit arrivé au pouvoir numéro un, qui soit le chef de la coalition gouvernementale, depuis la fin de la Seconde Guerre mondiale.
+[00:43:46.680 --> 00:43:58.680] Donc quand je dis 15%, c'est un taux exagérément favorable. Le Parti communiste français a été créé... Enfin, la SFIO s'est scindée en deux, en Congrès de Tours de 1920.
+[00:43:58.680 --> 00:44:09.680] Le Parti communiste français a pris son nom définitif en 1943. Mais enfin, on peut dire que depuis 1920, il y a un Parti communiste français.
+[00:44:09.680 --> 00:44:23.680] On va fêter le 100e anniversaire de cette création, ou du moins de cette scission, dans quelques années. Au cours du siècle qui s'est écoulé, jamais le Parti communiste français n'est arrivé à la tête d'une coalition.
+[00:44:23.680 --> 00:44:37.680] Quand je prends un exemple de 15%, j'exagère. Je fais un calcul très favorable. Mais pour 27 États, la probabilité que l'Europe adopte la politique proposée soit par EELV,
+[00:44:37.680 --> 00:44:48.680] c'est-à-dire que d'avoir une Europe écologique... Ça veut dire qu'il faudrait réformer tous les traités dans le sens écologique. Ou bien la probabilité que l'Europe devienne une Europe de gauche,
+[00:44:48.680 --> 00:44:54.680] une Europe des travailleurs. C'est-à-dire qu'il faudrait modifier les traités dans le sens souhaité, par exemple, par le Front de gauche en France.
+[00:44:54.680 --> 00:45:05.680] Ou bien que l'Europe devienne une Europe blanche chrétienne, anti-immigrés, etc., selon le sens voulu par le Front national ou le Flams Bloc ou ce genre de mouvement.
+[00:45:05.680 --> 00:45:15.680] C'est dans tous les cas de figure, encore une fois avec ces calculs très schématiques et d'ailleurs très favorables, 0,15 à la puissance 27, plus 0,50,
+[00:45:15.680 --> 00:45:34.680] mais 0,15 à la puissance 26, qui fait exactement 5,685 à la puissance –23. Ça fait 0,00000000000000051685 chance sur 100.
+[00:45:34.680 --> 00:45:44.440] Ou si vous le préférez, 1,8 seconde tous les 10 trillions d'années, c'est-à-dire tous les 10 milliards de milliards d'années.
+[00:45:44.440 --> 00:45:55.910] Faites les calculs probabilistes. Qu'est-ce que vous dites de ça, M. Mélenchon, qui, comme vous le savez, est à la tête du Front de gauche en France,
+[00:45:55.910 --> 00:46:05.910] qui dit que sortir de l'UE, ce serait être péténiste, enfin sortir de l'euro, ça serait être maréchaliste, que sortir de l'UE, ce serait être nationaliste, xénophobe,
+[00:46:05.910 --> 00:46:18.990] et donc il faut rester Canada non reste pour changer l'Europe. Le concept d'autre Europe, c'est très important. C'est le truc le plus vicieux qui a été fait
+[00:46:18.990 --> 00:46:29.990] pour s'assurer l'apathie et la passivité de salariés et d'ouvriers dans le monde occidental pour accepter justement l'Europe telle qu'elle est.
+[00:46:29.990 --> 00:46:37.990] C'est d'ailleurs ce que viennent de comprendre, enfin ce qu'on a compris depuis quelques années, un syndicat comme le syndicat RMT,
+[00:46:37.990 --> 00:46:48.990] le syndicat principal syndicat britannique des transports, qui a déclaré il y a quelques jours, le 13 mai, qu'il ne fallait pas laisser le débat de la sortie de l'UE
+[00:46:48.990 --> 00:46:55.990] aux simples forces de droite ou d'extrême droite. J'aurais d'ailleurs l'occasion d'y revenir parce que c'est aussi l'une des particularités de notre mouvement,
+[00:46:55.990 --> 00:47:04.990] c'est d'analyser que ça n'est pas pour rien que ces mouvements d'extrême droite sont médiatisés, sont plus exactement médiabolisés,
+[00:47:04.990 --> 00:47:12.990] à la fois médiatisés et diabolisés en même temps. C'est pour faire croire aux Français ou aux Grecs, ou aux Grecs vous avez vu,
+[00:47:12.990 --> 00:47:16.990] compte tenu de la situation catastrophique en Grèce, les médias ont propulsé sur le devant de la scène un truc tout à fait nouveau,
+[00:47:17.990 --> 00:47:23.990] un mouvement néonazis, d'ailleurs dont les rumeurs disent qu'il est composé à plus de 50% de policiers.
+[00:47:23.990 --> 00:47:30.990] Parce qu'on médiatise des mouvements d'extrême droite en disant si vous voulez sortir de l'euro, si vous voulez, messieurs les Grecs,
+[00:47:30.990 --> 00:47:35.990] vous ne voulez pas vendre tout votre patrimoine public pour sauver les banques, alors c'est que vous pensez comme eau dorée.
+[00:47:35.990 --> 00:47:43.720] Or, eau dorée est un parti néonaziste, donc ça veut dire qu'en fait, vous êtes favorable aux chambres à gaz. C'est comme ça que ça marche.
+[00:47:43.720 --> 00:47:57.520] C'est exactement ce qui s'est passé avec la médiabolisation du FN depuis 1983. Et vous avez à gauche des gens qui entretiennent l'illusion
+[00:47:57.520 --> 00:48:08.520] qu'on va raser gratis demain, alors que la probabilité de changer d'Europe est très très très très très inférieure
+[00:48:08.520 --> 00:48:16.520] à la probabilité de gagner le gros lot à l'euro million. Si vous y croyez, je vous invite à jouer à tous les coups à l'euro million
+[00:48:16.520 --> 00:48:26.700] parce que vous aurez beaucoup beaucoup plus de chances de gagner le gros lot. La conséquence ultime de tout ce que je viens de vous dire,
+[00:48:26.700 --> 00:48:36.700] c'est que construire l'Europe implique pour les dirigeants européistes de prendre l'habitude de ne plus tenir aucun compte de la volonté réelle des peuples.
+[00:48:36.700 --> 00:48:43.700] Puisque ça ne sert à rien. Puisque lorsque les Français vont voter à gauche, les Espagnols vont voter à droite.
+[00:48:44.700 --> 00:48:53.700] Les dirigeants européistes peuvent se frotter les mains. Ça ne sert à rien. Et de toute façon, il y a des traités qui ont été gravés dans le marbre
+[00:48:53.700 --> 00:49:09.900] et dont la modification substantielle ne peut plus intervenir. C'est d'ailleurs en gros ce qu'il disent les européistes.
+[00:49:09.900 --> 00:49:18.900] Faut les écouter. Tommaso Padoascioppa paie à son âme. Il est mort il y a quelques années. Je crois que c'était en 2011.
+[00:49:18.900 --> 00:49:28.900] Tommaso Padoascioppa était le président, c'est un Italien, président de Think Tank Notre-Europe. Think Tank Notre-Europe qui avait été créé
+[00:49:28.900 --> 00:49:36.900] par Jacques Delors, président fondateur et Pascal Lamy, président d'honneur actuellement à la tête de l'Organisation Mondiale du Commerce.
+[00:49:36.900 --> 00:49:45.900] Tommaso Padoascioppa était, comme la plupart des élites européistes, passé par le moule américain. Il était diplômé du MIT,
+[00:49:45.900 --> 00:49:54.900] Massachusetts Institute of Technology de Harvard. Il était l'ancien président du comité directeur du fonds monétaire international.
+[00:49:54.900 --> 00:50:04.900] Il a été ministre de l'économie et des finances italien de 2006 à 2008. De 2006 à 2008, je ne parle pas de l'homme de Cro-Magnon.
+[00:50:04.900 --> 00:50:10.900] Je vous parle de quelqu'un qui était aux responsabilités il y a encore quelques semestres. Il est mort en 2011.
+[00:50:10.900 --> 00:50:18.900] Et bien Tommaso Padoascioppa, qui a été membre du directoire de la Banque centrale européenne, il avait publié un article
+[00:50:18.900 --> 00:50:26.900] dans une revue française de qualité, qui est la revue Commentaire, dans le numéro 87 de l'automne 1999.
+[00:50:26.900 --> 00:50:32.900] Et son article s'appelait « Les enseignements de l'aventure européenne ». Et que disait M. Padoascioppa ? Il l'a écrit.
+[00:50:32.900 --> 00:50:37.900] Il l'a pas dit. Il l'a écrit. Ah oui, j'ai pour particularité, pour ceux qui ne le sauraient pas, de tout ce que je dis.
+[00:50:37.900 --> 00:50:44.900] Vous pouvez sourcer. Vous pouvez ensuite aller vérifier si ce que je vous raconte, ce sont des balivernes ou bien si c'est la réalité.
+[00:50:44.900 --> 00:50:51.900] Il écrit dans cet article de la revue Commentaire, numéro 87, encore une fois, ce n'est pas un tabloïde. C'est vraiment quelque chose de sérieux.
+[00:50:51.900 --> 00:50:59.900] La construction européenne est une révolution, même si les révolutionnaires ne sont pas des conspirateurs blêmes et maigres,
+[00:50:59.900 --> 00:51:11.850] mais des employés, des fonctionnaires, des banquiers et des professeurs. Une révolution de banquiers.
+[00:51:11.850 --> 00:51:20.850] On en a déjà connu d'ailleurs en France. Je rappelle qu'en 1830, lorsque Charles X a demandé au prince de Polignac d'envoyer tirer sur la foule parisienne,
+[00:51:20.850 --> 00:51:26.850] suite à la prise de... Vous savez qu'il avait décidé de prendre les fameuses ordonnances qui remettaient en cause la liberté de la presse,
+[00:51:26.850 --> 00:51:34.850] qui avait été octroyée par son frère Louis XVIII à la restauration. Ça a mis le feu aux poudres. Les Français parisiens sont descendus dans la rue.
+[00:51:34.850 --> 00:51:43.850] Il y a quand même eu 3000 morts. Charles X a fini par s'enfuir. Il a fui à la Malmaison. Puis après, il a fui en Angleterre.
+[00:51:43.850 --> 00:51:48.850] Ça a été la chute du régime de Charles X. Les Parisiens réclamaient une république. Et puis il y a des banquiers.
+[00:51:48.850 --> 00:51:53.850] Le banquier l'a fit avec la faillette. Il s'est fou au filet. On dit non, non, non. Ce que veulent les Parisiens, c'est en fait...
+[00:51:53.850 --> 00:52:00.850] Il y a un type formidable. C'est lui. C'est Louis Philippe, le duc d'Orléans. Regardez comme il est bien. Hop. Et on a eu une révolution,
+[00:52:00.850 --> 00:52:10.850] un petit peu comme la révolution des œillets, n'est-ce pas, récemment, ou les révolutions du printemps arabe. C'est-à-dire que la révolution voulue par les Parisiens
+[00:52:10.850 --> 00:52:15.850] a été complètement déviée de son objet. On a dit, oui, ce que vous voulez, c'est ça. C'est d'ailleurs ce qu'a fait M. Sarkozy.
+[00:52:15.850 --> 00:52:22.850] 55% des Français ont voté non à la Constitution européenne parce qu'ils ne voulaient pas toute une série de sujets qui, d'ailleurs, remontaient au traité de Rome.
+[00:52:22.850 --> 00:52:31.850] Et Sarkozy a dit, oui, oui, on sait très bien ce que vous voulez. On va changer deux, trois points virgules et on va vous le remettre tel que vous le souhaitiez.
+[00:52:31.850 --> 00:52:38.850] Donc ça, ce sont des procédés, des scroqueries politiques. C'était ce qui s'était passé en 1830. Et les Français, donc, se sont ramassés,
+[00:52:38.850 --> 00:52:45.850] si vous me le permettez, une nouvelle dynastie des Orléans, Louis-Philippe Ier, qui d'ailleurs a accepté d'être roi des Français, non pas roi de France.
+[00:52:45.850 --> 00:52:51.850] Enfin, ça s'est très mal terminé puisque 18 ans après, comme vous le savez, il a été chassé par les Français. Il est parti déguisé en vieille dame.
+[00:52:51.850 --> 00:53:01.850] Je ne suis pas très glorieux d'être un travesti comme pour la fin de la monarchie française. En attendant, nous avons donc une révolution
+[00:53:01.850 --> 00:53:09.850] faite par des banquiers, nous dit M. Padoas-Kiopa. Enfin, pas M. puisqu'il est mort, Thomas Padoas-Kiopa. Et il continue en disant
+[00:53:09.850 --> 00:53:18.850] « L'Europe ne procède pas d'un mouvement démocratique. Elle s'est faite en suivant une méthode que l'on pourrait définir du terme de despotisme éclairé ».
+[00:53:18.850 --> 00:53:26.850] C'est en parfaite cohérence avec la fatalité statistique que je viens de vous montrer. Puisqu'il faut construire l'Europe,
+[00:53:26.850 --> 00:53:32.850] eh bien il est indispensable. Ça ne peut pas marcher si on tient compte de la vie des peuples, puisque d'ailleurs les vies des peuples sont toujours différentes.
+[00:53:32.850 --> 00:53:43.610] Le despotisme éclairé. Je ne sais pas si j'ai besoin de vous éclairer sur ce qu'est le despotisme éclairé. Le despotisme éclairé fait par référence
+[00:53:43.610 --> 00:53:52.610] à une période de notre histoire, d'histoire de l'Europe, qui était le XVIIIe siècle. On a appelé despots éclairés,
+[00:53:52.610 --> 00:53:59.610] principalement Frédéric II, le roi de Prusse, d'Hérenz-Hollernes, et puis la grande Catherine de Russie, dont vous savez
+[00:53:59.610 --> 00:54:06.610] qu'elle était originaire d'origine allemande. Et elle avait les dents qui rayaient le parquet à Saint-Pétersbourg, puisqu'elle avait donc fait...
+[00:54:06.610 --> 00:54:13.610] En gros, elle avait assisté sans trop de malheur, sans trop de drame au décès de son beau-père, le tsar, et qu'ensuite, elle avait plutôt poussé
+[00:54:13.610 --> 00:54:20.610] dans la tombe son mari pour devenir tsarina à la place. Donc il s'agissait dans un cas comme dans l'autre, Frédéric II de Prusse,
+[00:54:20.610 --> 00:54:29.610] la grande Catherine de Russie, d'autocrate des spots, qui tenaient d'une main de fer leur pays respectif, mais qui se donnait un genre
+[00:54:29.610 --> 00:54:40.610] en écrivant, en recevant, en conversant avec Diderot, avec Voltaire, qui venaient éventuellement les voir à Sans Souci, au château de Sans Souci, à Berlin, etc.
+[00:54:40.610 --> 00:54:48.610] Et on disait, oui, d'accord, ce sont des autocrates, mais ce sont des despots éclairés, c'est-à-dire qui cherchent le bien de leur peuple.
+[00:54:48.610 --> 00:54:58.610] Au passage, d'ailleurs, je signale, au risque de vous ôter bien des illusions, c'est que je ne connais pas moi de tyran qui se soit dit, je suis un tyran.
+[00:54:58.610 --> 00:55:10.610] Tous les tyrans, tous les despots de toute l'histoire sont toujours dit qu'ils faisaient le bien de leur peuple. Hitler, Napoléon, Staline, Pol Pot, tous.
+[00:55:10.610 --> 00:55:19.610] Il dit à Mindada, on a tous, tous les grands tyrans de notre XXe siècle ou des siècles précédents ont toujours dit qu'ils voulaient faire le bien de leur peuple.
+[00:55:19.610 --> 00:55:27.610] En attendant, nous avons ce que les Américains appelleraient un insider, c'est-à-dire quelqu'un qui connaît le inside, l'inside view, l'intérieur.
+[00:55:27.610 --> 00:55:36.610] Vous avez vu le pédigree que je viens de vous citer. Il en connaît quand même plus que vous et que moi. Sur les arcanes du pouvoir européen, il est le premier à le dire.
+[00:55:36.610 --> 00:55:42.610] En fait, l'Europe ne procède pas d'un mouvement démocratique. Alors du coup, rappelez-vous ce que je vais vous montrer en préambule.
+[00:55:42.610 --> 00:55:50.610] L'article 1 bis « L'Union est fondée sur les valeurs de démocratie ». Ben non ! Il faut relire cet article de la même façon qu'on relisait en Occident
+[00:55:50.610 --> 00:55:56.610] la Constitution Brejnev quand elle disait que c'était une démocratie authentique. En fait, tous les profs de droit constitutionnel dans le monde entier
+[00:55:56.610 --> 00:56:04.610] savaient que c'étaient des mots qui étaient à double entente, des mots qu'il fallait réinterpréter dans leur contexte idéologique.
+[00:56:04.610 --> 00:56:17.610] Non ! En réalité, l'Europe, c'est le despotisme éclairé. On l'a une confirmation très récemment. Vous avez ici une photographie de Helmut Kohl.
+[00:56:17.610 --> 00:56:27.610] Helmut Kohl qui a fêté récemment ses 80 ans, l'ancien chancelier d'Allemagne qui a été à la tête de l'Allemagne à peu près au moment de Mitterrand
+[00:56:27.610 --> 00:56:38.610] et en particulier c'est lui qui a été le chancelier au moment de l'arrêt unification allemande. Il assiste ici à un timbre que l'on lui a dédié en 2012
+[00:56:38.610 --> 00:56:48.610] avec marqué Helmut Kohl, cancer de Reinhardt, chancelier de l'Unité, Ehrenberger, Europas, citoyen d'honneur de l'Europe.
+[00:56:48.610 --> 00:56:59.610] Ce monsieur que l'on a célébré en grande pompe en Allemagne, dont il est de bon ton de dire oui, c'est un type formidable, il a été le chancelier qui a fait l'euro,
+[00:56:59.610 --> 00:57:06.610] il avait donné une interview, voici une dizaine d'années qui était restée confidentielle parce qu'on avait estimé que ça pouvait faire scandale
+[00:57:06.610 --> 00:57:21.610] et qui a été diffusée il y a quelques jours uniquement. Voilà ce qu'il a dit très exactement. C'était une interview qui a été réalisée par le journaliste
+[00:57:22.610 --> 00:57:31.610] en 2002, qui a été rendue publique le 9 mars 2013 par le journal britannique Daily Mail, qui a été reprise dans toute la presse internationale,
+[00:57:31.610 --> 00:57:38.610] que d'ailleurs Helmut Kohl n'a pas démenti. Je savais que nous aurions perdu un référendum sur l'introduction de l'euro, c'est tout à fait clair,
+[00:57:38.610 --> 00:57:52.370] j'aurais perdu avec 70% de non contre 30% de oui. J'ai agi comme un dictateur. Après on s'étonne qu'il y ait actuellement 80% des Allemands qui veulent sortir de l'euro.
+[00:57:52.370 --> 00:58:07.370] Mais parce que l'histoire se venge toujours. Les 70% de non en 2002 sont 75 à 80% en 2013. Pas en 2002, excusez-moi, c'était en 1989.
+[00:58:07.370 --> 00:58:22.080] Ils ont légèrement augmenté. Les grandes masses ne changent pas en politique. En France, l'évolution de l'opposition des Français à la construction européenne
+[00:58:22.080 --> 00:58:30.080] peut être reprise sur ce graphique qu'il faut prendre avec prudence. Parce que je rappelle, ce que souvent on oublie de dire, c'est qu'en France,
+[00:58:30.080 --> 00:58:39.080] c'est d'ailleurs vrai dans la plupart des pays d'Europe, on n'a jamais, au grand jamais, demandé aux Français s'ils étaient d'accord pour supprimer leur pays.
+[00:58:39.080 --> 00:58:49.080] Pour faire en sorte que la France disparaisse dans un État continent. On ne l'aura jamais demandé. Je crois pas qu'on ait demandé aux Belges non plus, d'ailleurs.
+[00:58:49.080 --> 00:58:59.080] Pas plus aux Espagnols, pas plus aux Italiens. En France, on a demandé... Il s'est passé qu'en 1957, il y avait des députés... D'abord, un jour,
+[00:58:59.080 --> 00:59:07.080] ils ont appris en prenant leur petit déjeuner. En 1957, on est sous la 4e République, sous le Président du Conseil qui s'appelle Félix Gaillard.
+[00:59:07.080 --> 00:59:14.080] Après, il y a un traité qui a été signé à Rome. Très bien. On en reparlera tout à l'heure, ce traité de Rome. Bon.
+[00:59:14.080 --> 00:59:21.080] Ce traité, il a été signé par des plignes potentielles. Les Français, ils n'avaient jamais... Ils n'avaient pas donné le moindre accord à ça.
+[00:59:21.080 --> 00:59:28.080] Ensuite, ce traité... Vous savez qu'un traité, une fois qu'il est signé, il faut qu'il soit ratifié. Il a été ratifié par la représentation nationale.
+[00:59:28.080 --> 00:59:39.080] Mais il a été ratifié par des députés qui n'avaient pas été élus pour ça, par les Français. Donc les Français se sont retrouvés embarqués dans la construction européenne
+[00:59:39.080 --> 00:59:45.080] sans qu'on leur ait demandé si vous êtes d'accord. L'objectif, c'est quand même au bout du compte que la France n'existe plus.
+[00:59:45.080 --> 00:59:51.080] On aurait peut-être pu quand même leur demander leur avis. C'est quand même assez grandiose comme sujet. D'ailleurs, c'est un sujet d'une question
+[00:59:51.080 --> 01:00:01.540] qu'il faudrait leur demander régulièrement et pas seulement aux Français. Parce que c'est un plébiscite quotidien qu'on demande au peuple, en fait.
+[01:00:01.540 --> 01:00:08.540] On a demandé aux Français à trois reprises leur avis. Trois reprises par trois référendums. Le premier, ça a été en 1972.
+[01:00:08.540 --> 01:00:15.540] C'est-à-dire 15 ans après 1957. C'était sous Georges Pompidou. Et Georges Pompidou a fait un référendum en demandant aux Français
+[01:00:15.540 --> 01:00:22.540] est-ce que vous êtes d'accord pour l'entrée du Royaume-Uni, du Danemark, de l'Irlande et de la Norvège dans la CE.
+[01:00:22.540 --> 01:00:30.540] Puisqu'il y avait eu un traité d'élargissement. Ensuite, la Norvège a dit non et restait à l'écart. Mais le Danemark, le Royaume-Uni et l'Irlande sont entrés.
+[01:00:30.540 --> 01:00:35.540] Donc on avait demandé aux Français – c'était le 27 avril 1972 – est-ce que vous êtes d'accord avec ça ?
+[01:00:35.540 --> 01:00:46.680] S'ils avaient répondu oui, on faisait entrer le Royaume-Uni. S'ils répondaient non, on restait dans la situation actuelle.
+[01:00:46.680 --> 01:00:51.680] On leur a pas dit est-ce que vous êtes d'accord avec le principe d'abandonner la France ? On leur a jamais posé cette question.
+[01:00:51.680 --> 01:01:01.030] À l'époque, le PSF avait appelé à l'abstention. À l'époque, il y a eu 31,7% de non.
+[01:01:02.030 --> 01:01:09.030] Donc 68% de oui. Mais avec une très forte abstention anormale pour l'époque de 35%.
+[01:01:09.030 --> 01:01:19.030] Ce qui fait qu'en réalité, les Français qui ont voté oui à l'élargissement au Royaume-Uni, c'était en gros 35% des électeurs inscrits.
+[01:01:19.030 --> 01:01:27.030] Ce qui était minoritaire par rapport aux électeurs inscrits. Et puis après, on n'a plus jamais demandé la parole pendant 20 ans.
+[01:01:27.030 --> 01:01:32.030] Puis 20 ans après, ça a été le référendum sur le traité de Maastricht, créant l'Union européenne.
+[01:01:32.030 --> 01:01:39.030] Donc comme je vous le disais tout à l'heure, transformant la CE en Union européenne et créant la monnaie européenne, créant la CE.
+[01:01:39.030 --> 01:01:49.030] En 1992, les Français ont voté oui à 51% sur le fil du rasoir. 49% de non.
+[01:01:50.030 --> 01:02:00.030] J'ajoute qu'il y avait à peu près 38% d'abstention. Ce qui veut dire que le nombre de électeurs inscrits qui ont voté oui au traité de Maastricht
+[01:02:00.030 --> 01:02:08.030] était passé de 34% en 1972 pour l'élargissement au Royaume-Uni, était tombé à 31%.
+[01:02:08.030 --> 01:02:20.030] Comme l'a dit le pape du monétarisme américain Milton Friedman, je trouve démentiel un régime qui permette à une minorité d'électeurs,
+[01:02:20.030 --> 01:02:29.030] 38% pour 32% des électeurs inscrits, de décider pour les autres d'un changement aussi fondamental que finalement la disparition de leur propre pays.
+[01:02:29.030 --> 01:02:36.030] Alors je ne sais pas quelles sont les statistiques en Belgique, ni quel a été le processus de ratification.
+[01:02:36.030 --> 01:02:44.030] Mais ce que je sais, c'est qu'en France, ce dont je vous parle, c'était en 1992, il y a donc 21 ans, que depuis 21 ans, il y a la courbe des âges
+[01:02:44.030 --> 01:02:54.030] et l'évolution du temps qui joue. Il y a eu en gros 21 tranches d'âge qui sont décédées et 21 tranches d'âge nouvelles qui sont arrivées parmi les électeurs.
+[01:02:54.030 --> 01:03:02.030] Et donc ça veut dire qu'actuellement, quand vous allez en France, on peut estimer qu'il y a en gros pas plus d'un Français en âge de voter sur 6
+[01:03:02.030 --> 01:03:13.400] qui a voté oui à l'euro, qui a positivement voté oui à l'euro. Il y a 5 Français sur 6 qui soit ne vivaient pas à l'époque ou n'étaient pas encore électorés,
+[01:03:13.400 --> 01:03:20.400] ils étaient trop petits, soit avaient voté non, soit n'étaient pas allés voter parce que ça ne les concernait pas, ils ne le sentaient pas.
+[01:03:20.400 --> 01:03:28.400] Donc vous voyez qu'en termes d'analyse sociologique, ce sur quoi repose la monnaie européenne en France est quand même très faible.
+[01:03:28.400 --> 01:03:38.400] D'autant plus faible que d'ailleurs les gens qui ont voté oui à l'époque l'ont fait sur la foi de promesse comme quoi l'euro ce serait le paradis terrestre.
+[01:03:38.400 --> 01:03:47.400] L'euro c'est plus de croissance, c'est plus d'emploi, c'est ce qu'on disait aux Français. En fait c'est plus de croissance du tout et plus d'emploi du tout.
+[01:03:47.400 --> 01:03:56.400] C'est ça qu'on disait aux Français. Donc les Français qui ont voté oui l'ont fait et on leur a dit si jamais vous votez non, c'est l'apocalypse, c'est Verdun, c'est la guerre.
+[01:03:56.400 --> 01:04:03.400] Alors les Français on leur dit non, on ne peut pas. Mais donc les Français qui ont voté oui on leur a escroqué leur consentement.
+[01:04:03.400 --> 01:04:10.400] Comme d'ailleurs la plupart des peuples. Ça veut donc dire qu'actuellement contrairement je lis des sondages qui disent oui les Français
+[01:04:10.400 --> 01:04:19.400] le soutien à l'Union Européenne s'est effondré en France mais quand même l'euro etc. mais n'en croyez rien. N'en croyez rien.
+[01:04:21.910 --> 01:04:26.910] Et puis la troisième fois on a demandé leur avis aux Français c'est au référendum sur la constitution européenne dont je parlais tout à l'heure en 2005
+[01:04:26.910 --> 01:04:40.570] où cette fois-ci ils ont voté non à 54,7%. En 92 si les Français avaient voté non on restait dans la CAE. On ne sortait pas.
+[01:04:40.570 --> 01:04:48.570] Et en 2005, vous voyez d'ailleurs le graphique était très mal fichu parce qu'ici il y a 20 ans alors que entre 92 et 2005 il n'y a que 13 ans
+[01:04:48.570 --> 01:04:56.570] donc en fait la courbe augmente plus vite si on avait la même échelle de temps. En 2005 lorsque les Français ont voté non
+[01:04:56.570 --> 01:05:08.570] si nous étions dans un pays démocratique, dans un pays dirigé par des gens intellectuellement honnêtes, recherchant honnêtement le bien de la population
+[01:05:08.570 --> 01:05:17.570] et recherchant honnêtement à comprendre ce que veut le peuple français. On parle des Français mais ça peut être appliqué à tous les autres peuples d'Europe.
+[01:05:17.570 --> 01:05:26.570] Et bien normalement des dirigeants scrupuleux auraient dû dire bon attendez là il y a un problème. Il y a 55% de nos concitoyens qui ont dit non
+[01:05:26.570 --> 01:05:33.570] donc il faut remettre sur la table. Il faut quand même voir qu'est-ce qui se passe, de quoi ils ne veulent pas. Mais pas du tout.
+[01:05:33.570 --> 01:05:39.570] On a dit les Français ont voté en fait ils aimaient pas Chirac, ils se sont pas intéressés au truc ce qui n'est pas vrai du tout.
+[01:05:39.570 --> 01:05:47.570] Pour jamais on n'avait vu autant de Français s'intéresser à un tel débat. Et puis on a dit allez on n'en parle plus.
+[01:05:47.570 --> 01:05:53.570] Après Chirac, Sarkozy a été élu et on a eu comme je le disais tout à l'heure le tour de passe-passe du traité de Lisbonne.
+[01:05:53.570 --> 01:05:59.570] Oui on a compris ce que vous vouliez. Il y avait une virgule dans un article qui vous baisait pas et puis là l'hymne national on va pas...
+[01:05:59.570 --> 01:06:08.570] Et puis on leur a fourgué ce qu'ils avaient refusé par une autre procédure. Malheureusement c'est constitutionnel en France.
+[01:06:08.570 --> 01:06:16.570] Ce n'est pas interdit par la constitution mais c'est même une forfaiture éthique et politique d'avoir forcé les Français à adopter en 2008,
+[01:06:16.570 --> 01:06:24.570] d'avoir ratifié dans le dos des Français en 2008 ce qu'ils avaient rejeté à 55% par référendum en 2005.
+[01:06:24.570 --> 01:06:30.570] Et puis alors le sondage... Alors vous voyez tout ça n'est pas homogène mais c'est quand même pour vous donner une tendance.
+[01:06:31.570 --> 01:06:50.570] Donc tout ceci pour montrer que l'évolution de l'opposition des Français à la construction européenne au cours des années des 40 années 1972-2012,
+[01:06:50.570 --> 01:07:00.570] en gros se passe de commentaires. En gros nos dirigeants, et ce n'est pas seulement vrai en France, c'est vrai en Belgique, en Italie, en Allemagne,
+[01:07:00.570 --> 01:07:11.570] on l'a vu à l'instant même avec la déclaration d'Helmut Kohl, en gros nos dirigeants savent pertinemment que la politique conduite n'est pas soutenue par la population
+[01:07:11.570 --> 01:07:13.570] et l'est de moins en moins.

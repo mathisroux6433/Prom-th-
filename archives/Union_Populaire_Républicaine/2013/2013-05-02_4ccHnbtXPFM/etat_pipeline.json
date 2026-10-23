@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "video_id": "4ccHnbtXPFM",
+  "updated_at": "2026-10-19T10:33:51.059491+00:00",
+  "steps": {
+    "metadata": {
+      "status": "complete",
+      "error": null
+    },
+    "download": {
+      "status": "complete",
+      "error": null,
+      "file": "audio.m4a"
+    },
+    "transcription": {
+      "status": "complete",
+      "error": null,
+      "model": "medium",
+      "device": "cuda"
+    },
+    "correction": {
+      "status": "complete",
+      "error": null,
+      "source": "C:\\Prométhé\\archives\\Union_Populaire_Républicaine\\2013\\2013-05-02_4ccHnbtXPFM\\travail\\reponses\\reponse_correction.txt",
+      "mode": "correction_contextuelle_validee",
+      "changed": true
+    },
+    "index": {
+      "status": "complete",
+      "error": null,
+      "source": "C:\\Prométhé\\archives\\Union_Populaire_Républicaine\\2013\\2013-05-02_4ccHnbtXPFM\\travail\\reponses\\reponse_index.json"
+    },
+    "synthesis": {
+      "status": "complete",
+      "error": null,
+      "source": "C:\\Prométhé\\archives\\Union_Populaire_Républicaine\\2013\\2013-05-02_4ccHnbtXPFM\\travail\\reponses\\reponse_synthese.md"
+    },
+    "quality_control": {
+      "status": "complete",
+      "error": null,
+      "source": "C:\\Prométhé\\archives\\Union_Populaire_Républicaine\\2013\\2013-05-02_4ccHnbtXPFM\\travail\\reponses\\reponse_controle.json",
+      "report": "rapport_controle_qualite.md",
+      "synthesis_changed": false
+    }
+  }
+}

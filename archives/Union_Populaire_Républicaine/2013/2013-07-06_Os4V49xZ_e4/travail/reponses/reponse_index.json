@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.1",
+  "video_id": "Os4V49xZ_e4",
+  "resume_general": "Séance de questions-réponses avec François Asselineau après sa conférence à Bruxelles. Il répond aux objections selon lesquelles l'Union européenne garantirait la paix, donnerait du poids face aux BRICS et renforcerait la France à l'OMC ou au FMI. Il défend la souveraineté nationale, les alliances internationales variables, une diplomatie indépendante, la diversité culturelle et la sortie de l'UE. D'autres échanges portent sur les médias, les parrainages, Israël, la stratégie de l'UPR et les logiciels libres.",
+  "themes_principaux": [
+    {"theme": "Souveraineté économique", "description": "Critique des asymétries de capitaux et de l'abandon des intérêts nationaux.", "reperes": ["00:00:10-00:04:29"]},
+    {"theme": "Europe et paix", "description": "Réfutation de l'argument selon lequel l'intégration européenne aurait empêché la guerre.", "reperes": ["00:22:08-00:30:11"]},
+    {"theme": "Diplomatie et BRICS", "description": "Défense d'une politique extérieure française autonome et bilatérale.", "reperes": ["00:30:11-00:39:23"]},
+    {"theme": "Commerce international", "description": "Critique de la représentation commerciale unique de l'UE à l'OMC.", "reperes": ["00:39:23-00:51:30"]},
+    {"theme": "Stratégie politique de l'UPR", "description": "Médias, adhésions, parrainages et focalisation sur la sortie de l'UE.", "reperes": ["00:54:15-01:15:20"]}
+  ],
+  "sujets_secondaires": ["PSA et Iran", "réciprocité des investissements", "Jacques Cheminade", "UPR Québec", "diversité culturelle", "héritage gaullien", "soft power américain", "dissuasion nucléaire", "réseau Echelon", "textile chinois", "groupe de Cairns", "FMI", "G7", "loi Fioraso", "parrainages présidentiels", "lobby israélien", "Linux Mint", "TrueCrypt", "souveraineté numérique"],
+  "mots_cles": ["Union européenne", "souveraineté", "paix", "CECA", "BRICS", "OMC", "FMI", "Banque mondiale", "OTAN", "pacte de Varsovie", "soft power", "Echelon", "intérêt européen", "quotas textiles", "article 50", "UPR", "parrainages", "Israël", "logiciel libre"],
+  "variantes_lexicales": {
+    "Union européenne": ["UE", "construction européenne", "Europe"],
+    "sortie de l'Union européenne": ["sortie de l'UE", "retrait", "libérer la France"],
+    "BRICS": ["Brésil, Russie, Inde, Chine, Afrique du Sud"],
+    "OMC": ["Organisation mondiale du commerce", "négociations commerciales multilatérales"],
+    "souveraineté": ["indépendance nationale", "intérêts nationaux", "siège national"],
+    "influence américaine": ["soft power", "américanisation", "Imperium américain"]
+  },
+  "personnes": [
+    {"nom": "François Asselineau", "role": "intervenant principal", "reperes": ["00:00:51-01:20:12"]},
+    {"nom": "Jacques Cheminade", "role": "candidat cité et critiqué", "reperes": ["00:04:38-00:06:54", "01:01:41-01:02:05"]},
+    {"nom": "Charles de Gaulle", "role": "référence historique et diplomatique", "reperes": ["00:14:44-00:22:08", "00:34:15-00:38:38"]},
+    {"nom": "François Mitterrand", "role": "cité sur la guerre et la puissance américaine", "reperes": ["00:24:10-00:25:38"]},
+    {"nom": "Dominique de Villepin", "role": "cité pour son discours à l'ONU en 2003", "reperes": ["00:19:41-00:20:25"]},
+    {"nom": "José Manuel Barroso", "role": "président de la Commission évoqué", "reperes": ["00:33:22-00:33:46"]},
+    {"nom": "Nicolas Sarkozy", "role": "ancien président cité", "reperes": ["00:38:47-00:39:23"]}
+  ],
+  "organismes": [
+    {"nom": "Union populaire républicaine", "type": "parti politique", "reperes": ["00:06:54-00:08:23", "00:54:15-01:20:12"]},
+    {"nom": "Union européenne", "type": "organisation politique", "reperes": ["00:01:03-00:04:29", "00:22:08-00:54:14"]},
+    {"nom": "Organisation mondiale du commerce", "type": "organisation internationale", "reperes": ["00:39:23-00:51:30"]},
+    {"nom": "Fonds monétaire international", "type": "organisation financière internationale", "reperes": ["00:51:30-00:54:14"]},
+    {"nom": "OTAN", "type": "alliance militaire", "reperes": ["00:29:08-00:30:03"]},
+    {"nom": "Commission européenne", "type": "institution de l'UE", "reperes": ["00:40:19-00:46:23"]},
+    {"nom": "Thomson", "type": "entreprise française citée", "reperes": ["00:35:45-00:37:10"]},
+    {"nom": "Raytheon", "type": "entreprise américaine citée", "reperes": ["00:36:09-00:37:10"]}
+  ],
+  "concepts": [
+    {"nom": "asymétrie internationale", "definition_contextuelle": "ouverture européenne sans réciprocité équivalente des partenaires", "reperes": ["00:01:03-00:04:29"]},
+    {"nom": "soft power", "definition_contextuelle": "domination par la langue, la culture, les médias et l'information plutôt que par la guerre directe", "reperes": ["00:23:48-00:27:24"]},
+    {"nom": "intérêt européen", "definition_contextuelle": "intérêt commun que l'orateur nie en raison des spécialisations nationales divergentes", "reperes": ["00:40:35-00:46:23"]},
+    {"nom": "alliance de circonstance", "definition_contextuelle": "coalition commerciale variable selon le dossier", "reperes": ["00:47:10-00:51:20"]},
+    {"nom": "focalisation stratégique", "definition_contextuelle": "choix de l'UPR de concentrer sa coalition sur la sortie de l'UE", "reperes": ["01:06:34-01:11:35"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Traité de Rome", "date_ou_periode": "25 mars 1957", "reperes": ["00:39:43-00:40:27"]},
+    {"nom": "Équilibre OTAN–pacte de Varsovie", "date_ou_periode": "guerre froide", "reperes": ["00:29:08-00:30:03"]},
+    {"nom": "Marché de surveillance de l'Amazonie", "date_ou_periode": "1963 et 1995", "reperes": ["00:34:15-00:37:10"]},
+    {"nom": "Article 2 de la loi Fioraso", "date_ou_periode": "2013", "reperes": ["00:57:47-00:58:23"]},
+    {"nom": "Réforme des parrainages présidentiels", "date_ou_periode": "années 1960-1970", "reperes": ["01:00:54-01:01:51"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:10", "fin": "00:04:29", "description": "asymétrie économique"},
+    {"debut": "00:04:29", "fin": "00:14:10", "description": "médias, implantation et vision du monde"},
+    {"debut": "00:14:25", "fin": "00:22:08", "description": "histoire et gaullisme"},
+    {"debut": "00:22:08", "fin": "00:30:11", "description": "objection Europe-paix"},
+    {"debut": "00:30:11", "fin": "00:39:23", "description": "diplomatie et BRICS"},
+    {"debut": "00:39:23", "fin": "00:54:14", "description": "OMC, FMI et intérêts divergents"},
+    {"debut": "00:54:15", "fin": "01:02:59", "description": "médias et parrainages"},
+    {"debut": "01:02:59", "fin": "01:15:20", "description": "Israël et stratégie de parti"},
+    {"debut": "01:15:20", "fin": "01:20:12", "description": "logiciels libres et données"}
+  ],
+  "expressions_representatives": [
+    {"expression": "crise morale", "reperes": ["00:02:46-00:03:05"]},
+    {"expression": "L'Europe, c'est la paix", "reperes": ["00:23:53-00:24:10"]},
+    {"expression": "il n'y a pas d'intérêt européen", "reperes": ["00:43:59-00:44:12"]},
+    {"expression": "alliances de circonstances", "reperes": ["00:49:18-00:49:36"]},
+    {"expression": "nous voulons sortir de l'Union européenne, point", "reperes": ["00:55:29-00:55:42"]}
+  ],
+  "citations_exactes": [
+    {"citation": "Il n'y a aucun endroit au monde où il y a l'équivalent d'une construction européenne.", "reperes": ["00:01:41-00:01:52"]},
+    {"citation": "Il faudrait que l'on milite pour un maintien de la diversité des nations comme on milite pour le maintien de la diversité biologique.", "reperes": ["00:11:31-00:12:02"]},
+    {"citation": "Nous ferons des alliances de circonstances avec les différents pays en fonction des sujets.", "reperes": ["00:49:18-00:49:36"]},
+    {"citation": "Nous, nous disons, nous voulons sortir de l'Union européenne, point.", "reperes": ["00:55:29-00:55:42"]}
+  ],
+  "arguments_positions": [
+    {"position": "défendue", "these": "La souveraineté et la fierté nationale soutiennent le développement économique.", "raisonnement": "Les pays asiatiques cités se développent sans transfert supranational de souveraineté.", "reperes": ["00:01:03-00:03:18"]},
+    {"position": "citée puis contestée", "these": "L'Union européenne garantit la paix.", "raisonnement": "L'orateur attribue la paix de la guerre froide à la dissuasion et élargit la guerre au soft power et aux interventions extérieures.", "reperes": ["00:22:08-00:30:11"]},
+    {"position": "citée puis contestée", "these": "La France serait isolée face aux BRICS hors de l'UE.", "raisonnement": "Le réseau diplomatique, les traités et les précédents gaulliens permettraient des relations bilatérales autonomes.", "reperes": ["00:30:11-00:39:23"]},
+    {"position": "citée puis contestée", "these": "L'UE donne plus de poids commercial à ses membres.", "raisonnement": "La représentation unique arbitre entre intérêts divergents et peut sacrifier certains secteurs nationaux.", "reperes": ["00:39:23-00:46:23"]},
+    {"position": "défendue", "these": "Un État autonome peut construire des coalitions plus efficaces à l'OMC.", "raisonnement": "Le consensus et les alliances thématiques permettent des regroupements variables selon les intérêts.", "reperes": ["00:46:23-00:51:30"]},
+    {"position": "défendue", "these": "La sortie de l'UE ne ferait pas perdre le siège français au FMI.", "raisonnement": "La quote-part du FMI est nationale et distincte de l'appartenance à l'UE.", "reperes": ["00:51:30-00:54:14"]},
+    {"position": "défendue", "these": "L'UPR doit rester focalisée sur la sortie de l'UE.", "raisonnement": "Prendre position sur tous les sujets disperserait un rassemblement transversal.", "reperes": ["01:06:34-01:11:35"]}
+  ],
+  "lieux_periodes": [
+    {"lieu": "Bruxelles, Belgique", "periode": "juin 2013", "contexte": "séance de questions"},
+    {"lieu": "France", "periode": "années 1960-2013", "contexte": "diplomatie, médias et institutions"},
+    {"lieu": "Amazonie, Brésil", "periode": "1963 et 1995", "contexte": "marchés de surveillance aérienne"},
+    {"lieu": "OMC et FMI", "periode": "contexte contemporain de 2013", "contexte": "gouvernance économique mondiale"}
+  ],
+  "relations_documentaires": [
+    {"type": "partie_de_serie", "cible": "La construction européenne est-elle encore démocratique ?", "precision": "épisode 4/4, questions-réponses"},
+    {"type": "suite_de", "cible": "i9NtPPODV4A", "precision": "séance suivant l'épisode 3/4"},
+    {"type": "renvoi_interne", "cible": "Qui gouverne la France ?", "precision": "conférence citée sur l'origine du transfert commercial"}
+  ]
+}

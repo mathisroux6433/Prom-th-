@@ -1,104 +1,104 @@
 # Rapport de la dernière intervention
 
-Date de clôture : 2026-10-19 18:22:14 +09:00 (Asia/Tokyo)
+Date de clôture : 2026-10-23 11:07:37 +09:00 (Asia/Tokyo)
 
 ## A. Demande initiale
 
-L'utilisateur a demandé de rendre permanent le contournement qui avait permis de télécharger des vidéos YouTube avec la session Firefox, afin de ne plus devoir reconstruire manuellement la commande, réinstaller le moteur JavaScript ou recommencer les essais lors d'un futur contrôle anti-robot.
+L'utilisateur a demandé de lancer l'archivage de la vidéo YouTube `https://www.youtube.com/watch?v=YOPeNN85oUs`.
+
+Conformément à `AGENTS.md`, la demande a été interprétée comme l'exécution du processus documentaire complet : métadonnées, téléchargement audio, transcription Whisper horodatée, correction contextuelle, synthèse approfondie, index sémantique, contrôle qualité et vérification finale.
 
 ## B. État initial
 
-- `src/promethe/downloader.py` utilisait `yt-dlp` sans cookies, sans moteur JavaScript explicite et sans stratégie de second essai.
-- `traiter`, `reprendre`, `lot` et `playlist` ne proposaient aucun réglage pour ce cas.
-- La commande `reprendre` interrogeait encore YouTube pour les métadonnées avant de retrouver une archive existante.
-- Le contournement validé pendant l'intervention précédente reposait sur les cookies Firefox, Deno, le composant `ejs:github` de `yt-dlp` et le client YouTube `web_safari`, mais le runtime temporaire avait été supprimé comme prévu.
-- Le dépôt comportait déjà des modifications et archives non suivies issues des travaux antérieurs. Elles ont été préservées. La présente intervention n'a modifié aucune archive vidéo.
+- La vidéo `YOPeNN85oUs` n'était pas archivée.
+- Le dépôt disposait d'un environnement virtuel fonctionnel et de la commande `promethe`.
+- Le premier appel lancé dans le bac à sable a été interrompu par une fenêtre d'observation trop courte, puis la reprise a rencontré l'interdiction réseau Windows `WinError 10013`.
+- Après autorisation de l'accès réseau, la tentative normale YouTube a fonctionné sans nécessiter le repli Firefox.
+- Le dépôt contenait déjà des modifications et archives sans rapport avec cette demande (`README.md`, `src/promethe/downloader.py`, `tests/test_core.py`, anciennes archives et ancien rapport). Elles ont été préservées et n'ont pas été modifiées pendant cette intervention, hormis le remplacement obligatoire du rapport courant.
 
 ## C. Travail effectué
 
-### 1. Repli YouTube permanent
+### 1. Acquisition et transcription
 
-`src/promethe/downloader.py` a été étendu avec une configuration `YoutubeAccess` commune à l'inspection des vidéos, à l'inspection des playlists et au téléchargement audio.
+La commande utilisateur principale exécutée a été :
 
-Le comportement est désormais le suivant :
+`promethe reprendre "https://www.youtube.com/watch?v=YOPeNN85oUs"`
 
-1. tentative normale sans cookies ;
-2. détection des erreurs caractéristiques du contrôle anti-robot, d'une page à recharger, de formats masqués ou d'un moteur JavaScript manquant ;
-3. un seul second essai automatique avec `cookiesfrombrowser=("firefox",)`, Deno, `ejs:github` et le client `web_safari` ;
-4. extraction audio en M4A par FFmpeg lorsque le client authentifié ne propose qu'un flux audiovisuel combiné.
+Le pipeline a récupéré les métadonnées, téléchargé un flux Opus/WebM de 52 614 524 octets dans `audio.webm`, puis produit une transcription française avec Faster-Whisper, modèle `medium`, appareil `cuda`.
 
-Les cookies restent dans le profil Firefox. Aucun fichier de cookies n'est créé, copié, affiché, consigné dans le rapport ou ajouté au dépôt.
+La vidéo dure 3 422 secondes, soit 00:57:02. L'archive a été créée dans `archives/Trouble_Fait/2026/2026-10-22_YOPeNN85oUs`.
 
-### 2. Runtime JavaScript persistant et vérifié
+### 2. Correction contextuelle
 
-Le pipeline cherche d'abord `deno` dans le `PATH`, puis réutilise `.runtime/deno/deno.exe`. S'il manque sous Windows, il télécharge la distribution officielle depuis GitHub, télécharge son fichier de somme, vérifie le SHA-256 de l'archive avant extraction, puis installe l'exécutable de manière atomique.
+La requête a été exportée avec `promethe exporter-correction YOPeNN85oUs`. La transcription corrigée a été importée avec `promethe corriger-transcription YOPeNN85oUs --importer ...` en conservant intégralement les segments et horodatages.
 
-Deno 2.9.7 a été effectivement installé dans `C:\Prométhé\.runtime\deno\deno.exe` :
+Le contrôle contextuel est resté volontairement conservateur : aucune correction suffisamment certaine n'a été appliquée, et l'état enregistre `changed: false`. La référence originale `transcription_brute.txt` n'a jamais été modifiée.
 
-- taille : 97 462 048 octets ;
-- SHA-256 de l'exécutable installé : `E020F3E232BD16E33768DEE528E5983349C962952051CED0A5D58AD42F5D9B33`.
+### 3. Synthèse approfondie
 
-`.runtime/` a été ajouté à `.gitignore`. Le runtime reste disponible sur cette machine sans entrer dans Git.
+La requête a été exportée avec `promethe exporter-synthese YOPeNN85oUs`. Une synthèse Markdown détaillée, attribuée et horodatée a été rédigée dans `travail/reponses/reponse_synthese.md`, puis importée avec `promethe regenerer-synthese`.
 
-### 3. Commandes et reprise
+La synthèse couvre le cadrage médiatique des pillages, les revendications recueillies, la distinction entre constats et demandes concrètes, le parallèle avec les Gilets jaunes et le RIC, l'explication structurelle proposée par l'auteur, le maintien de l'ordre, la récupération politique, le logement, la désindustrialisation, la productivité et la critique de la décroissance. Les affirmations politiques et chiffres sont explicitement attribués à l'auteur et ne sont pas présentés comme des faits vérifiés extérieurement.
 
-Les commandes suivantes utilisent le repli par défaut :
+### 4. Indexation sémantique
 
-- `promethe traiter URL` ;
-- `promethe reprendre URL` ;
-- `promethe lot FICHIER` ;
-- `promethe playlist URL`.
+La requête a été exportée avec `promethe exporter-index YOPeNN85oUs`. Un index JSON au schéma 1.1 a été produit dans `travail/reponses/reponse_indexation.json`, puis importé avec `promethe regenerer-index`.
 
-Deux options ont été ajoutées à chacune :
+Il contient les thèmes principaux, sujets secondaires, arguments et positions, concepts, événements, organismes, personnes, lieux et périodes, mots-clés, variantes lexicales, citations exactes, relations documentaires et sept repères temporels couvrant l'intégralité de la vidéo.
 
-- `--sans-repli-firefox` pour désactiver explicitement le second essai ;
-- `--runtime-js CHEMIN` pour imposer un autre exécutable Deno.
+### 5. Contrôle qualité
 
-`src/promethe/pipeline.py` extrait maintenant localement l'identifiant des URL `youtu.be`, `watch`, `shorts`, `embed` et `live`. Si l'archive et son `metadata.json` existent, `reprendre` réutilise directement ces métadonnées et ne contacte pas YouTube pour les obtenir à nouveau.
+La requête a été exportée avec `promethe exporter-controle YOPeNN85oUs`. La synthèse a été comparée à la transcription corrigée et à l'index, sans fact-checking externe. Le contrôle a conclu `conforme`, sans révision de la synthèse. La réponse `travail/reponses/reponse_controle_qualite.json` a été importée avec `promethe relire-synthese`, produisant `rapport_controle_qualite.md`.
 
-### 4. Documentation et consigne permanente
+### 6. Fichiers créés ou modifiés
 
-- `README.md` documente le repli, la conservation du runtime, la confidentialité des cookies, les nouvelles options et la reprise locale.
-- `AGENTS.md` inscrit explicitement ce comportement dans les consignes permanentes de Prométhé.
-- `tests/test_core.py` contient quatre contrôles supplémentaires : extraction locale d'identifiant, options Firefox/Deno, second essai anti-robot et reprise sans inspection réseau.
+Fichiers de référence créés dans l'archive :
 
-### 5. Fichiers créés ou modifiés
+- `metadata.json` ;
+- `audio.webm` ;
+- `segments.json` ;
+- `transcription_brute.txt` ;
+- `transcription_corrigee.txt` ;
+- `synthese_video.md` ;
+- `index_video.json` ;
+- `etat_pipeline.json` ;
+- `rapport_controle_qualite.md`.
 
-Créé hors Git :
+Le pipeline a également créé les dossiers `travail/requetes`, `travail/reponses`, `travail/candidates` et `historique/anciennes_versions`, avec les requêtes et réponses nécessaires aux imports validés.
 
-- `.runtime/deno/deno.exe`.
+Hors archive, `RAPPORT_DERNIERE_INTERVENTION.md` a été remplacé par le présent rapport et une copie historique immuable a été créée après sa finalisation sous `rapports/0012_2026-10-23_110737_RAPPORT_INTERVENTION.md`. Aucun fichier n'a été déplacé ou supprimé.
 
-Créé à la clôture par copie strictement identique du rapport finalisé :
+## D. Résultats
 
-- `rapports/0010_2026-10-19_182302_RAPPORT_INTERVENTION.md`.
+### Vidéo `YOPeNN85oUs`
 
-Modifiés :
+- Titre : `Pourquoi manifester est devenu TOTALEMENT inutile !`.
+- Chaîne : `Trouble Fait`.
+- Date de publication déclarée par YouTube : 22 octobre 2026.
+- Durée : 00:57:02.
+- Métadonnées : complètes.
+- Audio : complet, `audio.webm`, 52 614 524 octets.
+- Transcription brute : complète, `transcription_brute.txt`, 100 422 octets.
+- Correction contextuelle : complète et validée structurellement, sans changement retenu.
+- Synthèse : complète, `synthese_video.md`, 11 648 octets.
+- Index : complet, schéma 1.1, `index_video.json`, 12 989 octets.
+- Contrôle qualité : complet, verdict `conforme`.
+- État final : toutes les étapes sont `complete` dans `etat_pipeline.json`.
+- Vérification finale : `promethe verifier YOPeNN85oUs` retourne `complete: true`, `audio: true`, `validated_steps: true` et confirme tous les fichiers attendus.
 
-- `.gitignore` ;
-- `AGENTS.md` ;
-- `README.md` ;
-- `src/promethe/cli.py` ;
-- `src/promethe/downloader.py` ;
-- `src/promethe/pipeline.py` ;
-- `tests/test_core.py` ;
-- `RAPPORT_DERNIERE_INTERVENTION.md`.
+## Validations réalisées
 
-Aucun fichier n'a été déplacé ou supprimé. Aucune archive source ou documentaire n'a été modifiée par cette intervention.
-
-## D. Résultats et validations
-
-- `python -m compileall -q src tests` : réussi.
-- `python -m unittest discover -s tests -q` : 22 tests exécutés, 22 réussis.
-- `promethe traiter --help` : les deux nouvelles options sont visibles et correctement décrites.
-- `deno --version` sur l'exécutable persistant : Deno 2.9.7, V8 15.0.245.2-rusty, TypeScript 6.0.3.
-- Essai réel en lecture seule avec Firefox, Deno, `ejs:github` et `web_safari` sur `8F90IfUcW3w` : réussi ; `yt-dlp` a retourné l'identifiant et le titre `Comment l'Europe sabote EDF pour enrichir les traders`.
-- `git diff --check` sur les fichiers de l'intervention : aucune erreur d'espacement.
-- La copie historique est créée seulement après finalisation du présent rapport, puis son SHA-256 est comparé à celui du rapport courant.
+- Téléchargement YouTube achevé sans erreur après autorisation réseau.
+- Transcription Whisper terminée avec le modèle `medium` sur CUDA.
+- Validation structurelle de la correction par l'importeur du pipeline.
+- Validation structurelle du JSON d'index au schéma 1.1.
+- Import et validation du contrôle qualité.
+- Vérification finale avec `promethe verifier YOPeNN85oUs` : archive complète.
+- Inventaire des fichiers et tailles de l'archive effectué après finalisation.
+- Le SHA-256 du présent rapport et celui de sa copie historique ont été calculés après la copie et vérifiés strictement identiques avant clôture.
 
 ## Limites restantes
 
-- Firefox doit conserver une session YouTube exploitable ; une déconnexion, un profil absent ou une protection future différente peut encore faire échouer le second essai.
-- Le téléchargement automatique de Deno est implémenté pour Windows x86-64. Sur un autre système, Deno doit être dans le `PATH` ou fourni par `--runtime-js`.
-- La première installation du runtime et le composant distant `ejs:github` nécessitent un accès au réseau. Les utilisations suivantes réutilisent le runtime installé et le cache de `yt-dlp`.
-- Le repli se déclenche sur une liste explicite de messages d'erreur connus. Une modification importante des messages de YouTube ou de `yt-dlp` pourra nécessiter une mise à jour de cette liste.
-- Cette intervention concerne l'accès au téléchargement ; aucune vidéo n'a été retraitée et aucun état documentaire d'archive n'a changé.
+- Aucun fact-checking externe n'a été effectué : les chiffres, causalités et jugements politiques restent attribués à l'auteur ou aux sources qu'il montre.
+- La correction contextuelle n'a retenu aucun changement certain (`changed: false`). Des passages de rue difficiles à entendre peuvent donc conserver des erreurs de reconnaissance ; la transcription brute demeure disponible comme référence.
+- L'archive documentaire est néanmoins complète au sens du pipeline et de sa vérification finale.

@@ -1,0 +1,1669 @@
+Effectue un contrôle qualité documentaire de la synthèse ci-dessous.
+
+Compare-la uniquement à l'index et à la transcription corrigée archivés. N'effectue aucun fact-checking externe. Contrôle les chiffres, dates, pourcentages, populations statistiques, inversions de sens, raisonnements déformés, attributions, horodatages, citations exactes, arguments importants omis et la cohérence avec l'index.
+
+Corrige seulement les erreurs confirmées par les sources. Ne réécris pas inutilement les passages conformes. Si une incertitude ne peut pas être tranchée, conserve la formulation prudente. Retourne uniquement un objet JSON strict suivant cette structure :
+{
+  "schema_version": "1.0",
+  "video_id": "YOPeNN85oUs",
+  "verdict": "conforme ou corrigee",
+  "problems": [
+    {
+      "category": "chiffre|date|population|sens|attribution|horodatage|citation|omission|coherence",
+      "severity": "mineure|importante|critique",
+      "description": "problème constaté",
+      "source_evidence": "preuve précise tirée des sources archivées",
+      "timestamp": "HH:MM:SS ou chaîne vide",
+      "correction": "correction effectuée ou recommandée"
+    }
+  ],
+  "revised_synthesis": "texte Markdown intégral, ou @file:nom_du_fichier.md"
+}
+
+Le champ revised_synthesis doit toujours contenir le document Markdown complet : corrigé si nécessaire, sinon identique. Pour une synthèse très longue, il peut contenir `@file:nom_du_fichier.md` et le fichier Markdown doit être placé à côté du JSON de réponse ; seuls les noms de fichiers simples sont acceptés. Le verdict vaut "conforme" si aucune correction n'est requise, "corrigee" si des corrections ont été appliquées.
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "YOPeNN85oUs",
+  "title": "Pourquoi manifester est devenu TOTALEMENT inutile !",
+  "channel": "Trouble Fait",
+  "channel_id": "UCynFUJ4zUVuh3GX7bABTjGQ",
+  "upload_date": "20261022",
+  "duration_seconds": 3422,
+  "webpage_url": "https://www.youtube.com/watch?v=YOPeNN85oUs",
+  "description": "Les pillages du 17 octobre ont complètement éclipsé les manifestations pacifiques et leur revendication. Même en interne ou sur internet, il n’y a aucun débat pour transformer les constats en solution.\nEntre les pillages, les flics en civil, les black bloc, le traitement médiatique à charge… est-il encore utile de manifester en France ? D’autant que les politiciens n’ont plus les moyens de répondre à leurs attentes de changement.\nLes manifestant l’ont-ils compris ?\n\n=====Abonnez-vous sur Substack ===== \nhttps://troublefait.substack.com/\n\nBoutique d’artisanat : https://www.zone-artisanale.com\nChaine, tipeee, boutique... tout est sur ce lien : https://lnk.bio/Trouble-Fait\n\nChapitres :\n0:00 Introduction\n3:00 Les revendications en manif\n15:13 Le problème avec ces revendications\n17:06 L’origine du mal-être et des blocages politiques\n36:57 L’inévitable dérive autoritaire\n43:34 Manifester est-il encore utile ?\n\nPlus d’infos : \nDe nombreuses manifestations se sont également déroulées sans heurts.\nhttps://x.com/CerfiaFR/status/2111487305055617283\nYannToutCourt donne son éclairage sur la manifestation de Toulouse et sur la propagande médiatique qui risque d’en découler.\nhttps://x.com/EmmaRobinsonss/status/2111587823128031605\nBrut fait ce que les médias mainstream ne font que rarement, donner la parole à ceux qui ont des revendications, alors écoutons les !\nhttps://x.com/EmmaRobinsonss/status/2111538521135518018\nL’iceberg des revendications\nhttps://pbs.twimg.com/media/HUhlEjyXoAAPw5-?format=jpg&name=large\nLe Monde écrit dans son dernier éditorial : « Les défilés du samedi 17octobre ne doivent pas se résumer aux pillages et aux destructions. »\nhttps://x.com/Brevesdepresse/status/2112149699268370450\nMonsieur Macron fait donc le choix du pire. Alors que les organisateurs ont tout déclaré dûment, le parcours est refusé\nhttps://x.com/DidierMaisto/status/2111109002394325099\nUne personne qui manifestait a été lynchée par une horde de forces mobiles de la police\nhttps://x.com/Brevesdepresse/status/2111865148273226196\nPoitiers aujourd'hui, avant que les cowboys ne se mettent à nous gazer sans raison devant la préfecture. Comme on le voit sur cette vidéo, nous marchons pacifiquement dans la rue, avec des enfants, lesquels seront ensuite gazés et pris de panique une heure plus tard.\nhttps://x.com/MRBT1988/status/2111564208047288830\nDommage, des policiers à 2 doigts de fracasser d'autres policiers !\nhttps://x.com/JoyeuxLaurent2/status/2112142586634735763\nLE PARQUET DE PARIS PROCÈDE À DES VÉRIFICATIONS CONCERNANT DEUX DÉCÈS SIGNALÉS CE WEEK-END DANS LA CAPITALE.\nhttps://x.com/ImpactMediaFR/status/2112215653440450893",
+  "language": "fr"
+}
+
+SYNTHÈSE À RELIRE :
+# Pourquoi manifester est devenu TOTALEMENT inutile !
+
+- **Chaîne :** Trouble Fait
+- **Date de publication :** 22 octobre 2026
+- **Durée :** 57 min 02 s
+- **Vidéo :** https://www.youtube.com/watch?v=YOPeNN85oUs
+
+## Objet général et thèse
+
+La vidéo analyse les manifestations du 17 octobre en partant d'un contraste : selon l'auteur, les pillages et les affrontements ont dominé les réseaux sociaux et le traitement médiatique, tandis que les cortèges pacifiques et leurs motifs ont été presque effacés. Il cherche donc d'abord à restituer les revendications entendues dans la rue, puis à expliquer pourquoi elles ne déboucheraient pas, selon lui, sur une transformation politique.
+
+Sa thèse est que le malaise exprimé est réel, profond et largement partagé, mais qu'il reste une accumulation de constats individuels sans revendication unificatrice, organisation durable ni solution institutionnelle. Cette faiblesse rendrait le mouvement vulnérable au cadrage médiatique par la violence, à l'instrumentalisation partisane et à la répression. Plus fondamentalement, l'auteur attribue l'impuissance politique à la mondialisation, à l'Union européenne et à la perte de souveraineté économique ; il estime qu'aucun gouvernement français ne peut satisfaire rapidement les attentes sans rupture structurelle, laquelle aurait elle-même un coût initial.
+
+## 1. Un cadrage centré sur les violences
+
+Dans l'[introduction (0:00)](https://www.youtube.com/watch?v=YOPeNN85oUs&t=0s), l'auteur annonce qu'il séparera les manifestations pacifiques et les violences policières du sujet des pillages, réservé à une autre vidéo. Il dit avoir surtout vu, le 17 octobre, des images de magasins pillés, alors que des rassemblements sans heurts auraient eu lieu dans toute la France et réuni, selon le chiffre qu'il avance sans vérification externe, entre 500 000 et 800 000 personnes ([1:22](https://www.youtube.com/watch?v=YOPeNN85oUs&t=82s)). Il compare ce cadrage à celui des Gilets jaunes : les médias insistaient déjà sur les affrontements, mais les réseaux sociaux montraient davantage les ronds-points, les témoignages et certaines pratiques policières.
+
+L'auteur reprend un reportage affirmant qu'une charge de CRS et une poubelle incendiée ne concernaient qu'une fraction infime du cortège. Il en tire l'idée qu'un choix éditorial focalisé sur les désordres invisibilise les raisons de manifester ([5:21](https://www.youtube.com/watch?v=YOPeNN85oUs&t=321s)). Cette lecture est présentée comme son appréciation du cadrage, non comme une mesure indépendante du contenu médiatique.
+
+## 2. Les revendications recueillies : un inventaire du mal-être
+
+À partir de [3:00](https://www.youtube.com/watch?v=YOPeNN85oUs&t=180s), des extraits de rue font apparaître une grande diversité de motifs : prix du carburant et de l'alimentation, état des lycées, orientation scolaire, manque de places en médecine, faibles revenus, handicap, logement, santé, sécurité, retraite, inquiétude écologique et sentiment général d'injustice. Une étudiante raconte avoir réussi sa première année de médecine mais avoir été écartée faute de places ; une personne handicapée évoque une pension insuffisante et la nécessité de faire la manche. D'autres manifestants disent venir soutenir les jeunes ou dénoncer la montée du fascisme.
+
+L'auteur reconnaît la légitimité de ces difficultés mais insiste sur leur caractère dispersé. À ses yeux, il ne s'agit pas d'une mobilisation contre une mesure précise, comme le CPE ou une loi identifiée, mais d'un agrégat de souffrances économiques, sociales et psychologiques. Il rapproche cette hétérogénéité du début des Gilets jaunes, tout en notant que ceux-ci avaient fini par faire émerger le référendum d'initiative citoyenne (RIC) comme revendication transversale.
+
+Il critique aussi certaines approximations ou contradictions entendues dans les témoignages. Le cas du numerus clausus lui sert à soutenir que l'État déplore la pénurie de soignants tout en limitant la formation et en important des médecins déjà formés. Cette interprétation économique lui appartient ; elle n'est pas établie par les seuls témoignages diffusés.
+
+## 3. De la liste de problèmes à l'absence de projet
+
+Au chapitre annoncé comme [« le problème avec ces revendications » (15:13)](https://www.youtube.com/watch?v=YOPeNN85oUs&t=913s), l'auteur examine un « iceberg des revendications ». Il estime que cette liste mêle sujets institutionnels, sociaux, écologiques et culturels sans les hiérarchiser, sans indiquer les mesures susceptibles de mettre fin au mouvement et sans résoudre leurs incompatibilités budgétaires ou productives.
+
+Il distingue ainsi trois niveaux : le constat d'une difficulté, la revendication concrète et le programme capable de la financer ou de l'appliquer. Selon lui, le mouvement reste au premier niveau. Cette absence de seuil de satisfaction empêcherait tout rapport de force négociable : ni les participants, ni le gouvernement, ni le public ne sauraient ce qui constituerait une victoire.
+
+L'auteur oppose cette situation au RIC des Gilets jaunes, qui transformait des griefs multiples en question institutionnelle commune. Il affirme toutefois que cette piste a disparu du débat actuel. Sans mécanisme de décision populaire ou structure commune, la colère pourrait être captée par des acteurs disposant déjà de relais médiatiques et d'un programme pour l'élection présidentielle de 2027 ([47:11](https://www.youtube.com/watch?v=YOPeNN85oUs&t=2831s)).
+
+## 4. L'explication structurelle proposée
+
+À partir de [17:06](https://www.youtube.com/watch?v=YOPeNN85oUs&t=1026s), l'auteur élargit son analyse. Il attribue une part importante du malaise à la mondialisation : désindustrialisation, mise en concurrence des travailleurs, contraintes sur les politiques publiques et dépendance aux marchés. Il considère que le pouvoir national ne possède plus les instruments permettant de répondre librement aux attentes exprimées.
+
+Son raisonnement relie notamment niveau de vie et capacité productive. Une économie qui produit moins, dépend davantage des importations et perd ses compétences industrielles disposerait de moins de ressources à redistribuer. L'auteur critique donc les promesses consistant à étendre les droits sociaux ou réduire le temps de travail sans exposer leur financement. Il soutient en conclusion que la hausse durable du niveau de vie passe par les gains de productivité, l'industrie, la robotique et éventuellement l'intelligence artificielle ([55:27](https://www.youtube.com/watch?v=YOPeNN85oUs&t=3327s)).
+
+Il met cette orientation en tension avec une gauche qu'il qualifie de décroissantiste : demander simultanément moins de production et d'énergie, une retraite à 60 ans et un meilleur niveau de vie lui paraît incohérent. Il s'agit d'une critique politique formulée par l'auteur, et non d'une présentation exhaustive des programmes de gauche.
+
+Le logement sert d'exemple de crise à forte inertie : pénurie, entreprises du bâtiment en difficulté, promoteurs en faillite et chantiers non lancés ne pourraient être corrigés immédiatement. L'auteur évoque aussi le coût de l'énergie et la baisse du pouvoir d'achat. Il anticipe qu'une rupture avec l'Union européenne et l'euro révélerait l'état des finances et de la désindustrialisation, provoquant d'abord une nouvelle baisse du niveau de vie avant un éventuel redressement. Cette séquence est son hypothèse politique ; la vidéo ne fournit pas de démonstration chiffrée permettant de la valider.
+
+## 5. Vers une dérive autoritaire
+
+Dans la partie annoncée à [36:57](https://www.youtube.com/watch?v=YOPeNN85oUs&t=2217s), l'auteur examine des images et récits de maintien de l'ordre : policiers en civil, gazage de cortèges comprenant des enfants, coups portés à un manifestant, confusion entre unités et vérifications du parquet à propos de deux décès signalés à Paris. Il souligne que les circonstances de ces décès ne sont pas établies au moment de la vidéo.
+
+Il replace ces éléments dans une tendance qu'il décrit comme autoritaire : restrictions de parcours, nasses, charges, blessures, interpellations et gardes à vue qu'il juge parfois arbitraires. Les nombres d'interpellations et de blessés qu'il évoque restent attribués à son commentaire et ne sont pas vérifiés extérieurement ici. Son argument est que l'État, faute de pouvoir ou de vouloir répondre politiquement aux causes du mécontentement, privilégierait progressivement le contrôle policier.
+
+Le résultat serait un cercle vicieux : les violences ou pillages fournissent les images dominantes ; ces images dissuadent des participants pacifiques et légitiment davantage de répression ; la répression produit à son tour des scènes de confrontation qui remplacent les revendications dans l'espace public.
+
+## 6. Pourquoi l'auteur n'appelle pas à manifester
+
+À [43:34](https://www.youtube.com/watch?v=YOPeNN85oUs&t=2614s), la vidéo répond directement à la question du titre. L'auteur refuse d'encourager ses abonnés à s'exposer aux gaz, aux matraques, aux arrestations ou au décalage entre leur expérience du terrain et sa représentation médiatique. Il ne dit pas que les problèmes sont imaginaires ; au contraire, il insiste sur l'urgence vécue par les personnes qui ne mangent pas trois fois par jour, subissent les prix de l'énergie ou ne peuvent plus se loger.
+
+Mais plusieurs facteurs rendraient, selon lui, la manifestation actuelle inefficace : absence d'objectif concret, absence de structure durable, difficulté à agréger les intérêts, cadrage par les pillages, risque physique, récupération électorale et incapacité institutionnelle à produire des résultats rapides. Il prévoit donc un essoufflement en quelques semaines, tout en signalant explicitement qu'il peut se tromper.
+
+Un exemple résume sa critique de l'instrumentalisation : des lycéens parlent de toilettes sans portes, de fuites ou de températures extrêmes ; des élus répondraient par la rénovation thermique. Pour l'auteur, une politique d'isolation générique ne répond pas forcément au chauffage, à la climatisation ou à l'insalubrité concrète ([48:47](https://www.youtube.com/watch?v=YOPeNN85oUs&t=2927s)). Il y voit la transformation d'une plainte vécue en solution préexistante dans le programme des acteurs politiques.
+
+## Conclusion
+
+La vidéo ne conclut pas que toute action collective serait intrinsèquement vaine. Elle affirme plus précisément qu'une manifestation sans revendication commune, organisation, calendrier ni critère de victoire offre peu de prise à la décision politique et beaucoup de prise à la violence, au cadrage médiatique et à la récupération. L'auteur admet la réalité et l'urgence des difficultés exprimées, mais juge leurs causes structurelles et les solutions longues, coûteuses et incompatibles avec les promesses immédiates.
+
+Sa proposition générale est une rupture de politique économique centrée sur la souveraineté, la réindustrialisation et la productivité. Elle reste exposée comme une conviction et une hypothèse de redressement, sans évaluation comparative détaillée. La conclusion maintient ainsi une tension : l'auteur se veut pessimiste sur le mouvement en cours et la présidentielle suivante, mais optimiste sur la possibilité de redresser le pays avec, selon lui, les bonnes institutions, une explication honnête des contraintes et une politique productive cohérente.
+
+
+INDEX DOCUMENTAIRE :
+{
+  "arguments_positions": [
+    {
+      "position": "Le cadrage médiatique et social centré sur les pillages invisibilise les cortèges pacifiques et leurs motifs.",
+      "horodatages": [
+        "00:01:22",
+        "00:05:21"
+      ]
+    },
+    {
+      "position": "Les participants expriment des difficultés légitimes mais ne les transforment pas en revendications précises et communes.",
+      "horodatages": [
+        "00:03:45",
+        "00:15:13",
+        "00:46:51"
+      ]
+    },
+    {
+      "position": "Sans objectif mesurable, organisation et critère de victoire, le mouvement ne peut construire un rapport de force durable.",
+      "horodatages": [
+        "00:47:06",
+        "00:50:48"
+      ]
+    },
+    {
+      "position": "Le RIC avait fourni aux Gilets jaunes une revendication institutionnelle transversale qui manque au mouvement décrit.",
+      "horodatages": [
+        "00:47:11",
+        "00:47:53"
+      ]
+    },
+    {
+      "position": "La perte de souveraineté économique liée à la mondialisation et à l'Union européenne limiterait la capacité des gouvernements français à répondre.",
+      "horodatages": [
+        "00:17:06",
+        "00:54:19"
+      ]
+    },
+    {
+      "position": "La focalisation sur la violence, la répression et la récupération politique décourage les manifestants pacifiques.",
+      "horodatages": [
+        "00:36:57",
+        "00:43:34",
+        "00:46:18"
+      ]
+    },
+    {
+      "position": "Le redressement du niveau de vie supposerait productivité, industrie, robotique et production plutôt que décroissance.",
+      "horodatages": [
+        "00:55:27",
+        "00:55:45"
+      ]
+    }
+  ],
+  "citations_exactes": [
+    {
+      "texte": "Il n'y a pas le début d'une revendication et d'une solution.",
+      "horodatage": "00:47:06"
+    },
+    {
+      "texte": "Ils ne sont pas là pour décider.",
+      "horodatage": "00:47:29"
+    },
+    {
+      "texte": "Le seul moyen d'augmenter le niveau de vie de la population, c'est d'augmenter la productivité.",
+      "horodatage": "00:55:45"
+    },
+    {
+      "texte": "Il s'agit de produire plus, plus vite, plus efficacement.",
+      "horodatage": "00:55:52"
+    }
+  ],
+  "concepts": [
+    {
+      "nom": "cadrage médiatique",
+      "description": "Sélection d'images de violences au détriment des revendications",
+      "horodatages": [
+        "00:01:30",
+        "00:05:21"
+      ]
+    },
+    {
+      "nom": "revendication",
+      "description": "Demande concrète distinguée du simple constat d'un problème",
+      "horodatages": [
+        "00:15:13",
+        "00:51:36"
+      ]
+    },
+    {
+      "nom": "rapport de force politique",
+      "description": "Capacité d'un mouvement structuré à imposer un sujet et un résultat",
+      "horodatages": [
+        "00:48:27"
+      ]
+    },
+    {
+      "nom": "souveraineté populaire",
+      "description": "Participation directe à la décision, associée au RIC",
+      "horodatages": [
+        "00:47:13"
+      ]
+    },
+    {
+      "nom": "mondialisation",
+      "description": "Cadre économique auquel l'auteur attribue concurrence, importations et impuissance nationale",
+      "horodatages": [
+        "00:07:23",
+        "00:17:06"
+      ]
+    },
+    {
+      "nom": "productivité",
+      "description": "Production plus abondante et efficace présentée comme condition du niveau de vie",
+      "horodatages": [
+        "00:55:45"
+      ]
+    },
+    {
+      "nom": "décroissance",
+      "description": "Orientation écologique critiquée par l'auteur comme contradictoire avec la hausse du niveau de vie",
+      "horodatages": [
+        "00:55:58"
+      ]
+    }
+  ],
+  "evenements_lois_reglementations": [
+    {
+      "nom": "manifestations du 17 octobre",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:01:22",
+        "00:02:19",
+        "00:36:57"
+      ]
+    },
+    {
+      "nom": "mouvement des Gilets jaunes",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:01:44",
+        "00:04:35",
+        "00:47:11"
+      ]
+    },
+    {
+      "nom": "CPE",
+      "niveau": "mention",
+      "horodatages": [
+        "00:04:59"
+      ]
+    },
+    {
+      "nom": "élection présidentielle de 2027",
+      "niveau": "mention",
+      "horodatages": [
+        "00:48:13",
+        "00:55:04"
+      ]
+    },
+    {
+      "nom": "référendum d'initiative citoyenne (RIC)",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:47:13"
+      ]
+    }
+  ],
+  "expressions_representatives": [
+    {
+      "expression": "invisibilisation des revendications",
+      "horodatages": [
+        "00:05:41"
+      ]
+    },
+    {
+      "expression": "agrégation de constats sans solution",
+      "horodatages": [
+        "00:46:51",
+        "00:52:11"
+      ]
+    },
+    {
+      "expression": "instrumentalisation de la colère",
+      "horodatages": [
+        "00:48:30"
+      ]
+    },
+    {
+      "expression": "dérive autoritaire du maintien de l'ordre",
+      "horodatages": [
+        "00:36:57"
+      ]
+    },
+    {
+      "expression": "urgence sociale face aux contraintes structurelles",
+      "horodatages": [
+        "00:52:44",
+        "00:54:10"
+      ]
+    }
+  ],
+  "lieux_periodes": [
+    {
+      "nom": "France",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:02:28",
+        "00:53:02"
+      ]
+    },
+    {
+      "nom": "Paris, secteur des Halles",
+      "niveau": "mention",
+      "horodatages": [
+        "00:45:28"
+      ]
+    },
+    {
+      "nom": "Poitiers",
+      "niveau": "mention",
+      "horodatages": [
+        "00:36:57"
+      ]
+    },
+    {
+      "nom": "Toulouse",
+      "niveau": "mention",
+      "horodatages": [
+        "00:03:00"
+      ]
+    },
+    {
+      "nom": "17 octobre 2026",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:01:22",
+        "00:02:19"
+      ]
+    }
+  ],
+  "mots_cles": [
+    "manifestation",
+    "revendications",
+    "pillages",
+    "violences policières",
+    "maintien de l'ordre",
+    "médias",
+    "réseaux sociaux",
+    "Gilets jaunes",
+    "RIC",
+    "lycéens",
+    "pouvoir d'achat",
+    "logement",
+    "santé",
+    "numerus clausus",
+    "mondialisation",
+    "Union européenne",
+    "euro",
+    "désindustrialisation",
+    "productivité",
+    "décroissance",
+    "réindustrialisation",
+    "instrumentalisation politique",
+    "2027"
+  ],
+  "organismes": [
+    {
+      "nom": "CRS",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:05:23",
+        "00:46:37"
+      ]
+    },
+    {
+      "nom": "Union européenne",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:50:00",
+        "00:54:23"
+      ]
+    },
+    {
+      "nom": "UPR",
+      "niveau": "mention",
+      "horodatages": [
+        "00:08:49"
+      ]
+    },
+    {
+      "nom": "Le Monde",
+      "niveau": "mention",
+      "horodatages": [
+        "00:36:57"
+      ]
+    },
+    {
+      "nom": "Brut",
+      "niveau": "mention",
+      "horodatages": [
+        "00:06:07"
+      ]
+    },
+    {
+      "nom": "Parti socialiste",
+      "niveau": "mention",
+      "horodatages": [
+        "00:49:03"
+      ]
+    },
+    {
+      "nom": "Les Écologistes",
+      "niveau": "mention",
+      "horodatages": [
+        "00:49:03"
+      ]
+    }
+  ],
+  "personnes": [
+    {
+      "nom": "Emmanuel Macron",
+      "niveau": "developpe",
+      "horodatages": [
+        "00:04:29",
+        "00:54:41"
+      ]
+    },
+    {
+      "nom": "Marine Le Pen",
+      "niveau": "mention",
+      "horodatages": [
+        "00:08:26"
+      ]
+    },
+    {
+      "nom": "Usul",
+      "niveau": "mention",
+      "horodatages": [
+        "00:46:28"
+      ]
+    }
+  ],
+  "relations_documentaires": [
+    {
+      "source": "pillages et affrontements",
+      "relation": "produisent",
+      "cible": "cadrage médiatique dominant",
+      "horodatages": [
+        "00:01:30",
+        "00:05:21"
+      ]
+    },
+    {
+      "source": "pluralité des difficultés",
+      "relation": "ne se transforme pas en",
+      "cible": "revendication commune",
+      "horodatages": [
+        "00:04:55",
+        "00:46:51"
+      ]
+    },
+    {
+      "source": "absence de structure",
+      "relation": "favorise",
+      "cible": "essoufflement et récupération politique",
+      "horodatages": [
+        "00:48:04",
+        "00:50:48"
+      ]
+    },
+    {
+      "source": "désindustrialisation",
+      "relation": "réduit selon l'auteur",
+      "cible": "marges de redistribution et niveau de vie",
+      "horodatages": [
+        "00:54:26",
+        "00:55:32"
+      ]
+    },
+    {
+      "source": "rénovation thermique",
+      "relation": "est présentée comme réponse inadéquate à",
+      "cible": "insalubrité et températures des lycées",
+      "horodatages": [
+        "00:48:47",
+        "00:50:07"
+      ]
+    }
+  ],
+  "reperes_temporels": [
+    {
+      "debut": "00:00:00",
+      "fin": "00:03:17",
+      "titre": "Introduction et invisibilisation des manifestations pacifiques"
+    },
+    {
+      "debut": "00:03:17",
+      "fin": "00:15:13",
+      "titre": "Témoignages et inventaire des motifs de colère"
+    },
+    {
+      "debut": "00:15:13",
+      "fin": "00:17:06",
+      "titre": "Problème de la dispersion des revendications"
+    },
+    {
+      "debut": "00:17:06",
+      "fin": "00:36:57",
+      "titre": "Origines économiques et blocages politiques selon l'auteur"
+    },
+    {
+      "debut": "00:36:57",
+      "fin": "00:43:34",
+      "titre": "Maintien de l'ordre et risque autoritaire"
+    },
+    {
+      "debut": "00:43:34",
+      "fin": "00:51:32",
+      "titre": "Pourquoi l'auteur juge la manifestation inefficace"
+    },
+    {
+      "debut": "00:51:32",
+      "fin": "00:57:02",
+      "titre": "Urgence sociale, rupture structurelle et productivité"
+    }
+  ],
+  "resume_general": "Trouble Fait analyse les manifestations du 17 octobre. L'auteur estime que les pillages ont masqué les cortèges pacifiques, mais aussi que les nombreux motifs de colère restent des constats sans objectif commun. Il relie cette faiblesse à l'instrumentalisation politique, à la répression et à une impuissance nationale qu'il attribue à la mondialisation et à l'Union européenne. Il oppose aux promesses immédiates une stratégie de souveraineté, réindustrialisation et productivité, tout en reconnaissant qu'une rupture aurait d'abord un coût social.",
+  "schema_version": "1.1",
+  "sujets_secondaires": [
+    {
+      "sujet": "sélection des étudiants en médecine et pénurie de soignants",
+      "horodatages": [
+        "00:06:52",
+        "00:07:46"
+      ]
+    },
+    {
+      "sujet": "handicap et insuffisance des pensions",
+      "horodatages": [
+        "00:07:58"
+      ]
+    },
+    {
+      "sujet": "état matériel, chauffage et climatisation des lycées",
+      "horodatages": [
+        "00:06:18",
+        "00:48:47"
+      ]
+    },
+    {
+      "sujet": "crise de la construction et pénurie de logements",
+      "horodatages": [
+        "00:53:36",
+        "00:54:10"
+      ]
+    },
+    {
+      "sujet": "pauvreté, alimentation et pouvoir d'achat",
+      "horodatages": [
+        "00:52:49",
+        "00:53:10"
+      ]
+    },
+    {
+      "sujet": "IA générative et robotique",
+      "horodatages": [
+        "00:55:37",
+        "00:56:43"
+      ]
+    },
+    {
+      "sujet": "rénovation thermique et confort d'été",
+      "horodatages": [
+        "00:49:08",
+        "00:49:54"
+      ]
+    }
+  ],
+  "themes_principaux": [
+    {
+      "theme": "efficacité politique des manifestations",
+      "horodatages": [
+        "00:03:03",
+        "00:43:34",
+        "00:55:00"
+      ]
+    },
+    {
+      "theme": "diversité et imprécision des revendications",
+      "horodatages": [
+        "00:03:45",
+        "00:15:13",
+        "00:51:36"
+      ]
+    },
+    {
+      "theme": "cadrage médiatique des violences et pillages",
+      "horodatages": [
+        "00:01:22",
+        "00:05:21"
+      ]
+    },
+    {
+      "theme": "violences policières et dérive autoritaire",
+      "horodatages": [
+        "00:36:57",
+        "00:45:35"
+      ]
+    },
+    {
+      "theme": "contraintes économiques, mondialisation et souveraineté",
+      "horodatages": [
+        "00:17:06",
+        "00:54:19"
+      ]
+    }
+  ],
+  "variantes_lexicales": [
+    {
+      "canonique": "Gilets jaunes",
+      "variantes": [
+        "gilet jaune"
+      ]
+    },
+    {
+      "canonique": "référendum d'initiative citoyenne",
+      "variantes": [
+        "RIC",
+        "démocratie directe"
+      ]
+    },
+    {
+      "canonique": "forces de l'ordre",
+      "variantes": [
+        "police",
+        "policiers",
+        "CRS",
+        "forces mobiles"
+      ]
+    },
+    {
+      "canonique": "manifestation",
+      "variantes": [
+        "manif",
+        "cortège",
+        "mobilisation"
+      ]
+    },
+    {
+      "canonique": "pouvoir d'achat",
+      "variantes": [
+        "niveau de vie",
+        "prix",
+        "coût de l'énergie"
+      ]
+    }
+  ],
+  "video_id": "YOPeNN85oUs"
+}
+
+
+TRANSCRIPTION CORRIGÉE :
+[00:00:00.000 --> 00:00:06.200] Bonsoir à tous. Je sais pas si vous avez remarqué, mais malgré l'isolation thermique des bâtiments, la France brûle.
+[00:00:06.200 --> 00:00:07.440] Pas très écolo tout ça.
+[00:00:07.440 --> 00:00:12.560] Bienvenue dans Analyse, l'émission qui vous donne les clés de compréhension de l'actualité.
+[00:00:12.560 --> 00:00:16.000] Et l'actualité, ça va être un peu en partie cette fois, niveau clé de compréhension,
+[00:00:16.000 --> 00:00:18.880] parce que c'est quand même un sacré merdier ce qui se passe en ce moment.
+[00:00:18.880 --> 00:00:22.640] Il y a beaucoup de choses à dire, et il y a pas mal de zones de flou.
+[00:00:22.640 --> 00:00:25.640] On en avait évoqué un petit peu là entre nous dernièrement.
+[00:00:25.680 --> 00:00:30.280] Mais aujourd'hui, on va surtout parler des revendications et des violences policières.
+[00:00:30.280 --> 00:00:36.440] Donc vraiment la partie manif, pacifique, et puis tous les enjeux qui sont derrière, qui a été largement invisibilisé.
+[00:00:36.440 --> 00:00:41.280] Et puis on fera une autre vidéo où là on parlera du sujet qui a beaucoup plus d'effrayés la chronique,
+[00:00:41.280 --> 00:00:48.840] les racailles, les pilleurs de magasins, et surtout la manière dont les gauchistes, la gauche en général,
+[00:00:48.840 --> 00:00:54.200] les mobilisent et les utilisent dans les manifestations et sont bien contents de les avoir.
+[00:00:54.280 --> 00:01:00.760] Jusqu'à un certain point à mon avis, et d'ailleurs il y a peut-être une récupération de la récupération de la racaille par le gouvernement,
+[00:01:00.760 --> 00:01:05.040] donc tout ça c'est pour ça que c'est assez compliqué, et donc on fera une deuxième vidéo là-dessus.
+[00:01:05.040 --> 00:01:09.720] Alors je vous rappelle que vous pouvez soutenir cette merveilleuse chaîne sur Tipeee,
+[00:01:09.720 --> 00:01:15.400] et maintenant sur Substack où vous aurez accès à divers avantages, notamment les vidéos en avance,
+[00:01:15.400 --> 00:01:20.560] et puis l'accès aux rediffusions de directs, et puis bien d'autres choses qui vont se mettre en place progressivement,
+[00:01:20.560 --> 00:01:22.720] là je vais m'en occuper dès cette semaine. Bien.
+[00:01:22.720 --> 00:01:30.320] Alors il y a un truc qui a été complètement éclipsé samedi, c'est les manifestations pacifiques, et en particulier leurs revendications.
+[00:01:30.320 --> 00:01:37.440] Je sais pas si c'est un effet de cadrage personnel ou quoi, mais moi j'avais jamais vu un jour de manifestation
+[00:01:37.440 --> 00:01:44.680] avec un cadrage sur les réseaux sociaux, axé uniquement sur les violences, les pillages, surtout les pillages en fait.
+[00:01:44.680 --> 00:01:48.040] Quand il y avait eu les gilets jaunes, évidemment les médias ne parlaient que des violences,
+[00:01:48.040 --> 00:01:51.840] et puis des affrontements entre manifestants et policiers, ça on y était habitué,
+[00:01:51.880 --> 00:01:54.800] mais sur les réseaux sociaux il y avait déjà beaucoup plus de diversité.
+[00:01:54.800 --> 00:02:00.240] On voyait aussi certains déboncages médiatiques vis-à-vis des actions de la police notamment,
+[00:02:00.240 --> 00:02:05.480] quand il y avait des nassages, quand il y avait des pièges qui étaient tendus aux manifestants, bref.
+[00:02:05.480 --> 00:02:10.000] Et puis il y avait beaucoup plus de place qui était donnée aux revendications parce qu'on voyait les gens sur les ronds-points.
+[00:02:10.000 --> 00:02:15.520] On voyait les gens aussi dans la rue, il y avait des interviews dans la rue de gens sur les revendications, on va en voir un petit peu,
+[00:02:15.520 --> 00:02:19.640] et ça composait finalement les trois quarts de ce qu'on voyait sur les réseaux sociaux.
+[00:02:19.640 --> 00:02:23.160] Et là, enfin j'étais un petit peu déconnecté à ces temps-ci,
+[00:02:23.160 --> 00:02:28.920] je me suis branché sur internet le 17 que des pillages de magasins par des bandes de racailles.
+[00:02:28.920 --> 00:02:36.560] Et il y a un moment je me suis dit mais en fait j'ai appris à un moment qu'il y avait aussi des manifestations pacifiques,
+[00:02:36.560 --> 00:02:41.200] et que c'était le cas général, qui se sont déroulés sans heurts dans toute la France,
+[00:02:41.200 --> 00:02:45.240] avec pas mal de monde entre 500 000 et 800 000 personnes.
+[00:02:45.280 --> 00:02:50.440] Et c'est vraiment en 20 journées où j'ai demandé aux gens mais au fait est-ce que vous avez des images de ce truc-là ?
+[00:02:50.440 --> 00:02:54.520] Est-ce que vous avez des images des manifestations ? Est-ce que vous avez des interviews ?
+[00:02:54.520 --> 00:02:59.640] Est-ce qu'il y avait des médias sur place ou est-ce que tout ça est juste une immense fake news ?
+[00:02:59.640 --> 00:03:03.640] Je vous en ai sélectionné quelques-unes, on va voir quelles étaient les revendications de ce mouvement,
+[00:03:03.640 --> 00:03:10.920] et on va se poser un peu la question de savoir finalement si ça sert pas un petit peu à rien d'aller manifester quelque part.
+[00:03:10.920 --> 00:03:15.000] On va écouter des extraits un petit peu... on va laisser le temps à la parole on va dire.
+[00:03:15.000 --> 00:03:17.440] Et puis ensuite je vous expliquerai ce que je penserai de tout ça.
+[00:03:45.960 --> 00:03:51.400] Ah ça c'est un terme assez rare chez les vieux. Bon il s'agit pas non plus de les culpabiliser totalement.
+[00:03:51.400 --> 00:03:55.920] C'est vrai que sur le plan politique il nous laisse une situation qui est un peu merdique, politique et économique.
+[00:03:55.920 --> 00:03:57.120] Moi je suis fière d'eux.
+[00:03:57.120 --> 00:04:00.160] Franchement je sais même pas lister le nombre de raisons, tellement il y en a.
+[00:04:00.160 --> 00:04:06.240] Le gazoil, le traitement des lycéens, le traitement de la population, le fait que personne n'est heureux dans ce pays,
+[00:04:06.240 --> 00:04:11.600] qu'il y ait plus de dépression chez les étudiants que de joie, tout en fait, toutes les raisons possibles.
+[00:04:11.600 --> 00:04:18.080] C'est un peu le commentaire typique, c'est un peu décousu, il y a de tout, un sentiment général, des problèmes généraux,
+[00:04:18.080 --> 00:04:24.640] enfin c'est tous les problèmes quotidiens des français sur la sécurité, sur le logement, sur l'éducation, sur la santé,
+[00:04:24.640 --> 00:04:29.120] tous les problèmes à l'hôpital, enfin c'est des choses qui reviennent déjà depuis des années.
+[00:04:29.120 --> 00:04:33.200] Il y avait déjà des soucis avant le mandat de Macron, il y en a encore plus à la fin.
+[00:04:33.200 --> 00:04:35.600] Ils ont eu la bonne idée de lui en donner deux, bon.
+[00:04:35.600 --> 00:04:39.280] Et finalement c'est les mêmes rengaines que du temps des Gilets jaunes quoi.
+[00:04:39.280 --> 00:04:44.880] Personnellement c'est mes premières manifs et je viens surtout parce que c'est un essoufflement vraiment de beaucoup de personnes.
+[00:04:44.880 --> 00:04:49.520] On a les étudiants, les lycéens, c'est important d'être là déjà juste pour soutenir tout simplement.
+[00:04:49.520 --> 00:04:55.200] Injustice sociale, les jeunes mal compris, les jeunes seront des vieux de demain.
+[00:04:55.200 --> 00:04:59.600] C'est très flou hein, il n'y a pas, comment dirais-je, de mobilisation contre une mesure spécifique.
+[00:04:59.600 --> 00:05:03.840] C'est pas comme les manifs contre le CPE ou la loi de vaquer ou tous ces trucs là.
+[00:05:03.840 --> 00:05:10.000] C'est des revendications générales de mal-être, de problèmes économiques et sociaux,
+[00:05:10.000 --> 00:05:14.560] qui finissent par être des problèmes psychologiques quoi, de dépression comme disait l'autre.
+[00:05:14.640 --> 00:05:21.200] Et donc sur le plan des constats en fait c'est, ils partagent leurs sentiments, leurs appréhensions, leurs difficultés.
+[00:05:21.200 --> 00:05:23.840] On va en voir d'autres. Bon voilà, à la fin il y a eu une poubelle.
+[00:05:23.840 --> 00:05:29.040] Si une charge de CRS pour disperser un groupe de jeunes qui étaient restés en queue de manifestation,
+[00:05:29.040 --> 00:05:33.760] et ces images là, bah c'est peut-être celles qui vont tourner sans cesse sur les chaînes Info,
+[00:05:33.760 --> 00:05:38.160] alors qu'objectivement, pour avoir vraiment parcouru l'intégralité du cortège,
+[00:05:38.160 --> 00:05:41.520] ça concerne peut-être 0,2% des gens qui sont là.
+[00:05:41.520 --> 00:05:45.840] Et se concentrer sur eux, décider de cadrer des reportages, des sujets sur les violences,
+[00:05:45.840 --> 00:05:51.360] et c'est surtout faire le choix d'invisibiliser les réseaux qui ont poussé tant de personnes aujourd'hui à manifester.
+[00:05:51.360 --> 00:05:56.560] Voilà, je vous ai laissé la fin parce qu'apparemment les médias en ont vraiment fait une tartine sur les violences.
+[00:05:56.560 --> 00:05:59.680] Apparemment le JT hier, ils ont fait une heure, normalement ça dure une demi-heure,
+[00:05:59.680 --> 00:06:02.640] ils ont fait une heure sur les violences en boucle dans toutes les villes.
+[00:06:02.640 --> 00:06:04.880] T'as l'impression que le pays a été détruit.
+[00:06:04.880 --> 00:06:07.640] C'est vrai que c'est un peu aussi l'impression qu'on pouvait avoir sur les réseaux sociaux.
+[00:06:07.720 --> 00:06:12.200] Alors là, on voit beaucoup plus d'interviews bruts qui est allé dans la manif,
+[00:06:12.200 --> 00:06:15.160] interroger les gens et puis ça nous donnera un panel un peu plus large.
+[00:06:15.160 --> 00:06:18.280] Ouais, c'est à la gilet jaune, il n'y a que des constats...
+[00:06:18.280 --> 00:06:21.320] Mon fils, il n'a pas de porte au lycée, aux toilettes !
+[00:06:21.320 --> 00:06:23.720] Vous voyez pourquoi on va ? Pour de la merde !
+[00:06:23.720 --> 00:06:26.920] Ouais, on se bat pour les portes dans les chiottes des IC.
+[00:06:26.920 --> 00:06:33.780] On est là et vous cassez tout le monde ! Vous ne savez même pas que c'est dur pour vous, les gars !
+[00:06:33.780 --> 00:06:35.780] Alors dis-moi, qu'est-ce qui t'amène ici aujourd'hui ?
+[00:06:35.860 --> 00:06:40.100] C'est magnifique, c'est des prix, des prix de base pour se nourrir.
+[00:06:40.100 --> 00:06:41.620] C'est un peu compliqué de parler, je ne sais pas si on m'entend bien.
+[00:06:41.620 --> 00:06:42.420] Putain, c'est chaud, hein, là !
+[00:06:42.420 --> 00:06:44.580] Ouais, là-bas, c'est assez chaud, c'est assez chaud.
+[00:06:44.580 --> 00:06:48.180] Parcours supposé qu'il y a un vrai carnage, c'est même pas ce qu'on veut faire à 18 ans.
+[00:06:48.180 --> 00:06:50.580] En classe, comme ça, on trouve que c'est assez compliqué.
+[00:06:50.580 --> 00:06:51.460] L'orientation !
+[00:06:51.460 --> 00:06:52.580] Ouais, surtout l'orientation !
+[00:06:52.580 --> 00:06:55.220] Moi, personnellement, j'ai pris ma première année de médecine, j'ai réussi.
+[00:06:55.220 --> 00:06:59.460] Et à la fin du concours, pour 900 élèves, il n'y avait que 15 places, j'ai été 18e.
+[00:06:59.460 --> 00:07:01.220] Je ne comprends pas le moral, s'il tombe au moins ça.
+[00:07:01.780 --> 00:07:04.580] Ça, je croyais que ça avait été un peu réglé, cette histoire de...
+[00:07:04.580 --> 00:07:06.180] Comment ça s'appelait déjà ?
+[00:07:06.180 --> 00:07:08.100] Le numerus clausus dans la médecine.
+[00:07:08.100 --> 00:07:09.540] Je croyais que ça avait été un peu réglé, justement,
+[00:07:09.540 --> 00:07:13.540] parce qu'il y a plein de gens qui ont le niveau pour être médecin, qui veulent être médecin,
+[00:07:13.540 --> 00:07:16.420] et qui sont chassés des études pour des questions de nombre de places.
+[00:07:16.420 --> 00:07:18.420] Alors, il y avait plusieurs raisons pour ce truc-là,
+[00:07:18.420 --> 00:07:23.940] mais il me semble qu'il y a des intentions politiques qui sont derrière, surtout économiques.
+[00:07:23.940 --> 00:07:28.020] Ils préfèrent importer des médecins plutôt que de les former, ça coûte moins cher.
+[00:07:28.100 --> 00:07:30.820] Une fois qu'ils sont formés, on les fait venir des pays de l'Est.
+[00:07:30.820 --> 00:07:34.340] Et dans les pays de l'Est, ils font venir des mecs du Vietnam.
+[00:07:34.340 --> 00:07:35.540] C'est la mondialisation.
+[00:07:35.540 --> 00:07:38.100] Ils ont continué à réduire le nombre de places, d'accord, ok.
+[00:07:38.100 --> 00:07:41.540] Ça a été supprimé, mais il y a eu une entourloupe, je ne sais plus exactement, d'accord.
+[00:07:41.540 --> 00:07:43.060] Tu t'es orienté vers quoi, du coup ?
+[00:07:43.060 --> 00:07:45.300] Moi, du coup, pour ma part, je me suis orienté vers la compta,
+[00:07:45.300 --> 00:07:46.980] ce n'était pas vraiment une filière que je voulais faire.
+[00:07:46.980 --> 00:07:50.020] L'État, ils disent qu'il manque de médecins, il manque de personnels soignants,
+[00:07:50.020 --> 00:07:54.500] mais ils ne font pas en sorte que nous, la génération d'aujourd'hui, on puisse avoir le moyen d'étudier.
+[00:07:54.500 --> 00:07:55.540] On fait quoi dans la vie ?
+[00:07:58.420 --> 00:08:02.020] Même nous, avec une pension handicapée, on ne vit pas.
+[00:08:02.020 --> 00:08:06.260] Je suis obligé aussi, des fois, à faire la manche pour m'en sortir.
+[00:08:06.260 --> 00:08:09.460] Là, j'entends que ça pète un peu, je ne vous vois pas trop équipés.
+[00:08:09.460 --> 00:08:11.380] On n'est pas équipés du tout.
+[00:08:11.380 --> 00:08:11.860] Pourquoi ?
+[00:08:11.860 --> 00:08:14.740] Parce que nous, on ne passe pas, on ne va pas faire, nous, on vient juste manifester.
+[00:08:14.740 --> 00:08:16.980] Parce que nous, on vient manifester, on ne vient pas casser.
+[00:08:16.980 --> 00:08:17.940] Vous voulez des petits masques ?
+[00:08:17.940 --> 00:08:18.180] Non.
+[00:08:18.180 --> 00:08:18.820] Merci madame.
+[00:08:18.820 --> 00:08:19.700] Hop là !
+[00:08:20.420 --> 00:08:21.220] Tenez monsieur.
+[00:08:21.220 --> 00:08:22.100] Merci beaucoup.
+[00:08:22.100 --> 00:08:24.740] Maintenant, c'est carrément de la violence pure.
+[00:08:24.820 --> 00:08:26.340] J'en ai croisé une, là.
+[00:08:26.340 --> 00:08:28.660] Ouais, à Marlepen, là, machin.
+[00:08:28.660 --> 00:08:30.660] Bah j'ai déjà regardé, j'ai vu Marine.
+[00:08:30.660 --> 00:08:33.300] Le mec de droite, ça fait chaud, machin.
+[00:08:33.300 --> 00:08:35.780] Mais il ne sait même pas ce que c'est que le fascisme, c'est con.
+[00:08:35.780 --> 00:08:39.060] On va y revenir, parce que c'est vrai que c'est la revendication principale,
+[00:08:39.060 --> 00:08:41.380] la lutte contre la montée du fascisme.
+[00:08:41.380 --> 00:08:45.220] Papy Boomer qui est allé à la rencontre des jeunes qui votent à l'EFI.
+[00:08:45.220 --> 00:08:49.860] Oui, des kamikazes, mais j'ai eu une expérience similaire dans une manif il y a des années,
+[00:08:49.860 --> 00:08:52.020] du temps où je tractais pour l'UPR.
+[00:08:52.020 --> 00:08:56.020] Et j'avais donné mon petit tract dans une manifestation.
+[00:08:56.020 --> 00:08:57.780] Oh, je sais plus pourquoi c'était.
+[00:08:57.780 --> 00:09:00.820] Et puis j'avais filé mon petit tract UPR, il a vu que c'était bleu,
+[00:09:00.820 --> 00:09:02.660] le mec il a pété une durite.
+[00:09:02.660 --> 00:09:04.980] Je suis tombé sur un espèce de vieux coco à la con.
+[00:09:04.980 --> 00:09:06.820] Donc fallait prendre toutes ces merdes.
+[00:09:06.820 --> 00:09:11.140] Mais le type est devenu violent rien qu'en voyant la couleur bleue du tract.
+[00:09:11.140 --> 00:09:12.980] Pas moyen de discuter, rien.
+[00:09:12.980 --> 00:09:15.780] Ah dégage, fais chaud, machin, tout ça.
+[00:09:15.780 --> 00:09:17.140] Zinzin.
+[00:09:17.140 --> 00:09:20.100] Je vois que tu portes le gilet jaune, il signifie quoi pour toi ce gilet ?
+[00:09:20.180 --> 00:09:24.820] Pour moi, le gilet jaune, ça ne représente pas un truc vraiment partisan ou quelque chose comme ça.
+[00:09:24.820 --> 00:09:27.700] C'est vraiment le fait que tout le monde est d'accord, tout le monde est d'accord que là on n'en veut plus.
+[00:09:27.700 --> 00:09:30.260] Et ouais, le gilet jaune c'est l'union de tout le monde,
+[00:09:30.260 --> 00:09:33.780] même parfois des gens de droite qui portent le gilet jaune et je trouve ça hyper touchant, hyper beau.
+[00:09:33.780 --> 00:09:35.300] Oui, j'en ai croisé d'ailleurs.
+[00:09:35.300 --> 00:09:39.220] Bah voilà, c'est pas une question de par quoi est-ce qu'on a été éduqué et tout ça,
+[00:09:39.220 --> 00:09:41.860] c'est une question qu'en fait tout le monde me remarque que là c'est trop et voilà.
+[00:09:41.860 --> 00:09:43.460] Alors dis-moi, qu'est-ce qui t'amène ici aujourd'hui ?
+[00:09:43.460 --> 00:09:47.460] Moi je travaille dans le transport, je ne chauffe pas l'eau, je suis à mon compte et malheureusement je paye super cher le prix de l'essence.
+[00:09:47.460 --> 00:09:48.260] A quel âge ?
+[00:09:48.260 --> 00:09:51.300] J'ai 23 ans, en plus de ça ma société que je viens d'ouvrir il y a à peine 6 mois,
+[00:09:51.300 --> 00:09:54.340] je me retrouve à payer des charges où c'est pas normal.
+[00:09:54.340 --> 00:09:58.500] Nicolas qui paye, quand il découvre le statut de travailleur non salarié
+[00:09:58.500 --> 00:10:01.860] où tu payes 60% de tout ce que tu verses,
+[00:10:01.860 --> 00:10:04.420] il part en cotisation et il te reste 40% en nette.
+[00:10:04.420 --> 00:10:07.060] Tu te fais défoncer sur les cotisations dans ce statut.
+[00:10:07.060 --> 00:10:12.100] Et puis alors en plus avec l'essence, c'était pas le meilleur moment pour lancer une société de transport je crois.
+[00:10:12.100 --> 00:10:12.980] Force à lui.
+[00:10:13.540 --> 00:10:15.300] Alors qu'est-ce qui t'amène ici aujourd'hui ?
+[00:10:15.300 --> 00:10:17.780] Alors moi j'ai beaucoup de revendications, je te les lis toutes ?
+[00:10:17.780 --> 00:10:18.420] Oui alors.
+[00:10:18.420 --> 00:10:20.660] Voilà donc là c'est là que ça part en couille en fait.
+[00:10:20.660 --> 00:10:23.060] On va voir un autre truc après vous allez voir.
+[00:10:23.060 --> 00:10:24.340] Qu'est-ce qui est marqué ?
+[00:10:24.340 --> 00:10:30.740] Stop la taxe rose parce qu'on en a marre que les femmes aujourd'hui en 2026 on n'est toujours pas égaux sur des services, sur des prix.
+[00:10:30.740 --> 00:10:31.780] Ensuite des...
+[00:10:31.780 --> 00:10:36.500] Ça c'est les rasoirs, je crois que c'est le seul exemple, je sais pas si vous en avez d'autres l'histoire de la taxe rose,
+[00:10:36.500 --> 00:10:40.660] c'est les rasoirs premier prix en fait qui sont rose pour les femmes et bleu pour les hommes,
+[00:10:40.660 --> 00:10:44.900] qui sont strictement les mêmes visuellement, en premier abord c'est les mêmes,
+[00:10:44.900 --> 00:10:48.580] mais t'as 30% ou 40% d'écart de prix.
+[00:10:48.580 --> 00:10:50.660] Ouais voilà les Vénus et machins.
+[00:10:50.660 --> 00:10:59.220] Et au lieu d'acheter le même rasoir pour homme bleu 30% ou 40% moins cher qui visiblement normalement c'est selon ce qu'elle dit c'est le même boulot,
+[00:10:59.220 --> 00:11:00.980] et bien ils font des pancartes sur la taxe rose.
+[00:11:00.980 --> 00:11:05.460] Alors après voilà le coiffeur, bon ils appellent ça une taxe quoi enfin...
+[00:11:05.460 --> 00:11:09.060] Oui c'est le libre marché c'est pas une taxe, il suffit de pas acheter en fait.
+[00:11:09.140 --> 00:11:11.060] Coiffeur, vêtements, produits hygiéniques.
+[00:11:11.060 --> 00:11:14.260] Oui il y a aussi des serviettes hygiéniques remboursées par la sécu maintenant.
+[00:11:14.260 --> 00:11:16.420] Je te les rasoirs bleu problème réglé ouais.
+[00:11:16.420 --> 00:11:19.940] Bon c'est pas les grands problèmes de la société quand même là.
+[00:11:19.940 --> 00:11:20.980] Mais y'a pire.
+[00:11:20.980 --> 00:11:22.340] Sur des prix ensuite.
+[00:11:22.340 --> 00:11:27.300] Des fruits au cinéma c'est pas normal en fait qu'en 2026 on a que des produits transformés au cinéma.
+[00:11:27.300 --> 00:11:30.340] Je veux des fruits c'est important, on est dans une ère à wellness.
+[00:11:30.340 --> 00:11:31.140] Ensuite.
+[00:11:31.140 --> 00:11:32.900] Tu te demandes si c'est pas du troll.
+[00:11:32.900 --> 00:11:34.900] La meuf est dans la rue pour des fruits au cinéma.
+[00:11:34.900 --> 00:11:36.900] Parce qu'on est dans une ère wellness.
+[00:11:37.620 --> 00:11:40.980] D'unité humaine en priorité, j'en ai marre de voir des SDF partout.
+[00:11:40.980 --> 00:11:44.260] Et j'en ai pas marre pour moi, j'en ai juste marre c'est pas normal tu vois ce que je veux dire.
+[00:11:44.260 --> 00:11:47.620] Mais voilà, je suis là pour ça ouais.
+[00:11:47.620 --> 00:11:51.220] A Brun à Cadabra, ce SDF disparaît.
+[00:11:51.220 --> 00:11:52.900] Et hop, problème réglé.
+[00:11:52.900 --> 00:11:55.620] Faut que l'Etat enlève le clodo dans ma rue.
+[00:11:55.620 --> 00:11:57.220] Les luttes de nazes.
+[00:11:57.220 --> 00:12:01.060] J'ai envie que tout change, j'ai envie que la France change.
+[00:12:01.060 --> 00:12:03.540] J'en ai marre en fait qu'on nous prenne tout à chaque fois.
+[00:12:03.620 --> 00:12:07.060] Et qu'on vienne nous dire à nous qu'on en est le problème parce qu'on travaille pas assez.
+[00:12:07.060 --> 00:12:07.860] Toi tu fais quoi toi ?
+[00:12:07.860 --> 00:12:10.660] Alors ça c'est vrai que les macronistes sont très doués pour ça.
+[00:12:10.660 --> 00:12:12.820] Ils foutent en l'air l'économie, puis après ils disent.
+[00:12:12.820 --> 00:12:18.180] Enfin, vous fassiez plus d'efforts, on a bousillé l'approvisionnement énergétique de la France.
+[00:12:18.180 --> 00:12:20.340] Vous allez devoir vous serrer un peu la ceinture.
+[00:12:20.340 --> 00:12:22.020] Va falloir travailler plus.
+[00:12:22.020 --> 00:12:22.820] Oups.
+[00:12:22.820 --> 00:12:25.220] Mais encore une fois, on est dans le domaine du constat quoi.
+[00:12:25.220 --> 00:12:28.020] Moi j'aurais ça parce que justement je cherche un travail.
+[00:12:28.020 --> 00:12:28.660] Ouais.
+[00:12:28.660 --> 00:12:32.340] Ça fait des mois, ça fait des mois je te jure.
+[00:12:32.340 --> 00:12:33.460] Ça fait des mois que je cherche un travail.
+[00:12:33.460 --> 00:12:34.900] On n'a rien et personne nous prend.
+[00:12:34.900 --> 00:12:36.980] Même un sérum j'ai tout fait et on ne trouve rien.
+[00:12:36.980 --> 00:12:39.060] Et le souci c'est que moi j'ai envie de travailler et de me faire de l'argent.
+[00:12:39.060 --> 00:12:41.060] Mais malheureusement je suis à ça quoi.
+[00:12:41.060 --> 00:12:42.100] Vous êtes un...
+[00:12:42.100 --> 00:12:46.420] Je crois qu'il y a 20-25% de taux de chômage chez les jeunes.
+[00:12:46.420 --> 00:12:48.500] Diplômés, pas diplômés, etc.
+[00:12:48.500 --> 00:12:53.060] On va en parler d'ailleurs un petit peu plus loin dans les revendications sur les jeunes, les lycéens.
+[00:12:53.060 --> 00:12:54.740] Ancien, j'ai des jaunes ou nouveau ?
+[00:12:54.740 --> 00:12:55.860] Ancien, la première.
+[00:12:55.860 --> 00:12:58.740] Au bout du 5 du mois on est dans la merde, on est dans le rouge.
+[00:12:58.740 --> 00:13:00.420] Et une fois qu'on a tout payé il ne restait plus rien.
+[00:13:00.420 --> 00:13:02.340] Donc on est encore là, la licence a vachement augmenté.
+[00:13:02.420 --> 00:13:05.220] 2018 on avait dit que ça allait se passer.
+[00:13:05.220 --> 00:13:08.180] Personne nous a cru, on nous a méprisé, etc.
+[00:13:08.180 --> 00:13:09.460] Et regardez où aujourd'hui on est.
+[00:13:09.460 --> 00:13:12.740] Qu'est-ce que ça vous fait aujourd'hui de voir des jeunes porter de gilets jaunes ?
+[00:13:12.740 --> 00:13:13.780] Eh ben c'est excellent.
+[00:13:13.780 --> 00:13:15.060] Cette jeunesse moi j'adore.
+[00:13:15.060 --> 00:13:17.380] Franchement continuez la jeunesse, ça fait une belle cause.
+[00:13:17.380 --> 00:13:19.220] Mais sans casser bien sûr.
+[00:13:19.220 --> 00:13:20.340] Voilà.
+[00:13:20.340 --> 00:13:21.060] Sans violence.
+[00:13:22.260 --> 00:13:24.020] Le message de fin est passé à la trappe.
+[00:13:24.020 --> 00:13:28.020] Ouais donc rien n'a changé en fait par rapport aux gilets jaunes.
+[00:13:28.020 --> 00:13:32.180] Pour en finir avec les revendications et puis les errements vis-à-vis de ce côté là,
+[00:13:32.180 --> 00:13:33.780] je cherchais revendications.
+[00:13:33.780 --> 00:13:36.180] Et je tombe sur l'iceberg des revendications.
+[00:13:36.180 --> 00:13:39.940] Et on a un peu un condensé des problèmes, comment dire,
+[00:13:39.940 --> 00:13:44.820] de l'inadéquation entre le comportement des gens et la nature du problème.
+[00:13:44.820 --> 00:13:47.780] Donc on a essentiellement des problèmes de prix.
+[00:13:47.780 --> 00:13:50.100] Donc là de 2,50€ sur l'essence.
+[00:13:50.100 --> 00:13:54.100] Un peu plus bas on a la canette à 2,50€, c'est horrible.
+[00:13:54.100 --> 00:13:56.340] 17€ le kilo de viande hachée.
+[00:13:56.340 --> 00:13:58.580] Apparemment ils ne réclament pas, ils se plaignent.
+[00:13:58.580 --> 00:14:00.260] La taxe rose on la retrouve.
+[00:14:00.340 --> 00:14:02.500] Evidemment il faut interdire les opposants politiques
+[00:14:02.500 --> 00:14:04.260] ou les gens qui ne pensent pas comme cet individu.
+[00:14:04.260 --> 00:14:07.460] Donc on voit ici Bolloré.
+[00:14:07.460 --> 00:14:09.860] Elle dénonce les politiques sous bracelet électronique.
+[00:14:09.860 --> 00:14:11.380] On se demande qui c'est.
+[00:14:11.380 --> 00:14:13.460] Manif néonazie autorisée.
+[00:14:13.460 --> 00:14:15.220] Montée du fascisme.
+[00:14:15.220 --> 00:14:18.900] Et puis après il y a 2-3 éléments comme ça un peu, comment dire, idéologiques.
+[00:14:18.900 --> 00:14:20.820] Donc il y a quand même le 49.3 qui est ressorti.
+[00:14:20.820 --> 00:14:25.300] C'est un peu le bingo en fait de l'étudiante de gauche citadine.
+[00:14:25.300 --> 00:14:27.060] Ouais il y a l'IAG générative.
+[00:14:27.060 --> 00:14:29.620] Permette de tuer le passe-navigo, 1000€.
+[00:14:29.700 --> 00:14:31.460] Le passe-navigo est trop cher aussi.
+[00:14:31.460 --> 00:14:33.220] Il faut déboucher le monde du travail.
+[00:14:33.220 --> 00:14:34.900] Et puis après il y a des postures idéologiques.
+[00:14:34.900 --> 00:14:36.980] Voilà on se plaint du génocide ici.
+[00:14:36.980 --> 00:14:38.420] Le mansplaining.
+[00:14:38.420 --> 00:14:39.780] La loi du plomb.
+[00:14:39.780 --> 00:14:42.020] Les architectures anti SDF.
+[00:14:42.020 --> 00:14:44.900] Ah la banlieue est trop isolée aussi, le RER ça va pas.
+[00:14:44.900 --> 00:14:47.940] Et alors tout en bas des revendications, je vous laisse voir.
+[00:14:47.940 --> 00:14:49.540] Pour ceux qui ont la référence.
+[00:14:49.540 --> 00:14:53.220] Aparte de 9m² catégorie F légale.
+[00:14:53.220 --> 00:14:55.780] Il me semble que non, c'est pas légal du coup en terme de location.
+[00:14:55.780 --> 00:14:58.100] Réduction des aides sociales, non.
+[00:14:58.100 --> 00:15:02.420] Donc en gros, interdisez mes opposants politiques, filez moi plus de fric.
+[00:15:02.420 --> 00:15:05.140] Et puis deux trois gris-gris idéologiques à droite à gauche.
+[00:15:05.140 --> 00:15:07.940] Voilà, le mansplaining, la taxe rose.
+[00:15:07.940 --> 00:15:09.380] Vous avez compris quoi.
+[00:15:09.380 --> 00:15:13.060] Alors, quelles conclusions on peut tirer de ce petit panel ?
+[00:15:13.060 --> 00:15:15.380] Bah déjà on a beaucoup de constats personnels.
+[00:15:15.380 --> 00:15:20.180] Les gens viennent exprimer leurs problèmes, leurs situations, leurs angoisses, leurs difficultés.
+[00:15:20.180 --> 00:15:22.100] Personne ne propose de solution.
+[00:15:22.100 --> 00:15:26.420] C'est vrai, autant des manifestants que des politiques.
+[00:15:26.580 --> 00:15:28.980] Que des syndicats, que tout le monde en fait.
+[00:15:28.980 --> 00:15:32.580] Tous ceux qui interviennent aussi dans les médias, il n'y en a pas un pour proposer des solutions concrètes.
+[00:15:32.580 --> 00:15:34.740] On va voir pourquoi, le problème est venu.
+[00:15:34.740 --> 00:15:37.620] Et en fait, on a le même souci qu'avec les gilets jaunes.
+[00:15:37.620 --> 00:15:40.020] C'est-à-dire que les revendications sont légitimes.
+[00:15:40.020 --> 00:15:44.020] Qu'il y ait un peu de sport pour les faire valoir, c'est légitime.
+[00:15:44.020 --> 00:15:46.180] Mais en fait, il n'y a pas de solution.
+[00:15:46.180 --> 00:15:49.380] À la fin, ils se tournent, ils comptent sur la démocratie représentative.
+[00:15:49.380 --> 00:15:51.780] C'est-à-dire qu'ils se tournent vers les politiciens.
+[00:15:51.780 --> 00:15:54.740] Les élus, le gouvernement, le président.
+[00:15:55.700 --> 00:15:59.300] Au sein du mois, on n'a plus de thunes, on travaille, on est de plus en plus pauvres.
+[00:15:59.300 --> 00:16:01.940] On s'est fait chier à faire des diplômes, on n'a pas de boulot.
+[00:16:01.940 --> 00:16:03.700] Enfin, tous ces éléments-là que vous connaissez.
+[00:16:03.700 --> 00:16:06.420] Et puis après, les problèmes dans les services publics, les hôpitaux, etc.
+[00:16:06.420 --> 00:16:09.220] Les gens qui ne sont pas bien payés dans le service à la personne.
+[00:16:09.220 --> 00:16:12.020] Bon, on peut faire la liste à la prévère, comme disait l'autre.
+[00:16:12.020 --> 00:16:14.020] On ne sait pas par où commencer tellement il y a de soucis.
+[00:16:14.020 --> 00:16:15.460] Et donc, ils se tournent vers les politiciens.
+[00:16:15.460 --> 00:16:19.380] Ils disent, démerdez-vous pour remettre le pays sur les bons rails.
+[00:16:19.380 --> 00:16:22.580] Le problème, c'est que tu ne peux pas demander aux gens qui causent les problèmes de les régler.
+[00:16:22.660 --> 00:16:25.300] Et on voit que ça va finir exactement avec le même résultat.
+[00:16:25.300 --> 00:16:30.500] C'est-à-dire qu'on va avoir de l'animation socio-culturelle à base de grands débats
+[00:16:30.500 --> 00:16:34.020] et puis de cahiers de doléances qui finiront à la poubelle.
+[00:16:34.020 --> 00:16:36.580] On va taper un peu sur les gens jusqu'à ce qu'ils en aient marre.
+[00:16:36.580 --> 00:16:40.740] Et puis, on va faire en sorte que le diablotin retourne dans sa boîte.
+[00:16:40.740 --> 00:16:44.580] On va fermer le couvercle gentiment et puis on va passer à autre chose.
+[00:16:44.580 --> 00:16:47.300] Alors, avant le 17 octobre, j'avais l'intention déjà de faire une petite vidéo
+[00:16:47.300 --> 00:16:51.300] sur les revendications des lycéens parce que là aussi, il y a un problème, en fait.
+[00:16:51.300 --> 00:16:53.380] Comment dire ? Ils voient pas plus loin que le bout de leur nez.
+[00:16:53.380 --> 00:16:54.580] On va dire ça comme ça.
+[00:16:54.580 --> 00:16:57.460] Ça va pas assez loin, sans être méprisant.
+[00:16:57.460 --> 00:17:00.820] Et au vu de la manif du samedi, on va vraiment élargir le propos.
+[00:17:00.820 --> 00:17:03.380] On va élargir très largement le diagnostic.
+[00:17:03.380 --> 00:17:07.060] Et on reviendra ensuite sur la question des lycées et puis du quotidien des gens.
+[00:17:07.060 --> 00:17:10.420] Alors, vous n'êtes pas sans savoir que nous vivons à l'heure de la mondialisation.
+[00:17:10.420 --> 00:17:12.020] Oui, on va vraiment élargir.
+[00:17:12.020 --> 00:17:16.340] Et la mondialisation, c'est pas juste un phénomène logistique de palettes et de conteneurs.
+[00:17:16.340 --> 00:17:20.820] C'est d'abord un phénomène politique, puis économique.
+[00:17:20.820 --> 00:17:23.860] La mondialisation, avec un grand M sur le plan politique,
+[00:17:23.860 --> 00:17:27.220] c'est une idéologie qui postule le dépassement des États,
+[00:17:27.220 --> 00:17:31.620] des États-nations, comme échelon pertinent pour l'action politique.
+[00:17:31.620 --> 00:17:35.860] L'idée, c'est de remplacer les gouvernements, mais aussi avec tout ce qui va avec.
+[00:17:35.860 --> 00:17:38.020] L'idée, c'est que les États sont trop petits.
+[00:17:38.020 --> 00:17:43.140] Et donc, on va voir le même phénomène qui s'est passé dans les régions de France,
+[00:17:43.140 --> 00:17:48.260] qui se sont fondues dans un tout plus large qui s'appelle la France.
+[00:17:48.260 --> 00:17:54.820] Et ça a conduit à un certain nombre de lissages culturels, linguistiques et politiques.
+[00:17:54.820 --> 00:17:56.980] Et l'idée, c'est de faire la même chose au niveau mondial.
+[00:17:56.980 --> 00:18:00.740] Et que la France, finalement, devienne l'équivalent dans le monde
+[00:18:00.740 --> 00:18:03.060] de ce que le département de la Savoie est à la France.
+[00:18:03.060 --> 00:18:05.860] Donc, la France serait un petit département du monde.
+[00:18:05.860 --> 00:18:11.620] Et à la fin, les particularités politiques et culturelles des États deviendraient folkloriques.
+[00:18:11.700 --> 00:18:18.260] La manière dont on appréhende le rapport au travail, à l'individu et au collectif,
+[00:18:18.260 --> 00:18:24.900] le rapport à l'État, le rapport au service public, le rapport à la nourriture, à la gastronomie,
+[00:18:24.900 --> 00:18:27.940] toutes les normes qui vont avec, le rapport au bâtiment, à l'architecture,
+[00:18:27.940 --> 00:18:30.580] enfin tout un tas de choses comme ça, ça va revoirment très loin,
+[00:18:30.580 --> 00:18:34.980] finiraient par être uniformisées dans un Gloubi-Bulga mondial, finalement,
+[00:18:34.980 --> 00:18:37.620] avec une politique mondiale.
+[00:18:37.620 --> 00:18:39.940] Et donc, ça c'est la situation actuelle.
+[00:18:39.940 --> 00:18:44.500] On a un pays avec une culture, des idées, des figures,
+[00:18:44.500 --> 00:18:48.980] culture médiatique, informative, commune, que les autres pays n'ont pas,
+[00:18:48.980 --> 00:18:52.740] des références historiques, des références gastronomiques, des paysages,
+[00:18:52.740 --> 00:18:57.780] et puis une organisation politique, avec ici un gouvernement, un parlement, des citoyens,
+[00:18:57.780 --> 00:19:00.580] qui sont censés être un petit peu acteurs de la décision.
+[00:19:00.580 --> 00:19:04.740] Et on passe à un monde où tout ça devient complètement folklo,
+[00:19:04.740 --> 00:19:08.260] il y a une idéologie de gestion qui s'applique aux États,
+[00:19:08.340 --> 00:19:10.420] et on arrive à la mondialisation politique,
+[00:19:10.420 --> 00:19:15.220] où les États s'effacent et se dissolvent dans des institutions internationales,
+[00:19:15.220 --> 00:19:18.100] alors l'Union européenne en est l'une des plus abouties,
+[00:19:18.100 --> 00:19:22.180] mais vous en avez tout un tas, avec Banque mondiale, OMC, ONU et tout le tintouin,
+[00:19:22.180 --> 00:19:26.180] et ces institutions remplacent le gouvernement par la gouvernance.
+[00:19:26.180 --> 00:19:28.980] C'est-à-dire qu'à la place d'avoir des gens qui font des diagnostics,
+[00:19:28.980 --> 00:19:31.300] qui prennent des décisions et qui les annoncent,
+[00:19:31.300 --> 00:19:34.340] tu as une suite de processus décousus.
+[00:19:34.420 --> 00:19:38.180] Tu n'auras jamais un responsable de la mondialisation,
+[00:19:38.180 --> 00:19:41.780] un responsable de l'Union européenne, qui se pointe au venteur,
+[00:19:41.780 --> 00:19:46.020] pour dire, eh bien, on est face à telle situation, nous allons prendre telle mesure,
+[00:19:46.020 --> 00:19:48.980] et puis ensuite, bien, comme ça se pourrait se passer en France,
+[00:19:48.980 --> 00:19:51.620] comme ça aurait pu se passer avec Macron dernièrement,
+[00:19:51.620 --> 00:19:55.220] et puis ensuite, tu as les relais par le gouvernement, par les préfets, etc.,
+[00:19:55.220 --> 00:19:58.180] de la politique qui a été décidée au niveau du gouvernement, voilà.
+[00:19:58.180 --> 00:20:00.420] Eh bien ce truc-là ne peut pas exister dans la mondialisation,
+[00:20:00.420 --> 00:20:03.860] puisque tu as un pouvoir qui est complètement éclaté,
+[00:20:03.860 --> 00:20:05.860] dans plusieurs organisations,
+[00:20:05.860 --> 00:20:08.820] et dans ces organisations, plusieurs processus de décision.
+[00:20:08.820 --> 00:20:11.060] Et les seuls qui finissent par piloter ce truc-là,
+[00:20:11.060 --> 00:20:13.300] c'est des organismes extérieurs,
+[00:20:13.300 --> 00:20:16.500] donc là, ici, il y a les grandes entreprises, mais ça inclut aussi les ONG,
+[00:20:16.500 --> 00:20:18.740] en fait, ce qu'on appelle le lobbying,
+[00:20:18.740 --> 00:20:20.740] avant on appelait ça le trafic d'influence,
+[00:20:20.740 --> 00:20:23.380] est complètement intégré au processus de décision.
+[00:20:23.380 --> 00:20:26.340] Et dans ce système, c'est ce qu'on appelle la démocratie de marché,
+[00:20:26.340 --> 00:20:30.100] c'est-à-dire que tu n'as plus de citoyens, tu as des travailleurs consommateurs,
+[00:20:30.100 --> 00:20:33.460] qui votent avec leur ticket de caisse pour des entreprises,
+[00:20:33.540 --> 00:20:36.740] qui sont censés, puisque nous achetons leurs produits,
+[00:20:36.740 --> 00:20:41.700] satisfaire nos besoins et être les plus à même, en plus, de satisfaire nos besoins.
+[00:20:41.700 --> 00:20:44.260] Ce n'est pas à l'état de le faire, c'est à des entreprises.
+[00:20:44.260 --> 00:20:47.860] Donc, en achetant leurs produits, on leur donne de la puissance financière,
+[00:20:47.860 --> 00:20:51.300] et cette puissance financière leur donne la possibilité d'agir
+[00:20:51.300 --> 00:20:52.740] dans les institutions internationales,
+[00:20:52.740 --> 00:20:56.900] qui sont pour beaucoup financées ou verrouillées de différents lobbies,
+[00:20:56.900 --> 00:21:01.300] et dans les processus de décision, en particulier au niveau de l'Union européenne,
+[00:21:01.380 --> 00:21:03.460] le Parlement européen ne sert à rien.
+[00:21:03.460 --> 00:21:05.940] C'est un truc pour décorer, pour rigoler.
+[00:21:05.940 --> 00:21:08.900] Les lois se forment au niveau de la Commission européenne,
+[00:21:08.900 --> 00:21:12.580] sur la base de rapports qui sont édictés par des lobbies d'influence,
+[00:21:12.580 --> 00:21:15.140] et pour faire passer ces lois au niveau européen,
+[00:21:15.140 --> 00:21:19.700] et bien ces lobbies sont les seuls qui sont capables de gérer tout le processus.
+[00:21:19.700 --> 00:21:22.260] Les différents fonctionnaires, ils gèrent des petits bouts.
+[00:21:22.260 --> 00:21:25.460] Ils gèrent la rédaction du truc, puis ensuite il y a la présentation de la Commission,
+[00:21:25.460 --> 00:21:27.940] et puis il y a le validage des différents commissaires,
+[00:21:27.940 --> 00:21:30.980] puis ensuite il y a le vote, je crois, des chefs de gouvernement,
+[00:21:30.980 --> 00:21:33.620] ou des représentants des différents gouvernements,
+[00:21:33.620 --> 00:21:35.620] et puis il y a un bout de vote à l'Assemblée,
+[00:21:35.620 --> 00:21:37.940] enfin bon, il y a tout un circuit comme ça,
+[00:21:37.940 --> 00:21:41.140] et les seuls qui sont capables de prendre un texte à l'étape zéro,
+[00:21:41.140 --> 00:21:42.660] et de l'amener à l'étape finale,
+[00:21:42.660 --> 00:21:45.060] c'est des lobbyistes,
+[00:21:45.060 --> 00:21:47.940] essentiellement souvent des congrégations d'entreprises,
+[00:21:47.940 --> 00:21:49.140] ou alors d'ONG,
+[00:21:49.140 --> 00:21:52.500] qui font passer des lois, des règlements, des normes qui les arrangent.
+[00:21:52.500 --> 00:21:54.420] Et là-dedans il n'y a plus de citoyens, comme je le disais,
+[00:21:54.420 --> 00:21:56.420] vous avez des travailleurs consommateurs,
+[00:21:56.420 --> 00:21:58.660] qui votent pour les entreprises, qui font les lois.
+[00:21:58.660 --> 00:22:02.100] Et ils sont légitimes parce qu'on a acheté leurs produits, donc ils servent nos besoins.
+[00:22:02.100 --> 00:22:03.460] Tu vois la logique du truc.
+[00:22:03.460 --> 00:22:06.900] Je schématise un petit peu, il y en a qui partent au niveau du Sénat, tout ça.
+[00:22:06.900 --> 00:22:11.620] Le citoyen là-dedans, comme je le disais, devient un PNJ interchangeable.
+[00:22:11.620 --> 00:22:15.940] C'est ce qu'on voit là sur la petite image, normalement il m'a fait des petits PNJ tout rigolos.
+[00:22:15.940 --> 00:22:19.300] Il n'y a plus de frontières, il n'y a plus d'états, il n'y a plus de nations, il n'y a plus de culture,
+[00:22:19.300 --> 00:22:21.540] il y a un gloubiboulga d'individus,
+[00:22:21.540 --> 00:22:25.780] culturés, comment dire, cultivés à travers la publicité.
+[00:22:25.860 --> 00:22:30.340] C'est-à-dire que vous n'êtes plus des Français, vous êtes des apeladictes, tu vois ?
+[00:22:30.340 --> 00:22:34.180] Ton identité devient la somme des produits que tu consommes et que tu achètes.
+[00:22:34.180 --> 00:22:39.620] Cet individu, il a une particularité, c'est qu'il est entièrement dépendant du système économique.
+[00:22:39.620 --> 00:22:43.060] Et l'archétype, que j'avais déjà décrit sur cette chaîne,
+[00:22:43.060 --> 00:22:46.580] c'est le citadin locataire sans famille.
+[00:22:46.580 --> 00:22:49.460] Lui est complètement... et salarié en plus.
+[00:22:49.460 --> 00:22:54.100] Lui, il est complètement interchangeable, et puis soumis au système dépendant.
+[00:22:54.180 --> 00:22:56.420] C'est-à-dire que, quand il est dans son appartement,
+[00:22:56.420 --> 00:22:59.380] il le chauffe aux pètes, il est dépendant du propriétaire,
+[00:22:59.380 --> 00:23:02.260] les parties communes sont gérées par un syndic,
+[00:23:02.260 --> 00:23:04.820] quand il sort sur la rue, c'est l'Amérique qui gère,
+[00:23:04.820 --> 00:23:06.820] il va au boulot, il y a une régie de transport,
+[00:23:06.820 --> 00:23:09.540] puis il le passe navigo, faudrait d'ailleurs qu'ils soient un peu moins chers.
+[00:23:09.540 --> 00:23:14.580] Son boulot, il est encadré par un patron qui lui dit quoi faire, comment faire, etc.,
+[00:23:14.580 --> 00:23:16.900] puis c'est cadré par un contrat, voilà.
+[00:23:16.900 --> 00:23:19.620] Donc il peut très bien se plaindre de son revenu,
+[00:23:19.620 --> 00:23:23.220] mais serait-il capable de gagner la même chose tout seul ?
+[00:23:23.300 --> 00:23:25.700] Évidemment que non. La plupart des gens ne le peuvent pas.
+[00:23:25.700 --> 00:23:27.460] Donc ils sont dépendants de ce système-là.
+[00:23:27.460 --> 00:23:30.500] Quand ils veulent aller bouffer, ils sont dépendants du système économique,
+[00:23:30.500 --> 00:23:33.860] et puis de l'approvisionnement des magasins, et donc des prix.
+[00:23:33.860 --> 00:23:35.860] Ils sont extrêmement dépendants des prix.
+[00:23:35.860 --> 00:23:40.340] Ils n'ont pas, comme dans les temps jadis, de jardin.
+[00:23:40.340 --> 00:23:43.220] Avant, les gens jardinaient beaucoup, faisaient des conserves,
+[00:23:43.220 --> 00:23:46.660] avaient des lapins et des poules, cousaient leurs vêtements,
+[00:23:46.660 --> 00:23:50.020] réparaient leurs chaises, réparaient leurs bagnoles aussi.
+[00:23:50.100 --> 00:23:53.860] Et donc, l'idéal, c'est d'aller encore plus loin avec le World Economic Forum,
+[00:23:53.860 --> 00:23:57.220] c'est la fameuse phrase, vous aurez rien et vous serez heureux,
+[00:23:57.220 --> 00:23:58.980] où tu vas devenir locataire de tout.
+[00:23:58.980 --> 00:24:01.780] Où les meubles sont en leasing, la bagnole est en leasing,
+[00:24:01.780 --> 00:24:04.820] le téléphone est en leasing, enfin tout est en leasing.
+[00:24:04.820 --> 00:24:08.100] Et c'était ça un peu l'idée que voulait promouvoir le WEF.
+[00:24:08.100 --> 00:24:12.340] C'est vraiment des individus, enfin tu prends un mec en Afrique,
+[00:24:12.340 --> 00:24:14.740] tu le poses à Paris dans l'appartement de quelqu'un,
+[00:24:14.740 --> 00:24:17.300] tu lui donnes le boulot de quelqu'un, les fringues de quelqu'un, enfin...
+[00:24:17.300 --> 00:24:20.660] Tu le formes en fait à consommer et à travailler,
+[00:24:20.660 --> 00:24:22.900] dans un cadre qui est extrêmement défini,
+[00:24:22.900 --> 00:24:25.380] et à partir de là, tu peux mettre n'importe qui.
+[00:24:25.380 --> 00:24:27.220] Les gens sont complètement substituables.
+[00:24:27.220 --> 00:24:30.980] Marie-Christine décède et il y a un emploi de secrétaire qui se libère,
+[00:24:30.980 --> 00:24:33.460] et bien on peut prendre vraiment n'importe qui pour le remplacer,
+[00:24:33.460 --> 00:24:37.860] et on la remplace aussi dans son appartement, dans ses choix de consommation, etc.
+[00:24:37.860 --> 00:24:42.260] Donc on a une horde de gens réduits à l'état de travailleurs consommateurs,
+[00:24:42.260 --> 00:24:44.180] qui consomment à peu près la même chose,
+[00:24:44.180 --> 00:24:48.580] et qui sont placés en situation de dépendance économique vis-à-vis du système,
+[00:24:48.580 --> 00:24:51.940] et de cette manière on peut vraiment exploiter les gens au maximum.
+[00:24:51.940 --> 00:24:53.620] Et ils n'ont plus d'échappatoire.
+[00:24:53.620 --> 00:24:56.100] C'est-à-dire qu'ils sont vraiment dépossédés de leur vie dans ce truc-là.
+[00:24:56.100 --> 00:24:57.780] Ça c'est vraiment le point le plus important.
+[00:24:57.780 --> 00:24:59.780] Donc ils sont vraiment dépendants du système,
+[00:24:59.780 --> 00:25:03.220] et ils sont dépossédés de leur existence dans le sens où
+[00:25:03.220 --> 00:25:06.740] ils ne peuvent pas reprendre leur souveraineté sur leurs besoins vitaux.
+[00:25:06.740 --> 00:25:08.500] Tu peux pas faire ton jardin quand t'es en ville,
+[00:25:08.500 --> 00:25:11.940] tu peux pas commencer à bricoler ou à inventer quelque chose,
+[00:25:11.940 --> 00:25:14.020] ou je sais pas quoi, t'as pas d'espace pour le faire.
+[00:25:14.020 --> 00:25:18.820] Même en télétravail, quand tu es dans des petits bouis-bouis parisiens,
+[00:25:18.820 --> 00:25:21.940] tout serré, parfois en colocation, à vivre avec d'autres gens,
+[00:25:21.940 --> 00:25:24.500] bah c'est compliqué, etc.
+[00:25:24.500 --> 00:25:26.340] Et non seulement tu peux pas le faire matériellement,
+[00:25:26.340 --> 00:25:29.220] mais même intellectuellement tu en es découragé.
+[00:25:29.220 --> 00:25:31.700] L'école, justement ça sert à ça.
+[00:25:31.700 --> 00:25:34.980] L'école forme des travailleurs et des consommateurs obéissants.
+[00:25:34.980 --> 00:25:38.180] C'est-à-dire des gens qui vont respecter des horaires, respecter une hiérarchie,
+[00:25:38.180 --> 00:25:41.220] apprendre des trucs parce qu'on leur dit de l'apprendre.
+[00:25:41.220 --> 00:25:44.980] Vous vous êtes jamais amusé à demander à un prof à quoi ça sert d'apprendre tel truc ?
+[00:25:44.980 --> 00:25:47.060] Dans toute ma scolarité, moi j'ai jamais eu de réponse.
+[00:25:47.060 --> 00:25:50.500] Enfin le seul qui en a fait une, un prof de maths un peu ténueux,
+[00:25:50.500 --> 00:25:52.260] qui m'a dit, bah moi ça me fait vivre.
+[00:25:52.260 --> 00:25:54.420] Réponse la plus pertinente que j'ai obtenue.
+[00:25:54.420 --> 00:25:57.700] Bon en vrai, il y a des réponses qui sont meilleures que ça qu'ils auraient pu me fournir.
+[00:25:57.700 --> 00:26:02.580] Mais effectivement, tu es là en fait, c'est une épreuve de soumission intellectuelle.
+[00:26:02.580 --> 00:26:04.420] Il y a des gens qui apprennent parce qu'ils aiment bien.
+[00:26:04.420 --> 00:26:09.540] Mais il y a des gens pour performer, pour monter en grade,
+[00:26:09.540 --> 00:26:14.100] pour monter dans les notes, pour faire un beau parcours scolaire.
+[00:26:14.100 --> 00:26:15.300] Eh bien il faut avoir des bonnes notes.
+[00:26:15.300 --> 00:26:17.780] Pour avoir des bonnes notes, il faut se soumettre à ce qu'on te dit.
+[00:26:17.780 --> 00:26:19.620] Apprendre, pas ce qu'on te le dit.
+[00:26:19.620 --> 00:26:23.220] Et tout ça permet de fabriquer des gens qui sont obéissants.
+[00:26:23.220 --> 00:26:26.740] Il y a quand même quelques éléments d'éveil et de culture qui sont apportés.
+[00:26:26.740 --> 00:26:30.260] C'est-à-dire qu'il y a quand même quelques heures de philo, on essaye de faire lire les gens.
+[00:26:30.260 --> 00:26:33.620] Il y a de la culture générale, il y a de l'histoire, il y a deux trois trucs comme ça.
+[00:26:33.620 --> 00:26:35.300] Mais c'est quand même très léger.
+[00:26:35.300 --> 00:26:38.100] Il n'y a pas de formation complète à l'esprit critique ou à la citoyenneté.
+[00:26:38.100 --> 00:26:39.300] Ça n'existe pas.
+[00:26:39.300 --> 00:26:45.220] Vous avez deux heures d'éducation civique où on t'explique que tu es en démocratie parce que tu votes.
+[00:26:45.220 --> 00:26:47.380] Et puis les médias sont libres.
+[00:26:47.380 --> 00:26:49.300] C'est le quatrième pouvoir.
+[00:26:49.300 --> 00:26:55.620] Les médias sont libres de t'informer l'importance de l'indépendance du journalisme, bla bla bla.
+[00:26:55.620 --> 00:26:58.100] Il y a zéro critique du système en place évidemment.
+[00:26:58.100 --> 00:27:00.340] Et puis il y a tout ce qu'on ne vous apprend pas et dont les gens se plaignent.
+[00:27:00.340 --> 00:27:04.740] Il y en avait certains d'ailleurs qui l'exprimaient parmi les jeunes, que j'ai pu voir ailleurs.
+[00:27:04.740 --> 00:27:06.420] On ne vous apprend rien sur vos droits.
+[00:27:06.500 --> 00:27:11.540] Que ce soit les droits sociaux ou même les droits juridiques, vous n'avez pas de formation là-dessus.
+[00:27:11.540 --> 00:27:13.540] On ne vous apprend pas non plus à les faire valoir.
+[00:27:13.540 --> 00:27:15.540] On ne vous apprend pas à remplir une fiche d'impôt.
+[00:27:15.540 --> 00:27:18.500] On ne vous apprend pas non plus à réparer des trucs.
+[00:27:18.500 --> 00:27:20.420] Il est hors de question que vous ayez la moindre autonomie.
+[00:27:20.420 --> 00:27:22.100] Vous ne savez pas tenir un marteau.
+[00:27:22.100 --> 00:27:23.940] Vous ne savez pas visser un truc.
+[00:27:23.940 --> 00:27:27.620] Vous ne savez pas réparer un lave-linge ou changer une roue.
+[00:27:27.620 --> 00:27:30.420] Ça c'est à vous de l'apprendre par vous-même à la maison.
+[00:27:30.420 --> 00:27:32.900] Et on ne vous apprend pas comment fonctionne le système.
+[00:27:32.900 --> 00:27:37.540] Et alors là, quand je dis le système, c'est autant le système économique,
+[00:27:37.540 --> 00:27:40.420] le système juridique, le système démocratique,
+[00:27:40.420 --> 00:27:42.820] enfin tous les systèmes qui composent notre société,
+[00:27:42.820 --> 00:27:47.380] et y compris le système scolaire et le système parkour sup.
+[00:27:47.380 --> 00:27:51.300] Et donc il y a tout un tas de choses qui sont des noms dits dans la société
+[00:27:51.300 --> 00:27:54.660] et qui doivent être apprises dans le cadre familial.
+[00:27:54.660 --> 00:27:57.140] Alors bien sûr, on ne peut pas tout régler avec l'école.
+[00:27:57.140 --> 00:27:59.940] On ne peut pas tout lui demander non plus.
+[00:28:00.020 --> 00:28:04.980] Mais il y a quand même un parti pris dans l'école pour former des gens en fait
+[00:28:04.980 --> 00:28:07.460] qui sont là pour occuper un emploi,
+[00:28:07.460 --> 00:28:12.020] être suffisamment malin et intelligent pour payer des factures, consommer, etc.
+[00:28:12.020 --> 00:28:15.780] Mais même gérer un budget, c'est pas appris à l'école.
+[00:28:15.780 --> 00:28:17.220] Il y en a franchement, ça devrait.
+[00:28:17.220 --> 00:28:19.620] L'investissement, on ne t'apprend pas à l'école non plus.
+[00:28:19.620 --> 00:28:22.500] Finalement, on ne t'apprend pas grand-chose de ce qui est utile dans la vie.
+[00:28:22.500 --> 00:28:27.620] Mais on va te bourrer le mou avec le PGCD et puis je ne sais plus quelle connerie.
+[00:28:27.620 --> 00:28:30.020] Disons qu'il y a certaines choses qui pourraient être un petit peu plus condensées
+[00:28:30.020 --> 00:28:33.540] pour laisser de la place à la fameuse école de la vie.
+[00:28:33.540 --> 00:28:38.500] Mais bon, pour réduire encore un petit peu notre entonnoir,
+[00:28:38.500 --> 00:28:40.340] on va arriver au problème de moyens.
+[00:28:40.340 --> 00:28:42.900] Parce que là, on a vraiment parlé de structure générale de la société
+[00:28:42.900 --> 00:28:46.420] avec cette histoire de travailleurs consommateurs qui remplacent le citoyen.
+[00:28:46.420 --> 00:28:51.300] Et puis en fait, on veut des soumis et des gens qui sont par nature des dépressifs en fait.
+[00:28:51.300 --> 00:28:56.660] Et puis au niveau opérationnel, ce que ça donne dans la France d'Emmanuel Macron aujourd'hui,
+[00:28:56.660 --> 00:29:02.340] c'est qu'on a un certain nombre de contraintes imposées par des réglementations supranationales,
+[00:29:02.340 --> 00:29:04.980] principalement l'Union Européenne, mais pas seulement.
+[00:29:04.980 --> 00:29:07.780] Il y a le cours de justice de l'Union Européenne qui joue beaucoup aussi.
+[00:29:07.780 --> 00:29:10.340] Et puis après, il y a les traités de l'OMC, les traités de libre-échange.
+[00:29:10.340 --> 00:29:14.260] Tout ça forme un carcan qui sclérose complètement les choix politiques.
+[00:29:14.260 --> 00:29:17.300] Et puis comme en plus, on est dans l'euro et puis tout ça,
+[00:29:17.300 --> 00:29:18.660] on va pas faire non plus toute une leçon,
+[00:29:18.660 --> 00:29:22.980] mais on est en ce moment dans une situation contrainte sur les moyens.
+[00:29:22.980 --> 00:29:26.340] Vous disons qu'on ne peut pas tellement aller plus loin que la situation actuelle.
+[00:29:26.340 --> 00:29:28.500] Certains arbitrages devraient être faits.
+[00:29:28.500 --> 00:29:33.620] Il est évident que Macron a quand même tendance à trouver beaucoup de fric à donner à Zelensky.
+[00:29:33.620 --> 00:29:37.380] Et quand il s'agit de payer pour l'hôpital ou l'école, il n'y a plus personne.
+[00:29:37.380 --> 00:29:41.780] Bon. Parcoursup, là-dedans, c'est le reflet des moyens limités.
+[00:29:41.780 --> 00:29:46.660] Ce qui s'agit d'organiser en fait, d'aménager en gros le territoire
+[00:29:46.660 --> 00:29:50.740] et de répartir les élèves en fonction des places disponibles dans les différentes facs.
+[00:29:50.740 --> 00:29:52.820] Donc si tu veux faire de la philo ou je sais pas quoi,
+[00:29:52.820 --> 00:29:54.900] tu n'iras pas forcément dans la fac de philo près de chez toi.
+[00:29:54.980 --> 00:29:56.980] Tu vas peut-être être envoyé à Pétahouchenok,
+[00:29:56.980 --> 00:30:00.020] parce qu'il faut répartir les gens en fonction des places disponibles.
+[00:30:00.020 --> 00:30:06.340] Et il n'y a pas forcément d'adéquation géographique entre les envies et les moyens.
+[00:30:06.340 --> 00:30:09.620] Donc tout ça est fait sur une base complètement opaque en plus.
+[00:30:09.620 --> 00:30:14.740] Et ceux qui ont les ficelles du système s'en sortent beaucoup mieux que ceux qui ne les ont pas.
+[00:30:14.740 --> 00:30:18.740] Donc il y a vraiment un problème d'organisation générale
+[00:30:18.740 --> 00:30:21.220] qui fait qu'aujourd'hui, la jeunesse est un petit peu sacrifiée.
+[00:30:21.220 --> 00:30:27.140] Les services publics sont sacrifiés par le double effet du poids des retraites dans la fonction publique,
+[00:30:27.140 --> 00:30:32.420] puis de la désindustrialisation en conséquence de la mondialisation inévitable et merveilleuse.
+[00:30:32.420 --> 00:30:38.180] Bien, donc tous ces changements politiques qui ont eu lieu ces 30-40 dernières années,
+[00:30:38.180 --> 00:30:44.660] ont créé un certain malaise en France parce qu'on impose un carcan à des gens qui ne veulent pas vivre dedans.
+[00:30:44.660 --> 00:30:48.900] Il y a un mal-être général de la population parce qu'on les force à rentrer dans un moule idéologique
+[00:30:48.900 --> 00:30:54.420] et à correspondre à des outils économiques au lieu d'adapter les outils à ce que veulent les gens.
+[00:30:54.420 --> 00:30:56.900] Donc c'est pour ça qu'ils sont dans la rue en train de dire
+[00:30:56.900 --> 00:31:01.380] « nous on aimerait que ça se passe comme ci, comme ça, et puis on prend une autre direction et ça nous va pas ».
+[00:31:01.380 --> 00:31:07.300] Et l'élément fondamental que les gens doivent comprendre et qui n'est jamais expliqué par ceux qui les incitent à aller manifester,
+[00:31:07.300 --> 00:31:10.820] c'est que les principaux problèmes de la France maintenant, ils récitent,
+[00:31:10.820 --> 00:31:16.020] ils nécessitent de sortir de l'Union européenne pour récupérer notre souveraineté
+[00:31:16.100 --> 00:31:22.100] afin de pouvoir prendre les décisions nécessaires sur la monnaie, sur la politique commerciale extérieure,
+[00:31:22.100 --> 00:31:25.540] sur toutes les différentes politiques qui sont captées par l'Union européenne,
+[00:31:25.540 --> 00:31:29.540] notamment sur l'agriculture, sur la pêche, sur ces choses-là, sur l'immigration également.
+[00:31:29.540 --> 00:31:34.260] Et donc vous ne pourrez pas changer la politique et réorienter les choses comme les gens le demandent
+[00:31:34.260 --> 00:31:39.620] sans casser le cadre qui impose les politiques dont les gens se plaignent.
+[00:31:39.620 --> 00:31:43.220] Et ils se plaignent essentiellement des conséquences parce que c'est surtout ça qu'ils vivent.
+[00:31:43.300 --> 00:31:48.820] En plus de ça, il faut ajouter un certain nombre de problèmes normatifs qui se sont additionnés ces dernières années
+[00:31:48.820 --> 00:31:51.700] et qui sont souvent liés à la transition écolo,
+[00:31:51.700 --> 00:31:56.740] notamment dans le domaine de l'énergie et du logement qui sont les principaux problèmes de pouvoir d'achat des gens.
+[00:31:56.740 --> 00:32:02.020] Aujourd'hui, s'il y a un logement cher, vous avez vu l'énorme crise du logement qui est actuellement,
+[00:32:02.020 --> 00:32:07.220] où il n'y a plus personne qui arrive à trouver un logement à louer, acheté et hors de prix,
+[00:32:07.220 --> 00:32:10.820] donc il y a de plus en plus de gens qui sont coincés et qui doivent renoncer parfois à un emploi
+[00:32:10.820 --> 00:32:14.900] parce qu'ils devaient se déplacer et ils ne trouvent pas de logement, ils renoncent à des études.
+[00:32:14.900 --> 00:32:18.660] Il y a de plus en plus de jeunes qui restent jusqu'à 30 ans chez leurs parents.
+[00:32:18.660 --> 00:32:22.740] Et la France n'est d'ailleurs pas le pire dans ce schéma-là.
+[00:32:22.740 --> 00:32:26.900] C'est vraiment l'Espagne, ironiquement, qui est dans une merde intégrale sur le logement.
+[00:32:26.900 --> 00:32:28.900] L'Irlande aussi, il y a beaucoup de problèmes.
+[00:32:28.900 --> 00:32:32.260] Et ce problème du logement, il est lié principalement à trois choses.
+[00:32:32.260 --> 00:32:37.300] Des normes de construction importantes, il y a aussi les questions du logement social et de toutes ces choses-là
+[00:32:37.300 --> 00:32:42.260] qui font qu'il y a un ensemble de problèmes qui font que les coûts sont très élevés dans la construction.
+[00:32:42.260 --> 00:32:47.220] Vous avez en plus la loi zéro artificialisation nette des sols, la loi ZAN.
+[00:32:47.220 --> 00:32:53.220] Vous irez voir ça qui impose de ne pas artificialiser un mètre carré de plus.
+[00:32:53.220 --> 00:32:55.460] Résultat, les terrains constructibles ont flambé.
+[00:32:55.460 --> 00:32:59.620] Près de chez moi, je crois que c'est bientôt plus cher d'acheter le terrain que de construire la maison dessus.
+[00:32:59.620 --> 00:33:03.220] Et puis vous avez la question de l'aménagement du territoire qui est complètement déséquilibré
+[00:33:03.220 --> 00:33:06.900] parce qu'on pousse tout le monde à vivre dans les grandes métropoles.
+[00:33:06.900 --> 00:33:11.620] Evidemment, il y a des gens qui vivent déjà dedans, où ils voient le prix de leur immobilier flambé, c'est merveilleux.
+[00:33:11.620 --> 00:33:17.700] Tous ceux qui venaient d'ailleurs, des campagnes, tout ça, et qui débarquent dans des villes avec des prises un zin,
+[00:33:17.700 --> 00:33:22.180] eh ben ils se font vider les poches par les loyers, ils sont exclus de la propriété,
+[00:33:22.180 --> 00:33:25.860] et ils payent 40% de ce qu'ils gagnent pour loger dans des cages à poules.
+[00:33:25.860 --> 00:33:26.660] Formidable.
+[00:33:26.660 --> 00:33:30.020] Et ça, c'est en grande partie parce qu'on force tout le monde à vivre au même endroit.
+[00:33:30.020 --> 00:33:34.020] La question de l'énergie, alors sûr, le carburant peut pas faire grand-chose.
+[00:33:34.020 --> 00:33:36.580] À la limite, ouvrir des puits de pétrole en Guyane.
+[00:33:36.580 --> 00:33:37.780] Faut voir.
+[00:33:37.780 --> 00:33:42.980] Mais il y a la question de l'électricité qui est vraiment prégnante en France et absurde.
+[00:33:42.980 --> 00:33:45.140] Les éoliennes.
+[00:33:45.140 --> 00:33:46.740] Les éoliennes sont actuellement...
+[00:33:46.740 --> 00:33:51.060] Enfin c'est pas fait pour produire de l'électricité, c'est fait pour produire du détournement de fonds.
+[00:33:51.060 --> 00:33:57.700] Vous avez un peu plus d'un tiers de la facture qui sert à financer des rentes pour des gens qui foutent rien.
+[00:33:57.700 --> 00:34:03.620] Ils posent une éolienne, EDF est obligé de racheter le courant à prix administré, et quand il est produit, et tu te démerdes avec.
+[00:34:03.700 --> 00:34:09.060] Le résultat, c'est qu'on se retrouve avec des prix négatifs de l'électricité.
+[00:34:09.060 --> 00:34:10.900] Sauf que EDF a payé plein pot.
+[00:34:10.900 --> 00:34:15.940] Et l'écart entre le prix négatif de marché et le prix de rachat d'EDF, c'est vous qui le payez sur votre facture.
+[00:34:15.940 --> 00:34:19.460] Donc c'est comme ça que les factures explosent avec une électricité de moins en moins chère.
+[00:34:19.460 --> 00:34:21.700] Enfin c'est des trucs qui sont complètement absurdes.
+[00:34:21.700 --> 00:34:24.580] Tout ça pour gonfler des rentes, enfin c'est complètement con.
+[00:34:24.580 --> 00:34:28.820] Et puis à la fin, vous avez la question de l'isolation thermique des bâtiments.
+[00:34:28.900 --> 00:34:33.700] On est en train de gaspiller des sommes absolument considérables dans ce truc là,
+[00:34:33.700 --> 00:34:36.740] alors que ça ne conduit à aucune économie d'énergie.
+[00:34:36.740 --> 00:34:39.860] Il y a un effet rebond qui fait que les gens chauffent plus, etc.
+[00:34:39.860 --> 00:34:45.300] Et puis c'est tellement con, les normes d'isolation sont faites, enfin on a vu ça cet été,
+[00:34:45.300 --> 00:34:47.460] elles sont faites pour résister au froid.
+[00:34:47.460 --> 00:34:51.940] Donc quand il fait chaud, votre appartement super bien isolé classé A devient une bouilloire thermique.
+[00:34:51.940 --> 00:34:54.420] Est-ce qu'on ne changerait pas ce genre de conneries ?
+[00:34:54.420 --> 00:34:58.820] Non surtout pas, et il continue à promouvoir la rénovation thermique des bâtiments.
+[00:34:58.820 --> 00:35:01.860] C'est important, il faut isoler pour se préparer au changement climatique
+[00:35:01.860 --> 00:35:05.540] et crever de chaud en fait dans des appartements qui seront faits pour piéger la chaleur.
+[00:35:05.540 --> 00:35:09.220] Tu te demandes s'ils ne sont pas actionnaires chez Saint-Gobain,
+[00:35:09.220 --> 00:35:11.300] ceux qui promeuvent ce genre de conneries.
+[00:35:11.300 --> 00:35:14.500] Donc j'ai été un petit peu long, on est parti un petit peu vaste,
+[00:35:14.500 --> 00:35:17.940] mais les problèmes économiques et sociaux des français, ils sont là.
+[00:35:17.940 --> 00:35:20.740] Ce n'est pas une question d'ajustement de tableurs Excel.
+[00:35:20.740 --> 00:35:23.460] Si vous avez un problème de pouvoir d'achat, c'est pas parce que Macron est méchant
+[00:35:23.460 --> 00:35:26.740] et qu'en prenant 3-4 décisions, les choses vont se régler.
+[00:35:26.740 --> 00:35:30.100] Et en plus de ça, si vous réclamez des subventions, en ce moment on est à quoi ?
+[00:35:30.100 --> 00:35:34.340] Moins 5% ? Moins 6% de déficit sur le PIB ?
+[00:35:34.340 --> 00:35:40.740] En fait on est à 150 milliards d'euros de déficit sur un budget de 460, comme ça.
+[00:35:40.740 --> 00:35:43.940] Enfin il y a presque 50% de déficit sur le budget de l'État.
+[00:35:43.940 --> 00:35:48.500] Donc ça va être un petit peu compliqué, s'il faut subventionner encore le niveau de vie de tout le monde.
+[00:35:48.500 --> 00:35:53.220] Il n'y a pas l'argent en fait, c'est pas une question d'arbitrage et de redistribution.
+[00:35:53.220 --> 00:35:57.460] D'ailleurs la France est un pays extrêmement redistributif, on avait vu les graphiques.
+[00:35:57.460 --> 00:36:01.460] Là je vous renvoie aux vidéos que j'avais faites sur les vidéos réflexions,
+[00:36:01.460 --> 00:36:05.220] à la fois sur la retraite et puis sur la fameuse solidarité nationale,
+[00:36:05.220 --> 00:36:08.580] où justement on voyait les redistributions par quintiles,
+[00:36:08.580 --> 00:36:14.740] et en fait les 60 premiers pourcents de la population, des plus pauvres au moins pauvres,
+[00:36:14.740 --> 00:36:19.780] les 60% les plus pauvres si on peut dire, sont bénéficiaires nets de la redistribution de l'État,
+[00:36:19.780 --> 00:36:22.420] à travers toutes les prestations au cours de leur vie.
+[00:36:22.500 --> 00:36:26.820] Donc évidemment ça va être un petit peu compliqué d'augmenter cet élément là.
+[00:36:26.820 --> 00:36:29.220] On ne peut pas faire plus de dettes, on ne peut pas faire plus de déficit,
+[00:36:29.220 --> 00:36:31.700] on fait déjà beaucoup de redistribution et de taxation,
+[00:36:31.700 --> 00:36:35.220] justement pour compenser les méfaits de la mondialisation.
+[00:36:35.220 --> 00:36:38.820] A force de délocaliser, il a fallu quand même subvenir aux besoins des gens,
+[00:36:38.820 --> 00:36:45.060] et on a compensé les pertes d'emploi par du chômage, du RSA,
+[00:36:45.060 --> 00:36:50.100] des emplois subventionnés, parfois dans des associations, et puis à la mairie.
+[00:36:51.060 --> 00:36:54.020] Dans le centre de la France, il y a énormément de villages, de zones,
+[00:36:54.020 --> 00:36:57.620] où le premier employeur c'est l'État, parce que tout le monde a délocalisé.
+[00:36:57.620 --> 00:36:59.620] Donc à force d'avoir des gens qui sont subventionnés comme ça,
+[00:36:59.620 --> 00:37:03.620] il n'y a plus vraiment de marge de manoeuvre, et chemin faisant,
+[00:37:03.620 --> 00:37:06.820] il y a de plus en plus de gens qui sont en souffrance économique,
+[00:37:06.820 --> 00:37:09.620] qui voient leur niveau de vie diminuer, et puis qui se tournent vers l'État,
+[00:37:09.620 --> 00:37:12.340] qui dit il faudrait peut-être changer un peu de fusil d'épaule,
+[00:37:12.340 --> 00:37:14.980] ou nous donner du fric, enfin il faut faire quelque chose.
+[00:37:14.980 --> 00:37:18.500] Et bien évidemment, la réponse d'un mec comme Macron,
+[00:37:18.660 --> 00:37:22.020] qui est défenseur de la mondialisation, c'est allez vous faire foutre.
+[00:37:22.020 --> 00:37:24.020] C'est ce qui s'est passé avec les gilets jaunes,
+[00:37:24.020 --> 00:37:27.860] où les revendications ont été oubliées, parce que ça nécessite,
+[00:37:27.860 --> 00:37:31.860] pour y répondre, ça nécessite de remettre en cause le cadre économique que j'ai décrit,
+[00:37:31.860 --> 00:37:35.380] que j'ai décrit un peu succinctement, après n'hésitez pas à aller,
+[00:37:35.380 --> 00:37:37.540] j'essaye de ne pas faire trop long, mais ça va faire une heure.
+[00:37:37.540 --> 00:37:39.540] Donc ça nécessite de remettre en cause ce cadre,
+[00:37:39.540 --> 00:37:43.140] et Macron il a été élu pour le défendre et le promouvoir.
+[00:37:43.140 --> 00:37:45.700] C'est le chevalier blanc, là c'est un lampiste,
+[00:37:45.700 --> 00:37:48.740] il est là pour défendre les intérêts de ceux qui l'ont porté au pouvoir,
+[00:37:48.740 --> 00:37:50.020] essentiellement les plus riches.
+[00:37:50.020 --> 00:37:53.780] Il défend sa carrière, là c'est ce qu'on va voir dans les six prochains mois,
+[00:37:53.780 --> 00:37:56.740] il va préparer son avenir, et puis il défend la construction européenne,
+[00:37:56.740 --> 00:38:00.660] c'est le dernier débile à défendre ce truc là, en Europe.
+[00:38:00.660 --> 00:38:02.660] D'ailleurs je crois qu'il saoule tout le monde avec ça.
+[00:38:02.660 --> 00:38:04.980] Donc c'est pas lui qui va te dire, bon bah écoutez,
+[00:38:04.980 --> 00:38:08.660] ce que vous me demandez, ça demande de remettre en cause l'Union européenne,
+[00:38:08.660 --> 00:38:12.420] l'euro, de changer complètement de politique, et on va faire un référendum.
+[00:38:12.420 --> 00:38:13.940] Vous vous souvenez d'ailleurs,
+[00:38:13.940 --> 00:38:16.340] Macron avait été interrogé lors du Brexit sur la BBC,
+[00:38:16.340 --> 00:38:18.900] et le journaliste lui avait demandé,
+[00:38:18.900 --> 00:38:23.140] mais du coup pourquoi beaucoup de gens en France veulent sortir de l'Union européenne,
+[00:38:23.140 --> 00:38:24.900] pourquoi ne pas organiser un référendum ?
+[00:38:24.900 --> 00:38:27.300] Et il avait dit, on ne fera surtout pas ça,
+[00:38:27.300 --> 00:38:30.420] parce que la réponse risque d'être positive.
+[00:38:30.420 --> 00:38:34.820] De toute façon ces gens, pour eux, la démocratie c'est quand on est d'accord avec eux.
+[00:38:34.820 --> 00:38:38.740] Tout le reste c'est de l'extrémisme et de la manipulation.
+[00:38:38.740 --> 00:38:43.380] Donc quand les PNJ se révoltent et commencent à dire, bah je comprends pas,
+[00:38:43.460 --> 00:38:45.140] on va pas dans la bonne direction,
+[00:38:45.140 --> 00:38:48.180] on est de plus en plus malheureux au boulot, on est dépossédé de notre vie,
+[00:38:48.180 --> 00:38:50.180] on possède rien, on est malheureux,
+[00:38:50.180 --> 00:38:51.700] c'était pas le plan.
+[00:38:51.700 --> 00:38:55.300] Quand ils défilent dans la rue et commencent à poser un peu des questions,
+[00:38:55.300 --> 00:38:57.300] et bien on leur dit d'aller se faire foutre.
+[00:38:57.300 --> 00:38:59.700] C'est ce qui s'est passé justement ce 17 octobre,
+[00:38:59.700 --> 00:39:03.460] là il y avait Didier Maisto la veille de cette manifestation,
+[00:39:03.460 --> 00:39:04.900] attendez là,
+[00:39:04.900 --> 00:39:10.500] à la 16 octobre Didier Maisto qui soulignait que Macron avait fait le choix du pire,
+[00:39:10.580 --> 00:39:15.140] alors que les organisateurs ont tout déclaré d'humant,
+[00:39:15.140 --> 00:39:16.820] le parcours est refusé.
+[00:39:16.820 --> 00:39:18.580] Comme toujours lorsqu'il y a des gilets jaunes,
+[00:39:18.580 --> 00:39:21.540] j'essaye de vous avertir depuis plusieurs jours car les mots ont un sens,
+[00:39:21.540 --> 00:39:24.660] M. Macron et Sesbierre ne parlent plus de maintien de l'ordre,
+[00:39:24.660 --> 00:39:27.700] mais systématiquement de violences urbaines et d'émeutes.
+[00:39:27.700 --> 00:39:32.580] On va pas encadrer une manifestation, on va encadrer des sauvages.
+[00:39:32.580 --> 00:39:36.260] Non seulement en procédant ainsi ils les espèrent et les appellent,
+[00:39:36.260 --> 00:39:40.260] mais c'est bien le guide opérationnel des violences urbaines qui servira de base et de doctrine.
+[00:39:40.340 --> 00:39:43.140] Pour le dire crûment, ça va taper, etc.
+[00:39:43.140 --> 00:39:46.180] Et c'est ce qu'on a vu d'ailleurs à la place de la République,
+[00:39:46.180 --> 00:39:49.140] où le cortège a été empêché globalement,
+[00:39:49.140 --> 00:39:51.380] il me semble que ça n'a jamais vraiment démarré,
+[00:39:51.380 --> 00:39:54.180] et ils ont laissé rentrer les gens place de la République,
+[00:39:54.180 --> 00:39:56.820] puis ensuite ils les ont nassés et puis ils ont foutu le bordel.
+[00:39:56.820 --> 00:39:59.540] Et comme ça après on peut les diaboliser dans les médias,
+[00:39:59.540 --> 00:40:02.180] regarder ces manifestants violents,
+[00:40:02.180 --> 00:40:05.700] et puis on laisse passer les casseurs pour qu'ils foutent un beau boxon,
+[00:40:05.700 --> 00:40:07.220] ça fait des belles images,
+[00:40:07.220 --> 00:40:09.380] et bien entendu au passage on éclate les gens,
+[00:40:09.380 --> 00:40:12.100] c'est qu'il y a un vrai problème d'ailleurs de violences policières
+[00:40:12.100 --> 00:40:13.940] depuis le début du mouvement lycéen,
+[00:40:13.940 --> 00:40:18.180] alors il y en a peut-être certains qui méritent une petite table derrière la tête,
+[00:40:18.180 --> 00:40:19.540] on a vu certaines images,
+[00:40:19.540 --> 00:40:23.300] mais je crois qu'il y a eu plus de 5000 gardes à vue,
+[00:40:23.300 --> 00:40:27.700] en fait avec des gens des fois qui n'étaient pas forcément des fauteurs de troubles,
+[00:40:27.700 --> 00:40:29.380] simplement des gens qui manifestaient,
+[00:40:29.380 --> 00:40:33.780] donc il y a une véritable atteinte à manifester à travers une répression policière,
+[00:40:33.780 --> 00:40:35.940] à travers un usage de la garde à vue,
+[00:40:36.020 --> 00:40:37.460] un usage de la matraque,
+[00:40:37.460 --> 00:40:41.060] et puis le combo LBD-grenade de désencerclement
+[00:40:41.060 --> 00:40:43.060] pour arracher les yeux et les mains des gens,
+[00:40:43.060 --> 00:40:45.620] je crois qu'on en est déjà à deux yeux et puis deux mains,
+[00:40:45.620 --> 00:40:48.020] c'est même 8000 gardes à vue maintenant,
+[00:40:48.020 --> 00:40:49.860] les lycéens apprennent comment manifester,
+[00:40:49.860 --> 00:40:51.380] ouais c'est ça l'école de la vie,
+[00:40:51.380 --> 00:40:54.740] bonjour, aujourd'hui initiation à la démocratie,
+[00:40:54.740 --> 00:40:59.300] et là tu prends un LBD dans la gueule et t'entends un mec à 50 mètres qui dit à voter,
+[00:40:59.300 --> 00:41:01.460] voilà c'est ça la démocratie macronienne,
+[00:41:01.460 --> 00:41:03.540] donc là il y a un mec qui se fait éclater la tronche,
+[00:41:04.100 --> 00:41:06.580] je pense que vous avez vu ces images avec la compagnie de CRS
+[00:41:06.580 --> 00:41:08.260] qui charge sur la place de la République,
+[00:41:08.260 --> 00:41:11.620] et puis il chope un mec là, ici,
+[00:41:11.620 --> 00:41:14.580] et il l'éclate au sol,
+[00:41:14.580 --> 00:41:16.980] tout le monde le frappe au passage,
+[00:41:16.980 --> 00:41:20.100] bon et il finit par se faire éteindre par les gendarmes,
+[00:41:20.100 --> 00:41:22.100] alors finalement je crois qu'il s'en est pas trop mal sorti,
+[00:41:22.100 --> 00:41:26.580] mais vu le matraquage il aurait dû être en plus mauvais état.
+[00:41:26.580 --> 00:41:29.620] Un autre témoignage, on en avait parlé un petit peu là entre nous tout à l'heure,
+[00:41:29.620 --> 00:41:33.060] les cowboys se mettent à nous gazer sans raison devant la préfecture,
+[00:41:33.060 --> 00:41:36.500] comme on voit dans cette vidéo nous marchons pacifiquement dans la rue avec des enfants,
+[00:41:36.500 --> 00:41:40.180] lesquels seront ensuite gazés et pris de panique une heure plus tard.
+[00:41:40.180 --> 00:41:43.940] On chasse les familles, on chasse les gens, on chasse monsieur tout le monde,
+[00:41:43.940 --> 00:41:47.380] on garde que les casseurs et puis ensuite on fait des belles images pour les médias,
+[00:41:47.380 --> 00:41:49.460] et puis tu as aussi les flics infiltrés,
+[00:41:49.460 --> 00:41:52.580] tiens regarde là, ils s'étaient à deux doigts apparemment de casser la gueule à d'autres flics.
+[00:41:52.580 --> 00:41:58.730] Le chantier, le chantier parce qu'ils ont, je sais pas si vous voyez derrière il y a des bonbonnes,
+[00:41:58.730 --> 00:42:02.410] d'oxygène sûrement, ça c'est des bonbonnes d'oxygène sûrement.
+[00:42:02.490 --> 00:42:04.490] Attention, attention, attention.
+[00:42:05.450 --> 00:42:07.450] Wouah.
+[00:42:07.450 --> 00:42:10.410] Là ils sont, tu as vu, ils ne savent même plus différencier.
+[00:42:10.410 --> 00:42:14.090] Ils ne savent même pas différencier qui est policier et qui...
+[00:42:14.090 --> 00:42:15.930] C'était les gars de l'équipe, merde.
+[00:42:15.930 --> 00:42:19.050] Il y a eu deux trois vidéos comme ça qui montrent des flics qui balancent des grenades,
+[00:42:19.050 --> 00:42:20.730] qui balancent des pavés, qui...
+[00:42:20.730 --> 00:42:24.570] Et puis qui retournent ensuite du côté de la police, c'est comme ça qu'on peut les identifier clairement.
+[00:42:24.570 --> 00:42:29.610] On a vu aussi, je sais pas trop à quoi s'en tenir vis-à-vis de ça,
+[00:42:29.610 --> 00:42:31.050] la police qui vole.
+[00:42:31.050 --> 00:42:35.450] Il y a eu deux trois vidéos de policiers suspectés de finalement participer au pillage après les pillages
+[00:42:35.450 --> 00:42:41.210] et de se servir un petit peu dans les magasins une fois que la racaille était partie,
+[00:42:41.210 --> 00:42:45.930] soi-disant que spécifiquement pour ce cas-là,
+[00:42:45.930 --> 00:42:51.050] ils seraient en train de prendre des pièces à conviction, enfin bon, ça a été débunk ça, ouais.
+[00:42:51.050 --> 00:42:54.410] Certains ont l'air d'être des preuves, d'autres sont clairement du vol.
+[00:42:54.410 --> 00:42:57.210] Il y a eu plusieurs extraits, mais déjà aussi du temps des Gilets jaunes,
+[00:42:57.210 --> 00:43:02.730] on avait vu un CRS qui avait chargé un sac avec des vêtements, des trucs, des fringues
+[00:43:02.730 --> 00:43:06.730] dans une boutique qui avait été pétée, et c'était pas vraiment des pièces à conviction.
+[00:43:06.730 --> 00:43:09.370] Donc voilà, tout ça crée une certaine suspicion.
+[00:43:09.370 --> 00:43:14.490] On sait qu'il y a pas mal de policiers infiltrés déguisés en casseurs,
+[00:43:14.490 --> 00:43:16.730] qui foutent la merde dans la manif,
+[00:43:16.730 --> 00:43:19.850] et puis qui permettent aussi de créer des images à la télé.
+[00:43:19.850 --> 00:43:23.930] Je me souviens particulièrement de la fameuse anecdote de l'hôpital Necker
+[00:43:24.010 --> 00:43:28.650] où un mec tout seul avec un marteau pétait les vitres sous les yeux de la police
+[00:43:28.650 --> 00:43:32.330] et des Gilets jaunes qui demandaient à la police d'intervenir.
+[00:43:32.330 --> 00:43:38.010] Et donc le soir même, reportage à la télé, les manifestants ont attaqué l'hôpital pour enfants,
+[00:43:38.010 --> 00:43:42.650] les vitres ont été brisées, stupeur et tremblement, on est allé voir le personnel,
+[00:43:42.650 --> 00:43:46.090] et on tend le micro au personnel, alors qu'est-ce que vous en pensez ?
+[00:43:46.090 --> 00:43:49.530] Ah bah c'est grave quand même, ils attaquent un hôpital, puis nous on a eu peur, ignania.
+[00:43:49.530 --> 00:43:53.210] On va interroger les enfants, alors t'es dramatisé, voilà.
+[00:43:53.290 --> 00:43:58.090] Ça sert à ça. Donc en fait, tu viens manifester pacifiquement, on en revient à l'autre.
+[00:43:58.090 --> 00:43:59.610] Le vieux là, où est-ce qu'il était ?
+[00:43:59.610 --> 00:44:02.810] Lui aussi c'était l'initiation à la démocratie, oui à la démocratie.
+[00:44:02.810 --> 00:44:04.010] On est du tout doux.
+[00:44:04.010 --> 00:44:07.290] Pourquoi ? Parce que nous on passe pas, on va pas faire, nous on vient juste manifester.
+[00:44:07.290 --> 00:44:09.610] Parce que nous on vient manifester, on vient pas casser.
+[00:44:09.610 --> 00:44:10.890] Vous voulez des petits masques ?
+[00:44:10.890 --> 00:44:13.370] La plupart des gens viennent manifester, viennent pas casser,
+[00:44:13.370 --> 00:44:17.530] et bah y'en a quand même deux trois et t'as toujours des gens qui viennent pour piller ou foutre la merde.
+[00:44:17.530 --> 00:44:20.490] Ceux-là ne sont pas encadrés par la manif parce que justement elle est pas organisée
+[00:44:20.490 --> 00:44:25.610] dans un cadre syndical ou d'une organisation structurée, donc qu'aurait un service d'ordre.
+[00:44:25.610 --> 00:44:30.650] Les CRS laissent faire, parce que comme ça, ça fait des images, sur ordre du gouvernement.
+[00:44:30.650 --> 00:44:34.330] Et puis quand tu rajoutes à ça des black blocs ou des casseurs policiers
+[00:44:34.330 --> 00:44:36.570] qui viennent foutre la merde et produire les images,
+[00:44:36.570 --> 00:44:40.970] évidemment à la fin, la manifestation, pas tout le monde se fout des revendications.
+[00:44:40.970 --> 00:44:43.930] C'est exactement ce qui se passe en fait aujourd'hui pour ce 17 octobre,
+[00:44:43.930 --> 00:44:47.290] où des milliers, des centaines de milliers de personnes ont manifesté.
+[00:44:47.290 --> 00:44:50.170] On les a pas vues, en particulier à la télé.
+[00:44:50.250 --> 00:44:55.450] J'ai pas gardé les statistiques, mais bon enfin y'a Acrimède qui avait fait un truc sur le temps d'antenne
+[00:44:55.450 --> 00:45:01.050] et puis il s'est passé ce que tout le monde sait, c'est-à-dire qu'on fait la part belle aux violences,
+[00:45:01.050 --> 00:45:04.890] on interroge les commerçants, on interroge les gens choqués, voilà.
+[00:45:04.890 --> 00:45:08.090] Et puis y'a cinq secondes pour les manifs pacifiques,
+[00:45:08.090 --> 00:45:11.690] et puis une seconde pour les revendications et circuler, y'a rien à voir.
+[00:45:11.690 --> 00:45:15.050] Est-ce que vous condamnez les violences ? Ouais, évidemment.
+[00:45:15.050 --> 00:45:17.130] Et donc comme on le disait, y'a de la casse.
+[00:45:17.130 --> 00:45:22.730] Le Parquet de Paris procède à des vérifications concernant deux décès signalés ce week-end dans la capitale en lien avec les manifs.
+[00:45:22.730 --> 00:45:26.170] Il évoque la mort alléguée d'un street medic place de la République,
+[00:45:26.170 --> 00:45:28.570] donc ça je crois que c'est l'arrêt cardiaque, c'est ça,
+[00:45:28.570 --> 00:45:32.010] et le décès d'une autre personne dimanche soir dans le secteur des Halles.
+[00:45:32.010 --> 00:45:35.450] Les circonstances de ces décès ne sont pour le moment pas définies.
+[00:45:35.450 --> 00:45:41.290] Alors par contre, les mains arrachées, les gens éborgnés, les gens gazés, les gens matraqués,
+[00:45:41.290 --> 00:45:43.930] bon ben ça, ça se compte évidemment par centaines,
+[00:45:43.930 --> 00:45:48.250] plus après des gardes à vue parfois un peu arbitraires, y'en a pas trop eu, je crois, ce 17.
+[00:45:48.250 --> 00:45:52.010] C'était surtout pratiqué avec ce mouvement lycéen.
+[00:45:52.010 --> 00:45:56.410] Et puis pendant les Gilets jaunes, il y avait beaucoup de gens qui étaient arrêtés de manière un peu arbitraire,
+[00:45:56.410 --> 00:46:02.010] chargés dans la saladière, direction le poste pour être isolés pendant un temps,
+[00:46:02.010 --> 00:46:04.810] avant d'être libérés parce qu'il n'y avait pas de motifs.
+[00:46:04.810 --> 00:46:09.530] Entre 1200 et 1300 interpellations, je crois, ça fait pas énorme.
+[00:46:09.530 --> 00:46:13.370] En fait, c'est à la fin qu'ils ont ramassé ce qui restait dehors.
+[00:46:13.370 --> 00:46:18.490] De toute façon, on va faire une autre vidéo spécifiquement sur les pillages, la racaille, tout ça.
+[00:46:18.490 --> 00:46:23.290] Alors tout ça, c'est les raisons pour lesquelles vous ne m'avez pas entendu appeler à manifester.
+[00:46:23.290 --> 00:46:25.610] Je crois que même pendant les Gilets jaunes,
+[00:46:25.610 --> 00:46:28.570] parce que évidemment, je ne suis pas forcément en première ligne,
+[00:46:28.570 --> 00:46:33.210] donc je ne suis pas comme usule à dire aux gens d'aller se taper avec les flics.
+[00:46:33.210 --> 00:46:34.650] Elle est peut-être un peu vieille, la réf.
+[00:46:34.650 --> 00:46:37.210] Alors en tout cas, c'est la raison pour laquelle je n'appelle pas à manifester,
+[00:46:37.210 --> 00:46:42.730] parce que je ne vais pas aller dire aux gens de se faire arracher la tête toute l'après-midi par les CRS,
+[00:46:42.730 --> 00:46:48.090] se faire gazer, matraquer, etc., pour à la fin se faire chier dans le cou par les médias quand tu rentres chez toi.
+[00:46:48.090 --> 00:46:51.930] Avec un décalage énorme entre le traitement médiatique et ce que tu as vécu sur le terrain.
+[00:46:51.930 --> 00:46:56.170] En plus de ça, on a vu qu'il n'y avait aucune revendication claire,
+[00:46:56.170 --> 00:47:01.370] c'est-à-dire que les gens expriment des problèmes, des inquiétudes, des difficultés qui sont légitimes,
+[00:47:01.370 --> 00:47:06.490] qui sont d'ailleurs extrêmement partagées dans la population, qu'on dénonce ici depuis très longtemps.
+[00:47:06.490 --> 00:47:11.450] Mais il n'y a pas le début d'une revendication et d'une solution.
+[00:47:11.450 --> 00:47:13.690] C'est-à-dire que même pendant les Gilets jaunes, ça partait un peu dans tous les sens,
+[00:47:13.690 --> 00:47:18.410] mais très vite, ça s'est centré sur le RIC, sur la question justement de la souveraineté populaire
+[00:47:18.410 --> 00:47:21.930] et de la capacité des gens à être acteurs de la décision politique.
+[00:47:21.930 --> 00:47:26.250] Donc ça, c'est vraiment l'horreur de l'abomination dans le cadre de la mondialisation que j'ai décrit.
+[00:47:26.250 --> 00:47:29.050] Les gens, ils sont là pour consommer, travailler, fermer leur gueule.
+[00:47:29.050 --> 00:47:30.410] Ils ne sont pas là pour décider.
+[00:47:30.410 --> 00:47:33.450] S'ils veulent voter, c'est avec leur ticket de caisse. Voilà, c'est tout.
+[00:47:33.450 --> 00:47:36.170] Ils n'ont pas commencé à faire de la politique, ils ne connaissent rien.
+[00:47:36.170 --> 00:47:39.450] Ils vont rétablir la peine de mort et puis faire n'importe quoi.
+[00:47:39.450 --> 00:47:45.210] Vous vous rappelez des discours méprisants de toute la classe politique et médiatique sur ce sujet.
+[00:47:45.210 --> 00:47:47.050] Mais en tout cas, il y avait une...
+[00:47:47.050 --> 00:47:53.290] C'était parti un peu dans tous les sens et puis ça s'était sédimenté autour de cette question de la démocratie directe.
+[00:47:53.290 --> 00:47:59.050] Justement comme une revendication beaucoup plus large que les problèmes individuels des uns des autres.
+[00:47:59.050 --> 00:48:01.930] Malheureusement, ça a fini un peu aux oubliettes.
+[00:48:01.930 --> 00:48:04.650] Et aujourd'hui, il n'y a même plus cette revendication.
+[00:48:04.650 --> 00:48:08.250] C'est justement la porte ouverte à toutes les manipulations politiques,
+[00:48:08.250 --> 00:48:13.450] puisque si ces gens ne s'expriment pas, eh bien il y en a d'autres qui veulent s'exprimer,
+[00:48:13.450 --> 00:48:19.290] qui ont des médias, qui ont accès aux médias et qui ont un programme politique à vendre pour 2027.
+[00:48:19.290 --> 00:48:20.970] On ne cible personne.
+[00:48:20.970 --> 00:48:27.450] C'est peut-être les mêmes qui incitent ces gens à manifester que ceux qui ont un programme à vendre.
+[00:48:27.450 --> 00:48:30.810] Voilà, il y a une histoire de rapport de force politique.
+[00:48:30.890 --> 00:48:36.810] C'est qu'en fait, ces gens, actuellement, je trouve, sont utilisés et instrumentalisés.
+[00:48:36.810 --> 00:48:42.250] Leur colère est utilisée, leur problème est utilisé pour donner de la force à des politiciens
+[00:48:42.250 --> 00:48:47.610] qui ne vont pas forcément orienter les solutions vers des choses qui peuvent résoudre vraiment leurs problèmes.
+[00:48:47.610 --> 00:48:53.930] Justement, on a un cas concret très facile à comprendre avec les problèmes des lycéens.
+[00:48:53.930 --> 00:48:59.770] Il y en a un paquet qui se sent plein d'avoir des établissements un peu vétustes, un peu pétés.
+[00:48:59.850 --> 00:49:02.090] Il y en a un ou deux, effectivement, où il y a des problèmes.
+[00:49:02.090 --> 00:49:03.210] Et donc, qu'est-ce qu'on a vu ?
+[00:49:03.210 --> 00:49:08.250] On a vu des élus de gauche, les colos, PS, etc., parfois les filles,
+[00:49:08.250 --> 00:49:12.490] expliquer qu'en fait, ce qu'ils réclamaient, c'est la rénovation thermique des bâtiments.
+[00:49:12.490 --> 00:49:16.970] Alors, s'il n'y a pas du tout d'isolation, que le truc est vraiment très vieux, d'accord,
+[00:49:16.970 --> 00:49:23.210] mais c'est pas en isolant le bâtiment qu'on va pouvoir régler les problèmes de température dans certains établissements
+[00:49:23.210 --> 00:49:27.290] où, apparemment, ils ont 12 degrés en hiver et puis 30 degrés en été.
+[00:49:27.290 --> 00:49:29.690] C'est un problème de chauffage et de climatisation.
+[00:49:29.690 --> 00:49:34.810] On revient à ce que je disais tout à l'heure avec cette histoire d'isolation thermique qui est faite
+[00:49:34.810 --> 00:49:40.810] pour lutter contre le froid et garder la chaleur et qui transforme votre logement classé A en bouilloir thermique.
+[00:49:40.810 --> 00:49:42.890] On a vu ça tout l'été.
+[00:49:42.890 --> 00:49:45.290] C'était le sujet de l'été, quasiment.
+[00:49:45.290 --> 00:49:50.330] Il fait chaud et les logements tout neufs, censés être très performants thermiquement,
+[00:49:50.330 --> 00:49:54.410] on crève de chaud à l'intérieur, ils sont pas prévus pour et il y a un problème de normes et de construction.
+[00:49:54.410 --> 00:49:58.810] Est-ce que vous avez vu, la gauche en tirait la moindre conclusion, le moindre change ? Rien.
+[00:49:58.890 --> 00:50:02.410] Parce que tout ça, c'est des trucs décidés au niveau de l'Union Européenne, je crois en plus.
+[00:50:02.410 --> 00:50:07.130] Donc ils ont rien à dire, c'est idéologique, c'est le gris-gris de la rénovation thermique.
+[00:50:07.130 --> 00:50:09.930] Il y a donc des lycéens qui disent « je déporte à mes chiottes,
+[00:50:09.930 --> 00:50:13.850] je veux pas de lycéens salubres avec des fuites d'eau dans les couloirs ou je sais pas quoi »,
+[00:50:13.850 --> 00:50:17.130] on leur dit « t'en fais pas, on va isoler ton bâtiment ».
+[00:50:17.130 --> 00:50:22.890] Donc vous voyez comment les revendications, comment l'expression des problèmes va aboutir à des solutions
+[00:50:22.890 --> 00:50:26.650] qui ne sont pas forcément celles qui permettront de les résoudre.
+[00:50:26.650 --> 00:50:32.330] Et vu l'ampleur des problèmes, vu l'écart qu'il y a entre la capacité des politiciens à résoudre les problèmes
+[00:50:32.330 --> 00:50:35.770] et ce que les gens expriment, il va y avoir beaucoup de déçus.
+[00:50:35.770 --> 00:50:40.410] Donc ce mouvement, il va finir en autre boudin, comme d'autres avant lui.
+[00:50:40.410 --> 00:50:45.690] Les images de casse et de pillage, franchement ça va pas motiver beaucoup de gens à les manifester,
+[00:50:45.690 --> 00:50:48.090] ça va pas donner une bonne image de tout ça.
+[00:50:48.090 --> 00:50:53.610] Il n'y a pas vraiment de revendications claires qui vont permettre de sédimenter un peu
+[00:50:53.690 --> 00:50:59.770] les colères ou les aspirations des uns et des autres et pouvoir créer une mobilisation durable dans le temps.
+[00:50:59.770 --> 00:51:02.730] Là je pense que le samedi prochain ça va pas être terrible.
+[00:51:02.730 --> 00:51:06.090] Il y aura un petit peu de monde encore, mais samedi suivant après c'est fini.
+[00:51:06.090 --> 00:51:08.970] Enfin c'est mon avis, après peut-être que je me trompe complètement.
+[00:51:08.970 --> 00:51:12.170] Mais je pense que ça va se déliter comme ça,
+[00:51:12.170 --> 00:51:16.090] parce qu'il n'y a pas de structure, il n'y a pas de revendications claires.
+[00:51:16.090 --> 00:51:20.410] Des politiciens qui ont tout fait pour lancer le truc
+[00:51:20.490 --> 00:51:25.210] sont en train maintenant de récolter les fruits dans les médias en vendant leurs soupes.
+[00:51:25.210 --> 00:51:28.250] Et c'est tout ce qui va ressortir de ça.
+[00:51:28.250 --> 00:51:32.090] Et c'est assez malheureux pour des gens qui veulent des solutions immédiates.
+[00:51:32.090 --> 00:51:36.250] J'ai demandé justement sur Twitter, je ne sais pas où ça en est, on va finir là-dessus.
+[00:51:36.250 --> 00:51:38.650] J'ai demandé du coup quelles étaient les revendications.
+[00:51:38.650 --> 00:51:43.370] J'ai regardé la dernière vidéo du canard média qui défend les casseurs ou minimise leurs actes.
+[00:51:43.370 --> 00:51:46.250] J'aimerais comprendre quel est l'objectif tangible du mouvement.
+[00:51:46.250 --> 00:51:47.610] Les problèmes on les connaît.
+[00:51:47.690 --> 00:51:51.290] Mais y a-t-il des mesures concrètes suffisantes pour mettre fin aux manifs ?
+[00:51:51.290 --> 00:51:56.330] À quel moment est-ce que les revendications des manifestants seront considérées comme satisfaits ?
+[00:51:56.330 --> 00:51:59.930] Parce que tu peux regarder n'importe quelle vidéo, y compris du canard, sur le sujet.
+[00:51:59.930 --> 00:52:05.770] Alors il s'extasie des manifestations, il incite presque à la casse et au pillage,
+[00:52:05.770 --> 00:52:08.730] il légitime le vol, ça il n'y a pas de souci.
+[00:52:08.730 --> 00:52:11.130] Mais alors pour mettre en avant les revendications, il n'y a rien.
+[00:52:11.130 --> 00:52:16.330] Si les gens sont en colère contre la casse sociale et je ne sais pas quoi,
+[00:52:16.330 --> 00:52:22.810] des choses banales, vagues, sur des constats, zéro solution, zéro revendication,
+[00:52:22.810 --> 00:52:25.530] zéro projet, zéro programme, enfin il ne met rien en avant.
+[00:52:25.530 --> 00:52:29.370] Sinon la performation de la mobilisation.
+[00:52:29.370 --> 00:52:31.850] On s'est réuni à un endroit, c'est une victoire.
+[00:52:31.850 --> 00:52:33.930] Et puis on a ramassé des trucs gratuits.
+[00:52:33.930 --> 00:52:36.970] C'est super, on est en train de faire vaciller le capitalisme.
+[00:52:36.970 --> 00:52:40.890] Et donc j'ai pas de réponse pour le moment, ni du canard, ni de qui que ce soit en fait.
+[00:52:40.890 --> 00:52:44.090] Mais là où je voulais en venir, c'est qu'il y avait une personne qui avait l'air un petit peu...
+[00:52:44.090 --> 00:52:49.290] Qui exprimait un sentiment d'urgence vis-à-vis des solutions qu'elle souhaitait voir appliquées.
+[00:52:49.290 --> 00:52:51.930] C'est-à-dire qu'il y a pas mal de gens qui sont dans la merde.
+[00:52:51.930 --> 00:52:55.130] Je crois qu'il y a 10% de la population qui est dans la pauvreté.
+[00:52:55.130 --> 00:52:59.290] Faudrait regarder un peu parce que évidemment avec l'immigration qu'on a eue ces dernières années,
+[00:52:59.290 --> 00:53:02.170] ils sont allés remplir le premier décil de la population.
+[00:53:02.170 --> 00:53:06.810] Ce n'est pas des gens riches, ça compte quand même dans l'augmentation de la pauvreté en France.
+[00:53:06.810 --> 00:53:10.730] Il n'empêche qu'il y a un certain nombre de personnes en France qui ne font pas trois repas par jour,
+[00:53:10.730 --> 00:53:14.650] qui serrent la ceinture et ça dure déjà depuis des années et ils en ont plein le cul.
+[00:53:14.650 --> 00:53:17.690] Et ils voient que leurs conditions se sont fortement dégradées,
+[00:53:17.690 --> 00:53:22.810] surtout ces dernières années avec le coût de l'énergie, le premier choc sur l'électricité,
+[00:53:22.810 --> 00:53:25.530] la deuxième choc avec l'Iran, moi j'ai vu quand même...
+[00:53:25.530 --> 00:53:27.770] J'en ai pas trop parlé mais c'est vrai que sur la boutique aussi,
+[00:53:27.770 --> 00:53:31.370] enfin ça se voit que les gens aujourd'hui ont beaucoup moins d'argent à dépenser.
+[00:53:31.370 --> 00:53:36.570] Il y a un vrai problème de pouvoir d'achat qui s'est fait volatiliser sur la question de l'essence.
+[00:53:36.570 --> 00:53:40.730] Et quand on rajoute en plus la crise du logement qui dure et qui va vraiment s'aggraver,
+[00:53:40.730 --> 00:53:43.050] ce truc ça va être encore pire.
+[00:53:43.050 --> 00:53:45.210] Parce qu'il y a beaucoup d'inertie dans le logement,
+[00:53:45.210 --> 00:53:48.570] le secteur de la construction est par terre, c'est dingue.
+[00:53:48.570 --> 00:53:54.650] Ils arrivent à détruire le secteur de la construction alors qu'il y a une pénurie gigantesque de logements.
+[00:53:54.650 --> 00:53:59.450] Il y a plein de boîtes qui font faillite, des promoteurs qui coulent, des chantiers qui ne se lancent pas,
+[00:53:59.450 --> 00:54:02.810] des boîtes de BTP qui n'ont pas vraiment de boulot, enfin qui ne trouvent pas de...
+[00:54:02.810 --> 00:54:05.210] Oui parce que les chantiers ne se lancent pas.
+[00:54:05.290 --> 00:54:07.690] Avant ils construisaient des baraques, ils ne les construisent plus.
+[00:54:07.690 --> 00:54:10.810] Et parallèlement à ça, il y a de plus en plus de gens qui ne peuvent pas se loger.
+[00:54:10.810 --> 00:54:16.410] Alors forcément, il y a des gens qui sont tendus et qui veulent des solutions immédiates là tout de suite, maintenant, demain.
+[00:54:16.410 --> 00:54:19.450] Et ça n'arrivera pas parce qu'il y a un problème structurel massif.
+[00:54:19.450 --> 00:54:23.290] Et en plus, quand on s'attaquera à ce problème, l'une des premières conséquences,
+[00:54:23.290 --> 00:54:26.810] sortie de l'Union européenne, de l'euro, changement de politique, etc.,
+[00:54:26.810 --> 00:54:32.170] il y aura une révélation de l'état actuel des finances et de la désindustrialisation
+[00:54:32.170 --> 00:54:38.330] qui font que la première conséquence, ce sera d'abord une baisse du niveau de vie, encore,
+[00:54:38.330 --> 00:54:41.210] avant de pouvoir repartir sur des bons rails.
+[00:54:41.210 --> 00:54:46.170] Donc on a perdu dix ans avec Macron dans une voie qui a aggravé la situation,
+[00:54:46.170 --> 00:54:52.010] alors qu'on aurait pu payer le prix du changement de voie pour des souffrances bien moindres.
+[00:54:52.010 --> 00:54:57.930] Donc évidemment, je pense que le discours que je vais tenir ici est assez inaudible pour des gens qui sont dans l'urgence
+[00:54:57.930 --> 00:55:00.010] et qui voudraient des solutions immédiates.
+[00:55:00.010 --> 00:55:04.410] Mais ce mouvement va mener à rien pour les raisons que j'ai expliquées.
+[00:55:04.410 --> 00:55:07.690] Et puis la présidentielle derrière, ça va pas être mieux.
+[00:55:07.690 --> 00:55:12.330] N'hésitez pas à vous abonner sur ces bonnes paroles. On reste positif malgré tout.
+[00:55:12.330 --> 00:55:15.370] Redresser la France n'est pas si compliqué.
+[00:55:15.370 --> 00:55:19.130] Même régler les problèmes de sécurité, régler les problèmes économiques,
+[00:55:19.130 --> 00:55:24.810] avec des gens bien câblés, avec les bonnes politiques, en expliquant bien aux gens aussi où est le problème.
+[00:55:24.810 --> 00:55:27.050] On peut vraiment se sortir de la merde assez vite.
+[00:55:27.050 --> 00:55:32.010] Le souci, c'est que là, vous avez vu les revendications, l'iceberg des revendications.
+[00:55:32.010 --> 00:55:37.690] Vous n'avez rien concernant l'industrie, concernant la production, concernant la réindustrialisation.
+[00:55:37.690 --> 00:55:41.930] Vous avez même au contraire un truc ici qui critique l'IA générative.
+[00:55:41.930 --> 00:55:45.690] Il n'y a rien sur la robotique, mais il aurait pu y avoir quelque chose, j'imagine.
+[00:55:45.690 --> 00:55:51.210] Le seul moyen d'augmenter le niveau de vie de la population, c'est d'augmenter la productivité.
+[00:55:51.290 --> 00:55:52.570] Il n'y en a pas d'autre.
+[00:55:52.570 --> 00:55:58.090] Il s'agit de produire plus, plus vite, plus efficacement.
+[00:55:58.090 --> 00:56:04.330] Et ça, ça s'oppose à des idées de gauche actuellement qui sont très répandues sur la décroissance.
+[00:56:04.330 --> 00:56:08.650] Oh, il faut moins d'empreintes écologiques, utiliser moins de terrain, vous générez moins de CO2,
+[00:56:08.650 --> 00:56:12.170] utilisez moins d'énergie, produire moins, consommer moins.
+[00:56:12.170 --> 00:56:18.410] Alors, vu l'attitude des gens qui soutiennent la gauche dans les manifs, consommer moins, c'est pas trop au programme.
+[00:56:18.410 --> 00:56:24.330] Donc vous avez une gauche décroissantiste qui en même temps te dit, on va te filer la retraite à 60 ans,
+[00:56:24.330 --> 00:56:26.570] et en même temps tu auras un meilleur niveau de vie.
+[00:56:26.570 --> 00:56:28.570] Il y a un problème intellectuel quelque part.
+[00:56:28.570 --> 00:56:31.370] Donc on se fout de la gueule des gens, on leur explique pas les problèmes,
+[00:56:31.370 --> 00:56:37.290] et on leur dit, t'inquiète pas, demain tu races gratis, à la fois on règle tous les problèmes écolos qu'elle tu tiens,
+[00:56:37.290 --> 00:56:42.810] mais ça te coûtera rien, ton niveau de vie va augmenter, et puis on va même te refiler des droits qui sont pas finançables actuellement.
+[00:56:43.770 --> 00:56:48.410] Et sans utiliser l'IA et tout ça, bien évidemment, on va revenir d'ailleurs aux moines copistes.
+[00:56:48.410 --> 00:56:54.730] Merci d'avoir suivi cet incroyable direct, hésitez pas à aller soutenir la chaîne sur Tipeee, sur Substax, sur la boutique,
+[00:56:54.730 --> 00:56:57.210] au choix, comme vous voulez, je suis vraiment...
+[00:56:57.210 --> 00:57:02.010] Merci à tous d'être passés, et puis je vous donne rendez-vous pour plus de Singerie très bientôt.

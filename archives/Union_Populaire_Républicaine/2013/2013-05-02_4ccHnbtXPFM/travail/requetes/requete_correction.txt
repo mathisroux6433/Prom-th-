@@ -1,0 +1,486 @@
+Corrige contextuellement la transcription horodatée ci-dessous.
+
+Règles obligatoires : conserve exactement une ligne par segment et exactement les deux horodatages de chaque ligne ; ne résume pas ; ne reformule pas le registre oral ; corrige seulement les erreurs de reconnaissance établies par le contexte (noms propres, institutions, lieux, événements, termes techniques et expressions manifestement mal reconnues). Si une forme reste incertaine, conserve-la et ajoute immédiatement `[incertain]`. Retourne uniquement la transcription complète corrigée.
+
+MÉTADONNÉES :
+{'schema_version': '1.0', 'id': '4ccHnbtXPFM', 'title': "10 raisons de se libérer de l'Union Européenne - 4/4", 'channel': 'Union Populaire Républicaine', 'channel_id': 'UC7OMeUFuZMacpPk2fc9UlOA', 'upload_date': '20130502', 'duration_seconds': 3532, 'webpage_url': 'https://www.youtube.com/watch?v=4ccHnbtXPFM', 'description': "« Dix raisons de se libérer de l'Union Européenne », dernier épisode de la conférence de François Asselineau, à Pontarlier, le 6 avril 2013.\n\n---\n*L'UPR a besoin de vous !*\n_Rejoignez le combat pour la libération de la France :_\n*Adhérez* : https://upr.fr/adhesion-en-ligne\n*Faites un don* : https://upr.fr/faire-un-don\n*Abonnez-vous à UPR-TV* : https://is.gd/1deAkt\n\n---\n*Retrouvez-nous partout sur internet et nos réseaux sociaux :*\n\n*Toutes nos analyses sur notre site* : https://www.upr.fr\n*La charte fondatrice* : https://www.upr.fr/charte-fondatrice\n*Notre programme présidentiel*  : https://upr.fr/notre-programme\n\n*YouTube*\nUPR-TV : https://www.youtube.com/@uprtvfa\nFA-TV :  https://www.youtube.com/@f_asselineau\n\n*TikTok*\n@fasselineau : https://www.tiktok.com/@fasselineau\n@uprtvfa : https://www.tiktok.com/@uprtvfa\n\n*Facebook*\n@fasselineau : https://www.facebook.com/fasselineau\n@uprfa : https://www.facebook.com/uprfa/\n\n*Instagram*\n@fasselineau : https://www.instagram.com/fasselineau\n@uprfa : https://www.instagram.com/uprtvfa\n\n*X/Twitter*\n@fasselineau : https://x.com/f_asselineau\n@uprtvfa : https://x.com/uprtvfa\n\n*LinkedIn*\n@fasselineau : https://www.linkedin.com/in/fasselineau\n@uprtvfa : https://www.linkedin.com/company/uprtvfa\n\n*Twitch*\n@frasselineau\n@uprtvfa\n\n*Snapchat*\n@frasselineau \n@uprtvfa", 'language': None}
+
+TRANSCRIPTION BRUTE :
+[00:00:00.000 --> 00:00:07.600] Tout ça, eh bien j'éprouve personnellement beaucoup de tristesse, pour pas dire de scandale, à voir les manifestations
+[00:00:07.600 --> 00:00:15.180] organisées par nos syndicats. Ça, c'est à Paris. C'est près du boulevard Beaumarchais, boulevard des Filles du Calvert, etc.
+[00:00:15.180 --> 00:00:21.600] Tout au long de l'année 2011, on a eu des dizaines et des dizaines de milliers de Français qui sont descendus
+[00:00:21.600 --> 00:00:27.840] pour manifester contre la réforme des retraites. Ils ont tout à fait raison de manifester contre la réforme des retraites.
+[00:00:27.840 --> 00:00:36.160] La question n'est pas là. En revanche, elle est sur un tout autre sujet. Elle est sur le fait que la CGT, la CFDT,
+[00:00:36.160 --> 00:00:43.200] Force ouvrière, l'UNSA et la CFTC... Je ne parle pas. Il y en a quelques autres qui ne sont pas les 5 syndicats,
+[00:00:43.200 --> 00:00:50.000] qui sont les 5 principaux syndicats français, font partie de la Confédération européenne des syndicats, la CES,
+[00:00:50.000 --> 00:00:59.920] qui a été longtemps dirigée par M. John Monx, qui est dirigée maintenant par une dame. Et cette CES est constituée
+[00:00:59.920 --> 00:01:08.280] en fait de syndicats qui sont dans la main de la Commission européenne. Ils sont financés par la Commission européenne
+[00:01:08.280 --> 00:01:16.200] pour promouvoir les réformes de structure. Nous avons un système de type soviétoïde, c'est-à-dire que les syndicats sont devenus
+[00:01:16.200 --> 00:01:21.800] désormais des courroies de transmission de l'idéologie au pouvoir. Donc les syndicats, nous n'avons plus...
+[00:01:21.800 --> 00:01:28.080] Pour ceux d'entre vous qui, comme moi, ont passé la cinquantaine et ont des souvenirs d'enfance, nous ne sommes plus du tout
+[00:01:28.080 --> 00:01:35.120] avec la CGT des années 60, 70, qui, à vrai dire, elle était la courroie de transmission de l'Union soviétique à cette époque.
+[00:01:35.120 --> 00:01:40.560] Mais maintenant, c'est tout à fait autre chose. Nous avons des syndicats qui se moquent des salariés français,
+[00:01:40.560 --> 00:01:49.560] puisqu'ils les font manifester contre des marionnettes, mais jamais, au grand jamais, en disant « Voilà ce qui se cache derrière.
+[00:01:49.560 --> 00:01:54.520] J'y suis allé. J'ai souvent débattu avec des syndicalistes ». En leur disant « Mais pourquoi vous dites pas à l'été ?
+[00:01:54.520 --> 00:02:01.120] Pourquoi vous dites pas que Sarkozy et Erwöth, ils sont pour rien et que demain, ça sera Hollande ». C'est ce qui va être le cas, d'ailleurs.
+[00:02:01.120 --> 00:02:09.360] Que quand ça sera Hollande et Mme Marisol Touraine ou M. Cahuzac, ministre du Budget... Décidément, les ministres du Budget sont pas...
+[00:02:09.360 --> 00:02:17.080] Bon, enfin bref. Et pourquoi ça sera pareil ? Le vrai problème n'est pas là. Le problème, c'est l'Europe. Alors réponse systématique...
+[00:02:17.080 --> 00:02:24.480] « Ah non, vous ne pouvez pas être ça. Nous nous battons, camarades, pour avoir une Europe sociale ». Alors je dis mais une Europe sociale, jamais.
+[00:02:24.480 --> 00:02:33.840] Vous ne l'aurez jamais. Vous êtes un facho, etc. Terminé. Il n'y a plus de discours. Voilà. Donc on est dans le thème de l'autre Europe,
+[00:02:33.840 --> 00:02:41.380] avec la probabilité dont je vous parlais tout à l'heure, d'environ 1,2 secondes tous les trillions d'années. Et donc il se passe qu'en réalité,
+[00:02:41.380 --> 00:02:49.580] les syndicats sont devenus – et je pèse mes mots – des syndicats jaunes. C'est-à-dire qu'ils sont là pour faire de l'accompagnement social,
+[00:02:49.580 --> 00:02:56.200] pour désamorcer les luttes syndicales, pour faire manifester les gens en ronds. Ça se termine... D'ailleurs, en général, maintenant, ils ont tous des petits fanions,
+[00:02:56.200 --> 00:03:01.400] etc., très gentiment. Ça se termine par un « happening » avec un « show », avec de la musique américaine, d'ailleurs.
+[00:03:01.400 --> 00:03:05.620] Comme c'est « Place de la République », c'est juste à venir de chez moi. J'y vais souvent pour voir un peu à quoi ça ressemble.
+[00:03:05.620 --> 00:03:13.320] Sur tous les tracts qui ont été décédés, il n'y en avait pas un seul. Un seul qui parlait des contraintes européennes.
+[00:03:13.320 --> 00:03:21.640] « En d'autres termes, l'ensemble du système médiatique, politique et syndical français est complice de la situation droite et gauche confondue.
+[00:03:21.640 --> 00:03:27.840] Comme au théâtre de Guignol, les responsables politiques et syndicaux incitent les Français en colère à s'en prendre à des marionnettes.
+[00:03:27.840 --> 00:03:39.440] Méchants, Sarkozy ! Méchants, Vörth ! Comme maintenant, méchants, Hollande ! Méchants, Montebourg ! Mais jamais on ne s'attaque à la réalité du problème ».
+[00:03:39.440 --> 00:03:45.440] La raison n°8 de sortir de l'Europe, c'est que si nous voulons protéger non seulement nos retraites, mais tous nos acquis sociaux,
+[00:03:45.440 --> 00:03:52.640] alors il faut que la France dénonce juridiquement de nombreux articles des traités européens, notamment les articles 5 et 121 du traité,
+[00:03:52.640 --> 00:04:01.520] celui qui fixe le principe même des grandes orientations de politique et économie, parce que dans son essence, cet article est un article tyrannique.
+[00:04:01.520 --> 00:04:09.240] C'est un article étymologiquement dictatorial, puisque qu'est-ce que c'est qu'un dictateur ? Pour les anciens, c'est celui qui dicte ce qu'il faut faire.
+[00:04:09.240 --> 00:04:20.840] On s'en remet à un expert qui dicte ce qu'il faut faire et qui suspend tous les débats publics. Avant-dernière raison...
+[00:04:20.840 --> 00:04:30.040] On arrive à la fin de cette conférence un petit peu longue, dont je vous prie de m'excuser. L'avant-dernière raison, c'est qu'il faut préserver la paix du monde.
+[00:04:30.040 --> 00:04:38.880] On nous bassine depuis la création de la construction européenne sur la thématique que la construction européenne, ça serait la paix.
+[00:04:38.880 --> 00:04:45.920] C'est un argument très fort pour la propagande européiste. L'Europe, c'est la paix. Et à ce moment-là, si vous êtes contre,
+[00:04:45.920 --> 00:04:55.360] à ce moment-là, on vous fait passer pour un nostalgie de Verdun, du chemin des dames, etc. En réalité, comme le dit le proverbe
+[00:04:55.360 --> 00:05:04.960] « Qui veut faire l'ange, fait la bête ». Il est vrai que dans les débuts de la construction européenne poussée, d'ailleurs portée à l'époque par l'Église...
+[00:05:04.960 --> 00:05:12.680] On parlait de Denis de Rougemont, du Père Congar, enfin toute cette période des années 50 et 60. Ça a permis une ouverture des esprits
+[00:05:12.680 --> 00:05:20.840] vers les pays alentours qui n'étaient pas mal venus. J'en ai personnellement bénéficié. Je suis allé dans des familles en Allemagne
+[00:05:20.840 --> 00:05:25.600] pour apprendre l'allemand, en Angleterre pour apprendre l'anglais. Tout ça, c'est très bien. Mais le problème n'est plus là.
+[00:05:25.600 --> 00:05:32.640] Le problème, c'est que nous avons maintenant à faire une construction dictatoriale qui s'inscrit dans un schéma de réflexion
+[00:05:32.640 --> 00:05:40.760] qui est celui du choc des civilisations. Nous l'avons vu avec l'affaire en Irak au moment de cette guerre illégale
+[00:05:40.760 --> 00:05:49.600] déclenchée par la puissance américaine pour des raisons d'appropriation d'hydrocarbures. C'était la mamie qu'on jette du haut de la falaise
+[00:05:49.600 --> 00:05:59.240] dont je parlais tout à l'heure. C'est une rapine. C'est un vol. C'est du néocolonialisme pur. Eh bien seule la France s'y est opposée à l'époque.
+[00:05:59.240 --> 00:06:07.840] Le fameux discours de Villepin à Loenu en 2003. Deux États de l'UE ont fait semblant de s'y opposer, c'est-à-dire l'Allemagne et la Belgique.
+[00:06:07.840 --> 00:06:16.560] Et tous les autres étaient du côté américain pour soutenir cette idée que Saddam Hussein avait des armes de destruction massive
+[00:06:16.560 --> 00:06:24.920] et qu'il fallait donc y aller mettre le holà. C'est un pur scandale, puisqu'en réalité, on sait maintenant que les Américains eux-mêmes
+[00:06:24.920 --> 00:06:30.760] ont reconnu qu'il n'y avait aucune arme de destruction massive en Irak. J'ajouterais que les seuls qui avaient des armes de destruction massive
+[00:06:30.760 --> 00:06:37.960] en l'espèce étaient les Américains eux-mêmes, puisqu'ils sont gorgés. Je rappelle que les États-Unis d'Amérique dépensent à eux seuls
+[00:06:37.960 --> 00:06:44.880] plus de dépenses pour le militaire chaque année que tous les autres au pays du monde réunis. Le budget américain, c'est plus de 50%
+[00:06:44.880 --> 00:06:51.520] du budget militaire mondial. Donc s'il y a une puissance qui est absolument une puissance militaire et impériale, ce sont les États-Unis
+[00:06:51.520 --> 00:06:58.520] avec plein d'armes de destruction massive, des armes secrètes, d'ailleurs, avec de nombreuses rumeurs qui circulent
+[00:06:58.520 --> 00:07:05.680] que je ne voudrais ni accréditer ni démentir. Mais il y a des recherches effrayantes qui sont faites en la matière en l'espèce.
+[00:07:05.680 --> 00:07:13.000] Si la France, en faisant ça, a d'ailleurs désobéi, c'est le cas de dire, elle a violé le deuxième pilier du traité de Maastricht,
+[00:07:13.000 --> 00:07:17.840] puisque normalement, nous aurions dû être solidaires des autres pays de l'Europe. Je voudrais dire à tous ceux qui me disent
+[00:07:17.840 --> 00:07:23.720] que l'Europe, c'est la paix de regarder un petit peu tout ceci, toutes ces photos plus épouvantables les unes que les autres,
+[00:07:23.720 --> 00:07:30.840] de ce crime de guerre que nous commettons en Afghanistan, où la France est présente avec l'intermédiaire de l'ISAF,
+[00:07:30.840 --> 00:07:37.800] avec les forces de l'OTAN et avec un certain nombre de partenaires européens. Ici, ce sont malheureusement...
+[00:07:37.800 --> 00:07:42.920] Malheureusement, les journalistes ne font plus le travail qu'ils faisaient, notamment aux États-Unis, dans les années 60 et 70.
+[00:07:42.920 --> 00:07:50.320] Vous connaissez la Charte de Munich, qui avait été le sommet de la déontologie des journalistes. Maintenant, c'est bien fini.
+[00:07:50.320 --> 00:07:56.240] Maintenant, les crimes de guerre, ça n'existe plus. Quand c'est commis par le camp occidental, ça s'appelle une bavure.
+[00:07:56.240 --> 00:08:02.320] Donc maintenant, nous sommes devenus des escargots. On passe notre temps à faire des bavures. Il n'y a plus de crimes de guerre jamais.
+[00:08:02.320 --> 00:08:12.440] Il n'y a plus d'incriminations non plus. Les tribunaux pénos internationaux, ça n'est plus que pour les États
+[00:08:12.440 --> 00:08:17.920] qui ne font pas partie de ce que la novlangue appelle la communauté internationale. La communauté internationale est en
+[00:08:17.920 --> 00:08:23.880] les États-Unis d'Amérique et l'UE. Tout le reste est en dehors de la communauté internationale, à peu près. Voilà.
+[00:08:23.880 --> 00:08:30.720] Donc on voit se dérouler ici des horreurs, des escadrons de la mort, n'est-ce pas, qui proposent, qui posent en rigolant auprès
+[00:08:30.720 --> 00:08:38.040] de photos de cadavres d'adolescents afghans... Enfin je vous passe ces détails absolument horribles, qui font bien entendu le tour
+[00:08:38.040 --> 00:08:44.400] du Moyen-Orient, du monde entier, et qui nous assimilent, nous, parce que ne serait-ce que nous y avons des soldats.
+[00:08:44.400 --> 00:08:49.240] Alors maintenant, on se désengage un petit peu d'Afghanistan, mais nous avons commis des horreurs en Libye.
+[00:08:49.240 --> 00:08:57.200] En ce moment, en Libye, on a d'ailleurs fait venir des mouvements islamistes que l'on prétend combattre maintenant au Mali.
+[00:08:57.200 --> 00:09:06.000] On soutient en Syrie la désintégration du régime syrien pour transformer ça comme l'Afghanistan, comme l'Irak,
+[00:09:06.000 --> 00:09:12.600] comme le Soudan, comme la Libye. Maintenant, c'est le tour de la Syrie. C'est pour en faire des foyers de purulence,
+[00:09:12.600 --> 00:09:18.840] là où il y avait des États centralisés qui tenaient la route, qui n'étaient certes pas des démocraties.
+[00:09:18.840 --> 00:09:25.680] Mais enfin bon, moi, je connais assez bien le Moyen-Orient. Je peux vous dire qu'entre l'Irak de Saddam Hussein,
+[00:09:25.680 --> 00:09:35.520] la Syrie de Hafez el-Assad, que j'ai connue avant Bashar el-Assad, et d'un côté, et puis le royaume d'Arabie saoudite de l'autre,
+[00:09:35.520 --> 00:09:42.880] il n'y a pas photo sur quel est le régime le plus démocratique. Or, comme par hasard, les forces euro-atlantistes
+[00:09:42.880 --> 00:09:49.960] passent leur temps à désintégrer les régimes laïcs du parti basse, c'est-à-dire les régimes les plus progressistes du monde arabe,
+[00:09:49.960 --> 00:09:55.240] même si c'était effectivement des dictatures. Mais dans le monde arabo-musulman, il y a quand même beaucoup de dictatures.
+[00:09:55.240 --> 00:10:01.320] Et puis d'ailleurs, bon, quand on s'appelle États-Unis et que l'on a des dizaines de prisonniers à Guantanamo depuis 12 ans,
+[00:10:01.320 --> 00:10:08.080] sans aucun procès, sans aucun contact avec un avocat, ce qui viole tous les droits international, on évite quand même aussi
+[00:10:08.080 --> 00:10:16.000] de prendre la pose de la démocratie modelle. Mais en attendant, on est en train de désintégrer par cette politique européenne
+[00:10:16.000 --> 00:10:23.960] sous contrainte étasunienne, on est en train de désintégrer tous les pays qui justement empêchaient le développement
+[00:10:23.960 --> 00:10:33.680] des phénomènes islamiques que l'on prétend dénoncer par ailleurs. Les milliers de Bavures, le conflit afghan a fait plus de 12 000 morts
+[00:10:33.680 --> 00:10:42.320] de 2001 à 2012. 88 soldats français sont morts en Afghanistan. Alors je rappelle que tout ceci découle de notre appartenance
+[00:10:42.320 --> 00:10:50.900] à l'UE aussi. Pourquoi nous sommes rentrés dans l'OTAN ? Parce qu'il y a l'article 42 du traité sur l'UE.
+[00:10:50.900 --> 00:10:55.880] Il y a deux traités. Il y a le traité sur le fonctionnement de l'UE, le TFU et le traité sur l'UE. Ils s'appellent le TUE.
+[00:10:55.880 --> 00:11:03.320] Ça tombe bien. Le TU. C'est tout un programme sur la politique de sécurité et de défense commune de l'UE.
+[00:11:03.320 --> 00:11:09.480] Alors ouvrez grand vos yeux ou vos oreilles, même si vous êtes fatigués en cette fin de conférence, parce que ça vaut quand même le détour.
+[00:11:09.480 --> 00:11:16.760] La politique de l'union au sens de la présente section n'affecte pas le caractère spécifique de la politique de sécurité
+[00:11:16.760 --> 00:11:23.600] et de défense de certains États membres. Elle respecte les obligations découlant du traité de l'Atlantique Nord pour certains États membres
+[00:11:23.600 --> 00:11:31.360] qui considèrent que leur défense commune est réalisée dans le cadre de l'ONT et elle est compatible avec la politique commune
+[00:11:31.360 --> 00:11:39.100] de sécurité et de défense. Arrêtez dans ce cadre. C'est pratiquement à mettre dans un encadré au-dessus de vos toilettes
+[00:11:39.100 --> 00:11:45.860] tous les premiers matins pour y réfléchir, parce que c'est vraiment assez extraordinaire comme formulation, j'avoue.
+[00:11:45.860 --> 00:11:50.760] On y trouve dans une seule et même phrase... Il est question à trois reprises dans la même phrase de l'OTAN.
+[00:11:50.760 --> 00:11:57.120] Une fois sous le sigle OTAN, une autre fois sur le sigle organisation du traité de l'Atlantique Nord, une autre fois sous l'intitulé
+[00:11:57.120 --> 00:12:03.720] de traité de l'Atlantique Nord. En gros, ça veut dire l'Europe a une politique étrangère et de sécurité commune
+[00:12:03.720 --> 00:12:10.080] qui est fixée par les traités, puisque ça a vocation à devenir les États-Unis d'Europe. Bien. Ça, c'est pas dit.
+[00:12:10.080 --> 00:12:16.040] Mais maintenant, on le dit de plus en plus. Premièrement, deuxièmement, cette politique de sécurité, elle est totalement indépendante,
+[00:12:16.040 --> 00:12:23.360] sauf qu'elle doit être quand même subordonnée à la politique de l'OTAN pour les États qui appartiennent à l'OTAN.
+[00:12:23.360 --> 00:12:29.300] Or, pratiquement tous les États de l'UE appartiennent à l'OTAN. C'est d'ailleurs fait pour, puisque M. George W. Bush
+[00:12:29.300 --> 00:12:37.100] est allé à Varsovie en 2001. Et il a dit aux pays de l'Est « Nous devons accueillir tous les pays de l'Est dans l'UE et d'abord dans l'OTAN ».
+[00:12:37.100 --> 00:12:44.000] C'est d'ailleurs ce qui s'est passé. Tous les trois États baltes – la Pologne, la Hongrie, la Slovaquie, la Slovénie, etc. –
+[00:12:44.000 --> 00:12:52.060] sont d'abord entrés dans l'OTAN, ensuite sont entrés dans l'UE. Et c'est d'ailleurs le président George W. Bush
+[00:12:52.060 --> 00:13:01.060] qui en a décidé ainsi. C'est-à-dire que c'est le président des États-Unis qui décide de qui entre dans l'UE. Bien. Enfin pas bien, justement.
+[00:13:01.060 --> 00:13:11.220] Donc dans ce cadre, Charles de Gaulle avait fait sortir la France du commandement militaire intégré de l'OTAN en 1966,
+[00:13:11.220 --> 00:13:17.620] mais à la même époque où il faisait la politique de la chaise vide à Luxembourg, parce qu'il avait déjà compris le système.
+[00:13:17.620 --> 00:13:25.360] Mais à l'époque, il y avait quand même la guerre froide. Il y avait un risque quand même qui n'était pas négligeable – si on puisse dire – du camp socialiste,
+[00:13:25.360 --> 00:13:34.940] puisque le pacte de Marseille était à 300 km de la frontière de Strasbourg. Donc effectivement, la France appartenait au camp occidental.
+[00:13:34.940 --> 00:13:42.520] Mais de Gaulle avait dit « Lorsque le mur de Berlin s'effondrera » – il l'avait dit à Perfit, qui le rapporte dans son livre « C'était de Gaulle » –
+[00:13:42.520 --> 00:13:50.200] « Lorsque le communisme n'existera plus, la France, l'OTAN n'existera plus ». Ce qui prouve que là, ce grand visionnaire s'était trompé
+[00:13:50.200 --> 00:13:59.520] parce que le pacte de Varsovie s'est effondré. Et au lieu que l'OTAN, qui était censé en être – comment dirais-je – l'altérégo,
+[00:13:59.520 --> 00:14:09.880] celui qui visait à s'opposer à lui, quoique je n'ai appris que récemment... Ce que j'avais oublié dans mes cours antérieurs, c'est que l'OTAN a été créé en 1949,
+[00:14:09.880 --> 00:14:16.800] c'est-à-dire 4 ans avant le pacte de Varsovie qui date de 1953. Donc l'OTAN n'a pas été créé par réponse au pacte de Varsovie.
+[00:14:16.800 --> 00:14:25.000] C'est l'inverse. On nous a souvent laissé rentrer le contraire. Mais enfin, on pouvait imaginer que le pacte de Varsovie s'effondrant,
+[00:14:25.000 --> 00:14:35.920] l'OTAN disparaîtrait. Et en réalité, l'OTAN s'est emparé de l'Europe de l'Est et maintenant vise à devenir une espèce d'armée coloniale mondiale
+[00:14:35.920 --> 00:14:44.160] au profit de l'empire euro-atlantique. C'est comme ça que les choses se passent. Donc ça n'a rien à voir. Lorsque de Gaulle était sorti du commandement militaire intégré de l'OTAN
+[00:14:44.160 --> 00:14:50.560] mais était resté dans l'OTAN, c'était pour des raisons géopolitiques évidentes à l'époque. Maintenant, il n'y a plus 50 solutions.
+[00:14:50.560 --> 00:14:58.440] Maintenant, le charabia de l'article 42, ça veut dire quoi ? Ça veut dire qu'il pose 4 principes. Le premier, c'est que l'UE doit se doter à terme
+[00:14:58.440 --> 00:15:05.080] d'une seule et même politique de défense, la PESD, la politique européenne de sécurité et de défense. Deuxième principe, l'UE doit être sur pied
+[00:15:05.080 --> 00:15:12.880] d'une armée européenne commune. Troisième principe, l'UE s'arroge le droit de mener des opérations de police internationale définies par l'OTAN
+[00:15:12.880 --> 00:15:19.520] même sans mandat de l'ONU. Parce que normalement, les opérations de guerre, c'est le chapitre 7 de la Charte des Nations unies.
+[00:15:19.520 --> 00:15:24.960] C'est justement ce à quoi s'est opposé Dominique de Villepin en 2003. C'est parce que les Américains n'ont pas eu le feu vert.
+[00:15:24.960 --> 00:15:30.960] La France a menacé de son veto. Ils sont pas allés jusqu'au vote, parce qu'il y aurait eu risque de veto, ce qui était humiliant pour Washington.
+[00:15:31.000 --> 00:15:36.700] Ils ont déclenché une guerre qui est illégale au regard de la Charte des Nations unies. Et je rappelle quand même que nous sommes dans un univers
+[00:15:36.700 --> 00:15:43.840] pollucé depuis 1945 et que la Charte des Nations unies vise à réglementer le droit de la guerre. Donc un État n'a pas le droit de faire la guerre,
+[00:15:43.840 --> 00:15:51.320] normalement, s'il n'y a pas l'autorisation du Conseil de sécurité en vertu du chapitre 7 de cette Charte. Voilà. Donc là, on s'arroge le droit
+[00:15:51.320 --> 00:16:00.920] de mener des opérations définies par l'OTAN elle-même, puisque Washington et l'UE ne cessent que d'essayer de vider de substances l'ONU,
+[00:16:00.920 --> 00:16:10.280] nous sommes dans des gens qui ne sont pas du tout pour une vision universelle de la planète. Nous sommes dans un système de domination impériale
+[00:16:10.280 --> 00:16:18.780] avec un camp qui veut vider de substances l'ONU. L'ONU dont je signale que c'est quand même un grand principe de civilisation,
+[00:16:18.780 --> 00:16:30.320] puisque l'ONU a posé ce principe inouï dans l'histoire des hommes, c'est qu'un État égale une voix. Le royaume de Tonga ou les îles de la Dominique
+[00:16:30.320 --> 00:16:36.880] dans l'arc caribéen a la même voix que la République populaire de Chine ou que les États-Unis d'Amérique. Alors évidemment, on va me dire...
+[00:16:36.880 --> 00:16:43.000] Ça, c'est à l'Assemblée générale. C'est pas au Conseil de sécurité. C'est vrai. Ça peut se comprendre aussi sur certains côtés.
+[00:16:43.000 --> 00:16:51.960] On peut pas non plus avoir quelque chose de viable dans ces conditions. Mais quand même, c'est un grand principe d'humanité et de vision
+[00:16:51.960 --> 00:16:59.240] d'émancipation des peuples et des nations. C'est ça qu'actuellement l'oligarchie euro-atlantique est en train de vider de substances
+[00:16:59.240 --> 00:17:06.960] pour vider l'ONU et le remplacer par l'OTAN. Et enfin, les obligations de l'OTAN s'imposent à l'UE, puisque la PES
+[00:17:06.960 --> 00:17:13.720] doit respecter les obligations de l'OTAN. L'entrée dans l'OTAN est donc devenue un préalable imposé par les États-Unis
+[00:17:13.720 --> 00:17:19.480] à l'entrée dans l'UE. Je le disais tout à l'heure. Tous les nouveaux États de l'Est ayant adhéré à l'UE en 2005 ont été obligés
+[00:17:19.480 --> 00:17:25.640] à la demande des États-Unis d'adhérer d'abord à l'OTAN avant d'adhérer à l'UE. En France, et seulement en France...
+[00:17:25.640 --> 00:17:31.200] Je ne sais pas si parmi vous, il y en a qui s'intéressent à ces sujets. Ce sont des sujets d'une importance considérable.
+[00:17:31.200 --> 00:17:38.960] La guerre et la paix dans le monde, c'est quand même... C'est quand même, d'ailleurs, compte tenu des bruits de ce qui se passe actuellement
+[00:17:38.960 --> 00:17:50.040] en Syrie, en Iran, dans différents théâtres d'Afrique, en Corée du Nord. Bon, la situation est quand même extrêmement dangereuse.
+[00:17:50.040 --> 00:17:57.040] Donc nous devons y porter très attention. En France et seulement en France, tous les partis politiques ont la seule exception du nôtre.
+[00:17:57.040 --> 00:18:06.000] Et tous les grands médias cachent encore cette vérité. C'est que l'UE, c'est égal à l'OTAN, c'est égal à la subordination militaire et stratégique aux États-Unis.
+[00:18:06.000 --> 00:18:13.400] Nous sommes les seuls à le dire. Vous ne verrez jamais Mme Le Pen, M. Dupont-Aignan, expliquer aux Français ce qui se cache
+[00:18:13.400 --> 00:18:20.560] derrière la construction européenne. M. Mélenchon, certes, dit qu'il faut sortir de l'OTAN. Mais lui, il veut faire croire aux Français
+[00:18:20.560 --> 00:18:29.080] que l'UE serait créée par les Européens. Alors qu'il s'agit derrière tout ça de qui a créé la construction européenne dès 1949,
+[00:18:29.080 --> 00:18:34.400] je vous renvoie à d'autres de mes conférences, là que la fameuse déclaration Schumann a été conçue dans l'île bureau
+[00:18:34.400 --> 00:18:40.240] de Dinah B. Richardson, qui était le secrétaire d'État américain. Et tout le monde... Enfin vous l'avez vu encore,
+[00:18:40.240 --> 00:18:48.160] si vous intéressez à la politique la plus actuelle. Le Premier ministre britannique, M. Cameron, envisage de faire un référendum
+[00:18:48.160 --> 00:18:53.600] pour la sortie de l'UE tellement les Britanniques veulent s'en sortir. Qui est-ce qui intervient pour dire non ?
+[00:18:53.600 --> 00:19:01.000] C'est les États-Unis, qui ont dit non. Ils ont envoyé leur... Ils ont un secrétaire d'État aux affaires européennes, les Américains.
+[00:19:01.000 --> 00:19:06.600] C'est comme si nous, on avait un secrétaire d'État aux affaires américaines. C'est quand même assez extraordinaire.
+[00:19:06.600 --> 00:19:11.880] Les personnes ne réagissent. Bon. La subordination dans les faits, c'est l'eurocorps, par exemple.
+[00:19:11.880 --> 00:19:17.680] L'eurocorps, c'est cet embryon d'armée européenne avec 5 membres permanents, la France, l'Allemagne, l'Espagne,
+[00:19:17.680 --> 00:19:24.320] la Belgique et le Luxembourg, et 4 autres pays qui participent à l'État majeur, l'Autriche, la Grèce, la Pologne et la Turquie.
+[00:19:24.320 --> 00:19:33.280] Turquie qui est le flanc sud de l'OTAN. Et c'est justement pour cette raison que la Turquie va entrer dans l'UE,
+[00:19:33.280 --> 00:19:39.400] puisque ça, c'est un des grands mystères de la politique française, où on se dit régulièrement... Les Français se disent
+[00:19:39.400 --> 00:19:46.080] « Est-ce que la Turquie doit entrer dans l'UE ou pas ? ». Alors vous avez des grands débats entre les gens qui disent
+[00:19:46.080 --> 00:19:53.200] « Oui, ça va favoriser, comment dirais-je, un islam moderne ». Vous avez d'autres, alors au FN, qui poussent des cris d'orfraie.
+[00:19:53.200 --> 00:19:58.920] Mais non. C'est contraire aux racines chrétiennes de l'Europe. Donc les gens se boufflonnaient sur cette question.
+[00:19:58.920 --> 00:20:06.000] Personne, sauf nous, ne disent ce qui se cache. Ce qui se cache derrière, c'est que ce sont les Américains qui en ont décidé
+[00:20:06.000 --> 00:20:13.000] ainsi pour faire coïncider le périmètre de l'UE et de l'OTAN. C'est pour ça que la Russie... Puisqu'il s'agit d'encercler la Russie...
+[00:20:13.000 --> 00:20:18.520] Ça n'est pas moi qui l'invente. C'est Zbigniew Bzezinski, qui a été le conseiller diplomatique de Carter, qui a écrit un ouvrage
+[00:20:18.520 --> 00:20:27.240] qui s'appelle The Great Chessboard, le Grand Échiquier en français, qui explique qu'il s'agit d'encercler et de repousser la Russie
+[00:20:27.240 --> 00:20:35.080] au maximum dans l'Interland eurasiatique. Et il s'agit de surveiller le Moyen-Orient, Israël, les pays de la Mésopotamie.
+[00:20:35.080 --> 00:20:42.800] C'est de ça qu'il s'agit. Les Américains ont décidé que ça serait comme ça. Et c'est pour ça que la Turquie va entrer dans l'UE.
+[00:20:42.800 --> 00:20:49.640] Alors aucun de vos députés de l'UNP, du PS, de l'ELV, du Modem, de ci, de ça, ne vous explique jamais le fond du problème.
+[00:20:49.640 --> 00:20:59.520] Le fond du problème, c'est celui-ci. Voilà. Alors il vous suffit d'aller voir le site Internet de Eurocorps. Ici, c'est une saisie d'écran.
+[00:20:59.520 --> 00:21:05.160] Et si vous voyez cette saisie d'écran, vous serez saisis d'effroi, parce que vous aurez Eurocorps et vous verrez
+[00:21:05.160 --> 00:21:14.120] « A force of the European Union and the Atlantic Alliance », une force militaire pour l'UE et l'Alliance atlantique.
+[00:21:14.120 --> 00:21:21.200] C'est pas moi qui le dis. C'est écrit sur le site. Donc les gens qui vous disent... J'ai vu certains souverainistes qui avaient dit
+[00:21:21.200 --> 00:21:25.800] « Ah oui, mais Sarkozy, il est rentré dans l'OTAN. Donc commandant unitaires intégrés, c'est un scandale ».
+[00:21:25.800 --> 00:21:33.480] Bien sûr que moi, je trouve ça... Je ne trouve pas ça scandaleux. Je trouve ça logique. Ou bien on est dans l'UE.
+[00:21:33.480 --> 00:21:40.840] Et à ce moment-là, il faut être dans l'OTAN à plein. Ou bien on est ni dans l'UE ni dans l'OTAN. Donc c'est cette alternative qui se pose.
+[00:21:40.840 --> 00:21:50.840] Soit la France continue à rester membre de l'UE. Alors elle est ipso facto condamnée à s'enfermer dans l'Alliance atlantique.
+[00:21:50.840 --> 00:21:58.240] Quand je dis « ipso facto », je pourrais même dire « ipso jure », c'est-à-dire par le droit lui-même, puisque l'article 42 le précise.
+[00:21:58.240 --> 00:22:05.120] Puisque l'UE et l'OTAN ne sont en réalité que les deux faces de la même médaille, celle de l'asservissement géopolitique,
+[00:22:05.120 --> 00:22:11.880] diplomatique, militaire, économique, culturel aux États-Unis d'Amérique. C'est de ça qu'il s'agit. Donc d'une certaine façon,
+[00:22:11.880 --> 00:22:18.000] M. Sarkozy, qui était plus américain que français, était parfaitement logique. Il a tiré la logique jusqu'au bout,
+[00:22:18.000 --> 00:22:24.360] qu'avait d'ailleurs déjà entamé à vrai dire Jacques Chirac avant lui, et même François Mitterrand avant lui.
+[00:22:24.360 --> 00:22:32.600] C'est-à-dire que fondamentalement, on ne peut pas être allié, prétendre fonder une espèce d'État-continent avec une majorité d'États
+[00:22:32.600 --> 00:22:37.360] qui sont membres de l'OTAN et prétendre faire la fine bouche devant l'OTAN, surtout qu'on prétend avoir la même politique étrangère
+[00:22:37.360 --> 00:22:45.200] et de défense. C'est pas possible. On peut pas vouloir une chose et son contraire. On peut pas... Non, c'est du gaullisme de pacotille.
+[00:22:45.200 --> 00:22:51.960] C'est comme... C'est un gris-gris. Ça n'a rien à voir. Donc nous, nous ne prétendons pas d'ailleurs un mouvement gaulliste.
+[00:22:51.960 --> 00:22:58.440] Je le rappelle au passage. Nous avons chez nous des anti-gaullistes. On a aussi des gaullistes. On a tout. Mais nous, ce qu'on voit au-delà de De Gaulle...
+[00:22:58.440 --> 00:23:04.640] Quand je cite De Gaulle, c'est simplement un stratège et c'est une volonté d'indépendance nationale qui remonte bien avant De Gaulle.
+[00:23:04.640 --> 00:23:13.880] Là, il y a eu Clémenceau, il y a eu Grand-État, il y a eu les soldats de Landeu, il y a eu le cardinal de Richelieu, il y a eu Jeanne d'Arc, etc.
+[00:23:13.880 --> 00:23:22.400] C'est un pays qui a trouvé... La finalité même de la France, c'est de s'opposer aux empires qui veulent la dominer. Voilà.
+[00:23:22.400 --> 00:23:28.560] Donc ça, c'est la conclusion logique donc de Giscard, Mitterrand, Chirac, Sarkozy. C'est une des hypothèses.
+[00:23:28.560 --> 00:23:36.640] Et puis l'autre hypothèse logique, c'est que la France décide de redevenir la nation libre et souveraine qu'elle a toujours eu l'ambition d'être,
+[00:23:36.640 --> 00:23:46.560] qu'elle est toujours parvenue à être dans les grands moments de son histoire nationale. Depuis Bibracte jusqu'au CNR de 1944,
+[00:23:46.560 --> 00:23:55.720] la France a toujours, dans les grands moments de son histoire, a toujours su se rassembler les tribus gauloises pour imposer la liberté de cette nation
+[00:23:55.720 --> 00:24:05.640] à nulle autre pareille. Et c'est d'ailleurs ce que le reste du monde attend de nous. Comme je le dis souvent, la France n'appartient pas aux Français.
+[00:24:05.640 --> 00:24:14.520] L'actuel dégringolable de notre pays, la disparition géostratégique de la France en tant qu'acteur géostratégique de première importance
+[00:24:14.520 --> 00:24:23.200] a un effet considérable dans le monde. Si vous avez des amis au Moyen-Orient, en Amérique latine, dans le monde en Chine,
+[00:24:23.200 --> 00:24:31.720] comme j'en connais, ou dans le monde orthodoxe, si ce sont des bons amis, ils vous disent avec tristesse, « Mais qu'est-ce que vous êtes devenus ?
+[00:24:31.720 --> 00:24:39.360] Qu'est-ce qui est devenu de cette France que nous aimions et qui savait s'opposer aux États-Unis ? ».
+[00:24:39.360 --> 00:24:44.160] C'est pas pour le principe même de s'opposer aux États-Unis. Moi, j'ai des amis américains. C'est pas le problème.
+[00:24:44.160 --> 00:24:50.680] C'est de s'imposer à un pays qui veut dominer l'univers. Donc c'est ça qui manque. C'est d'ailleurs la raison pour laquelle
+[00:24:50.680 --> 00:24:57.040] le discours de Villepin, pour le coup, avait été extraordinaire en 2003. Parce que dans les jours qui avaient suivi, des fils d'attente s'étaient créés
+[00:24:57.040 --> 00:25:04.560] devant les alliances françaises à travers le monde, de New Delhi à Sydney, de Pékin à Rio de Janeiro, de Mexico au Caire,
+[00:25:04.560 --> 00:25:12.320] de Moscou à Johannesburg. J'en ai gardé des traces des agences de presse. Il y avait des fils d'attente de gens à travers le monde
+[00:25:12.320 --> 00:25:20.080] qui voulaient apprendre le français. Voilà. Parce qu'apprendre le français, le français ne sera désirable et n'est désiré
+[00:25:20.080 --> 00:25:26.920] que justement comme une lampe d'émancipation. Voilà. Et si, en revanche, nous devenons les larbins de l'Empire,
+[00:25:26.920 --> 00:25:33.240] évidemment, c'est toute la France qui a perdu même sa raison d'être. C'est de ça qu'il s'agit. C'est de la raison pour laquelle
+[00:25:33.240 --> 00:25:40.040] il faut sortir à la fois de l'UE et de l'OTAN. L'un ne va pas sans l'autre. Toute autre politique est incohérente.
+[00:25:40.040 --> 00:25:49.720] Vous avez compris que l'UPR vous propose le second choix, qui est celui qui est conforme d'ailleurs à tous les grands moments
+[00:25:49.720 --> 00:25:57.800] de notre histoire nationale depuis 2000 ans. Donc même si conjoncturellement, ceci paraît difficile, toute l'histoire
+[00:25:57.800 --> 00:26:03.800] m'assure et nous assure que nous y arriverons, puisqu'il y a une grande logique dans l'histoire, c'est qu'elle est récurrente.
+[00:26:03.800 --> 00:26:09.600] Donc c'est la raison n°9. Il faut que la France sorte de l'OTAN et dénonce juridiquement plusieurs articles des traités européens,
+[00:26:09.600 --> 00:26:17.880] notamment l'article 42 du TUE. Et puis la toute dernière raison, c'est défendre la vision française et francophone du monde.
+[00:26:17.880 --> 00:26:24.720] En fait, il y en a bien d'autres. Je pourrais vous parler pendant encore 3 jours la 18e, la 187e raison. Mais il faut se limiter.
+[00:26:24.720 --> 00:26:32.840] Donc ça, c'est la raison n°10. Il faut défendre la vision française et francophone du monde. C'est quelque chose à quoi je tiens énormément.
+[00:26:32.840 --> 00:26:39.360] Depuis que je suis petit, je suis attiré par les pays étrangers. J'ai vécu à l'étranger. J'ai vécu 1 an et demi au Japon.
+[00:26:39.360 --> 00:26:48.720] Je parle un peu le japonais. J'ai vécu en Allemagne, au Royaume-Uni. J'ai été dans 90 ou 92 pays du monde, à la fois pour des raisons
+[00:26:48.720 --> 00:26:56.500] professionnelles et personnelles. Qu'est-ce que l'on constate ? Et d'ailleurs, c'est un constat qui est arrangé par beaucoup de gens,
+[00:26:56.500 --> 00:27:04.000] puisque je signale que parmi nos adhérents, nous avons plus de 5% de nos adhérents qui sont des Français souvent jeunes qui sont expatriés
+[00:27:04.000 --> 00:27:10.120] au quatre coins du monde, ce qui prouve que les gens qui disent « Vous êtes des ringards », c'est pas le monde tel qu'il est, c'est pas vrai.
+[00:27:10.120 --> 00:27:19.920] En statistiquement, il y a 2% de Français qui vivent à l'expatriation. Nous en avons 5%. On a des Français, on a plus de 15 ou 18 adhérents
+[00:27:19.920 --> 00:27:31.800] au Royaume-Uni, aux États-Unis, en Allemagne. J'en oublie. On a des adhérents, y compris dans des pays assez étonnants comme au Sri Lanka,
+[00:27:31.800 --> 00:27:40.720] en Inde. On en a au Vietnam, au Japon, en Chine. On en a en Colombie. On en a plusieurs au Brésil. On en a en Maroc, etc. Voilà.
+[00:27:40.720 --> 00:27:49.720] Donc on a vraiment beaucoup de pays représentés, beaucoup au Canada aussi. J'ai oublié de le préciser. Alors pourquoi tout ça ?
+[00:27:49.720 --> 00:27:56.520] Parce que les gens qui vivent à l'expatriation... Et moi, j'ai vécu à l'étranger. Ça a changé ma vie. C'est qu'on a d'un seul coup
+[00:27:56.520 --> 00:28:05.480] une meilleure vision de ce qu'est la France, de ce qu'est l'importance de la France du reste du monde. Or, la France est importante,
+[00:28:05.480 --> 00:28:10.400] contrairement à ce que les gens vous disent. Les européistes sont toujours là à vous mépriser, notre pays, en disant
+[00:28:10.400 --> 00:28:17.560] « Vous rendez compte ? On ne pèse que 1% de la population mondiale ». Ça, c'est ce qu'avait dit l'inénarrable Giscard d'Estaing.
+[00:28:17.560 --> 00:28:23.840] 1% de la population mondiale. Mais ça veut dire ça, 1% de la population mondiale. Est-ce que vous avez déjà vu...
+[00:28:23.840 --> 00:28:35.640] Je ne sais pas. Singapour dire « Nous, nous pesons 0,08% de la population mondiale », ou Israël. Imaginez Israël qui dit
+[00:28:35.640 --> 00:28:43.420] « On va fusionner avec les 27 pays alentours parce qu'on ne pèse que 0,1% de la population mondiale ».
+[00:28:43.540 --> 00:28:50.060] Est-ce que vous avez déjà vu les États-Unis d'Amérique vous dire « Nous, nous pesons que 4% de la population mondiale ».
+[00:28:50.060 --> 00:28:56.460] Si on parle des pourcentages, il y en a que deux qui peuvent parler. C'est la Chine et l'Inde. La Chine, c'est 22% de la population mondiale.
+[00:28:56.460 --> 00:29:03.900] Et l'Inde, c'est à 21%. Mais tous les autres, les États-Unis y compris, ça ne fait que des pouillèmes. Donc ça suffit de regarder ça comme ça.
+[00:29:03.900 --> 00:29:08.020] C'est pas ça qui est important. Ce qui est important, c'est la langue. Qu'est-ce que c'est une langue parlée dans le monde ?
+[00:29:08.020 --> 00:29:15.340] L'histoire, l'image, la puissance économique, le rayonnement culturel, intellectuel, etc. Voilà. Or, l'image de la France,
+[00:29:15.340 --> 00:29:23.740] elle est de plus en plus abîmée. Plus nous restons dans l'UE et plus nous nous abîmons. Mais il en reste encore dans les lointains pays
+[00:29:23.740 --> 00:29:30.420] une image un peu mythique, un peu de rêve dont se sont beaucoup inspirés par exemple tous les révolutionnaires latino-américains.
+[00:29:30.420 --> 00:29:39.100] Je le signalais hier. Par exemple, tous les ménémonets qui sont apparus en Argentine, en Colombie, au Pérou, en Bolivie,
+[00:29:39.100 --> 00:29:50.300] au début du XIXe siècle, avec le démembrement du Réal Espagnol vers 1815, 1820, 1825, etc. reprenaient toute l'héraldique des révolutionnaires français,
+[00:29:50.300 --> 00:30:02.740] le bonnet phrygien, etc. D'ailleurs, Francesco de Miranda, qui était un des adjoints de Simon Bolivar, s'est battu à la bataille de Vali en 1792.
+[00:30:02.740 --> 00:30:07.260] Alors ce qu'il faut comprendre, c'est qu'avec la construction européenne, eh bien justement, nous sommes en train de nous couper du monde,
+[00:30:07.260 --> 00:30:16.700] et notamment de tous les pays de la francophonie qui étaient ici en jaune. Loin de n'ouvrir la France sur le monde, la France se ratatine,
+[00:30:16.700 --> 00:30:24.900] se coupe progressivement du reste du monde et des pays francophones qui constituaient le socle de sa puissance et de son rayonnement mondial.
+[00:30:24.900 --> 00:30:33.020] D'un point de vue stratégique, on n'a pas vu une erreur plus colossale pour un pays que de se vouloir se renfermer dans une espèce de petit
+[00:30:33.020 --> 00:30:43.980] périmètre allant de la Laponie finlandaise à Gibraltar et de l'île d'Irlande jusqu'à l'île de Chypre, où elle est contrainte d'adopter des politiques
+[00:30:43.980 --> 00:30:50.340] qui sont totalement contraires à ses intérêts nationaux, contraintes d'adopter une langue qui n'est pas la sienne, qui est l'anglo-américain,
+[00:30:50.340 --> 00:30:58.580] et tout ceci pour se couper de tous les pays qui croyaient encore en air. Alors ça, j'insiste là-dessus, parce que s'il y a un argument peut-être en plus...
+[00:30:58.580 --> 00:31:04.700] C'est pour ça que beaucoup de jeunes expatriés... On a beaucoup de jeunes expatriés ou moins jeunes qui, d'un seul coup,
+[00:31:04.700 --> 00:31:11.140] lorsqu'ils nous découvrent, découvrent l'immense vérité de ceci. C'est que la France est quelque chose qui est désiré dans le monde
+[00:31:11.140 --> 00:31:18.780] et que beaucoup de peuples du monde sont tristes de voir disparaître. En plus de ça, cette construction nous amène à faire des choix
+[00:31:18.780 --> 00:31:25.340] qui sont des choix que je n'hésite pas à qualifier d'abjects, avec les fonds structurels dits européens versés aux nouveaux états membres.
+[00:31:25.340 --> 00:31:33.940] Je rappelle que c'est nous qui les payons. Je rappelle que l'Europe ne produit rien. Je rappelle que les fonds dits européens sont payés par les peuples d'Europe.
+[00:31:33.940 --> 00:31:40.940] Et je rappelle que l'Europe est une pompe aspirante et refoulante d'argent. Sauf que si elle donnait à chaque peuple ce qu'il donne,
+[00:31:40.940 --> 00:31:48.220] si elle le rendait à chaque peuple ce qu'il met, elle ne servirait à rien. Donc en fait, cette pompe aspirante et refoulante pompe à certains
+[00:31:48.220 --> 00:31:54.620] et en redonne davantage à d'autres. Donc il y a des pays qui donnent plus qu'ils ne reçoivent et d'autres qui donnent moins qu'ils ne reçoivent,
+[00:31:54.620 --> 00:32:01.740] d'autres qui reçoivent plus qu'ils ne donnent. Et au passage, la structure coûte un argent fou. Les 5 000 fonctionnaires de la Commission,
+[00:32:01.740 --> 00:32:09.180] les députés du Parlement, etc., etc. Donc tout ceci, par ailleurs, a des coûts de traitement considérables.
+[00:32:09.180 --> 00:32:18.580] Eh bien il faut savoir donc que la France fait partie des pays qui sont des contributeurs nets. Et ceci depuis maintenant au moins une vingtaine d'années.
+[00:32:18.580 --> 00:32:23.180] Au tout début, c'est vrai que nous étions des bénéficiaires. C'était De Gaulle qui avait négocié ça avec Adenauer.
+[00:32:23.180 --> 00:32:30.060] En gros, les Allemands payaient notre agriculture. Mais c'est fini depuis très longtemps. Depuis au moins 20 ans, nous payons bien davantage
+[00:32:30.060 --> 00:32:36.540] que nous n'en recevons. Donc c'est une des raisons que j'aurais pu ajouter à cette conférence. Mais il n'y en aurait eu trop.
+[00:32:36.540 --> 00:32:46.340] Actuellement, nous donnons en gros rien qu'en coût direct. Nous donnons... Les Français versent en gros 21 milliards d'euros et reçoivent 14.
+[00:32:46.340 --> 00:32:53.060] Donc il y a 7 milliards d'euros qui nous sont prélevés, soit pour le fonctionnement de la structure européiste, soit pour donner
+[00:32:53.060 --> 00:32:59.300] des fonds structurels comme ceux dont je vais parler à l'instant. J'ajoute par ailleurs que les 14 milliards d'euros
+[00:32:59.300 --> 00:33:05.980] qui nous sont resservis nous sont resservis avec le trapeau bleu aux étoiles d'or. C'est-à-dire qu'on dit aux agriculteurs...
+[00:33:05.980 --> 00:33:12.360] « Regardez. Vous pouvez pas sortir de l'Europe. Vous avez vu les subventions européennes. Ah oui. Ah bon. Mais c'est notre argent, hein.
+[00:33:12.360 --> 00:33:17.860] Comme je le dis souvent, c'est comme si je vous demandais, M. de me donner un billet de 50 €. Je le mets dans ma poche.
+[00:33:17.860 --> 00:33:26.340] J'en ressors 30. Et je lui dis... On dit merci qui ? » Voilà. C'est ça, l'Europe. C'est-à-dire qu'on est obligé...
+[00:33:26.340 --> 00:33:33.380] On paye une structure qui nous pique un tiers de ce qu'on lui donne. Et avec les deux tiers restants, on est obligé de lui dire merci.
+[00:33:33.380 --> 00:33:40.220] Elle se prévaut de sa grande munificence. Et elle prend des décisions qui visent à nous désintégrer au niveau national,
+[00:33:40.220 --> 00:33:47.180] puisqu'elle finance par exemple l'Europe des régions pour favoriser le démantèlement. Ça, c'est ce qu'on voyait en Alsace l'autre jour,
+[00:33:47.180 --> 00:33:53.380] pour favoriser le démantèlement de la République. On n'a jamais vu un truc pareil. Dans l'histoire, on n'a jamais vu ça.
+[00:33:53.380 --> 00:33:59.740] Donc je reviens au fond structurel que nous finançons. On n'est pas les seuls. Il y a aussi les Allemands. Il y a aussi d'autres.
+[00:33:59.740 --> 00:34:05.780] Mais les pays contributeurs nets, c'est principalement l'Allemagne en un, la France en deux. En trois, les Pays-Bas.
+[00:34:05.780 --> 00:34:14.060] Il y a également le Royaume-Uni, même s'ils bénéficient du chèque Thatcher. Et puis il doit y avoir la Suède. Et puis voilà.
+[00:34:14.060 --> 00:34:22.940] C'est les principaux contributeurs nets. Alors avec ce système, nous donnons 90 fois plus d'argent à Malte ou à Chypre
+[00:34:22.940 --> 00:34:32.420] que à la Tunisie par habitant, parce que les fonds structurels sont beaucoup plus importants que notre aide au développement.
+[00:34:32.420 --> 00:34:38.700] Donc nous donnons actuellement 90 fois plus d'argent à chaque Maltais ou à chaque Chypriote qu'à chaque Tunisien,
+[00:34:38.700 --> 00:34:45.100] 200 fois plus d'argent à chaque Lituanien qu'à chaque Marocain. Donc moi, ce que j'aimerais savoir, c'est sur la base
+[00:34:45.100 --> 00:34:52.580] de quelle logique la France accepte-t-elle les contribuables français ? Accepte-t-il au nom de cette prétendue solidarité européenne ?
+[00:34:52.580 --> 00:34:58.700] On me dit « Mais quand même, vous êtes xénophobes. C'est un scandale. Il faut être généreux. Il faut être solidaire
+[00:34:58.700 --> 00:35:05.220] des autres peuples d'Europe ». Et je dis « Ah bon ? Très bien ». Et pourquoi des peuples d'Europe, d'ailleurs ?
+[00:35:05.220 --> 00:35:11.220] Parce qu'en vertu de quoi on devrait donner 80, 200 fois plus d'argent à chaque Polonais vivant ici à Varsovie
+[00:35:11.220 --> 00:35:17.780] plutôt qu'à chaque Marocain vivant ici à Essaouira, alors que l'un est déjà arrivé au niveau de stade de pays intermédiaire
+[00:35:17.780 --> 00:35:22.460] en termes de richesse, alors que les autres sont encore des pays très pauvres et qui non seulement sont des pays très pauvres,
+[00:35:22.460 --> 00:35:28.060] mais des pays francophones, francophiles, ayant à participer avec qui ils sont des anciennes colonies, avec lesquels nous avons
+[00:35:28.060 --> 00:35:34.620] des échanges considérables, avec lesquels d'ailleurs une grande partie de nos compatriotes sont eux-mêmes originaires,
+[00:35:34.620 --> 00:35:40.180] et qui payent des impôts en France. Et donc il est encore plus légitime que ces impôts payés justement par des Français
+[00:35:40.180 --> 00:35:44.700] d'origine maghréline par exemple reviennent prioritairement à ces pays pour les aider à se développer.
+[00:35:44.700 --> 00:35:51.380] Est-ce que ça n'est pas un raisonnement qui se tient ? Quel est le raisonnement qui se cache derrière celui-ci des européistes ?
+[00:35:51.380 --> 00:35:58.820] Pourquoi devoir nous donner 80, 200 fois plus d'argent à chaque Lituanien à Vilmus ? Je n'ai rien contre les Lituaniens.
+[00:35:58.820 --> 00:36:13.620] J'ai même d'ailleurs un de mes neveux, qui vit avec une petite amie en Lituanie. Mais bon. Plutôt qu'à chaque Malien ici à Yalet.
+[00:36:13.620 --> 00:36:18.300] J'ajoute en plus de ça, s'agissant d'un certain nombre de pays d'Afrique noire, je pense notamment aux Sénégalais,
+[00:36:19.140 --> 00:36:26.140] les pays qui ont, comme on dit, même si ça paraît une vieille lune, payé le prix du sang. Les tirailleurs sénégalais,
+[00:36:26.140 --> 00:36:32.620] on a bien été contents de les trouver, au Première Guerre mondiale et à la seconde aussi. Donc des gens avec qui
+[00:36:32.620 --> 00:36:40.260] nous avons des liens historiques, des liens familiaux, commerciaux, touristiques, démographiques, considérables,
+[00:36:40.260 --> 00:36:50.180] eh bien nous donnons toute la priorité à d'autres. Et en vertu de quoi ? Quelle est la raison qui fait qu'on devrait faire ça ?
+[00:36:50.180 --> 00:36:59.900] Alors arrêtons de nous laisser intimider par tous ces européistes et regardons en face la vraie vérité de ce qu'est la construction européenne.
+[00:36:59.900 --> 00:37:07.060] La vraie vérité, elle va vous sauter aux yeux, j'espère. Si vous comparez cette photo qui est ce qu'on appelle une photo de famille,
+[00:37:07.060 --> 00:37:12.620] c'est ce que disent les journalistes, la photo de famille. C'est le Conseil européen du 20 juin 2008 à Bruxelles.
+[00:37:12.620 --> 00:37:23.460] J'aurais pu en prendre 50 autres. Et puis ça, c'est la photo du sommet européen. Et puis ça, c'est la photo de la reine Elisabeth II
+[00:37:23.460 --> 00:37:30.460] d'Angleterre qui ouvre le sommet des chefs d'État et du gouvernement du Commonwealth à Kampala en Ouganda le 23 novembre 2007,
+[00:37:30.460 --> 00:37:44.370] c'est-à-dire quelques mois auparavant. Quelle est la différence entre les deux photos ? Voilà. La couleur. La couleur de la peau.
+[00:37:44.370 --> 00:37:56.170] Ici, c'est un club de blanc. Ici, c'est un club hérité de l'Histoire, des liens économiques affectifs tirés de l'Histoire.
+[00:37:56.170 --> 00:38:03.730] Une histoire que l'on peut condamner et critiquer, c'est l'histoire de l'économie. C'est un fait. Mais l'Histoire, elle existe.
+[00:38:03.730 --> 00:38:12.970] On revient pas derrière. C'est le fruit de 2, 3, 4 siècles d'Histoire. Et vous voyez ici que l'Angleterre a des liens avec...
+[00:38:12.970 --> 00:38:23.130] Ici, on voit des noirs d'Afrique. Ici, on devine M. Manmohan Singh, le premier ministre de l'Union indienne qui est un Sikh.
+[00:38:23.130 --> 00:38:28.970] Ça se voit à son turban. Moi, j'ai connu. Il était ministre des Finances. J'avais une réunion de travail avec lui.
+[00:38:28.970 --> 00:38:41.050] On a ici des Moyen-Orientaux. Vous voyez certainement le premier ministre... On devine vaguement qu'il doit être d'un pays probablement
+[00:38:41.050 --> 00:38:50.850] comme les Samoas ou le royaume de Tonga, donc un Maori. Donc on a en fait toutes les races de la planète.
+[00:38:50.850 --> 00:38:58.930] Et ce qui est vrai de cette réunion du Commonwealth à Kampala est également vrai de la réunion du 7e sommet des chefs d'État et du gouvernement
+[00:38:58.930 --> 00:39:06.290] de la communauté de la lusophonie des pays de langue portugaise à Lisbonne, où l'on a ici le président portugais,
+[00:39:06.290 --> 00:39:14.650] avec ici à ses côtés le président de l'Angola, ici Lula da Silva, le président du Brésil. Et donc vous avez ici...
+[00:39:14.650 --> 00:39:24.370] Vous voyez à voir le représentant de Macao, qui est un métis portugais-chinois. On a les différentes races de la planète.
+[00:39:24.370 --> 00:39:34.650] Et ici, nous avons le sommet de la francophonie à Québec, avec M. Sarkozy tellement gêné, semble-t-il, d'être dans une réunion francophone.
+[00:39:34.650 --> 00:39:44.450] On a quoi ? Eh bien on a ici des Blancs. Ici, on a un Canadien. On a ici des Jaunes, avec le Premier ministre du Vietnam ou du Cambodge.
+[00:39:44.450 --> 00:39:55.130] On a des Africains. Et on a même un monégasque. Et puis un Moyen-Oriental. Là aussi, nous avons toutes les couleurs de peau.
+[00:39:55.130 --> 00:40:00.850] Ça veut donc dire quoi ? Eh bien ça veut dire que, que cela vous plaise ou pas, il est indéniable que la construction européenne
+[00:40:00.850 --> 00:40:11.410] est une construction racialiste. Elle n'est fondée sur rien d'autre de logique que la prétendue appartenance à un même monde blanc,
+[00:40:11.410 --> 00:40:19.250] fondée probablement sur une religion, puisque c'est ainsi qu'en ont décidés les États-Unis dans le cadre de la théorie du choc de civilisation,
+[00:40:19.250 --> 00:40:29.910] « The clash of civilizations and the remaking of our borders », c'est-à-dire le choc de civilisation et la refonte de l'ordre mondial.
+[00:40:29.910 --> 00:40:37.510] C'est le livre de Samuel Huntington qui fonde toute la géopolitique américaine. Donc en réalité, les gens qui vous disent
+[00:40:37.510 --> 00:40:45.470] « Il faut être solidaire européen », ils vous disent en fait « Je suis pour un monde fondé sur des solidarités raciales ».
+[00:40:45.470 --> 00:40:52.190] Alors quand on vous dit ça, et quand je dis ça, ils me poussent des cris de refraie. « Comment pouvez-vous dire ? Je ne suis pas anti-Africain ».
+[00:40:52.190 --> 00:40:59.710] Mais moi, je ne suis pas non plus... « Vous êtes anti-Africain comme je suis anti-européen ». Pourquoi prétendre vouloir fusionner
+[00:40:59.710 --> 00:41:07.110] avec la Létonie, la Lituanie, la Slovaquie, la Hongrie, la Bulgarie ? Je n'ai rien contre ces peuples. Mais ce sont des peuples qui ne sont pas...
+[00:41:07.110 --> 00:41:15.130] Je n'ai jamais été dans les liens traditionnels de la France, alors que nous avons des peuples et des liens qui sont...
+[00:41:15.130 --> 00:41:21.990] Justement, nous avons des liens avec des peuples qui sont sur tous les continents et qui d'ailleurs contribuent beaucoup à la langue française.
+[00:41:21.990 --> 00:41:31.430] J'ajoute que c'est le meilleur antidote à tous les chocs religieux et au prétendu choc de civilisation, le meilleur antidote
+[00:41:31.430 --> 00:41:39.190] au développement de l'islamisme, par exemple, si tant est qu'il se développe, puisqu'en fait, ceux qui le financent, il faudrait s'interroger dessus.
+[00:41:39.190 --> 00:41:48.310] Le meilleur antidote, c'est justement ça. C'est justement la francophonie, le Commonwealth, la nusophonie, l'hispanophonie, c'est-à-dire montrer
+[00:41:48.310 --> 00:41:56.070] qu'il y a des solidarités intercontinentales qui se jouent complètement des appartenances à la religion ou à telle ou telle couleur de peau.
+[00:41:56.070 --> 00:42:04.710] Voilà ce dont il s'agit. La construction européenne, que l'on veuille ou non, ressemble à s'y méprendre, à un apartheid au niveau planétaire.
+[00:42:04.710 --> 00:42:10.910] C'est d'ailleurs logique, puisqu'il s'ensemble des anglo-saxons qui l'ont conçu, et non pas des Français. Les Français ont une vision
+[00:42:10.910 --> 00:42:18.750] de l'universalité des peuples et des nations, alors que les anglo-saxons ont une vision qui est une vision communautariste de l'univers.
+[00:42:18.750 --> 00:42:25.590] Il s'agit d'avoir une communauté européenne. C'est d'ailleurs le nom que ça porte. C'est la raison n°10.
+[00:42:25.590 --> 00:42:31.310] Si nous voulons que la France défende une autre vision du monde que la vision ultralibérale anglo-saxonne, qu'elle défende
+[00:42:31.310 --> 00:42:38.090] dans la langue française, qu'elle soit fidèle à ses amitiés, qu'elle défende une autre vision du monde qu'une vision
+[00:42:38.090 --> 00:42:47.910] ethniciste et une vision communautariste, alors nous devons sortir de l'UE, parce que son principe même au XXIe siècle a volé en éclat.
+[00:42:47.910 --> 00:42:54.710] On ne peut pas dire qu'on est en contact avec le monde entier, que les distances ont été abolies, et nous expliquer qu'il faut fusionner
+[00:42:54.710 --> 00:43:02.310] par continuité géographique de proche en proche, depuis l'Algarve portugaise jusqu'à la Laponie finlandaise, c'est absurde.
+[00:43:02.310 --> 00:43:09.550] Nous devons revenir sur ce principe. C'est un principe racial ségrégationniste qui la coupe de l'ensemble du monde francophone.
+[00:43:09.550 --> 00:43:17.630] C'est ça, la réalité secrète. Voici arrivé au terme de cette très longue conférence. Je vous remercie pour votre extrême attention.
+[00:43:17.630 --> 00:43:24.150] Je vous rappelle les 10 raisons urgentes de sortir de l'Europe. Il faut rétablir la démocratie, c'est-à-dire
+[00:43:24.150 --> 00:43:30.550] s'arrêter avec ce système qui, mathématiquement, je vous l'éprouvais, rend toute autre Europe impossible et vide de sens
+[00:43:30.550 --> 00:43:39.590] toute élection nationale. Il faut résoudre la question de la dette publique, c'est-à-dire notamment pouvoir se soustraire
+[00:43:39.590 --> 00:43:49.190] à l'article 123 du TFUE. Il faut sauver l'agriculture et les agriculteurs. Il faut donc se soustraire aux articles 32 et 39 du TFUE.
+[00:43:49.190 --> 00:43:55.670] Il faut sauver l'industrie et nos emplois. Il faut donc sortir de l'euro pour récupérer la maîtrise de notre politique monétaire,
+[00:43:55.670 --> 00:44:03.110] notamment pour le change externe, ce qui oblige à dénoncer notamment l'article 282 du TFUE. Il faut dénoncer juridiquement
+[00:44:03.110 --> 00:44:11.150] les articles qui organisent, qui donnent le feu vert aux délocalisations industrielles et au repatriant de produits fabriqués
+[00:44:11.150 --> 00:44:19.070] à très bas coût de salaire. C'est-à-dire qu'il faut dénoncer les articles 32 et 63 du TFUE. Il faut maîtriser l'immigration
+[00:44:19.070 --> 00:44:27.630] à la fois pour ne pas déstabiliser la société française, mais pas déstabiliser non plus et ne pas voler la force vitale
+[00:44:27.630 --> 00:44:37.310] des pays du Sud. Il faut donc revenir sur les articles 67, 77, 79 du TFUE. Il faut préserver la santé de l'environnement.
+[00:44:37.310 --> 00:44:46.350] Ça implique de revenir sur les articles 168 et 169 du TFUE. Nous devons conserver nos services publics et notre patrimoine national.
+[00:44:46.350 --> 00:44:54.390] Nous devons donc remettre en cause l'article 106 du TFUE. Nous devons défendre nos retraites et notre politique économique et sociale.
+[00:44:54.390 --> 00:45:03.070] Nous devons donc notamment supprimer l'article 5 et l'article 121, qui fixent les grandes orientations de politique économique,
+[00:45:03.070 --> 00:45:10.790] ces articles du TFUE. Nous devons protéger la paix du monde. Notamment, nous soustrayons de l'OTAN, qui est devenu une opération
+[00:45:10.790 --> 00:45:20.470] d'une milice internationale pour semer en fait le malheur à travers le monde. Ça nous impose de sortir de l'OTAN, donc de dénoncer
+[00:45:20.470 --> 00:45:29.230] l'article 42 du TUE. Nous devons préserver la vision française et francophone du monde. Nous devons refuser un monde fondé
+[00:45:29.230 --> 00:45:37.390] sur le communautarisme racial et la ségrégation. Nous devons fusionner. Nous devons au contraire promouvoir un monde
+[00:45:37.390 --> 00:45:44.230] avec des nations ouvertes, chacune conservant ses identités, mais chacune étant ouverte sur le reste du monde
+[00:45:44.230 --> 00:45:51.190] et refusant notamment une vision racialiste et communautariste pour faire privilégier une vision typiquement française.
+[00:45:51.190 --> 00:45:58.190] C'est le génie de la France depuis le baptême de Plovis de 496 et l'interdiction faite par le clergé à l'époque des mariages cliniques.
+[00:45:58.190 --> 00:46:04.870] C'est ce qui fait notre spécificité. C'est-à-dire que la France vise à l'universal. Nous devons redonner à la francophonie
+[00:46:04.870 --> 00:46:11.110] tout son sens pour en faire un pôle d'équilibre et de civilisation dans le monde face au rouleau compresseur,
+[00:46:11.110 --> 00:46:19.390] communautariste et ultralibéral anglo-saxon. Alors que faire ? Que faire, puisqu'une autre Europe est mathématiquement impossible ?
+[00:46:19.390 --> 00:46:27.950] Je vous l'ai montré au début de cette conférence. 1,2 seconde sur 1 trion d'années. Et puisqu'une autre Europe
+[00:46:27.950 --> 00:46:35.590] est mathématiquement impossible, eh bien il faut faire ce que nous vous proposons sans faillir, constamment, sans avoir jamais changé
+[00:46:35.590 --> 00:46:43.710] une seule fois notre discours ni nos propositions, ce qui aussi nous sépare de toute la classe politique française.
+[00:46:43.710 --> 00:46:50.670] Avec l'UPR, vous savez ce que vous avez. Vous n'aurez jamais de mauvaises surprises. Jamais nous n'en changerons,
+[00:46:50.670 --> 00:46:57.590] puisque nous avons pris une charte qui verrouille absolument notre programme de façon décisive et notre vision du monde.
+[00:46:57.590 --> 00:47:03.350] C'est sur cette charte que les gens adhèrent. Donc vous n'aurez jamais de mauvaises surprises. Je suis le président fondateur,
+[00:47:03.350 --> 00:47:07.950] mais je ne suis finalement que le premier adhérent de cette charte à laquelle je me soumets comme tout un chacun.
+[00:47:07.950 --> 00:47:15.950] C'est-à-dire que tous les instants, nous faisons en sorte d'écarter les débats qui pourraient nous séparer pour nous relier sur l'essentiel.
+[00:47:15.950 --> 00:47:23.150] L'essentiel... Excusez-moi de le dire, mais l'essentiel, c'est que vive notre pays. C'est-à-dire que vive la France.
+[00:47:23.150 --> 00:47:29.190] Alors que faire ? Eh bien il y a une bonne solution. C'est le traité de l'UE, l'article 50.
+[00:47:29.190 --> 00:47:34.710] Tout État membre peut décider conformément à ses règles constitutionnelles de se retirer de l'UE.
+[00:47:34.710 --> 00:47:43.070] L'État membre doit négocier une sortie, une procédure de sortie avec les autres. Donc c'est une obligation de négociation.
+[00:47:43.070 --> 00:47:48.710] C'est de bon sens. Je vois maintenant quelques jusqu'au boutiste qui disent « Oh, mais l'article 50 est inapplicable ».
+[00:47:48.710 --> 00:47:55.510] Pourquoi il est inapplicable ? Il propose quoi, eux ? C'est un article de bon sens. Il impose tout simplement de pouvoir
+[00:47:55.510 --> 00:48:00.070] d'entamer une procédure de négociation. Il propose quoi ? Il propose d'ailleurs rien. La seule chose qu'il propose,
+[00:48:00.070 --> 00:48:05.710] c'est de taper sur l'UPA, parce qu'ils savent pas quoi nous répondre. Donc en réalité, nous avons une procédure de négociation.
+[00:48:05.710 --> 00:48:12.390] Il est même prévu d'ailleurs que si au bout de 2 ans on n'est pas parvenu à un accord, eh bien à ce moment-là, on sort de plein droit.
+[00:48:12.390 --> 00:48:17.990] Mais rassurez-vous, lorsque la France aura décidé, lorsque les Français auront décidé de sortir de l'UE,
+[00:48:17.990 --> 00:48:22.630] ben ça se passera très bien. Il n'y a aucune raison que ça se passe mal, puisqu'on mettra en œuvre un article sur lequel
+[00:48:22.630 --> 00:48:28.030] tous les autres États sont tombés d'accord, puisqu'ils ont ratifié le même prêté. J'ajouterais même que lorsque les Français diront
+[00:48:28.030 --> 00:48:33.950] qu'ils sortent de l'UE, il y aura beaucoup d'États qui diront « Mais ils ont bien raison ». Et non seulement on ne nous mettra pas
+[00:48:33.950 --> 00:48:41.910] des bâtons dans les roues, mais très probablement, eh bien en réalité, on nous félicitera d'avoir été les précurseurs.
+[00:48:41.910 --> 00:48:47.350] Notre programme de libération nationale, c'est la sortie urgente de l'euro, la réattribution à la Banque de France
+[00:48:47.350 --> 00:48:52.470] de son rôle normal de financement de l'État, la défense par la France elle-même de ses intérêts à l'OMC,
+[00:48:52.470 --> 00:48:56.950] le rétablissement effectif du contrôle des flux de capitaux, de marchandises, de services et de personnes,
+[00:48:56.950 --> 00:49:02.430] la renationalisation de notre politique étrangère à compagnie d'une sortie de l'OTAN et du retrait de nos troupes engagées
+[00:49:02.430 --> 00:49:07.470] dans des guerres illégales, la restauration des services publics à la française, garant de cohésion nationale,
+[00:49:07.470 --> 00:49:14.190] la sortie de l'UE au plus vite, car toutes les mesures précédentes sont contraires au traité. Et c'est parfaitement possible
+[00:49:14.190 --> 00:49:23.310] avec l'article 50 du TUE. Voilà comment se termine cette conférence avant de se séparer, enfin avant de vous poser,
+[00:49:23.310 --> 00:49:31.870] de vous donner peut-être la parole pour répondre à vos questions. Un mot et un dernier mot sur notre mouvement.
+[00:49:31.870 --> 00:49:38.670] Moi, j'insiste beaucoup sur le fait que les gens peuvent se mobiliser. Vous avez parfaitement le droit de ne pas être convaincus,
+[00:49:38.670 --> 00:49:46.560] bien entendu, par tout ce que je vous ai dit. J'aimerais quand même que les gens qui ne sont pas convaincus
+[00:49:46.560 --> 00:49:52.720] m'expliquent en quoi ils ne sont pas convaincus. Parce que j'aimerais, je veux bien avoir des débats, mais j'estime en tout cas
+[00:49:52.720 --> 00:50:02.440] toutes les conférences que je fais à travers la France depuis 6 ans sont faites de la façon la plus honnête et affective qui soit.
+[00:50:02.440 --> 00:50:09.640] J'y donne, je crois, tout ce que je peux donner de mon cœur et de mon cerveau sur l'état de notre pays.
+[00:50:10.600 --> 00:50:15.240] Ça peut arriver. Bien sûr, je suis un homme. Comme tout le monde, je peux me tromper. Il est possible qu'une fois ou deux,
+[00:50:15.240 --> 00:50:21.640] on trouve un point à redire. Mais en tout cas, à chaque fois, je tiens toujours à donner les sources, l'information
+[00:50:21.640 --> 00:50:27.200] pour que tout le monde aille vérifier. C'est d'ailleurs ce que je souhaite. Mais si les gens sont convaincus...
+[00:50:27.200 --> 00:50:32.440] Et il y en a de plus en plus qui se rendent compte que d'abord, tout ce que je dis est toujours constant,
+[00:50:32.440 --> 00:50:37.760] et puis ensuite, ils vont vérifier les citations que je dis... Parce qu'il y a beaucoup de mes conférences maintenant
+[00:50:37.760 --> 00:50:42.680] qui sont sur Internet. Ils vont vérifier si ces citations sont exactes. Ils découvrent quelles leçons.
+[00:50:42.680 --> 00:50:47.600] Et d'un seul coup, ils ont envie à ce moment-là de dérouler la pelote de laine et de découvrir plein d'autres choses.
+[00:50:47.600 --> 00:50:53.000] Je peux pas tout dire, mais de découvrir à quel point toutes les clés de compréhension que je donne
+[00:50:53.000 --> 00:50:59.240] permettent enfin de comprendre ce qui se passe. Voilà. C'est comme finalement... On a trouvé la clé du rébu.
+[00:50:59.240 --> 00:51:06.320] Donc maintenant, toutes ces clés permettent enfin de comprendre ce qui se passe. Alors si vous en êtes maintenant convaincus,
+[00:51:06.320 --> 00:51:12.200] la dernière chose avec laquelle je voudrais vous convaincre, c'est de sauter le pas et d'adhérer à notre mouvement.
+[00:51:12.200 --> 00:51:17.960] Il y a beaucoup de gens qui me disent « Je vous suis. C'est formidable. Je vous suis depuis 2 mois, depuis 6 mois,
+[00:51:17.960 --> 00:51:24.320] depuis 1 an, depuis 2 ans ». Et je dis qu'il y a un moment à partir duquel il faut sauter le pas et nous rejoindre.
+[00:51:24.320 --> 00:51:29.440] Il y a beaucoup de gens... La grande, grande majorité, plus de 90% de nos adhérants n'ont jamais été dans un mouvement politique
+[00:51:29.440 --> 00:51:35.440] auparavant. Il faut donc sauter ce petit verrou psychologique. Je ne sais pas très bien ce qu'il veut dire, d'ailleurs.
+[00:51:35.440 --> 00:51:44.320] C'est pas une affaire que d'adhérer à l'UPR. Votre nom ne sera pas diffusé. Notre base de données est consultée simplement
+[00:51:44.320 --> 00:51:50.720] par 5 personnes dont moi, en qui j'ai toute confiance. C'est le mouvement le plus républicain qui soit.
+[00:51:50.720 --> 00:51:58.680] Nous sommes un mouvement – on ne peut plus – républicain. Et c'est très important pour nous, puisque nous sommes barrés
+[00:51:58.680 --> 00:52:04.560] de l'accès aux grands médias. Voilà. Il y a une injustice qui nous est faite, qui devient de plus en plus flagrante.
+[00:52:04.560 --> 00:52:11.320] Quand nous étions peu nombreux, ça pouvait se justifier. Maintenant que nous sommes de plus en plus nombreux, ça se justifie
+[00:52:11.320 --> 00:52:17.760] de moins en moins. C'est pour la raison pour laquelle je vous invite à sortir de cette torpeur qui vous est instilée aussi
+[00:52:17.760 --> 00:52:27.000] par les médias. Ça fait partie du jeu. Ils ont même trouvé un journaliste qui s'appelle Apatit. C'est fait pour...
+[00:52:27.000 --> 00:52:37.880] C'est fait pour donner l'impression aux gens que jamais, ils ne pourront ressortir les choses. Pourtant, il suffit de se mobiliser.
+[00:52:37.880 --> 00:52:46.880] Les gens qui tiennent le système sont très peu nombreux. Donc il suffit de se mobiliser pour vraiment changer l'histoire de notre pays.
+[00:52:46.880 --> 00:52:51.840] C'est la raison pour laquelle je cite cet auteur suisse, Max Frisch, qui vivait pas très loin d'ici, d'ailleurs.
+[00:52:51.840 --> 00:52:58.240] Pire que le bruit des bottes. Il y a pire que le bruit des bottes. C'est ce qu'a révélé le XXe siècle. Il y a pire que le bruit des bottes,
+[00:52:58.240 --> 00:53:05.320] c'est-à-dire des armées qui sont là, qui établissent la dictature. C'est le silence des pantoufles, c'est-à-dire ceux et celles
+[00:53:05.320 --> 00:53:13.880] qui décident de ne rien faire. Comme disait Jean-Paul Sartre, on n'a jamais été aussi libre que sous l'occupation.
+[00:53:13.880 --> 00:53:20.880] Il voulait dire par là, bien entendu, qu'on n'a jamais été aussi face à ses propres responsabilités que sous l'occupation.
+[00:53:20.880 --> 00:53:27.920] Il en parlait d'ailleurs. Il aurait mieux fait de se taire, parce que lui-même n'a pas brillé toujours par ses prises de position à cette époque.
+[00:53:27.920 --> 00:53:34.520] Mais enfin, on n'a jamais été aussi libre que sous l'occupation. C'est pareil. Vous n'avez finalement jamais pu faire autant de politique
+[00:53:34.520 --> 00:53:40.720] qu'en ce moment, puisque c'est au moment même où tout le monde croit qu'il n'y a plus de politique que renaît la politique.
+[00:53:40.720 --> 00:53:45.520] C'est en tout cas ce que nous essayons de faire. Je crois qu'on y parvient bien. C'est qu'on est en train de redonner à la politique
+[00:53:45.520 --> 00:53:52.640] ces véritables lettres de noblesse, ce que c'est que vraiment la politique. La politique, c'est pas un jeu, c'est pas un truc pour avoir des prébondes.
+[00:53:52.640 --> 00:54:00.300] Je ne peux rien vous proposer. Vous n'aurez rien que de nous donner du temps ou de l'argent, sans avoir – si vous aurez mes remerciements –
+[00:54:00.300 --> 00:54:08.560] mais vous n'aurez rien d'autre, du moins pour le moment. C'est pas comme à l'UMP ou aux partis socialistes où les gens adhèrent pour avoir
+[00:54:08.560 --> 00:54:17.040] un mandat électif ou bien un CDD ou un CDI à la municipalité du maire en question, parce qu'il y a toute la famille qui est là,
+[00:54:17.040 --> 00:54:22.320] qui est à l'UMP ou aux PS. C'est pas le genre de la maison. On n'a pas les moyens de toute façon. Et c'est pas notre vision des choses.
+[00:54:22.320 --> 00:54:28.040] Nous, notre vision des choses – excusez de le dire –, c'est que nous devons servir notre pays. On n'a pas le droit...
+[00:54:28.040 --> 00:54:36.600] Les Français n'ont pas le droit de laisser mourir, de laisser détruire la France, c'est-à-dire un pays qui a à peu près 1 500 ans d'âge
+[00:54:36.600 --> 00:54:42.920] et dont le monde a besoin. Sortir de la destruction européenne, ça commence par adhérer à l'UPR. J'insiste.
+[00:54:42.920 --> 00:54:47.760] Vous aurez des formulaires d'adhésion tout à l'heure. Si vous ne voulez pas, on vous laissera bien sûr en paix.
+[00:54:47.760 --> 00:54:55.440] Mais simplement quand même, réfléchissez-y. C'est vraiment très important. Beaucoup de gens nous ont rejoints.
+[00:54:55.440 --> 00:55:01.480] Les gens nous ont rejoints. Ça, c'est donc... Je vous l'ai montré. L'envol de l'UPR, ça dépend aussi de moi.
+[00:55:01.480 --> 00:55:07.320] Ça dépend de chacun d'entre nous. Parce que si tous les gens qui me disent « Je vous suis, j'attends, je réfléchis »,
+[00:55:07.320 --> 00:55:13.880] si tout le monde se décidait, on serait beaucoup plus nombreux. Voilà quelle a été la courbe d'évolution de nos adhérents.
+[00:55:13.880 --> 00:55:23.720] C'est la dernière plan, je vous rassure. J'ai créé ce mouvement le 25 mars 2007. Sur le coup, il y a eu à peu près une trentaine d'adhérents,
+[00:55:23.720 --> 00:55:33.400] des amis pour beaucoup, qui m'aimaient bien, mais qui me regardaient avec un peu de distance, considérant qu'ils se demandaient
+[00:55:33.400 --> 00:55:41.880] si j'étais pas devenu un peu fou. De cette époque, nous avons gardé à peu près 6 adhérents, qui sont encore adhérents,
+[00:55:41.880 --> 00:55:49.280] que j'ai comme impectorés, comme on dit au Vakhti, dont je garde précieusement la mémoire dans mon cœur.
+[00:55:49.280 --> 00:55:55.720] Donc on a vraiment commencé très très bas, sans argent et sans aucune médiation, sans aucun soutien de qui que ce soit.
+[00:55:55.720 --> 00:56:00.160] Vous croyez pas que c'est parce que j'ai été dans des cabinets ministériels que les ministres que j'ai connus à cette époque
+[00:56:00.160 --> 00:56:09.120] m'ont soutenu. Bien au contraire. Nous étions 47 au 31 décembre 2007, 88 à peu près au 31 décembre 2008.
+[00:56:09.120 --> 00:56:17.360] Donc c'était une petite progression, pas mal. Mais enfin 158 en 2009. Donc ces années ont été vraiment assez pénibles,
+[00:56:17.360 --> 00:56:24.520] puisque c'étaient des années où le discours que je tenais ne passait pas. Les gens considéraient que j'exagérais.
+[00:56:24.520 --> 00:56:31.120] Que je disais dire que l'UE était menacée à la démocratie, la paix, le niveau de vie, etc. C'étaient des idées qui étaient considérées
+[00:56:31.120 --> 00:56:37.640] comme totalement farfelues. Et l'idée même de sortir de l'UE était considérée comme encore plus farfelue.
+[00:56:37.640 --> 00:56:44.640] Et puis il y a eu un petit début avec 2010, puisqu'il y avait les premiers effets de la crise économique, la crise financière venue
+[00:56:44.640 --> 00:56:51.000] de l'Outre-Atlantique. Et puis avec 2011... Alors il y a eu l'effet de la création de notre page Facebook, et puis du développement
+[00:56:51.000 --> 00:56:57.480] des conférences, qui ont quand même commencé à jouer à plein. Et on a terminé l'année 2007 avec 707 adhérences.
+[00:56:57.480 --> 00:57:02.800] C'est à peu près... On avait un peu moins de 700 adhérences lorsque j'ai présenté le programme présidentiel.
+[00:57:02.800 --> 00:57:09.560] C'était le 3 décembre 2011. Nous n'avons pas réussi à avoir les 500 par an. On en a même été très loin, puisque j'en ai eu 17 au total.
+[00:57:09.560 --> 00:57:16.480] Je me plais à dire le vrai chiffre, parce que la plupart des autres, vous le dites tous. On en a eu 453. Non, c'est pas vrai.
+[00:57:16.480 --> 00:57:21.040] C'est pas vrai. C'est très difficile d'avoir des parrainages, surtout pour un petit mouvement politique,
+[00:57:21.040 --> 00:57:28.640] surtout pour un candidat qui n'était présenté dans aucun média. Voilà. Donc nous avons eu des centaines d'adhérents
+[00:57:28.640 --> 00:57:34.000] qui ont cherché des parrainages. Je les en remercie. À un moment, on en avait plus de 280 qui ont cherché.
+[00:57:34.000 --> 00:57:42.440] On en a fini par avoir 17 parrainages. Bon. Mais ensuite est arrivée la crise de l'euro. Et nous avons bondi, comme vous le voyez.
+[00:57:42.440 --> 00:57:49.640] C'est une croissance pour les mathématiciens. J'ai commencé par des exponentiels. Je termine par des puissances... Pardon.
+[00:57:49.640 --> 00:57:57.120] Par des... Comment dirais-je ? Un calcul mathématique avec des puissances. Je termine avec une courbe exponentielle.
+[00:57:57.120 --> 00:58:04.720] Donc vous voyez que ça suit une courbe exponentielle. Au 31 décembre 2012, nous étions à 2 158. Et hier soir,
+[00:58:04.720 --> 00:58:14.080] très exactement hier soir, nous étions à 2 780 au 5 avril 2013. Donc vous voyez que nous sommes sur une cour qui poursuit
+[00:58:14.080 --> 00:58:20.400] et qui pourrait nous donner la pensée que nous pourrions être aux alentours de 4 200 à la fin de cette année,
+[00:58:20.400 --> 00:58:27.840] et peut-être moins, peut-être davantage. D'avantage, j'espère, si on arrive à se mobiliser. C'est la raison pour laquelle
+[00:58:27.840 --> 00:58:34.800] vous voyez qu'il faut quand même nous rejoindre. Lorsque nous serons 10 000 ou 15 000... À ce moment-là, je passerai dans les médias.
+[00:58:34.800 --> 00:58:41.600] Et à ce moment-là, soyez sûrs que l'UPR va tout changer de la situation politique française. Je vous remercie.

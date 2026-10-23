@@ -8,8 +8,8 @@ from promethe.archive import archive_path, verify_archive
 from promethe.cli import offer_quality_review
 from promethe.corrector import import_correction
 from promethe.downloader import (
-    YoutubeAccess, _authenticated_options, _with_fallback, ffmpeg_location,
-    inspect_playlist, youtube_video_id,
+    YoutubeAccess, _authenticated_options, _with_fallback, canonical_playlist_url,
+    ffmpeg_location, inspect_playlist, youtube_video_id,
 )
 from promethe.indexer import INDEX_KEYS, export_prompt, import_index
 from promethe.io_utils import timestamp, write_json, write_text
@@ -29,6 +29,14 @@ class CoreTests(unittest.TestCase):
             "tMkNyXpws_0",
         )
         self.assertEqual(youtube_video_id("https://example.org/watch?v=tMkNyXpws_0"), None)
+
+    def test_watch_url_with_list_is_normalized_as_playlist(self):
+        self.assertEqual(
+            canonical_playlist_url(
+                "https://www.youtube.com/watch?v=4ccHnbtXPFM&list=PLKVgrNogVYWKmDNwvuC6pq9AMyRYqZjZQ"
+            ),
+            "https://www.youtube.com/playlist?list=PLKVgrNogVYWKmDNwvuC6pq9AMyRYqZjZQ",
+        )
 
     @patch("promethe.downloader.ensure_javascript_runtime", return_value=Path("C:/runtime/deno.exe"))
     def test_authenticated_options_keep_cookies_in_firefox(self, runtime):

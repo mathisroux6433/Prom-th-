@@ -11,7 +11,7 @@ import zipfile
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Callable, TypeVar
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import parse_qs, quote, urlparse
 
 from .errors import PrometheError
 
@@ -75,6 +75,16 @@ def youtube_video_id(url: str) -> str | None:
     else:
         return None
     return candidate if re.fullmatch(r"[A-Za-z0-9_-]{6,}", candidate) else None
+
+
+def canonical_playlist_url(url: str) -> str:
+    """Normalise une URL watch/short youtu.be contenant un identifiant de playlist."""
+    parsed = urlparse(url)
+    host = parsed.netloc.lower().split(":", 1)[0]
+    playlist_id = (parse_qs(parsed.query).get("list") or [None])[0]
+    if playlist_id and (host.endswith("youtube.com") or host in {"youtu.be", "www.youtu.be"}):
+        return f"https://www.youtube.com/playlist?list={quote(playlist_id, safe='')}"
+    return url
 
 
 def _sha256(path: Path) -> str:
@@ -172,6 +182,7 @@ def inspect_url(url: str, access: YoutubeAccess | None = None) -> dict[str, Any]
 
 def inspect_playlist(url: str, access: YoutubeAccess | None = None) -> list[str]:
     """Retourne les URL canoniques d'une playlist sans télécharger de média."""
+    url = canonical_playlist_url(url)
     def extract(extra: dict[str, Any]) -> dict[str, Any]:
         options = {
             "quiet": True, "no_warnings": True, "skip_download": True,

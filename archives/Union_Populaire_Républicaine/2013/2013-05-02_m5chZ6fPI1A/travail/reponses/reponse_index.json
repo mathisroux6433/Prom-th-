@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.1",
+  "video_id": "m5chZ6fPI1A",
+  "resume_general": "Troisième volet de la conférence de François Asselineau. Il achève l'argument sur l'immigration, critique l'influence des lobbies européens en santé et environnement, puis relie le privilège du dollar, les guerres, les acquisitions étrangères, les privatisations et les réformes sociales à une perte de souveraineté.",
+  "themes_principaux": [
+    {"theme": "Immigration européenne et fuite des cerveaux", "horodatages": ["00:00:00", "00:06:11"], "position": "développé"},
+    {"theme": "Lobbying, OGM, santé publique et protection des consommateurs", "horodatages": ["00:06:11", "00:26:28"], "position": "développé"},
+    {"theme": "Privilège international du dollar après Bretton Woods", "horodatages": ["00:26:17", "00:46:48"], "position": "développé"},
+    {"theme": "Privatisations, patrimoine national et services publics", "horodatages": ["00:46:48", "00:57:04"], "position": "développé"},
+    {"theme": "Retraites, emploi et acquis sociaux", "horodatages": ["00:57:04", "01:03:10"], "position": "développé"}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Carte bleue européenne et recrutement de diplômés du Sud", "horodatages": ["00:02:32", "00:05:58"]},
+    {"sujet": "Monsanto, BASF et lobbying au Berlaymont", "horodatages": ["00:08:34", "00:13:30"]},
+    {"sujet": "Huile ukrainienne contaminée importée par Saipol", "horodatages": ["00:16:04", "00:19:08"]},
+    {"sujet": "Grippe aviaire, H1N1, Tamiflu, Roche et Gilead", "horodatages": ["00:22:34", "00:25:14"]},
+    {"sujet": "Fin de la convertibilité du dollar en or en 1971", "horodatages": ["00:26:45", "00:40:14"]},
+    {"sujet": "Guerres d'Irak et de Libye interprétées comme soutien au système dollar", "horodatages": ["00:44:56", "00:46:40"]},
+    {"sujet": "Capital Research et participations dans des entreprises françaises", "horodatages": ["00:47:14", "00:50:12"]},
+    {"sujet": "Projet de renationalisation des réseaux et de TF1", "horodatages": ["00:51:58", "00:55:14"]},
+    {"sujet": "Grandes orientations de politique économique et âge de la retraite", "horodatages": ["00:57:04", "01:03:10"]}
+  ],
+  "mots_cles": ["immigration", "carte bleue", "fuite des cerveaux", "lobbying", "OGM", "Monsanto", "BASF", "Saipol", "huile contaminée", "Tamiflu", "Roche", "Gilead Sciences", "H1N1", "Bretton Woods", "dollar", "étalon-or", "Nixon", "privatisation", "Capital Research", "EDF", "GDF", "SNCF", "TF1", "article 106 TFUE", "article 121 TFUE", "retraites"],
+  "variantes_lexicales": [
+    {"forme": "blue card / carte bleue", "equivalent": "titre européen pour travailleurs hautement qualifiés"},
+    {"forme": "lobbyisme", "equivalent": "lobbying"},
+    {"forme": "Gold Exchange Standard", "equivalent": "étalon de change-or"},
+    {"forme": "GOPÉ", "equivalent": "grandes orientations de politique économique"},
+    {"forme": "services publics à la française", "equivalent": "réseaux et entreprises publiques protégés"}
+  ],
+  "personnes": [
+    {"nom": "François Asselineau", "niveau": "developpe", "role": "conférencier", "horodatages": ["00:00:00", "01:03:10"]},
+    {"nom": "José Bové", "niveau": "developpe", "role": "député européen critiqué dans la séquence OGM", "horodatages": ["00:07:30", "00:13:24"]},
+    {"nom": "Dominique de Villepin", "niveau": "mention", "role": "Premier ministre lors des achats de Tamiflu", "horodatages": ["00:23:23"]},
+    {"nom": "Richard Nixon", "niveau": "developpe", "role": "fin de la convertibilité du dollar en or", "horodatages": ["00:28:32", "00:29:11"]},
+    {"nom": "Charles de Gaulle", "niveau": "mention", "role": "critique antérieure du privilège du dollar", "horodatages": ["00:28:07"]},
+    {"nom": "Arnaud Montebourg", "niveau": "mention", "role": "privatisations critiquées", "horodatages": ["00:51:13"]},
+    {"nom": "François Hollande", "niveau": "mention", "role": "promesses de retraite confrontées aux orientations européennes", "horodatages": ["01:01:45"]}
+  ],
+  "organismes": [
+    {"nom": "Commission européenne", "niveau": "developpe", "role": "décisions sanitaires, lobbying et orientations économiques", "horodatages": ["00:08:34", "01:02:10"]},
+    {"nom": "Monsanto", "niveau": "developpe", "role": "exemple de lobby OGM", "horodatages": ["00:08:43", "00:11:43"]},
+    {"nom": "BASF", "niveau": "mention", "role": "exemple de lobby OGM", "horodatages": ["00:08:43"]},
+    {"nom": "Saipol", "niveau": "developpe", "role": "importateur d'huile contaminée selon le récit", "horodatages": ["00:16:04", "00:18:50"]},
+    {"nom": "Roche", "niveau": "developpe", "role": "fabricant du Tamiflu", "horodatages": ["00:22:34", "00:24:07"]},
+    {"nom": "Gilead Sciences", "niveau": "developpe", "role": "détenteur du brevet du Tamiflu selon l'orateur", "horodatages": ["00:22:49", "00:24:07"]},
+    {"nom": "Capital Research", "niveau": "developpe", "role": "fonds américain détenant des participations citées", "horodatages": ["00:47:24", "00:50:12"]},
+    {"nom": "EDF, GDF, SNCF, TF1", "niveau": "developpe", "role": "entreprises proposées à la renationalisation", "horodatages": ["00:51:58", "00:54:35"]}
+  ],
+  "concepts": [
+    {"concept": "fuite des cerveaux", "definition_contextuelle": "recrutement de professionnels formés dans les pays du Sud", "horodatages": ["00:02:32", "00:05:58"]},
+    {"concept": "capture réglementaire", "definition_contextuelle": "influence financière des lobbies sur des règles européennes", "horodatages": ["00:08:34", "00:13:30"]},
+    {"concept": "privilège du dollar", "definition_contextuelle": "capacité des États-Unis à financer des achats avec une monnaie de réserve", "horodatages": ["00:26:45", "00:40:14"]},
+    {"concept": "bien commun", "definition_contextuelle": "réseaux et services essentiels à soustraire aux privatisations", "horodatages": ["00:51:58", "00:54:35"]},
+    {"concept": "acquis sociaux", "definition_contextuelle": "protections du travail et retraites remises en cause selon l'orateur", "horodatages": ["00:57:04", "01:03:10"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Carte bleue européenne", "niveau": "developpe", "horodatages": ["00:02:32", "00:05:58"]},
+    {"nom": "Articles 168 et 169 du TFUE", "niveau": "developpe", "horodatages": ["00:25:04", "00:26:28"]},
+    {"nom": "Fin de la convertibilité du dollar en or", "date": "15 août 1971", "niveau": "developpe", "horodatages": ["00:28:32", "00:29:11"]},
+    {"nom": "Article 106 du TFUE", "niveau": "developpe", "horodatages": ["00:55:14", "00:57:04"]},
+    {"nom": "Article 121 du TFUE et GOPÉ", "niveau": "developpe", "horodatages": ["00:57:04", "01:03:10"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:00", "fin": "00:06:11", "description": "Fin de la raison n°5, immigration"},
+    {"debut": "00:06:11", "fin": "00:16:04", "description": "Raison n°6, OGM et lobbying"},
+    {"debut": "00:16:04", "fin": "00:26:28", "description": "Scandale de l'huile et alertes sanitaires"},
+    {"debut": "00:26:17", "fin": "00:46:48", "description": "Raison n°7, système du dollar"},
+    {"debut": "00:46:48", "fin": "00:57:04", "description": "Patrimoine, privatisations et services publics"},
+    {"debut": "00:57:04", "fin": "01:03:10", "description": "Retraites et acquis sociaux"}
+  ],
+  "expressions_representatives": ["protéger la santé publique et l'environnement", "privilège du dollar", "arrêter le pillage du patrimoine national", "services publics non privatisables"],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {"position": "défendue", "argument": "La carte bleue organise une fuite de professionnels qualifiés au détriment des pays du Sud.", "horodatages": ["00:02:32", "00:05:58"]},
+    {"position": "défendue", "argument": "L'éloignement de la Commission favorise l'influence des lobbies industriels.", "horodatages": ["00:08:34", "00:13:30"]},
+    {"position": "rapportée", "argument": "La Commission aurait autorisé sous condition une huile contaminée plutôt que sa destruction.", "horodatages": ["00:16:04", "00:19:08"]},
+    {"position": "défendue", "argument": "La fin de l'étalon-or permet aux États-Unis d'acheter des actifs réels avec une monnaie de réserve émise sans limite comparable.", "horodatages": ["00:26:45", "00:40:14"]},
+    {"position": "défendue", "argument": "Les privatisations transfèrent le patrimoine et les revenus des services essentiels à des investisseurs privés.", "horodatages": ["00:46:48", "00:55:14"]},
+    {"position": "nuancée", "argument": "L'orateur ne rejette pas toute entreprise privée mais veut sanctuariser les réseaux et investissements de long terme.", "horodatages": ["00:51:05", "00:54:35"]},
+    {"position": "défendue", "argument": "Les orientations européennes conduisent à la flexibilisation du travail et au relèvement de l'âge de la retraite.", "horodatages": ["00:57:04", "01:03:10"]}
+  ],
+  "lieux_periodes": [
+    {"lieu": "Bruxelles, Berlaymont", "periode": "années 2000-2013", "contexte": "lobbying et Commission"},
+    {"lieu": "États-Unis et système monétaire mondial", "periode": "1944-2013", "contexte": "Bretton Woods et dollar"},
+    {"lieu": "France", "periode": "années 2000-2013", "contexte": "privatisations et réformes sociales"}
+  ],
+  "relations_documentaires": [
+    {"type": "suite_de", "video_id": "pPK7_iavHTs", "description": "Achève la raison n°5 commencée en 2/4."},
+    {"type": "suite", "video_id": "4ccHnbtXPFM", "description": "La protection des acquis sociaux se poursuit en 4/4."},
+    {"type": "serie", "video_ids": ["Ch5Bfe5j29A", "pPK7_iavHTs", "m5chZ6fPI1A", "4ccHnbtXPFM"], "description": "Conférence en quatre parties."}
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.1",
+  "video_id": "pPK7_iavHTs",
+  "resume_general": "Deuxième volet de la conférence de François Asselineau. Après la dette publique, il développe la sauvegarde de l'agriculture, la lutte contre les délocalisations et l'euro jugé trop cher, puis commence une critique de la politique migratoire européenne et de Schengen.",
+  "themes_principaux": [
+    {"theme": "Dette publique et Banque de France", "horodatages": ["00:00:00", "00:05:40"], "position": "développé"},
+    {"theme": "Agriculture française, PAC et concurrence", "horodatages": ["00:05:40", "00:22:29"], "position": "développé"},
+    {"theme": "Désindustrialisation, libre circulation des capitaux et délocalisations", "horodatages": ["00:22:29", "00:33:00"], "position": "développé"},
+    {"theme": "Euro, BCE, taux de change et compétitivité", "horodatages": ["00:33:00", "00:52:53"], "position": "développé"},
+    {"theme": "Schengen et souveraineté migratoire", "horodatages": ["00:52:53", "01:00:48"], "position": "développé"}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Comparaison RGPP et hausse de 600 milliards d'euros de dette", "horodatages": ["00:00:00", "00:04:33"]},
+    {"sujet": "Baisse du nombre d'agriculteurs et suicides", "horodatages": ["00:05:47", "00:12:43"]},
+    {"sujet": "Concurrence franco-allemande et SMIC agricole", "horodatages": ["00:16:26", "00:20:25"]},
+    {"sujet": "Article 63 du TFUE et contrôle des capitaux", "horodatages": ["00:22:44", "00:29:05"]},
+    {"sujet": "Zara, consommation bon marché et destruction d'emplois", "horodatages": ["00:30:15", "00:32:32"]},
+    {"sujet": "Mario Draghi, Goldman Sachs et indépendance de la BCE", "horodatages": ["00:35:24", "00:36:24"]},
+    {"sujet": "Airbus, usine de Tianjin et transfert de savoir-faire", "horodatages": ["00:41:44", "00:47:32"]},
+    {"sujet": "Articles 67 et 79 du TFUE, visas Schengen et regroupement familial", "horodatages": ["00:54:00", "01:00:48"]}
+  ],
+  "mots_cles": ["Banque de France", "agriculture", "PAC", "agriculteurs", "SMIC", "suicides", "marché intérieur", "article 63 TFUE", "délocalisation", "Zara", "BCE", "Mario Draghi", "euro fort", "taux de change", "Airbus", "Tianjin", "Schengen", "immigration", "article 79 TFUE"],
+  "variantes_lexicales": [
+    {"forme": "PAC", "equivalent": "politique agricole commune"},
+    {"forme": "BCE", "equivalent": "Banque centrale européenne"},
+    {"forme": "euro cher / euro fort", "equivalent": "taux de change de l'euro jugé surévalué"},
+    {"forme": "libre circulation des capitaux", "equivalent": "absence de restrictions aux mouvements de capitaux"},
+    {"forme": "espace Schengen", "equivalent": "zone sans contrôles systématiques aux frontières intérieures"}
+  ],
+  "personnes": [
+    {"nom": "François Asselineau", "niveau": "developpe", "role": "conférencier", "horodatages": ["00:00:00", "01:00:48"]},
+    {"nom": "Maurice Allais", "niveau": "mention", "role": "économiste hétérodoxe cité", "horodatages": ["00:03:39"]},
+    {"nom": "Mario Draghi", "niveau": "developpe", "role": "président de la BCE et acteur du taux de change selon l'orateur", "horodatages": ["00:35:24", "00:36:24"]},
+    {"nom": "Jean-Claude Trichet", "niveau": "mention", "role": "prédécesseur de Mario Draghi", "horodatages": ["00:35:48"]},
+    {"nom": "Louis Gallois", "niveau": "developpe", "role": "dirigeant d'Airbus cité sur le coût de l'euro", "horodatages": ["00:41:36", "00:42:25"]},
+    {"nom": "Nicole Bricq", "niveau": "mention", "role": "ministre du Commerce extérieur critiquée", "horodatages": ["00:38:56", "00:39:35"]},
+    {"nom": "Viviane Reding", "niveau": "mention", "role": "commissaire européenne citée sur les Roms", "horodatages": ["00:59:30"]}
+  ],
+  "organismes": [
+    {"nom": "Union européenne", "niveau": "developpe", "role": "cadre politique et juridique critiqué"},
+    {"nom": "Banque de France", "niveau": "developpe", "role": "financement public proposé", "horodatages": ["00:03:13"]},
+    {"nom": "Banque centrale européenne", "niveau": "developpe", "role": "politique monétaire et taux de change", "horodatages": ["00:33:00", "00:41:23"]},
+    {"nom": "Goldman Sachs", "niveau": "developpe", "role": "ancien employeur de Mario Draghi selon l'orateur", "horodatages": ["00:35:24"]},
+    {"nom": "Airbus / EADS", "niveau": "developpe", "role": "exemple de compétitivité et de transfert industriel", "horodatages": ["00:41:36", "00:47:32"]},
+    {"nom": "Zara", "niveau": "developpe", "role": "exemple de production à bas coûts", "horodatages": ["00:30:15", "00:31:46"]}
+  ],
+  "concepts": [
+    {"concept": "agriculture de masse", "definition_contextuelle": "production nécessaire à l'alimentation générale, distincte des niches", "horodatages": ["00:13:10", "00:14:22"]},
+    {"concept": "concurrence sociale", "definition_contextuelle": "mise en concurrence de producteurs soumis à des coûts salariaux différents", "horodatages": ["00:16:26", "00:19:13"]},
+    {"concept": "contrôle des capitaux", "definition_contextuelle": "autorisation ou limitation publique des investissements et transferts", "horodatages": ["00:22:44", "00:27:25"]},
+    {"concept": "taux de change de compétitivité", "definition_contextuelle": "niveau de change compatible avec les coûts industriels français", "horodatages": ["00:36:24", "00:41:15"]},
+    {"concept": "souveraineté migratoire", "definition_contextuelle": "capacité à décider nationalement des flux et de l'accueil", "horodatages": ["00:52:53", "01:00:48"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Articles 32 et 39 du TFUE", "niveau": "developpe", "horodatages": ["00:07:57", "00:20:32"]},
+    {"nom": "Article 63 du TFUE", "niveau": "developpe", "horodatages": ["00:22:44", "00:29:05"]},
+    {"nom": "Article 282 du TFUE", "niveau": "mention", "horodatages": ["00:52:23"]},
+    {"nom": "Articles 67, 77 et 79 du TFUE", "niveau": "developpe", "horodatages": ["00:54:00", "01:00:48"]},
+    {"nom": "Ouverture de l'usine Airbus de Tianjin", "date": "2009", "niveau": "developpe", "horodatages": ["00:43:20", "00:45:12"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:00", "fin": "00:05:40", "description": "Fin de la raison n°2 sur la dette"},
+    {"debut": "00:05:40", "fin": "00:22:29", "description": "Raison n°3, agriculture"},
+    {"debut": "00:22:29", "fin": "00:33:00", "description": "Raison n°4, capitaux et délocalisations"},
+    {"debut": "00:33:00", "fin": "00:52:53", "description": "Euro, BCE et industrie"},
+    {"debut": "00:52:53", "fin": "01:00:48", "description": "Début de la raison n°5, immigration"}
+  ],
+  "expressions_representatives": ["sauver l'agriculture française", "sauver l'industrie et nos emplois", "hémorragie quotidienne d'emplois industriels", "maîtriser les flux migratoires"],
+  "citations_exactes": [],
+  "arguments_positions": [
+    {"position": "défendue", "argument": "La concurrence agricole européenne et mondiale accélère la disparition des exploitants français.", "horodatages": ["00:05:40", "00:20:32"]},
+    {"position": "nuancée", "argument": "Les productions biologiques et de niche sont souhaitables mais insuffisantes pour toute l'alimentation.", "horodatages": ["00:13:10", "00:14:22"]},
+    {"position": "défendue", "argument": "L'article 63 empêche de conditionner ou bloquer les délocalisations.", "horodatages": ["00:22:44", "00:29:05"]},
+    {"position": "défendue", "argument": "Un euro adapté à l'Allemagne mais trop cher pour la France détruit sa compétitivité.", "horodatages": ["00:36:24", "00:42:25"]},
+    {"position": "rapportée", "argument": "Louis Gallois attribue une perte d'un milliard pour Airbus à chaque hausse de dix cents de l'euro.", "horodatages": ["00:41:44", "00:42:25"]},
+    {"position": "contestée", "argument": "Airbus serait une réalisation dépendant de l'Union européenne.", "horodatages": ["00:46:14", "00:47:32"]},
+    {"position": "défendue", "argument": "La politique migratoire devrait être décidée par un débat national plutôt que par les institutions européennes.", "horodatages": ["00:56:47", "01:00:48"]}
+  ],
+  "lieux_periodes": [
+    {"lieu": "France", "periode": "1962-2013", "contexte": "agriculture et industrie"},
+    {"lieu": "Tianjin, Chine", "periode": "2009-2011", "contexte": "assemblage d'Airbus"},
+    {"lieu": "espace Schengen", "periode": "2013", "contexte": "circulation et politique migratoire"}
+  ],
+  "relations_documentaires": [
+    {"type": "suite_de", "video_id": "Ch5Bfe5j29A", "description": "Achève la raison n°2 commencée en 1/4."},
+    {"type": "suite", "video_id": "m5chZ6fPI1A", "description": "La raison n°5 sur l'immigration se poursuit en 3/4."},
+    {"type": "serie", "video_ids": ["Ch5Bfe5j29A", "pPK7_iavHTs", "m5chZ6fPI1A", "4ccHnbtXPFM"], "description": "Conférence en quatre parties."}
+  ]
+}

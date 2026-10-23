@@ -1,0 +1,3793 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.18,
+      "end": 7.66,
+      "start_timestamp": "00:00:00.180",
+      "end_timestamp": "00:00:07.660",
+      "text": "C'est-à-dire que vous voyez que l'on a mis les administrations... Enfin parmi vous, il y a peut-être des fonctionnaires,"
+    },
+    {
+      "id": 1,
+      "start": 7.66,
+      "end": 14.94,
+      "start_timestamp": "00:00:07.660",
+      "end_timestamp": "00:00:14.940",
+      "text": "ou des gens qui connaissent des fonctionnaires dans leur entourage, ou tout simplement des gens qui ont recours"
+    },
+    {
+      "id": 2,
+      "start": 14.94,
+      "end": 20.86,
+      "start_timestamp": "00:00:14.940",
+      "end_timestamp": "00:00:20.860",
+      "text": "au service public, et qui pestent de voir que l'on ferme des écoles, que l'on ferme ci, que l'on ferme ça,"
+    },
+    {
+      "id": 3,
+      "start": 20.86,
+      "end": 26.18,
+      "start_timestamp": "00:00:20.860",
+      "end_timestamp": "00:00:26.180",
+      "text": "que l'on ferme des commissaires de police, que l'on ferme des hôpitaux, que l'on ne remplace plus un fonctionnaire sur deux."
+    },
+    {
+      "id": 4,
+      "start": 26.18,
+      "end": 30.42,
+      "start_timestamp": "00:00:26.180",
+      "end_timestamp": "00:00:30.420",
+      "text": "Il y a des services de l'État que je ne nommerai pas qui sont dans un état de désorganisation complète,"
+    },
+    {
+      "id": 5,
+      "start": 30.42,
+      "end": 35.06,
+      "start_timestamp": "00:00:30.420",
+      "end_timestamp": "00:00:35.060",
+      "text": "parce qu'on ne peut plus. On n'a plus les personnels nécessaires pour appliquer toutes les réglementations."
+    },
+    {
+      "id": 6,
+      "start": 35.06,
+      "end": 38.78,
+      "start_timestamp": "00:00:35.060",
+      "end_timestamp": "00:00:38.780",
+      "text": "Alors certains disent... Il y a aussi tout un discours ultralibéral qui consiste à dire..."
+    },
+    {
+      "id": 7,
+      "start": 38.78,
+      "end": 42.14,
+      "start_timestamp": "00:00:38.780",
+      "end_timestamp": "00:00:42.140",
+      "text": "Mais de toute façon, il y a beaucoup trop de réglementations. Tout ça, c'est les énarques, les énarques, les énarques."
+    },
+    {
+      "id": 8,
+      "start": 42.14,
+      "end": 47.42,
+      "start_timestamp": "00:00:42.140",
+      "end_timestamp": "00:00:47.420",
+      "text": "Il y en a assez, les énarques. Je ne suis pas là pour défendre les énarques. Je dis celui-là simplement pour faire préciser"
+    },
+    {
+      "id": 9,
+      "start": 47.42,
+      "end": 52.74,
+      "start_timestamp": "00:00:47.420",
+      "end_timestamp": "00:00:52.740",
+      "text": "que la grande majorité d'ailleurs... Enfin beaucoup de ces réglementations et en nombre croissant viennent justement"
+    },
+    {
+      "id": 10,
+      "start": 52.74,
+      "end": 59.3,
+      "start_timestamp": "00:00:52.740",
+      "end_timestamp": "00:00:59.300",
+      "text": "de l'UE. Elles sont obligatoirement transposées en droits français. Or, l'UE n'est pas peuplée d'énarques. C'est moins qu'en piznières."
+    },
+    {
+      "id": 11,
+      "start": 59.3,
+      "end": 69.14,
+      "start_timestamp": "00:00:59.300",
+      "end_timestamp": "00:01:09.140",
+      "text": "M. Barroso et tous les commissaires européens, il n'y en a pas celles qui soient énarques. Donc cette réglementation est par ailleurs,"
+    },
+    {
+      "id": 12,
+      "start": 69.14,
+      "end": 77.1,
+      "start_timestamp": "00:01:09.140",
+      "end_timestamp": "00:01:17.100",
+      "text": "dans un certain nombre de cas, elle est quand même justifiée. Elle répond dans la grande majorité des cas à des besoins."
+    },
+    {
+      "id": 13,
+      "start": 77.1,
+      "end": 82.02,
+      "start_timestamp": "00:01:17.100",
+      "end_timestamp": "00:01:22.020",
+      "text": "En attendant donc, on désorganise les services de l'État et tout ça pour écrire des économies qui sont des économies"
+    },
+    {
+      "id": 14,
+      "start": 82.02,
+      "end": 91.14,
+      "start_timestamp": "00:01:22.020",
+      "end_timestamp": "00:01:31.140",
+      "text": "de boue de chandelle par rapport au reste. Vous vous rappelez peut-être que M. de Villepin, Premier ministre, a vendu des autoroutes françaises."
+    },
+    {
+      "id": 15,
+      "start": 91.14,
+      "end": 98.3,
+      "start_timestamp": "00:01:31.140",
+      "end_timestamp": "00:01:38.300",
+      "text": "Ça a rapporté 11 milliards d'euros à la France. Alors maintenant, quand vous prenez l'autoroute, à chaque fois que vous passez un péage,"
+    },
+    {
+      "id": 16,
+      "start": 98.3,
+      "end": 111.38,
+      "start_timestamp": "00:01:38.300",
+      "end_timestamp": "00:01:51.380",
+      "text": "il y a une petite partie de votre péage qui va abonder les revenus de Mme Jackson. She's retired. C'est une retraitée au bord"
+    },
+    {
+      "id": 17,
+      "start": 111.38,
+      "end": 120.26,
+      "start_timestamp": "00:01:51.380",
+      "end_timestamp": "00:02:00.260",
+      "text": "de sa swimming pool, San Diego, California, parce qu'elle a relacé sa retraite dans un fonds de pension qui a pris une participation"
+    },
+    {
+      "id": 18,
+      "start": 120.26,
+      "end": 126.78,
+      "start_timestamp": "00:02:00.260",
+      "end_timestamp": "00:02:06.780",
+      "text": "dans Vinci, qui est maintenant le propriétaire des autoroutes. C'est comme ça que ça se passe chez McDonald's. Donc il faut bien comprendre"
+    },
+    {
+      "id": 19,
+      "start": 126.78,
+      "end": 134.46,
+      "start_timestamp": "00:02:06.780",
+      "end_timestamp": "00:02:14.460",
+      "text": "que l'on vend notre patrimoine public pour effacer de façon totalement marginale une dette publique colossale,"
+    },
+    {
+      "id": 20,
+      "start": 134.46,
+      "end": 141.38,
+      "start_timestamp": "00:02:14.460",
+      "end_timestamp": "00:02:21.380",
+      "text": "mais que ce patrimoine qu'on a vendu, c'est vraiment une escroquerie générale, puisque ce patrimoine rapporte tous les ans"
+    },
+    {
+      "id": 21,
+      "start": 141.38,
+      "end": 150.98,
+      "start_timestamp": "00:02:21.380",
+      "end_timestamp": "00:02:30.980",
+      "text": "de l'argent à leurs actionnaires. Vous comprenez le truc ? Si on n'avait pas vendu les autoroutes, au lieu d'avoir – je sais plus combien –"
+    },
+    {
+      "id": 22,
+      "start": 150.98,
+      "end": 158.54,
+      "start_timestamp": "00:02:30.980",
+      "end_timestamp": "00:02:38.540",
+      "text": "de centaines de milliards d'euros de dette, on pourrait en mettre à peu près à 2 000 milliards d'euros de dette publique en France."
+    },
+    {
+      "id": 23,
+      "start": 158.54,
+      "end": 167.34,
+      "start_timestamp": "00:02:38.540",
+      "end_timestamp": "00:02:47.340",
+      "text": "On en aurait 2011. Bon. Ça ne changerait rien, sauf que les autoroutes, ça serait quand même encore à nous. Voilà."
+    },
+    {
+      "id": 24,
+      "start": 167.34,
+      "end": 184.34,
+      "start_timestamp": "00:02:47.340",
+      "end_timestamp": "00:03:04.340",
+      "text": "Donc là, je viens donc vous le montrer. Oui, c'était ça. Voilà. Les économies réalisées par la RGPP ont été de 11,9 milliards d'euros"
+    },
+    {
+      "id": 25,
+      "start": 184.34,
+      "end": 193.43,
+      "start_timestamp": "00:03:04.340",
+      "end_timestamp": "00:03:13.430",
+      "text": "sur 4 ans. La hausse de la dette publique a été de 600 milliards d'euros. Ça veut dire qu'il y a quand même un truc qui cloche quelque part."
+    },
+    {
+      "id": 26,
+      "start": 193.43,
+      "end": 200.67,
+      "start_timestamp": "00:03:13.430",
+      "end_timestamp": "00:03:20.670",
+      "text": "C'est la raison n°2 de sortir de l'Europe. Il faut redonner à la Banque de France son pouvoir de financement d'État et des collectivités publiques,"
+    },
+    {
+      "id": 27,
+      "start": 200.67,
+      "end": 208.47,
+      "start_timestamp": "00:03:20.670",
+      "end_timestamp": "00:03:28.470",
+      "text": "ce qui impose de dénoncer juridiquement l'article 123 du TFUE. Et je précise que le pouvoir politique que j'ai créé,"
+    },
+    {
+      "id": 28,
+      "start": 208.47,
+      "end": 219.15,
+      "start_timestamp": "00:03:28.470",
+      "end_timestamp": "00:03:39.150",
+      "text": "le mouvement que j'ai créé, propose que les Français soient consultés au niveau national à l'issue d'un grand débat national,"
+    },
+    {
+      "id": 29,
+      "start": 219.15,
+      "end": 226.43,
+      "start_timestamp": "00:03:39.150",
+      "end_timestamp": "00:03:46.430",
+      "text": "où tout le monde pourra exprimer ses vues, y compris et surtout les vues hétérodoxes. Je rappelle notamment que le seul prix Nobel"
+    },
+    {
+      "id": 30,
+      "start": 226.43,
+      "end": 240.95,
+      "start_timestamp": "00:03:46.430",
+      "end_timestamp": "00:04:00.950",
+      "text": "d'économie française, qui a été barré d'accès aux médias jusqu'à son décès, Maurice Halley, qui avait des vues totalement hétérodoxes..."
+    },
+    {
+      "id": 31,
+      "start": 240.95,
+      "end": 251.07,
+      "start_timestamp": "00:04:00.950",
+      "end_timestamp": "00:04:11.070",
+      "text": "Donc nous, ce que nous voulons, c'est qu'il y ait un vrai débat qui soit placé sur le tapis, exactement à l'islandaise ou à l'argentine,"
+    },
+    {
+      "id": 32,
+      "start": 251.07,
+      "end": 256.51,
+      "start_timestamp": "00:04:11.070",
+      "end_timestamp": "00:04:16.510",
+      "text": "et que l'on voit avec les Français ce que l'on fait de cette dette publique, quitte d'ailleurs à ce que l'on reconnaisse que toute une partie"
+    },
+    {
+      "id": 33,
+      "start": 256.51,
+      "end": 262.27,
+      "start_timestamp": "00:04:16.510",
+      "end_timestamp": "00:04:22.270",
+      "text": "de cette dette est une dette qui est en partie infondée par des mécanismes qui n'auraient jamais lieu d'être."
+    },
+    {
+      "id": 34,
+      "start": 262.27,
+      "end": 273.47,
+      "start_timestamp": "00:04:22.270",
+      "end_timestamp": "00:04:33.470",
+      "text": "En tout cas, il faudrait faire un bilan déjà des services qui ont été fournis en échange des 600 milliards d'euros. Voilà ce que nous disons."
+    },
+    {
+      "id": 35,
+      "start": 273.47,
+      "end": 284.23,
+      "start_timestamp": "00:04:33.470",
+      "end_timestamp": "00:04:44.230",
+      "text": "Voilà. Je disais d'ailleurs hier au sujet de la Grèce. Vous avez vu par exemple qu'il y a 340... La Grèce avait une dette publique de 340 milliards d'euros."
+    },
+    {
+      "id": 36,
+      "start": 284.23,
+      "end": 292.67,
+      "start_timestamp": "00:04:44.230",
+      "end_timestamp": "00:04:52.670",
+      "text": "Et puis il y a eu un consensus entre les banques. Vous savez, dans ces négociations pour rendre la Grèce in bonis, ce qu'on dit..."
+    },
+    {
+      "id": 37,
+      "start": 292.67,
+      "end": 301.23,
+      "start_timestamp": "00:04:52.670",
+      "end_timestamp": "00:05:01.230",
+      "text": "Finalement, les banques ont fait un trait. On a dit que les banques ont fait un effort. Les banques ont fini par faire un trait sur 50 milliards d'euros,"
+    },
+    {
+      "id": 38,
+      "start": 301.23,
+      "end": 310.27,
+      "start_timestamp": "00:05:01.230",
+      "end_timestamp": "00:05:10.270",
+      "text": "60 milliards d'euros. Ben allons-donc. Mais si on fait des traits sur 50 ou 60 ou 80 milliards d'euros, c'est qu'il y a un petit problème."
+    },
+    {
+      "id": 39,
+      "start": 310.27,
+      "end": 315.19,
+      "start_timestamp": "00:05:10.270",
+      "end_timestamp": "00:05:15.190",
+      "text": "C'est ce que je disais hier. C'est comme si par exemple vous faites faire une réparation à un bien qui vous appartient."
+    },
+    {
+      "id": 40,
+      "start": 315.19,
+      "end": 323.59,
+      "start_timestamp": "00:05:15.190",
+      "end_timestamp": "00:05:23.590",
+      "text": "Vous apportez ça au réparateur. Et puis il vous dit... Ben voilà. Ça vous coûte 1850 €. Vous dites... Mais vous vous plaisantez ou quoi ?"
+    },
+    {
+      "id": 41,
+      "start": 323.59,
+      "end": 328.57,
+      "start_timestamp": "00:05:23.590",
+      "end_timestamp": "00:05:28.570",
+      "text": "Moi, je pensais que ça allait me coûter 50 €. Alors vous commencez à entrer en négociation. Puis il dit... Bon, oui. Je vous fais un prix."
+    },
+    {
+      "id": 42,
+      "start": 328.57,
+      "end": 340.57,
+      "start_timestamp": "00:05:28.570",
+      "end_timestamp": "00:05:40.570",
+      "text": "C'est pas 1850. En fait, la facture, ça sera 320 €. Vous dites... Ça n'a rien à cœur. Ça veut dire que ces sommes sont des sommes virtuelles."
+    },
+    {
+      "id": 43,
+      "start": 340.57,
+      "end": 347.41,
+      "start_timestamp": "00:05:40.570",
+      "end_timestamp": "00:05:47.410",
+      "text": "Voilà. La raison n°3, c'est qu'il faut sauver l'agriculture française et les agriculteurs français."
+    },
+    {
+      "id": 44,
+      "start": 347.41,
+      "end": 358.55,
+      "start_timestamp": "00:05:47.410",
+      "end_timestamp": "00:05:58.550",
+      "text": "Ça, c'est l'évolution du nombre d'agriculteurs français sur la période 1962-2006. En 1962, il y avait 3 millions d'agriculteurs français."
+    },
+    {
+      "id": 45,
+      "start": 358.55,
+      "end": 370.35,
+      "start_timestamp": "00:05:58.550",
+      "end_timestamp": "00:06:10.350",
+      "text": "En 1970-1971, ils étaient tombés à 1 600 000. 1 000 990 000. 627 000 à peu près en 2000. En 2008, ils étaient 540 000."
+    },
+    {
+      "id": 46,
+      "start": 370.35,
+      "end": 379.47,
+      "start_timestamp": "00:06:10.350",
+      "end_timestamp": "00:06:19.470",
+      "text": "On est tombés au-dessous de 500 000. Les prospectifs, c'est à horizon de 2030 peut-être 200 000 ou 300 000 agriculteurs."
+    },
+    {
+      "id": 47,
+      "start": 379.47,
+      "end": 387.75,
+      "start_timestamp": "00:06:19.470",
+      "end_timestamp": "00:06:27.750",
+      "text": "Alors bien entendu, nous ne sommes pas un mouvement de gens nostalgiques. Je suis bien conscient. Je ne suis pas totalement abruti."
+    },
+    {
+      "id": 48,
+      "start": 387.75,
+      "end": 399.07,
+      "start_timestamp": "00:06:27.750",
+      "end_timestamp": "00:06:39.070",
+      "text": "Je suis bien conscient qu'on appelle la transition des économies modernes, la peste tendentielle du nombre d'agriculteurs,"
+    },
+    {
+      "id": 49,
+      "start": 399.07,
+      "end": 405.63,
+      "start_timestamp": "00:06:39.070",
+      "end_timestamp": "00:06:45.630",
+      "text": "l'augmentation des services... Enfin de l'industrie d'abord, des services ensuite. Tout ça, ce sont des choses qui ne m'échappent pas."
+    },
+    {
+      "id": 50,
+      "start": 405.63,
+      "end": 415.55,
+      "start_timestamp": "00:06:45.630",
+      "end_timestamp": "00:06:55.550",
+      "text": "Mais la France est quand même le grand pays agricole d'Europe. Il y a 2 grands pays agricoles en Europe depuis l'homme de Cro-Magnon."
+    },
+    {
+      "id": 51,
+      "start": 415.55,
+      "end": 426.15,
+      "start_timestamp": "00:06:55.550",
+      "end_timestamp": "00:07:06.150",
+      "text": "C'est la France et c'est l'Ukraine. Chacune a 2 bouts du continent européen. Et donc là, il ne s'agit plus de transition comme entourage économique."
+    },
+    {
+      "id": 52,
+      "start": 426.15,
+      "end": 435.03,
+      "start_timestamp": "00:07:06.150",
+      "end_timestamp": "00:07:15.030",
+      "text": "Il s'agit de disparition. Il s'agit de passer sous un seuil qui est un seuil quasiment d'inexistence. On est en train de suivre"
+    },
+    {
+      "id": 53,
+      "start": 435.03,
+      "end": 443.35,
+      "start_timestamp": "00:07:15.030",
+      "end_timestamp": "00:07:23.350",
+      "text": "un schéma à l'anglaise. Si vous allez en Angleterre, il n'y a plus d'agriculteurs du tout. Vous avez des pelouses. Voilà."
+    },
+    {
+      "id": 54,
+      "start": 443.35,
+      "end": 449.27,
+      "start_timestamp": "00:07:23.350",
+      "end_timestamp": "00:07:29.270",
+      "text": "Vous avez des choses comme ça. Donc la question qui se pose, c'est est-ce que vraiment on va aller vers une destruction totale"
+    },
+    {
+      "id": 55,
+      "start": 449.27,
+      "end": 457.79,
+      "start_timestamp": "00:07:29.270",
+      "end_timestamp": "00:07:37.790",
+      "text": "de l'agriculture en France, ou alors selon le schéma favorisé par la construction européenne, qui veut nous imposer un schéma à l'américaine,"
+    },
+    {
+      "id": 56,
+      "start": 457.79,
+      "end": 465.15,
+      "start_timestamp": "00:07:37.790",
+      "end_timestamp": "00:07:45.150",
+      "text": "c'est-à-dire en fait d'avoir transformé la France en Oklahoma ou en Saskatchewan, la grande province de l'Ouest canadien,"
+    },
+    {
+      "id": 57,
+      "start": 465.15,
+      "end": 471.59,
+      "start_timestamp": "00:07:45.150",
+      "end_timestamp": "00:07:51.590",
+      "text": "avec des exploitations absolument gigantesques, avec des contraintes de rentabilité, puisque c'est de ça qu'il s'agit."
+    },
+    {
+      "id": 58,
+      "start": 471.59,
+      "end": 477.59,
+      "start_timestamp": "00:07:51.590",
+      "end_timestamp": "00:07:57.590",
+      "text": "Et nous sommes... Les évolutions du monde agricole découlent tout à fait directement des traités européens."
+    },
+    {
+      "id": 59,
+      "start": 477.59,
+      "end": 484.75,
+      "start_timestamp": "00:07:57.590",
+      "end_timestamp": "00:08:04.750",
+      "text": "Le TFUE, nous sommes l'empire duquel nous sommes, précise dans sa rubrique sur l'agriculture et la pêche son article 32,"
+    },
+    {
+      "id": 60,
+      "start": 484.75,
+      "end": 492.55,
+      "start_timestamp": "00:08:04.750",
+      "end_timestamp": "00:08:12.550",
+      "text": "« L'Union définie et met en œuvre une politique commune de l'agriculture et de la pêche. Le marché intérieur s'étend à l'agriculture »."
+    },
+    {
+      "id": 61,
+      "start": 492.55,
+      "end": 499.27,
+      "start_timestamp": "00:08:12.550",
+      "end_timestamp": "00:08:19.270",
+      "text": "Le marché intérieur s'étend à l'agriculture. Ça veut dire qu'il ne peut pas y avoir de frontière à la circulation des produits agricoles"
+    },
+    {
+      "id": 62,
+      "start": 499.27,
+      "end": 507.35,
+      "start_timestamp": "00:08:19.270",
+      "end_timestamp": "00:08:27.350",
+      "text": "à l'intérieur de ce marché commun. C'est ce qu'il y a déjà. L'entrée de l'Espagne et du Portugal a déjà donné un coup terrible"
+    },
+    {
+      "id": 63,
+      "start": 507.35,
+      "end": 512.83,
+      "start_timestamp": "00:08:27.350",
+      "end_timestamp": "00:08:32.830",
+      "text": "à l'agriculture française, quoi qu'on en dise, quoi qu'on en dise. J'en disais, mais oui, finalement, on a bien..."
+    },
+    {
+      "id": 64,
+      "start": 512.83,
+      "end": 517.19,
+      "start_timestamp": "00:08:32.830",
+      "end_timestamp": "00:08:37.190",
+      "text": "Parce que j'ai entendu des européistes qui disent... Oui, oui, il y en avait qui avaient peur de l'entrée de l'Espagne et du Portugal."
+    },
+    {
+      "id": 65,
+      "start": 517.19,
+      "end": 523.59,
+      "start_timestamp": "00:08:37.190",
+      "end_timestamp": "00:08:43.590",
+      "text": "Ça s'est passé. Ça s'est très bien passé. Non, ça s'est pas très bien passé du tout. Non. Tout le monde n'est pas mort, ça, c'est sûr."
+    },
+    {
+      "id": 66,
+      "start": 523.59,
+      "end": 528.99,
+      "start_timestamp": "00:08:43.590",
+      "end_timestamp": "00:08:48.990",
+      "text": "C'est comme dans la fête de la Fontaine. Mais tous étaient touchés. C'est-à-dire qu'effectivement, c'est corrélé avec la disparition"
+    },
+    {
+      "id": 67,
+      "start": 528.99,
+      "end": 534.21,
+      "start_timestamp": "00:08:48.990",
+      "end_timestamp": "00:08:54.210",
+      "text": "d'un grand nombre d'agriculteurs. Et puis de toute façon, il n'y a plus que ça maintenant, parce que ce n'est plus la seule raison."
+    },
+    {
+      "id": 68,
+      "start": 534.21,
+      "end": 541.99,
+      "start_timestamp": "00:08:54.210",
+      "end_timestamp": "00:09:01.990",
+      "text": "Il y a également – n'est-ce pas – le fait que l'article 39, la politique agricole commune a pour but d'accroître la productivité"
+    },
+    {
+      "id": 69,
+      "start": 541.99,
+      "end": 547.59,
+      "start_timestamp": "00:09:01.990",
+      "end_timestamp": "00:09:07.590",
+      "text": "de l'agriculture en développant le progrès technique, en assurant le développement traditionnel de la production agricole,"
+    },
+    {
+      "id": 70,
+      "start": 547.59,
+      "end": 554.43,
+      "start_timestamp": "00:09:07.590",
+      "end_timestamp": "00:09:14.430",
+      "text": "ainsi qu'un emploi optimum des facteurs de production, notamment de la main-d'œuvre. Ce qu'il est important de comprendre,"
+    },
+    {
+      "id": 71,
+      "start": 554.43,
+      "end": 563.43,
+      "start_timestamp": "00:09:14.430",
+      "end_timestamp": "00:09:23.430",
+      "text": "c'est que les traités européens auraient pu par exemple dire qu'il fallait que l'agriculture, les objectifs de l'agriculture dans les pays de l'Europe"
+    },
+    {
+      "id": 72,
+      "start": 563.43,
+      "end": 572.35,
+      "start_timestamp": "00:09:23.430",
+      "end_timestamp": "00:09:32.350",
+      "text": "soient l'autosuffisance alimentaire. Ça aurait pu être un objectif. C'est d'ailleurs un objectif que tous les chefs, tous les hommes d'État..."
+    },
+    {
+      "id": 73,
+      "start": 572.35,
+      "end": 577.63,
+      "start_timestamp": "00:09:32.350",
+      "end_timestamp": "00:09:37.630",
+      "text": "On en est singulièrement dépourvus. Mais que tous les hommes d'État, tout au long de l'histoire de tous les pays du monde,"
+    },
+    {
+      "id": 74,
+      "start": 577.63,
+      "end": 584.31,
+      "start_timestamp": "00:09:37.630",
+      "end_timestamp": "00:09:44.310",
+      "text": "se sont toujours à l'esprit. Nul ne sait de quoi l'avenir est fin. Il est très important qu'un pays puisse être sûr à tout instant"
+    },
+    {
+      "id": 75,
+      "start": 584.31,
+      "end": 593.03,
+      "start_timestamp": "00:09:44.310",
+      "end_timestamp": "00:09:53.030",
+      "text": "de pouvoir nourrir son propre peuple, surtout quand on est un pays agricole comme la France. Ça, c'est complètement perdu de vue."
+    },
+    {
+      "id": 76,
+      "start": 593.03,
+      "end": 600.07,
+      "start_timestamp": "00:09:53.030",
+      "end_timestamp": "00:10:00.070",
+      "text": "Ce qui est perdu de vue, c'est également le respect par exemple des terroirs, le respect d'une certaine identité,"
+    },
+    {
+      "id": 77,
+      "start": 600.07,
+      "end": 607.35,
+      "start_timestamp": "00:10:00.070",
+      "end_timestamp": "00:10:07.350",
+      "text": "d'une certaine qualité de vie auxquelles les populations sont attachées. Le respect de... Par exemple, je ne sais pas."
+    },
+    {
+      "id": 78,
+      "start": 607.35,
+      "end": 614.43,
+      "start_timestamp": "00:10:07.350",
+      "end_timestamp": "00:10:14.430",
+      "text": "Alors évidemment, on fait mousser les appellations d'origine contrôlée et ce genre de choses. Mais ça n'est qu'un cache-chex,"
+    },
+    {
+      "id": 79,
+      "start": 614.43,
+      "end": 621.51,
+      "start_timestamp": "00:10:14.430",
+      "end_timestamp": "00:10:21.510",
+      "text": "pas ses moyens d'expression, une espèce de stratégie de niche, comme on dit. Mais la réalité de l'agriculture, c'est qu'elle disparaît"
+    },
+    {
+      "id": 80,
+      "start": 621.51,
+      "end": 627.63,
+      "start_timestamp": "00:10:21.510",
+      "end_timestamp": "00:10:27.630",
+      "text": "à toute allure, d'autant plus qu'on n'a pas seulement mis en contact avec les productions agricoles d'Espagne et du Portugal,"
+    },
+    {
+      "id": 81,
+      "start": 627.63,
+      "end": 635.43,
+      "start_timestamp": "00:10:27.630",
+      "end_timestamp": "00:10:35.430",
+      "text": "mais également avec les productions agricoles du monde entier. Donc le triste bilan de la politique agricole depuis 30 ans,"
+    },
+    {
+      "id": 82,
+      "start": 635.43,
+      "end": 642.51,
+      "start_timestamp": "00:10:35.430",
+      "end_timestamp": "00:10:42.510",
+      "text": "c'est que l'UE met en concurrence frontale les agriculteurs non seulement de France avec les autres pays d'Europe, mais des pays d'Europe"
+    },
+    {
+      "id": 83,
+      "start": 642.51,
+      "end": 649.99,
+      "start_timestamp": "00:10:42.510",
+      "end_timestamp": "00:10:49.990",
+      "text": "avec ceux du monde entier au nom d'une vision ultralibérale, ce qui permet au grand groupe de la distribution et de l'agroalimentaire"
+    },
+    {
+      "id": 84,
+      "start": 649.99,
+      "end": 660.55,
+      "start_timestamp": "00:10:49.990",
+      "end_timestamp": "00:11:00.550",
+      "text": "d'imposer aux agriculteurs français des prix alignés sur les prix mondiaux. Ces prix sont la plupart du temps en dessous des coûts de production."
+    },
+    {
+      "id": 85,
+      "start": 660.55,
+      "end": 668.95,
+      "start_timestamp": "00:11:00.550",
+      "end_timestamp": "00:11:08.950",
+      "text": "Au cours des 40 dernières années, les prix des produits agricoles français ont baissé de moins 60% par an... Pas par an."
+    },
+    {
+      "id": 86,
+      "start": 668.95,
+      "end": 676.39,
+      "start_timestamp": "00:11:08.950",
+      "end_timestamp": "00:11:16.390",
+      "text": "Au cours des 40 dernières années, de moins 60% en monnaie constante. Et actuellement, 40% des paysans français ont désormais un revenu inférieur"
+    },
+    {
+      "id": 87,
+      "start": 676.39,
+      "end": 684.67,
+      "start_timestamp": "00:11:16.390",
+      "end_timestamp": "00:11:24.670",
+      "text": "au SMIC, avec en plus le taux de change de l'euro, qui aggrave le mal à toute allure. Le résultat, c'est que vous savez..."
+    },
+    {
+      "id": 88,
+      "start": 684.67,
+      "end": 694.95,
+      "start_timestamp": "00:11:24.670",
+      "end_timestamp": "00:11:34.950",
+      "text": "Vous ne savez pas que nous comptons en France 4 à 500 suicides d'agriculteurs par an, c'est-à-dire plus de 1 par jour."
+    },
+    {
+      "id": 89,
+      "start": 694.95,
+      "end": 702.39,
+      "start_timestamp": "00:11:34.950",
+      "end_timestamp": "00:11:42.390",
+      "text": "Parfois, ça peut être des drames familiaux, si c'est entendu. Mais quand on en a 1,5 par jour, ça devient un phénomène statistique"
+    },
+    {
+      "id": 90,
+      "start": 702.39,
+      "end": 709.87,
+      "start_timestamp": "00:11:42.390",
+      "end_timestamp": "00:11:49.870",
+      "text": "qui n'est plus uniquement corrélé à des peines de cœur. C'est autre chose qui se passe. Cette autre chose, c'est qu'on est en train de tuer"
+    },
+    {
+      "id": 91,
+      "start": 709.87,
+      "end": 717.35,
+      "start_timestamp": "00:11:49.870",
+      "end_timestamp": "00:11:57.350",
+      "text": "ce qui faisait la France de toujours, si j'ose dire, c'est-à-dire le monde agricole, qui se trouve placé dans une situation"
+    },
+    {
+      "id": 92,
+      "start": 717.35,
+      "end": 724.15,
+      "start_timestamp": "00:11:57.350",
+      "end_timestamp": "00:12:04.150",
+      "text": "qui est à la fois financière et psychologique de plus en plus intolérable. Parce qu'on les met en concurrence"
+    },
+    {
+      "id": 93,
+      "start": 724.15,
+      "end": 732.91,
+      "start_timestamp": "00:12:04.150",
+      "end_timestamp": "00:12:12.910",
+      "text": "avec des productions du Saskatchewan, de l'Arkansas, de l'Oklahoma, ou avec les productions à contre-saison venues du Chili,"
+    },
+    {
+      "id": 94,
+      "start": 732.91,
+      "end": 738.47,
+      "start_timestamp": "00:12:12.910",
+      "end_timestamp": "00:12:18.470",
+      "text": "d'Afrique du Sud, etc. Bien. Ça se fait une baisse du revenu à l'hectare. C'est vrai aussi en matière de vin."
+    },
+    {
+      "id": 95,
+      "start": 738.47,
+      "end": 744.87,
+      "start_timestamp": "00:12:18.470",
+      "end_timestamp": "00:12:24.870",
+      "text": "Maintenant, dans tous les supermarchés, vous avez du vin venu de Californie, venu de l'Australie, du Chili."
+    },
+    {
+      "id": 96,
+      "start": 744.87,
+      "end": 754.59,
+      "start_timestamp": "00:12:24.870",
+      "end_timestamp": "00:12:34.590",
+      "text": "Puis vous avez naturellement... On fait valoir les goûts américains pour changer également le goût des produits, etc. Bien."
+    },
+    {
+      "id": 97,
+      "start": 754.59,
+      "end": 763.31,
+      "start_timestamp": "00:12:34.590",
+      "end_timestamp": "00:12:43.310",
+      "text": "Donc on a la baisse du revenu à l'hectare à provoquer la disparition accélérée du nombre d'exploitations, et donc de nos agriculteurs."
+    },
+    {
+      "id": 98,
+      "start": 763.31,
+      "end": 772.67,
+      "start_timestamp": "00:12:43.310",
+      "end_timestamp": "00:12:52.670",
+      "text": "Deuxièmement, puisqu'on a une course à la rentabilité qui est réclamée par l'UE... C'était l'article 32 dont je vous parlais à l'instant, et 39."
+    },
+    {
+      "id": 99,
+      "start": 772.67,
+      "end": 778.79,
+      "start_timestamp": "00:12:52.670",
+      "end_timestamp": "00:12:58.790",
+      "text": "Le seul critérium, c'est justement la rentabilité, et également l'utilisation optimum de la main-d'œuvre,"
+    },
+    {
+      "id": 100,
+      "start": 778.79,
+      "end": 785.11,
+      "start_timestamp": "00:12:58.790",
+      "end_timestamp": "00:13:05.110",
+      "text": "c'est-à-dire avoir recours à une main-d'œuvre immigrée payée avec des lance-pières. Eh bien on va avoir donc une course"
+    },
+    {
+      "id": 101,
+      "start": 785.11,
+      "end": 790.83,
+      "start_timestamp": "00:13:05.110",
+      "end_timestamp": "00:13:10.830",
+      "text": "au rendement, à l'agrandissement des exploitations, donc la perte des terroirs et de l'entretien des paysages."
+    },
+    {
+      "id": 102,
+      "start": 790.83,
+      "end": 796.91,
+      "start_timestamp": "00:13:10.830",
+      "end_timestamp": "00:13:16.910",
+      "text": "Pour tenter de survivre, beaucoup d'agriculteurs tentent de se réfugier dans des stratégies de niche avec des produits de haut de gamme"
+    },
+    {
+      "id": 103,
+      "start": 796.91,
+      "end": 802.79,
+      "start_timestamp": "00:13:16.910",
+      "end_timestamp": "00:13:22.790",
+      "text": "ou des produits bio. Alors parfois, ça marche. Ça n'est d'ailleurs pas désagréable. Il peut y avoir de très bons produits bio"
+    },
+    {
+      "id": 104,
+      "start": 802.79,
+      "end": 813.23,
+      "start_timestamp": "00:13:22.790",
+      "end_timestamp": "00:13:33.230",
+      "text": "ou des produits de... Moi, je suis amateur de cuisine. Ça se voit un peu trop, d'ailleurs. Donc on peut avoir des produits de qualité."
+    },
+    {
+      "id": 105,
+      "start": 813.23,
+      "end": 820.19,
+      "start_timestamp": "00:13:33.230",
+      "end_timestamp": "00:13:40.190",
+      "text": "Mais c'est une solution quand même qui ne peut concerner le plus grand nombre. Le plus grand nombre, il disparaît, purement et simplement."
+    },
+    {
+      "id": 106,
+      "start": 820.19,
+      "end": 827.63,
+      "start_timestamp": "00:13:40.190",
+      "end_timestamp": "00:13:47.630",
+      "text": "Et puis on a également une augmentation faramineuse de l'utilisation des engrais et des pesticides, du moins dans certaines régions"
+    },
+    {
+      "id": 107,
+      "start": 827.63,
+      "end": 833.95,
+      "start_timestamp": "00:13:47.630",
+      "end_timestamp": "00:13:53.950",
+      "text": "et pour certaines productions. On va peut-être en utiliser moins pour certaines productions que pour d'autres."
+    },
+    {
+      "id": 108,
+      "start": 833.95,
+      "end": 841.39,
+      "start_timestamp": "00:13:53.950",
+      "end_timestamp": "00:14:01.390",
+      "text": "Alors bien sûr, certes, on me dit « oui, maintenant, on s'oriente vers des fermes bio, vers un plus grand respect"
+    },
+    {
+      "id": 109,
+      "start": 841.39,
+      "end": 848.15,
+      "start_timestamp": "00:14:01.390",
+      "end_timestamp": "00:14:08.150",
+      "text": "sur le concept d'agriculture raisonnée », comme vous le connaissez, qui sont – je pense – la voie du progrès."
+    },
+    {
+      "id": 110,
+      "start": 848.15,
+      "end": 853.87,
+      "start_timestamp": "00:14:08.150",
+      "end_timestamp": "00:14:13.870",
+      "text": "Mais tout ceci, c'est encore une fois la partie émergée de l'iceberg. La réalité, c'est quand même ceci."
+    },
+    {
+      "id": 111,
+      "start": 853.87,
+      "end": 862.27,
+      "start_timestamp": "00:14:13.870",
+      "end_timestamp": "00:14:22.270",
+      "text": "C'est qu'en même, on est obligé d'avoir une agriculture de masse. Sinon, on disparaît selon les canons venus de Washington."
+    },
+    {
+      "id": 112,
+      "start": 862.27,
+      "end": 870.95,
+      "start_timestamp": "00:14:22.270",
+      "end_timestamp": "00:14:30.950",
+      "text": "Le pire de tout, c'est qu'au même moment, le prix de vente au consommateur ne baisse pas. Ça permet aux grandes chaînes de distribution"
+    },
+    {
+      "id": 113,
+      "start": 870.95,
+      "end": 877.67,
+      "start_timestamp": "00:14:30.950",
+      "end_timestamp": "00:14:37.670",
+      "text": "d'augmenter leur profit. C'est de ça qu'il se passe. C'est que vous avez un phénomène de ciseaux qui s'ouvrent."
+    },
+    {
+      "id": 114,
+      "start": 877.67,
+      "end": 884.67,
+      "start_timestamp": "00:14:37.670",
+      "end_timestamp": "00:14:44.670",
+      "text": "D'une part, les agriculteurs gagnent de moins en moins d'argent à l'hectare. Ils sont donc obligés de faire tout ce que je viens de dire."
+    },
+    {
+      "id": 115,
+      "start": 884.67,
+      "end": 891.37,
+      "start_timestamp": "00:14:44.670",
+      "end_timestamp": "00:14:51.370",
+      "text": "Et d'autre part, les consommateurs, eux, ne voient pas du tout baisser le prix dans les hypermarchés. Alors quel est le mystère ?"
+    },
+    {
+      "id": 116,
+      "start": 891.37,
+      "end": 897.51,
+      "start_timestamp": "00:14:51.370",
+      "end_timestamp": "00:14:57.510",
+      "text": "Le mystère, il est très simple. C'est qu'au bout du compte, la politique agricole commune s'est progressivement dénaturée"
+    },
+    {
+      "id": 117,
+      "start": 897.51,
+      "end": 907.43,
+      "start_timestamp": "00:14:57.510",
+      "end_timestamp": "00:15:07.430",
+      "text": "et est devenue un instrument au bénéfice quasiment exclusif des groupes financiers qui contrôlent l'agroalimentaire et la distribution"
+    },
+    {
+      "id": 118,
+      "start": 907.43,
+      "end": 913.19,
+      "start_timestamp": "00:15:07.430",
+      "end_timestamp": "00:15:13.190",
+      "text": "au détriment de l'agriculture et des agriculteurs. C'est ce qui explique d'ailleurs que très régulièrement, il y a l'été..."
+    },
+    {
+      "id": 119,
+      "start": 913.19,
+      "end": 921.51,
+      "start_timestamp": "00:15:13.190",
+      "end_timestamp": "00:15:21.510",
+      "text": "Vous savez, des agriculteurs qui brûlent leur production, qui brûlent des pneus, qui font le siège par exemple de tous ces hypermarchés"
+    },
+    {
+      "id": 120,
+      "start": 921.51,
+      "end": 927.41,
+      "start_timestamp": "00:15:21.510",
+      "end_timestamp": "00:15:27.410",
+      "text": "en centre-ville qui se sont développés comme les champignons après la pluie au cours des 40 dernières années en France."
+    },
+    {
+      "id": 121,
+      "start": 927.41,
+      "end": 934.81,
+      "start_timestamp": "00:15:27.410",
+      "end_timestamp": "00:15:34.810",
+      "text": "Et maintenant, vous savez, l'été en France... Moi, j'ai une maison de campagne dans la Nièvre. Mais comme je vais à l'hypermarché de Cônes-sur-Loire,"
+    },
+    {
+      "id": 122,
+      "start": 934.81,
+      "end": 941.37,
+      "start_timestamp": "00:15:34.810",
+      "end_timestamp": "00:15:41.370",
+      "text": "on voit souvent des productions qui viennent de l'autre bout du monde, alors qu'il y a des agriculteurs qui font les mêmes à 20 km. Voilà."
+    },
+    {
+      "id": 123,
+      "start": 941.37,
+      "end": 946.97,
+      "start_timestamp": "00:15:41.370",
+      "end_timestamp": "00:15:46.970",
+      "text": "Alors c'est vrai que depuis quelque temps, il y a eu une tentative avec certaines chaînes de distribution."
+    },
+    {
+      "id": 124,
+      "start": 946.97,
+      "end": 953.55,
+      "start_timestamp": "00:15:46.970",
+      "end_timestamp": "00:15:53.550",
+      "text": "Et puis les pouvoirs publics ont essayé d'imposer qu'il y ait des rayons où l'on propose des productions locales,"
+    },
+    {
+      "id": 125,
+      "start": 953.55,
+      "end": 959.31,
+      "start_timestamp": "00:15:53.550",
+      "end_timestamp": "00:15:59.310",
+      "text": "avec des productions locales. Mais enfin tout ceci, c'est encore une fois un côté sur une jambe de bois,"
+    },
+    {
+      "id": 126,
+      "start": 959.31,
+      "end": 966.67,
+      "start_timestamp": "00:15:59.310",
+      "end_timestamp": "00:16:06.670",
+      "text": "puisque les réalités économiques qui sont imposées par le marché commun agricole et par l'orientation ultralibérale des traités européens,"
+    },
+    {
+      "id": 127,
+      "start": 966.67,
+      "end": 979.23,
+      "start_timestamp": "00:16:06.670",
+      "end_timestamp": "00:16:19.230",
+      "text": "poussent à une destruction progressive et rapide de notre modèle agricole. Un exemple des conséquences de la construction européenne."
+    },
+    {
+      "id": 128,
+      "start": 979.23,
+      "end": 986.53,
+      "start_timestamp": "00:16:19.230",
+      "end_timestamp": "00:16:26.530",
+      "text": "Dans la filière fruits et légumes, par exemple, ils ont besoin de beaucoup de main-d'œuvre à l'été. Bon. Les producteurs français sont placés"
+    },
+    {
+      "id": 129,
+      "start": 986.53,
+      "end": 1000.55,
+      "start_timestamp": "00:16:26.530",
+      "end_timestamp": "00:16:40.550",
+      "text": "dans une situation impossible. La législation française impose le SMIC, en gros, de 9 à 10 € de l'heure pour les ouvriers saisonniers."
+    },
+    {
+      "id": 130,
+      "start": 1000.55,
+      "end": 1006.61,
+      "start_timestamp": "00:16:40.550",
+      "end_timestamp": "00:16:46.610",
+      "text": "Or, les ouvriers saisonniers, c'est presque exclusivement travailler 9 à 10 € de l'heure pour ramasser par exemple des cerises"
+    },
+    {
+      "id": 131,
+      "start": 1006.61,
+      "end": 1013.49,
+      "start_timestamp": "00:16:46.610",
+      "end_timestamp": "00:16:53.490",
+      "text": "ou des choses comme ça dans les vergers. C'est presque exclusivement des salariés agricoles venus du Maghreb, de la Turquie"
+    },
+    {
+      "id": 132,
+      "start": 1013.49,
+      "end": 1020.33,
+      "start_timestamp": "00:16:53.490",
+      "end_timestamp": "00:17:00.330",
+      "text": "ou des pays de l'Est, de la Pologne, de l'Ukraine et de la Moldavie. Mais au même moment, le SMIC n'existe pas en Allemagne."
+    },
+    {
+      "id": 133,
+      "start": 1020.33,
+      "end": 1026.81,
+      "start_timestamp": "00:17:00.330",
+      "end_timestamp": "00:17:06.810",
+      "text": "En tout cas, il existe par branche, mais il n'existe pas dans l'agriculture, ce qui fait que les concurrents allemands, eux,"
+    },
+    {
+      "id": 134,
+      "start": 1026.81,
+      "end": 1035.21,
+      "start_timestamp": "00:17:06.810",
+      "end_timestamp": "00:17:15.210",
+      "text": "payent les mêmes ouvriers saisonniers 5 à 6 € de l'heure. Donc le résultat des courses françaises veut dire qu'il y a une distorsion de concurrence."
+    },
+    {
+      "id": 135,
+      "start": 1035.21,
+      "end": 1042.35,
+      "start_timestamp": "00:17:15.210",
+      "end_timestamp": "00:17:22.350",
+      "text": "Et donc qu'est-ce qu'ils font ? Les agriculteurs, la chambre d'agriculture qui s'occupe des questions de fruits et légumes,"
+    },
+    {
+      "id": 136,
+      "start": 1042.35,
+      "end": 1049.37,
+      "start_timestamp": "00:17:22.350",
+      "end_timestamp": "00:17:29.370",
+      "text": "la filière fruits et légumes avait saisi le Premier ministre M. Fillon en disant qu'il nous faut au moins des dédommagements."
+    },
+    {
+      "id": 137,
+      "start": 1049.37,
+      "end": 1056.11,
+      "start_timestamp": "00:17:29.370",
+      "end_timestamp": "00:17:36.110",
+      "text": "Et donc la France a voulu dédommager ces agriculteurs, ce qui revient à fonctionnaliser, les agriculteurs."
+    },
+    {
+      "id": 138,
+      "start": 1056.11,
+      "end": 1061.95,
+      "start_timestamp": "00:17:36.110",
+      "end_timestamp": "00:17:41.950",
+      "text": "Ça revient encore une fois à dénaturer leur métier au lieu qu'ils cultivent et qu'ils vivent du produit de leurs..."
+    },
+    {
+      "id": 139,
+      "start": 1061.95,
+      "end": 1070.23,
+      "start_timestamp": "00:17:41.950",
+      "end_timestamp": "00:17:50.230",
+      "text": "Il faut qu'ils partent dans des circuits labyrinthiques de papras et d'administrations pour essayer d'avoir de survivre."
+    },
+    {
+      "id": 140,
+      "start": 1070.23,
+      "end": 1078.95,
+      "start_timestamp": "00:17:50.230",
+      "end_timestamp": "00:17:58.950",
+      "text": "Et en plus de tout, bien naturellement, la Commission européenne a interdit à l'État de pallier cette distorsion de concurrence"
+    },
+    {
+      "id": 141,
+      "start": 1078.95,
+      "end": 1085.19,
+      "start_timestamp": "00:17:58.950",
+      "end_timestamp": "00:18:05.190",
+      "text": "par des aides aux agriculteurs en disant que c'était contraire à la libre concurrence, dont je vous ai rappelé que dans l'article 32,"
+    },
+    {
+      "id": 142,
+      "start": 1085.19,
+      "end": 1094.07,
+      "start_timestamp": "00:18:05.190",
+      "end_timestamp": "00:18:14.070",
+      "text": "eh bien il est prévu que les produits agricoles obéissent au système du marché intérieur. Le résultat de tout ça,"
+    },
+    {
+      "id": 143,
+      "start": 1094.07,
+      "end": 1103.95,
+      "start_timestamp": "00:18:14.070",
+      "end_timestamp": "00:18:23.950",
+      "text": "c'est qu'il n'y a pas 50 solutions. Ça veut dire que puisqu'on place les agriculteurs français dans une situation de concurrence"
+    },
+    {
+      "id": 144,
+      "start": 1103.95,
+      "end": 1111.23,
+      "start_timestamp": "00:18:23.950",
+      "end_timestamp": "00:18:31.230",
+      "text": "sans limite, avec par exemple les agriculteurs allemands sur cette filière... C'est un exemple qui montre au jour le jour"
+    },
+    {
+      "id": 145,
+      "start": 1111.23,
+      "end": 1118.67,
+      "start_timestamp": "00:18:31.230",
+      "end_timestamp": "00:18:38.670",
+      "text": "pourquoi la construction européenne est en train de nous détruire. Eh bien soit on maintient la législation française du SMIC"
+    },
+    {
+      "id": 146,
+      "start": 1118.67,
+      "end": 1125.47,
+      "start_timestamp": "00:18:38.670",
+      "end_timestamp": "00:18:45.470",
+      "text": "à 9, 10 € de l'heure... Pourquoi je suis ? Parce que j'estime qu'on n'a pas traité les gens comme des chiens,"
+    },
+    {
+      "id": 147,
+      "start": 1125.47,
+      "end": 1132.47,
+      "start_timestamp": "00:18:45.470",
+      "end_timestamp": "00:18:52.470",
+      "text": "et qu'il est toute peine mérite un salaire décent. Donc on maintient le SMIC à 10 € de l'heure. Et à ce moment-là,"
+    },
+    {
+      "id": 148,
+      "start": 1132.47,
+      "end": 1138.87,
+      "start_timestamp": "00:18:52.470",
+      "end_timestamp": "00:18:58.870",
+      "text": "on sombre, parce que ça n'existe pas en Allemagne. D'ailleurs, le modèle allemand dont on nous reballiserait en ce moment..."
+    },
+    {
+      "id": 149,
+      "start": 1138.87,
+      "end": 1144.23,
+      "start_timestamp": "00:18:58.870",
+      "end_timestamp": "00:19:04.230",
+      "text": "Vous savez qu'il y a quand même des gens très pauvres en Allemagne, et qui sont payés d'ailleurs de plus en plus avec des lances-pierres."
+    },
+    {
+      "id": 150,
+      "start": 1144.23,
+      "end": 1153.19,
+      "start_timestamp": "00:19:04.230",
+      "end_timestamp": "00:19:13.190",
+      "text": "Bon. Donc soit ça, soit eh bien on est obligé de supprimer le SMIC en France. On y va tout droit."
+    },
+    {
+      "id": 151,
+      "start": 1153.19,
+      "end": 1160.27,
+      "start_timestamp": "00:19:13.190",
+      "end_timestamp": "00:19:20.270",
+      "text": "Nous, nous proposons la troisième fois, c'est-à-dire de dire... Nous, on en sort. On sort de ce système."
+    },
+    {
+      "id": 152,
+      "start": 1160.27,
+      "end": 1168.99,
+      "start_timestamp": "00:19:20.270",
+      "end_timestamp": "00:19:28.990",
+      "text": "Nous avons le droit de vouloir maintenir notre identité. Nous, nous avons le droit de vouloir défendre un modèle"
+    },
+    {
+      "id": 153,
+      "start": 1168.99,
+      "end": 1179.19,
+      "start_timestamp": "00:19:28.990",
+      "end_timestamp": "00:19:39.190",
+      "text": "qui est à la fois un modèle agricole et un modèle social. La conclusion, c'est que l'agriculture française est sur la voie du déclin."
+    },
+    {
+      "id": 154,
+      "start": 1179.19,
+      "end": 1184.91,
+      "start_timestamp": "00:19:39.190",
+      "end_timestamp": "00:19:44.910",
+      "text": "L'agriculture française est dépassée désormais par l'agriculture allemande. C'est une chose qui aurait été inconcevable"
+    },
+    {
+      "id": 155,
+      "start": 1184.91,
+      "end": 1189.71,
+      "start_timestamp": "00:19:44.910",
+      "end_timestamp": "00:19:49.710",
+      "text": "il y a encore 5 ans. Les dégâts ne sont pas seulement financiers. Ils sont aussi d'ordre moral."
+    },
+    {
+      "id": 156,
+      "start": 1189.71,
+      "end": 1195.59,
+      "start_timestamp": "00:19:49.710",
+      "end_timestamp": "00:19:55.590",
+      "text": "La prolifération des réglementations européennes retirent aux agriculteurs, ce qui faisait l'un des attraits les plus forts de leur métier,"
+    },
+    {
+      "id": 157,
+      "start": 1195.59,
+      "end": 1203.11,
+      "start_timestamp": "00:19:55.590",
+      "end_timestamp": "00:20:03.110",
+      "text": "à savoir la liberté, liberté de travailler la terre comme ils le souhaitaient, d'utiliser les semences comme ils le voulaient."
+    },
+    {
+      "id": 158,
+      "start": 1203.11,
+      "end": 1208.91,
+      "start_timestamp": "00:20:03.110",
+      "end_timestamp": "00:20:08.910",
+      "text": "La construction européenne est ainsi en train de tuer financièrement, physiquement, mentalement le grenier agricole de l'Europe,"
+    },
+    {
+      "id": 159,
+      "start": 1208.91,
+      "end": 1215.39,
+      "start_timestamp": "00:20:08.910",
+      "end_timestamp": "00:20:15.390",
+      "text": "qui était la France depuis des siècles. Ça n'est pas pour rien qu'il y a 400 à 500 agriculteurs qui se suicident par an."
+    },
+    {
+      "id": 160,
+      "start": 1215.39,
+      "end": 1225.34,
+      "start_timestamp": "00:20:15.390",
+      "end_timestamp": "00:20:25.340",
+      "text": "On parlait à juste titre d'ailleurs des gens qui se suicident chez France Télécom. Mais on ne parle pas assez des agriculteurs qui se suicident."
+    },
+    {
+      "id": 161,
+      "start": 1225.34,
+      "end": 1232.94,
+      "start_timestamp": "00:20:25.340",
+      "end_timestamp": "00:20:32.940",
+      "text": "Donc c'est la raison n°3 de sortir de l'Europe. Si nous voulons que les agriculteurs français sauvent leur agriculture et leurs agriculteurs,"
+    },
+    {
+      "id": 162,
+      "start": 1232.94,
+      "end": 1240.06,
+      "start_timestamp": "00:20:32.940",
+      "end_timestamp": "00:20:40.060",
+      "text": "alors il faut que la France dénonce juridiquement plusieurs articles des traités européens, notamment les articles 32 et 39"
+    },
+    {
+      "id": 163,
+      "start": 1240.06,
+      "end": 1249.16,
+      "start_timestamp": "00:20:40.060",
+      "end_timestamp": "00:20:49.160",
+      "text": "du traité sur le fonctionnement de l'UE. Vous voyez comment est construite cette conférence. C'est qu'elle vous montre raison après raison"
+    },
+    {
+      "id": 164,
+      "start": 1249.16,
+      "end": 1257.36,
+      "start_timestamp": "00:20:49.160",
+      "end_timestamp": "00:20:57.360",
+      "text": "pourquoi nous avons raison de vouloir sortir de l'UE. Nos contradicteurs refusent tout débat avec moi,"
+    },
+    {
+      "id": 165,
+      "start": 1257.36,
+      "end": 1263.48,
+      "start_timestamp": "00:20:57.360",
+      "end_timestamp": "00:21:03.480",
+      "text": "d'abord parce que je connais les dossiers alors que souvent, ils ne connaissent rien, mais aussi parce qu'ils ont tout intérêt"
+    },
+    {
+      "id": 166,
+      "start": 1263.48,
+      "end": 1270.16,
+      "start_timestamp": "00:21:03.480",
+      "end_timestamp": "00:21:10.160",
+      "text": "à faire croire à la population française que vouloir sortir de l'Europe, ça serait être xénophobe, raciste, etc."
+    },
+    {
+      "id": 167,
+      "start": 1270.16,
+      "end": 1278.76,
+      "start_timestamp": "00:21:10.160",
+      "end_timestamp": "00:21:18.760",
+      "text": "Et on va agiter Mme Le Pen à chaque fois qu'il en ait besoin pour agiter l'épouvantail. Voilà. Mais le résultat des cours,"
+    },
+    {
+      "id": 168,
+      "start": 1278.76,
+      "end": 1286.88,
+      "start_timestamp": "00:21:18.760",
+      "end_timestamp": "00:21:26.880",
+      "text": "c'est qu'on ne débat jamais des sujets de fond. Donc les gens qui vous disent « Comment ça ? Vous voulez sortir de l'Europe ?"
+    },
+    {
+      "id": 169,
+      "start": 1286.88,
+      "end": 1291.64,
+      "start_timestamp": "00:21:26.880",
+      "end_timestamp": "00:21:31.640",
+      "text": "Vous êtes des nostalgiques et des ringages ? », je dis « Mais vous, vous voulez y rester ? ». Donc vous êtes directement responsables"
+    },
+    {
+      "id": 170,
+      "start": 1291.64,
+      "end": 1300.04,
+      "start_timestamp": "00:21:31.640",
+      "end_timestamp": "00:21:40.040",
+      "text": "du fait qu'il y a déjà rien qu'en matière agricole 500 agriculteurs qui se suicident tous les ans. Il faut renverser la charge de la preuve"
+    },
+    {
+      "id": 171,
+      "start": 1300.04,
+      "end": 1308.48,
+      "start_timestamp": "00:21:40.040",
+      "end_timestamp": "00:21:48.480",
+      "text": "et le sens moral. Les européistes n'ont pas le sens moral. C'est nous qui avons le sens moral. Ce sont des gens... D'ailleurs, il suffit de voir."
+    },
+    {
+      "id": 172,
+      "start": 1308.48,
+      "end": 1315.4,
+      "start_timestamp": "00:21:48.480",
+      "end_timestamp": "00:21:55.400",
+      "text": "Il suffit de voir ce qui se passe à Chypre. Il suffit de voir l'effondrement moral de la classe politique française,"
+    },
+    {
+      "id": 173,
+      "start": 1315.4,
+      "end": 1323.24,
+      "start_timestamp": "00:21:55.400",
+      "end_timestamp": "00:22:03.240",
+      "text": "avec ce ministre du budget qui faisait des conférences et des colloques pour lutter contre la fraude fiscale le 20 novembre 2012,"
+    },
+    {
+      "id": 174,
+      "start": 1323.24,
+      "end": 1332.54,
+      "start_timestamp": "00:22:03.240",
+      "end_timestamp": "00:22:12.540",
+      "text": "sachant qu'il était lui-même un grand fraudeur fiscal. Non mais il faut quand même... C'est pas drôle. Ça veut vraiment dire qu'il y a quand même un vice de fond."
+    },
+    {
+      "id": 175,
+      "start": 1332.54,
+      "end": 1341.6,
+      "start_timestamp": "00:22:12.540",
+      "end_timestamp": "00:22:21.600",
+      "text": "Ces gens n'ont aucune supériorité morale. C'est nous qui l'avons. C'est nous qui représentons le peuple français, ses intérêts légitimes,"
+    },
+    {
+      "id": 176,
+      "start": 1341.6,
+      "end": 1349.0,
+      "start_timestamp": "00:22:21.600",
+      "end_timestamp": "00:22:29.000",
+      "text": "qui représentons l'honnêteté intellectuelle, le regard bienveillant sur la France et sur le monde, comme je le montrerai tout à l'heure,"
+    },
+    {
+      "id": 177,
+      "start": 1349.0,
+      "end": 1356.52,
+      "start_timestamp": "00:22:29.000",
+      "end_timestamp": "00:22:36.520",
+      "text": "parce que par ailleurs, toute cette oligarchie est en train de nous entraîner vers la guerre. La raison n°4... J'ai parlé d'agriculture."
+    },
+    {
+      "id": 178,
+      "start": 1356.52,
+      "end": 1364.96,
+      "start_timestamp": "00:22:36.520",
+      "end_timestamp": "00:22:44.960",
+      "text": "Il faut que je parle aussi de l'industrie. Il faut sauver l'industrie française et nos emplois. Je rappelle que le traité"
+    },
+    {
+      "id": 179,
+      "start": 1364.96,
+      "end": 1371.88,
+      "start_timestamp": "00:22:44.960",
+      "end_timestamp": "00:22:51.880",
+      "text": "sur le fonctionnement de l'UE, il y a ce fameux article 63... Enfin « fameux ». C'est moi, je pense que je vais finir par le rendre fameux,"
+    },
+    {
+      "id": 180,
+      "start": 1371.88,
+      "end": 1378.76,
+      "start_timestamp": "00:22:51.880",
+      "end_timestamp": "00:22:58.760",
+      "text": "parce que comme j'en parle à toutes mes conférences, maintenant, ça commence à faire son petit bonhomme de chemin."
+    },
+    {
+      "id": 181,
+      "start": 1378.76,
+      "end": 1385.92,
+      "start_timestamp": "00:22:58.760",
+      "end_timestamp": "00:23:05.920",
+      "text": "Cet article 63 est tout à fait décisif. Cet article 63 dit que dans le cadre des dispositions du présent chapitre,"
+    },
+    {
+      "id": 182,
+      "start": 1385.92,
+      "end": 1390.8,
+      "start_timestamp": "00:23:05.920",
+      "end_timestamp": "00:23:10.800",
+      "text": "donc tout ce qui concerne les mouvements de capitaux et de paiement, toutes les restrictions au mouvement de capitaux"
+    },
+    {
+      "id": 183,
+      "start": 1390.8,
+      "end": 1399.94,
+      "start_timestamp": "00:23:10.800",
+      "end_timestamp": "00:23:19.940",
+      "text": "entre les États membres et entre les États membres et les pays tiers sont interdites. Alors ça nécessite d'y arrêter un instant,"
+    },
+    {
+      "id": 184,
+      "start": 1399.94,
+      "end": 1407.7,
+      "start_timestamp": "00:23:19.940",
+      "end_timestamp": "00:23:27.700",
+      "text": "parce que évidemment, je sais bien que lire des traités, lire du droit, ça n'est pas facile. C'est fait justement pour que"
+    },
+    {
+      "id": 185,
+      "start": 1407.7,
+      "end": 1414.06,
+      "start_timestamp": "00:23:27.700",
+      "end_timestamp": "00:23:34.060",
+      "text": "le grand public n'y comprenne pas grand-chose. Mais ça n'est pas si compliqué à comprendre. Regardez avec moi toutes les restrictions"
+    },
+    {
+      "id": 186,
+      "start": 1414.06,
+      "end": 1419.46,
+      "start_timestamp": "00:23:34.060",
+      "end_timestamp": "00:23:39.460",
+      "text": "au mouvement de capitaux entre les États membres et entre les États membres et les pays tiers sont interdites."
+    },
+    {
+      "id": 187,
+      "start": 1419.46,
+      "end": 1425.38,
+      "start_timestamp": "00:23:39.460",
+      "end_timestamp": "00:23:45.380",
+      "text": "Restrictions au mouvement de capitaux, ça veut dire que si vous avez une entreprise ou vous êtes un particulier,"
+    },
+    {
+      "id": 188,
+      "start": 1425.38,
+      "end": 1432.54,
+      "start_timestamp": "00:23:45.380",
+      "end_timestamp": "00:23:52.540",
+      "text": "vous possédez 1 milliard d'euros, vous voulez construire une usine de fabrication de voitures, vous êtes Peugeot,"
+    },
+    {
+      "id": 189,
+      "start": 1432.54,
+      "end": 1439.02,
+      "start_timestamp": "00:23:52.540",
+      "end_timestamp": "00:23:59.020",
+      "text": "vous voulez construire une usine de fabrication de voitures en Chine, en Slovaquie, vous êtes le jabi, vous voulez construire..."
+    },
+    {
+      "id": 190,
+      "start": 1439.02,
+      "end": 1447.34,
+      "start_timestamp": "00:23:59.020",
+      "end_timestamp": "00:24:07.340",
+      "text": "Vous déplacez vos ateliers de confection de sous-vêtements féminins au Maroc, eh bien vous ne pouvez pas en être empêchés."
+    },
+    {
+      "id": 191,
+      "start": 1447.34,
+      "end": 1454.3,
+      "start_timestamp": "00:24:07.340",
+      "end_timestamp": "00:24:14.300",
+      "text": "C'est ça que ça veut dire. Les restrictions sont interdites. Ils peuvent sortir leur argent pour aller construire des usines."
+    },
+    {
+      "id": 192,
+      "start": 1454.3,
+      "end": 1461.78,
+      "start_timestamp": "00:24:14.300",
+      "end_timestamp": "00:24:21.780",
+      "text": "Et non seulement entre les États membres de l'UE, mais aussi entre les États membres et les pays tiers. Vous voyez dans cette formule"
+    },
+    {
+      "id": 193,
+      "start": 1461.78,
+      "end": 1469.58,
+      "start_timestamp": "00:24:21.780",
+      "end_timestamp": "00:24:29.580",
+      "text": "les pays tiers, toute l'arnaque des européistes qui vous disent « On va faire une Europe puissance »."
+    },
+    {
+      "id": 194,
+      "start": 1469.58,
+      "end": 1476.34,
+      "start_timestamp": "00:24:29.580",
+      "end_timestamp": "00:24:36.340",
+      "text": "Si on avait voulu faire une Europe puissance, on n'aurait jamais mis les pays tiers. On aurait dit « On va faire entre nous"
+    },
+    {
+      "id": 195,
+      "start": 1476.34,
+      "end": 1482.78,
+      "start_timestamp": "00:24:36.340",
+      "end_timestamp": "00:24:42.780",
+      "text": "une Europe puissance. On va se délocaliser entre les pays d'Europe. On va maintenir notre savoir-faire »."
+    },
+    {
+      "id": 196,
+      "start": 1482.78,
+      "end": 1488.66,
+      "start_timestamp": "00:24:42.780",
+      "end_timestamp": "00:24:48.660",
+      "text": "Mais pas du tout « On a mis les pays tiers ». Ça veut dire qu'en effet, Peugeot va pouvoir aller investir en Chine."
+    },
+    {
+      "id": 197,
+      "start": 1488.66,
+      "end": 1495.86,
+      "start_timestamp": "00:24:48.660",
+      "end_timestamp": "00:24:55.860",
+      "text": "En effet, telle entreprise informatique va pouvoir aller investir à Bangalore, dans le Karnataka, en Inde, du Sud."
+    },
+    {
+      "id": 198,
+      "start": 1495.86,
+      "end": 1504.1,
+      "start_timestamp": "00:24:55.860",
+      "end_timestamp": "00:25:04.100",
+      "text": "En effet, le jabi va pouvoir aller investir au Maroc. Et donc à chaque fois, ça va faire des usines que l'on va fermer en France."
+    },
+    {
+      "id": 199,
+      "start": 1504.1,
+      "end": 1509.34,
+      "start_timestamp": "00:25:04.100",
+      "end_timestamp": "00:25:09.340",
+      "text": "C'est ça que ça veut dire. Et je me permets d'insister auprès de vous sur quelque chose dont je découvre"
+    },
+    {
+      "id": 200,
+      "start": 1509.34,
+      "end": 1514.62,
+      "start_timestamp": "00:25:09.340",
+      "end_timestamp": "00:25:14.620",
+      "text": "que mes compatriotes, finalement, ne le savent pas. C'est d'ailleurs normal qu'ils ne le savent pas, puisque personne ne l'aura jamais dit."
+    },
+    {
+      "id": 201,
+      "start": 1514.62,
+      "end": 1522.5,
+      "start_timestamp": "00:25:14.620",
+      "end_timestamp": "00:25:22.500",
+      "text": "Comment ça se fait qu'on parle de délocalisation, maintenant ? Pourquoi on n'en parlait pas en 1972 ?"
+    },
+    {
+      "id": 202,
+      "start": 1522.5,
+      "end": 1530.62,
+      "start_timestamp": "00:25:22.500",
+      "end_timestamp": "00:25:30.620",
+      "text": "Pourquoi on n'en parlait pas même du temps de Mitterrand, du début, en 1982 ? On n'en parlait pas. Alors il s'est passé quoi ?"
+    },
+    {
+      "id": 203,
+      "start": 1530.62,
+      "end": 1537.62,
+      "start_timestamp": "00:25:30.620",
+      "end_timestamp": "00:25:37.620",
+      "text": "Eh ben ce qui s'est passé, c'est ça. Ça, c'est directement le traité de Maastricht. C'est ça qui s'est passé."
+    },
+    {
+      "id": 204,
+      "start": 1537.62,
+      "end": 1548.62,
+      "start_timestamp": "00:25:37.620",
+      "end_timestamp": "00:25:48.620",
+      "text": "Je me permets de souligner ce point. Lorsque par exemple, mettons en 1975, une entreprise française... Imaginons que ça lui ait traversé l'esprit."
+    },
+    {
+      "id": 205,
+      "start": 1548.62,
+      "end": 1556.58,
+      "start_timestamp": "00:25:48.620",
+      "end_timestamp": "00:25:56.580",
+      "text": "Ça n'était pas la mode de l'époque. Mais ça lui ait traversé l'esprit de dire « Je vais construire une usine à l'autre bout du monde à des tarifs très faibles »."
+    },
+    {
+      "id": 206,
+      "start": 1556.58,
+      "end": 1567.5,
+      "start_timestamp": "00:25:56.580",
+      "end_timestamp": "00:26:07.500",
+      "text": "Elle n'en avait pas le droit. Elle devait aller demander une autorisation. C'est ce que l'on appelait le contrôle des mouvements de capitaux."
+    },
+    {
+      "id": 207,
+      "start": 1567.5,
+      "end": 1578.88,
+      "start_timestamp": "00:26:07.500",
+      "end_timestamp": "00:26:18.880",
+      "text": "Et donc le président de Peugeot, ou Peugeot-Citroën, ou de Renault, ou de n'importe quoi, ou de Latécoère, ou d'Halstom, ou de je sais pas quoi,"
+    },
+    {
+      "id": 208,
+      "start": 1578.88,
+      "end": 1585.34,
+      "start_timestamp": "00:26:18.880",
+      "end_timestamp": "00:26:25.340",
+      "text": "eh bien devait prendre sa canne et son chapeau. D'ailleurs, il n'avait rien changé en l'inadio. Il n'avait simplement que Starcarat et son attaché case."
+    },
+    {
+      "id": 209,
+      "start": 1585.34,
+      "end": 1592.98,
+      "start_timestamp": "00:26:25.340",
+      "end_timestamp": "00:26:32.980",
+      "text": "Il devait aller prendre rendez-vous au ministère des Finances et voir la direction du Trésor, et puis voir ensuite éventuellement le cabinet du ministre"
+    },
+    {
+      "id": 210,
+      "start": 1592.98,
+      "end": 1603.62,
+      "start_timestamp": "00:26:32.980",
+      "end_timestamp": "00:26:43.620",
+      "text": "en disant « J'ai un projet d'investissement pour créer une usine, je sais pas, au Bangladesh, ou bien au Pakistan, au Vietnam, en Chine, en Inde, en Tunisie."
+    },
+    {
+      "id": 211,
+      "start": 1603.62,
+      "end": 1611.18,
+      "start_timestamp": "00:26:43.620",
+      "end_timestamp": "00:26:51.180",
+      "text": "Voilà. Est-ce que vous êtes d'accord ? ». Et à ce moment-là, c'était le ministère des Finances qui, dans sa grande sagesse, disait oui ou non."
+    },
+    {
+      "id": 212,
+      "start": 1611.18,
+      "end": 1619.54,
+      "start_timestamp": "00:26:51.180",
+      "end_timestamp": "00:26:59.540",
+      "text": "Alors oui, c'était pas toujours non. Par exemple, Peugeot s'est installé en Iran. Pourquoi les pouvoirs publics avaient donné l'autorisation à Peugeot"
+    },
+    {
+      "id": 213,
+      "start": 1619.54,
+      "end": 1625.34,
+      "start_timestamp": "00:26:59.540",
+      "end_timestamp": "00:27:05.340",
+      "text": "de s'installer en Iran ? Bah parce que l'Iran était un marché prometteur en pleine croissance, et puis parce qu'il s'agissait de fabriquer"
+    },
+    {
+      "id": 214,
+      "start": 1625.34,
+      "end": 1633.93,
+      "start_timestamp": "00:27:05.340",
+      "end_timestamp": "00:27:13.930",
+      "text": "pour le marché local, et qu'il n'y aurait pas de réexportation vers la France. C'était tout bénéfice. Donc ça a été oui."
+    },
+    {
+      "id": 215,
+      "start": 1633.93,
+      "end": 1640.01,
+      "start_timestamp": "00:27:13.930",
+      "end_timestamp": "00:27:20.010",
+      "text": "Mais maintenant, ça n'est plus possible. Dans d'autres cas, maintenant, ça n'est plus possible, parce qu'il y a non seulement l'article 63,"
+    },
+    {
+      "id": 216,
+      "start": 1640.01,
+      "end": 1645.73,
+      "start_timestamp": "00:27:20.010",
+      "end_timestamp": "00:27:25.730",
+      "text": "mais il y a l'article également dans cet article 63. Il est précisé, d'ailleurs, que toutes les restrictions au paiement entre les États membres,"
+    },
+    {
+      "id": 217,
+      "start": 1645.73,
+      "end": 1651.65,
+      "start_timestamp": "00:27:25.730",
+      "end_timestamp": "00:27:31.650",
+      "text": "les pays tiers, sont indiennes. Ça veut dire que vous ne pouvez pas non plus interdire les versements financiers dans un sens ou dans l'autre,"
+    },
+    {
+      "id": 218,
+      "start": 1651.65,
+      "end": 1657.21,
+      "start_timestamp": "00:27:31.650",
+      "end_timestamp": "00:27:37.210",
+      "text": "notamment rapatrier les profits et les capitaux. Donc c'est un feu vert aux entreprises pour expatrier leurs usines dans des pays"
+    },
+    {
+      "id": 219,
+      "start": 1657.21,
+      "end": 1664.97,
+      "start_timestamp": "00:27:37.210",
+      "end_timestamp": "00:27:44.970",
+      "text": "à très bas de coûts de salaire. Mais il y a également l'article 32 qui dit que dans l'exercice de ces missions, il y a la nécessité de promouvoir"
+    },
+    {
+      "id": 220,
+      "start": 1664.97,
+      "end": 1671.33,
+      "start_timestamp": "00:27:44.970",
+      "end_timestamp": "00:27:51.330",
+      "text": "les échanges commerciaux entre les États membres et les pays tiers, afin d'accroître la force compétitive des entreprises"
+    },
+    {
+      "id": 221,
+      "start": 1671.33,
+      "end": 1680.13,
+      "start_timestamp": "00:27:51.330",
+      "end_timestamp": "00:28:00.130",
+      "text": "et de favoriser une expansion de la consommation dans l'Union. Ça veut dire qu'en matière industrielle... C'est comme l'agriculture."
+    },
+    {
+      "id": 222,
+      "start": 1680.13,
+      "end": 1687.45,
+      "start_timestamp": "00:28:00.130",
+      "end_timestamp": "00:28:07.450",
+      "text": "En matière industrielle, on aurait pu avoir des traités qui auraient dit la priorité des priorités, c'est de maintenir l'emploi industriel"
+    },
+    {
+      "id": 223,
+      "start": 1687.45,
+      "end": 1696.09,
+      "start_timestamp": "00:28:07.450",
+      "end_timestamp": "00:28:16.090",
+      "text": "en zone Europe, c'est de maintenir le savoir-faire industriel, de conserver nos emplois, de favoriser la modernisation de nos outils industriels."
+    },
+    {
+      "id": 224,
+      "start": 1696.09,
+      "end": 1702.33,
+      "start_timestamp": "00:28:16.090",
+      "end_timestamp": "00:28:22.330",
+      "text": "Ils auraient pu avoir ça. Là, on aurait pu dire légitimement que c'est une Europe puissance. Mais ça n'a pas été fait."
+    },
+    {
+      "id": 225,
+      "start": 1702.33,
+      "end": 1710.69,
+      "start_timestamp": "00:28:22.330",
+      "end_timestamp": "00:28:30.690",
+      "text": "Et ça n'a pas été fait pour les raisons que j'ai dites en préambule. C'est que pour que ça aurait pu être fait si tout le monde avait été d'accord,"
+    },
+    {
+      "id": 226,
+      "start": 1710.69,
+      "end": 1717.09,
+      "start_timestamp": "00:28:30.690",
+      "end_timestamp": "00:28:37.090",
+      "text": "mais les Anglais n'étaient pas d'accord, les ultralibérons n'étaient pas d'accord, le Luxembourg, qui n'a pas l'industrie et qui est le pays du grand capital,"
+    },
+    {
+      "id": 227,
+      "start": 1717.09,
+      "end": 1722.93,
+      "start_timestamp": "00:28:37.090",
+      "end_timestamp": "00:28:42.930",
+      "text": "si l'on peut dire, n'était pas d'accord. C'est pour ça qu'on n'a pas pu avoir ça et qu'on pourra jamais avoir ça."
+    },
+    {
+      "id": 228,
+      "start": 1722.93,
+      "end": 1731.11,
+      "start_timestamp": "00:28:42.930",
+      "end_timestamp": "00:28:51.110",
+      "text": "Je vous l'ai dit, 1,2 secondes sur par triomphes d'années, la probabilité. C'est justement parce que nous sommes liés à des pays"
+    },
+    {
+      "id": 229,
+      "start": 1731.11,
+      "end": 1739.07,
+      "start_timestamp": "00:28:51.110",
+      "end_timestamp": "00:28:59.070",
+      "text": "qui n'ont pas ces intérêts-là, puisqu'ils n'ont pas l'industrie, mais que leur intérêt, c'est de maximiser le profit des détenteurs de capitaux,"
+    },
+    {
+      "id": 230,
+      "start": 1739.07,
+      "end": 1746.55,
+      "start_timestamp": "00:28:59.070",
+      "end_timestamp": "00:29:06.550",
+      "text": "que nous sommes dans cette situation. Et vous voyez bien que là, ce que l'on promeut, c'est de promouvoir les échanges commerciaux."
+    },
+    {
+      "id": 231,
+      "start": 1746.55,
+      "end": 1754.43,
+      "start_timestamp": "00:29:06.550",
+      "end_timestamp": "00:29:14.430",
+      "text": "Mais quand on va fabriquer des soutiens-gorge – excusez-moi, mais c'est un cas réel, le cas de Jabi –, des sous-vêtements féminins au Maroc,"
+    },
+    {
+      "id": 232,
+      "start": 1754.43,
+      "end": 1760.63,
+      "start_timestamp": "00:29:14.430",
+      "end_timestamp": "00:29:20.630",
+      "text": "qu'on les rapatrie en France, eh bien on promeut les échanges commerciaux avec les pays tiers. Ça, c'est incontestable."
+    },
+    {
+      "id": 233,
+      "start": 1760.63,
+      "end": 1765.47,
+      "start_timestamp": "00:29:20.630",
+      "end_timestamp": "00:29:25.470",
+      "text": "Avant, on n'achetait pas de soutiens-gorge au Maroc. Maintenant, on en achète. Avant, on n'achetait pas de voiture en Roumanie."
+    },
+    {
+      "id": 234,
+      "start": 1765.47,
+      "end": 1770.55,
+      "start_timestamp": "00:29:25.470",
+      "end_timestamp": "00:29:30.550",
+      "text": "Maintenant, on en achète. Avant, on n'achetait pas de chaussures fabriquées au Bangladesh. Maintenant, on en achète."
+    },
+    {
+      "id": 235,
+      "start": 1770.55,
+      "end": 1779.19,
+      "start_timestamp": "00:29:30.550",
+      "end_timestamp": "00:29:39.190",
+      "text": "Donc on favorise. C'est le point A. Deuxièmement, on accroît la force compétitive des entreprises. Bah oui. En effet, puisque les entreprises"
+    },
+    {
+      "id": 236,
+      "start": 1779.19,
+      "end": 1787.23,
+      "start_timestamp": "00:29:39.190",
+      "end_timestamp": "00:29:47.230",
+      "text": "maintenant peuvent faire travailler à très très bas coût de salaire des Indiens, des Bangladeshis, parfois des enfants,"
+    },
+    {
+      "id": 237,
+      "start": 1787.23,
+      "end": 1797.87,
+      "start_timestamp": "00:29:47.230",
+      "end_timestamp": "00:29:57.870",
+      "text": "il faut tenir compte des conditions sociales sur place, plutôt que des salariés des Vosges ou du Nord, par exemple, à matière textile."
+    },
+    {
+      "id": 238,
+      "start": 1797.87,
+      "end": 1805.61,
+      "start_timestamp": "00:29:57.870",
+      "end_timestamp": "00:30:05.610",
+      "text": "Je pense à ça parce que je pense aux questions textiles. Bon. Donc là, on favorise la force compétitive des entreprises."
+    },
+    {
+      "id": 239,
+      "start": 1805.61,
+      "end": 1815.15,
+      "start_timestamp": "00:30:05.610",
+      "end_timestamp": "00:30:15.150",
+      "text": "Enfin, expansion de la consommation dans l'Union. Bah oui. On propose aux populations de l'UE des produits parfois à très bas coût."
+    },
+    {
+      "id": 240,
+      "start": 1815.15,
+      "end": 1825.47,
+      "start_timestamp": "00:30:15.150",
+      "end_timestamp": "00:30:25.470",
+      "text": "Je pense par exemple à cette entreprise de textiles, de vêtements que vous connaissez tous, enfin en particulier les dames, qui s'appelle Zara."
+    },
+    {
+      "id": 241,
+      "start": 1825.47,
+      "end": 1831.03,
+      "start_timestamp": "00:30:25.470",
+      "end_timestamp": "00:30:31.030",
+      "text": "Zara, qui a été créée par l'Espagnol il y a une vingtaine d'années, une trentaine d'années, et qui maintenant devient"
+    },
+    {
+      "id": 242,
+      "start": 1831.03,
+      "end": 1837.71,
+      "start_timestamp": "00:30:31.030",
+      "end_timestamp": "00:30:37.710",
+      "text": "une des plus grandes entreprises mondiales de textiles, et qui, ce monsieur, le fondateur de Zara, est en passe de devenir"
+    },
+    {
+      "id": 243,
+      "start": 1837.71,
+      "end": 1843.75,
+      "start_timestamp": "00:30:37.710",
+      "end_timestamp": "00:30:43.750",
+      "text": "une des cinq plus grandes fortunes mondiales. D'où vient cette fortune ? Et d'où vient la fortune de l'entreprise Zara ?"
+    },
+    {
+      "id": 244,
+      "start": 1843.75,
+      "end": 1850.31,
+      "start_timestamp": "00:30:43.750",
+      "end_timestamp": "00:30:50.310",
+      "text": "Eh bien tout simplement parce que cette entreprise fabrique des vêtements, notamment pour femmes, qui sont des vêtements à la mode."
+    },
+    {
+      "id": 245,
+      "start": 1850.31,
+      "end": 1856.39,
+      "start_timestamp": "00:30:50.310",
+      "end_timestamp": "00:30:56.390",
+      "text": "Ils ont des flux tendus. Ils n'ont pas de collection. Ça change constamment. Il faut acheter... Dès qu'il y a une jolie robe qui passe,"
+    },
+    {
+      "id": 246,
+      "start": 1856.39,
+      "end": 1862.39,
+      "start_timestamp": "00:30:56.390",
+      "end_timestamp": "00:31:02.390",
+      "text": "il faut l'acheter, parce qu'on ne la retrouvera pas trois semaines après. Ce sont des allotements qui sont fabriqués au Bangladesh,"
+    },
+    {
+      "id": 247,
+      "start": 1862.39,
+      "end": 1868.23,
+      "start_timestamp": "00:31:02.390",
+      "end_timestamp": "00:31:08.230",
+      "text": "en Inde, à des prix inimaginables. Il y a d'ailleurs des mouvements, des manifestations. Il y a des gens qui font la grève de la faim."
+    },
+    {
+      "id": 248,
+      "start": 1868.23,
+      "end": 1874.43,
+      "start_timestamp": "00:31:08.230",
+      "end_timestamp": "00:31:14.430",
+      "text": "Il y a eu un incendie au Pakistan dans une usine qui a fait des morts. Tout ça, évidemment, a été caché aux Français, aux Espagnols,"
+    },
+    {
+      "id": 249,
+      "start": 1874.43,
+      "end": 1883.55,
+      "start_timestamp": "00:31:14.430",
+      "end_timestamp": "00:31:23.550",
+      "text": "aux Japonais, parce que Zara est partout. Donc le consommateur est bien content d'acheter chez Zara effectivement une petite robe"
+    },
+    {
+      "id": 250,
+      "start": 1883.55,
+      "end": 1893.15,
+      "start_timestamp": "00:31:23.550",
+      "end_timestamp": "00:31:33.150",
+      "text": "ou un petit t-shirt à un prix assez sympa. Ça, le consommateur, il est content. Le problème, c'est qu'il n'est plus salarié,"
+    },
+    {
+      "id": 251,
+      "start": 1893.15,
+      "end": 1899.95,
+      "start_timestamp": "00:31:33.150",
+      "end_timestamp": "00:31:39.950",
+      "text": "parce qu'il a perdu son emploi. Donc ces phénomènes dits de mondialisation ont introduit une espèce de schizophrénie chez les peuples,"
+    },
+    {
+      "id": 252,
+      "start": 1899.95,
+      "end": 1906.79,
+      "start_timestamp": "00:31:39.950",
+      "end_timestamp": "00:31:46.790",
+      "text": "c'est-à-dire que le côté consommateur est content d'acheter chez Zara une truc à bon marché, mais il n'a plus d'argent pour l'acheter,"
+    },
+    {
+      "id": 253,
+      "start": 1906.79,
+      "end": 1913.87,
+      "start_timestamp": "00:31:46.790",
+      "end_timestamp": "00:31:53.870",
+      "text": "en gros, parce qu'il n'y a plus de moins en moins d'emploi, et que l'ensemble de la société est en train de verser"
+    },
+    {
+      "id": 254,
+      "start": 1913.87,
+      "end": 1920.55,
+      "start_timestamp": "00:31:53.870",
+      "end_timestamp": "00:32:00.550",
+      "text": "dans l'appauvrissement généralisé avec son cortège d'augmentation continuelle, de violence, de lutte contre la violence,"
+    },
+    {
+      "id": 255,
+      "start": 1920.55,
+      "end": 1928.27,
+      "start_timestamp": "00:32:00.550",
+      "end_timestamp": "00:32:08.270",
+      "text": "donc de surveillance de la société, donc de nouveau de plus en plus de violence. Voilà le schéma dans lequel on est lancé tout ça"
+    },
+    {
+      "id": 256,
+      "start": 1928.27,
+      "end": 1937.67,
+      "start_timestamp": "00:32:08.270",
+      "end_timestamp": "00:32:17.670",
+      "text": "pour permettre à des consommateurs de s'acheter une petite robe ou un petit t-shirt à prix sympa. Mais vous voyez à quel prix."
+    },
+    {
+      "id": 257,
+      "start": 1937.67,
+      "end": 1944.67,
+      "start_timestamp": "00:32:17.670",
+      "end_timestamp": "00:32:24.670",
+      "text": "Au prix de Bangladeshis ou d'Indiens de 15 ans ou 18 ans qui sont payés avec des lance-pieds, au prix de l'appauvrissement généralisé"
+    },
+    {
+      "id": 258,
+      "start": 1944.67,
+      "end": 1952.31,
+      "start_timestamp": "00:32:24.670",
+      "end_timestamp": "00:32:32.310",
+      "text": "de régions entières, de la destruction de l'industrie, et au prix, bien entendu, d'une augmentation phénoménale de la fortune"
+    },
+    {
+      "id": 259,
+      "start": 1952.31,
+      "end": 1962.62,
+      "start_timestamp": "00:32:32.310",
+      "end_timestamp": "00:32:42.620",
+      "text": "de quelques-uns, c'est-à-dire le propriétaire des Arabes et les actionnaires. Alors par ailleurs s'ajoute à tout ceci la Banque centrale européenne,"
+    },
+    {
+      "id": 260,
+      "start": 1962.62,
+      "end": 1968.34,
+      "start_timestamp": "00:32:42.620",
+      "end_timestamp": "00:32:48.340",
+      "text": "l'article 282, qui prévoit que l'objectif principal du système européen de Banque centrale... Je ne m'en parle pas."
+    },
+    {
+      "id": 261,
+      "start": 1968.34,
+      "end": 1975.98,
+      "start_timestamp": "00:32:48.340",
+      "end_timestamp": "00:32:55.980",
+      "text": "J'en ai longuement parlé hier dans la conférence sur la tragédie du euro. Je rappelle que l'euro n'est pas une monnaie unique,"
+    },
+    {
+      "id": 262,
+      "start": 1975.98,
+      "end": 1980.14,
+      "start_timestamp": "00:32:55.980",
+      "end_timestamp": "00:33:00.140",
+      "text": "mais une monnaie commune. Donc toutes les banques centrales ont continué d'exister, Banque centrale nationale."
+    },
+    {
+      "id": 263,
+      "start": 1980.14,
+      "end": 1986.82,
+      "start_timestamp": "00:33:00.140",
+      "end_timestamp": "00:33:06.820",
+      "text": "Et donc chaque État conserve sa monnaie nationale, sauf que la monnaie nationale s'appelle l'euro et que c'est une créance"
+    },
+    {
+      "id": 264,
+      "start": 1986.82,
+      "end": 1993.3,
+      "start_timestamp": "00:33:06.820",
+      "end_timestamp": "00:33:13.300",
+      "text": "sur la Banque centrale nationale de chacun des pays différents. J'ai expliqué hier longuement en quoi ce système était en train de mener"
+    },
+    {
+      "id": 265,
+      "start": 1993.3,
+      "end": 2001.94,
+      "start_timestamp": "00:33:13.300",
+      "end_timestamp": "00:33:21.940",
+      "text": "à une explosion générale. Alors l'objectif du SEBC est de maintenir la stabilité des prix. C'est tout à fait cohérent avec ce que je disais"
+    },
+    {
+      "id": 266,
+      "start": 2001.94,
+      "end": 2010.86,
+      "start_timestamp": "00:33:21.940",
+      "end_timestamp": "00:33:30.860",
+      "text": "tout à l'heure sur l'article 123, c'est-à-dire que les concepteurs de tout ceci, ceux qui ont tenu la plume, sont en effet des ultralibéraux."
+    },
+    {
+      "id": 267,
+      "start": 2010.86,
+      "end": 2018.74,
+      "start_timestamp": "00:33:30.860",
+      "end_timestamp": "00:33:38.740",
+      "text": "C'est en définitive les représentants des classes les plus favorisées du monde euro-atlantique, c'est-à-dire les gérants de fonds de pension,"
+    },
+    {
+      "id": 268,
+      "start": 2018.74,
+      "end": 2024.26,
+      "start_timestamp": "00:33:38.740",
+      "end_timestamp": "00:33:44.260",
+      "text": "les grandes fortunes, les grandes banques. C'est une révolution de banquiers, comme nous expliquait Padova-Skurtas."
+    },
+    {
+      "id": 269,
+      "start": 2024.26,
+      "end": 2031.02,
+      "start_timestamp": "00:33:44.260",
+      "end_timestamp": "00:33:51.020",
+      "text": "Donc l'objectif des gens qui ont de la fortune, c'est la stabilité des prix, parce que rien n'est plus des stabilisateurs pour des gens"
+    },
+    {
+      "id": 270,
+      "start": 2031.02,
+      "end": 2037.86,
+      "start_timestamp": "00:33:51.020",
+      "end_timestamp": "00:33:57.860",
+      "text": "qui ont de l'argent que de voir que l'argent va se déprécier à toute allure. Donc c'est le seul objectif qui a été fixé."
+    },
+    {
+      "id": 271,
+      "start": 2037.86,
+      "end": 2046.38,
+      "start_timestamp": "00:33:57.860",
+      "end_timestamp": "00:34:06.380",
+      "text": "Mais on aurait pu avoir pour la Banque centrale européenne et pour le SEBC et pour l'euro des objectifs qui étaient tout à fait différents."
+    },
+    {
+      "id": 272,
+      "start": 2046.38,
+      "end": 2056.14,
+      "start_timestamp": "00:34:06.380",
+      "end_timestamp": "00:34:16.140",
+      "text": "Par exemple, le maintien d'un chômage le plus bas possible. Par exemple, le maintien de la préservation de la compétitivité des économies"
+    },
+    {
+      "id": 273,
+      "start": 2056.14,
+      "end": 2063.66,
+      "start_timestamp": "00:34:16.140",
+      "end_timestamp": "00:34:23.660",
+      "text": "en se basant sur l'économie, par exemple, la moins compétitive. Le maintien en zone euro du plus grand potentiel possible"
+    },
+    {
+      "id": 274,
+      "start": 2063.66,
+      "end": 2070.86,
+      "start_timestamp": "00:34:23.660",
+      "end_timestamp": "00:34:30.860",
+      "text": "de savoir-faire industriel, pas du tout. C'est seulement l'objectif de la lutte contre l'inflation. Et on précise bien que la Banque centrale européenne"
+    },
+    {
+      "id": 275,
+      "start": 2070.86,
+      "end": 2081.37,
+      "start_timestamp": "00:34:30.860",
+      "end_timestamp": "00:34:41.370",
+      "text": "est indépendante des institutions et des gouvernements. Mais comme je le rappelais hier, on n'est jamais indépendant de..."
+    },
+    {
+      "id": 276,
+      "start": 2081.37,
+      "end": 2087.29,
+      "start_timestamp": "00:34:41.370",
+      "end_timestamp": "00:34:47.290",
+      "text": "Ça n'existe pas. L'indépendance totale n'existe pas. Quand on est bébé, on est dépendant de son papa et de sa maman."
+    },
+    {
+      "id": 277,
+      "start": 2087.29,
+      "end": 2095.37,
+      "start_timestamp": "00:34:47.290",
+      "end_timestamp": "00:34:55.370",
+      "text": "Quand on est adolescent aussi, même si ça coûte parfois. Et puis après ça, on est dépendant de sa femme ou de son mari"
+    },
+    {
+      "id": 278,
+      "start": 2095.37,
+      "end": 2102.01,
+      "start_timestamp": "00:34:55.370",
+      "end_timestamp": "00:35:02.010",
+      "text": "ou de son conjoint, de son concubin, ou de ses enfants, ou de ses collègues de travail, ou de ses amis, ou de ses vieux-parents."
+    },
+    {
+      "id": 279,
+      "start": 2102.01,
+      "end": 2109.45,
+      "start_timestamp": "00:35:02.010",
+      "end_timestamp": "00:35:09.450",
+      "text": "Et puis après ça, on est dépendant de ses enfants, de ses petits-enfants, de sa garde malade. On est toujours dépendant de quoi que ce soit."
+    },
+    {
+      "id": 280,
+      "start": 2109.45,
+      "end": 2117.17,
+      "start_timestamp": "00:35:09.450",
+      "end_timestamp": "00:35:17.170",
+      "text": "Donc l'idée qu'une Banque centrale européenne soit indépendante, c'est une idée qui n'existe pas. Quand on dit que la Banque centrale"
+    },
+    {
+      "id": 281,
+      "start": 2117.17,
+      "end": 2124.69,
+      "start_timestamp": "00:35:17.170",
+      "end_timestamp": "00:35:24.690",
+      "text": "européenne est indépendante des gouvernements et des États, ça veut dire qu'elle est indépendante du suffrage universel."
+    },
+    {
+      "id": 282,
+      "start": 2124.69,
+      "end": 2132.81,
+      "start_timestamp": "00:35:24.690",
+      "end_timestamp": "00:35:32.810",
+      "text": "Mais ça veut pas dire qu'elle est indépendante d'autres structures. Mario Draghi, l'actuel président de la BCE, était l'ancien vice-président"
+    },
+    {
+      "id": 283,
+      "start": 2132.81,
+      "end": 2140.97,
+      "start_timestamp": "00:35:32.810",
+      "end_timestamp": "00:35:40.970",
+      "text": "Europe de Goldman Sachs. Il connaît tout le monde chez Goldman Sachs. C'est d'ailleurs M. Peter Sutherland, le président de Goldman Sachs"
+    },
+    {
+      "id": 284,
+      "start": 2140.97,
+      "end": 2148.77,
+      "start_timestamp": "00:35:40.970",
+      "end_timestamp": "00:35:48.770",
+      "text": "International, qui l'a fait promouvoir à la tête de la BCE. Ou M. Mario Draghi, italien. Vous savez que son nom, ça veut dire dragon."
+    },
+    {
+      "id": 285,
+      "start": 2148.77,
+      "end": 2165.97,
+      "start_timestamp": "00:35:48.770",
+      "end_timestamp": "00:36:05.970",
+      "text": "Son prédécesseur, c'était triché. Bon. Mario Draghi, donc, était... Mario Draghi a plus de pouvoir que ce pauvre M. Hollande."
+    },
+    {
+      "id": 286,
+      "start": 2165.97,
+      "end": 2174.65,
+      "start_timestamp": "00:36:05.970",
+      "end_timestamp": "00:36:14.650",
+      "text": "Sur la France, j'entends. Parce que des décisions que prend M. Mario Draghi dépendent notamment le taux de change externe de l'euro,"
+    },
+    {
+      "id": 287,
+      "start": 2174.65,
+      "end": 2184.09,
+      "start_timestamp": "00:36:14.650",
+      "end_timestamp": "00:36:24.090",
+      "text": "qui va influer directement sur notre emploi et sur le maintien des industries sur le sol national. Voici la comparaison de l'évolution"
+    },
+    {
+      "id": 288,
+      "start": 2184.09,
+      "end": 2191.57,
+      "start_timestamp": "00:36:24.090",
+      "end_timestamp": "00:36:31.570",
+      "text": "du taux de change de l'euro par rapport au dollar et de l'évolution du commerce extérieur français tout au long des années 2000."
+    },
+    {
+      "id": 289,
+      "start": 2191.57,
+      "end": 2202.25,
+      "start_timestamp": "00:36:31.570",
+      "end_timestamp": "00:36:42.250",
+      "text": "Lorsque l'euro a été créé sous forme de déchange interbancaire en 1999, ça valait 1 euro égale 1,18 $."
+    },
+    {
+      "id": 290,
+      "start": 2202.25,
+      "end": 2214.85,
+      "start_timestamp": "00:36:42.250",
+      "end_timestamp": "00:36:54.850",
+      "text": "Ensuite, il a dégringolé au long de l'année 2000 et 2001 pour tomber à 0,85 $. Il est arrivé dans vos poches le 1er janvier 2002."
+    },
+    {
+      "id": 291,
+      "start": 2214.89,
+      "end": 2224.49,
+      "start_timestamp": "00:36:54.890",
+      "end_timestamp": "00:37:04.490",
+      "text": "À cette époque, il valait moins de 1 $. Il valait 0,9 $. Depuis lors, il a augmenté de façon considérable, puisqu'en fait,"
+    },
+    {
+      "id": 292,
+      "start": 2224.49,
+      "end": 2231.49,
+      "start_timestamp": "00:37:04.490",
+      "end_timestamp": "00:37:11.490",
+      "text": "c'est la variable d'ajustement mondiale principale des déficits de la balance des paiements courants américaine, jusqu'au mois de juin 2008,"
+    },
+    {
+      "id": 293,
+      "start": 2231.49,
+      "end": 2244.17,
+      "start_timestamp": "00:37:11.490",
+      "end_timestamp": "00:37:24.170",
+      "text": "où il a atteint 1,60 $. Et depuis la fête du yo-yo, il est retombé à peu près aux entours ces jours-ci de 1,27 $ à 1,30 $. Bon."
+    },
+    {
+      "id": 294,
+      "start": 2244.17,
+      "end": 2253.57,
+      "start_timestamp": "00:37:24.170",
+      "end_timestamp": "00:37:33.570",
+      "text": "Au passage, je dis, comme je l'ai déjà expliqué hier, que depuis 2008, l'euro par rapport au dollar a perdu 25% de sa valeur."
+    },
+    {
+      "id": 295,
+      "start": 2253.57,
+      "end": 2257.81,
+      "start_timestamp": "00:37:33.570",
+      "end_timestamp": "00:37:37.810",
+      "text": "On n'en a pas fait un fromage. Je dis ça pour les gens que vous connaissez dans votre entourage, qui vous disent"
+    },
+    {
+      "id": 296,
+      "start": 2257.81,
+      "end": 2263.37,
+      "start_timestamp": "00:37:37.810",
+      "end_timestamp": "00:37:43.370",
+      "text": "« Mais si jamais on sortait de l'euro, vous vous rendez compte ? Si on le ferait, on perdrait 20% »."
+    },
+    {
+      "id": 297,
+      "start": 2263.37,
+      "end": 2271.85,
+      "start_timestamp": "00:37:43.370",
+      "end_timestamp": "00:37:51.850",
+      "text": "Je leur dis que figurez-vous, ça s'est passé. Perdu 25%, ça nous a fait une journée froide. C'était du temps de l'euro. Passons."
+    },
+    {
+      "id": 298,
+      "start": 2271.85,
+      "end": 2281.05,
+      "start_timestamp": "00:37:51.850",
+      "end_timestamp": "00:38:01.050",
+      "text": "Maintenant, vous avez ici la courbe de l'évolution de notre commerce extérieur de la France. En bleu, c'est les exportations."
+    },
+    {
+      "id": 299,
+      "start": 2281.05,
+      "end": 2289.05,
+      "start_timestamp": "00:38:01.050",
+      "end_timestamp": "00:38:09.050",
+      "text": "En rouge, ce sont les importations. Et vous voyez que nous avons une période ici où il n'y avait à peu près identité entre export et import."
+    },
+    {
+      "id": 300,
+      "start": 2289.05,
+      "end": 2297.73,
+      "start_timestamp": "00:38:09.050",
+      "end_timestamp": "00:38:17.730",
+      "text": "C'est-à-dire qu'en gros, notre commerce extérieur est équilibré. Donc en gros, ça veut dire que nous sommes compétitifs par rapport à l'économie mondiale."
+    },
+    {
+      "id": 301,
+      "start": 2297.73,
+      "end": 2306.77,
+      "start_timestamp": "00:38:17.730",
+      "end_timestamp": "00:38:26.770",
+      "text": "Et puis vous voyez ici une augmentation colossale des importations et une augmentation nettement moindre des exportations."
+    },
+    {
+      "id": 302,
+      "start": 2306.77,
+      "end": 2320.09,
+      "start_timestamp": "00:38:26.770",
+      "end_timestamp": "00:38:40.090",
+      "text": "Ça veut dire que notre solde commercial devient abyssal. Le déficit devient énorme, énorme. On a signé en 2011 le plus gros déficit commercial"
+    },
+    {
+      "id": 303,
+      "start": 2320.09,
+      "end": 2336.92,
+      "start_timestamp": "00:38:40.090",
+      "end_timestamp": "00:38:56.920",
+      "text": "de l'Histoire de France depuis Vercingétorix. Et en 2012, Mme... La ministre du Commerce extérieur... Son nom m'échappe, pourtant, actuel."
+    },
+    {
+      "id": 304,
+      "start": 2336.92,
+      "end": 2347.28,
+      "start_timestamp": "00:38:56.920",
+      "end_timestamp": "00:39:07.280",
+      "text": "Bon. Enfin bref. Elle s'est glorifiée il y a quelques semaines. Mme... Voilà. Nicole Brick... Elle n'en casse pas beaucoup, d'ailleurs."
+    },
+    {
+      "id": 305,
+      "start": 2347.28,
+      "end": 2353.96,
+      "start_timestamp": "00:39:07.280",
+      "end_timestamp": "00:39:13.960",
+      "text": "Mme Nicole Brick, qui est ministre du Commerce extérieur, nous a fait une déclaration hallucinante en disant..."
+    },
+    {
+      "id": 306,
+      "start": 2353.96,
+      "end": 2361.2,
+      "start_timestamp": "00:39:13.960",
+      "end_timestamp": "00:39:21.200",
+      "text": "Parce que le commerce extérieur, elle a poussé un cocorico parce qu'on avait dégagé – je crois – 65 milliards d'euros de déficit commercial."
+    },
+    {
+      "id": 307,
+      "start": 2361.2,
+      "end": 2369.48,
+      "start_timestamp": "00:39:21.200",
+      "end_timestamp": "00:39:29.480",
+      "text": "Ce qui témoignait d'une embellie. L'embellie, c'est un smoke de qui ? C'était le deuxième déficit commercial le plus important de notre histoire."
+    },
+    {
+      "id": 308,
+      "start": 2369.48,
+      "end": 2375.96,
+      "start_timestamp": "00:39:29.480",
+      "end_timestamp": "00:39:35.960",
+      "text": "Ces déficits commerciaux s'expliquent très clairement par l'évolution du taux de change. Parce que si vous regardez bien..."
+    },
+    {
+      "id": 309,
+      "start": 2375.96,
+      "end": 2383.0,
+      "start_timestamp": "00:39:35.960",
+      "end_timestamp": "00:39:43.000",
+      "text": "Je ne sais pas si vous êtes familiers de ce genre de choses, mais la période ici pendant laquelle l'euro était en dessous d'un dollar correspond"
+    },
+    {
+      "id": 310,
+      "start": 2383.0,
+      "end": 2391.28,
+      "start_timestamp": "00:39:43.000",
+      "end_timestamp": "00:39:51.280",
+      "text": "avec le décalage de 9 mois qui est nécessaire pour l'intégration dans les statistiques, les commandes, la livraison, le paiement"
+    },
+    {
+      "id": 311,
+      "start": 2391.28,
+      "end": 2399.8,
+      "start_timestamp": "00:39:51.280",
+      "end_timestamp": "00:39:59.800",
+      "text": "et l'intégration dans les statistiques douanières. Donc il y a toujours un décalage. C'est justement pendant cette période-là que l'on a eu justement l'équilibre."
+    },
+    {
+      "id": 312,
+      "start": 2399.8,
+      "end": 2408.64,
+      "start_timestamp": "00:39:59.800",
+      "end_timestamp": "00:40:08.640",
+      "text": "Ça veut dire que lorsqu'un euro est inférieur ou égal à un dollar, eh bien nos produits se vendent bien dans le monde. Ils sont compétitifs."
+    },
+    {
+      "id": 313,
+      "start": 2408.64,
+      "end": 2415.32,
+      "start_timestamp": "00:40:08.640",
+      "end_timestamp": "00:40:15.320",
+      "text": "En revanche, plus l'euro vaut cher, et plus nos produits deviennent très très chers et de moins en moins compétitifs par rapport à la concurrence"
+    },
+    {
+      "id": 314,
+      "start": 2415.32,
+      "end": 2422.84,
+      "start_timestamp": "00:40:15.320",
+      "end_timestamp": "00:40:22.840",
+      "text": "faite en zone de la, c'est ce qui explique l'augmentation des exportations et l'augmentation donc du déficit commercial."
+    },
+    {
+      "id": 315,
+      "start": 2422.84,
+      "end": 2432.2,
+      "start_timestamp": "00:40:22.840",
+      "end_timestamp": "00:40:32.200",
+      "text": "Alors début avril 2013, le taux de change de l'euro est d'environ 1 € pour 1,30 $. Le taux de change de compétitivité – je viens de vous le montrer –"
+    },
+    {
+      "id": 316,
+      "start": 2432.2,
+      "end": 2439.08,
+      "start_timestamp": "00:40:32.200",
+      "end_timestamp": "00:40:39.080",
+      "text": "est de l'ordre de 1 € égale 1 $. Ça veut donc dire que l'euro est encore environ 30% trop cher pour l'économie française."
+    },
+    {
+      "id": 317,
+      "start": 2439.08,
+      "end": 2446.4,
+      "start_timestamp": "00:40:39.080",
+      "end_timestamp": "00:40:46.400",
+      "text": "Les gens qui vous disent « Mais si nous sortions de l'euro, le franc perdrait 30% », vous vous rendez compte. Je dis hélas."
+    },
+    {
+      "id": 318,
+      "start": 2446.4,
+      "end": 2453.04,
+      "start_timestamp": "00:40:46.400",
+      "end_timestamp": "00:40:53.040",
+      "text": "D'ailleurs, c'est pas vrai, parce que les études qui ont été faites à Parnatexis montrent que le franc risquerait de ne baisser que de 2%"
+    },
+    {
+      "id": 319,
+      "start": 2453.04,
+      "end": 2460.8,
+      "start_timestamp": "00:40:53.040",
+      "end_timestamp": "00:41:00.800",
+      "text": "s'il ne résoudrait pas notre problème. Je dis mais ça serait formidable. On récupérerait la compétitivité de l'économie française."
+    },
+    {
+      "id": 320,
+      "start": 2460.8,
+      "end": 2469.8,
+      "start_timestamp": "00:41:00.800",
+      "end_timestamp": "00:41:09.800",
+      "text": "On arrêterait d'avoir cette hémorragie quotidienne d'emplois industriels. Donc en clair, la perte d'une politique monétaire indépendante"
+    },
+    {
+      "id": 321,
+      "start": 2469.8,
+      "end": 2475.96,
+      "start_timestamp": "00:41:09.800",
+      "end_timestamp": "00:41:15.960",
+      "text": "a fait perdre à la France la maîtrise d'une politique de taux de change externe compatible avec la compétitivité de l'industrie française,"
+    },
+    {
+      "id": 322,
+      "start": 2476.0,
+      "end": 2483.32,
+      "start_timestamp": "00:41:16.000",
+      "end_timestamp": "00:41:23.320",
+      "text": "qui n'est pas la même que la compétitivité de l'industrie allemande. L'euro cher est en train de mettre à mal l'agriculture et les services français"
+    },
+    {
+      "id": 323,
+      "start": 2483.32,
+      "end": 2489.96,
+      "start_timestamp": "00:41:23.320",
+      "end_timestamp": "00:41:29.960",
+      "text": "de détruire l'industrie française. Je ne crois pas avoir mis dans cette conférence les planches que j'expliquais hier pour montrer"
+    },
+    {
+      "id": 324,
+      "start": 2489.96,
+      "end": 2496.72,
+      "start_timestamp": "00:41:29.960",
+      "end_timestamp": "00:41:36.720",
+      "text": "comment ça fonctionne et pourquoi la France n'est pas dans la même situation que l'Allemagne. C'est un point sur lequel je pourrais revenir"
+    },
+    {
+      "id": 325,
+      "start": 2496.72,
+      "end": 2504.0,
+      "start_timestamp": "00:41:36.720",
+      "end_timestamp": "00:41:44.000",
+      "text": "dans les questions si vous le souhaitez. En attendant, il n'y a pas qu'Aselino qui nous dit ça. M. Louis Gallois, président de ADS,"
+    },
+    {
+      "id": 326,
+      "start": 2504.0,
+      "end": 2511.36,
+      "start_timestamp": "00:41:44.000",
+      "end_timestamp": "00:41:51.360",
+      "text": "dans un entretien du Figaro du 27 mars 2008, il était président quand même de l'entreprise qui fabriquait notamment Airbus."
+    },
+    {
+      "id": 327,
+      "start": 2511.36,
+      "end": 2517.52,
+      "start_timestamp": "00:41:51.360",
+      "end_timestamp": "00:41:57.520",
+      "text": "Bon, il savait quand même de quoi il parlait. En plus, il avait été président des SNCF. Louis Gallois disait « Une baisse du dollar de 10 cents,"
+    },
+    {
+      "id": 328,
+      "start": 2517.52,
+      "end": 2526.12,
+      "start_timestamp": "00:41:57.520",
+      "end_timestamp": "00:42:06.120",
+      "text": "de 10 centimes, fait perdre 1 milliard d'euros à Airbus ». Une augmentation – on peut dire – de l'euro par rapport au dollar de 10 centimes"
+    },
+    {
+      "id": 329,
+      "start": 2526.12,
+      "end": 2535.04,
+      "start_timestamp": "00:42:06.120",
+      "end_timestamp": "00:42:15.040",
+      "text": "fait perdre 1 milliard de dollars à Airbus. L'euro à son niveau actuel est en train d'asphyxier une bonne partie de l'industrie européenne"
+    },
+    {
+      "id": 330,
+      "start": 2535.04,
+      "end": 2545.6,
+      "start_timestamp": "00:42:15.040",
+      "end_timestamp": "00:42:25.600",
+      "text": "en laminant ses marges à l'exportation. Si cela continue, l'industrie européenne fuira l'Europe. Le Figaro du 27 mars 2008 entretient avec Louis Gallois"
+    },
+    {
+      "id": 331,
+      "start": 2545.6,
+      "end": 2553.88,
+      "start_timestamp": "00:42:25.600",
+      "end_timestamp": "00:42:33.880",
+      "text": "– allez vérifier si ce que je vous dis est faux –. Donc ça veut dire que un très grand patron était le premier à le dire."
+    },
+    {
+      "id": 332,
+      "start": 2553.88,
+      "end": 2561.4,
+      "start_timestamp": "00:42:33.880",
+      "end_timestamp": "00:42:41.400",
+      "text": "Et le problème, c'est que ça a continué. Comme ça continue, eh bien on se délocalise pour aller en zone dollar."
+    },
+    {
+      "id": 333,
+      "start": 2561.4,
+      "end": 2568.6,
+      "start_timestamp": "00:42:41.400",
+      "end_timestamp": "00:42:48.600",
+      "text": "On se délocalise d'autant plus, par exemple pour percer sur le marché chinois, que par ailleurs, les Chinois demandent des délocalisations,"
+    },
+    {
+      "id": 334,
+      "start": 2568.6,
+      "end": 2576.08,
+      "start_timestamp": "00:42:48.600",
+      "end_timestamp": "00:42:56.080",
+      "text": "puisqu'ils font mousser la concurrence entre Boeing et Airbus, puisque la Chine, évidemment, a des très, très, très grands marchés"
+    },
+    {
+      "id": 335,
+      "start": 2576.08,
+      "end": 2583.64,
+      "start_timestamp": "00:42:56.080",
+      "end_timestamp": "00:43:03.640",
+      "text": "d'achat d'appareils civils au cours des 20 prochaines années. Donc le résultat des courses, c'est qu'à la fois sur la demande des Chinois"
+    },
+    {
+      "id": 336,
+      "start": 2583.64,
+      "end": 2592.52,
+      "start_timestamp": "00:43:03.640",
+      "end_timestamp": "00:43:12.520",
+      "text": "et à la fois sur les contraintes de l'euro qui rendent les productions industrielles non compétitives en zone euro, eh bien EADS est obligé"
+    },
+    {
+      "id": 337,
+      "start": 2592.52,
+      "end": 2600.84,
+      "start_timestamp": "00:43:12.520",
+      "end_timestamp": "00:43:20.840",
+      "text": "d'aller se délocaliser en Chine. Et il n'y a pas qu'EADS. Je prends cet exemple parmi bien d'autres. Donc le résultat, c'est qu'une partie"
+    },
+    {
+      "id": 338,
+      "start": 2600.84,
+      "end": 2608.08,
+      "start_timestamp": "00:43:20.840",
+      "end_timestamp": "00:43:28.080",
+      "text": "de la production des Airbus A320 est désormais entièrement effectuée en Chine dans une usine flambant neuve de la ville de Tianjin."
+    },
+    {
+      "id": 339,
+      "start": 2608.08,
+      "end": 2613.88,
+      "start_timestamp": "00:43:28.080",
+      "end_timestamp": "00:43:33.880",
+      "text": "Alors les gens me disent « Oui, mais c'est que du montage. C'est pas encore de la fabrication ». Oui, bien sûr. C'est comme les gens"
+    },
+    {
+      "id": 340,
+      "start": 2613.88,
+      "end": 2619.48,
+      "start_timestamp": "00:43:33.880",
+      "end_timestamp": "00:43:39.480",
+      "text": "qui me disaient en Alsace il y a deux jours. « Mais non, mais cette région Alsace, ça n'ennuie en rien la souveraineté française »."
+    },
+    {
+      "id": 341,
+      "start": 2619.48,
+      "end": 2626.56,
+      "start_timestamp": "00:43:39.480",
+      "end_timestamp": "00:43:46.560",
+      "text": "Pas du tout. Ça, c'est toujours les propos lénifiants pour ne pas vous faire comprendre le processus qui est en cours."
+    },
+    {
+      "id": 342,
+      "start": 2626.56,
+      "end": 2633.96,
+      "start_timestamp": "00:43:46.560",
+      "end_timestamp": "00:43:53.960",
+      "text": "Oui, bien sûr, les Chinois ne vont pas sortir un Airbus A380 du jour au lendemain. Ce sont des industries très lourdes."
+    },
+    {
+      "id": 343,
+      "start": 2633.96,
+      "end": 2644.48,
+      "start_timestamp": "00:43:53.960",
+      "end_timestamp": "00:44:04.480",
+      "text": "Il faut avoir à la fois du savoir-faire des ingénieurs, tout un outil industriel sur place. Mais la tendance, elle est là."
+    },
+    {
+      "id": 344,
+      "start": 2644.48,
+      "end": 2654.2,
+      "start_timestamp": "00:44:04.480",
+      "end_timestamp": "00:44:14.200",
+      "text": "Elle est là et bien là. Ça, c'est l'inauguration donc de cette usine. On a Tianjin. Le premier Airbus A320 fabriqué en Chine"
+    },
+    {
+      "id": 345,
+      "start": 2654.2,
+      "end": 2658.88,
+      "start_timestamp": "00:44:14.200",
+      "end_timestamp": "00:44:18.880",
+      "text": "a été livré à la compagnie chinoise Sichuan Airlines. Et vous savez, c'est une des compagnies régionales."
+    },
+    {
+      "id": 346,
+      "start": 2658.88,
+      "end": 2666.04,
+      "start_timestamp": "00:44:18.880",
+      "end_timestamp": "00:44:26.040",
+      "text": "Il y a un certain nombre de compagnies régionales en Chine depuis que le gouvernement chinois a fait éclater le monopole de la compagnie CAC,"
+    },
+    {
+      "id": 347,
+      "start": 2666.04,
+      "end": 2675.92,
+      "start_timestamp": "00:44:26.040",
+      "end_timestamp": "00:44:35.920",
+      "text": "qui était la compagnie nationale auparavant. Donc le premier Airbus entièrement monté en Chine, l'Airbus A320, a été livré à la Sichuan Airlines"
+    },
+    {
+      "id": 348,
+      "start": 2675.92,
+      "end": 2693.2,
+      "start_timestamp": "00:44:35.920",
+      "end_timestamp": "00:44:53.200",
+      "text": "de 23 juin 2009. Ensuite, on sait que... Voilà. Fin 2009, l'usine chinoise de Tianjin a produit 11 Airbus, 6 A319 et 5 A320."
+    },
+    {
+      "id": 349,
+      "start": 2693.2,
+      "end": 2703.2,
+      "start_timestamp": "00:44:53.200",
+      "end_timestamp": "00:45:03.200",
+      "text": "En 2011, l'usine chinoise de Tianjin a produit 48 Airbus par an. Donc on est passés à 1 par semaine. Combien de copies d'Airbus"
+    },
+    {
+      "id": 350,
+      "start": 2703.2,
+      "end": 2712.91,
+      "start_timestamp": "00:45:03.200",
+      "end_timestamp": "00:45:12.910",
+      "text": "va-t-il y avoir ? Que restera-t-il de l'industrie aéronautique française dans 15 ans, en 2025 ou 2030 ? D'autant plus que..."
+    },
+    {
+      "id": 351,
+      "start": 2712.91,
+      "end": 2718.15,
+      "start_timestamp": "00:45:12.910",
+      "end_timestamp": "00:45:18.150",
+      "text": "Ça n'est pas faire offense aux Chinois, que j'aime beaucoup. Je suis allé souvent en Chine. Ça implique que je connais bien."
+    },
+    {
+      "id": 352,
+      "start": 2718.15,
+      "end": 2724.51,
+      "start_timestamp": "00:45:18.150",
+      "end_timestamp": "00:45:24.510",
+      "text": "Mais d'autant plus que les Chinois ont le génie, comme tous les peuples d'Extrême-Orient, de la copie, puisque c'est valorisé"
+    },
+    {
+      "id": 353,
+      "start": 2724.51,
+      "end": 2732.55,
+      "start_timestamp": "00:45:24.510",
+      "end_timestamp": "00:45:32.550",
+      "text": "dans leur culture. Nous, nous sommes une culture où on dévalorise la copie. On valorise le geste singulier de l'artiste fou."
+    },
+    {
+      "id": 354,
+      "start": 2732.55,
+      "end": 2739.87,
+      "start_timestamp": "00:45:32.550",
+      "end_timestamp": "00:45:39.870",
+      "text": "En Chine, pas du tout. En Chine, on valorise la théorie confucienne. C'est d'apprendre auprès d'un sensei, comme on dit en japonais,"
+    },
+    {
+      "id": 355,
+      "start": 2739.87,
+      "end": 2747.95,
+      "start_timestamp": "00:45:39.870",
+      "end_timestamp": "00:45:47.950",
+      "text": "d'un professeur. On apprend, on apprend, on apprend à écrire pendant des dizaines d'années l'écriture chinoise. Donc on valorise la copie."
+    },
+    {
+      "id": 356,
+      "start": 2747.95,
+      "end": 2754.47,
+      "start_timestamp": "00:45:47.950",
+      "end_timestamp": "00:45:54.470",
+      "text": "Alors en plus, c'est évidemment dans l'intérêt industriel. Mais ça veut bien dire que dans moins de 10 ans, il y aura plus"
+    },
+    {
+      "id": 357,
+      "start": 2754.47,
+      "end": 2760.83,
+      "start_timestamp": "00:45:54.470",
+      "end_timestamp": "00:46:00.830",
+      "text": "2 fabricants d'avions au monde. Il y aura Boeing, Airbus. Et puis il y aura... Un des principaux nouveaux concurrents,"
+    },
+    {
+      "id": 358,
+      "start": 2760.83,
+      "end": 2768.47,
+      "start_timestamp": "00:46:00.830",
+      "end_timestamp": "00:46:08.470",
+      "text": "ce sera le fabricant chinois. Et puis comme Boeing est subclaquant avec son affaire de Dreamliner, et puis comme Airbus se délocalise"
+    },
+    {
+      "id": 359,
+      "start": 2768.47,
+      "end": 2774.19,
+      "start_timestamp": "00:46:08.470",
+      "end_timestamp": "00:46:14.190",
+      "text": "à cause de l'euro, nous sommes en train de tuer Airbus. Alors on présente Airbus comme un grand fleuron de la construction européenne."
+    },
+    {
+      "id": 360,
+      "start": 2774.19,
+      "end": 2780.39,
+      "start_timestamp": "00:46:14.190",
+      "end_timestamp": "00:46:20.390",
+      "text": "Alors j'insiste sur le fait que ça n'a rien à voir. Vous savez que Airbus n'a rien à voir avec la construction européenne."
+    },
+    {
+      "id": 361,
+      "start": 2780.39,
+      "end": 2785.79,
+      "start_timestamp": "00:46:20.390",
+      "end_timestamp": "00:46:25.790",
+      "text": "Ça a été lancé par Charles de Gaulle, qui justement, comme il refusait l'entrée de la Grande-Bretagne dans le marché commun,"
+    },
+    {
+      "id": 362,
+      "start": 2785.79,
+      "end": 2792.91,
+      "start_timestamp": "00:46:25.790",
+      "end_timestamp": "00:46:32.910",
+      "text": "avait voulu montrer qu'il n'était pas anti-anglais. Donc il a lancé un procédure de coopération industrielle internationale."
+    },
+    {
+      "id": 363,
+      "start": 2792.91,
+      "end": 2799.03,
+      "start_timestamp": "00:46:32.910",
+      "end_timestamp": "00:46:39.030",
+      "text": "Donc Airbus, c'est une coopération internationale. On est bien d'accord là-dessus. Vous savez que dans Airbus à 380,"
+    },
+    {
+      "id": 364,
+      "start": 2799.03,
+      "end": 2806.59,
+      "start_timestamp": "00:46:39.030",
+      "end_timestamp": "00:46:46.590",
+      "text": "le premier pays fabricant, ce sont les États-Unis d'Amérique, avec 38% de part intégrée dans l'avion."
+    },
+    {
+      "id": 365,
+      "start": 2806.59,
+      "end": 2814.51,
+      "start_timestamp": "00:46:46.590",
+      "end_timestamp": "00:46:54.510",
+      "text": "Dans l'Airbus à 380, le très grand porteur. Toute l'électronique embarquée, plus les trains d'atterrissage, c'est américain."
+    },
+    {
+      "id": 366,
+      "start": 2814.51,
+      "end": 2821.27,
+      "start_timestamp": "00:46:54.510",
+      "end_timestamp": "00:47:01.270",
+      "text": "Et puis en plus, toute une grande partie de l'avionique. Donc ça, je l'explique dans une autre de mes conférences."
+    },
+    {
+      "id": 367,
+      "start": 2821.27,
+      "end": 2827.87,
+      "start_timestamp": "00:47:01.270",
+      "end_timestamp": "00:47:07.870",
+      "text": "Si demain, la France sort de l'UE, elle sera toujours dans Airbus. Ça n'a rien à voir. C'est pas un traité."
+    },
+    {
+      "id": 368,
+      "start": 2827.91,
+      "end": 2834.55,
+      "start_timestamp": "00:47:07.910",
+      "end_timestamp": "00:47:14.550",
+      "text": "C'est une coopération internationale. Pareil pour Ariane-Espace. Bon. D'ailleurs, il y a beaucoup de pays de l'UE"
+    },
+    {
+      "id": 369,
+      "start": 2834.55,
+      "end": 2840.03,
+      "start_timestamp": "00:47:14.550",
+      "end_timestamp": "00:47:20.030",
+      "text": "qui ne sont pas dans l'Airbus. La majorité des pays de l'UE ne mettent pas un clou dans Airbus, un rivet,"
+    },
+    {
+      "id": 370,
+      "start": 2840.03,
+      "end": 2844.87,
+      "start_timestamp": "00:47:20.030",
+      "end_timestamp": "00:47:24.870",
+      "text": "alors que vous avez dans les Airbus une coopération très importante. Vous avez 10 entreprises japonaises,"
+    },
+    {
+      "id": 371,
+      "start": 2844.87,
+      "end": 2852.19,
+      "start_timestamp": "00:47:24.870",
+      "end_timestamp": "00:47:32.190",
+      "text": "des entreprises sud-coréennes, singapouriennes, canadiennes, russes, américaines dans l'Airbus. Bien."
+    },
+    {
+      "id": 372,
+      "start": 2852.19,
+      "end": 2859.83,
+      "start_timestamp": "00:47:32.190",
+      "end_timestamp": "00:47:39.830",
+      "text": "Alors tout ceci mène à quoi ? Eh bien mène à ceci, c'est-à-dire l'effondrement du nombre d'heures travaillées dans l'industrie en France"
+    },
+    {
+      "id": 373,
+      "start": 2859.83,
+      "end": 2870.63,
+      "start_timestamp": "00:47:39.830",
+      "end_timestamp": "00:47:50.630",
+      "text": "depuis 1997 jusqu'à 2011. C'est un suicide économique silencieux. L'industrie française a perdu un tiers du total des heures travaillées en 15 ans."
+    },
+    {
+      "id": 374,
+      "start": 2870.63,
+      "end": 2875.67,
+      "start_timestamp": "00:47:50.630",
+      "end_timestamp": "00:47:55.670",
+      "text": "Je vous parle beaucoup de suicide, mais parce que la France est en train de se suicider."
+    },
+    {
+      "id": 375,
+      "start": 2875.67,
+      "end": 2882.31,
+      "start_timestamp": "00:47:55.670",
+      "end_timestamp": "00:48:02.310",
+      "text": "Nous sommes en train... Un pays qui est en train de se suicider au sens propre comme au sens figuré."
+    },
+    {
+      "id": 376,
+      "start": 2882.31,
+      "end": 2891.66,
+      "start_timestamp": "00:48:02.310",
+      "end_timestamp": "00:48:11.660",
+      "text": "Les agriculteurs se suicident. L'agriculture française dégringole. L'industrie française... Regardez cette courbe."
+    },
+    {
+      "id": 377,
+      "start": 2891.66,
+      "end": 2901.42,
+      "start_timestamp": "00:48:11.660",
+      "end_timestamp": "00:48:21.420",
+      "text": "Le contre-apposé de ça, c'est ça. Actuellement, chaque jour, chaque jour, la France perd 4 à 500 emplois."
+    },
+    {
+      "id": 378,
+      "start": 2901.42,
+      "end": 2912.58,
+      "start_timestamp": "00:48:21.420",
+      "end_timestamp": "00:48:32.580",
+      "text": "Chaque jour, la France perd une usine. Chaque jour, plus de 1 500 Français basculent en dessous du seuil de pauvreté calculé par l'INSEE"
+    },
+    {
+      "id": 379,
+      "start": 2912.58,
+      "end": 2919.42,
+      "start_timestamp": "00:48:32.580",
+      "end_timestamp": "00:48:39.420",
+      "text": "pour l'année 2010. En 2012, je pense qu'on va être plutôt à plus de 2 000 Français qui basculent en dessous du seuil de pauvreté."
+    },
+    {
+      "id": 380,
+      "start": 2919.42,
+      "end": 2930.46,
+      "start_timestamp": "00:48:39.420",
+      "end_timestamp": "00:48:50.460",
+      "text": "Voici la situation, une situation qui est calamiteuse, qui dure maintenant depuis 15 ans, en fait, qui est directement corrélée"
+    },
+    {
+      "id": 381,
+      "start": 2930.46,
+      "end": 2937.74,
+      "start_timestamp": "00:48:50.460",
+      "end_timestamp": "00:48:57.740",
+      "text": "à l'adoption du traité de Maastricht, de l'euro, de la prétendue mondialisation inévitable, c'est-à-dire de la suppression"
+    },
+    {
+      "id": 382,
+      "start": 2937.74,
+      "end": 2942.94,
+      "start_timestamp": "00:48:57.740",
+      "end_timestamp": "00:49:02.940",
+      "text": "de tous les contrôles aux échanges de capitaux, de marchandises et de services. Ça n'est le défrut direct."
+    },
+    {
+      "id": 383,
+      "start": 2942.94,
+      "end": 2950.14,
+      "start_timestamp": "00:49:02.940",
+      "end_timestamp": "00:49:10.140",
+      "text": "Et que font ceux qui sont à l'origine de ça ? Ils continuent à plastronner dans les médias. Les Jacques Attali, les Jacques Delors"
+    },
+    {
+      "id": 384,
+      "start": 2950.14,
+      "end": 2956.06,
+      "start_timestamp": "00:49:10.140",
+      "end_timestamp": "00:49:16.060",
+      "text": "sont en train de nous dire ce qu'il faut faire maintenant alors que tout ce qu'ils ont dit s'est traduit par une catastrophe,"
+    },
+    {
+      "id": 385,
+      "start": 2956.06,
+      "end": 2965.18,
+      "start_timestamp": "00:49:16.060",
+      "end_timestamp": "00:49:25.180",
+      "text": "ayant été mise en pratique. J'allais dire un gros mot. Nous avons des clowns comme M. Montebourg, qui se fait nommer"
+    },
+    {
+      "id": 386,
+      "start": 2965.18,
+      "end": 2974.46,
+      "start_timestamp": "00:49:25.180",
+      "end_timestamp": "00:49:34.460",
+      "text": "ministre du Redressement Productif. Il a fait quoi pour redresser productivement la France depuis un an ? Rien, parce qu'il ne peut rien faire,"
+    },
+    {
+      "id": 387,
+      "start": 2974.46,
+      "end": 2983.1,
+      "start_timestamp": "00:49:34.460",
+      "end_timestamp": "00:49:43.100",
+      "text": "parce que la clé du problème, c'est l'article 63. Elle est là, la clé du problème. Donc que nous n'aurons pas cassé ce système"
+    },
+    {
+      "id": 388,
+      "start": 2983.1,
+      "end": 2990.54,
+      "start_timestamp": "00:49:43.100",
+      "end_timestamp": "00:49:50.540",
+      "text": "qui permet aux entreprises de délocaliser tout ce qu'elles veulent dans leurs usines, on ne peut pas lutter contre les délocalisations."
+    },
+    {
+      "id": 389,
+      "start": 2990.54,
+      "end": 3000.22,
+      "start_timestamp": "00:49:50.540",
+      "end_timestamp": "00:50:00.220",
+      "text": "Sinon, c'est de la fumisterie. Voilà la réalité de la situation. On a certains... D'ailleurs, je crois qu'il y en a un qui est dans la salle"
+    },
+    {
+      "id": 390,
+      "start": 3000.22,
+      "end": 3010.42,
+      "start_timestamp": "00:50:00.220",
+      "end_timestamp": "00:50:10.420",
+      "text": "de nos militants qui était allé voir M. Mélenchon. Vous voyez qui c'est, Mélenchon ? M. Mélenchon, qui a toujours des propos"
+    },
+    {
+      "id": 391,
+      "start": 3010.42,
+      "end": 3021.3,
+      "start_timestamp": "00:50:10.420",
+      "end_timestamp": "00:50:21.300",
+      "text": "extraordinaires, n'est-ce pas, pour mobiliser le peuple de gauche, les ouvriers, etc. Ça, il est fort en gueule, on peut le dire."
+    },
+    {
+      "id": 392,
+      "start": 3021.3,
+      "end": 3027.98,
+      "start_timestamp": "00:50:21.300",
+      "end_timestamp": "00:50:27.980",
+      "text": "Mais il ne parle jamais de ça. Ce sont des formules. Alors on a certains de nos militants qui sont allés le voir, qui ont dit"
+    },
+    {
+      "id": 393,
+      "start": 3027.98,
+      "end": 3035.02,
+      "start_timestamp": "00:50:27.980",
+      "end_timestamp": "00:50:35.020",
+      "text": "« M. Mélenchon, est-ce que vous pourriez parler de l'article 63 du TFUE ? ». Et il a répondu quoi ? Ils sont dans la salle."
+    },
+    {
+      "id": 394,
+      "start": 3035.02,
+      "end": 3048.41,
+      "start_timestamp": "00:50:35.020",
+      "end_timestamp": "00:50:48.410",
+      "text": "« Camarade, on ne parle pas de ça ! Voilà. Il y a des caméras. On va nous descendre. On ne parle pas de ça ». Ah bon ?"
+    },
+    {
+      "id": 395,
+      "start": 3048.41,
+      "end": 3056.09,
+      "start_timestamp": "00:50:48.410",
+      "end_timestamp": "00:50:56.090",
+      "text": "Mais il sert à quoi, M. Mélenchon ? Il sert en fait à drainer sur son nom 10% à 12% des gens pour ensuite, au deuxième tour,"
+    },
+    {
+      "id": 396,
+      "start": 3056.09,
+      "end": 3065.89,
+      "start_timestamp": "00:50:56.090",
+      "end_timestamp": "00:51:05.890",
+      "text": "aller les faire voter pour M. Hollande, qui est l'artisan même de la catastrophe. C'est comme ça que les choses se passent."
+    },
+    {
+      "id": 397,
+      "start": 3065.89,
+      "end": 3072.49,
+      "start_timestamp": "00:51:05.890",
+      "end_timestamp": "00:51:12.490",
+      "text": "Je n'exagère pas. C'est d'ailleurs pour ça qu'il y a de plus en plus de gens qui viennent m'écouter, parce qu'ils savent, voient que c'est la vérité."
+    },
+    {
+      "id": 398,
+      "start": 3072.49,
+      "end": 3079.05,
+      "start_timestamp": "00:51:12.490",
+      "end_timestamp": "00:51:19.050",
+      "text": "Et si vous en doutez, si vous le découvrez, allez voir mes conférences. Regardez l'actualité dans un mois, dans deux mois,"
+    },
+    {
+      "id": 399,
+      "start": 3079.05,
+      "end": 3086.81,
+      "start_timestamp": "00:51:19.050",
+      "end_timestamp": "00:51:26.810",
+      "text": "dans cinq mois, dans six mois, dans un an. Vous verrez. Ça va continuer, tant que les Français ne seront pas sortis de ce cancer,"
+    },
+    {
+      "id": 400,
+      "start": 3086.81,
+      "end": 3092.69,
+      "start_timestamp": "00:51:26.810",
+      "end_timestamp": "00:51:32.690",
+      "text": "n'auront pas balayé toute cette classe politique qui verrouille indûment tout débat. Parce que la moindre des choses,"
+    },
+    {
+      "id": 401,
+      "start": 3092.69,
+      "end": 3102.93,
+      "start_timestamp": "00:51:32.690",
+      "end_timestamp": "00:51:42.930",
+      "text": "si nous étions en démocratie, c'est que je puisse débattre à la télévision, à TF1, avec Jacques Attali ou avec M. Montebourg"
+    },
+    {
+      "id": 402,
+      "start": 3102.93,
+      "end": 3113.56,
+      "start_timestamp": "00:51:42.930",
+      "end_timestamp": "00:51:53.560",
+      "text": "ou avec M. Sarkozy, puis que les Français jugent. Non. Les Français, TF1, on leur donne du Koh-Lanta. C'est la raison n°4."
+    },
+    {
+      "id": 403,
+      "start": 3113.56,
+      "end": 3122.28,
+      "start_timestamp": "00:51:53.560",
+      "end_timestamp": "00:52:02.280",
+      "text": "Si nous voulons sauver nos emplois, sauver l'industrie française, sauver notre savoir-faire industriel, préserver notre niveau de vie,"
+    },
+    {
+      "id": 404,
+      "start": 3122.28,
+      "end": 3130.54,
+      "start_timestamp": "00:52:02.280",
+      "end_timestamp": "00:52:10.540",
+      "text": "empêcher l'appauvrissement très rapide de la population française, alors il faut que la France sorte de l'euro au plus vite"
+    },
+    {
+      "id": 405,
+      "start": 3130.54,
+      "end": 3136.24,
+      "start_timestamp": "00:52:10.540",
+      "end_timestamp": "00:52:16.240",
+      "text": "pour récupérer la maîtrise de sa politique monétaire, notamment pour le taux de change externe. Deuxièmement, il faut que la France"
+    },
+    {
+      "id": 406,
+      "start": 3136.24,
+      "end": 3143.56,
+      "start_timestamp": "00:52:16.240",
+      "end_timestamp": "00:52:23.560",
+      "text": "dénonce juridiquement de nombreux articles des traités européens qui favorisent, qui poussent, qui donnent un dynamisme"
+    },
+    {
+      "id": 407,
+      "start": 3143.56,
+      "end": 3153.36,
+      "start_timestamp": "00:52:23.560",
+      "end_timestamp": "00:52:33.360",
+      "text": "phénoménal à toutes les délocalisations. C'est-à-dire les articles 32, 63, 282 du traité sur le fonctionnement de l'UE."
+    },
+    {
+      "id": 408,
+      "start": 3153.36,
+      "end": 3159.04,
+      "start_timestamp": "00:52:33.360",
+      "end_timestamp": "00:52:39.040",
+      "text": "Ces traités dont M. Mélenchon ne veut pas parler parce qu'il a peur des caméras, paraît-il. Mais il n'a pas seulement peur des caméras,"
+    },
+    {
+      "id": 409,
+      "start": 3159.04,
+      "end": 3165.4,
+      "start_timestamp": "00:52:39.040",
+      "end_timestamp": "00:52:45.400",
+      "text": "il a aussi peur de ses électeurs, puisqu'il ne leur dit dans aucune conférence publique. D'ailleurs, il n'en parle pas non plus"
+    },
+    {
+      "id": 410,
+      "start": 3165.4,
+      "end": 3173.48,
+      "start_timestamp": "00:52:45.400",
+      "end_timestamp": "00:52:53.480",
+      "text": "dans ses documents électoraux. Et enfin, il appelle à voter pour M. Hollande, qui est justement le partisan de ces traités."
+    },
+    {
+      "id": 411,
+      "start": 3173.48,
+      "end": 3182.77,
+      "start_timestamp": "00:52:53.480",
+      "end_timestamp": "00:53:02.770",
+      "text": "J'aurais pu dire la même chose, d'ailleurs. À droite, hein. La raison n°5, c'est qu'il faut maîtriser les flux migratoires"
+    },
+    {
+      "id": 412,
+      "start": 3182.77,
+      "end": 3192.03,
+      "start_timestamp": "00:53:02.770",
+      "end_timestamp": "00:53:12.030",
+      "text": "afin de ne déstabiliser ni la société française ni les sociétés des pays des migrations. C'est un sujet empoisonné."
+    },
+    {
+      "id": 413,
+      "start": 3192.03,
+      "end": 3198.03,
+      "start_timestamp": "00:53:12.030",
+      "end_timestamp": "00:53:18.030",
+      "text": "Je rappelle que le mouvement politique que j'ai créé n'est ni de droite ni de gauche. Il rassemble des gens de tous les horizons."
+    },
+    {
+      "id": 414,
+      "start": 3198.03,
+      "end": 3205.59,
+      "start_timestamp": "00:53:18.030",
+      "end_timestamp": "00:53:25.590",
+      "text": "Et c'est un sujet sur lequel je parle toujours avec beaucoup de prudence, parce que je sais trop qu'il y a derrière des drames humains considérables."
+    },
+    {
+      "id": 415,
+      "start": 3205.59,
+      "end": 3214.31,
+      "start_timestamp": "00:53:25.590",
+      "end_timestamp": "00:53:34.310",
+      "text": "Donc ce que nous, nous disons, c'est que plutôt que les Français se disputent et ont les fait se disputer sur ce sujet de façon vicieuse,"
+    },
+    {
+      "id": 416,
+      "start": 3214.31,
+      "end": 3220.75,
+      "start_timestamp": "00:53:34.310",
+      "end_timestamp": "00:53:40.750",
+      "text": "parce que c'est un sujet empoisonné, avec évidemment derrière tout ce que l'on peut imaginer en termes de fantasme,"
+    },
+    {
+      "id": 417,
+      "start": 3220.75,
+      "end": 3230.83,
+      "start_timestamp": "00:53:40.750",
+      "end_timestamp": "00:53:50.830",
+      "text": "en termes de submersion, de péril jaune, de péril si, de péril ça, de l'islamisation. Donc ça, c'est un sujet rêvé pour que les Français se disputent."
+    },
+    {
+      "id": 418,
+      "start": 3230.83,
+      "end": 3240.19,
+      "start_timestamp": "00:53:50.830",
+      "end_timestamp": "00:54:00.190",
+      "text": "C'est comme le mariage pour tous, sans jamais parler des vrais sujets qui sont derrière. Le traité sur le fonctionnement de l'UE précise"
+    },
+    {
+      "id": 419,
+      "start": 3240.19,
+      "end": 3252.47,
+      "start_timestamp": "00:54:00.190",
+      "end_timestamp": "00:54:12.470",
+      "text": "dans son article 67 que l'UE assure l'absence de contrôle des personnes aux frontières intérieures. Il faut quand même lire cet article."
+    },
+    {
+      "id": 420,
+      "start": 3252.47,
+      "end": 3263.01,
+      "start_timestamp": "00:54:12.470",
+      "end_timestamp": "00:54:23.010",
+      "text": "Il faut quand même lire cet article à tête reposée, parce que moi, j'avais jamais vu ça. En général, on assure des contrôles."
+    },
+    {
+      "id": 421,
+      "start": 3263.01,
+      "end": 3273.01,
+      "start_timestamp": "00:54:23.010",
+      "end_timestamp": "00:54:33.010",
+      "text": "Mais « assurer l'absence de contrôle », ça veut dire qu'on a l'impression que l'UE met aux frontières des espèces de gabelous"
+    },
+    {
+      "id": 422,
+      "start": 3273.01,
+      "end": 3281.97,
+      "start_timestamp": "00:54:33.010",
+      "end_timestamp": "00:54:41.970",
+      "text": "qui sont là pour bien vérifier que s'il y a des gens qui passent, personne ne les emmerde. Voilà. C'est exactement interdit d'interdire."
+    },
+    {
+      "id": 423,
+      "start": 3281.97,
+      "end": 3290.61,
+      "start_timestamp": "00:54:41.970",
+      "end_timestamp": "00:54:50.610",
+      "text": "En effet, c'est le même schéma que... Toute restriction aux échanges de capitaux est interdite, n'est-ce pas ?"
+    },
+    {
+      "id": 424,
+      "start": 3290.61,
+      "end": 3300.45,
+      "start_timestamp": "00:54:50.610",
+      "end_timestamp": "00:55:00.450",
+      "text": "On assure l'absence d'interdiction des contrôles de capitaux. Bon. Ça veut donc dire quoi ? Ça veut dire que l'UE,"
+    },
+    {
+      "id": 425,
+      "start": 3300.45,
+      "end": 3312.05,
+      "start_timestamp": "00:55:00.450",
+      "end_timestamp": "00:55:12.050",
+      "text": "délibérément, veut démanteler les pouvoirs des pays d'Europe en matière tout simplement de gestion de l'entrée sur leur territoire."
+    },
+    {
+      "id": 426,
+      "start": 3312.05,
+      "end": 3319.53,
+      "start_timestamp": "00:55:12.050",
+      "end_timestamp": "00:55:19.530",
+      "text": "Mais ça, ça n'existe nulle part ailleurs au monde. Tous les États du monde gèrent l'entrée sur leur territoire, à commencer d'ailleurs"
+    },
+    {
+      "id": 427,
+      "start": 3319.53,
+      "end": 3328.85,
+      "start_timestamp": "00:55:19.530",
+      "end_timestamp": "00:55:28.850",
+      "text": "par les États-Unis d'Amérique, que l'on nous présente constamment comme étant le paradigme, le modèle du XXIe siècle."
+    },
+    {
+      "id": 428,
+      "start": 3328.85,
+      "end": 3334.81,
+      "start_timestamp": "00:55:28.850",
+      "end_timestamp": "00:55:34.810",
+      "text": "Je trouve toujours extraordinaire les gens qui me disent « Ah, mais comment ? Vous voulez réintroduire les frontières ?"
+    },
+    {
+      "id": 429,
+      "start": 3334.81,
+      "end": 3340.41,
+      "start_timestamp": "00:55:34.810",
+      "end_timestamp": "00:55:40.410",
+      "text": "Mais vous n'y pensez pas. Mais vous êtes dément ». Et les mêmes qui me disent 15 secondes après, « Les États-Unis,"
+    },
+    {
+      "id": 430,
+      "start": 3340.41,
+      "end": 3346.65,
+      "start_timestamp": "00:55:40.410",
+      "end_timestamp": "00:55:46.650",
+      "text": "il faut faire comme les États-Unis. Il faut faire les États-Unis d'Amérique comme les États-Unis d'Amérique ». Mais quel est le pays au monde"
+    },
+    {
+      "id": 431,
+      "start": 3346.65,
+      "end": 3358.57,
+      "start_timestamp": "00:55:46.650",
+      "end_timestamp": "00:55:58.570",
+      "text": "le plus nationaliste, le plus fermé sur le monde, qui, du fait notamment de Patriot Act, a imposé des passeports biométriques ?"
+    },
+    {
+      "id": 432,
+      "start": 3358.57,
+      "end": 3365.69,
+      "start_timestamp": "00:55:58.570",
+      "end_timestamp": "00:56:05.690",
+      "text": "On vous met quasiment dans la tenue d'Adam ou d'Eff, quand il faut monter à bord d'un avion, on vous vérifie ce que vous avez"
+    },
+    {
+      "id": 433,
+      "start": 3365.69,
+      "end": 3372.89,
+      "start_timestamp": "00:56:05.690",
+      "end_timestamp": "00:56:12.890",
+      "text": "dans les souliers, ou si vous n'avez pas du TNT dans vos baleines de soutien-gorge. Ce sont les États-Unis d'Amérique. Bien."
+    },
+    {
+      "id": 434,
+      "start": 3372.89,
+      "end": 3380.41,
+      "start_timestamp": "00:56:12.890",
+      "end_timestamp": "00:56:20.410",
+      "text": "Alors on nous dit que l'UE doit développer une politique commune en matière d'asile d'immigration de contrôle des frontières extérieures."
+    },
+    {
+      "id": 435,
+      "start": 3380.41,
+      "end": 3390.37,
+      "start_timestamp": "00:56:20.410",
+      "end_timestamp": "00:56:30.370",
+      "text": "Ce que je trouve extraordinaire, c'est que personne ne le dit aux Français. Et en particulier, d'ailleurs, pas Mme Le Pen."
+    },
+    {
+      "id": 436,
+      "start": 3390.37,
+      "end": 3398.01,
+      "start_timestamp": "00:56:30.370",
+      "end_timestamp": "00:56:38.010",
+      "text": "Les Français, on les fait se battre avec ceux qui vont faire une politique sur l'immigration cis, sur l'immigration sain, et ci, et ça."
+    },
+    {
+      "id": 437,
+      "start": 3398.01,
+      "end": 3407.13,
+      "start_timestamp": "00:56:38.010",
+      "end_timestamp": "00:56:47.130",
+      "text": "Mais personne n'en a plus le pouvoir, puisque c'est l'UE. Donc ce que nous, nous disons – et nous sommes tout à fait cohérents avec notre charte –,"
+    },
+    {
+      "id": 438,
+      "start": 3407.13,
+      "end": 3414.97,
+      "start_timestamp": "00:56:47.130",
+      "end_timestamp": "00:56:54.970",
+      "text": "c'est que nous disons que vous soyez pour une politique sévère vis-à-vis de l'immigration. Il y en a chez nous."
+    },
+    {
+      "id": 439,
+      "start": 3414.97,
+      "end": 3421.21,
+      "start_timestamp": "00:56:54.970",
+      "end_timestamp": "00:57:01.210",
+      "text": "Que vous soyez pour une politique de très large accueil de l'immigration. Nous en avons aussi chez nous."
+    },
+    {
+      "id": 440,
+      "start": 3421.21,
+      "end": 3427.61,
+      "start_timestamp": "00:57:01.210",
+      "end_timestamp": "00:57:07.610",
+      "text": "Donc ils considèrent par exemple que l'immigration, sur long terme, permet à la France – ce qui n'est d'ailleurs pas faux – d'avoir une démographie"
+    },
+    {
+      "id": 441,
+      "start": 3427.61,
+      "end": 3434.81,
+      "start_timestamp": "00:57:07.610",
+      "end_timestamp": "00:57:14.810",
+      "text": "qui est assez dynamique. Ça veut dire par exemple que d'ici 2050, 2060, la France sera peut-être plus peuplée que l'Allemagne."
+    },
+    {
+      "id": 442,
+      "start": 3434.81,
+      "end": 3442.93,
+      "start_timestamp": "00:57:14.810",
+      "end_timestamp": "00:57:22.930",
+      "text": "Ce qui n'est pas rien en termes de puissance et de survie d'une collectivité nationale. Bon. Et puis il y en a qui sont..."
+    },
+    {
+      "id": 443,
+      "start": 3442.93,
+      "end": 3448.61,
+      "start_timestamp": "00:57:22.930",
+      "end_timestamp": "00:57:28.610",
+      "text": "Ben non, il faut avoir une politique entre les deux. Nous, nous ne prenons pas parti. Nous, nous accueillons tout le monde."
+    },
+    {
+      "id": 444,
+      "start": 3448.61,
+      "end": 3452.29,
+      "start_timestamp": "00:57:28.610",
+      "end_timestamp": "00:57:32.290",
+      "text": "Et tous les gens se viennent chez nous parce qu'ils ont compris que nous leur donnons la vérité. On leur dit"
+    },
+    {
+      "id": 445,
+      "start": 3452.29,
+      "end": 3460.05,
+      "start_timestamp": "00:57:32.290",
+      "end_timestamp": "00:57:40.050",
+      "text": "« Ça ne sert à rien de se bouffer le nez, puisqu'une façon, c'est pas nous qui décidons ». Donc on se rassemble pour reprendre le pouvoir."
+    },
+    {
+      "id": 446,
+      "start": 3460.05,
+      "end": 3466.97,
+      "start_timestamp": "00:57:40.050",
+      "end_timestamp": "00:57:46.970",
+      "text": "Et puis une fois qu'on aura repris le pouvoir, ça sera en français de décider. C'est d'ailleurs ce que j'ai proposé dans mon programme,"
+    },
+    {
+      "id": 447,
+      "start": 3466.97,
+      "end": 3473.41,
+      "start_timestamp": "00:57:46.970",
+      "end_timestamp": "00:57:53.410",
+      "text": "qui est notre programme depuis le 3 décembre 2011, c'est-à-dire de la même façon que nous voulons un grand débat où on met tout sur la table"
+    },
+    {
+      "id": 448,
+      "start": 3473.41,
+      "end": 3479.73,
+      "start_timestamp": "00:57:53.410",
+      "end_timestamp": "00:57:59.730",
+      "text": "la question de l'endettement public, et de voir si le concept de dette odieuse ne peut pas s'appliquer à toute ou partie de l'endettement"
+    },
+    {
+      "id": 449,
+      "start": 3479.73,
+      "end": 3488.25,
+      "start_timestamp": "00:57:59.730",
+      "end_timestamp": "00:58:08.250",
+      "text": "dont nous souffrons, et d'avoir un schéma éventuel à l'islandaise ou à l'argentine, voir comment sortir de cette affaire dont"
+    },
+    {
+      "id": 450,
+      "start": 3488.25,
+      "end": 3493.49,
+      "start_timestamp": "00:58:08.250",
+      "end_timestamp": "00:58:13.490",
+      "text": "tous les experts savent que jamais on ne pourra rembourser, pas seulement la France, mais d'ailleurs l'Allemagne, le Japon, les États-Unis..."
+    },
+    {
+      "id": 451,
+      "start": 3493.49,
+      "end": 3499.33,
+      "start_timestamp": "00:58:13.490",
+      "end_timestamp": "00:58:19.330",
+      "text": "Tout le monde sait qu'on ne pourra pas rembourser ces dettes-là. Donc remettre à plat le système depuis le début."
+    },
+    {
+      "id": 452,
+      "start": 3499.33,
+      "end": 3504.81,
+      "start_timestamp": "00:58:19.330",
+      "end_timestamp": "00:58:24.810",
+      "text": "Nous proposons qu'il y ait la même chose en matière d'immigration, c'est-à-dire qu'il y ait des grands débats nationaux"
+    },
+    {
+      "id": 453,
+      "start": 3504.81,
+      "end": 3512.09,
+      "start_timestamp": "00:58:24.810",
+      "end_timestamp": "00:58:32.090",
+      "text": "où on met les Français devant leur responsabilité en se gardant de tout populisme au passage, c'est-à-dire en soulignant effectivement"
+    },
+    {
+      "id": 454,
+      "start": 3512.09,
+      "end": 3518.49,
+      "start_timestamp": "00:58:32.090",
+      "end_timestamp": "00:58:38.490",
+      "text": "que l'immigration pose des problèmes. C'est tout à fait exact. En soulignant aussi que si les gens viennent en France,"
+    },
+    {
+      "id": 455,
+      "start": 3518.49,
+      "end": 3525.13,
+      "start_timestamp": "00:58:38.490",
+      "end_timestamp": "00:58:45.130",
+      "text": "ce n'est pas en général pour le plaisir. C'est aussi tout simplement pour survivre, parce que quand vous vivez dans la zone du Sahel,"
+    },
+    {
+      "id": 456,
+      "start": 3525.13,
+      "end": 3533.93,
+      "start_timestamp": "00:58:45.130",
+      "end_timestamp": "00:58:53.930",
+      "text": "eh bien les gens meurent de faim. Parce que nous sommes dans un schéma par ailleurs qui est un schéma de grande..."
+    },
+    {
+      "id": 457,
+      "start": 3533.93,
+      "end": 3539.25,
+      "start_timestamp": "00:58:53.930",
+      "end_timestamp": "00:58:59.250",
+      "text": "Comment dirais-je ? De grand déséquilibre, n'est-ce pas, de la répartition des richesses dans le monde, et que lorsque les gens"
+    },
+    {
+      "id": 458,
+      "start": 3539.25,
+      "end": 3544.93,
+      "start_timestamp": "00:58:59.250",
+      "end_timestamp": "00:59:04.930",
+      "text": "crèvent de faim... Mais ils crèvent de faim. Ils feront tout pour essayer de ne pas crever de faim et pour faire nourrir leur faim."
+    },
+    {
+      "id": 459,
+      "start": 3544.93,
+      "end": 3556.13,
+      "start_timestamp": "00:59:04.930",
+      "end_timestamp": "00:59:16.130",
+      "text": "Alors nous assistons aussi sur le fait que l'article 79 du TFUE prévoit justement que c'est l'UE qui fixe des orientations"
+    },
+    {
+      "id": 460,
+      "start": 3556.13,
+      "end": 3562.25,
+      "start_timestamp": "00:59:16.130",
+      "end_timestamp": "00:59:22.250",
+      "text": "en matière de regroupement familial, qui régisse la liberté de circulation et de séjour, qui règle les problèmes d'immigration"
+    },
+    {
+      "id": 461,
+      "start": 3562.25,
+      "end": 3570.61,
+      "start_timestamp": "00:59:22.250",
+      "end_timestamp": "00:59:30.610",
+      "text": "clandestine, tout ce dont personne ne vous parle. On l'a d'ailleurs vu lorsque par exemple M. Sarkozy avait voulu faire un coup politique"
+    },
+    {
+      "id": 462,
+      "start": 3570.61,
+      "end": 3578.19,
+      "start_timestamp": "00:59:30.610",
+      "end_timestamp": "00:59:38.190",
+      "text": "en faisant – comment dirais-je – reconduire à la frontière des Roms en grand nombre. C'était Mme Viviane Reding, commissaire européen,"
+    },
+    {
+      "id": 463,
+      "start": 3578.19,
+      "end": 3584.89,
+      "start_timestamp": "00:59:38.190",
+      "end_timestamp": "00:59:44.890",
+      "text": "qui avait menacé de traîner la France devant la Cour de justice de l'UE pour non-respect, parce que ça n'est pas à la France que ça découle."
+    },
+    {
+      "id": 464,
+      "start": 3584.89,
+      "end": 3594.53,
+      "start_timestamp": "00:59:44.890",
+      "end_timestamp": "00:59:54.530",
+      "text": "Tout ça, ça découle du traité d'Amsterdam de 1997. Voilà. Donc en réalité, désormais, ce n'est plus la France qui décide de qui entre"
+    },
+    {
+      "id": 465,
+      "start": 3594.53,
+      "end": 3601.73,
+      "start_timestamp": "00:59:54.530",
+      "end_timestamp": "01:00:01.730",
+      "text": "sur son territoire. Ce sont les visas des États Schengen. Donc ce sont les gens qui entrent sur les territoires français."
+    },
+    {
+      "id": 466,
+      "start": 3601.73,
+      "end": 3607.29,
+      "start_timestamp": "01:00:01.730",
+      "end_timestamp": "01:00:07.290",
+      "text": "Quand ils viennent de tout le reste du monde, effectivement, c'est nous qui les contrôlons aux frontières, parce que ce qui est le plus strangulier"
+    },
+    {
+      "id": 467,
+      "start": 3607.29,
+      "end": 3613.93,
+      "start_timestamp": "01:00:07.290",
+      "end_timestamp": "01:00:13.930",
+      "text": "de toute cette affaire, c'est que la France... Le cas général, c'est encore que nous contrôlons aux frontières. D'ailleurs, quand vous partez,"
+    },
+    {
+      "id": 468,
+      "start": 3613.93,
+      "end": 3621.65,
+      "start_timestamp": "01:00:13.930",
+      "end_timestamp": "01:00:21.650",
+      "text": "si ça vous est déjà arrivé d'aller à Djerba en Tunisie ou d'aller à Tokyo ou à New York ou à Londres ou à Dublin,"
+    },
+    {
+      "id": 469,
+      "start": 3621.65,
+      "end": 3630.13,
+      "start_timestamp": "01:00:21.650",
+      "end_timestamp": "01:00:30.130",
+      "text": "qui ne sont pas dans l'espace Schengen, ou d'aller à Moscou, Rio, Pexico, Bangkok, etc., vous passez des frontières."
+    },
+    {
+      "id": 470,
+      "start": 3630.13,
+      "end": 3636.97,
+      "start_timestamp": "01:00:30.130",
+      "end_timestamp": "01:00:36.970",
+      "text": "Vous passez... Vous subissez des contrôles aux aéroports français. Les Français trouvent ça tout à fait normal, d'ailleurs."
+    },
+    {
+      "id": 471,
+      "start": 3636.97,
+      "end": 3645.57,
+      "start_timestamp": "01:00:36.970",
+      "end_timestamp": "01:00:45.570",
+      "text": "Et pareil quand ils arrivent à l'étranger. Donc à part ça, beaucoup d'étrangers qui arrivent par exemple au Portugal, en Espagne, en Italie,"
+    },
+    {
+      "id": 472,
+      "start": 3645.57,
+      "end": 3648.91,
+      "start_timestamp": "01:00:45.570",
+      "end_timestamp": "01:00:48.910",
+      "text": "dans l'espace Schengen, ensuite entre eux totalement sans contrôle."
+    }
+  ]
+}

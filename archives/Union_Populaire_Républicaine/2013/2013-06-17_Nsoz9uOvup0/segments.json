@@ -1,0 +1,5089 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 10.48,
+      "end": 20.78,
+      "start_timestamp": "00:00:10.480",
+      "end_timestamp": "00:00:20.780",
+      "text": "Mon chapitre 2, c'est ce que j'appelle la présélection médiatique des futurs gouverneurs des États soumis à la domination euro-atlantiste."
+    },
+    {
+      "id": 1,
+      "start": 20.78,
+      "end": 32.98,
+      "start_timestamp": "00:00:20.780",
+      "end_timestamp": "00:00:32.980",
+      "text": "Je vous montrerai un seul graphique qui est celui du nombre d'heures qui a été consacré par la télévision française au cours du mois de janvier 2012"
+    },
+    {
+      "id": 2,
+      "start": 32.98,
+      "end": 38.44,
+      "start_timestamp": "00:00:32.980",
+      "end_timestamp": "00:00:38.440",
+      "text": "aux candidats déclarés à l'élection présidentielle."
+    },
+    {
+      "id": 3,
+      "start": 38.56,
+      "end": 45.2,
+      "start_timestamp": "00:00:38.560",
+      "end_timestamp": "00:00:45.200",
+      "text": "Pour ça, ils se sont dérelevés et faits par le CSA. Ça a été publié dans le journal Le Monde du 13 février 2012."
+    },
+    {
+      "id": 4,
+      "start": 45.2,
+      "end": 60.7,
+      "start_timestamp": "00:00:45.200",
+      "end_timestamp": "00:01:00.700",
+      "text": "Nous avons eu, selon ces statistiques officielles, celui qui est passé le plus souvent sur les dix chaînes de télévision, TF1, France 2, France 3, Canal,"
+    },
+    {
+      "id": 5,
+      "start": 60.7,
+      "end": 76.44,
+      "start_timestamp": "00:01:00.700",
+      "end_timestamp": "00:01:16.440",
+      "text": "Arte, M6, LCI, I-Télé, BFM-Télé et France 24. Sur ces dix chaînes de télévision au cours du mois de janvier 2012,"
+    },
+    {
+      "id": 6,
+      "start": 76.44,
+      "end": 88.54,
+      "start_timestamp": "00:01:16.440",
+      "end_timestamp": "00:01:28.540",
+      "text": "M. Hollande est passé 3 626 minutes en cumulé, c'est-à-dire plus de 62 heures. Puis M. Sarkozy est passé 3 450 minutes."
+    },
+    {
+      "id": 7,
+      "start": 88.54,
+      "end": 100.0,
+      "start_timestamp": "00:01:28.540",
+      "end_timestamp": "00:01:40.000",
+      "text": "Ce qui est assez curieux, c'est que pour le président de la République encore en exercice, il est passé moins à la télévision que son challenger socialiste."
+    },
+    {
+      "id": 8,
+      "start": 100.0,
+      "end": 110.82,
+      "start_timestamp": "00:01:40.000",
+      "end_timestamp": "00:01:50.820",
+      "text": "Comme si les détenteurs des médias avaient déjà décidé de qui devait être élu et qu'il fallait faire de l'entertainment."
+    },
+    {
+      "id": 9,
+      "start": 110.82,
+      "end": 126.62,
+      "start_timestamp": "00:01:50.820",
+      "end_timestamp": "00:02:06.620",
+      "text": "Il fallait permettre aux Français de faire un changement de majorité pour rire, capitaliser la volonté des Français qui n'en pouvaient plus de Sarkozy,"
+    },
+    {
+      "id": 10,
+      "start": 126.62,
+      "end": 136.66,
+      "start_timestamp": "00:02:06.620",
+      "end_timestamp": "00:02:16.660",
+      "text": "en leur offrant la tête de Sarkozy, de façon toute symbolique, bien entendu, pour mettre un Sarkozy bis. C'est le système américain,"
+    },
+    {
+      "id": 11,
+      "start": 136.66,
+      "end": 142.06,
+      "start_timestamp": "00:02:16.660",
+      "end_timestamp": "00:02:22.060",
+      "text": "républicain, démocrate, républicain, démocrate, républicain, démocrate, républicain, démocrate, républicain, etc."
+    },
+    {
+      "id": 12,
+      "start": 142.06,
+      "end": 153.16,
+      "start_timestamp": "00:02:22.060",
+      "end_timestamp": "00:02:33.160",
+      "text": "Ce qui est intéressant, c'est qu'en troisième position au mois de janvier, c'était M. Bayrou, avec 913 minutes, c'est-à-dire à peu près 15 heures."
+    },
+    {
+      "id": 13,
+      "start": 153.16,
+      "end": 162.86,
+      "start_timestamp": "00:02:33.160",
+      "end_timestamp": "00:02:42.860",
+      "text": "Il y a quelque chose qui est fascinant. Qui décide qu'il y ait un tel gaufre entre les deux premiers et le troisième ?"
+    },
+    {
+      "id": 14,
+      "start": 162.9,
+      "end": 171.38,
+      "start_timestamp": "00:02:42.900",
+      "end_timestamp": "00:02:51.380",
+      "text": "Est-ce que dans la Constitution de la République française, il est prévu que seul le candidat présenté par le PS, d'une part l'UMP,"
+    },
+    {
+      "id": 15,
+      "start": 171.38,
+      "end": 182.22,
+      "start_timestamp": "00:02:51.380",
+      "end_timestamp": "00:03:02.220",
+      "text": "d'autre part, ont droit dès le début à 4 fois plus de temps de télévision que les autres, ou 10 fois plus, ou 50 fois plus ?"
+    },
+    {
+      "id": 16,
+      "start": 182.22,
+      "end": 193.96,
+      "start_timestamp": "00:03:02.220",
+      "end_timestamp": "00:03:13.960",
+      "text": "Qui l'a dit ? Est-ce que c'est écrit dans la Constitution ? Alors ça, c'était Bayrou. Puis Mme Le Pen, 722 minutes, c'est-à-dire 12 heures."
+    },
+    {
+      "id": 17,
+      "start": 194.0,
+      "end": 205.4,
+      "start_timestamp": "00:03:14.000",
+      "end_timestamp": "00:03:25.400",
+      "text": "Puis M. Mélenchon, qui a eu droit à 568 minutes, c'est un peu moins de 9 heures, un peu moins de 10 heures. Puis Mme Eva Jolie, de ELV,"
+    },
+    {
+      "id": 18,
+      "start": 205.4,
+      "end": 215.24,
+      "start_timestamp": "00:03:25.400",
+      "end_timestamp": "00:03:35.240",
+      "text": "484 minutes, c'est-à-dire à peu près 8 heures. Et puis ensuite M. Morin, qui ensuite, d'ailleurs, a abandonné. C'est le ministre de la Défense."
+    },
+    {
+      "id": 19,
+      "start": 215.24,
+      "end": 227.02,
+      "start_timestamp": "00:03:35.240",
+      "end_timestamp": "00:03:47.020",
+      "text": "D'ailleurs, maintenant, il donne des cours de cuisine dans sa cuisine sur Internet. M. Morin a eu droit à 202 minutes. Puis M. de Villepin."
+    },
+    {
+      "id": 20,
+      "start": 227.06,
+      "end": 236.22,
+      "start_timestamp": "00:03:47.060",
+      "end_timestamp": "00:03:56.220",
+      "text": "M. de Villepin, qui voulait être candidat, a eu droit à 186 minutes, c'est-à-dire 3 heures. Je fais un nouveau arrêt sur image."
+    },
+    {
+      "id": 21,
+      "start": 237.22,
+      "end": 248.22,
+      "start_timestamp": "00:03:57.220",
+      "end_timestamp": "00:04:08.220",
+      "text": "Comment se fait-il que M. de Villepin, qui était le seul ancien Premier ministre à vouloir se présenter, quand même, le seul ancien chef de gouvernement,"
+    },
+    {
+      "id": 22,
+      "start": 248.82,
+      "end": 254.26,
+      "start_timestamp": "00:04:08.820",
+      "end_timestamp": "00:04:14.260",
+      "text": "ministre des Affaires Étrangères, donc qui avait quand même... On ne pourrait pas dire que c'était un plaisantin, quand même."
+    },
+    {
+      "id": 23,
+      "start": 254.26,
+      "end": 262.34,
+      "start_timestamp": "00:04:14.260",
+      "end_timestamp": "00:04:22.340",
+      "text": "C'est pas comme M. Morin. C'est pas comme Mme Jolie. C'est quelqu'un qui avait quand même une expérience. Il avait été chef du gouvernement français"
+    },
+    {
+      "id": 24,
+      "start": 262.34,
+      "end": 267.5,
+      "start_timestamp": "00:04:22.340",
+      "end_timestamp": "00:04:27.500",
+      "text": "d'emblée, au moment même. Le mois de janvier est très important. C'est le moment où, comme disent les politologues,"
+    },
+    {
+      "id": 25,
+      "start": 267.5,
+      "end": 274.82,
+      "start_timestamp": "00:04:27.500",
+      "end_timestamp": "00:04:34.820",
+      "text": "commencent à se cristalliser l'opinion publique, puisque les élections ont lieu le premier tour et ont lieu fin avril, jusqu'à la fin de l'année N-1."
+    },
+    {
+      "id": 26,
+      "start": 274.82,
+      "end": 278.66,
+      "start_timestamp": "00:04:34.820",
+      "end_timestamp": "00:04:38.660",
+      "text": "Les Français se désintéressent un peu. Et puis le mois de janvier, ils disent « Ah tiens, arrive l'élection présidentielle."
+    },
+    {
+      "id": 27,
+      "start": 278.66,
+      "end": 284.98,
+      "start_timestamp": "00:04:38.660",
+      "end_timestamp": "00:04:44.980",
+      "text": "C'est notre élection phare. Donc on va s'y s'en préoccuper ». Donc le mois de janvier est capital, notamment le capital pour rechercher"
+    },
+    {
+      "id": 28,
+      "start": 284.98,
+      "end": 292.78,
+      "start_timestamp": "00:04:44.980",
+      "end_timestamp": "00:04:52.780",
+      "text": "les 500 parrainages aussi, pour pouvoir être candidat. Voyez donc bien qu'il y a quelqu'un, des forces ou des gens,"
+    },
+    {
+      "id": 29,
+      "start": 292.78,
+      "end": 303.46,
+      "start_timestamp": "00:04:52.780",
+      "end_timestamp": "00:05:03.460",
+      "text": "qui ont réfléchi et qui ont estimé qu'il était normal que ce M. Hollande bénéficie au cours du mois de janvier de 3 626 minutes,"
+    },
+    {
+      "id": 30,
+      "start": 303.46,
+      "end": 314.86,
+      "start_timestamp": "00:05:03.460",
+      "end_timestamp": "00:05:14.860",
+      "text": "comme M. Villepin a eu droit à 186 minutes. C'est-à-dire qu'en gros, M. Hollande a eu 20 fois plus de temps au cours du simple mois de janvier"
+    },
+    {
+      "id": 31,
+      "start": 314.86,
+      "end": 321.7,
+      "start_timestamp": "00:05:14.860",
+      "end_timestamp": "00:05:21.700",
+      "text": "que M. de Villepin. Et puis on continue avec les petits candidats, présentés d'ailleurs comme tel dans les médias."
+    },
+    {
+      "id": 32,
+      "start": 321.7,
+      "end": 334.35,
+      "start_timestamp": "00:05:21.700",
+      "end_timestamp": "00:05:34.350",
+      "text": "Ce sont les petits candidats. Ah bon ? C'est marqué où ? Moi, j'aimerais qu'on montre dans la Constitution française le concept de petits candidats."
+    },
+    {
+      "id": 33,
+      "start": 334.39,
+      "end": 343.55,
+      "start_timestamp": "00:05:34.390",
+      "end_timestamp": "00:05:43.550",
+      "text": "C'est exactement ce que les Américains appellent, j'y reviendrai dans un instant, la « self-fulfilling prophecy », la prophétie autoréalisatrice."
+    },
+    {
+      "id": 34,
+      "start": 343.55,
+      "end": 350.39,
+      "start_timestamp": "00:05:43.550",
+      "end_timestamp": "00:05:50.390",
+      "text": "Parce qu'à force de dire qu'il y a un type qui est génial, Hollande... Vous le voyez d'ailleurs comment il est génial ce type, hein ?"
+    },
+    {
+      "id": 35,
+      "start": 350.39,
+      "end": 357.95,
+      "start_timestamp": "00:05:50.390",
+      "end_timestamp": "00:05:57.950",
+      "text": "Oh là là ! Alors Hollande, lui, il a droit à passer 62 heures au mois de janvier, mais les autres, c'est des petits candidats par rapport à lui."
+    },
+    {
+      "id": 36,
+      "start": 357.99,
+      "end": 368.87,
+      "start_timestamp": "00:05:57.990",
+      "end_timestamp": "00:06:08.870",
+      "text": "Alors M. parmi les petits candidats, M. Dupont-Aignan 114 minutes, Mme Arthaud de lutte ouvrière 107 minutes, Mme Christine Boutin du Parti chrétien-démocrate 101 minutes."
+    },
+    {
+      "id": 37,
+      "start": 369.75,
+      "end": 378.31,
+      "start_timestamp": "00:06:09.750",
+      "end_timestamp": "00:06:18.310",
+      "text": "Et c'est vrai que Mme Boutin, avec son Parti chrétien-démocrate, à part elle-même, on ne sait pas très bien... Je sais qu'elle annonce 9 500 adhérents."
+    },
+    {
+      "id": 38,
+      "start": 378.31,
+      "end": 385.87,
+      "start_timestamp": "00:06:18.310",
+      "end_timestamp": "00:06:25.870",
+      "text": "L'autre jour, j'étais à une radio française, petite radio, mais qui est gentille, puisqu'elle m'invite. Bon. Qui s'appelle Beurre et Fer."
+    },
+    {
+      "id": 39,
+      "start": 385.87,
+      "end": 394.55,
+      "start_timestamp": "00:06:25.870",
+      "end_timestamp": "00:06:34.550",
+      "text": "Donc il y avait un débat, il y avait le vice-président du Parti chrétien-démocrate, M. Marguin. Donc je dis à l'antenne, vous pouvez écouter, je dis à l'antenne,"
+    },
+    {
+      "id": 40,
+      "start": 394.55,
+      "end": 401.67,
+      "start_timestamp": "00:06:34.550",
+      "end_timestamp": "00:06:41.670",
+      "text": "oui, nous, nous avons... Je sais plus combien on avait à l'époque, 2600 adhérents, 2700. Je dis, nous, nous avons 2650 adhérents, quelque chose comme ça."
+    },
+    {
+      "id": 41,
+      "start": 401.67,
+      "end": 411.9,
+      "start_timestamp": "00:06:41.670",
+      "end_timestamp": "00:06:51.900",
+      "text": "C'est-à-dire que je sais qu'on en a plus que vous, M. Marguin, vous en annoncez 9 500, mais on en a plus. Le type dit... Rien."
+    },
+    {
+      "id": 42,
+      "start": 411.9,
+      "end": 419.57,
+      "start_timestamp": "00:06:51.900",
+      "end_timestamp": "00:06:59.570",
+      "text": "C'est quand même extraordinaire. Je dis à l'antenne, vous montez affrontément, vous dites que vous avez 9 500 adhérents, en fait, on en a plus."
+    },
+    {
+      "id": 43,
+      "start": 419.57,
+      "end": 428.65,
+      "start_timestamp": "00:06:59.570",
+      "end_timestamp": "00:07:08.650",
+      "text": "Nous, avec 2006, on en a plus que vous. Le type, il n'a pas pipé. Non, non, non. Oui, oui. Il n'a pas réagi. C'était tellement évident."
+    },
+    {
+      "id": 44,
+      "start": 428.65,
+      "end": 435.61,
+      "start_timestamp": "00:07:08.650",
+      "end_timestamp": "00:07:15.610",
+      "text": "Elle a quand même eu droit à 101 minutes. Et après, il y avait Mme Corinne Lepage. Alors bon, vous n'êtes peut-être pas tous au courant de la situation politique française."
+    },
+    {
+      "id": 45,
+      "start": 435.61,
+      "end": 443.25,
+      "start_timestamp": "00:07:15.610",
+      "end_timestamp": "00:07:23.250",
+      "text": "Mme Corinne Lepage, qui est une femme d'ailleurs richissime au passage, 92 minutes, elle a un mouvement politique qui s'appelle Cap 21."
+    },
+    {
+      "id": 46,
+      "start": 443.25,
+      "end": 452.56,
+      "start_timestamp": "00:07:23.250",
+      "end_timestamp": "00:07:32.560",
+      "text": "Comme je le dis volontiers, je suppose que le titre de ce mouvement politique, Cap 21, signifie que son objectif est d'avoir 21 adhérents."
+    },
+    {
+      "id": 47,
+      "start": 452.56,
+      "end": 458.24,
+      "start_timestamp": "00:07:32.560",
+      "end_timestamp": "00:07:38.240",
+      "text": "Et puis vous aviez M. Poutou, qui représentait le nouveau parti anticapitaliste, qui a eu droit à 36 minutes."
+    },
+    {
+      "id": 48,
+      "start": 458.24,
+      "end": 469.8,
+      "start_timestamp": "00:07:38.240",
+      "end_timestamp": "00:07:49.800",
+      "text": "M. Niouz, de Chasse, Pêche, Nature et Tradition, qui a eu droit exactement à 9 minutes. Et vous avez un bonhomme qui s'appelle Asselineau,"
+    },
+    {
+      "id": 49,
+      "start": 469.8,
+      "end": 477.48,
+      "start_timestamp": "00:07:49.800",
+      "end_timestamp": "00:07:57.480",
+      "text": "qui avait présenté un programme le 6 décembre 2011, de 5 heures, qui figure, et qui d'ailleurs continue à tourner."
+    },
+    {
+      "id": 50,
+      "start": 477.48,
+      "end": 484.72,
+      "start_timestamp": "00:07:57.480",
+      "end_timestamp": "00:08:04.720",
+      "text": "On a des dizaines et dizaines et dizaines de milliers de personnes qui ont visionné ce programme. Eh bien ce M. Asselineau, de l'Union populaire républicaine,"
+    },
+    {
+      "id": 51,
+      "start": 484.72,
+      "end": 500.4,
+      "start_timestamp": "00:08:04.720",
+      "end_timestamp": "00:08:20.400",
+      "text": "a eu droit exactement à 0 heures, 0 minutes et 0 secondes. Ce qui est dramatique dans ce graphique, c'est qu'il est l'illustration exacte"
+    },
+    {
+      "id": 52,
+      "start": 500.4,
+      "end": 508.84,
+      "start_timestamp": "00:08:20.400",
+      "end_timestamp": "00:08:28.840",
+      "text": "de ce qu'ont découvert les Américains et les études de sociologie venues d'Outre-Atlantique depuis maintenant un certain nombre de décennies, d'années."
+    },
+    {
+      "id": 53,
+      "start": 508.84,
+      "end": 521.36,
+      "start_timestamp": "00:08:28.840",
+      "end_timestamp": "00:08:41.360",
+      "text": "C'est qu'ils ont découvert qu'il y a une corrélation presque parfaite entre le nombre d'heures consacrées à un candidat et le nombre de voix qu'il recueille dans les urnes."
+    },
+    {
+      "id": 54,
+      "start": 521.36,
+      "end": 533.64,
+      "start_timestamp": "00:08:41.360",
+      "end_timestamp": "00:08:53.640",
+      "text": "D'ailleurs, vous avez ici l'arrivée dans l'ordre au premier tour de l'élection, sauf Beyrou, parce qu'en fait, au deuxième, en février et en mars,"
+    },
+    {
+      "id": 55,
+      "start": 533.64,
+      "end": 543.52,
+      "start_timestamp": "00:08:53.640",
+      "end_timestamp": "00:09:03.520",
+      "text": "vous avez eu... M. Beyrou a été un peu puni, puis Mme Le Pen et M. Mélenchon ont été propulsés. Donc en réalité, nous avons eu..."
+    },
+    {
+      "id": 56,
+      "start": 543.52,
+      "end": 551.8,
+      "start_timestamp": "00:09:03.520",
+      "end_timestamp": "00:09:11.800",
+      "text": "Enfin, si j'avais les statistiques sur l'ensemble de la pré-campagne jusqu'au mois d'avril, vous verriez que nous avons eu exactement le bon résultat."
+    },
+    {
+      "id": 57,
+      "start": 551.8,
+      "end": 565.88,
+      "start_timestamp": "00:09:11.800",
+      "end_timestamp": "00:09:25.880",
+      "text": "En 1, Hollande. À la fin du premier tour. En 2, Sarkozy. En 3, Le Pen. En 4, Mélenchon. En 5, Beyrou. En 6, Jolie, etc., etc., exactement dans l'ordre."
+    },
+    {
+      "id": 58,
+      "start": 565.88,
+      "end": 580.4,
+      "start_timestamp": "00:09:25.880",
+      "end_timestamp": "00:09:40.400",
+      "text": "Donc ça pose un vrai problème éthique aux électeurs dans les prétendues démocraties occidentales. Parce que ça veut dire que quand vous tenez les médias,"
+    },
+    {
+      "id": 59,
+      "start": 580.4,
+      "end": 593.6,
+      "start_timestamp": "00:09:40.400",
+      "end_timestamp": "00:09:53.600",
+      "text": "et quand vous tenez en particulier la télévision, vous pouvez faire élire un cheval. C'est ce qui s'est passé. On peut faire élire une brêle complète"
+    },
+    {
+      "id": 60,
+      "start": 593.6,
+      "end": 605.67,
+      "start_timestamp": "00:09:53.600",
+      "end_timestamp": "00:10:05.670",
+      "text": "si on arrive à le propulser constamment dans les médias avec des journalistes qui sont des journalistes de complaisance. C'est fait pour."
+    },
+    {
+      "id": 61,
+      "start": 605.67,
+      "end": 615.47,
+      "start_timestamp": "00:10:05.670",
+      "end_timestamp": "00:10:15.470",
+      "text": "Le troisième chapitre, c'est que parfois, ça ne suffit pas. Parfois, la présélection médiatique des dictateurs, ou ce que j'appelle les gouverneurs..."
+    },
+    {
+      "id": 62,
+      "start": 615.47,
+      "end": 626.98,
+      "start_timestamp": "00:10:15.470",
+      "end_timestamp": "00:10:26.980",
+      "text": "Vous voyez que M. Hollande est un bouchon sur l'océan. Non mais je vais dire, c'est zéro. Je crois qu'on a rarement vu quelque chose de pareil."
+    },
+    {
+      "id": 63,
+      "start": 626.98,
+      "end": 636.06,
+      "start_timestamp": "00:10:26.980",
+      "end_timestamp": "00:10:36.060",
+      "text": "Les Français commencent à même regretter Sarkozy. Quand même, le faire. C'est à se demander qui sera le suivant."
+    },
+    {
+      "id": 64,
+      "start": 636.06,
+      "end": 646.66,
+      "start_timestamp": "00:10:36.060",
+      "end_timestamp": "00:10:46.660",
+      "text": "Le troisième chapitre, c'est la nomination de dictateurs sans aucune élection populaire. C'est quand même ce qui s'est passé en 2011."
+    },
+    {
+      "id": 65,
+      "start": 646.7,
+      "end": 656.62,
+      "start_timestamp": "00:10:46.700",
+      "end_timestamp": "00:10:56.620",
+      "text": "En 2011, on a appris que M. Berlusconi... Je ne suis pas fanatique de Berlusconi. C'était un type... Il était un orchestre à lui tout seul tellement il avait de casseroles. Bon."
+    },
+    {
+      "id": 66,
+      "start": 656.62,
+      "end": 663.22,
+      "start_timestamp": "00:10:56.620",
+      "end_timestamp": "00:11:03.220",
+      "text": "Mais il avait un goût immodéré, paraît-il, pour les jeunes filles. Il avait un goût immodéré pour l'argent. Il avait des relations douteuses."
+    },
+    {
+      "id": 67,
+      "start": 663.22,
+      "end": 674.9,
+      "start_timestamp": "00:11:03.220",
+      "end_timestamp": "00:11:14.900",
+      "text": "Enfin, on imagine tout et plus que tout. Mais M. Berlusconi, il est quand même passé par la case des urnes. Il avait quand même été à la tête d'une coalition"
+    },
+    {
+      "id": 68,
+      "start": 674.94,
+      "end": 685.66,
+      "start_timestamp": "00:11:14.940",
+      "end_timestamp": "00:11:25.660",
+      "text": "qui avait obtenu une majorité des voix. Et M. Berlusconi en a eu assez, sans doute, d'être traité comme un larbin par Jean-Claude Trichet ou par Mario Draghi,"
+    },
+    {
+      "id": 69,
+      "start": 685.66,
+      "end": 698.7,
+      "start_timestamp": "00:11:25.660",
+      "end_timestamp": "00:11:38.700",
+      "text": "qui était à la tête de la Banque centrale européenne. Et donc, en août 2011, M. Trichet et M. Draghi, à la tête de la BCE, ont écrit à M. Berlusconi"
+    },
+    {
+      "id": 70,
+      "start": 698.7,
+      "end": 709.66,
+      "start_timestamp": "00:11:38.700",
+      "end_timestamp": "00:11:49.660",
+      "text": "une lettre qui a été divulguée dans la presse plus tard, en septembre 2011, que voici. « Chers premiers ministres, dans les circonstances actuelles,"
+    },
+    {
+      "id": 71,
+      "start": 709.66,
+      "end": 716.46,
+      "start_timestamp": "00:11:49.660",
+      "end_timestamp": "00:11:56.460",
+      "text": "nous considérons les mesures suivantes comme indispensables. Libéralisation totale des services publics locaux et des services professionnels."
+    },
+    {
+      "id": 72,
+      "start": 716.46,
+      "end": 726.38,
+      "start_timestamp": "00:11:56.460",
+      "end_timestamp": "00:12:06.380",
+      "text": "Adaptation nécessaire... » Ça va un petit peu trop vite. « Adaptation nécessaire des salaires pour convenir aux besoins des firmes... » Ici."
+    },
+    {
+      "id": 73,
+      "start": 726.38,
+      "end": 734.94,
+      "start_timestamp": "00:12:06.380",
+      "end_timestamp": "00:12:14.940",
+      "text": "« Révision en profondeur des règles régissant le recrutement et le licenciement des salariés. Revoir le système de retraite. Réduire de façon significative"
+    },
+    {
+      "id": 74,
+      "start": 734.94,
+      "end": 742.78,
+      "start_timestamp": "00:12:14.940",
+      "end_timestamp": "00:12:22.780",
+      "text": "le coût des emplois publics en durcissant les règles de renouvellement du personnel et, si nécessaire, en baissant les salaires des fonctionnaires."
+    },
+    {
+      "id": 75,
+      "start": 742.78,
+      "end": 751.3,
+      "start_timestamp": "00:12:22.780",
+      "end_timestamp": "00:12:31.300",
+      "text": "Couper des coupes horizontales dans les dépenses discrétionnaires. Nous considérons qu'il est crucial que toutes les mesures énumérées dans les sections-ci-dessus"
+    },
+    {
+      "id": 76,
+      "start": 751.3,
+      "end": 758.02,
+      "start_timestamp": "00:12:31.300",
+      "end_timestamp": "00:12:38.020",
+      "text": "soient adoptées aussi vite que possible par décret-loi. » Vous savez comment ça s'écrit et ça s'appelle. Un décret-loi en russe, ça s'appelle UKAS."
+    },
+    {
+      "id": 77,
+      "start": 758.02,
+      "end": 767.46,
+      "start_timestamp": "00:12:38.020",
+      "end_timestamp": "00:12:47.460",
+      "text": "C'est la bonne traduction. En France, ça s'appelle des ordonnances. « Nous voulons améliorer l'efficacité administrative et la bienveillance à l'égard des entreprises."
+    },
+    {
+      "id": 78,
+      "start": 767.46,
+      "end": 775.58,
+      "start_timestamp": "00:12:47.460",
+      "end_timestamp": "00:12:55.580",
+      "text": "Il est nécessaire de s'engager fermement en faveur de l'abolition, de la consolidation de certains niveaux administratifs intermédiaires, comme les provinces. »"
+    },
+    {
+      "id": 79,
+      "start": 775.58,
+      "end": 787.34,
+      "start_timestamp": "00:12:55.580",
+      "end_timestamp": "00:13:07.340",
+      "text": "Voilà Degus, Jean-Claude Trichet, Mario Draghi, élus par personne, d'ailleurs inéligible, si vous voulez les voir, qui n'ont été élus par personne"
+    },
+    {
+      "id": 80,
+      "start": 787.34,
+      "end": 795.46,
+      "start_timestamp": "00:13:07.340",
+      "end_timestamp": "00:13:15.460",
+      "text": "et qui ont écrit à M. Berlusconi – on pense à ce qu'il veut de Berlusconi, il était quand même président du chef de gouvernement en exercice de l'Italie –"
+    },
+    {
+      "id": 81,
+      "start": 795.46,
+      "end": 808.57,
+      "start_timestamp": "00:13:15.460",
+      "end_timestamp": "00:13:28.570",
+      "text": "qui lui ont donné un programme de gouvernement, mais absolument diriment. Alors Berlusconi ne l'a pas entendu de cette oreille, comme vous le savez, il a dit non."
+    },
+    {
+      "id": 82,
+      "start": 808.57,
+      "end": 820.13,
+      "start_timestamp": "00:13:28.570",
+      "end_timestamp": "00:13:40.130",
+      "text": "Et le résultat des cours, c'est qu'il a été viré. Tous ces scandales avec ses petites filles, avec ses relations mafieuses, avec ses détournements de fond, etc."
+    },
+    {
+      "id": 83,
+      "start": 820.17,
+      "end": 831.57,
+      "start_timestamp": "00:13:40.170",
+      "end_timestamp": "00:13:51.570",
+      "text": "Il avait été resté insurmersible, on l'appelait « le cavalier », mais à partir du moment où il a dit non, qu'il n'a pas voulu se plier aux directives venues de Draghi et de Trichet d'un seul coup,"
+    },
+    {
+      "id": 84,
+      "start": 831.57,
+      "end": 841.13,
+      "start_timestamp": "00:13:51.570",
+      "end_timestamp": "00:14:01.130",
+      "text": "toute l'oligarchie a pointé le pouce vers le bas d'un seul coup d'un seul. Tous les médias en France, en Italie, en Espagne, en Allemagne, en Belgique, en Royaume-Uni, etc."
+    },
+    {
+      "id": 85,
+      "start": 842.13,
+      "end": 851.05,
+      "start_timestamp": "00:14:02.130",
+      "end_timestamp": "00:14:11.050",
+      "text": "Mais il est fichu, il faut qu'il démissionne, il faut qu'il démissionne, il faut qu'il démissionne. Le résultat, c'est que la pression a été telle qu'il a été quand même contraint de démissionner."
+    },
+    {
+      "id": 86,
+      "start": 851.05,
+      "end": 861.33,
+      "start_timestamp": "00:14:11.050",
+      "end_timestamp": "00:14:21.330",
+      "text": "Il a été contraint de démissionner. Il a été remplacé par qui ? Il a été remplacé par quelqu'un choisi en particulier par Peter Sutherland, président de Goldman Sachs International,"
+    },
+    {
+      "id": 87,
+      "start": 861.33,
+      "end": 868.73,
+      "start_timestamp": "00:14:21.330",
+      "end_timestamp": "00:14:28.730",
+      "text": "actuellement président pour l'Union européenne du Transatlantique Policy Network. C'est lui qui nous prépare aux ONU le grand marché transatlantique."
+    },
+    {
+      "id": 88,
+      "start": 868.73,
+      "end": 875.93,
+      "start_timestamp": "00:14:28.730",
+      "end_timestamp": "00:14:35.930",
+      "text": "M. Peter Sutherland, c'est déjà lui qui a fait nommer... Il a été commissaire européen, il a été vice-président de la Commission européenne."
+    },
+    {
+      "id": 89,
+      "start": 875.93,
+      "end": 882.85,
+      "start_timestamp": "00:14:35.930",
+      "end_timestamp": "00:14:42.850",
+      "text": "C'est lui qui a promu Mario Draghi, qui est l'ancien vice-président de Goldman Sachs Europe, qui a été nommé président de l'ABC en novembre 2011,"
+    },
+    {
+      "id": 90,
+      "start": 882.85,
+      "end": 890.61,
+      "start_timestamp": "00:14:42.850",
+      "end_timestamp": "00:14:50.610",
+      "text": "sans que personne... On n'ait jamais demandé au peuple leur avis. C'est quelqu'un sorti du ceraille. C'est un petit jeune, si j'ose dire,"
+    },
+    {
+      "id": 91,
+      "start": 890.61,
+      "end": 896.49,
+      "start_timestamp": "00:14:50.610",
+      "end_timestamp": "00:14:56.490",
+      "text": "puisque vous voyez, Peter Sutherland, il est président de Goldman Sachs International, alors que lui, il est l'ancien vice-président de Goldman Sachs Europe."
+    },
+    {
+      "id": 92,
+      "start": 896.53,
+      "end": 902.01,
+      "start_timestamp": "00:14:56.530",
+      "end_timestamp": "00:15:02.010",
+      "text": "Il y a Goldman Sachs International, puis vous avez Goldman Sachs Amérique, Goldman Sachs Europe, Goldman Sachs Moyen-Orient, Goldman Sachs Afrique,"
+    },
+    {
+      "id": 93,
+      "start": 902.01,
+      "end": 908.45,
+      "start_timestamp": "00:15:02.010",
+      "end_timestamp": "00:15:08.450",
+      "text": "Goldman Sachs Asie du Sud, Goldman Sachs Extrême-Orient. Et à l'intérieur de chacune de ces sous-direns, vous avez un président, un vice-président."
+    },
+    {
+      "id": 94,
+      "start": 908.45,
+      "end": 916.69,
+      "start_timestamp": "00:15:08.450",
+      "end_timestamp": "00:15:16.690",
+      "text": "Vous voyez, c'est un petit jeune. Et tiens, on va le nommer lui. Ce bonhomme a plus de pouvoir que le président de la République française,"
+    },
+    {
+      "id": 95,
+      "start": 916.73,
+      "end": 928.85,
+      "start_timestamp": "00:15:16.730",
+      "end_timestamp": "00:15:28.850",
+      "text": "que le Premier ministre belge, que le président du Conseil italien. Et ensuite, donc, c'est lui qui a fait nommer, en Grèce, on a viré M. Papandriou."
+    },
+    {
+      "id": 96,
+      "start": 928.85,
+      "end": 937.09,
+      "start_timestamp": "00:15:28.850",
+      "end_timestamp": "00:15:37.090",
+      "text": "Lorsque M. Papandriou avait eu l'idée saugrenue de demander aux Grecs s'ils étaient d'accord avec le programme de vente générale de leur patrimoine collectif"
+    },
+    {
+      "id": 97,
+      "start": 937.09,
+      "end": 946.29,
+      "start_timestamp": "00:15:37.090",
+      "end_timestamp": "00:15:46.290",
+      "text": "pour prétendument sauver l'euro, on a fait nommer Lucas Papademos, ancien conseiller de la Banque fédérale de Boston, grec à l'extérieur américain"
+    },
+    {
+      "id": 98,
+      "start": 946.29,
+      "end": 954.49,
+      "start_timestamp": "00:15:46.290",
+      "end_timestamp": "00:15:54.490",
+      "text": "et de l'intérieur, si j'ose dire. L'enquête a été à la tête de la Banque fédérale de Boston et qui ensuite a été gouverneur de la Banque de Grèce"
+    },
+    {
+      "id": 99,
+      "start": 954.49,
+      "end": 964.09,
+      "start_timestamp": "00:15:54.490",
+      "end_timestamp": "00:16:04.090",
+      "text": "de 1994 à 2002. C'est lui qui a trafiqué les comptes publics de la Grèce avec les experts de Goldman Sachs pour permettre à la Grèce d'entrer dans l'euro."
+    },
+    {
+      "id": 100,
+      "start": 964.09,
+      "end": 971.25,
+      "start_timestamp": "00:16:04.090",
+      "end_timestamp": "00:16:11.250",
+      "text": "C'est pas moi qui le dis, hein. Allez lire le Financial Times, le New York Times, tout le monde sait que les comptes de la Grèce pourraient être qualifiés"
+    },
+    {
+      "id": 101,
+      "start": 971.25,
+      "end": 980.05,
+      "start_timestamp": "00:16:11.250",
+      "end_timestamp": "00:16:20.050",
+      "text": "pour entrer dans l'euro ont été trafiqués et ont été trafiqués par les experts de Goldman Sachs et Lucas Papademos qui donc a été nommé président"
+    },
+    {
+      "id": 102,
+      "start": 980.05,
+      "end": 988.61,
+      "start_timestamp": "00:16:20.050",
+      "end_timestamp": "00:16:28.610",
+      "text": "et Premier ministre grec sans s'être jamais passé par la case élections de la même façon qu'en Italie. M. Berlusconi donc, comme je le disais à l'instant,"
+    },
+    {
+      "id": 103,
+      "start": 988.61,
+      "end": 997.85,
+      "start_timestamp": "00:16:28.610",
+      "end_timestamp": "00:16:37.850",
+      "text": "a été viré et a été remplacé par Mario Monti, ancien consultant de Goldman Sachs, ancien commissaire européen et qui a été donc nommé président du Conseil italien"
+    },
+    {
+      "id": 104,
+      "start": 997.85,
+      "end": 1007.21,
+      "start_timestamp": "00:16:37.850",
+      "end_timestamp": "00:16:47.210",
+      "text": "sans élection en novembre 2011. Il y a une facétie dans les institutions italiennes, c'est que le président de la République, actuellement M. Giorgio Napolitano,"
+    },
+    {
+      "id": 105,
+      "start": 1007.21,
+      "end": 1016.13,
+      "start_timestamp": "00:16:47.210",
+      "end_timestamp": "00:16:56.130",
+      "text": "a la faculté de nommer des gens sénateurs à vie. Il n'en a pas une faculté, en veux-tu, en voilà, mais il a quelques postes comme ça à répéter."
+    },
+    {
+      "id": 106,
+      "start": 1016.13,
+      "end": 1025.73,
+      "start_timestamp": "00:16:56.130",
+      "end_timestamp": "00:17:05.730",
+      "text": "Alors c'est assez sympathique, si vous êtes nommé sénateur à vie, votre carrière est faite. Jusqu'à la fin des temps, c'est presque mieux qu'être pape,"
+    },
+    {
+      "id": 107,
+      "start": 1025.73,
+      "end": 1033.81,
+      "start_timestamp": "00:17:05.730",
+      "end_timestamp": "00:17:13.810",
+      "text": "puisque pape, on peut même en démissionner, tandis que là, vous êtes sénateur à vie. Vous n'êtes pas obligé d'avoir des fonctions publiques."
+    },
+    {
+      "id": 108,
+      "start": 1033.81,
+      "end": 1042.33,
+      "start_timestamp": "00:17:13.810",
+      "end_timestamp": "00:17:22.330",
+      "text": "Et il a été sénateur à vie. Après, il a suffi d'un vote aux assemblées, au Sénat et à la Gende des députés italiens, et il a été élu président du Conseil,"
+    },
+    {
+      "id": 109,
+      "start": 1042.33,
+      "end": 1052.69,
+      "start_timestamp": "00:17:22.330",
+      "end_timestamp": "00:17:32.690",
+      "text": "sans avoir jamais été élu par qui que ce soit, sauf par les sénateurs et députés qui avaient été dûment chapitrés par ceux qui voulaient que le processus ait lieu."
+    },
+    {
+      "id": 110,
+      "start": 1052.69,
+      "end": 1058.61,
+      "start_timestamp": "00:17:32.690",
+      "end_timestamp": "00:17:38.610",
+      "text": "Et il a commencé à mener une politique qui n'avait jamais été réalisée par quelques Italiens, que ce soit."
+    },
+    {
+      "id": 111,
+      "start": 1058.61,
+      "end": 1065.77,
+      "start_timestamp": "00:17:38.610",
+      "end_timestamp": "00:17:45.770",
+      "text": "Alors il y a quand même encore des élections qui arrivent à temps régulier. Vous avez vu, ça s'est passé en Italie donc il y a quelques semaines,"
+    },
+    {
+      "id": 112,
+      "start": 1065.77,
+      "end": 1076.29,
+      "start_timestamp": "00:17:45.770",
+      "end_timestamp": "00:17:56.290",
+      "text": "et les médias avaient dit « oui, Mario Monti, en fait, il est surnommé il professore, après il cavalier, il avait il professore, et finalement c'est un type très très bien,"
+    },
+    {
+      "id": 113,
+      "start": 1076.29,
+      "end": 1087.37,
+      "start_timestamp": "00:17:56.290",
+      "end_timestamp": "00:18:07.370",
+      "text": "en fait il va faire un score extraordinaire, on se demande s'il va pas faire 35% des voix. » Il a terminé avec moins de 10, les Italiens l'ont renvoyé dans ses foyers de façon humiliante,"
+    },
+    {
+      "id": 114,
+      "start": 1087.37,
+      "end": 1096.1,
+      "start_timestamp": "00:18:07.370",
+      "end_timestamp": "00:18:16.100",
+      "text": "comme jamais on avait vu quelqu'un renvoyer dans ses foyers. L'Italie, d'ailleurs, depuis lors, est à peu près un gouverna."
+    },
+    {
+      "id": 115,
+      "start": 1096.1,
+      "end": 1110.18,
+      "start_timestamp": "00:18:16.100",
+      "end_timestamp": "00:18:30.180",
+      "text": "Le quatrième chapitre, c'est ce que j'appelle le mépris explicite de la démocratie. Il faut savoir que l'ensemble du processus européen est vicié dès l'origine"
+    },
+    {
+      "id": 116,
+      "start": 1110.18,
+      "end": 1126.06,
+      "start_timestamp": "00:18:30.180",
+      "end_timestamp": "00:18:46.060",
+      "text": "par ses concepteurs, qui sont tous sauf des démocrates. La personnalité essentielle à avoir conçu le maelstrom dans lequel les États d'Europe sont en train de s'enfoncer,"
+    },
+    {
+      "id": 117,
+      "start": 1126.06,
+      "end": 1135.14,
+      "start_timestamp": "00:18:46.060",
+      "end_timestamp": "00:18:55.140",
+      "text": "c'est ce monsieur qui est un Allemand, qui s'appelait Walter Hallstein, qui est né en 1901 et qui est mort en 1982."
+    },
+    {
+      "id": 118,
+      "start": 1135.14,
+      "end": 1147.62,
+      "start_timestamp": "00:18:55.140",
+      "end_timestamp": "00:19:07.620",
+      "text": "Monsieur Walter Hallstein était professeur de droit en Allemagne. Il était un éminent juriste nazi. Il a d'ailleurs ici, on a une photocopie par exemple,"
+    },
+    {
+      "id": 119,
+      "start": 1147.62,
+      "end": 1156.42,
+      "start_timestamp": "00:19:07.620",
+      "end_timestamp": "00:19:16.420",
+      "text": "d'un document qu'il a envoyé le 30 septembre 1935 à Rochtock aux pré-représentants du gouvernement nazi à l'université,"
+    },
+    {
+      "id": 120,
+      "start": 1156.42,
+      "end": 1166.78,
+      "start_timestamp": "00:19:16.420",
+      "end_timestamp": "00:19:26.780",
+      "text": "puisque sous Hitler, il y avait des représentants du gouvernement qui étaient les personnes qui tenaient l'université, et donc il lui donne son pédigree."
+    },
+    {
+      "id": 121,
+      "start": 1166.78,
+      "end": 1175.46,
+      "start_timestamp": "00:19:26.780",
+      "end_timestamp": "00:19:35.460",
+      "text": "En référence à mon serment d'entrée en fonction, je déclare dans la période de l'après-guerre mondiale, c'est la traduction en français du texte en allemand que je viens de vous montrer,"
+    },
+    {
+      "id": 122,
+      "start": 1175.5,
+      "end": 1188.38,
+      "start_timestamp": "00:19:35.500",
+      "end_timestamp": "00:19:48.380",
+      "text": "c'est-à-dire après 1918, je fus membre des organismes suivants. Pendant la période que j'ai passée en tant qu'assistant d'avocat, j'appartenais à l'association des assistants d'avocat du Reich nazi."
+    },
+    {
+      "id": 123,
+      "start": 1188.38,
+      "end": 1196.66,
+      "start_timestamp": "00:19:48.380",
+      "end_timestamp": "00:19:56.660",
+      "text": "En tant que professeur, j'appartenais à l'association des universités allemandes du Reich. Aujourd'hui, je suis membre de l'association des juristes allemands national-socialistes,"
+    },
+    {
+      "id": 124,
+      "start": 1196.66,
+      "end": 1206.3,
+      "start_timestamp": "00:19:56.660",
+      "end_timestamp": "00:20:06.300",
+      "text": "Bund National Sozialistischer Deutscher Juristen, le PSNDJ, de l'association nationale-socialiste des enseignants et des maîtres de conférence."
+    },
+    {
+      "id": 125,
+      "start": 1206.3,
+      "end": 1218.3,
+      "start_timestamp": "00:20:06.300",
+      "end_timestamp": "00:20:18.300",
+      "text": "C'était le formulaire nécessaire pour pouvoir être nommé. Il a ensuite, d'ailleurs, en 1936, été nommé par le chancelier de l'Université de Rostock,"
+    },
+    {
+      "id": 126,
+      "start": 1218.3,
+      "end": 1224.42,
+      "start_timestamp": "00:20:18.300",
+      "end_timestamp": "00:20:24.420",
+      "text": "sur base de l'autorité chimique conférée par le ministère d'éducation du Reich. Je suis au plaisir de vous nommer au poste de doyen de la Faculté de droit et d'économie."
+    },
+    {
+      "id": 127,
+      "start": 1224.42,
+      "end": 1234.14,
+      "start_timestamp": "00:20:24.420",
+      "end_timestamp": "00:20:34.140",
+      "text": "Je vous demande de m'informer de la personne que vous avez nommée en tant que votre adjoint, Heid Hitler, Rostock, le 18 mai 1936."
+    },
+    {
+      "id": 128,
+      "start": 1234.14,
+      "end": 1242.94,
+      "start_timestamp": "00:20:34.140",
+      "end_timestamp": "00:20:42.940",
+      "text": "Alors ensuite, on avance dans l'histoire de l'Allemagne. Le 9 mai 1938, deux ans après, Adolf Hitler se rend à Rome."
+    },
+    {
+      "id": 129,
+      "start": 1242.94,
+      "end": 1251.98,
+      "start_timestamp": "00:20:42.940",
+      "end_timestamp": "00:20:51.980",
+      "text": "Il n'y a pas beaucoup de photos de cette rencontre. Je vous ai mis celles que j'ai pu trouver. Adolf Hitler se rend à Rome pour rencontrer le duché Benito Mussolini"
+    },
+    {
+      "id": 130,
+      "start": 1251.98,
+      "end": 1262.74,
+      "start_timestamp": "00:20:51.980",
+      "end_timestamp": "00:21:02.740",
+      "text": "afin de mettre sur pied la nouvelle Europe, dictature européenne, qui sera placée sous leur contrôle, et d'ailleurs pour le plus grand bénéfice des firmes allemandes."
+    },
+    {
+      "id": 131,
+      "start": 1262.74,
+      "end": 1273.46,
+      "start_timestamp": "00:21:02.740",
+      "end_timestamp": "00:21:13.460",
+      "text": "Donc le chancelier du Reich, Adolf Hitler, qui d'ailleurs, oui, est encore chancelier du Reich à l'époque, je crois, Adolf Hitler d'un côté et Mussolini se rend compte,"
+    },
+    {
+      "id": 132,
+      "start": 1273.46,
+      "end": 1282.82,
+      "start_timestamp": "00:21:13.460",
+      "end_timestamp": "00:21:22.820",
+      "text": "qu'on vienne de mettre sur pied une nouvelle Europe, qu'on vienne donc de réunir des équipes de juristes pour concevoir ce que serait cette nouvelle Europe"
+    },
+    {
+      "id": 133,
+      "start": 1282.82,
+      "end": 1291.22,
+      "start_timestamp": "00:21:22.820",
+      "end_timestamp": "00:21:31.220",
+      "text": "qui permettra de ligoter les popes, et de le sortir sur l'un des grands juristes prometteurs du régime, M. Walter Einstein."
+    },
+    {
+      "id": 134,
+      "start": 1291.22,
+      "end": 1306.14,
+      "start_timestamp": "00:21:31.220",
+      "end_timestamp": "00:21:46.140",
+      "text": "Du 21 au 25 juin 1938, Walter Einstein représente le gouvernement nazi pendant les négociations d'État-État avec l'Italie fasciste concernant la mise en place d'un cadre juridique de la nouvelle Europe."
+    },
+    {
+      "id": 135,
+      "start": 1306.14,
+      "end": 1317.14,
+      "start_timestamp": "00:21:46.140",
+      "end_timestamp": "00:21:57.140",
+      "text": "Ça va mener à ce discours permanent que l'on aura au cours des années 40 sur la nouvelle Europe, l'année historique du rang regroupement de l'Europe."
+    },
+    {
+      "id": 136,
+      "start": 1317.14,
+      "end": 1332.7,
+      "start_timestamp": "00:21:57.140",
+      "end_timestamp": "00:22:12.700",
+      "text": "Qui est-ce qui ait publié ça ? Eh bien c'est un journal français publié par Issoir, publié le 1er février 1941, qui rend compte du discours du Führer à Berlin, au Sport Palace de Berlin."
+    },
+    {
+      "id": 137,
+      "start": 1332.7,
+      "end": 1341.3,
+      "start_timestamp": "00:22:12.700",
+      "end_timestamp": "00:22:21.300",
+      "text": "1941 sera l'année historique du rang regroupement de l'Europe, de la nouvelle Europe conçue par M. Walter Einstein."
+    },
+    {
+      "id": 138,
+      "start": 1341.3,
+      "end": 1358.82,
+      "start_timestamp": "00:22:21.300",
+      "end_timestamp": "00:22:38.820",
+      "text": "En France, la politique collaborationniste va d'ailleurs gloser sur ces questions. Sous Pétain, on aura notamment des brochures, des documentations sur la France européenne."
+    },
+    {
+      "id": 139,
+      "start": 1359.02,
+      "end": 1373.98,
+      "start_timestamp": "00:22:39.020",
+      "end_timestamp": "00:22:53.980",
+      "text": "On voit qu'il s'agit de la construction de l'Europe. L'inauguration de l'exposition La France européenne avec les autorités nazies le 6 juin 1941 à Paris."
+    },
+    {
+      "id": 140,
+      "start": 1373.98,
+      "end": 1383.94,
+      "start_timestamp": "00:22:53.980",
+      "end_timestamp": "00:23:03.940",
+      "text": "Et l'on sait également qu'il y aura dans cette exposition, on voit ici les autorités nazies avec le représentant personnel du maréchal Pétain."
+    },
+    {
+      "id": 141,
+      "start": 1384.42,
+      "end": 1396.94,
+      "start_timestamp": "00:23:04.420",
+      "end_timestamp": "00:23:16.940",
+      "text": "On voit également dans cette exposition l'avant et l'après. L'ancienne Europe et la nouvelle Europe. L'ancienne Europe, on la voit ici avec toutes ses barrières nationales."
+    },
+    {
+      "id": 142,
+      "start": 1396.94,
+      "end": 1410.82,
+      "start_timestamp": "00:23:16.940",
+      "end_timestamp": "00:23:30.820",
+      "text": "Hier, l'Europe cloisonnée des démocraties inefficaces. C'est comme ça que c'est présenté. Demain, grâce au chancelier du Reich et au douté italien, la nouvelle Europe sans frontières,"
+    },
+    {
+      "id": 143,
+      "start": 1410.82,
+      "end": 1421.42,
+      "start_timestamp": "00:23:30.820",
+      "end_timestamp": "00:23:41.420",
+      "text": "bien dessinée par Adolf Hitler. Il n'y aura plus de frontières. Les communications seront faciles. Il y aura des grands axes de communication qui permettront d'avoir enfin un sentiment européen,"
+    },
+    {
+      "id": 144,
+      "start": 1421.42,
+      "end": 1437.57,
+      "start_timestamp": "00:23:41.420",
+      "end_timestamp": "00:23:57.570",
+      "text": "et ça sera favorable au commerce. D'ailleurs, toute la propagande de Vichy consiste à dire qu'il faut imiter l'Allemagne. Je travaille en Allemagne pour la France."
+    },
+    {
+      "id": 145,
+      "start": 1437.57,
+      "end": 1450.95,
+      "start_timestamp": "00:23:57.570",
+      "end_timestamp": "00:24:10.950",
+      "text": "Travailler en Allemagne, français, pour rendre la France plus forte. Il faut faire comme les Allemands. C'est extraordinaire. On pourrait presque les ressortir, ces affiches."
+    },
+    {
+      "id": 146,
+      "start": 1450.95,
+      "end": 1459.59,
+      "start_timestamp": "00:24:10.950",
+      "end_timestamp": "00:24:19.590",
+      "text": "On avait donc Pétain qui par ailleurs disait « connaissez-vous mieux que lui les problèmes de l'heure ». On pourrait mettre d'ailleurs la tête de François Hollande."
+    },
+    {
+      "id": 147,
+      "start": 1459.59,
+      "end": 1468.39,
+      "start_timestamp": "00:24:19.590",
+      "end_timestamp": "00:24:28.390",
+      "text": "« Connaissez-vous mieux que lui les problèmes de l'heure ». Il se prévaut d'une compétence technique, comme Sarkozy."
+    },
+    {
+      "id": 148,
+      "start": 1473.68,
+      "end": 1486.28,
+      "start_timestamp": "00:24:33.680",
+      "end_timestamp": "00:24:46.280",
+      "text": "Le chancelier du Reich développait donc toute une rhétorique. C'était l'objectif. On a tendance à l'oublier. Mais la politique nazie, c'était bien d'avoir"
+    },
+    {
+      "id": 149,
+      "start": 1486.28,
+      "end": 1496.2,
+      "start_timestamp": "00:24:46.280",
+      "end_timestamp": "00:24:56.200",
+      "text": "« Das neue Europa ist unschlagbar. » La nouvelle Europe est invincible. « Europas sind ein Vollstein. » L'Europe se bat pour ton bien-être."
+    },
+    {
+      "id": 150,
+      "start": 1496.84,
+      "end": 1509.04,
+      "start_timestamp": "00:24:56.840",
+      "end_timestamp": "00:25:09.040",
+      "text": "Europas freiheit. Un soldat nazi qui se bat pour la liberté de l'Europe. Échec à l'ennemi de l'Europe. Ça, c'est une brochure publiée par les autorités françaises"
+    },
+    {
+      "id": 151,
+      "start": 1509.04,
+      "end": 1517.64,
+      "start_timestamp": "00:25:09.040",
+      "end_timestamp": "00:25:17.640",
+      "text": "sous l'occupation. Les ennemis de l'Europe, ce sont les anglo-saxons, c'est les anglais, avec un shtouka qui les bombard."
+    },
+    {
+      "id": 152,
+      "start": 1517.64,
+      "end": 1525.48,
+      "start_timestamp": "00:25:17.640",
+      "end_timestamp": "00:25:25.480",
+      "text": "Officier nazi pendant la Deuxième Guerre mondiale, Walter Einstein fut fait prisonnier par les alliés pendant la bataille de Cherbourg."
+    },
+    {
+      "id": 153,
+      "start": 1525.52,
+      "end": 1535.32,
+      "start_timestamp": "00:25:25.520",
+      "end_timestamp": "00:25:35.320",
+      "text": "Entré ensuite, après 1945, au sein de la CDO d'après-guerre, il devient rapidement le secrétaire d'État aux affaires étrangères du chancelier"
+    },
+    {
+      "id": 154,
+      "start": 1535.32,
+      "end": 1546.05,
+      "start_timestamp": "00:25:35.320",
+      "end_timestamp": "00:25:46.050",
+      "text": "Konrad Adenauer en 1951. À ce poste, il élabore la doctrine Einstein et négocie au nom de la République fédérale d'Allemagne les modalités de la construction européenne"
+    },
+    {
+      "id": 155,
+      "start": 1546.05,
+      "end": 1556.01,
+      "start_timestamp": "00:25:46.050",
+      "end_timestamp": "00:25:56.010",
+      "text": "qu'on lui demande de préparer. Il ressort les dossiers qu'il avait préparés en juin 1938. Il cosigne le traité de Rome le 25 mars"
+    },
+    {
+      "id": 156,
+      "start": 1556.33,
+      "end": 1563.37,
+      "start_timestamp": "00:25:56.330",
+      "end_timestamp": "00:26:03.370",
+      "text": "1957 avec Adenauer, le fameux traité dont j'ai créé l'UPR pour proposer aux Français d'en sortir."
+    },
+    {
+      "id": 157,
+      "start": 1564.01,
+      "end": 1570.53,
+      "start_timestamp": "00:26:04.010",
+      "end_timestamp": "00:26:10.530",
+      "text": "Et si vous ne me croyez pas, et bien voici la photo. On a ici Adenauer et vous voyez juste à côté de lui"
+    },
+    {
+      "id": 158,
+      "start": 1570.85,
+      "end": 1576.49,
+      "start_timestamp": "00:26:10.850",
+      "end_timestamp": "00:26:16.490",
+      "text": "Walter Einstein, le juriste nazi choisi par Hitler pour préparer la Nouvelle Europe."
+    },
+    {
+      "id": 159,
+      "start": 1577.61,
+      "end": 1579.61,
+      "start_timestamp": "00:26:17.610",
+      "end_timestamp": "00:26:19.610",
+      "text": "C'est bizarre qu'on vous en parle jamais."
+    },
+    {
+      "id": 160,
+      "start": 1584.06,
+      "end": 1587.66,
+      "start_timestamp": "00:26:24.060",
+      "end_timestamp": "00:26:27.660",
+      "text": "Walter Einstein fut ensuite le premier président de la Commission européenne."
+    },
+    {
+      "id": 161,
+      "start": 1590.3,
+      "end": 1592.3,
+      "start_timestamp": "00:26:30.300",
+      "end_timestamp": "00:26:32.300",
+      "text": "Le prédécesseur de José Barroso."
+    },
+    {
+      "id": 162,
+      "start": 1593.86,
+      "end": 1600.86,
+      "start_timestamp": "00:26:33.860",
+      "end_timestamp": "00:26:40.860",
+      "text": "Il a été le président de la Commission européenne de 1958 à 1967, presque aussi longtemps que Jacques Delors."
+    },
+    {
+      "id": 163,
+      "start": 1602.1,
+      "end": 1604.7,
+      "start_timestamp": "00:26:42.100",
+      "end_timestamp": "00:26:44.700",
+      "text": "On a appelé ça la Commission Hallstein."
+    },
+    {
+      "id": 164,
+      "start": 1605.54,
+      "end": 1611.46,
+      "start_timestamp": "00:26:45.540",
+      "end_timestamp": "00:26:51.460",
+      "text": "Et dans le cadre de cette présidence de la Commission Hallstein, il présente en 1965"
+    },
+    {
+      "id": 165,
+      "start": 1612.18,
+      "end": 1616.1,
+      "start_timestamp": "00:26:52.180",
+      "end_timestamp": "00:26:56.100",
+      "text": "un plan qui prépare l'organisation d'une Europe fédérale."
+    },
+    {
+      "id": 166,
+      "start": 1617.06,
+      "end": 1621.54,
+      "start_timestamp": "00:26:57.060",
+      "end_timestamp": "00:27:01.540",
+      "text": "C'est justement contre ce plan Hallstein que Charles de Gaulle va intervenir"
+    },
+    {
+      "id": 167,
+      "start": 1622.02,
+      "end": 1625.74,
+      "start_timestamp": "00:27:02.020",
+      "end_timestamp": "00:27:05.740",
+      "text": "en mettant le veto immédiat de la France avec la crise de la chaise vide."
+    },
+    {
+      "id": 168,
+      "start": 1626.22,
+      "end": 1632.69,
+      "start_timestamp": "00:27:06.220",
+      "end_timestamp": "00:27:12.690",
+      "text": "En France, toute la presse qui est déjà largement dans les intérêts anglo-saxons,"
+    },
+    {
+      "id": 169,
+      "start": 1633.73,
+      "end": 1636.21,
+      "start_timestamp": "00:27:13.730",
+      "end_timestamp": "00:27:16.210",
+      "text": "brocade, critique fermement, de Gaulle."
+    },
+    {
+      "id": 170,
+      "start": 1637.45,
+      "end": 1641.13,
+      "start_timestamp": "00:27:17.450",
+      "end_timestamp": "00:27:21.130",
+      "text": "Personne ne le sait en France,"
+    },
+    {
+      "id": 171,
+      "start": 1641.97,
+      "end": 1645.85,
+      "start_timestamp": "00:27:21.970",
+      "end_timestamp": "00:27:25.850",
+      "text": "aujourd'hui, en Belgique, je ne suis pas sûr que vous soyez non plus très bien informés."
+    },
+    {
+      "id": 172,
+      "start": 1646.49,
+      "end": 1648.85,
+      "start_timestamp": "00:27:26.490",
+      "end_timestamp": "00:27:28.850",
+      "text": "Quelle était la personnalité de ce type ?"
+    },
+    {
+      "id": 173,
+      "start": 1649.45,
+      "end": 1656.13,
+      "start_timestamp": "00:27:29.450",
+      "end_timestamp": "00:27:36.130",
+      "text": "Comment ce Walter Einstein, après avoir été un proche d'Hitler, a été ensuite récupéré par les Américains, comme beaucoup d'autres ?"
+    },
+    {
+      "id": 174,
+      "start": 1657.37,
+      "end": 1662.13,
+      "start_timestamp": "00:27:37.370",
+      "end_timestamp": "00:27:42.130",
+      "text": "Puisque les Américains, en fait, ont repris, ont recyclé un certain nombre de scientifiques,"
+    },
+    {
+      "id": 175,
+      "start": 1663.45,
+      "end": 1669.29,
+      "start_timestamp": "00:27:43.450",
+      "end_timestamp": "00:27:49.290",
+      "text": "nazis, de juristes, de responsables politiques, pour reprendre les bonnes idées du chancelier Hitler à leur profit."
+    },
+    {
+      "id": 176,
+      "start": 1671.54,
+      "end": 1673.54,
+      "start_timestamp": "00:27:51.540",
+      "end_timestamp": "00:27:53.540",
+      "text": "De Gaulle a mis un veto"
+    },
+    {
+      "id": 177,
+      "start": 1673.74,
+      "end": 1678.82,
+      "start_timestamp": "00:27:53.740",
+      "end_timestamp": "00:27:58.820",
+      "text": "et de Gaulle obtiendra le départ de Walter Einstein en 1967,"
+    },
+    {
+      "id": 178,
+      "start": 1680.1,
+      "end": 1687.02,
+      "start_timestamp": "00:28:00.100",
+      "end_timestamp": "00:28:07.020",
+      "text": "après la crise de la chaise vide. Mais comme vous le savez, de Gaulle, lui-même, n'est pas éternel, il quittera le pouvoir en 1969,"
+    },
+    {
+      "id": 179,
+      "start": 1687.02,
+      "end": 1695.02,
+      "start_timestamp": "00:28:07.020",
+      "end_timestamp": "00:28:15.020",
+      "text": "mourra en 1970. Pendant ce temps-là, Walter Einstein deviendra le président du mouvement européen, dont on sait de façon certaine, désormais,"
+    },
+    {
+      "id": 180,
+      "start": 1695.62,
+      "end": 1702.3,
+      "start_timestamp": "00:28:15.620",
+      "end_timestamp": "00:28:22.300",
+      "text": "depuis l'article notamment du Daily Telegraph du 19 septembre 2000, qui a rendu public les documents"
+    },
+    {
+      "id": 181,
+      "start": 1702.9,
+      "end": 1706.62,
+      "start_timestamp": "00:28:22.900",
+      "end_timestamp": "00:28:26.620",
+      "text": "confidentiels défense du département d'État américain pendant les années 50 et 60,"
+    },
+    {
+      "id": 182,
+      "start": 1706.62,
+      "end": 1712.06,
+      "start_timestamp": "00:28:26.620",
+      "end_timestamp": "00:28:32.060",
+      "text": "Mr. Walter Einstein a été donc président du mouvement européen, qui était, et qui est toujours probablement,"
+    },
+    {
+      "id": 183,
+      "start": 1712.34,
+      "end": 1715.82,
+      "start_timestamp": "00:28:32.340",
+      "end_timestamp": "00:28:35.820",
+      "text": "une créature financée par la CIA américaine."
+    },
+    {
+      "id": 184,
+      "start": 1717.22,
+      "end": 1722.34,
+      "start_timestamp": "00:28:37.220",
+      "end_timestamp": "00:28:42.340",
+      "text": "Voilà donc quelles sont les origines de la construction de ce binz."
+    },
+    {
+      "id": 185,
+      "start": 1723.94,
+      "end": 1725.94,
+      "start_timestamp": "00:28:43.940",
+      "end_timestamp": "00:28:45.940",
+      "text": "Nous n'avons pas affaire à des imbéciles,"
+    },
+    {
+      "id": 186,
+      "start": 1726.06,
+      "end": 1732.66,
+      "start_timestamp": "00:28:46.060",
+      "end_timestamp": "00:28:52.660",
+      "text": "l'affaire de la fatalité statistique que je vous ai montré en préambule, il fallait quand même le concevoir,"
+    },
+    {
+      "id": 187,
+      "start": 1734.34,
+      "end": 1739.94,
+      "start_timestamp": "00:28:54.340",
+      "end_timestamp": "00:28:59.940",
+      "text": "de la même façon que le leurre habituel que l'on affiche devant les populations en disant"
+    },
+    {
+      "id": 188,
+      "start": 1740.62,
+      "end": 1745.34,
+      "start_timestamp": "00:29:00.620",
+      "end_timestamp": "00:29:05.340",
+      "text": "on n'est pas contre une autre Europe, on n'est pas contre l'Europe, on est pour une autre Europe, il fallait le concevoir,"
+    },
+    {
+      "id": 189,
+      "start": 1745.34,
+      "end": 1747.34,
+      "start_timestamp": "00:29:05.340",
+      "end_timestamp": "00:29:07.340",
+      "text": "il fallait quand même, c'était assez génial,"
+    },
+    {
+      "id": 190,
+      "start": 1747.5,
+      "end": 1752.07,
+      "start_timestamp": "00:29:07.500",
+      "end_timestamp": "00:29:12.070",
+      "text": "on a affaire à une structure"
+    },
+    {
+      "id": 191,
+      "start": 1753.39,
+      "end": 1755.31,
+      "start_timestamp": "00:29:13.390",
+      "end_timestamp": "00:29:15.310",
+      "text": "dictatoriale qui s'impose,"
+    },
+    {
+      "id": 192,
+      "start": 1755.35,
+      "end": 1760.39,
+      "start_timestamp": "00:29:15.350",
+      "end_timestamp": "00:29:20.390",
+      "text": "et je voudrais en citer un exemple ou quelques-uns, l'ESOS du gouvernement grec abandonné,"
+    },
+    {
+      "id": 193,
+      "start": 1761.11,
+      "end": 1768.87,
+      "start_timestamp": "00:29:21.110",
+      "end_timestamp": "00:29:28.870",
+      "text": "le 2 novembre 2011, le gouvernement grec soutient à l'unanimité la décision annoncée par M. Papandréou, j'en parlais tout à l'heure,"
+    },
+    {
+      "id": 194,
+      "start": 1769.59,
+      "end": 1775.79,
+      "start_timestamp": "00:29:29.590",
+      "end_timestamp": "00:29:35.790",
+      "text": "le Premier ministre Papandréou décide d'organiser un référendum sur le plus étendu plan de sauvetage de l'euro et de la Grèce,"
+    },
+    {
+      "id": 195,
+      "start": 1775.79,
+      "end": 1777.79,
+      "start_timestamp": "00:29:35.790",
+      "end_timestamp": "00:29:37.790",
+      "text": "en fait il s'agit de sauver les banques."
+    },
+    {
+      "id": 196,
+      "start": 1778.87,
+      "end": 1783.55,
+      "start_timestamp": "00:29:38.870",
+      "end_timestamp": "00:29:43.550",
+      "text": "Donc Papandréou annonce qu'il va faire un référendum"
+    },
+    {
+      "id": 197,
+      "start": 1785.31,
+      "end": 1792.67,
+      "start_timestamp": "00:29:45.310",
+      "end_timestamp": "00:29:52.670",
+      "text": "c'était en 2011, je pense quand même que la plupart d'entre vous se rappellent ce qui s'est passé, si vous ne vous rappelez pas, allez regarder dans les archives récentes."
+    },
+    {
+      "id": 198,
+      "start": 1794.67,
+      "end": 1798.95,
+      "start_timestamp": "00:29:54.670",
+      "end_timestamp": "00:29:58.950",
+      "text": "Aussitôt que Papandréou élisate, tous les médias occidentaux y sont tombés dessus."
+    },
+    {
+      "id": 199,
+      "start": 1800.31,
+      "end": 1802.31,
+      "start_timestamp": "00:30:00.310",
+      "end_timestamp": "00:30:02.310",
+      "text": "Sarkozy s'est indigné,"
+    },
+    {
+      "id": 200,
+      "start": 1804.39,
+      "end": 1808.35,
+      "start_timestamp": "00:30:04.390",
+      "end_timestamp": "00:30:08.350",
+      "text": "le Président Barroso a fait part de ses vives préoccupations"
+    },
+    {
+      "id": 201,
+      "start": 1809.67,
+      "end": 1813.07,
+      "start_timestamp": "00:30:09.670",
+      "end_timestamp": "00:30:13.070",
+      "text": "que l'on demande à un peuple son avis s'il voulait ou non être plumé."
+    },
+    {
+      "id": 202,
+      "start": 1813.79,
+      "end": 1822.74,
+      "start_timestamp": "00:30:13.790",
+      "end_timestamp": "00:30:22.740",
+      "text": "Donc le gouvernement grec a publié le 2 novembre, devant cette manœuvre de déstabilisation intercontinentale venue notamment des Etats-Unis,"
+    },
+    {
+      "id": 203,
+      "start": 1823.18,
+      "end": 1828.26,
+      "start_timestamp": "00:30:23.180",
+      "end_timestamp": "00:30:28.260",
+      "text": "une déclaration solennelle en disant la démocratie doit être maintenue au-dessus des appétits des marchés."
+    },
+    {
+      "id": 204,
+      "start": 1828.98,
+      "end": 1830.98,
+      "start_timestamp": "00:30:28.980",
+      "end_timestamp": "00:30:30.980",
+      "text": "Le gouvernement grec, la Grèce,"
+    },
+    {
+      "id": 205,
+      "start": 1831.86,
+      "end": 1833.86,
+      "start_timestamp": "00:30:31.860",
+      "end_timestamp": "00:30:33.860",
+      "text": "démocracia demos gratos,"
+    },
+    {
+      "id": 206,
+      "start": 1834.22,
+      "end": 1839.3,
+      "start_timestamp": "00:30:34.220",
+      "end_timestamp": "00:30:39.300",
+      "text": "le pouvoir du peuple c'est de là que ça vient. Le pays qui a inventé la démocratie a envoyé un SOS"
+    },
+    {
+      "id": 207,
+      "start": 1839.5,
+      "end": 1846.06,
+      "start_timestamp": "00:30:39.500",
+      "end_timestamp": "00:30:46.060",
+      "text": "en disant qu'il soutenait la décision du Premier ministre, la démocratie doit être maintenue au-dessus des appétits des marchés."
+    },
+    {
+      "id": 208,
+      "start": 1846.3,
+      "end": 1850.66,
+      "start_timestamp": "00:30:46.300",
+      "end_timestamp": "00:30:50.660",
+      "text": "Malheureusement tout le monde les a laissés tomber. Normalement le Président de la République française aurait dû dire stop."
+    },
+    {
+      "id": 209,
+      "start": 1851.26,
+      "end": 1857.82,
+      "start_timestamp": "00:30:51.260",
+      "end_timestamp": "00:30:57.820",
+      "text": "M. Papandréou doit effectuer en effet un référendum. La France aurait été conforme à ce moment-là avec son histoire,"
+    },
+    {
+      "id": 210,
+      "start": 1858.18,
+      "end": 1861.78,
+      "start_timestamp": "00:30:58.180",
+      "end_timestamp": "00:31:01.780",
+      "text": "avec le pays des droits d'homme et le pays de la révolution française, mais pas du tout."
+    },
+    {
+      "id": 211,
+      "start": 1862.66,
+      "end": 1867.66,
+      "start_timestamp": "00:31:02.660",
+      "end_timestamp": "00:31:07.660",
+      "text": "M. Sarkozy a condamné cette opération de référendum,"
+    },
+    {
+      "id": 212,
+      "start": 1868.26,
+      "end": 1876.1,
+      "start_timestamp": "00:31:08.260",
+      "end_timestamp": "00:31:16.100",
+      "text": "cette mise en garde d'Athènes, berceau mondial de la démocratie, a été suivie par la démission forcée du Premier ministre Papandréou."
+    },
+    {
+      "id": 213,
+      "start": 1876.1,
+      "end": 1881.7,
+      "start_timestamp": "00:31:16.100",
+      "end_timestamp": "00:31:21.700",
+      "text": "Il a été obligé d'avaler son chapeau de reconnaître qu'il ne ferait pas le référendum et ensuite il a été"
+    },
+    {
+      "id": 214,
+      "start": 1882.06,
+      "end": 1887.06,
+      "start_timestamp": "00:31:22.060",
+      "end_timestamp": "00:31:27.060",
+      "text": "obligé de démissionner et remplacer par Lucas Papademos dont je vous ai donné le pédigree à l'instant même,"
+    },
+    {
+      "id": 215,
+      "start": 1887.22,
+      "end": 1893.46,
+      "start_timestamp": "00:31:27.220",
+      "end_timestamp": "00:31:33.460",
+      "text": "qui était le type choisi par Goldman Sachs, celui qui avait été à la banque de Boston et qui ensuite a trafiqué les comptes"
+    },
+    {
+      "id": 216,
+      "start": 1894.46,
+      "end": 1896.46,
+      "start_timestamp": "00:31:34.460",
+      "end_timestamp": "00:31:36.460",
+      "text": "avec les représentants de Goldman Sachs."
+    },
+    {
+      "id": 217,
+      "start": 1897.18,
+      "end": 1902.54,
+      "start_timestamp": "00:31:37.180",
+      "end_timestamp": "00:31:42.540",
+      "text": "C'est donc bel et bien désormais la question de la survie même de la démocratie qui est posée dans toute l'Europe continentale"
+    },
+    {
+      "id": 218,
+      "start": 1902.98,
+      "end": 1906.26,
+      "start_timestamp": "00:31:42.980",
+      "end_timestamp": "00:31:46.260",
+      "text": "et celle de la lutte contre la dictature conçue par Walter"
+    },
+    {
+      "id": 219,
+      "start": 1906.78,
+      "end": 1911.22,
+      "start_timestamp": "00:31:46.780",
+      "end_timestamp": "00:31:51.220",
+      "text": "Hallstein. Le 6 août 2012, Mario Monti dont je vous ai parlé tout à l'heure,"
+    },
+    {
+      "id": 220,
+      "start": 1911.46,
+      "end": 1919.34,
+      "start_timestamp": "00:31:51.460",
+      "end_timestamp": "00:31:59.340",
+      "text": "ce dictateur européiste élu par personne, a invité les autres dirigeants européens à ne pas se préoccuper de leur parlement respectif."
+    },
+    {
+      "id": 221,
+      "start": 1920.14,
+      "end": 1922.86,
+      "start_timestamp": "00:32:00.140",
+      "end_timestamp": "00:32:02.860",
+      "text": "Il a osé dire ce type qui n'avait été élu par personne"
+    },
+    {
+      "id": 222,
+      "start": 1923.34,
+      "end": 1928.9,
+      "start_timestamp": "00:32:03.340",
+      "end_timestamp": "00:32:08.900",
+      "text": "Si les gouvernements devaient se laisser complétement bridés par les décisions de leur parlement sans préserver leur espace de négociation,"
+    },
+    {
+      "id": 223,
+      "start": 1929.46,
+      "end": 1933.02,
+      "start_timestamp": "00:32:09.460",
+      "end_timestamp": "00:32:13.020",
+      "text": "l'Europe risque davantage d'éclater que de renforcer son intégration."
+    },
+    {
+      "id": 224,
+      "start": 1934.26,
+      "end": 1939.26,
+      "start_timestamp": "00:32:14.260",
+      "end_timestamp": "00:32:19.260",
+      "text": "Il faut déjà voir comment les parlements eux-mêmes ne représentent pas l'opinion publique. C'est encore trop !"
+    },
+    {
+      "id": 225,
+      "start": 1940.1,
+      "end": 1944.38,
+      "start_timestamp": "00:32:20.100",
+      "end_timestamp": "00:32:24.380",
+      "text": "C'est encore trop ! Cette affaire, cette déclaration qu'il a faite,"
+    },
+    {
+      "id": 226,
+      "start": 1944.98,
+      "end": 1946.98,
+      "start_timestamp": "00:32:24.980",
+      "end_timestamp": "00:32:26.980",
+      "text": "a fait scandale,"
+    },
+    {
+      "id": 227,
+      "start": 1947.06,
+      "end": 1949.06,
+      "start_timestamp": "00:32:27.060",
+      "end_timestamp": "00:32:29.060",
+      "text": "notamment chez nos amis allemands,"
+    },
+    {
+      "id": 228,
+      "start": 1949.06,
+      "end": 1956.5,
+      "start_timestamp": "00:32:29.060",
+      "end_timestamp": "00:32:36.500",
+      "text": "Michael Gross-Brömer, le chef de l'union CDU-CSU au Bundestag, s'est fendu d'un communiqué, c'est le président du groupe CDU-CSU,"
+    },
+    {
+      "id": 229,
+      "start": 1956.82,
+      "end": 1963.18,
+      "start_timestamp": "00:32:36.820",
+      "end_timestamp": "00:32:43.180",
+      "text": "en disant, la capacité d'un gouvernement à agir revêt une importance décisive en termes de crise, c'est indiscutable, mais cela ne justifie aucunement"
+    },
+    {
+      "id": 230,
+      "start": 1963.62,
+      "end": 1968.46,
+      "start_timestamp": "00:32:43.620",
+      "end_timestamp": "00:32:48.460",
+      "text": "la tentative de limiter les vérifications parlementaires qui sont nécessaires au niveau démocratique."
+    },
+    {
+      "id": 231,
+      "start": 1968.54,
+      "end": 1973.14,
+      "start_timestamp": "00:32:48.540",
+      "end_timestamp": "00:32:53.140",
+      "text": "Il y a même le porte-parole de la chancelière d'Allemagne, Monsieur George Streiter,"
+    },
+    {
+      "id": 232,
+      "start": 1973.94,
+      "end": 1978.66,
+      "start_timestamp": "00:32:53.940",
+      "end_timestamp": "00:32:58.660",
+      "text": "le porte-parole de Mme Merkel qui a été obligée de faire à lui-même"
+    },
+    {
+      "id": 233,
+      "start": 1979.06,
+      "end": 1984.06,
+      "start_timestamp": "00:32:59.060",
+      "end_timestamp": "00:33:04.060",
+      "text": "une conférence de presse en disant, les décisions des gouvernements doivent avoir une légitimité démocratique."
+    },
+    {
+      "id": 234,
+      "start": 1984.94,
+      "end": 1990.86,
+      "start_timestamp": "00:33:04.940",
+      "end_timestamp": "00:33:10.860",
+      "text": "La chancelière a conscience qu'en Allemagne, les textes de loi doivent être soutenus par le Parlement et que celui-ci doit participer à leur élaboration."
+    },
+    {
+      "id": 235,
+      "start": 1991.42,
+      "end": 1995.9,
+      "start_timestamp": "00:33:11.420",
+      "end_timestamp": "00:33:15.900",
+      "text": "Il serait bon que l'on revienne un peu de calme dans le débat. Est-ce que vous vous rendez compte"
+    },
+    {
+      "id": 236,
+      "start": 1996.82,
+      "end": 1998.82,
+      "start_timestamp": "00:33:16.820",
+      "end_timestamp": "00:33:18.820",
+      "text": "qu'en 2012,"
+    },
+    {
+      "id": 237,
+      "start": 2000.62,
+      "end": 2006.82,
+      "start_timestamp": "00:33:20.620",
+      "end_timestamp": "00:33:26.820",
+      "text": "ce dont je vous parle, c'est le 6 août 2012, est-ce que vous vous rendez compte qu'en mois d'août 2012,"
+    },
+    {
+      "id": 238,
+      "start": 2006.9,
+      "end": 2014.38,
+      "start_timestamp": "00:33:26.900",
+      "end_timestamp": "00:33:34.380",
+      "text": "le porte-parole de la chancelière d'Allemagne est obligé de faire une conférence de presse pour rappeler"
+    },
+    {
+      "id": 239,
+      "start": 2014.46,
+      "end": 2020.26,
+      "start_timestamp": "00:33:34.460",
+      "end_timestamp": "00:33:40.260",
+      "text": "que les décisions des gouvernements doivent avoir une légitimité démocratique. On en est là ! On en est là !"
+    },
+    {
+      "id": 240,
+      "start": 2022.38,
+      "end": 2028.98,
+      "start_timestamp": "00:33:42.380",
+      "end_timestamp": "00:33:48.980",
+      "text": "J'insiste aussi au passage, je voudrais rendre hommage encore une fois à Olivier Sankara et aux organisateurs de la présente conférence"
+    },
+    {
+      "id": 241,
+      "start": 2029.94,
+      "end": 2034.1,
+      "start_timestamp": "00:33:49.940",
+      "end_timestamp": "00:33:54.100",
+      "text": "qui honore cette université, c'est que tout débat"
+    },
+    {
+      "id": 242,
+      "start": 2034.74,
+      "end": 2038.38,
+      "start_timestamp": "00:33:54.740",
+      "end_timestamp": "00:33:58.380",
+      "text": "sérieux et contradictoire sur la sortie de l'Union Européenne ou sur l'euro"
+    },
+    {
+      "id": 243,
+      "start": 2038.94,
+      "end": 2045.1,
+      "start_timestamp": "00:33:58.940",
+      "end_timestamp": "00:34:05.100",
+      "text": "est désormais quasiment, et a toujours été en tout cas en France, est quasiment interdit, en tout cas est interdit de tous les médias."
+    },
+    {
+      "id": 244,
+      "start": 2045.94,
+      "end": 2051.62,
+      "start_timestamp": "00:34:05.940",
+      "end_timestamp": "00:34:11.620",
+      "text": "Pourtant, il y a un article, j'en parlerai tout à l'heure, l'article 5 an du TUE qui permet de sortir de l'Union Européenne."
+    },
+    {
+      "id": 245,
+      "start": 2052.14,
+      "end": 2058.78,
+      "start_timestamp": "00:34:12.140",
+      "end_timestamp": "00:34:18.780",
+      "text": "Pourtant, je le disais tout à l'heure, il y a deux ministres du gouvernement britannique en exercice qui ont demandé la sortie de l'Union Européenne"
+    },
+    {
+      "id": 246,
+      "start": 2058.98,
+      "end": 2062.5,
+      "start_timestamp": "00:34:18.980",
+      "end_timestamp": "00:34:22.500",
+      "text": "sans parlementaire britannique, viennent de demander qu'un référendum est lieu sur le sujet."
+    },
+    {
+      "id": 247,
+      "start": 2062.9,
+      "end": 2071.26,
+      "start_timestamp": "00:34:22.900",
+      "end_timestamp": "00:34:31.260",
+      "text": "En France, c'est interdit de toutes les télés, toutes les radios, tous les journaux, tous les magazines, interdit, sauf les toutes petites radios où on veut bien"
+    },
+    {
+      "id": 248,
+      "start": 2073.06,
+      "end": 2075.06,
+      "start_timestamp": "00:34:33.060",
+      "end_timestamp": "00:34:35.060",
+      "text": "m'inviter pour en parler."
+    },
+    {
+      "id": 249,
+      "start": 2076.14,
+      "end": 2079.26,
+      "start_timestamp": "00:34:36.140",
+      "end_timestamp": "00:34:39.260",
+      "text": "L'interdiction de tout débat sérieux et contradictoire sur la sortie de l'Union Européenne"
+    },
+    {
+      "id": 250,
+      "start": 2080.02,
+      "end": 2083.1,
+      "start_timestamp": "00:34:40.020",
+      "end_timestamp": "00:34:43.100",
+      "text": "à travers toute l'Europe, les médias, il y a eu ici d'ailleurs."
+    },
+    {
+      "id": 251,
+      "start": 2084.1,
+      "end": 2088.46,
+      "start_timestamp": "00:34:44.100",
+      "end_timestamp": "00:34:48.460",
+      "text": "Il y a quelques jours, je me suis permis de faire un saisi d'écran de la"
+    },
+    {
+      "id": 252,
+      "start": 2088.94,
+      "end": 2093.74,
+      "start_timestamp": "00:34:48.940",
+      "end_timestamp": "00:34:53.740",
+      "text": "l'affiche qui vous a été montrée. Eyes on Europe. Oui, on parle l'européen, c'est-à-dire l'américain."
+    },
+    {
+      "id": 253,
+      "start": 2094.38,
+      "end": 2098.38,
+      "start_timestamp": "00:34:54.380",
+      "end_timestamp": "00:34:58.380",
+      "text": "Eyes on Europe, l'Europe sous pression populiste, une vraie menace pour l'UE."
+    },
+    {
+      "id": 254,
+      "start": 2099.62,
+      "end": 2105.78,
+      "start_timestamp": "00:34:59.620",
+      "end_timestamp": "00:35:05.780",
+      "text": "Ça veut dire quoi ? Ça veut dire qu'un tout débat sérieux sur cette question est systématiquement"
+    },
+    {
+      "id": 255,
+      "start": 2106.94,
+      "end": 2110.82,
+      "start_timestamp": "00:35:06.940",
+      "end_timestamp": "00:35:10.820",
+      "text": "ravalé au niveau dont je parlais tout à l'heure, des mouvements d'extrême droite."
+    },
+    {
+      "id": 256,
+      "start": 2111.38,
+      "end": 2117.26,
+      "start_timestamp": "00:35:11.380",
+      "end_timestamp": "00:35:17.260",
+      "text": "Donc les médias, mais aussi la plupart des relais d'opinion, assimilent toute opposition à la construction européenne"
+    },
+    {
+      "id": 257,
+      "start": 2117.94,
+      "end": 2122.18,
+      "start_timestamp": "00:35:17.940",
+      "end_timestamp": "00:35:22.180",
+      "text": "à des mouvements qui seraient des mouvements antiparlementaires ou d'extrême droite, donc au populisme."
+    },
+    {
+      "id": 258,
+      "start": 2124.79,
+      "end": 2126.43,
+      "start_timestamp": "00:35:24.790",
+      "end_timestamp": "00:35:26.430",
+      "text": "Deuxièmement,"
+    },
+    {
+      "id": 259,
+      "start": 2126.43,
+      "end": 2131.15,
+      "start_timestamp": "00:35:26.430",
+      "end_timestamp": "00:35:31.150",
+      "text": "ne donne la parole qu'à ces mouvements-là en faussant leur image. C'est-à-dire à la fois"
+    },
+    {
+      "id": 260,
+      "start": 2132.63,
+      "end": 2139.31,
+      "start_timestamp": "00:35:32.630",
+      "end_timestamp": "00:35:39.310",
+      "text": "on dit que toute l'opposition se résume à eux et on ne fait que les promouvoir dans les médias."
+    },
+    {
+      "id": 261,
+      "start": 2140.91,
+      "end": 2143.91,
+      "start_timestamp": "00:35:40.910",
+      "end_timestamp": "00:35:43.910",
+      "text": "Et en plus de ça, on travestit leur image."
+    },
+    {
+      "id": 262,
+      "start": 2144.67,
+      "end": 2148.19,
+      "start_timestamp": "00:35:44.670",
+      "end_timestamp": "00:35:48.190",
+      "text": "Ici, d'après ce que j'ai compris de cette photo, on voit, semble-t-il, Madame Le Pen."
+    },
+    {
+      "id": 263,
+      "start": 2149.03,
+      "end": 2150.71,
+      "start_timestamp": "00:35:49.030",
+      "end_timestamp": "00:35:50.710",
+      "text": "À gauche."
+    },
+    {
+      "id": 264,
+      "start": 2150.71,
+      "end": 2154.87,
+      "start_timestamp": "00:35:50.710",
+      "end_timestamp": "00:35:54.870",
+      "text": "On voit Madame Le Pen à gauche et on voit M. Bépé-Griot à droite, je suppose."
+    },
+    {
+      "id": 265,
+      "start": 2156.43,
+      "end": 2162.43,
+      "start_timestamp": "00:35:56.430",
+      "end_timestamp": "00:36:02.430",
+      "text": "Mais en France, le Front National n'a jamais demandé de sortir de l'Union Européenne depuis 21 ans."
+    },
+    {
+      "id": 266,
+      "start": 2163.67,
+      "end": 2168.35,
+      "start_timestamp": "00:36:03.670",
+      "end_timestamp": "00:36:08.350",
+      "text": "M. Jean-Marie Le Pen est député européen depuis 1984."
+    },
+    {
+      "id": 267,
+      "start": 2169.07,
+      "end": 2171.07,
+      "start_timestamp": "00:36:09.070",
+      "end_timestamp": "00:36:11.070",
+      "text": "Ça va faire 30 ans."
+    },
+    {
+      "id": 268,
+      "start": 2171.87,
+      "end": 2174.79,
+      "start_timestamp": "00:36:11.870",
+      "end_timestamp": "00:36:14.790",
+      "text": "En cumulé, il s'est fait plus de 5 millions d'euros de rémunération."
+    },
+    {
+      "id": 269,
+      "start": 2175.79,
+      "end": 2178.51,
+      "start_timestamp": "00:36:15.790",
+      "end_timestamp": "00:36:18.510",
+      "text": "Sans compter, la rémunération a versé aux assistants."
+    },
+    {
+      "id": 270,
+      "start": 2179.71,
+      "end": 2184.83,
+      "start_timestamp": "00:36:19.710",
+      "end_timestamp": "00:36:24.830",
+      "text": "En 30 ans, pas une seule fois, on l'a entendu prendre la parole pour demander la sortie de l'Union Européenne."
+    },
+    {
+      "id": 271,
+      "start": 2185.51,
+      "end": 2188.92,
+      "start_timestamp": "00:36:25.510",
+      "end_timestamp": "00:36:28.920",
+      "text": "À différence d'ailleurs de M. Vnagel-Faradj."
+    },
+    {
+      "id": 272,
+      "start": 2192.38,
+      "end": 2195.18,
+      "start_timestamp": "00:36:32.380",
+      "end_timestamp": "00:36:35.180",
+      "text": "Lors des élections présidentielles qui ont eu lieu l'année dernière,"
+    },
+    {
+      "id": 273,
+      "start": 2196.38,
+      "end": 2199.46,
+      "start_timestamp": "00:36:36.380",
+      "end_timestamp": "00:36:39.460",
+      "text": "Mme Le Pen a envoyé, comme tous les candidats officiels,"
+    },
+    {
+      "id": 274,
+      "start": 2200.62,
+      "end": 2205.7,
+      "start_timestamp": "00:36:40.620",
+      "end_timestamp": "00:36:45.700",
+      "text": "une profession de foi au frais de la Princesse et au frais de l'État de la République Française, ou 46 millions d'électeurs."
+    },
+    {
+      "id": 275,
+      "start": 2206.18,
+      "end": 2210.7,
+      "start_timestamp": "00:36:46.180",
+      "end_timestamp": "00:36:50.700",
+      "text": "C'est le seul document, la profession de foi, qui va ensuite aux archives nationales et qui fait foi, comme le nom l'indique."
+    },
+    {
+      "id": 276,
+      "start": 2211.18,
+      "end": 2213.62,
+      "start_timestamp": "00:36:51.180",
+      "end_timestamp": "00:36:53.620",
+      "text": "Mme Le Pen, pas plus que M. Dupont-Aignan d'ailleurs,"
+    },
+    {
+      "id": 277,
+      "start": 2214.1,
+      "end": 2221.3,
+      "start_timestamp": "00:36:54.100",
+      "end_timestamp": "00:37:01.300",
+      "text": "n'a ni l'un ni l'autre évoqué dans ce document décisif la sortie, évidemment la sortie de l'Union Européenne puisqu'il ne la propose pas,"
+    },
+    {
+      "id": 278,
+      "start": 2221.78,
+      "end": 2223.78,
+      "start_timestamp": "00:37:01.780",
+      "end_timestamp": "00:37:03.780",
+      "text": "mais même pas l'euro."
+    },
+    {
+      "id": 279,
+      "start": 2224.5,
+      "end": 2230.98,
+      "start_timestamp": "00:37:04.500",
+      "end_timestamp": "00:37:10.980",
+      "text": "Si vous avez un doute, allez sur notre site internet. Nous avons le scan de ces professions de foi. Vous verrez les analyses que nous en faisons,"
+    },
+    {
+      "id": 280,
+      "start": 2230.98,
+      "end": 2232.98,
+      "start_timestamp": "00:37:10.980",
+      "end_timestamp": "00:37:12.980",
+      "text": "des analyses minutieuses."
+    },
+    {
+      "id": 281,
+      "start": 2232.98,
+      "end": 2239.14,
+      "start_timestamp": "00:37:12.980",
+      "end_timestamp": "00:37:19.140",
+      "text": "Et ce que je vous dis là du Front National, je peux vous dire exactement la même chose du mouvement 5 étoiles de l'italien Beppe Grillo."
+    },
+    {
+      "id": 282,
+      "start": 2241.44,
+      "end": 2245.36,
+      "start_timestamp": "00:37:21.440",
+      "end_timestamp": "00:37:25.360",
+      "text": "Allez regarder le programme, la dernière mouture du programme du mouvement 5 étoiles."
+    },
+    {
+      "id": 283,
+      "start": 2246.2,
+      "end": 2249.64,
+      "start_timestamp": "00:37:26.200",
+      "end_timestamp": "00:37:29.640",
+      "text": "Il n'y est jamais question de sortir de l'euro, pour qu'en vrai il est pauvre."
+    },
+    {
+      "id": 284,
+      "start": 2251.04,
+      "end": 2253.68,
+      "start_timestamp": "00:37:31.040",
+      "end_timestamp": "00:37:33.680",
+      "text": "Et en revanche, il n'est même plus question de sortir de l'euro."
+    },
+    {
+      "id": 285,
+      "start": 2254.96,
+      "end": 2259.56,
+      "start_timestamp": "00:37:34.960",
+      "end_timestamp": "00:37:39.560",
+      "text": "Donc en fait, on voit ici une affiche où on veut vous faire croire"
+    },
+    {
+      "id": 286,
+      "start": 2260.36,
+      "end": 2264.96,
+      "start_timestamp": "00:37:40.360",
+      "end_timestamp": "00:37:44.960",
+      "text": "que l'Union Européenne est menacée par des mouvements qui sont en effet populistes, c'est-à-dire"
+    },
+    {
+      "id": 287,
+      "start": 2265.56,
+      "end": 2267.56,
+      "start_timestamp": "00:37:45.560",
+      "end_timestamp": "00:37:47.560",
+      "text": "qu'ils ne vont jamais au fond des choses,"
+    },
+    {
+      "id": 288,
+      "start": 2267.56,
+      "end": 2269.8,
+      "start_timestamp": "00:37:47.560",
+      "end_timestamp": "00:37:49.800",
+      "text": "qu'ils ne vous apportent pas d'argumentations rationnelles,"
+    },
+    {
+      "id": 289,
+      "start": 2270.4,
+      "end": 2275.76,
+      "start_timestamp": "00:37:50.400",
+      "end_timestamp": "00:37:55.760",
+      "text": "qu'ils surfent constamment sur les indignations de l'opinion publique, y compris reprenant à leur compte"
+    },
+    {
+      "id": 290,
+      "start": 2276.08,
+      "end": 2278.84,
+      "start_timestamp": "00:37:56.080",
+      "end_timestamp": "00:37:58.840",
+      "text": "des indignations de types xénophobes, etc."
+    },
+    {
+      "id": 291,
+      "start": 2279.36,
+      "end": 2287.16,
+      "start_timestamp": "00:37:59.360",
+      "end_timestamp": "00:38:07.160",
+      "text": "Mais qui, le plus fort de tout, ne propose absolument pas de sortir de l'Union Européenne ni de l'euro. Ceux qui le proposent"
+    },
+    {
+      "id": 292,
+      "start": 2287.88,
+      "end": 2290.92,
+      "start_timestamp": "00:38:07.880",
+      "end_timestamp": "00:38:10.920",
+      "text": "sont rarissimes. En France, nous sommes tout seuls."
+    },
+    {
+      "id": 293,
+      "start": 2291.6,
+      "end": 2295.04,
+      "start_timestamp": "00:38:11.600",
+      "end_timestamp": "00:38:15.040",
+      "text": "Au Royaume-Uni, ils sont un peu plus nombreux, mais en France, personne n'en parle."
+    },
+    {
+      "id": 294,
+      "start": 2295.96,
+      "end": 2299.56,
+      "start_timestamp": "00:38:15.960",
+      "end_timestamp": "00:38:19.560",
+      "text": "Sur TF1-20h, on ne parle pas de ce qui se passe au Royaume-Uni."
+    },
+    {
+      "id": 295,
+      "start": 2300.68,
+      "end": 2306.04,
+      "start_timestamp": "00:38:20.680",
+      "end_timestamp": "00:38:26.040",
+      "text": "Les forces de gauche en France ne disent pas un mot sur le dernier communiqué du principal"
+    },
+    {
+      "id": 296,
+      "start": 2306.68,
+      "end": 2313.66,
+      "start_timestamp": "00:38:26.680",
+      "end_timestamp": "00:38:33.660",
+      "text": "syndicat de transport britannique dont je parlais tout à l'heure. Le cinquième chapitre,"
+    },
+    {
+      "id": 297,
+      "start": 2314.58,
+      "end": 2316.58,
+      "start_timestamp": "00:38:34.580",
+      "end_timestamp": "00:38:36.580",
+      "text": "c'est le viol du droit."
+    },
+    {
+      "id": 298,
+      "start": 2316.74,
+      "end": 2318.74,
+      "start_timestamp": "00:38:36.740",
+      "end_timestamp": "00:38:38.740",
+      "text": "Je suis de ceux qui considèrent"
+    },
+    {
+      "id": 299,
+      "start": 2319.7,
+      "end": 2321.7,
+      "start_timestamp": "00:38:39.700",
+      "end_timestamp": "00:38:41.700",
+      "text": "que la barbarie"
+    },
+    {
+      "id": 300,
+      "start": 2321.82,
+      "end": 2327.5,
+      "start_timestamp": "00:38:41.820",
+      "end_timestamp": "00:38:47.500",
+      "text": "commence là où finit le droit, et réciproquement. Le droit, c'est une invention de l'humanité."
+    },
+    {
+      "id": 301,
+      "start": 2328.3,
+      "end": 2335.7,
+      "start_timestamp": "00:38:48.300",
+      "end_timestamp": "00:38:55.700",
+      "text": "C'est régler les rapports de force, les rapports humains, les rapports entre puissances, les rapports commerciaux par des règles"
+    },
+    {
+      "id": 302,
+      "start": 2336.14,
+      "end": 2341.54,
+      "start_timestamp": "00:38:56.140",
+      "end_timestamp": "00:39:01.540",
+      "text": "qui s'imposent de façon un peu presque transcendante, quelle que soit la force des adversaires."
+    },
+    {
+      "id": 303,
+      "start": 2342.38,
+      "end": 2347.5,
+      "start_timestamp": "00:39:02.380",
+      "end_timestamp": "00:39:07.500",
+      "text": "Donc dès que l'on commence à piétiner le droit, c'est que l'on commence à entrer dans le domaine de la barbarie."
+    },
+    {
+      "id": 304,
+      "start": 2348.06,
+      "end": 2354.7,
+      "start_timestamp": "00:39:08.060",
+      "end_timestamp": "00:39:14.700",
+      "text": "Et c'est la raison pour laquelle notre mouvement politique, je m'honore à ce qu'il soit le plus loyal, le plus légaliste, le plus"
+    },
+    {
+      "id": 305,
+      "start": 2355.02,
+      "end": 2361.7,
+      "start_timestamp": "00:39:15.020",
+      "end_timestamp": "00:39:21.700",
+      "text": "respectueux du droit, à tout moment, je renvoie ceux que ça intéresse à une conférence que je fais qui s'appelle"
+    },
+    {
+      "id": 306,
+      "start": 2361.7,
+      "end": 2365.34,
+      "start_timestamp": "00:39:21.700",
+      "end_timestamp": "00:39:25.340",
+      "text": "« Mais où est passé la République française ? », où je montre que notre constitution de la Ve République"
+    },
+    {
+      "id": 307,
+      "start": 2366.14,
+      "end": 2369.14,
+      "start_timestamp": "00:39:26.140",
+      "end_timestamp": "00:39:29.140",
+      "text": "est totalement violée dans l'impunité la plus générale."
+    },
+    {
+      "id": 308,
+      "start": 2369.82,
+      "end": 2376.66,
+      "start_timestamp": "00:39:29.820",
+      "end_timestamp": "00:39:36.660",
+      "text": "Par exemple, nous avons un article qui est l'article 5, l'article 7 ou 5 de la Constitution française"
+    },
+    {
+      "id": 309,
+      "start": 2377.46,
+      "end": 2379.38,
+      "start_timestamp": "00:39:37.460",
+      "end_timestamp": "00:39:39.380",
+      "text": "qui précise"
+    },
+    {
+      "id": 310,
+      "start": 2379.38,
+      "end": 2384.66,
+      "start_timestamp": "00:39:39.380",
+      "end_timestamp": "00:39:44.660",
+      "text": "que les partis politiques français doivent respecter les principes de la souveraineté nationale."
+    },
+    {
+      "id": 311,
+      "start": 2385.54,
+      "end": 2392.1,
+      "start_timestamp": "00:39:45.540",
+      "end_timestamp": "00:39:52.100",
+      "text": "Ceux qui donc ont appelé à voter oui à Maastricht,"
+    },
+    {
+      "id": 312,
+      "start": 2392.34,
+      "end": 2396.58,
+      "start_timestamp": "00:39:52.340",
+      "end_timestamp": "00:39:56.580",
+      "text": "qui ont appelé à voter oui à la Constitution européenne, qui ont appelé à voter oui au traité de Lisbonne,"
+    },
+    {
+      "id": 313,
+      "start": 2397.14,
+      "end": 2399.14,
+      "start_timestamp": "00:39:57.140",
+      "end_timestamp": "00:39:59.140",
+      "text": "sont objectivement des partis"
+    },
+    {
+      "id": 314,
+      "start": 2399.98,
+      "end": 2406.3,
+      "start_timestamp": "00:39:59.980",
+      "end_timestamp": "00:40:06.300",
+      "text": "inconstitutionnels. On va quand même pas m'expliquer qu'appeler à voter oui au traité de Lisbonne, c'est être en favorable à la souveraineté nationale."
+    },
+    {
+      "id": 315,
+      "start": 2408.94,
+      "end": 2414.46,
+      "start_timestamp": "00:40:08.940",
+      "end_timestamp": "00:40:14.460",
+      "text": "Alors le viol du droit, il prend de nombreuses formes à travers toute l'Europe. Dans de nombreux domaines techniques inconnus du public,"
+    },
+    {
+      "id": 316,
+      "start": 2414.86,
+      "end": 2417.58,
+      "start_timestamp": "00:40:14.860",
+      "end_timestamp": "00:40:17.580",
+      "text": "la Commission européenne viole impunément le droit européen."
+    },
+    {
+      "id": 317,
+      "start": 2418.1,
+      "end": 2424.82,
+      "start_timestamp": "00:40:18.100",
+      "end_timestamp": "00:40:24.820",
+      "text": "Elle agit dans l'opacité et dans des habillages juridiques trompeurs, en profitant de l'instabilité institutionnelle"
+    },
+    {
+      "id": 318,
+      "start": 2425.62,
+      "end": 2427.62,
+      "start_timestamp": "00:40:25.620",
+      "end_timestamp": "00:40:27.620",
+      "text": "et du désintérêt des peuples et des gouvernants."
+    },
+    {
+      "id": 319,
+      "start": 2428.34,
+      "end": 2434.5,
+      "start_timestamp": "00:40:28.340",
+      "end_timestamp": "00:40:34.500",
+      "text": "Alors je vais pas entrer dans les détails, d'ailleurs que je maîtrise mal moi-même, mais près récemment la directive sur la qualité des carburants,"
+    },
+    {
+      "id": 320,
+      "start": 2434.98,
+      "end": 2439.02,
+      "start_timestamp": "00:40:34.980",
+      "end_timestamp": "00:40:39.020",
+      "text": "la révision de la directive sur la pharmacovigilance,"
+    },
+    {
+      "id": 321,
+      "start": 2439.66,
+      "end": 2446.46,
+      "start_timestamp": "00:40:39.660",
+      "end_timestamp": "00:40:46.460",
+      "text": "la négation des mesures d'exécution sur le cas Orfagol, je pourrais vous en citer des dizaines et des dizaines, qui montre qu'au quotidien"
+    },
+    {
+      "id": 322,
+      "start": 2447.34,
+      "end": 2451.58,
+      "start_timestamp": "00:40:47.340",
+      "end_timestamp": "00:40:51.580",
+      "text": "le droit européen est bafoué par la Commission elle-même."
+    },
+    {
+      "id": 323,
+      "start": 2452.26,
+      "end": 2456.06,
+      "start_timestamp": "00:40:52.260",
+      "end_timestamp": "00:40:56.060",
+      "text": "Dans un autre ordre d'idée, l'intervention militaire euro-atlantiste en Irak"
+    },
+    {
+      "id": 324,
+      "start": 2456.54,
+      "end": 2461.9,
+      "start_timestamp": "00:40:56.540",
+      "end_timestamp": "00:41:01.900",
+      "text": "a violé expressément la Charte des Nations Unies, puisque vous savez que dans le cadre du droit international public positif,"
+    },
+    {
+      "id": 325,
+      "start": 2463.02,
+      "end": 2470.9,
+      "start_timestamp": "00:41:03.020",
+      "end_timestamp": "00:41:10.900",
+      "text": "les seules interventions militaires autorisées par le droit sont celles qui sont avalisées et accordées par un vote au Conseil de sécurité de l'Organisation des Nations Unies"
+    },
+    {
+      "id": 326,
+      "start": 2470.9,
+      "end": 2474.46,
+      "start_timestamp": "00:41:10.900",
+      "end_timestamp": "00:41:14.460",
+      "text": "en vertu du chapitre 7 de la Charte de San Francisco."
+    },
+    {
+      "id": 327,
+      "start": 2476.06,
+      "end": 2481.34,
+      "start_timestamp": "00:41:16.060",
+      "end_timestamp": "00:41:21.340",
+      "text": "La France, le discours de Villepin notamment de 2003, a fait obstacle à cela."
+    },
+    {
+      "id": 328,
+      "start": 2482.22,
+      "end": 2488.38,
+      "start_timestamp": "00:41:22.220",
+      "end_timestamp": "00:41:28.380",
+      "text": "Les États-Unis n'ont pas encouru le risque d'un vote, puisque à bord la Russie et la Chine, on ne sait pas comment ils auraient voté, la France"
+    },
+    {
+      "id": 329,
+      "start": 2488.82,
+      "end": 2490.58,
+      "start_timestamp": "00:41:28.820",
+      "end_timestamp": "00:41:30.580",
+      "text": "menaçait d'un veto."
+    },
+    {
+      "id": 330,
+      "start": 2490.58,
+      "end": 2496.74,
+      "start_timestamp": "00:41:30.580",
+      "end_timestamp": "00:41:36.740",
+      "text": "Donc les États-Unis ont entraîné d'ailleurs avec eux toute une série d'États de l'Union européenne, pratiquement tous,"
+    },
+    {
+      "id": 331,
+      "start": 2497.14,
+      "end": 2499.5,
+      "start_timestamp": "00:41:37.140",
+      "end_timestamp": "00:41:39.500",
+      "text": "dans une guerre qui est illégale dès le départ."
+    },
+    {
+      "id": 332,
+      "start": 2500.22,
+      "end": 2503.26,
+      "start_timestamp": "00:41:40.220",
+      "end_timestamp": "00:41:43.260",
+      "text": "Il en est de même d'ailleurs pour les ingérences caractérisées"
+    },
+    {
+      "id": 333,
+      "start": 2504.14,
+      "end": 2510.22,
+      "start_timestamp": "00:41:44.140",
+      "end_timestamp": "00:41:50.220",
+      "text": "en Libye ou en Syrie, qui contreviennent expressément à la Charte des Nations Unies elle-même."
+    },
+    {
+      "id": 334,
+      "start": 2510.98,
+      "end": 2515.54,
+      "start_timestamp": "00:41:50.980",
+      "end_timestamp": "00:41:55.540",
+      "text": "Dans un autre ordre d'idée, le scandale étouffé des prisons secrètes de la CIA en Europe."
+    },
+    {
+      "id": 335,
+      "start": 2516.46,
+      "end": 2523.1,
+      "start_timestamp": "00:41:56.460",
+      "end_timestamp": "00:42:03.100",
+      "text": "On a su, on le sait, c'est a été avéré, ça a été rendu public, notamment par un avocat suisse Dick Marty"
+    },
+    {
+      "id": 336,
+      "start": 2523.42,
+      "end": 2528.86,
+      "start_timestamp": "00:42:03.420",
+      "end_timestamp": "00:42:08.860",
+      "text": "au Conseil de l'Europe. Vous vous rappelez, enfin je sais que puisque vous vivez à Bruxelles, je pense que vous faites la différence"
+    },
+    {
+      "id": 337,
+      "start": 2529.74,
+      "end": 2532.54,
+      "start_timestamp": "00:42:09.740",
+      "end_timestamp": "00:42:12.540",
+      "text": "entre le Conseil de l'Europe et puis les institutions européennes."
+    },
+    {
+      "id": 338,
+      "start": 2533.38,
+      "end": 2539.42,
+      "start_timestamp": "00:42:13.380",
+      "end_timestamp": "00:42:19.420",
+      "text": "Le Conseil de l'Europe est un organisme qui a été créé en 1949, mais qui est disjoint"
+    },
+    {
+      "id": 339,
+      "start": 2539.98,
+      "end": 2544.86,
+      "start_timestamp": "00:42:19.980",
+      "end_timestamp": "00:42:24.860",
+      "text": "des institutions de l'on appelle de l'Europe, c'est à dire de la Commission, de la Cour de justice de l'Union européenne"
+    },
+    {
+      "id": 340,
+      "start": 2545.18,
+      "end": 2549.58,
+      "start_timestamp": "00:42:25.180",
+      "end_timestamp": "00:42:29.580",
+      "text": "ou de la Banque centrale européenne. Au Conseil de l'Europe, vous avez tous les pays d'Europe sauf la Biélorussie."
+    },
+    {
+      "id": 341,
+      "start": 2549.58,
+      "end": 2554.7,
+      "start_timestamp": "00:42:29.580",
+      "end_timestamp": "00:42:34.700",
+      "text": "Vous avez notamment l'Islande, notamment l'Ukraine, notamment la Russie qui est entrée dans les années 2000,"
+    },
+    {
+      "id": 342,
+      "start": 2555.14,
+      "end": 2558.46,
+      "start_timestamp": "00:42:35.140",
+      "end_timestamp": "00:42:38.460",
+      "text": "notamment la Suisse, la Norvège, tous ces pays qui ne sont pas dans l'Union européenne."
+    },
+    {
+      "id": 343,
+      "start": 2559.34,
+      "end": 2566.54,
+      "start_timestamp": "00:42:39.340",
+      "end_timestamp": "00:42:46.540",
+      "text": "C'est eux qui ont sorti ce scandale. On a appris que la CIA américaine en fait des prisons, par exemple en Roumanie, en Pologne,"
+    },
+    {
+      "id": 344,
+      "start": 2566.54,
+      "end": 2569.26,
+      "start_timestamp": "00:42:46.540",
+      "end_timestamp": "00:42:49.260",
+      "text": "sur le territoire d'État souverain, ils se livraient à des actes de torture."
+    },
+    {
+      "id": 345,
+      "start": 2571.02,
+      "end": 2573.02,
+      "start_timestamp": "00:42:51.020",
+      "end_timestamp": "00:42:53.020",
+      "text": "Les institutions bruxelloises,"
+    },
+    {
+      "id": 346,
+      "start": 2573.54,
+      "end": 2579.18,
+      "start_timestamp": "00:42:53.540",
+      "end_timestamp": "00:42:59.180",
+      "text": "le Parlement de Bruxelles et de Strasbourg, la Commission gardait, ont respecté l'homerta complète"
+    },
+    {
+      "id": 347,
+      "start": 2579.9,
+      "end": 2581.9,
+      "start_timestamp": "00:42:59.900",
+      "end_timestamp": "00:43:01.900",
+      "text": "sur ce viol du droit international."
+    },
+    {
+      "id": 348,
+      "start": 2583.26,
+      "end": 2586.7,
+      "start_timestamp": "00:43:03.260",
+      "end_timestamp": "00:43:06.700",
+      "text": "Dans un autre ordre d'idée, le renflouement des États membres de la zone euro"
+    },
+    {
+      "id": 349,
+      "start": 2587.26,
+      "end": 2589.26,
+      "start_timestamp": "00:43:07.260",
+      "end_timestamp": "00:43:09.260",
+      "text": "via le FESF, puis le MES,"
+    },
+    {
+      "id": 350,
+      "start": 2590.62,
+      "end": 2594.5,
+      "start_timestamp": "00:43:10.620",
+      "end_timestamp": "00:43:14.500",
+      "text": "violent expressément la clause dite de Nobel out, de non renflouement,"
+    },
+    {
+      "id": 351,
+      "start": 2595.06,
+      "end": 2601.02,
+      "start_timestamp": "00:43:15.060",
+      "end_timestamp": "00:43:21.020",
+      "text": "qui était posée par l'article 125 du traité sur le fonctionnement de l'Union européenne, qui justement interdisait"
+    },
+    {
+      "id": 352,
+      "start": 2601.22,
+      "end": 2603.46,
+      "start_timestamp": "00:43:21.220",
+      "end_timestamp": "00:43:23.460",
+      "text": "qu'il y ait un renflouement pour un principe démocratique,"
+    },
+    {
+      "id": 353,
+      "start": 2604.82,
+      "end": 2606.82,
+      "start_timestamp": "00:43:24.820",
+      "end_timestamp": "00:43:26.820",
+      "text": "considérant que l'on ne pouvait pas pomper"
+    },
+    {
+      "id": 354,
+      "start": 2607.26,
+      "end": 2613.1,
+      "start_timestamp": "00:43:27.260",
+      "end_timestamp": "00:43:33.100",
+      "text": "l'argent des contribuables d'un pays A pour rembourser les dettes d'un pays B sur lequel le pays A,"
+    },
+    {
+      "id": 355,
+      "start": 2613.5,
+      "end": 2616.18,
+      "start_timestamp": "00:43:33.500",
+      "end_timestamp": "00:43:36.180",
+      "text": "les électeurs du pays A, n'avaient aucune prise."
+    },
+    {
+      "id": 356,
+      "start": 2617.18,
+      "end": 2619.18,
+      "start_timestamp": "00:43:37.180",
+      "end_timestamp": "00:43:39.180",
+      "text": "C'est pourtant ce qui se passe."
+    },
+    {
+      "id": 357,
+      "start": 2620.14,
+      "end": 2624.14,
+      "start_timestamp": "00:43:40.140",
+      "end_timestamp": "00:43:44.140",
+      "text": "Les Français vont devoir sortir au cours des années qui viennent, ça a été chiffré récemment,"
+    },
+    {
+      "id": 358,
+      "start": 2625.26,
+      "end": 2629.46,
+      "start_timestamp": "00:43:45.260",
+      "end_timestamp": "00:43:49.460",
+      "text": "69 milliards d'euros pour sauver l'euro en Grèce."
+    },
+    {
+      "id": 359,
+      "start": 2630.74,
+      "end": 2635.02,
+      "start_timestamp": "00:43:50.740",
+      "end_timestamp": "00:43:55.020",
+      "text": "Euro qui de toute façon explosera, comme je l'expliquerai dans ma conférence de demain soir à Lille."
+    },
+    {
+      "id": 360,
+      "start": 2636.86,
+      "end": 2639.1,
+      "start_timestamp": "00:43:56.860",
+      "end_timestamp": "00:43:59.100",
+      "text": "69 milliards d'euros pour la France."
+    },
+    {
+      "id": 361,
+      "start": 2639.98,
+      "end": 2641.98,
+      "start_timestamp": "00:43:59.980",
+      "end_timestamp": "00:44:01.980",
+      "text": "Ça représente des millions"
+    },
+    {
+      "id": 362,
+      "start": 2642.74,
+      "end": 2644.74,
+      "start_timestamp": "00:44:02.740",
+      "end_timestamp": "00:44:04.740",
+      "text": "de logements sociaux."
+    },
+    {
+      "id": 363,
+      "start": 2645.66,
+      "end": 2649.98,
+      "start_timestamp": "00:44:05.660",
+      "end_timestamp": "00:44:09.980",
+      "text": "Actuellement, les Français, de plus en plus de Français, ont les pires difficultés à trouver des logements sociaux."
+    },
+    {
+      "id": 364,
+      "start": 2650.78,
+      "end": 2652.78,
+      "start_timestamp": "00:44:10.780",
+      "end_timestamp": "00:44:12.780",
+      "text": "On n'en construit pas assez."
+    },
+    {
+      "id": 365,
+      "start": 2653.1,
+      "end": 2658.3,
+      "start_timestamp": "00:44:13.100",
+      "end_timestamp": "00:44:18.300",
+      "text": "La liste d'attente dans toute la banlieue parisienne, la banlieue des grandes villes, s'allonge sur des années et des années,"
+    },
+    {
+      "id": 366,
+      "start": 2658.82,
+      "end": 2661.14,
+      "start_timestamp": "00:44:18.820",
+      "end_timestamp": "00:44:21.140",
+      "text": "sans compter les loyers qui sont exorbitants."
+    },
+    {
+      "id": 367,
+      "start": 2662.06,
+      "end": 2668.9,
+      "start_timestamp": "00:44:22.060",
+      "end_timestamp": "00:44:28.900",
+      "text": "On ne cesse d'ailleurs que de tailler dans les dépenses publiques, en matière sociale, en matière de logements sociales,"
+    },
+    {
+      "id": 368,
+      "start": 2669.26,
+      "end": 2671.34,
+      "start_timestamp": "00:44:29.260",
+      "end_timestamp": "00:44:31.340",
+      "text": "mais au même moment, pour sauver les banques,"
+    },
+    {
+      "id": 369,
+      "start": 2671.82,
+      "end": 2675.58,
+      "start_timestamp": "00:44:31.820",
+      "end_timestamp": "00:44:35.580",
+      "text": "on accepte, dans le dos des Français, qu'ils ne comprennent rien"
+    },
+    {
+      "id": 370,
+      "start": 2676.82,
+      "end": 2683.62,
+      "start_timestamp": "00:44:36.820",
+      "end_timestamp": "00:44:43.620",
+      "text": "de payer 69 milliards d'euros pour la Belgique. Ça va être peut-être, je ne sais pas, 6 ou 10 milliards d'euros qui vont être piqués aux Belges."
+    },
+    {
+      "id": 371,
+      "start": 2687.22,
+      "end": 2693.18,
+      "start_timestamp": "00:44:47.220",
+      "end_timestamp": "00:44:53.180",
+      "text": "Dans un autre ordre d'idée encore, de plus en plus d'États décident de reporter sinédiers"
+    },
+    {
+      "id": 372,
+      "start": 2694.06,
+      "end": 2696.06,
+      "start_timestamp": "00:44:54.060",
+      "end_timestamp": "00:44:56.060",
+      "text": "leur entrée dans l'euro."
+    },
+    {
+      "id": 373,
+      "start": 2696.58,
+      "end": 2698.58,
+      "start_timestamp": "00:44:56.580",
+      "end_timestamp": "00:44:58.580",
+      "text": "On apprenait le 14 janvier"
+    },
+    {
+      "id": 374,
+      "start": 2699.06,
+      "end": 2703.94,
+      "start_timestamp": "00:44:59.060",
+      "end_timestamp": "00:45:03.940",
+      "text": "de l'année dernière, le 14 septembre de l'année dernière, que la Bulgarie renonce à l'euro."
+    },
+    {
+      "id": 375,
+      "start": 2704.06,
+      "end": 2706.06,
+      "start_timestamp": "00:45:04.060",
+      "end_timestamp": "00:45:06.060",
+      "text": "Je comprends,"
+    },
+    {
+      "id": 376,
+      "start": 2706.06,
+      "end": 2712.74,
+      "start_timestamp": "00:45:06.060",
+      "end_timestamp": "00:45:12.740",
+      "text": "effectivement, que la Bulgarie n'ait pas envie de monter dans le Titanic, alors certes, il y a l'orchestre qui danse et qui chante, mais"
+    },
+    {
+      "id": 377,
+      "start": 2712.74,
+      "end": 2714.74,
+      "start_timestamp": "00:45:12.740",
+      "end_timestamp": "00:45:14.740",
+      "text": "c'est quand même le Titanic."
+    },
+    {
+      "id": 378,
+      "start": 2715.14,
+      "end": 2719.58,
+      "start_timestamp": "00:45:15.140",
+      "end_timestamp": "00:45:19.580",
+      "text": "On comprend que la République tchèque ne veut plus y entrer, la Roumanie ne veut plus y entrer."
+    },
+    {
+      "id": 379,
+      "start": 2720.18,
+      "end": 2725.14,
+      "start_timestamp": "00:45:20.180",
+      "end_timestamp": "00:45:25.140",
+      "text": "Tout ça, on le comprend, la Suède avait déjà décidé de ne pas y entrer, la Tchéquie, la Pologne."
+    },
+    {
+      "id": 380,
+      "start": 2725.62,
+      "end": 2728.86,
+      "start_timestamp": "00:45:25.620",
+      "end_timestamp": "00:45:28.860",
+      "text": "Mais le problème qui se pose, c'est que normalement, ils n'en ont pas le droit,"
+    },
+    {
+      "id": 381,
+      "start": 2728.86,
+      "end": 2734.18,
+      "start_timestamp": "00:45:28.860",
+      "end_timestamp": "00:45:34.180",
+      "text": "puisqu'ils ont ratifié les traités qui leur font obligation à y entrer."
+    },
+    {
+      "id": 382,
+      "start": 2734.9,
+      "end": 2738.78,
+      "start_timestamp": "00:45:34.900",
+      "end_timestamp": "00:45:38.780",
+      "text": "Donc deux choses l'une,"
+    },
+    {
+      "id": 383,
+      "start": 2738.78,
+      "end": 2743.82,
+      "start_timestamp": "00:45:38.780",
+      "end_timestamp": "00:45:43.820",
+      "text": "où on respecte le droit à y entrer, puisqu'en l'article 1 bis, ils disaient que l'Union Européenne est fondée sur l'état de droit."
+    },
+    {
+      "id": 384,
+      "start": 2743.82,
+      "end": 2745.82,
+      "start_timestamp": "00:45:43.820",
+      "end_timestamp": "00:45:45.820",
+      "text": "À ce moment-là, il faut que ces états"
+    },
+    {
+      "id": 385,
+      "start": 2746.22,
+      "end": 2748.4,
+      "start_timestamp": "00:45:46.220",
+      "end_timestamp": "00:45:48.400",
+      "text": "entrent dans l'euro, qu'ils le veuillent ou non."
+    },
+    {
+      "id": 386,
+      "start": 2749.62,
+      "end": 2754.26,
+      "start_timestamp": "00:45:49.620",
+      "end_timestamp": "00:45:54.260",
+      "text": "Ou alors, il faut changer les traités, mais comme on peut pas changer les traités, je vous l'ai dit tout à l'heure,"
+    },
+    {
+      "id": 387,
+      "start": 2754.54,
+      "end": 2757.02,
+      "start_timestamp": "00:45:54.540",
+      "end_timestamp": "00:45:57.020",
+      "text": "on est devant une espèce de monstre juridique"
+    },
+    {
+      "id": 388,
+      "start": 2757.78,
+      "end": 2765.38,
+      "start_timestamp": "00:45:57.780",
+      "end_timestamp": "00:46:05.380",
+      "text": "d'une chimère qui n'a plus aucun sens. Je vous rappelle au passage qu'il n'y a aucun moyen de sortie de l'euro prévu dans les traités."
+    },
+    {
+      "id": 389,
+      "start": 2765.66,
+      "end": 2772.66,
+      "start_timestamp": "00:46:05.660",
+      "end_timestamp": "00:46:12.660",
+      "text": "La seule possibilité juridique de sortir de l'euro, c'est de sortir de l'Union Européenne par l'article 50, donc de dénoncer l'ensemble des traités."
+    },
+    {
+      "id": 390,
+      "start": 2773.1,
+      "end": 2775.46,
+      "start_timestamp": "00:46:13.100",
+      "end_timestamp": "00:46:15.460",
+      "text": "Mais il n'y a pas de clause de sortie de l'euro."
+    },
+    {
+      "id": 391,
+      "start": 2776.02,
+      "end": 2784.09,
+      "start_timestamp": "00:46:16.020",
+      "end_timestamp": "00:46:24.090",
+      "text": "On a donc affaire à un viol permanent du droit sur toute cette série de sujets."
+    },
+    {
+      "id": 392,
+      "start": 2784.09,
+      "end": 2787.41,
+      "start_timestamp": "00:46:24.090",
+      "end_timestamp": "00:46:27.410",
+      "text": "À ce propos de droit, je voudrais attirer votre attention"
+    },
+    {
+      "id": 393,
+      "start": 2787.49,
+      "end": 2791.29,
+      "start_timestamp": "00:46:27.490",
+      "end_timestamp": "00:46:31.290",
+      "text": "sur cette décision assez extraordinaire"
+    },
+    {
+      "id": 394,
+      "start": 2792.29,
+      "end": 2794.29,
+      "start_timestamp": "00:46:32.290",
+      "end_timestamp": "00:46:34.290",
+      "text": "de nos amis d'Outre-Rhin"
+    },
+    {
+      "id": 395,
+      "start": 2794.53,
+      "end": 2798.61,
+      "start_timestamp": "00:46:34.530",
+      "end_timestamp": "00:46:38.610",
+      "text": "du 30 juin 2009 du tribunal constitutionnel allemand de Karlsruhe."
+    },
+    {
+      "id": 396,
+      "start": 2799.17,
+      "end": 2801.53,
+      "start_timestamp": "00:46:39.170",
+      "end_timestamp": "00:46:41.530",
+      "text": "Vous savez que les Allemands sont des gens sérieux."
+    },
+    {
+      "id": 397,
+      "start": 2802.61,
+      "end": 2804.61,
+      "start_timestamp": "00:46:42.610",
+      "end_timestamp": "00:46:44.610",
+      "text": "Ce sont des gens qui sont"
+    },
+    {
+      "id": 398,
+      "start": 2805.85,
+      "end": 2807.37,
+      "start_timestamp": "00:46:45.850",
+      "end_timestamp": "00:46:47.370",
+      "text": "comme ça."
+    },
+    {
+      "id": 399,
+      "start": 2807.37,
+      "end": 2810.25,
+      "start_timestamp": "00:46:47.370",
+      "end_timestamp": "00:46:50.250",
+      "text": "Le, c'est des pays de droit écrits."
+    },
+    {
+      "id": 400,
+      "start": 2810.81,
+      "end": 2814.45,
+      "start_timestamp": "00:46:50.810",
+      "end_timestamp": "00:46:54.450",
+      "text": "Les Anglais sont tout l'inverse, c'est un pays de droit aura."
+    },
+    {
+      "id": 401,
+      "start": 2815.01,
+      "end": 2817.01,
+      "start_timestamp": "00:46:55.010",
+      "end_timestamp": "00:46:57.010",
+      "text": "Ils ont un tribunal constitutionnel"
+    },
+    {
+      "id": 402,
+      "start": 2817.41,
+      "end": 2819.41,
+      "start_timestamp": "00:46:57.410",
+      "end_timestamp": "00:46:59.410",
+      "text": "comme en France, nous avons le conseil constitutionnel."
+    },
+    {
+      "id": 403,
+      "start": 2819.61,
+      "end": 2822.53,
+      "start_timestamp": "00:46:59.610",
+      "end_timestamp": "00:47:02.530",
+      "text": "Sauf qu'en France, le conseil constitutionnel est composé"
+    },
+    {
+      "id": 404,
+      "start": 2823.09,
+      "end": 2828.89,
+      "start_timestamp": "00:47:03.090",
+      "end_timestamp": "00:47:08.890",
+      "text": "d'amis du président de la République, du président du Sénat ou du président de l'Assemblée nationale qui les nomment comme ça, donc ce sont"
+    },
+    {
+      "id": 405,
+      "start": 2829.65,
+      "end": 2836.21,
+      "start_timestamp": "00:47:09.650",
+      "end_timestamp": "00:47:16.210",
+      "text": "des gens qui ont une vacteinture juridique, ils ont été quelques années au Conseil d'État, etc., mais ce ne sont pas des magistrats de profession."
+    },
+    {
+      "id": 406,
+      "start": 2837.53,
+      "end": 2839.53,
+      "start_timestamp": "00:47:17.530",
+      "end_timestamp": "00:47:19.530",
+      "text": "En revanche, en Allemagne,"
+    },
+    {
+      "id": 407,
+      "start": 2840.09,
+      "end": 2844.61,
+      "start_timestamp": "00:47:20.090",
+      "end_timestamp": "00:47:24.610",
+      "text": "ce sont des magistrats de profession. Ce sont des gens qui sont blanchis sous le harnais,"
+    },
+    {
+      "id": 408,
+      "start": 2844.89,
+      "end": 2850.65,
+      "start_timestamp": "00:47:24.890",
+      "end_timestamp": "00:47:30.650",
+      "text": "qui ont été dans des prétoires pendant 10 ans, 15 ans, 20 ans, qui sont ensuite choisis non pas par le président"
+    },
+    {
+      "id": 409,
+      "start": 2850.81,
+      "end": 2857.65,
+      "start_timestamp": "00:47:30.810",
+      "end_timestamp": "00:47:37.650",
+      "text": "de la République fédérale d'Allemagne ou par le chancelier. Ils sont choisis, ils sont élus par les deux chambres et ils sont plus nombreux."
+    },
+    {
+      "id": 410,
+      "start": 2858.13,
+      "end": 2859.69,
+      "start_timestamp": "00:47:38.130",
+      "end_timestamp": "00:47:39.690",
+      "text": "Et ils doivent"
+    },
+    {
+      "id": 411,
+      "start": 2859.69,
+      "end": 2861.25,
+      "start_timestamp": "00:47:39.690",
+      "end_timestamp": "00:47:41.250",
+      "text": "raisonner en droit."
+    },
+    {
+      "id": 412,
+      "start": 2861.25,
+      "end": 2864.41,
+      "start_timestamp": "00:47:41.250",
+      "end_timestamp": "00:47:44.410",
+      "text": "Alors que nous, au conseil constitutionnel, on a des gens qui résonnent"
+    },
+    {
+      "id": 413,
+      "start": 2864.73,
+      "end": 2869.25,
+      "start_timestamp": "00:47:44.730",
+      "end_timestamp": "00:47:49.250",
+      "text": "comme ça, en hommes du monde et qui résonnent en opportunité politique."
+    },
+    {
+      "id": 414,
+      "start": 2869.73,
+      "end": 2874.49,
+      "start_timestamp": "00:47:49.730",
+      "end_timestamp": "00:47:54.490",
+      "text": "Lorsqu'un traité contrevient à la constitution française, ils disent bah faut changer la constitution."
+    },
+    {
+      "id": 415,
+      "start": 2875.61,
+      "end": 2880.85,
+      "start_timestamp": "00:47:55.610",
+      "end_timestamp": "00:48:00.850",
+      "text": "En Allemagne, non. En Allemagne, on a... D'abord, ce n'est pas du tout le même mot."
+    },
+    {
+      "id": 416,
+      "start": 2881.25,
+      "end": 2886.05,
+      "start_timestamp": "00:48:01.250",
+      "end_timestamp": "00:48:06.050",
+      "text": "En Constitution, en Allemagne, on s'est dit faire façon que c'était le lien éternel ou de Grundgesetz, la loi fondamentale."
+    },
+    {
+      "id": 417,
+      "start": 2886.61,
+      "end": 2893.57,
+      "start_timestamp": "00:48:06.610",
+      "end_timestamp": "00:48:13.570",
+      "text": "On doit être sacré. Donc les Allemands, le tribunal constitutionnel allemand,"
+    },
+    {
+      "id": 418,
+      "start": 2893.89,
+      "end": 2898.57,
+      "start_timestamp": "00:48:13.890",
+      "end_timestamp": "00:48:18.570",
+      "text": "jugent en droit. Il a été saisi par des citoyens allemands, puisqu'il y a un pouvoir de saisine"
+    },
+    {
+      "id": 419,
+      "start": 2898.77,
+      "end": 2903.81,
+      "start_timestamp": "00:48:18.770",
+      "end_timestamp": "00:48:23.810",
+      "text": "par des groupes de citoyens, ce qui n'existe pas en France, ce que d'ailleurs nous, dans notre programme, nous proposons d'instituer."
+    },
+    {
+      "id": 420,
+      "start": 2904.29,
+      "end": 2915.89,
+      "start_timestamp": "00:48:24.290",
+      "end_timestamp": "00:48:35.890",
+      "text": "Au sujet du traité de Lisbonne. Et il a prondu son arrêt du 30 juin 2009 sur le traité de Lisbonne, pour que vous compariez un peu."
+    },
+    {
+      "id": 421,
+      "start": 2916.65,
+      "end": 2919.57,
+      "start_timestamp": "00:48:36.650",
+      "end_timestamp": "00:48:39.570",
+      "text": "L'arrêt du conseil constitutionnel français, ça a été trois pages et demi."
+    },
+    {
+      "id": 422,
+      "start": 2921.05,
+      "end": 2924.41,
+      "start_timestamp": "00:48:41.050",
+      "end_timestamp": "00:48:44.410",
+      "text": "L'arrêt du conseil constitutionnel allemand, ça fait à peu près 250 pages."
+    },
+    {
+      "id": 423,
+      "start": 2926.05,
+      "end": 2932.69,
+      "start_timestamp": "00:48:46.050",
+      "end_timestamp": "00:48:52.690",
+      "text": "Avec des articles numérotés de 200, 250, 300, etc. Pas du tout, du tout la même approche."
+    },
+    {
+      "id": 424,
+      "start": 2933.65,
+      "end": 2940.57,
+      "start_timestamp": "00:48:53.650",
+      "end_timestamp": "00:49:00.570",
+      "text": "Le truc qui a fait sursauter toute la classe politique allemande, qui a été évidemment totalement cachée en France,"
+    },
+    {
+      "id": 425,
+      "start": 2940.97,
+      "end": 2942.97,
+      "start_timestamp": "00:49:00.970",
+      "end_timestamp": "00:49:02.970",
+      "text": "je ne sais pas si en Belgique on en a beaucoup parlé,"
+    },
+    {
+      "id": 426,
+      "start": 2943.61,
+      "end": 2946.17,
+      "start_timestamp": "00:49:03.610",
+      "end_timestamp": "00:49:06.170",
+      "text": "voilà ce que d'on dit les juges"
+    },
+    {
+      "id": 427,
+      "start": 2947.45,
+      "end": 2950.01,
+      "start_timestamp": "00:49:07.450",
+      "end_timestamp": "00:49:10.010",
+      "text": "dans l'un de ces... dans la linéa fatidique."
+    },
+    {
+      "id": 428,
+      "start": 2950.81,
+      "end": 2953.81,
+      "start_timestamp": "00:49:10.810",
+      "end_timestamp": "00:49:13.810",
+      "text": "Un déficit démocratique structurel,"
+    },
+    {
+      "id": 429,
+      "start": 2954.29,
+      "end": 2957.77,
+      "start_timestamp": "00:49:14.290",
+      "end_timestamp": "00:49:17.770",
+      "text": "enfin moi qui le dis, un déficit démocratique structurel"
+    },
+    {
+      "id": 430,
+      "start": 2958.65,
+      "end": 2965.49,
+      "start_timestamp": "00:49:18.650",
+      "end_timestamp": "00:49:25.490",
+      "text": "inacceptable au regard des articles 23 et 79.3 de la loi fondamentale, de la Grundgesetz."
+    },
+    {
+      "id": 431,
+      "start": 2966.05,
+      "end": 2976.29,
+      "start_timestamp": "00:49:26.050",
+      "end_timestamp": "00:49:36.290",
+      "text": "Existerait, si l'étendue des compétences, la liberté d'action politique et le degré d'indépendance dans la prise de décision par les organes de l'Union européenne"
+    },
+    {
+      "id": 432,
+      "start": 2976.73,
+      "end": 2982.25,
+      "start_timestamp": "00:49:36.730",
+      "end_timestamp": "00:49:42.250",
+      "text": "atteignent un niveau de type fédéral dans un État fédéral, c'est-à-dire un niveau analogue à celui d'un État,"
+    },
+    {
+      "id": 433,
+      "start": 2982.45,
+      "end": 2989.37,
+      "start_timestamp": "00:49:42.450",
+      "end_timestamp": "00:49:49.370",
+      "text": "si les compétences législatives, par exemple, essentielles à l'autodétermination démocratique, étaient exercées principalement au niveau de l'Union."
+    },
+    {
+      "id": 434,
+      "start": 2990.41,
+      "end": 2992.89,
+      "start_timestamp": "00:49:50.410",
+      "end_timestamp": "00:49:52.890",
+      "text": "Alors, méditer, c'est une phrase un peu compliquée,"
+    },
+    {
+      "id": 435,
+      "start": 2993.45,
+      "end": 3002.73,
+      "start_timestamp": "00:49:53.450",
+      "end_timestamp": "00:50:02.730",
+      "text": "mais ça veut dire donc qu'il y aurait un déficit inacceptable si l'on avait en effet une Europe de nature fédérale dans le cadre actuel."
+    },
+    {
+      "id": 436,
+      "start": 3003.29,
+      "end": 3011.05,
+      "start_timestamp": "00:50:03.290",
+      "end_timestamp": "00:50:11.050",
+      "text": "Et donc les membres du tribunal constitutionnel, dans cet arrêt du 30 juin 2009, le fameux Alinéa 264,"
+    },
+    {
+      "id": 437,
+      "start": 3011.53,
+      "end": 3021.29,
+      "start_timestamp": "00:50:11.530",
+      "end_timestamp": "00:50:21.290",
+      "text": "ont poursuivi en disant, si dans la marche à l'intégration européenne apparaît une disproportion entre le type et l'étendue des compétences de souveraineté exercées d'une part,"
+    },
+    {
+      "id": 438,
+      "start": 3021.85,
+      "end": 3030.89,
+      "start_timestamp": "00:50:21.850",
+      "end_timestamp": "00:50:30.890",
+      "text": "et le degré de légitimation démocratique d'autre part, il est de la responsabilité de la République fédérale d'Allemagne d'œuvrer à un changement,"
+    },
+    {
+      "id": 439,
+      "start": 3031.21,
+      "end": 3037.61,
+      "start_timestamp": "00:50:31.210",
+      "end_timestamp": "00:50:37.610",
+      "text": "et même s'il y a une situation en pire, de refuser de participer davantage à l'Union européenne."
+    },
+    {
+      "id": 440,
+      "start": 3038.57,
+      "end": 3050.25,
+      "start_timestamp": "00:50:38.570",
+      "end_timestamp": "00:50:50.250",
+      "text": "C'est la toute première fois que dans une juridiction suprême d'un État de l'Europe est arrivé l'idée que peut-être il fallait sortir de l'Union européenne."
+    },
+    {
+      "id": 441,
+      "start": 3050.25,
+      "end": 3061.45,
+      "start_timestamp": "00:50:50.250",
+      "end_timestamp": "00:51:01.450",
+      "text": "C'était donc dans cet arrêt du 30 juin 2009, je me permets d'insister sur le fait que ces deux ans et trois mois après que j'eus créé moi-même l'Union populaire républicaine en France pour sortir de l'Union européenne,"
+    },
+    {
+      "id": 442,
+      "start": 3061.69,
+      "end": 3070.73,
+      "start_timestamp": "00:51:01.690",
+      "end_timestamp": "00:51:10.730",
+      "text": "voilà que la plus haute juridiction allemande, au vu du droit, au vu du déficit démocratique qui ne fait que s'accroître,"
+    },
+    {
+      "id": 443,
+      "start": 3070.73,
+      "end": 3075.69,
+      "start_timestamp": "00:51:10.730",
+      "end_timestamp": "00:51:15.690",
+      "text": "la plus haute juridiction allemande a dit qu'il faudrait peut-être envisager de sortir de l'Union européenne."
+    },
+    {
+      "id": 444,
+      "start": 3075.69,
+      "end": 3079.93,
+      "start_timestamp": "00:51:15.690",
+      "end_timestamp": "00:51:19.930",
+      "text": "Pas besoin de vous dire que ça a fait un scandale pas dans la population allemande,"
+    },
+    {
+      "id": 445,
+      "start": 3079.93,
+      "end": 3090.17,
+      "start_timestamp": "00:51:19.930",
+      "end_timestamp": "00:51:30.170",
+      "text": "ça a fait un scandale chez les détenteurs des médias qui ont dit « Quoi ? C'est un scandale, les tribunaux, les juges sont des souverainistes, ils se sont des gens complètement irresponsables »."
+    },
+    {
+      "id": 446,
+      "start": 3090.81,
+      "end": 3099.77,
+      "start_timestamp": "00:51:30.810",
+      "end_timestamp": "00:51:39.770",
+      "text": "Parce que nous sommes dans un système d'inversion générale des valeurs. Les tyrans se prétendent démocrates. Les démocrates sont présentés comme des populistes."
+    },
+    {
+      "id": 447,
+      "start": 3099.77,
+      "end": 3113.56,
+      "start_timestamp": "00:51:39.770",
+      "end_timestamp": "00:51:53.560",
+      "text": "Les tyrans sont en train de mettre tout un continent sous une forme de dictature des juges, juges en droit. On les présente comme ayant été irresponsables."
+    },
+    {
+      "id": 448,
+      "start": 3113.64,
+      "end": 3124.52,
+      "start_timestamp": "00:51:53.640",
+      "end_timestamp": "00:52:04.520",
+      "text": "Le 6e chapitre, toujours plus de propagande, toujours moins de liberté. Les médias dans les pays d'Europe sont de plus en plus muselés."
+    },
+    {
+      "id": 449,
+      "start": 3124.52,
+      "end": 3130.12,
+      "start_timestamp": "00:52:04.520",
+      "end_timestamp": "00:52:10.120",
+      "text": "« On savait vous qu'il y a un prix du Parlement européen pour le journalisme ? C'est quoi ce prix ? »"
+    },
+    {
+      "id": 450,
+      "start": 3130.12,
+      "end": 3135.16,
+      "start_timestamp": "00:52:10.120",
+      "end_timestamp": "00:52:15.160",
+      "text": "C'est un truc même... Enfin, on se croirait revenu à la Pravda de la Grande Époque."
+    },
+    {
+      "id": 451,
+      "start": 3135.16,
+      "end": 3142.92,
+      "start_timestamp": "00:52:15.160",
+      "end_timestamp": "00:52:22.920",
+      "text": "« Le prix du Parlement européen pour le journalisme sera attribué pour la 4e fois en 2011. Il a été attribué en 2012, il va l'être en 2013."
+    },
+    {
+      "id": 452,
+      "start": 3143.0,
+      "end": 3155.0,
+      "start_timestamp": "00:52:23.000",
+      "end_timestamp": "00:52:35.000",
+      "text": "Il récompense des journalistes qui ont apporté une contribution à des questions importantes au niveau européen ou à la promotion d'une meilleure compréhension des institutions et des politiques de l'UE."
+    },
+    {
+      "id": 453,
+      "start": 3155.0,
+      "end": 3165.72,
+      "start_timestamp": "00:52:35.000",
+      "end_timestamp": "00:52:45.720",
+      "text": "On récompense des journalistes non pas pour faire leur métier, mais on les récompense parce qu'ils ont promu une meilleure compréhension des institutions et des politiques de l'UE."
+    },
+    {
+      "id": 454,
+      "start": 3165.8,
+      "end": 3177.8,
+      "start_timestamp": "00:52:45.800",
+      "end_timestamp": "00:52:57.800",
+      "text": "On récompense des propagandistes. Est-ce que vous savez qu'il y a quand même, en 1971, a été adopté une charte qui s'appelle la charte de Munich, les droits et les devoirs des journalistes ?"
+    },
+    {
+      "id": 455,
+      "start": 3177.8,
+      "end": 3188.84,
+      "start_timestamp": "00:52:57.800",
+      "end_timestamp": "00:53:08.840",
+      "text": "Un journaliste digne de ce nom ne doit jamais être un propagandiste. Un journaliste doit avoir pour éthique suprême de dire la vérité, quoi qu'il lui en coûte,"
+    },
+    {
+      "id": 456,
+      "start": 3188.84,
+      "end": 3198.12,
+      "start_timestamp": "00:53:08.840",
+      "end_timestamp": "00:53:18.120",
+      "text": "y compris personnellement, y compris pour sa propre carrière. C'est écrit dans la charte de Munich des droits et devoirs des journalistes adoptés en 1961."
+    },
+    {
+      "id": 457,
+      "start": 3198.12,
+      "end": 3209.32,
+      "start_timestamp": "00:53:18.120",
+      "end_timestamp": "00:53:29.320",
+      "text": "C'est vrai que c'était une autre époque. C'est vrai que c'était une autre époque. Mais maintenant, on en est à voir quelque chose qui est exactement comparable au fait que la Pravda, par exemple,"
+    },
+    {
+      "id": 458,
+      "start": 3209.32,
+      "end": 3224.02,
+      "start_timestamp": "00:53:29.320",
+      "end_timestamp": "00:53:44.020",
+      "text": "où les Isvestia avaient reçu le prix lénine, la décoration lénine, etc., etc. Du coup, d'ailleurs, toute une série de sujets fondamentaux, plus fondamentaux les uns que les autres,"
+    },
+    {
+      "id": 459,
+      "start": 3224.02,
+      "end": 3240.5,
+      "start_timestamp": "00:53:44.020",
+      "end_timestamp": "00:54:00.500",
+      "text": "sont totalement passés sous silence, du moins dans l'opinion publique française. Silence total sur la divergence de Target 2. Target 2, c'est le système de transfert automatique des devises à l'intérieur de la zone euro."
+    },
+    {
+      "id": 460,
+      "start": 3240.5,
+      "end": 3250.66,
+      "start_timestamp": "00:54:00.500",
+      "end_timestamp": "00:54:10.660",
+      "text": "Il n'y a pas de monnaie unique. J'expliquerai ça demain à Lille. Il n'y a qu'une monnaie commune. Plus exactement, l'euro, c'est une série de monnaies nationales homonymes."
+    },
+    {
+      "id": 461,
+      "start": 3250.66,
+      "end": 3260.42,
+      "start_timestamp": "00:54:10.660",
+      "end_timestamp": "00:54:20.420",
+      "text": "Mais ce sont toujours des monnaies nationales qui sont toujours des créances respectives sur les banques centrales respectives de ces pays. Alors j'expliquerai ce graphique demain soir"
+    },
+    {
+      "id": 462,
+      "start": 3260.42,
+      "end": 3272.26,
+      "start_timestamp": "00:54:20.420",
+      "end_timestamp": "00:54:32.260",
+      "text": "simplement pour voir que vous avez ici la nature même. Vous voyez le processus nucléaire de destruction de l'euro qui est en oeuvre sur le fait que l'argent ne cesse que de quitter les pays du Sud"
+    },
+    {
+      "id": 463,
+      "start": 3272.26,
+      "end": 3288.14,
+      "start_timestamp": "00:54:32.260",
+      "end_timestamp": "00:54:48.140",
+      "text": "pour aller se réfugier dans les pays du Nord. Silence total. Silence total pour le grand public. Silence total sur la mise en place du grand marché transatlantique dont je parlais hier."
+    },
+    {
+      "id": 464,
+      "start": 3288.22,
+      "end": 3296.54,
+      "start_timestamp": "00:54:48.220",
+      "end_timestamp": "00:54:56.540",
+      "text": "Silence total sur la situation florissante des États européens qui ont refusé l'Union européenne. Quand les gens me disent « mais vous vous rendez compte,"
+    },
+    {
+      "id": 465,
+      "start": 3296.54,
+      "end": 3304.62,
+      "start_timestamp": "00:54:56.540",
+      "end_timestamp": "00:55:04.620",
+      "text": "sortez de l'Union européenne, vous allez transformer la France en Corée du Nord », je dis non. Peut-être en Suisse et en Norvège. La Norvège et la Suisse sont les deux pays"
+    },
+    {
+      "id": 466,
+      "start": 3304.62,
+      "end": 3312.62,
+      "start_timestamp": "00:55:04.620",
+      "end_timestamp": "00:55:12.620",
+      "text": "qui sont au sommet de la hiérarchie des pays du monde selon le classement de l'indice de développement humain, l'IDH, du programme des Nations unies pour le développement."
+    },
+    {
+      "id": 467,
+      "start": 3312.7,
+      "end": 3325.27,
+      "start_timestamp": "00:55:12.700",
+      "end_timestamp": "00:55:25.270",
+      "text": "Alors quand je dis ça, les gens disent « ah oui mais oui mais c'est des cas particuliers ». Bah oui, c'est des cas particuliers. Quand je dis que la zone... Pourquoi c'est des cas particuliers ?"
+    },
+    {
+      "id": 468,
+      "start": 3325.27,
+      "end": 3333.83,
+      "start_timestamp": "00:55:25.270",
+      "end_timestamp": "00:55:33.830",
+      "text": "Silence total sur la bonne situation des économies d'Europe qui ont refusé l'euro. La Suède, le Danemark, la République tchèque. On dit « oui mais ça c'est des cas particuliers »."
+    },
+    {
+      "id": 469,
+      "start": 3338.49,
+      "end": 3348.97,
+      "start_timestamp": "00:55:38.490",
+      "end_timestamp": "00:55:48.970",
+      "text": "Ce qui est extraordinaire, c'est que dans l'Europe, les deux pays qui se portent le mieux sont ceux qui ont refusé d'entrer dans l'Union. Bon. Ensuite, à l'intérieur de l'Union,"
+    },
+    {
+      "id": 470,
+      "start": 3348.97,
+      "end": 3359.45,
+      "start_timestamp": "00:55:48.970",
+      "end_timestamp": "00:55:59.450",
+      "text": "les pays qui se portent le mieux sont ceux qui ont refusé l'euro. Bon. Ensuite, vous avez sur les 17 pays qui ont adopté l'euro un taux de chômage qui ne cesse de grimper."
+    },
+    {
+      "id": 471,
+      "start": 3359.45,
+      "end": 3368.09,
+      "start_timestamp": "00:55:59.450",
+      "end_timestamp": "00:56:08.090",
+      "text": "Je vous renvoie à mon site Internet. Alors que sur les 10 pays qui n'ont pas encore accepté l'euro, qui refusent d'y entrer, le taux de chômage stagne ou diminue"
+    },
+    {
+      "id": 472,
+      "start": 3368.09,
+      "end": 3379.45,
+      "start_timestamp": "00:56:08.090",
+      "end_timestamp": "00:56:19.450",
+      "text": "depuis plusieurs années. Personne ne vous en parle. Et quand je dis ça, oui mais c'est des cas particuliers. C'est-à-dire que les européistes sont exactement des esprits dogmatiques"
+    },
+    {
+      "id": 473,
+      "start": 3379.45,
+      "end": 3390.28,
+      "start_timestamp": "00:56:19.450",
+      "end_timestamp": "00:56:30.280",
+      "text": "qui refusent tous les faits qui les contredisent. D'ailleurs, ils ne veulent pas débattre avec moi. Les faits... Vous savez quelle est la différence entre l'esprit dogmatique"
+    },
+    {
+      "id": 474,
+      "start": 3390.28,
+      "end": 3398.44,
+      "start_timestamp": "00:56:30.280",
+      "end_timestamp": "00:56:38.440",
+      "text": "et l'esprit scientifique. Un esprit scientifique, c'est quelqu'un qui, quand on lui montre des faits qui sont contraires à ses suppositions d'origine, c'est qu'il doit revoir"
+    },
+    {
+      "id": 475,
+      "start": 3398.44,
+      "end": 3405.4,
+      "start_timestamp": "00:56:38.440",
+      "end_timestamp": "00:56:45.400",
+      "text": "ses théorèmes d'origine. Ça a été inventé par Copernic et Galilée, la fameuse révolution copernicogalilienne que vous connaissez sans doute."
+    },
+    {
+      "id": 476,
+      "start": 3405.4,
+      "end": 3415.72,
+      "start_timestamp": "00:56:45.400",
+      "end_timestamp": "00:56:55.720",
+      "text": "On en parle beaucoup en matière d'épistémologie, de science des idées. C'est l'idée, l'apparition de cet esprit rationnel qui fait prévaloir les faits"
+    },
+    {
+      "id": 477,
+      "start": 3415.72,
+      "end": 3423.16,
+      "start_timestamp": "00:56:55.720",
+      "end_timestamp": "00:57:03.160",
+      "text": "sur tout autre chose. Les faits ont toujours raison. L'esprit dogmatique, c'est celui qui avait demandé à Galilée que l'inquisition, le cardinal Bellarmine,"
+    },
+    {
+      "id": 478,
+      "start": 3423.16,
+      "end": 3433.32,
+      "start_timestamp": "00:57:03.160",
+      "end_timestamp": "00:57:13.320",
+      "text": "qui avait condamné Galilée. Parce que depuis que saint Thomas d'Aquin, le docteur Angélique, au XIIIe siècle, avait introduit dans la doxa de l'Église catholique"
+    },
+    {
+      "id": 479,
+      "start": 3433.32,
+      "end": 3445.24,
+      "start_timestamp": "00:57:13.320",
+      "end_timestamp": "00:57:25.240",
+      "text": "la cosmogonie doptolémée d'un écrivain de l'Antiquité, il était inscrit dans le dogme de l'Église catholique que la Terre était au centre de l'univers,"
+    },
+    {
+      "id": 480,
+      "start": 3445.24,
+      "end": 3451.32,
+      "start_timestamp": "00:57:25.240",
+      "end_timestamp": "00:57:31.320",
+      "text": "que le Soleil tournait autour de la Terre. Et donc Copernic et Galilée disaient des choses qui étaient contraires au dogme. Donc ils avaient tort."
+    },
+    {
+      "id": 481,
+      "start": 3451.32,
+      "end": 3459.32,
+      "start_timestamp": "00:57:31.320",
+      "end_timestamp": "00:57:39.320",
+      "text": "Mais nous sommes exactement dans cette situation. Quand on montre à des gens qui vous ont promis depuis plus de 20 ans que l'euro allait apporter la croissance,"
+    },
+    {
+      "id": 482,
+      "start": 3459.32,
+      "end": 3467.32,
+      "start_timestamp": "00:57:39.320",
+      "end_timestamp": "00:57:47.320",
+      "text": "l'emploi, etc., quand on leur montre que ce n'est pas vrai, ils refusent de débattre avec vous. Ils vous disent « Non, nous avons raison quand même."
+    },
+    {
+      "id": 483,
+      "start": 3467.32,
+      "end": 3474.76,
+      "start_timestamp": "00:57:47.320",
+      "end_timestamp": "00:57:54.760",
+      "text": "C'est parce qu'il n'y a pas assez d'europe. C'est parce que nous allons faire les réformes, etc. ». C'est un processus de nature dogmatique."
+    },
+    {
+      "id": 484,
+      "start": 3475.16,
+      "end": 3485.96,
+      "start_timestamp": "00:57:55.160",
+      "end_timestamp": "00:58:05.960",
+      "text": "Silence totale, bien entendu, sur la situation en Islande. Silence totale ou presque totale sur l'exigence d'une majorité britannique d'avoir un référendum sur la sortie du Royaume-Uni."
+    },
+    {
+      "id": 485,
+      "start": 3485.96,
+      "end": 3494.76,
+      "start_timestamp": "00:58:05.960",
+      "end_timestamp": "00:58:14.760",
+      "text": "On n'en entend jamais parler ou pratiquement jamais sur TF1 20 heures. Silence totale sur le bilan de l'euro 13 ans après son lancement."
+    },
+    {
+      "id": 486,
+      "start": 3494.76,
+      "end": 3501.88,
+      "start_timestamp": "00:58:14.760",
+      "end_timestamp": "00:58:21.880",
+      "text": "Silence totale sur les procédures par lesquelles la Grèce, Chie, la Slovénie ont été qualifiées pour entrer dans l'euro."
+    },
+    {
+      "id": 487,
+      "start": 3501.88,
+      "end": 3511.48,
+      "start_timestamp": "00:58:21.880",
+      "end_timestamp": "00:58:31.480",
+      "text": "Silence totale sur l'existence de l'article 5 ans du traité sur l'UE pour sortir légalement de l'UE et de l'euro dont je parlerai en fin de conférence."
+    },
+    {
+      "id": 488,
+      "start": 3511.48,
+      "end": 3520.52,
+      "start_timestamp": "00:58:31.480",
+      "end_timestamp": "00:58:40.520",
+      "text": "Silence totale en France sur l'existence du mouvement politique que j'ai créé dont je montrerai tout à l'heure que nous avons maintenant plus d'adhérents réels"
+    },
+    {
+      "id": 489,
+      "start": 3520.52,
+      "end": 3529.16,
+      "start_timestamp": "00:58:40.520",
+      "end_timestamp": "00:58:49.160",
+      "text": "que bien des petits partis politiques qui, eux, ont accès aux grands médias. Les mensonges sont de plus en plus éhontés."
+    },
+    {
+      "id": 490,
+      "start": 3529.16,
+      "end": 3537.24,
+      "start_timestamp": "00:58:49.160",
+      "end_timestamp": "00:58:57.240",
+      "text": "Ici, nous avons M. Hollande qui, en 2005, faisait campagne pour le OUI à la Constitution européenne en disant « L'Europe sociale passe par le OUI »."
+    },
+    {
+      "id": 491,
+      "start": 3537.24,
+      "end": 3544.6,
+      "start_timestamp": "00:58:57.240",
+      "end_timestamp": "00:59:04.600",
+      "text": "Vous voyez comment l'Europe sociale passe par le OUI. On a dit non à la Constitution européenne. On nous l'a fourrié quand même sous l'affaire de traité de Lisbonne."
+    },
+    {
+      "id": 492,
+      "start": 3544.6,
+      "end": 3552.2,
+      "start_timestamp": "00:59:04.600",
+      "end_timestamp": "00:59:12.200",
+      "text": "En France, comme partout ailleurs en Europe, c'est le démantèlement général de tous les acquis sociaux qui avaient été acquis non seulement par notre génération,"
+    },
+    {
+      "id": 493,
+      "start": 3552.2,
+      "end": 3560.97,
+      "start_timestamp": "00:59:12.200",
+      "end_timestamp": "00:59:20.970",
+      "text": "mais les générations nous précédents, de nos parents, grands-parents, arrière-grands-parents, arrière-arrière-grands-parents."
+    },
+    {
+      "id": 494,
+      "start": 3561.13,
+      "end": 3570.81,
+      "start_timestamp": "00:59:21.130",
+      "end_timestamp": "00:59:30.810",
+      "text": "Mensonges et hontés sur l'euro. M. Michel Rocard, ancien Premier ministre français sur BFM Business le 13 septembre 2012, nous dit"
+    },
+    {
+      "id": 495,
+      "start": 3570.81,
+      "end": 3577.61,
+      "start_timestamp": "00:59:30.810",
+      "end_timestamp": "00:59:37.610",
+      "text": "« Tenter d'échapper à la réalité en refusant le traité est complètement idiot. La France est trop petite et trop seule »."
+    },
+    {
+      "id": 496,
+      "start": 3577.61,
+      "end": 3588.49,
+      "start_timestamp": "00:59:37.610",
+      "end_timestamp": "00:59:48.490",
+      "text": "Ça, c'est un dogme fondamental chez les européistes. « La France est trop petite et trop seule », toujours. Alors j'imagine la Belgique."
+    },
+    {
+      "id": 497,
+      "start": 3588.57,
+      "end": 3597.21,
+      "start_timestamp": "00:59:48.570",
+      "end_timestamp": "00:59:57.210",
+      "text": "Ce sont les mêmes, d'ailleurs, qui ensuite nous expliquent qu'il faut prendre modèle sur Singapour. Singapour, qui est grand comme la moitié de l'Île-de-France"
+    },
+    {
+      "id": 498,
+      "start": 3597.21,
+      "end": 3602.81,
+      "start_timestamp": "00:59:57.210",
+      "end_timestamp": "01:00:02.810",
+      "text": "et qui a 4 500 000 habitants, qui a d'ailleurs sa monnaie, qui appelle le dollar de Singapour, qui se porte premier. Merci pour lui."
+    },
+    {
+      "id": 499,
+      "start": 3602.81,
+      "end": 3611.27,
+      "start_timestamp": "01:00:02.810",
+      "end_timestamp": "01:00:11.270",
+      "text": "Singapour, qui a un niveau de vie supérieur à la France par habitant et qui a un taux de croissance de l'ordre de 7 à 8% tous les ans."
+    },
+    {
+      "id": 500,
+      "start": 3611.27,
+      "end": 3620.15,
+      "start_timestamp": "01:00:11.270",
+      "end_timestamp": "01:00:20.150",
+      "text": "Nous courons à la catastrophe si nous prenons le risque de faire éclater la zone euro. Les mêmes qui nous avaient expliqué que l'euro serait une vallée de roses"
+    },
+    {
+      "id": 501,
+      "start": 3620.15,
+      "end": 3626.31,
+      "start_timestamp": "01:00:20.150",
+      "end_timestamp": "01:00:26.310",
+      "text": "et serait ensuite, à la fin des fins, un paradis terrestre où nous aurions plus de croissance, plus de richesse, plus d'emploi."
+    },
+    {
+      "id": 502,
+      "start": 3626.31,
+      "end": 3634.63,
+      "start_timestamp": "01:00:26.310",
+      "end_timestamp": "01:00:34.630",
+      "text": "Donc les mêmes qui, depuis 20 ans, se sont trompés à 180° surtout sont encore ceux qui plastronnent à la télévision et qui viennent nous expliquer"
+    },
+    {
+      "id": 503,
+      "start": 3634.63,
+      "end": 3641.67,
+      "start_timestamp": "01:00:34.630",
+      "end_timestamp": "01:00:41.670",
+      "text": "que si on en sort, ce serait la catastrophe. Mais comment peut-on accorder quelques crédits à des gens qui se sont à ce point trompés"
+    },
+    {
+      "id": 504,
+      "start": 3641.67,
+      "end": 3649.46,
+      "start_timestamp": "01:00:41.670",
+      "end_timestamp": "01:00:49.460",
+      "text": "et ont trompé l'opinion publique depuis tout le temps ? « Tous les pays », disait Michel Rocard, « se retrouveraient avec leur ancienne monnaie"
+    },
+    {
+      "id": 505,
+      "start": 3649.46,
+      "end": 3659.14,
+      "start_timestamp": "01:00:49.460",
+      "end_timestamp": "01:00:59.140",
+      "text": "des valeurs de 20 à 50% selon leur dette, ce qui serait intenable. » Pas de pot. Ça a été complètement démenti justement par un des grands établissements"
+    },
+    {
+      "id": 506,
+      "start": 3659.14,
+      "end": 3669.46,
+      "start_timestamp": "01:00:59.140",
+      "end_timestamp": "01:01:09.460",
+      "text": "financiers français Natixis, par une note qui a été publiée à l'été 2012. Une note écrite en européen, c'est-à-dire en américain."
+    },
+    {
+      "id": 507,
+      "start": 3669.46,
+      "end": 3678.58,
+      "start_timestamp": "01:01:09.460",
+      "end_timestamp": "01:01:18.580",
+      "text": "« How would exchange rates adjust if the euro were to break up ? Comment s'ajusteraient les taux de change des futures monnaies si l'euro devait exploser ? »"
+    },
+    {
+      "id": 508,
+      "start": 3678.66,
+      "end": 3686.98,
+      "start_timestamp": "01:01:18.660",
+      "end_timestamp": "01:01:26.980",
+      "text": "Donc des taux de change vis-à-vis du cours pivot du dollar. Dans cette note qui a été faite par Patrick Artus, qui est un des grands économistes français,"
+    },
+    {
+      "id": 509,
+      "start": 3686.98,
+      "end": 3695.38,
+      "start_timestamp": "01:01:26.980",
+      "end_timestamp": "01:01:35.380",
+      "text": "qui a fait mouliner les ordinateurs de Natixis, l'ancien crédit national, qui les a fait mouliner selon toutes les hypothèses économétriques prévues."
+    },
+    {
+      "id": 510,
+      "start": 3695.38,
+      "end": 3706.34,
+      "start_timestamp": "01:01:35.380",
+      "end_timestamp": "01:01:46.340",
+      "text": "Qu'est-ce qu'il en ressort ? Il en ressort que si l'euro explosait à l'été 2012, ils anticipaient. Ça n'est qu'une anticipation. Mais elle est faite par toute une série d'économistes"
+    },
+    {
+      "id": 511,
+      "start": 3706.42,
+      "end": 3715.46,
+      "start_timestamp": "01:01:46.420",
+      "end_timestamp": "01:01:55.460",
+      "text": "sur des schémas économétriques, notamment sur les évolutions de Target 2 dont je vous parlais rapidement tout à l'heure, dont je parlerai plus en détail à l'île de Mainsoie."
+    },
+    {
+      "id": 512,
+      "start": 3715.46,
+      "end": 3726.58,
+      "start_timestamp": "01:01:55.460",
+      "end_timestamp": "01:02:06.580",
+      "text": "Ça vaut bien la conversation qu'a fait du commerce de l'ancien Premier ministre français. Il en résultait quoi ? Que si l'euro explosait, le nouveau marque prendrait 18%"
+    },
+    {
+      "id": 513,
+      "start": 3726.58,
+      "end": 3736.58,
+      "start_timestamp": "01:02:06.580",
+      "end_timestamp": "01:02:16.580",
+      "text": "par rapport au pivot vis-à-vis du dollar actuel. L'Espagne, la nouvelle PZ, perdrait 20%. Le franc français perdrait 2, 2 petits%."
+    },
+    {
+      "id": 514,
+      "start": 3736.58,
+      "end": 3745.62,
+      "start_timestamp": "01:02:16.580",
+      "end_timestamp": "01:02:25.620",
+      "text": "J'espère personnellement qu'il en perdra davantage pour rétablir la compétitivité. L'Italie, la nouvelle Lire italienne, perdrait 12%."
+    },
+    {
+      "id": 515,
+      "start": 3745.62,
+      "end": 3756.74,
+      "start_timestamp": "01:02:25.620",
+      "end_timestamp": "01:02:36.740",
+      "text": "Les Pays-Bas, le nouveau Florin gagnerait 16%. La Belgique, le nouveau franc belge, perdrait 6%. Le nouveau Schilling autrichien, perdrait 8%."
+    },
+    {
+      "id": 516,
+      "start": 3756.74,
+      "end": 3767.78,
+      "start_timestamp": "01:02:36.740",
+      "end_timestamp": "01:02:47.780",
+      "text": "La Finlande gagnerait 20%. Enfin, voilà. C'est-à-dire, ça n'a rien à voir avec les vaticinations de moins 20% à moins 50% de toutes les monnaies que disait M. Rocard."
+    },
+    {
+      "id": 517,
+      "start": 3767.78,
+      "end": 3778.5,
+      "start_timestamp": "01:02:47.780",
+      "end_timestamp": "01:02:58.500",
+      "text": "D'ailleurs, sous ces gens qui nous disent que si on sort de l'euro, c'est la catastrophe, il faut, si vous avez des interlocuteurs qui vous disent ça,"
+    },
+    {
+      "id": 518,
+      "start": 3778.5,
+      "end": 3784.82,
+      "start_timestamp": "01:02:58.500",
+      "end_timestamp": "01:03:04.820",
+      "text": "arrêter de vous laisser placer sur la défensive. Les gens qui vous disent « mais si on sort de l'euro, tu te rends compte, ça va être de la catastrophe »,"
+    },
+    {
+      "id": 519,
+      "start": 3784.82,
+      "end": 3793.45,
+      "start_timestamp": "01:03:04.820",
+      "end_timestamp": "01:03:13.450",
+      "text": "répondez-leur « mais est-ce que tu te rends compte de la catastrophe si on y reste ? ». C'est quand même pas moi qui ai inventé « dépêche du 26 mars 2013,"
+    },
+    {
+      "id": 520,
+      "start": 3793.45,
+      "end": 3804.25,
+      "start_timestamp": "01:03:13.450",
+      "end_timestamp": "01:03:24.250",
+      "text": "alerte, la Banque du Portugal table sur une récession de 2,3% en 2013, bien pire que prévu. Même jour, 26 mars 2013, 11h17, alerte, Espagne,"
+    },
+    {
+      "id": 521,
+      "start": 3804.25,
+      "end": 3813.97,
+      "start_timestamp": "01:03:24.250",
+      "end_timestamp": "01:03:33.970",
+      "text": "la Banque centrale voit la récession s'aggraver en 2013, le PIB, moins 1,5%. Le même jour, alerte, Italie, PIB, récession aggravée confirmée fin 2012,"
+    },
+    {
+      "id": 522,
+      "start": 3813.97,
+      "end": 3824.89,
+      "start_timestamp": "01:03:33.970",
+      "end_timestamp": "01:03:44.890",
+      "text": "en recul de 0,9%. Dans les jours qui ont été à peu près dans la même période, zone euro, le PIB de Chypre, en recul de 1,1% au dernier trimestre 2012."
+    },
+    {
+      "id": 523,
+      "start": 3824.89,
+      "end": 3833.73,
+      "start_timestamp": "01:03:44.890",
+      "end_timestamp": "01:03:53.730",
+      "text": "Zone euro, récession 2013. La zone euro sera de nouveau en récession cette année avec une baisse de 0,3% du PIB. La reprise interviendra en 2014"
+    },
+    {
+      "id": 524,
+      "start": 3833.73,
+      "end": 3840.57,
+      "start_timestamp": "01:03:53.730",
+      "end_timestamp": "01:04:00.570",
+      "text": "selon la Commission européenne qui a revu à la baisse ses prévisions vendredi. Il y a encore des gens qui voudront le croire. En 2007,"
+    },
+    {
+      "id": 525,
+      "start": 3840.57,
+      "end": 3846.61,
+      "start_timestamp": "01:04:00.570",
+      "end_timestamp": "01:04:06.610",
+      "text": "la Commission européenne avait révisé à la baisse ses prévisions pour 2008. En 2008, elle a révisé à la baisse ses prévisions pour 2009."
+    },
+    {
+      "id": 526,
+      "start": 3846.61,
+      "end": 3852.05,
+      "start_timestamp": "01:04:06.610",
+      "end_timestamp": "01:04:12.050",
+      "text": "En 2009, elle a révisé à la baisse ses prévisions pour 2010. En 2010, elle a révisé à la baisse ses prévisions pour 2011."
+    },
+    {
+      "id": 527,
+      "start": 3852.05,
+      "end": 3858.37,
+      "start_timestamp": "01:04:12.050",
+      "end_timestamp": "01:04:18.370",
+      "text": "En 2011, elle a révisé à la baisse ses prévisions pour 2012. Et en 2012, elle a révisé à la baisse ses prévisions pour 2013."
+    },
+    {
+      "id": 528,
+      "start": 3858.37,
+      "end": 3867.17,
+      "start_timestamp": "01:04:18.370",
+      "end_timestamp": "01:04:27.170",
+      "text": "En 2013, elle révisait à la baisse ses prévisions pour 2014. Et à chaque fois, elle nous dit, c'est l'année prochaine. On a connu ça."
+    },
+    {
+      "id": 529,
+      "start": 3867.17,
+      "end": 3871.77,
+      "start_timestamp": "01:04:27.170",
+      "end_timestamp": "01:04:31.770",
+      "text": "C'était le président américain Hoover. La reprise est au coin de la rue."
+    },
+    {
+      "id": 530,
+      "start": 3871.77,
+      "end": 3884.36,
+      "start_timestamp": "01:04:31.770",
+      "end_timestamp": "01:04:44.360",
+      "text": "De 1929 jusqu'à 1900, jusqu'à la guerre. Jusqu'à ce que Keynes disait, c'est un con, et je continue."
+    },
+    {
+      "id": 531,
+      "start": 3884.36,
+      "end": 3887.9,
+      "start_timestamp": "01:04:44.360",
+      "end_timestamp": "01:04:47.900",
+      "text": "France, tout ça, ce sont des pêches qui sont tombées au mois d'avril."
+    },
+    {
+      "id": 532,
+      "start": 3887.9,
+      "end": 3892.42,
+      "start_timestamp": "01:04:47.900",
+      "end_timestamp": "01:04:52.420",
+      "text": "France, chômage. Février pourrait battre le record historique de 1997. Ça a été battu."
+    },
+    {
+      "id": 533,
+      "start": 3892.42,
+      "end": 3896.62,
+      "start_timestamp": "01:04:52.420",
+      "end_timestamp": "01:04:56.620",
+      "text": "En effet, Allemagne, les sages de Mme Merkel, a baissé leur prévision de croissance en 2013."
+    },
+    {
+      "id": 534,
+      "start": 3896.62,
+      "end": 3903.46,
+      "start_timestamp": "01:04:56.620",
+      "end_timestamp": "01:05:03.460",
+      "text": "Même l'Allemagne est pratiquement à zéro maintenant, de taux de croissance, etc., etc."
+    },
+    {
+      "id": 535,
+      "start": 3903.46,
+      "end": 3911.14,
+      "start_timestamp": "01:05:03.460",
+      "end_timestamp": "01:05:11.140",
+      "text": "Tout ceci se place par ailleurs non seulement des mensonges éhontés, éhontés sur l'euro,"
+    },
+    {
+      "id": 536,
+      "start": 3911.14,
+      "end": 3916.58,
+      "start_timestamp": "01:05:11.140",
+      "end_timestamp": "01:05:16.580",
+      "text": "avec des journalistes de complaisance qui acceptent de voir des escrocs qui ont menti depuis 20 ans"
+    },
+    {
+      "id": 537,
+      "start": 3916.58,
+      "end": 3921.98,
+      "start_timestamp": "01:05:16.580",
+      "end_timestamp": "01:05:21.980",
+      "text": "continuer à plastronner dans les médias, mais ça se place en plus, dans un contexte de remise en cause"
+    },
+    {
+      "id": 538,
+      "start": 3921.98,
+      "end": 3926.14,
+      "start_timestamp": "01:05:21.980",
+      "end_timestamp": "01:05:26.140",
+      "text": "plus ou moins discrète de toutes nos libertés fondamentales par ailleurs."
+    },
+    {
+      "id": 539,
+      "start": 3926.14,
+      "end": 3930.1,
+      "start_timestamp": "01:05:26.140",
+      "end_timestamp": "01:05:30.100",
+      "text": "En 2000, l'Union européenne a copié l'administration américaine en produisant une directive"
+    },
+    {
+      "id": 540,
+      "start": 3930.1,
+      "end": 3934.22,
+      "start_timestamp": "01:05:30.100",
+      "end_timestamp": "01:05:34.220",
+      "text": "qui incite les États membres à rapprocher leurs législations et qui établit des règles"
+    },
+    {
+      "id": 541,
+      "start": 3934.22,
+      "end": 3939.54,
+      "start_timestamp": "01:05:34.220",
+      "end_timestamp": "01:05:39.540",
+      "text": "pour lutter contre la menace terroriste. Cette décision a généralisé les mesures d'exception,"
+    },
+    {
+      "id": 542,
+      "start": 3939.54,
+      "end": 3945.1,
+      "start_timestamp": "01:05:39.540",
+      "end_timestamp": "01:05:45.100",
+      "text": "transformé le paysage urbain et le code pénal. Dans les pays occidentaux, en tout cas en France,"
+    },
+    {
+      "id": 543,
+      "start": 3945.1,
+      "end": 3950.82,
+      "start_timestamp": "01:05:45.100",
+      "end_timestamp": "01:05:50.820",
+      "text": "que je connais particulièrement mieux que les autres, la guerre contre le terrorisme est désormais"
+    },
+    {
+      "id": 544,
+      "start": 3950.86,
+      "end": 3960.96,
+      "start_timestamp": "01:05:50.860",
+      "end_timestamp": "01:06:00.960",
+      "text": "une guerre à durée indéterminée contre un ennemi inconnu, a permis d'introduire des lois d'exception"
+    },
+    {
+      "id": 545,
+      "start": 3960.96,
+      "end": 3967.56,
+      "start_timestamp": "01:06:00.960",
+      "end_timestamp": "01:06:07.560",
+      "text": "dans le droit commun en endormant la vigilance de la population et en banalisant la notion de contrôle."
+    },
+    {
+      "id": 546,
+      "start": 3967.56,
+      "end": 3974.4,
+      "start_timestamp": "01:06:07.560",
+      "end_timestamp": "01:06:14.400",
+      "text": "Les gens ont fini par accepter d'être tracés, contrôlés sous prétexte qu'ils n'ont rien à cacher."
+    },
+    {
+      "id": 547,
+      "start": 3974.4,
+      "end": 3981.08,
+      "start_timestamp": "01:06:14.400",
+      "end_timestamp": "01:06:21.080",
+      "text": "Il y a en France par exemple désormais constamment en ville, vu le plan Vigipérate est devenu permanent."
+    },
+    {
+      "id": 548,
+      "start": 3981.08,
+      "end": 3985.88,
+      "start_timestamp": "01:06:21.080",
+      "end_timestamp": "01:06:25.880",
+      "text": "Ça veut dire que ce plan, qui a été conçu en 1978 quand il y a eu des attentats,"
+    },
+    {
+      "id": 549,
+      "start": 3985.88,
+      "end": 3990.68,
+      "start_timestamp": "01:06:25.880",
+      "end_timestamp": "01:06:30.680",
+      "text": "des attentats de la rue de Rennes, ils étaient dans le cadre d'un contentieux érodif avec l'Iran."
+    },
+    {
+      "id": 550,
+      "start": 3990.68,
+      "end": 3994.48,
+      "start_timestamp": "01:06:30.680",
+      "end_timestamp": "01:06:34.480",
+      "text": "Et une vague d'attentats, ce plan a été démultiplié après le 11 septembre 2001,"
+    },
+    {
+      "id": 551,
+      "start": 3994.48,
+      "end": 4001.0,
+      "start_timestamp": "01:06:34.480",
+      "end_timestamp": "01:06:41.000",
+      "text": "11 septembre qui sont les attentats à New York, et a priori ne concerne pas spécialement la France."
+    },
+    {
+      "id": 552,
+      "start": 4001.0,
+      "end": 4009.36,
+      "start_timestamp": "01:06:41.000",
+      "end_timestamp": "01:06:49.360",
+      "text": "Il est désormais maintenu en niveau rouge de façon continue depuis plus de 6 ans, depuis les attentats de Londres en 2005."
+    },
+    {
+      "id": 553,
+      "start": 4009.4,
+      "end": 4013.8,
+      "start_timestamp": "01:06:49.400",
+      "end_timestamp": "01:06:53.800",
+      "text": "La dernière version du plan Vigipérate, en vigueur depuis janvier 2007, d'ailleurs tous ceux-ci,"
+    },
+    {
+      "id": 554,
+      "start": 4013.8,
+      "end": 4019.2,
+      "start_timestamp": "01:06:53.800",
+      "end_timestamp": "01:06:59.200",
+      "text": "que ce soit du gouvernement dit de droite ou dit de gauche, c'est exactement les mêmes politiques,"
+    },
+    {
+      "id": 555,
+      "start": 4019.2,
+      "end": 4023.0,
+      "start_timestamp": "01:06:59.200",
+      "end_timestamp": "01:07:03.000",
+      "text": "est fondée sur un postulat clair, je cite les textes officiels."
+    },
+    {
+      "id": 556,
+      "start": 4023.0,
+      "end": 4028.08,
+      "start_timestamp": "01:07:03.000",
+      "end_timestamp": "01:07:08.080",
+      "text": "La menace terroriste doit désormais être considérée comme permanente."
+    },
+    {
+      "id": 557,
+      "start": 4028.08,
+      "end": 4036.16,
+      "start_timestamp": "01:07:08.080",
+      "end_timestamp": "01:07:16.160",
+      "text": "Vigipérate définit un socle de mesure appliqué en toutes circonstances, même en l'absence de signes précis de menace."
+    },
+    {
+      "id": 558,
+      "start": 4036.16,
+      "end": 4042.3,
+      "start_timestamp": "01:07:16.160",
+      "end_timestamp": "01:07:22.300",
+      "text": "Quand on voit rien, c'est encore plus dangereux."
+    },
+    {
+      "id": 559,
+      "start": 4042.34,
+      "end": 4050.58,
+      "start_timestamp": "01:07:22.340",
+      "end_timestamp": "01:07:30.580",
+      "text": "On s'est habitué à voir dans les aéroports, dans les gares, des militaires mitraillettes au point."
+    },
+    {
+      "id": 560,
+      "start": 4050.58,
+      "end": 4056.38,
+      "start_timestamp": "01:07:30.580",
+      "end_timestamp": "01:07:36.380",
+      "text": "Nos parents, nos grands-parents reviendraient à Paris, la Gare de l'Est, la Gare du Nord,"
+    },
+    {
+      "id": 561,
+      "start": 4056.38,
+      "end": 4062.58,
+      "start_timestamp": "01:07:36.380",
+      "end_timestamp": "01:07:42.580",
+      "text": "ou à la Gare de Marseille-Saint-Charles, ou à Lyon-Pérage. Qu'est-ce qui se passe ?"
+    },
+    {
+      "id": 562,
+      "start": 4062.58,
+      "end": 4068.26,
+      "start_timestamp": "01:07:42.580",
+      "end_timestamp": "01:07:48.260",
+      "text": "Qu'est-ce qui se passe ? On est en état de siège ou quoi ?"
+    },
+    {
+      "id": 563,
+      "start": 4068.26,
+      "end": 4072.54,
+      "start_timestamp": "01:07:48.260",
+      "end_timestamp": "01:07:52.540",
+      "text": "Vous voyez, vous riez. Vous riez parce que le rire... Enfin, je vais pas vous faire un petit cours de psychanalyse."
+    },
+    {
+      "id": 564,
+      "start": 4072.54,
+      "end": 4077.38,
+      "start_timestamp": "01:07:52.540",
+      "end_timestamp": "01:07:57.380",
+      "text": "Vous savez très bien ce que signifie le rire. Le rire, c'est à la fois la surprise et la gêne."
+    },
+    {
+      "id": 565,
+      "start": 4077.38,
+      "end": 4086.98,
+      "start_timestamp": "01:07:57.380",
+      "end_timestamp": "01:08:06.980",
+      "text": "Vous riez, en fait. On rit de notre passivité devant une situation qui est en réalité inacceptable."
+    },
+    {
+      "id": 566,
+      "start": 4086.98,
+      "end": 4092.9,
+      "start_timestamp": "01:08:06.980",
+      "end_timestamp": "01:08:12.900",
+      "text": "C'est inacceptable qu'un millier de militaires des trois armées soient mobilisés en permanence en France"
+    },
+    {
+      "id": 567,
+      "start": 4092.9,
+      "end": 4098.62,
+      "start_timestamp": "01:08:12.900",
+      "end_timestamp": "01:08:18.620",
+      "text": "face à un ennemi imaginaire. Je ne dis pas qu'il n'y a pas des risques de terrorisme."
+    },
+    {
+      "id": 568,
+      "start": 4098.62,
+      "end": 4103.26,
+      "start_timestamp": "01:08:18.620",
+      "end_timestamp": "01:08:23.260",
+      "text": "Mais enfin, j'ai eu l'occasion de m'exprimer là-dessus justement lors de la présentation de mon programme"
+    },
+    {
+      "id": 569,
+      "start": 4103.26,
+      "end": 4108.78,
+      "start_timestamp": "01:08:23.260",
+      "end_timestamp": "01:08:28.780",
+      "text": "pour montrer à quel point, par exemple, le terrorisme islamiste n'existe pas,"
+    },
+    {
+      "id": 570,
+      "start": 4108.78,
+      "end": 4115.66,
+      "start_timestamp": "01:08:28.780",
+      "end_timestamp": "01:08:35.660",
+      "text": "ou infime en tout cas par rapport à ce que l'on dit. J'ai cité les statistiques d'Europole d'une part"
+    },
+    {
+      "id": 571,
+      "start": 4115.66,
+      "end": 4123.54,
+      "start_timestamp": "01:08:35.660",
+      "end_timestamp": "01:08:43.540",
+      "text": "et de la police française d'autre part. Entre le nombre de fois où l'on a suspecté des attentats d'origine islamiste"
+    },
+    {
+      "id": 572,
+      "start": 4123.54,
+      "end": 4131.02,
+      "start_timestamp": "01:08:43.540",
+      "end_timestamp": "01:08:51.020",
+      "text": "et après enquête, ce qu'il en est résulté, c'est le jour et la nuit, de 2006 à 2010 ou à 2011 en France,"
+    },
+    {
+      "id": 573,
+      "start": 4131.02,
+      "end": 4136.82,
+      "start_timestamp": "01:08:51.020",
+      "end_timestamp": "01:08:56.820",
+      "text": "on a suspecté dans 26% des cas – je cite de mémoire – d'attentats d'origine islamiste. Après vérification,"
+    },
+    {
+      "id": 574,
+      "start": 4136.82,
+      "end": 4146.14,
+      "start_timestamp": "01:08:56.820",
+      "end_timestamp": "01:09:06.140",
+      "text": "c'était 0% des cas. En revanche, dans 95% des cas, c'était des attentats dits de mouvement autonomiste"
+    },
+    {
+      "id": 575,
+      "start": 4146.14,
+      "end": 4154.3,
+      "start_timestamp": "01:09:06.140",
+      "end_timestamp": "01:09:14.300",
+      "text": "ou indépendantiste régionaux. J'ai parlé hier de ces questions des eurorégions et de qui est derrière."
+    },
+    {
+      "id": 576,
+      "start": 4154.3,
+      "end": 4162.86,
+      "start_timestamp": "01:09:14.300",
+      "end_timestamp": "01:09:22.860",
+      "text": "Internet est placé sous haute surveillance. La France, par exemple, en 2009 a procédé à 514 813 demandes d'accès au log"
+    },
+    {
+      "id": 577,
+      "start": 4162.86,
+      "end": 4170.3,
+      "start_timestamp": "01:09:22.860",
+      "end_timestamp": "01:09:30.300",
+      "text": "pour savoir qui a téléphoné ou envoyé un mail à qui, quand, où, pendant combien de temps. C'est conservé par les opérateurs de téléphonie,"
+    },
+    {
+      "id": 578,
+      "start": 4170.3,
+      "end": 4176.62,
+      "start_timestamp": "01:09:30.300",
+      "end_timestamp": "01:09:36.620",
+      "text": "les fournisseurs d'accès à Internet. Le 15 novembre 2001, le gouvernement Jospin, gouvernement dit socialiste,"
+    },
+    {
+      "id": 579,
+      "start": 4176.62,
+      "end": 4182.18,
+      "start_timestamp": "01:09:36.620",
+      "end_timestamp": "01:09:42.180",
+      "text": "a obligé les fournisseurs d'accès à Internet à stocker pendant un an les logs. La loi sur la sécurité intérieure,"
+    },
+    {
+      "id": 580,
+      "start": 4182.18,
+      "end": 4189.98,
+      "start_timestamp": "01:09:42.180",
+      "end_timestamp": "01:09:49.980",
+      "text": "la LSI du 21 janvier 2003, a rendu ce dispositif définitif censé prévenir les menaces d'attentats."
+    },
+    {
+      "id": 581,
+      "start": 4189.98,
+      "end": 4194.94,
+      "start_timestamp": "01:09:49.980",
+      "end_timestamp": "01:09:54.940",
+      "text": "La surveillance des internautes est aujourd'hui totalement séparée de l'existence ou non d'une menace terroriste."
+    },
+    {
+      "id": 582,
+      "start": 4194.94,
+      "end": 4200.54,
+      "start_timestamp": "01:09:54.940",
+      "end_timestamp": "01:10:00.540",
+      "text": "La surveillance d'Internet échappe désormais à toute procédure judiciaire pour se placer sous le contrôle direct de l'État,"
+    },
+    {
+      "id": 583,
+      "start": 4200.54,
+      "end": 4209.26,
+      "start_timestamp": "01:10:00.540",
+      "end_timestamp": "01:10:09.260",
+      "text": "c'est-à-dire d'un chef de bureau de tel ou tel ministère. On est exactement retombé – je suis désolé de le dire – dans la situation"
+    },
+    {
+      "id": 584,
+      "start": 4209.26,
+      "end": 4216.86,
+      "start_timestamp": "01:10:09.260",
+      "end_timestamp": "01:10:16.860",
+      "text": "de 1940-41, où les correspondances étaient surveillées. Le programme que j'ai présenté, qui est un copier-coller"
+    },
+    {
+      "id": 585,
+      "start": 4216.86,
+      "end": 4223.42,
+      "start_timestamp": "01:10:16.860",
+      "end_timestamp": "01:10:23.420",
+      "text": "à de nombreux égards du programme du Conseil national de la résistance de 1944, prévoyait dans un de ces chapitres"
+    },
+    {
+      "id": 586,
+      "start": 4223.42,
+      "end": 4232.34,
+      "start_timestamp": "01:10:23.420",
+      "end_timestamp": "01:10:32.340",
+      "text": "rétablir le secret des correspondances. Nous avons désormais un secret des correspondances qui est constamment violé."
+    },
+    {
+      "id": 587,
+      "start": 4232.34,
+      "end": 4239.3,
+      "start_timestamp": "01:10:32.340",
+      "end_timestamp": "01:10:39.300",
+      "text": "J'y ajoute le projet européen indecte. Tout ça, nous sommes le seul mouvement politique français aussi à le dire."
+    },
+    {
+      "id": 588,
+      "start": 4239.3,
+      "end": 4246.7,
+      "start_timestamp": "01:10:39.300",
+      "end_timestamp": "01:10:46.700",
+      "text": "Ni l'extrême droite, ni M. Mélenchon, ni l'extrême gauche le protestent. C'est quand même bizarre."
+    },
+    {
+      "id": 589,
+      "start": 4246.7,
+      "end": 4252.54,
+      "start_timestamp": "01:10:46.700",
+      "end_timestamp": "01:10:52.540",
+      "text": "Le projet européen indecte a été lancé confidentiellement le 1er janvier 2009 par la Commission européenne,"
+    },
+    {
+      "id": 590,
+      "start": 4252.54,
+      "end": 4257.34,
+      "start_timestamp": "01:10:52.540",
+      "end_timestamp": "01:10:57.340",
+      "text": "qui se trouve à quelques centaines de mètres de notre établissement où nous parlons ce soir. Elle a déjà investi"
+    },
+    {
+      "id": 591,
+      "start": 4257.34,
+      "end": 4262.94,
+      "start_timestamp": "01:10:57.340",
+      "end_timestamp": "01:11:02.940",
+      "text": "plus de 15 millions d'euros pour le lancement prévu de ce système qui est prévu l'année prochaine en 2014."
+    },
+    {
+      "id": 592,
+      "start": 4262.94,
+      "end": 4268.38,
+      "start_timestamp": "01:11:02.940",
+      "end_timestamp": "01:11:08.380",
+      "text": "Ce projet européen indecte vise à réaliser – je le cite – « une détection automatique des menaces avérées,"
+    },
+    {
+      "id": 593,
+      "start": 4268.38,
+      "end": 4274.5,
+      "start_timestamp": "01:11:08.380",
+      "end_timestamp": "01:11:14.500",
+      "text": "comportements anormaux ou potentiellement dangereux se manifestant au sein des sites web, des forums de discussion,"
+    },
+    {
+      "id": 594,
+      "start": 4274.5,
+      "end": 4280.18,
+      "start_timestamp": "01:11:14.500",
+      "end_timestamp": "01:11:20.180",
+      "text": "des serveurs de données, des échanges peer-to-peer ou même des PC individuels. Des ajouts informatiques"
+    },
+    {
+      "id": 595,
+      "start": 4280.18,
+      "end": 4284.94,
+      "start_timestamp": "01:11:20.180",
+      "end_timestamp": "01:11:24.940",
+      "text": "ou programmes spécialisés seront chargés d'explorer les échanges et de signaler les risques à travers"
+    },
+    {
+      "id": 596,
+      "start": 4284.94,
+      "end": 4291.18,
+      "start_timestamp": "01:11:24.940",
+      "end_timestamp": "01:11:31.180",
+      "text": "des plateformes d'échanges et de mise en mémoire de données personnelles ou non, sur notamment des mots clés ou des mots codés."
+    },
+    {
+      "id": 597,
+      "start": 4291.18,
+      "end": 4297.98,
+      "start_timestamp": "01:11:31.180",
+      "end_timestamp": "01:11:37.980",
+      "text": "Et pourront aller fouiller dans vos ordinateurs, le pire étant par ailleurs que ceci est encore allé à terme avec"
+    },
+    {
+      "id": 598,
+      "start": 4297.98,
+      "end": 4304.98,
+      "start_timestamp": "01:11:37.980",
+      "end_timestamp": "01:11:44.980",
+      "text": "une reconnaissance des visages, l'intégration de votre pédigree, de vos photos ». C'est de ça qu'il s'agit."
+    },
+    {
+      "id": 599,
+      "start": 4304.98,
+      "end": 4312.02,
+      "start_timestamp": "01:11:44.980",
+      "end_timestamp": "01:11:52.020",
+      "text": "Et on est en train de mettre en place, la Commission européenne est en train de mettre en place sous couvert de lutte contre le terroriste,"
+    },
+    {
+      "id": 600,
+      "start": 4312.02,
+      "end": 4322.54,
+      "start_timestamp": "01:11:52.020",
+      "end_timestamp": "01:12:02.540",
+      "text": "exactement la société prévue décrite par George Orwell en 1984, le développement exponentiel des caméras de surveillance"
+    },
+    {
+      "id": 601,
+      "start": 4322.54,
+      "end": 4331.02,
+      "start_timestamp": "01:12:02.540",
+      "end_timestamp": "01:12:11.020",
+      "text": "dans toute l'Europe et en particulier en France. Désormais, en France, il y a une caméra de surveillance pour 1000 habitants."
+    },
+    {
+      "id": 602,
+      "start": 4331.02,
+      "end": 4336.3,
+      "start_timestamp": "01:12:11.020",
+      "end_timestamp": "01:12:16.300",
+      "text": "On est passés petit à petit. On a désormais plus de 60 000 caméras de surveillance dans l'espace public."
+    },
+    {
+      "id": 603,
+      "start": 4336.3,
+      "end": 4342.9,
+      "start_timestamp": "01:12:16.300",
+      "end_timestamp": "01:12:22.900",
+      "text": "Et ça ne comprend pas les caméras de surveillance dans les espaces privés, dans les magasins, dans les galeries marchandes, etc."
+    },
+    {
+      "id": 604,
+      "start": 4342.9,
+      "end": 4350.1,
+      "start_timestamp": "01:12:22.900",
+      "end_timestamp": "01:12:30.100",
+      "text": "Ici, c'est la carte de Paris qui a une sacrée varicelle. Il s'agit de l'emplacement des caméras de surveillance."
+    },
+    {
+      "id": 605,
+      "start": 4350.1,
+      "end": 4354.7,
+      "start_timestamp": "01:12:30.100",
+      "end_timestamp": "01:12:34.700",
+      "text": "Alors on vous explique que c'est pour voir s'il y a du trafic. Pas du tout pour voir s'il y a du trafic."
+    },
+    {
+      "id": 606,
+      "start": 4354.74,
+      "end": 4362.22,
+      "start_timestamp": "01:12:34.740",
+      "end_timestamp": "01:12:42.220",
+      "text": "On a en permanence ici par exemple le 11e arrondissement de Paris avec des caméras de surveillance qui poussent comme des champignons après la pluie."
+    },
+    {
+      "id": 607,
+      "start": 4362.22,
+      "end": 4376.38,
+      "start_timestamp": "01:12:42.220",
+      "end_timestamp": "01:12:56.380",
+      "text": "Mais jusqu'où ? Mais jusqu'où on va accepter ça ? J'ajoute le mandat d'arrêt européen le 11 juin 2002."
+    },
+    {
+      "id": 608,
+      "start": 4376.38,
+      "end": 4383.18,
+      "start_timestamp": "01:12:56.380",
+      "end_timestamp": "01:13:03.180",
+      "text": "Une décision qu'a de l'Union européenne a instauré le mandat d'arrêt européen qui a été transcrit en droit français en 2004."
+    },
+    {
+      "id": 609,
+      "start": 4383.18,
+      "end": 4392.58,
+      "start_timestamp": "01:13:03.180",
+      "end_timestamp": "01:13:12.580",
+      "text": "Ce mandat remplace la procédure traditionnelle d'extradition en imposant à chaque autorité judiciaire nationale d'accepter sans discussion aucune"
+    },
+    {
+      "id": 610,
+      "start": 4392.58,
+      "end": 4397.62,
+      "start_timestamp": "01:13:12.580",
+      "end_timestamp": "01:13:17.620",
+      "text": "la demande de remise d'une personne formulée par l'autorité judiciaire d'un autre État membre."
+    },
+    {
+      "id": 611,
+      "start": 4397.62,
+      "end": 4407.1,
+      "start_timestamp": "01:13:17.620",
+      "end_timestamp": "01:13:27.100",
+      "text": "Je ne sais pas si vous êtes familiers des questions de droit, mais c'était un des grands progrès de civilisation que le droit de l'extradition."
+    },
+    {
+      "id": 612,
+      "start": 4407.1,
+      "end": 4416.7,
+      "start_timestamp": "01:13:27.100",
+      "end_timestamp": "01:13:36.700",
+      "text": "Lorsqu'avant en France, un autre État demandait l'extradition d'une personne arrêtée en France. Le juge de l'extradition devait vérifier plusieurs choses."
+    },
+    {
+      "id": 613,
+      "start": 4416.7,
+      "end": 4424.22,
+      "start_timestamp": "01:13:36.700",
+      "end_timestamp": "01:13:44.220",
+      "text": "D'abord, est-ce que le crime ou le délit qui était reproché par l'État demandeur était lui-même puni en France ?"
+    },
+    {
+      "id": 614,
+      "start": 4424.22,
+      "end": 4434.42,
+      "start_timestamp": "01:13:44.220",
+      "end_timestamp": "01:13:54.420",
+      "text": "Lorsque par exemple l'Espagne de Franco demandait la restitution au régime espagnol d'un communiste espagnol, la fête d'être communiste n'étant pas réprimandée en France,"
+    },
+    {
+      "id": 615,
+      "start": 4434.42,
+      "end": 4442.94,
+      "start_timestamp": "01:13:54.420",
+      "end_timestamp": "01:14:02.940",
+      "text": "eh bien la France ne donnait pas suite à la demande d'extradition. Deuxièmement, la France devait également vérifier quel était le type de peine"
+    },
+    {
+      "id": 616,
+      "start": 4442.94,
+      "end": 4454.46,
+      "start_timestamp": "01:14:02.940",
+      "end_timestamp": "01:14:14.460",
+      "text": "qui était encourue. En règle générale, lorsque il y avait une peine de mort à l'autre bout de la chaîne, la procédure d'extradition était ipso facto arrêtée."
+    },
+    {
+      "id": 617,
+      "start": 4454.46,
+      "end": 4464.06,
+      "start_timestamp": "01:14:14.460",
+      "end_timestamp": "01:14:24.060",
+      "text": "Désormais, tout ceci est en train de voler en éclats au sein de l'UE sous le motif de la constitution d'un espace de liberté, de sécurité"
+    },
+    {
+      "id": 618,
+      "start": 4464.06,
+      "end": 4472.74,
+      "start_timestamp": "01:14:24.060",
+      "end_timestamp": "01:14:32.740",
+      "text": "et de justice, en postulant que tous les pays de l'UE ont les mêmes valeurs, ce qui n'est pas vrai. Ce qui n'est pas vrai, nous n'avons pas les mêmes valeurs"
+    },
+    {
+      "id": 619,
+      "start": 4472.74,
+      "end": 4481.02,
+      "start_timestamp": "01:14:32.740",
+      "end_timestamp": "01:14:41.020",
+      "text": "en matière de laïcité. Nous n'avons pas les mêmes valeurs en matière de communautarisme. Nous n'avons pas les mêmes valeurs vis-à-vis de la Seconde Guerre mondiale."
+    },
+    {
+      "id": 620,
+      "start": 4481.02,
+      "end": 4489.66,
+      "start_timestamp": "01:14:41.020",
+      "end_timestamp": "01:14:49.660",
+      "text": "En Estonie, en Lettonie, les Waffen SS font l'objet de commémorations officielles avec la présence de ministres du gouvernement."
+    },
+    {
+      "id": 621,
+      "start": 4489.7,
+      "end": 4497.46,
+      "start_timestamp": "01:14:49.700",
+      "end_timestamp": "01:14:57.460",
+      "text": "Les ministres de ces gouvernements des Pays-Bas le tiennent des propos qui, en France par exemple, tomberaient sous le coup de la loi pour négationnisme."
+    },
+    {
+      "id": 622,
+      "start": 4497.46,
+      "end": 4507.38,
+      "start_timestamp": "01:14:57.460",
+      "end_timestamp": "01:15:07.380",
+      "text": "Nous n'avons pas les mêmes valeurs que la plupart de ces pays. D'ailleurs, on n'aime plutôt les mêmes valeurs avec des pays comme la Suisse ou l'Argentine,"
+    },
+    {
+      "id": 623,
+      "start": 4507.38,
+      "end": 4518.1,
+      "start_timestamp": "01:15:07.380",
+      "end_timestamp": "01:15:18.100",
+      "text": "plus par exemple qu'avec la Roumanie ou la Lettonie. Il faut bien comprendre que le mandat d'arrêt européen étant à toute l'UE le champ d'application des procédures"
+    },
+    {
+      "id": 624,
+      "start": 4518.1,
+      "end": 4527.9,
+      "start_timestamp": "01:15:18.100",
+      "end_timestamp": "01:15:27.900",
+      "text": "d'exception et des lois liberticides spécifiques à chaque État membre, en réalité, puisqu'il y a un transfert automatique, on dégrade le niveau de protection"
+    },
+    {
+      "id": 625,
+      "start": 4527.9,
+      "end": 4539.58,
+      "start_timestamp": "01:15:27.900",
+      "end_timestamp": "01:15:39.580",
+      "text": "au plus bas dix ans. C'est de ça qu'il s'agit. Je voudrais dire d'ailleurs à ce propos qu'est-ce qu'a été l'Europe ? Que serait devenu Léonard de Vinci"
+    },
+    {
+      "id": 626,
+      "start": 4539.58,
+      "end": 4548.26,
+      "start_timestamp": "01:15:39.580",
+      "end_timestamp": "01:15:48.260",
+      "text": "qui travaillait, vous savez, pour le duc de Milan, qui avait vu sa vie menacée, qui avait accompagné François Ier, le très chrétien, dans sa retraite,"
+    },
+    {
+      "id": 627,
+      "start": 4548.26,
+      "end": 4556.98,
+      "start_timestamp": "01:15:48.260",
+      "end_timestamp": "01:15:56.980",
+      "text": "lorsque François Ier était revenu en France, qui était venu avec d'ailleurs, au passage, sous le bras, la Joconde, la Sainte Vierge, Sainte Anne et l'Enfant,"
+    },
+    {
+      "id": 628,
+      "start": 4556.98,
+      "end": 4563.7,
+      "start_timestamp": "01:15:56.980",
+      "end_timestamp": "01:16:03.700",
+      "text": "et le Saint Jean-Baptiste. Ils sont les trois toiles de Léonard qui sont au musée du Louvre, qui sont parmi les joyaux de nos collections,"
+    },
+    {
+      "id": 629,
+      "start": 4563.7,
+      "end": 4572.42,
+      "start_timestamp": "01:16:03.700",
+      "end_timestamp": "01:16:12.420",
+      "text": "et qui est allé se réfugier au Clolucet, à côté d'Amboise. Que serait devenu Descartes ? Descartes qui, lui, pour fuir la monarchie française"
+    },
+    {
+      "id": 630,
+      "start": 4572.42,
+      "end": 4579.62,
+      "start_timestamp": "01:16:12.420",
+      "end_timestamp": "01:16:19.620",
+      "text": "et pour publier ses ouvrages, était obligé d'aller au Pays-Bas, qui lui offrait la liberté d'impression à l'époque. Que serait devenu Voltaire,"
+    },
+    {
+      "id": 631,
+      "start": 4579.62,
+      "end": 4588.02,
+      "start_timestamp": "01:16:19.620",
+      "end_timestamp": "01:16:28.020",
+      "text": "qui lui-même a été obligé de se mettre à la frontière avec la Suisse et qui allait, je le disais tout à l'heure de temps en temps, en Prusse pour fuir"
+    },
+    {
+      "id": 632,
+      "start": 4588.02,
+      "end": 4598.82,
+      "start_timestamp": "01:16:28.020",
+      "end_timestamp": "01:16:38.820",
+      "text": "la vengeance de la police de Louis XV ? Que serait devenu Sigmund Freud en 1938 lorsqu'il a quitté l'Autriche pour chasser par les nazis,"
+    },
+    {
+      "id": 633,
+      "start": 4598.82,
+      "end": 4608.5,
+      "start_timestamp": "01:16:38.820",
+      "end_timestamp": "01:16:48.500",
+      "text": "pour aller se réfugier au Royaume-Uni ? Que serait devenu Léonard de Vinci, Descartes, Voltaire, Freud et tant d'autres si le mandat d'arrêt européen"
+    },
+    {
+      "id": 634,
+      "start": 4608.5,
+      "end": 4614.98,
+      "start_timestamp": "01:16:48.500",
+      "end_timestamp": "01:16:54.980",
+      "text": "avait existé à leur époque ? Eh bien ils auraient été tout simplement incarcérés et peut-être éliminés."
+    }
+  ]
+}

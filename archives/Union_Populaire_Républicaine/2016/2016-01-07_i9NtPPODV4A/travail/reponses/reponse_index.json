@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.1",
+  "video_id": "i9NtPPODV4A",
+  "resume_general": "François Asselineau poursuit une conférence militante contre l'Union européenne et l'euro. Il relie la monnaie unique à la remontée de la pauvreté, attribue aux traités la libéralisation des capitaux et les délocalisations, présente l'intégration européenne comme une composante d'un bloc occidental et d'un choc des civilisations, conteste l'existence d'affinités sociales proprement européennes, critique la militarisation et défend une sortie juridique par l'article 50 du TUE. La fin est un appel explicite à rejoindre l'UPR.",
+  "themes_principaux": [
+    {"theme": "Pauvreté, chômage et euro", "description": "L'orateur associe la dégradation sociale observée après 2008 et une rupture française autour de 2002 à l'euro.", "reperes": ["00:00:08-00:07:46"]},
+    {"theme": "Libre circulation des capitaux et délocalisations", "description": "L'article 63 du TFUE est présenté comme le fondement juridique des transferts de capitaux, des délocalisations et des réimportations.", "reperes": ["00:15:36-00:20:34"]},
+    {"theme": "Choc des civilisations et géopolitique", "description": "L'Union est décrite comme un élément d'un bloc occidental dont la représentation du monde favoriserait la confrontation.", "reperes": ["00:07:46-00:15:36", "00:20:34-00:39:48"]},
+    {"theme": "Affinités entre peuples", "description": "Des données Facebook sont mobilisées pour contester une identité sociale européenne homogène.", "reperes": ["00:39:48-00:48:03"]},
+    {"theme": "Militarisation européenne", "description": "Les structures et symboles militaires européens sont interprétés comme les signes d'un nationalisme impérial.", "reperes": ["00:48:03-00:55:22"]},
+    {"theme": "Retrait de l'Union européenne", "description": "L'article 50 du TUE est présenté comme une procédure juridique, pacifique et unilatérale dans son principe.", "reperes": ["00:55:22-01:03:11"]}
+  ],
+  "sujets_secondaires": [
+    "chômage des jeunes en Grèce",
+    "émigration portugaise",
+    "aide alimentaire en Espagne",
+    "pauvreté en France",
+    "clip de la Commission européenne sur l'élargissement",
+    "quotas textiles chinois",
+    "effondrement d'une usine textile au Bangladesh",
+    "apartheid sud-africain",
+    "Samuel Huntington",
+    "guerre de Crimée",
+    "usage de l'expression communauté internationale",
+    "liens d'amitié Facebook",
+    "European Air Group et Eurocorps",
+    "référendum suédois sur l'euro",
+    "clauses de sortie soviétiques",
+    "croissance militante de l'UPR",
+    "parrainages présidentiels de 2012"
+  ],
+  "mots_cles": [
+    "Union européenne", "euro", "pauvreté", "chômage", "Grèce", "Espagne", "Portugal", "délocalisation", "libre circulation des capitaux", "article 63 TFUE", "article 50 TUE", "sortie de l'Union européenne", "BRICS", "choc des civilisations", "apartheid planétaire", "OTAN", "communauté internationale", "armée européenne", "Eurocorps", "UPR"
+  ],
+  "variantes_lexicales": {
+    "Union européenne": ["UE", "construction européenne", "Europe"],
+    "sortie de l'Union européenne": ["retrait", "article 50", "sortir de l'Europe"],
+    "euro": ["monnaie unique", "sortie de l'euro"],
+    "délocalisation": ["expatriation des usines", "transferts de capitaux", "réimportation"],
+    "choc des civilisations": ["guerre des civilisations", "monde multipolaire", "bloc occidental"],
+    "militarisation": ["armée européenne", "European Air Group", "Eurocorps"]
+  },
+  "personnes": [
+    {"nom": "François Asselineau", "role": "conférencier et président de l'UPR", "reperes": ["00:00:08-01:14:07"]},
+    {"nom": "Michel Rocard", "role": "ancien Premier ministre cité et critiqué", "reperes": ["00:08:10-00:09:06"]},
+    {"nom": "José Bové", "role": "député européen cité et critiqué", "reperes": ["00:10:38-00:12:01"]},
+    {"nom": "Laurent Wauquiez", "role": "responsable politique cité sur le protectionnisme européen", "reperes": ["00:12:01-00:12:17"]},
+    {"nom": "Samuel Huntington", "role": "auteur du Choc des civilisations", "reperes": ["00:25:59-00:29:31"]},
+    {"nom": "Napoléon III", "role": "figure historique de la guerre de Crimée", "reperes": ["00:30:19-00:35:02"]},
+    {"nom": "George Santayana", "role": "philosophe cité en conclusion", "reperes": ["00:54:40-00:55:12"]},
+    {"nom": "Simone Veil", "role": "tête de liste européenne pour laquelle l'orateur dit avoir voté", "reperes": ["00:48:14-00:48:31"]}
+  ],
+  "organismes": [
+    {"nom": "Union européenne", "type": "organisation politique", "reperes": ["00:00:08-01:03:11"]},
+    {"nom": "Union populaire républicaine", "type": "parti politique", "reperes": ["01:02:40-01:14:07"]},
+    {"nom": "Commission européenne", "type": "institution de l'Union européenne", "reperes": ["00:13:28-00:15:36"]},
+    {"nom": "OTAN", "type": "alliance militaire", "reperes": ["00:15:06-00:15:21", "00:37:55-00:38:03"]},
+    {"nom": "INSEE", "type": "institut statistique", "reperes": ["00:05:59-00:07:23"]},
+    {"nom": "Caritas", "type": "organisation d'aide", "reperes": ["00:04:54-00:05:24"]},
+    {"nom": "European Air Group", "type": "coopération militaire", "reperes": ["00:48:42-00:50:10"]},
+    {"nom": "Eurocorps", "type": "corps militaire multinational", "reperes": ["00:51:12-00:52:06"]}
+  ],
+  "concepts": [
+    {"nom": "souveraineté nationale", "definition_contextuelle": "capacité d'un peuple et de ses institutions nationales à décider des politiques économiques, diplomatiques et militaires", "reperes": ["00:12:10-00:13:12", "00:59:05-01:03:11"]},
+    {"nom": "apartheid planétaire", "definition_contextuelle": "analogie polémique par laquelle l'orateur décrit un découpage stratégique du monde en blocs civilisationnels", "reperes": ["00:20:34-00:29:59"]},
+    {"nom": "communauté internationale", "definition_contextuelle": "expression que l'orateur juge réservée médiatiquement au bloc États-Unis–Union européenne", "reperes": ["00:38:03-00:39:23"]},
+    {"nom": "européisme", "definition_contextuelle": "idéologie d'intégration européenne qualifiée de fanatisme par l'orateur", "reperes": ["00:54:40-00:55:22"]},
+    {"nom": "retrait juridique", "definition_contextuelle": "sortie décidée nationalement puis organisée selon la procédure de l'article 50", "reperes": ["00:59:32-01:03:11"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Mise en circulation fiduciaire de l'euro", "date_ou_periode": "2002", "reperes": ["00:06:52-00:07:31"]},
+    {"nom": "Article 63 du TFUE", "date_ou_periode": "traités européens en vigueur au moment de la conférence", "reperes": ["00:15:57-00:16:55"]},
+    {"nom": "Effondrement d'un immeuble textile au Bangladesh", "date_ou_periode": "peu avant la conférence de 2013", "reperes": ["00:18:32-00:19:28"]},
+    {"nom": "Référendum suédois sur l'euro", "date_ou_periode": "14 septembre 2003", "reperes": ["00:52:30-00:53:16"]},
+    {"nom": "Article 50 du TUE", "date_ou_periode": "traité sur l'Union européenne", "reperes": ["00:59:32-01:03:11"]},
+    {"nom": "Indépendance de la Lituanie", "date_ou_periode": "11 mars 1990", "reperes": ["00:57:00-00:57:34"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:08", "fin": "00:07:46", "description": "chômage, pauvreté et critique de l'euro"},
+    {"debut": "00:07:46", "fin": "00:15:36", "description": "xénophobie alléguée et puissances émergentes"},
+    {"debut": "00:15:36", "fin": "00:20:34", "description": "capitaux, délocalisations et conditions sociales"},
+    {"debut": "00:20:34", "fin": "00:39:48", "description": "apartheid, choc des civilisations et communauté internationale"},
+    {"debut": "00:39:48", "fin": "00:48:03", "description": "affinités Facebook entre peuples"},
+    {"debut": "00:48:03", "fin": "00:55:22", "description": "armée européenne, symboles et fanatisme"},
+    {"debut": "00:55:22", "fin": "01:03:11", "description": "analogie soviétique et article 50"},
+    {"debut": "01:03:11", "fin": "01:14:07", "description": "conclusion militante et histoire de l'UPR"}
+  ],
+  "expressions_representatives": [
+    {"expression": "grand retour de la pauvreté en Europe", "reperes": ["00:00:16-00:00:24"]},
+    {"expression": "apartheid planétaire", "reperes": ["00:29:31-00:29:59"]},
+    {"expression": "qui veut faire l'ange, fait la bête", "reperes": ["00:47:53-00:48:14"]},
+    {"expression": "un redoutable fanatisme", "reperes": ["00:55:12-00:55:22"]},
+    {"expression": "juridiquement, sereinement", "reperes": ["01:02:40-01:03:00"]}
+  ],
+  "citations_exactes": [
+    {"citation": "L'adoption de l'euro marque un changement d'orientation séculaire, le grand retour de la pauvreté.", "reperes": ["00:07:10-00:07:31"]},
+    {"citation": "Toutes les restrictions aux mouvements de capitaux entre les États membres et entre les États membres et les pays tiers sont interdites.", "reperes": ["00:15:57-00:16:23"]},
+    {"citation": "La guerre des civilisations, c'est la rhétorique classique de mise en condition de l'opinion", "reperes": ["00:37:11-00:37:27"]},
+    {"citation": "Ne méprisez jamais l'existence d'un article dans un traité.", "reperes": ["00:57:23-00:57:34"]},
+    {"citation": "Tout État membre peut décider, conformément à ses règles constitutionnelles, de se retirer de l'Union.", "reperes": ["00:59:32-00:59:47"]}
+  ],
+  "arguments_positions": [
+    {"position": "défendue", "these": "L'euro contribue à l'appauvrissement et au chômage.", "raisonnement": "L'orateur rapproche l'introduction fiduciaire de l'euro du retournement des indicateurs de pauvreté et de la crise des pays du Sud.", "reperes": ["00:00:24-00:07:46"]},
+    {"position": "citée puis contestée", "these": "Sortir de l'euro provoquerait une catastrophe.", "raisonnement": "Asselineau demande aux défenseurs de l'euro d'expliquer d'abord les dommages sociaux présents.", "reperes": ["00:07:23-00:07:46"]},
+    {"position": "défendue", "these": "Un protectionnisme européen cohérent est impossible.", "raisonnement": "Les intérêts sectoriels des États membres divergent, illustrés par les quotas textiles et le Royaume-Uni.", "reperes": ["00:12:01-00:13:12"]},
+    {"position": "défendue", "these": "Les traités européens favorisent délocalisations et dumping social.", "raisonnement": "La libre circulation mondiale des capitaux et la réimportation enlèvent aux États les contrôles auparavant mobilisables.", "reperes": ["00:15:36-00:20:34"]},
+    {"position": "défendue", "these": "La construction européenne participe d'une logique de choc des civilisations.", "raisonnement": "L'orateur relie discours, clip institutionnel, OTAN et découpage du monde en blocs concurrents.", "reperes": ["00:07:46-00:15:36", "00:20:34-00:39:48"]},
+    {"position": "contestée", "these": "L'Union européenne correspond aux affinités naturelles des peuples européens.", "raisonnement": "Les liens Facebook présentés suivraient plutôt langue, histoire, migrations et voisinages extra-européens.", "reperes": ["00:39:48-00:48:03"]},
+    {"position": "défendue", "these": "L'intégration militaire européenne éloigne les armées des peuples.", "raisonnement": "Professionnalisation, structures multinationales et symbolique impériale sont interprétées comme une capacité accrue d'action agressive.", "reperes": ["00:48:03-00:52:30"]},
+    {"position": "défendue", "these": "L'article 50 permet une sortie légale et pacifique de l'Union.", "raisonnement": "Notification, négociation et délai maximal sont opposés à la désobéissance permanente aux traités.", "reperes": ["00:55:22-01:03:11"]},
+    {"position": "citée puis contestée", "these": "Une clause de sortie peut être politiquement inapplicable.", "raisonnement": "L'exemple de la clause soviétique et de la Lituanie sert à montrer qu'un article formel peut devenir effectif.", "reperes": ["00:55:22-00:57:34"]}
+  ],
+  "lieux_periodes": [
+    {"lieu": "Université libre de Bruxelles, Belgique", "periode": "17 juin 2013 selon la description", "contexte": "lieu et date annoncés de la conférence"},
+    {"lieu": "Grèce, Espagne, Portugal, Italie et France", "periode": "2002-2013", "contexte": "indicateurs de chômage et de pauvreté"},
+    {"lieu": "Bangladesh", "periode": "2013", "contexte": "industrie textile et effondrement d'un immeuble"},
+    {"lieu": "Afrique du Sud", "periode": "apartheid, notamment 1948-1979", "contexte": "analogie géopolitique"},
+    {"lieu": "Suède", "periode": "2003", "contexte": "campagne référendaire sur l'euro"},
+    {"lieu": "Lituanie et URSS", "periode": "1936-1990", "contexte": "clauses constitutionnelles de retrait"}
+  ],
+  "relations_documentaires": [
+    {"type": "partie_de_serie", "cible": "Conférence La construction européenne est-elle encore démocratique ?", "precision": "épisode 3/4"},
+    {"type": "suite_annoncee", "cible": "Os4V49xZ_e4", "precision": "épisode suivant indiqué dans la description"},
+    {"type": "renvoi_interne", "cible": "Faut-il avoir peur de sortir de l'euro ?", "precision": "conférence citée à propos du référendum suédois"},
+    {"type": "renvoi_interne", "cible": "La tragédie de l'euro", "precision": "conférence annoncée par l'orateur"}
+  ]
+}
