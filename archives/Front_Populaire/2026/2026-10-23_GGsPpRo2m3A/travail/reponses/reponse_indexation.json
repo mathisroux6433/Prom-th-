@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.1",
+  "video_id": "GGsPpRo2m3A",
+  "resume_general": "Entretien de Bertrand Guyot avec Greg Tabibian après les manifestations et émeutes du 17 octobre 2026. L'invité critique le bilan et la stratégie supposée d'Emmanuel Macron, distingue quatre profils présents dans la rue, analyse l'effacement médiatique de la contestation sociale par les pillages, questionne la doctrine de maintien de l'ordre et discute dette, intelligence artificielle, rôle des élites et limites de la récupération par LFI.",
+  "themes_principaux": [
+    {"theme": "Bilan et stratégie supposée d'Emmanuel Macron", "horodatages": ["00:00:00", "00:01:04", "00:08:15"]},
+    {"theme": "Manifestations et émeutes du 17 octobre 2026", "horodatages": ["00:22:03", "00:22:21", "00:23:01"]},
+    {"theme": "Typologie des groupes présents dans la rue", "horodatages": ["00:23:01", "00:23:30", "00:23:44"]},
+    {"theme": "Maintien de l'ordre et passivité des autorités", "horodatages": ["00:04:34", "00:36:41", "00:39:01"]},
+    {"theme": "Représentation politique et intellectuelle des mouvements sociaux", "horodatages": ["00:39:31", "00:41:02", "00:41:27"]}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Ni gauche ni droite et héritage du macronisme", "horodatages": ["00:01:22"]},
+    {"sujet": "Timing présidentiel avant la crise", "horodatages": ["00:04:01"]},
+    {"sujet": "Analyse de l'allocution présidentielle", "horodatages": ["00:08:15"]},
+    {"sujet": "Préférence supposée de Macron entre RN et LFI", "horodatages": ["00:11:01"]},
+    {"sujet": "Humour politique face à la crise", "horodatages": ["00:11:51"]},
+    {"sujet": "Critique des programmes économiques de Mélenchon et Le Pen", "horodatages": ["00:14:35"]},
+    {"sujet": "Dette, intelligence artificielle et avenir du travail", "horodatages": ["00:18:01"]},
+    {"sujet": "Vocabulaire de saccage et pillage", "horodatages": ["00:27:00"]},
+    {"sujet": "Comparaisons avec Mai 68 et les Gilets jaunes", "horodatages": ["00:32:05"]},
+    {"sujet": "Présence d'élus LFI et accusation d'organisation", "horodatages": ["00:41:27"]}
+  ],
+  "mots_cles": ["Greg Tabibian", "Emmanuel Macron", "17 octobre 2026", "manifestations", "émeutes", "pillages", "Gilets jaunes", "maintien de l'ordre", "forces de l'ordre", "La France insoumise", "LFI", "Rassemblement national", "dette", "intelligence artificielle", "revenu universel", "black bloc", "mouvements sociaux", "élites intellectuelles"],
+  "variantes_lexicales": [
+    {"forme": "J'suis pas content TV", "variantes_transcription": ["Je ne suis pas content en TV"]},
+    {"forme": "La France insoumise", "variantes": ["LFI", "les insoumis"]},
+    {"forme": "Gilets jaunes", "variantes": ["mouvement des Gilets jaunes"]},
+    {"forme": "forces de l'ordre", "variantes": ["police", "CRS"]}
+  ],
+  "personnes": [
+    {"nom": "Greg Tabibian", "niveau": "developpe", "role": "vidéaste invité et témoin de terrain", "horodatages": ["00:00:51", "00:22:13"]},
+    {"nom": "Bertrand Guyot", "niveau": "developpe", "role": "présentateur de l'entretien", "horodatages": ["00:00:37"]},
+    {"nom": "Emmanuel Macron", "niveau": "developpe", "role": "président critiqué pour son bilan et sa gestion de crise", "horodatages": ["00:00:22", "00:01:22", "00:08:31"]},
+    {"nom": "Jean-Luc Mélenchon", "niveau": "developpe", "role": "dirigeant LFI discuté sur économie et réaction aux pillages", "horodatages": ["00:14:35", "00:27:03"]},
+    {"nom": "Marine Le Pen", "niveau": "developpe", "role": "dirigeante RN dont le programme budgétaire est critiqué", "horodatages": ["00:11:29", "00:14:41"]},
+    {"nom": "Édouard Philippe", "niveau": "mention", "role": "successeur potentiel évoqué", "horodatages": ["00:11:29"]},
+    {"nom": "François Bayrou", "niveau": "mention", "role": "référence au projet centriste antérieur", "horodatages": ["00:01:58"]},
+    {"nom": "Céline Dion", "niveau": "mention", "role": "concert utilisé comme exemple de mauvais timing présidentiel", "horodatages": ["00:04:01"]},
+    {"nom": "Michel Onfray", "niveau": "mention", "role": "auteur de l'expression peuple providentiel évoquée", "horodatages": ["00:39:44"]},
+    {"nom": "Laurent Nuñez", "niveau": "mention", "role": "responsable du maintien de l'ordre possiblement désigné par une transcription incertaine", "horodatages": ["00:39:04"]}
+  ],
+  "organismes": [
+    {"nom": "Front Populaire", "niveau": "developpe", "type": "média producteur", "horodatages": ["00:00:37"]},
+    {"nom": "J'suis pas content TV", "niveau": "developpe", "type": "chaîne de Greg Tabibian", "horodatages": ["00:00:51"]},
+    {"nom": "La France insoumise", "niveau": "developpe", "type": "mouvement politique", "horodatages": ["00:11:21", "00:27:03", "00:41:30"]},
+    {"nom": "Rassemblement national", "niveau": "developpe", "type": "parti politique", "horodatages": ["00:11:07", "00:14:41"]},
+    {"nom": "Nouveau Front populaire", "niveau": "mention", "type": "coalition politique", "horodatages": ["00:11:05"]},
+    {"nom": "CRS", "niveau": "mention", "type": "forces de maintien de l'ordre", "horodatages": ["00:23:09"]}
+  ],
+  "concepts": [
+    {"concept": "stratégie du retour à l'ordre", "description": "hypothèse selon laquelle le désordre serait laissé s'aggraver avant une reprise en main électoralement utile", "horodatages": ["00:00:22"]},
+    {"concept": "hubris du pouvoir", "description": "centralisation et perte de perception attribuées à l'exécutif", "horodatages": ["00:04:55"]},
+    {"concept": "doctrine de maintien de l'ordre incohérente", "description": "alternance alléguée de passivité et de force disproportionnée", "horodatages": ["00:04:34", "00:39:01"]},
+    {"concept": "continuum de la contestation à la prédation", "description": "quatre catégories distinguant familles, militants, black blocs et pillards", "horodatages": ["00:22:44", "00:23:01"]},
+    {"concept": "obsolescence du modèle travail-salaire", "description": "transformation anticipée sous l'effet de l'IA", "horodatages": ["00:18:07"]},
+    {"concept": "avant-garde intellectuelle", "description": "élites capables de formuler sans commander le mouvement", "horodatages": ["00:41:02"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Manifestations et émeutes du 17 octobre 2026", "niveau": "developpe", "horodatages": ["00:00:37", "00:22:03"]},
+    {"nom": "Mouvement des Gilets jaunes de 2018", "niveau": "developpe", "horodatages": ["00:01:13", "00:32:41"]},
+    {"nom": "Dissolution et séquence du Nouveau Front populaire", "niveau": "mention", "horodatages": ["00:11:01"]},
+    {"nom": "Mai 68", "niveau": "mention", "horodatages": ["00:32:16"]},
+    {"nom": "Mouvement contre le CPE", "niveau": "mention", "horodatages": ["00:32:19"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:00", "fin": "00:04:21", "contenu": "bilan de Macron et anticipation de la crise"},
+    {"debut": "00:04:22", "fin": "00:11:56", "contenu": "hubris, maintien de l'ordre et allocution présidentielle"},
+    {"debut": "00:11:57", "fin": "00:14:12", "contenu": "rire et satire politique"},
+    {"debut": "00:14:13", "fin": "00:22:13", "contenu": "économie, dette, IA et avenir du travail"},
+    {"debut": "00:22:14", "fin": "00:27:31", "contenu": "témoignage de terrain et quatre profils dans la rue"},
+    {"debut": "00:27:32", "fin": "00:32:04", "contenu": "réactions politiques et vocabulaire des pillages"},
+    {"debut": "00:32:05", "fin": "00:36:40", "contenu": "comparaisons historiques et Gilets jaunes"},
+    {"debut": "00:36:41", "fin": "00:39:30", "contenu": "maintien de l'ordre et passivité des autorités"},
+    {"debut": "00:39:31", "fin": "00:43:51", "contenu": "rôle des élites et limites de LFI"}
+  ],
+  "expressions_representatives": [
+    {"expression": "laisser la situation s'envenimer avant de rétablir l'ordre", "horodatages": ["00:00:22"]},
+    {"expression": "le pire de la gauche et de la droite", "horodatages": ["00:01:42"]},
+    {"expression": "deux mouvements superposés : manifestations et émeutes", "horodatages": ["00:22:21"]},
+    {"expression": "une avant-garde intellectuelle sans récupération politique", "horodatages": ["00:41:02"]}
+  ],
+  "citations_exactes": [
+    {"citation": "Le ni gauche ni droite est devenu le pire de la gauche et de la droite.", "horodatage": "00:01:42"},
+    {"citation": "Il y a eu des émeutes et il y a eu des manifestations.", "horodatage": "00:22:41"},
+    {"citation": "C'est une faute historique majeure.", "horodatage": "00:27:41"},
+    {"citation": "Je préfère voir des intellectuels que des politiciens dans ces mouvements.", "horodatage": "00:41:22"}
+  ],
+  "arguments_positions": [
+    {"auteur": "Greg Tabibian", "position": "Macron laisserait la crise s'aggraver pour préparer un retour à l'ordre lié au calendrier électoral.", "horodatages": ["00:00:22"]},
+    {"auteur": "Greg Tabibian", "position": "Les pillards doivent être distingués des manifestants et militants, sans nier leur violence.", "horodatages": ["00:22:41", "00:23:44"]},
+    {"auteur": "Greg Tabibian", "position": "Refuser les mots saccage et pillage nuit électoralement à Mélenchon.", "horodatages": ["00:27:03", "00:27:41"]},
+    {"auteur": "Greg Tabibian", "position": "Un mouvement a besoin d'élites intellectuelles pour formuler ses demandes, mais pas de dirigeants politiques qui les lui imposent.", "horodatages": ["00:39:54", "00:41:13"]},
+    {"auteur": "Greg Tabibian", "position": "La présence d'élus LFI ne prouve pas que le parti a organisé les manifestations.", "horodatages": ["00:41:41"]}
+  ],
+  "lieux_periodes": [
+    {"lieu_ou_periode": "France, octobre 2026", "description": "crise politique, manifestations et émeutes"},
+    {"lieu_ou_periode": "France, 2018 et 2026", "description": "comparaison des mouvements de Gilets jaunes", "horodatages": ["00:01:13"]},
+    {"lieu_ou_periode": "dix années à venir", "description": "anticipation des transformations du travail liées à l'IA", "horodatages": ["00:18:07"]}
+  ],
+  "relations_documentaires": [
+    {"source": "observations de terrain de Greg Tabibian", "relation": "fondent", "cible": "typologie des quatre profils"},
+    {"source": "images de pillages", "relation": "éclipsent", "cible": "revendications sociales pacifiques"},
+    {"source": "réponse policière variable", "relation": "alimente", "cible": "hypothèse d'une doctrine incohérente"},
+    {"source": "présence d'élus LFI", "relation": "ne prouve pas", "cible": "organisation du mouvement par LFI"}
+  ]
+}

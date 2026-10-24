@@ -6,95 +6,78 @@
 
 ## A. Demande initiale
 
-L'utilisateur a fourni l'URL `https://youtu.be/EeU3UpJazzY?si=qGKB5bTucLBPXQxg`.
+L'utilisateur a fourni l'URL `https://youtu.be/GGsPpRo2m3A?si=k6bJauSr7JDkW7-W`.
 
-Selon la méthode permanente de `AGENTS.md`, cette demande a été traitée comme un archivage documentaire complet : récupération des métadonnées et de l'audio, transcription Whisper intégrale, correction contextuelle, synthèse approfondie, index sémantique, contrôle qualité et vérification finale.
+En application de `AGENTS.md`, cette URL a déclenché le processus documentaire complet : métadonnées, audio, transcription Whisper, correction contextuelle, synthèse approfondie, index sémantique, contrôle qualité et vérification finale.
 
 ## B. État initial
 
-- Aucune archive portant l'identifiant YouTube `EeU3UpJazzY` n'existait dans la bibliothèque.
-- Le pipeline Prométhé et l'environnement virtuel étaient opérationnels.
-- Le modèle existant `medium` sur CUDA a été conservé.
-- Aucun changement de code, d'architecture ou de dépendance n'était nécessaire.
-- Le dernier rapport historique portait le numéro `0015`.
+- Aucune archive `GGsPpRo2m3A` n'existait dans la bibliothèque.
+- Le CLI Prométhé, CUDA et le modèle Whisper `medium` étaient disponibles.
+- Aucun changement de code, d'architecture, de dépendance ou de modèle n'était requis.
+- Le dernier rapport historique portait le numéro `0016`.
 
 ## C. Travail effectué
 
 ### 1. Pipeline automatique
 
-La commande suivante a été lancée depuis `C:\Prométhé` :
+Commande exécutée depuis `C:\Prométhé` :
 
 ```powershell
-.\.venv\Scripts\promethe.exe reprendre "https://youtu.be/EeU3UpJazzY?si=qGKB5bTucLBPXQxg"
+.\.venv\Scripts\promethe.exe reprendre "https://youtu.be/GGsPpRo2m3A?si=k6bJauSr7JDkW7-W"
 ```
 
-La commande `reprendre` a constaté l'absence d'archive antérieure et a créé :
+L'absence d'archive antérieure a conduit à la création du répertoire :
 
-`archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/`
+`archives/Front_Populaire/2026/2026-10-23_GGsPpRo2m3A/`
 
-Le pipeline a récupéré les métadonnées, téléchargé l'audio WebM et produit la transcription brute horodatée ainsi que les segments JSON. La tentative YouTube normale a réussi ; le repli Firefox n'a pas été requis. `yt-dlp` a émis un avertissement non bloquant relatif à l'absence de runtime JavaScript détecté.
+Le pipeline a récupéré les métadonnées, téléchargé l'audio WebM et produit avec Whisper `medium` sur CUDA la transcription brute horodatée et les segments JSON. L'accès YouTube normal a réussi ; le repli Firefox n'a pas été utilisé. L'avertissement `yt-dlp` relatif au runtime JavaScript était non bloquant.
 
 ### 2. Correction contextuelle
 
-Commandes utilisées :
-
 ```powershell
-promethe exporter-correction EeU3UpJazzY
-promethe corriger-transcription EeU3UpJazzY --importer archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/travail/reponses/reponse_correction.txt
+promethe exporter-correction GGsPpRo2m3A
+promethe corriger-transcription GGsPpRo2m3A --importer archives/Front_Populaire/2026/2026-10-23_GGsPpRo2m3A/travail/reponses/reponse_correction.txt
 ```
 
-- `transcription_brute.txt` n'a pas été modifié.
-- Les horodatages, le nombre de segments et leur ordre ont été strictement préservés.
-- La correction prudente a notamment normalisé les noms Manuel Cervera-Marzal, François Boulo, Jean-Luc Mélenchon, La France insoumise et Hors-Série lorsqu'ils étaient manifestement mal reconnus.
-- Aucun passage n'a été résumé ou réécrit dans la transcription corrigée.
+- `transcription_brute.txt` est resté intact.
+- Le nombre, l'ordre et les horodatages des segments ont été préservés.
+- Les noms manifestement mal reconnus ont été normalisés avec prudence, notamment Greg Tabibian, Emmanuel Macron, La France insoumise et Gilets jaunes.
+- Aucune réécriture ou synthèse n'a été introduite dans la transcription corrigée.
 
 ### 3. Synthèse approfondie
 
-Commandes utilisées :
-
 ```powershell
-promethe exporter-synthese EeU3UpJazzY
-promethe regenerer-synthese EeU3UpJazzY --importer archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/travail/reponses/reponse_synthese.md
+promethe exporter-synthese GGsPpRo2m3A
+promethe regenerer-synthese GGsPpRo2m3A --importer archives/Front_Populaire/2026/2026-10-23_GGsPpRo2m3A/travail/reponses/reponse_synthese.md
 ```
 
-La synthèse couvre :
+La synthèse couvre le bilan politique attribué à Macron, l'hypothèse d'une stratégie du retour à l'ordre, l'allocution présidentielle, l'humour politique, la dette et l'IA, le témoignage de terrain du 17 octobre, les quatre profils distingués dans la rue, les réactions de LFI, les comparaisons historiques, le maintien de l'ordre et le rôle des élites intellectuelles.
 
-- la progression électorale de Mélenchon jusqu'en 2022 ;
-- le renforcement programmatique, militant, parlementaire et financier de LFI ;
-- l'usure et la dispersion du bloc central après le macronisme ;
-- le rôle du vote utile ;
-- les incertitudes liées aux sondages et à un éventuel outsider ;
-- les atouts et faiblesses de Dominique de Villepin ;
-- la différence entre une voie crédible vers le second tour et une victoire finale, beaucoup moins développée dans l'extrait.
-
-Les chiffres et jugements sont attribués aux intervenants et ne sont pas présentés comme un fact-checking externe.
+Les intentions prêtées au président, les responsabilités policières et la typologie des manifestants sont explicitement présentées comme analyses ou observations de Greg Tabibian, sans fact-checking externe.
 
 ### 4. Index sémantique
 
-Commandes utilisées :
-
 ```powershell
-promethe exporter-index EeU3UpJazzY
-promethe regenerer-index EeU3UpJazzY --importer archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/travail/reponses/reponse_indexation.json
+promethe exporter-index GGsPpRo2m3A
+promethe regenerer-index GGsPpRo2m3A --importer archives/Front_Populaire/2026/2026-10-23_GGsPpRo2m3A/travail/reponses/reponse_indexation.json
 ```
 
-L'index au schéma `1.1` documente les thèmes principaux et secondaires, les personnes, organismes, concepts, événements, variantes lexicales, mots-clés, citations, positions, repères temporels et relations documentaires. Il rend notamment découvrables le vote utile, l'effet d'entonnoir partisan, l'implantation militante, le CPE, le sondage Odoxa, la fragmentation du centre et la candidature Villepin.
+L'index `1.1` couvre thèmes, sujets secondaires, personnes, organismes, concepts, événements, variantes lexicales, mots-clés, repères temporels, expressions, citations, arguments et relations documentaires. Les sujets secondaires découvrables comprennent l'avenir du travail, le revenu universel, les black blocs, Mai 68, le CPE, les Gilets jaunes, la doctrine policière et l'accusation d'organisation du mouvement par LFI.
 
 ### 5. Contrôle qualité et vérification
 
-Commandes utilisées :
-
 ```powershell
-promethe exporter-controle EeU3UpJazzY
-promethe relire-synthese EeU3UpJazzY --importer archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/travail/reponses/reponse_controle_qualite.json
-promethe verifier EeU3UpJazzY
+promethe exporter-controle GGsPpRo2m3A
+promethe relire-synthese GGsPpRo2m3A --importer archives/Front_Populaire/2026/2026-10-23_GGsPpRo2m3A/travail/reponses/reponse_controle_qualite.json
+promethe verifier GGsPpRo2m3A
 ```
 
-Le contrôle interne a comparé la synthèse à la transcription corrigée et à l'index. Verdict : `conforme`, aucun problème confirmé et aucune réécriture supplémentaire nécessaire.
+Le contrôle interne a comparé synthèse, index et transcription corrigée. Verdict : `conforme`, sans problème confirmé ni réécriture supplémentaire.
 
 ### 6. Fichiers créés
 
-Dans `archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/` :
+Dans `archives/Front_Populaire/2026/2026-10-23_GGsPpRo2m3A/` :
 
 - `metadata.json`
 - `audio.webm`
@@ -106,51 +89,51 @@ Dans `archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/` :
 - `rapport_controle_qualite.md`
 - `etat_pipeline.json`
 
-Les requêtes et réponses de travail ont été conservées dans `travail/requetes/` et `travail/reponses/`. Les répertoires `travail/candidates/` et `historique/anciennes_versions/` sont présents. Aucun fichier n'a été déplacé ou supprimé, hormis le remplacement réglementaire du contenu du rapport courant par celui de cette intervention.
+Les requêtes et réponses sont conservées sous `travail/requetes/` et `travail/reponses/`. Les répertoires `travail/candidates/` et `historique/anciennes_versions/` sont présents.
 
-### 7. Décisions d'architecture et commandes utilisateur
+### 7. Architecture, déplacements et suppressions
 
+- Aucun code source, test, réglage ou dépendance n'a été modifié.
+- Aucun fichier d'archive n'a été déplacé ou supprimé.
 - Aucun fichier concurrent suffixé `V2`, `copie`, `nouveau` ou `backup` n'a été créé.
-- Aucun code source, test, dépendance ou réglage du modèle n'a été modifié.
-- La commande utilisateur touchée est uniquement le traitement/reprise de l'URL par le CLI Prométhé et les commandes documentaires d'échange listées ci-dessus.
+- Le rapport courant précédent a été remplacé conformément à la consigne permanente ; son exemplaire historique `0016` demeure intact.
 
 ## D. Résultats
 
-### Vidéo archivée
+### Vidéo
 
-- Identifiant : `EeU3UpJazzY`
-- Titre : *« Mélenchon peut-il gagner en 2027 ? » avec Manuel Cervera-Marzal et François Boulo*
-- Chaîne : QG TV
-- Date de publication : 2026-05-11
-- Durée : 888 secondes, soit 14 min 48 s
-- Métadonnées : complètes, `metadata.json` (2 192 octets)
-- Audio : complet, `audio.webm` (12 850 355 octets)
-- Segments : complets, `segments.json` (46 031 octets)
-- Transcription brute : complète, 22 639 octets
-- Transcription corrigée : complète, 22 639 octets
-- Synthèse : complète, 8 066 octets
-- Index : complet, 13 078 octets
+- Identifiant : `GGsPpRo2m3A`
+- Titre : *Greg Tabibian : « Emmanuel Macron laisse la situation s'envenimer »*
+- Chaîne : Front Populaire
+- Publication : 2026-10-23
+- Durée : 2 631 secondes, soit 43 min 51 s
+- Métadonnées : complètes, 2 552 octets
+- Audio : complet, 43 849 458 octets
+- Segments : complets, 190 097 octets
+- Transcription brute : complète, 72 829 octets
+- Transcription corrigée : complète, 72 829 octets
+- Synthèse : complète, 11 251 octets
+- Index : complet, 13 490 octets
 - Contrôle qualité : complet, verdict `conforme`
-- État du pipeline : toutes les étapes validées
 
 ### Vérification finale
 
-`promethe verifier EeU3UpJazzY` a retourné :
+`promethe verifier GGsPpRo2m3A` a retourné :
 
 - `complete: true`
 - `audio: true`
 - `validated_steps: true`
-- les huit fichiers obligatoires présents ;
-- les quatre éléments de structure (`travail/requetes`, `travail/reponses`, `travail/candidates`, `historique/anciennes_versions`) présents.
+- tous les fichiers obligatoires présents ;
+- `travail/requetes`, `travail/reponses`, `travail/candidates` et `historique/anciennes_versions` présents.
 
 ### Limites restantes
 
-- Des erreurs lexicales ponctuelles non manifestes peuvent subsister dans une transcription automatique ; aucune correction spéculative n'a été introduite.
-- Les chiffres politiques et sondages cités sont archivés comme propos de la vidéo, sans vérification externe.
-- L'extrait développe surtout la qualification au second tour ; la victoire finale annoncée dans la thèse est moins argumentée.
-- L'avertissement `yt-dlp` relatif au runtime JavaScript n'a eu aucun impact sur ce téléchargement.
+- La vidéo date de la veille de l'intervention et commente une situation encore évolutive.
+- Plusieurs affirmations sont des hypothèses politiques ou des observations personnelles, non des faits vérifiés extérieurement.
+- Une incertitude acoustique subsiste autour du nom d'un responsable du maintien de l'ordre vers 00:39:04 ; elle est signalée prudemment dans les documents dérivés.
+- Des erreurs lexicales mineures non manifestes peuvent subsister dans la transcription automatique.
 - Aucune limite ne bloque l'usage documentaire : l'archive est complète.
 
 ## E. Clôture et intégrité
 
-Après finalisation de ce rapport, il doit être copié sous `rapports/0016_2026-10-24_115058_RAPPORT_INTERVENTION.md`. Les SHA-256 du rapport courant et de cette copie doivent ensuite être calculés et vérifiés strictement identiques, sans modification ultérieure des deux fichiers.
+Après finalisation de ce rapport, il doit être copié sous `rapports/0017_2026-10-24_134813_RAPPORT_INTERVENTION.md`. Les SHA-256 du rapport courant et de la copie historique doivent ensuite être calculés et vérifiés strictement identiques, sans modification ultérieure.
