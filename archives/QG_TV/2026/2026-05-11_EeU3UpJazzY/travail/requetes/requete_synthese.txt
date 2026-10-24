@@ -1,0 +1,193 @@
+Rédige une synthèse documentaire exhaustive en Markdown à partir des seules sources ci-dessous.
+Ne vérifie pas les affirmations à l'extérieur et ne les transforme pas en faits établis. Distingue explicitement les propos de l'auteur, les personnes ou documents cités, les hypothèses et les incertitudes. N'invente rien.
+
+Le document doit contenir le titre, l'auteur ou la chaîne, la date et l'URL, puis l'objet général et la thèse, des chapitres et sous-chapitres, tous les arguments importants, exemples, chiffres et liens logiques, et une conclusion fidèle. Ajoute des horodatages cliquables vers la vidéo. Toute citation entre guillemets doit être exactement vérifiable dans la transcription. Utilise l'index comme contrôle de couverture, sans recopier mécaniquement ses listes. La synthèse doit rester détaillée même pour une vidéo longue et dense.
+
+MÉTADONNÉES :
+{
+  "schema_version": "1.0",
+  "id": "EeU3UpJazzY",
+  "title": "« Mélenchon peut-il gagner en 2027 ? » avec Manuel Cervera-Marzal et François Boulo",
+  "channel": "QG TV",
+  "channel_id": "UCCDPdHuBGfjMxlM3xZANgGQ",
+  "upload_date": "20260511",
+  "duration_seconds": 888,
+  "webpage_url": "https://www.youtube.com/watch?v=EeU3UpJazzY",
+  "description": "Pour voir l'émission en entier 👉 https://qg.media/emission/melenchon-peut-il-gagner-en-2027-avec-manuel-cervera-marzal-et-francois-boulo/ Au terme de deux articles récemment publiés sur le site Hors-Série, Manuel Cervera Marzal, sociologue, auteur en 2021 d’une étude intitulée « le Populisme de gauche : sociologie de la France insoumise », défend une hypothèse pour le moins audacieuse : la victoire de Mélenchon en 2027. Cette vision va à l’encontre du discours des médias dominants, qui le présentent comme rejeté par une grande majorité du pays. Cette construction médiatique et sondagière est-elle conforme à la réalité du pays ? Ces dernières années, les instituts de sondage ont montré leurs limites. Dans un contexte de grande volatilité lié notamment à la perte de confiance dans les institutions, il est de plus en plus difficile d’anticiper les résultats d’un scrutin national. Dès lors, les déclarations de toute une classe politique et médiatique constituent-elles vraiment d’honnêtes prédictions, ou participent-elles plutôt d’une stratégie pour empêcher la gauche de rupture d’accéder au pouvoir ? QG a donné la parole à l’intellectuel de 38 ans pour expliquer son point de vue.\n\n🚨Abonnez-vous à la chaîne pour ne manquer aucune de nos diffusions en accès libre !\n\n👉 Soutenez QG, notre média populaire et indépendant du CAC40 et de l'Etat, pour 1€ par mois, ici! https://qg.media/je-mabonne/\n\n👉 Découvrez toutes les éditions de Quoi qu'il en coûte ! ici https://www.youtube.com/playlist?list=PLr4tNgKxYM6exVCdFf2rDmVFIeCovgWCt\n\nTwitter https://twitter.com/LibreQg\nFacebook https://www.facebook.com/quartiergeneralmedia\nInstagram https://www.instagram.com/qglemedialibre\nTelegram https://t.me/qglemedialibre",
+  "language": "fr"
+}
+
+INDEX DOCUMENTAIRE :
+(index absent)
+
+TRANSCRIPTION CORRIGÉE :
+[00:00:21.780 --> 00:00:24.220] Bonjour et bienvenue sur l'antenne de QG.
+[00:00:24.220 --> 00:00:27.660] Jean-Luc Mélenchon va gagner l'élection présidentielle en 2027.
+[00:00:27.660 --> 00:00:31.660] C'est en tout cas la thèse que soutient le sociologue Manuel Cervera-Marzal, auteur
+[00:00:31.660 --> 00:00:35.940] en 2021 d'une étude sur le populisme de gauche, sociologie de La France insoumise.
+[00:00:35.940 --> 00:00:40.220] Au terme de deux articles récemment publiés sur le site d'Orsiri, il défend une hypothèse
+[00:00:40.220 --> 00:00:42.300] audacieuse mais soutenue par de nombreux arguments.
+[00:00:42.300 --> 00:00:44.060] Et pour lui, la conclusion est claire.
+[00:00:44.060 --> 00:00:47.380] La victoire du leader insoumis est aujourd'hui le scénario le plus probable.
+[00:00:47.380 --> 00:00:51.580] Cette vision va bien sûr totalement à l'encontre du discours des médias dominants,
+[00:00:51.580 --> 00:00:56.220] qui présente Jean-Luc Mélenchon comme dépassé et surtout rejeté par une grande majorité du pays.
+[00:00:56.220 --> 00:01:01.820] Selon un sondage réalisé par Odoxa en novembre 2025, il serait battu à plate couture au second tour
+[00:01:01.820 --> 00:01:08.380] face à Jordan Bardella, avec seulement 26% des voix contre 74% pour le représentant du Rassemblement national.
+[00:01:08.380 --> 00:01:11.700] Bref, Mélenchon n'aurait strictement aucune chance.
+[00:01:11.700 --> 00:01:15.620] Mais cette construction médiatique et sondagière est-elle conforme à la réalité ?
+[00:01:15.620 --> 00:01:18.740] Ces dernières années, les instituts de sondage ont montré leurs limites.
+[00:01:18.780 --> 00:01:23.540] Dans un contexte de grande volatilité, et notamment à la perte de confiance dans les institutions,
+[00:01:23.540 --> 00:01:27.420] il est de plus en plus difficile d'anticiper les résultats d'un scrutin national.
+[00:01:27.420 --> 00:01:32.660] Faut-il encore ajouter que Jean-Luc Mélenchon apparaît plus que jamais comme le premier adversaire de l'ordre rétabli.
+[00:01:32.660 --> 00:01:36.060] Des grandes fortunes qu'il veut taxer, des médias qu'il veut démocratiser
+[00:01:36.060 --> 00:01:39.740] et des forces de l'ordre qu'il veut désarmer autant que possible.
+[00:01:39.740 --> 00:01:42.860] Dès lors, les déclarations de toute une classe politique et médiatique
+[00:01:42.860 --> 00:01:47.620] constituent-elles vraiment d'honnêtes prédictions ou révèlent-elles plutôt leurs véritables intentions ?
+[00:01:47.620 --> 00:01:50.460] Empêcher Jean-Luc Mélenchon d'accéder au pouvoir.
+[00:01:50.460 --> 00:01:52.820] C'est ce dont nous allons discuter aujourd'hui.
+[00:01:52.820 --> 00:01:54.660] Manuel Cervera Mazal, bonjour.
+[00:01:54.660 --> 00:01:55.420] Bonjour.
+[00:01:55.420 --> 00:01:57.500] Alors ma première question, elle est très simple.
+[00:01:57.500 --> 00:01:59.860] Pour que Jean-Luc Mélenchon gagne l'élection présidentielle,
+[00:01:59.860 --> 00:02:02.420] il y a déjà une première étape, c'est de passer le premier tour.
+[00:02:02.420 --> 00:02:05.780] Qu'est-ce qui vous rend si confiant sur le fait que le leader insoumis
+[00:02:05.780 --> 00:02:08.020] va passer effectivement le premier tour des présidentielles ?
+[00:02:08.020 --> 00:02:12.740] Bah aujourd'hui, je pense qu'il a un boulevard, très clairement, et ceci pour plusieurs raisons.
+[00:02:12.740 --> 00:02:16.900] D'abord, si on prend un petit peu de recul historique, puisque c'est la quatrième fois quand même, a priori,
+[00:02:17.540 --> 00:02:19.540] que Mélenchon se présentera à la présidentielle.
+[00:02:19.540 --> 00:02:23.580] Effectivement, les trois fois précédentes, il a échoué à franchir cette étape.
+[00:02:23.580 --> 00:02:28.100] Mais on remarque qu'il a systématiquement progressé au point qu'en 2022,
+[00:02:28.100 --> 00:02:32.900] il faut quand même se souvenir que ça s'est joué à 400 000 voix, en fait, le second tour.
+[00:02:32.900 --> 00:02:34.660] Ça s'est joué à 400 000 voix.
+[00:02:34.660 --> 00:02:39.060] Dans le même temps, Fabien Roussel, candidat du Parti communiste, réunissait 800 000 voix.
+[00:02:39.060 --> 00:02:43.100] Donc c'est vraiment quelque chose qui s'est joué à un cheveu.
+[00:02:43.140 --> 00:02:49.580] Aujourd'hui, moi, il y a plusieurs éléments qui me font penser que le second tour est facilement accessible pour lui.
+[00:02:49.580 --> 00:02:51.580] Le premier, c'est la situation à gauche.
+[00:02:51.580 --> 00:02:58.700] Je pense que Jean-Luc Mélenchon a pas une, pas deux, mais cinq ou dix longueurs d'avance sur ses rivaux à gauche,
+[00:02:58.700 --> 00:03:00.140] pour plusieurs raisons.
+[00:03:00.140 --> 00:03:06.380] D'abord, je l'ai dit, il y a le passif du candidat qui a réussi en 2017 et encore plus en 2022 à s'approcher vraiment de ce second tour.
+[00:03:06.380 --> 00:03:09.820] Il y a le fait que par rapport à 2022 où c'était passé à un cheveu,
+[00:03:10.220 --> 00:03:16.940] La France insoumise, qui est son véhicule de campagne, s'est considérablement renforcée à plusieurs égards.
+[00:03:16.940 --> 00:03:23.180] D'abord au niveau du programme qui était déjà très travaillé, très précisé, fruit d'un long processus.
+[00:03:23.180 --> 00:03:28.700] Il y a un peu tout le monde à gauche, en réalité, qui envie à La France insoumise le travail programmatique qui a été fait,
+[00:03:28.700 --> 00:03:30.540] qui reconnaît le sérieux de ce travail.
+[00:03:30.540 --> 00:03:35.700] Donc voilà, on est face à un candidat qui propose des choses, c'est cohérent, c'est précis, c'est détaillé.
+[00:03:35.700 --> 00:03:38.820] Sur ce point-là, je pense qu'il a une certaine avance.
+[00:03:38.820 --> 00:03:43.700] Il a une avance aussi tout simplement au niveau de l'appareil militant qu'il a réussi à construire.
+[00:03:43.700 --> 00:03:49.700] Désormais, la plupart des partis traditionnels de gauche, mais que ce soient les socialistes comme les communistes et même les écologistes,
+[00:03:49.700 --> 00:03:57.060] ce sont des partis qui sont réduits à pot de chagrin, qui sont essentiellement ce qu'en sciences politiques on qualifie de partis de professionnels ou de partis d'élus.
+[00:03:57.060 --> 00:04:04.140] En fait, il y a quasiment, quand vous regardez le nombre d'adhérents dans ces partis, c'est quasiment tous des élus ou des professionnels de la politique
+[00:04:04.140 --> 00:04:08.260] qui sont pas des élus mais qui dépendent des élus, ils sont salariés du parti, auxiliaires politiques,
+[00:04:08.260 --> 00:04:12.740] ils travaillent dans les administrations, bref, ils dépendent en fait des subsides à la France insoumise.
+[00:04:12.740 --> 00:04:20.340] Ils ont réussi à construire un mouvement, bon moi je pense que c'est un parti parce qu'ils se présentent aux élections, mais tout ça c'est des querelles sémantiques.
+[00:04:20.340 --> 00:04:28.500] Ils ont réussi à construire une organisation, disons, qui, alors sur le papier, regroupes, ça dépend des moments, mais 400 à 500, 550 000 adhérents.
+[00:04:28.500 --> 00:04:35.540] Ces adhérents, c'est pas des militants, on est bien d'accord parce qu'il suffit de faire quelques clics en ligne pour adhérer à la France insoumise.
+[00:04:35.940 --> 00:04:40.820] Moi j'ai essayé de faire des estimations assez sérieuses à travers une longue méthodologie sur laquelle je reviens pas en détail,
+[00:04:40.820 --> 00:04:47.940] mais clairement on peut estimer qu'à la précédente présidentielle, il y avait environ 40 ou 50 000 personnes qu'on rejoint les groupes d'action de la France insoumise.
+[00:04:47.940 --> 00:04:54.900] Et cette fois-ci, ce sera davantage parce que le mouvement, par rapport à il y a 5 ans, il s'est implanté, il s'est développé localement,
+[00:04:54.900 --> 00:05:02.900] on l'a bien vu lors de la séquence des municipales, il s'est implanté en faisant le choix, qui est un choix important d'implantation stratégique,
+[00:05:02.900 --> 00:05:11.380] d'acquérir des locaux, de mettre en place des boucles départementales. Pendant longtemps, Jean-Luc Mélenchon était hostile au fait de laisser s'organiser
+[00:05:11.380 --> 00:05:20.660] de manière un peu robuste et durable une organisation militante à la base parce qu'il avait peur que ça crée des contre-pouvoirs et ça le fragilise.
+[00:05:20.660 --> 00:05:27.620] Il est un peu revenu de ça et du coup, désormais, je pense qu'on a un programme et en plus on a une force de frappe militante pour le porter.
+[00:05:27.620 --> 00:05:35.380] Et dernier élément, on a des cadres tout simplement. Il y a aujourd'hui 5 fois plus de députés qui en avaient lors de la précédente présidentielle,
+[00:05:35.380 --> 00:05:42.660] 5 fois plus aussi de subsides de financement public puisque c'est un excès sur le nombre de voix que vous obtenez aux législatives.
+[00:05:42.660 --> 00:05:51.700] Donc voilà, tous ces éléments me font penser qu'à gauche, très clairement, le match est plié sur qui arrivera en tête à gauche.
+[00:05:51.700 --> 00:05:58.100] Ensuite, la question du coup, c'est finalement, puisque à peu près tout le monde est certain que Marine Le Pen ou Jordan Bardella sera au second tour,
+[00:05:58.100 --> 00:06:05.940] c'est est-ce que la candidate du RN affrontera un candidat centriste ou Jean-Luc Mélenchon. En fait, c'est ça la seule question.
+[00:06:05.940 --> 00:06:14.260] Pourquoi je pense que le centre, après 10 ans au pouvoir, l'extrême centre, on devrait dire pour être plus précis, sera absent du second tour ?
+[00:06:14.500 --> 00:06:24.020] Pour deux raisons, en fait. D'abord, jamais... Alors c'est courant qu'un président en fin de mandat ait une cote de popularité extrêmement faible.
+[00:06:24.020 --> 00:06:30.980] Mais en réalité, en général, on est à 25 %. Emmanuel Macron, aujourd'hui, il est à 11 %. Voilà, il y a une vraie...
+[00:06:30.980 --> 00:06:40.820] C'est pas juste une usure du pouvoir. La façon dont il a ravagé le pays durant ces 10 années de mandat, aujourd'hui, elle pèse non seulement sur lui en tant que personne,
+[00:06:40.820 --> 00:06:51.700] mais bien évidemment sur l'ensemble de sa famille politique. Donc ça, voilà, c'est un premier point. Je pense qu'il y a un vrai discrédit qui porte sur toute offre au centre.
+[00:06:51.700 --> 00:07:00.820] Et une usure du bloc central qu'on a vue au législatif qui est arrivée au troisième tour. Voilà, on voit l'usure du pouvoir et puis l'échec aussi de ces politiques économiques,
+[00:07:00.820 --> 00:07:06.580] de ces politiques en général, qui ont largement déçu. Et les gens, on sent qu'il y a quand même une volonté de changement.
+[00:07:06.660 --> 00:07:14.740] Alors, est-ce que ça basculera d'un côté ou de l'autre ? Mais en tout cas, les gens semblent en avoir ras-le-bol du centre... Alors, j'allais dire mou, mais qui en fait...
+[00:07:14.740 --> 00:07:27.220] Durt dans sa gestion de la société. Oui, voilà, ça, très clairement. Donc ça, c'est l'élément, je pense, le premier élément pour expliquer pourquoi le centre me paraît partir en bien mauvaise posture.
+[00:07:27.220 --> 00:07:35.140] Et le deuxième élément, en fait, tout simplement, c'est la multiplication et donc l'éparpillement des candidatures, du coup, éparpillement des voix sur cet espace central
+[00:07:35.220 --> 00:07:44.420] qui va en gros, enfin, de Raphaël Luxemann à Gérald Darmanin, en passant par Gabriel Attal, Édouard Philippe, Dominique de Villepin, on en reparlera peut-être, mais voilà.
+[00:07:44.420 --> 00:07:51.780] Enfin, il y a une... Et aussi, mais de coup, ils vont partir très nombreux, je pense, à cette présidentielle, ce qui va diviser les voix.
+[00:07:51.780 --> 00:07:59.860] Et ce qui aurait permis, ce qui leur aurait permis de se rassembler, c'est d'avoir un parti un peu fort, un parti qui soit au-dessus précisément de ses membres et au-dessus de ses aspirants,
+[00:07:59.860 --> 00:08:06.260] parce que pendant très longtemps, en fait, dans l'histoire de notre pays, c'est les partis politiques qui faisaient que de 10 candidats ou de 5 candidats,
+[00:08:06.260 --> 00:08:11.540] on arrivait à un seul à la fin parce que les partis pouvaient faire respecter une discipline partisane.
+[00:08:11.540 --> 00:08:16.660] Ils organisaient des primaires internes ou ouvertes, mais à la fin, il y avait un seul candidat.
+[00:08:16.660 --> 00:08:22.500] Et aujourd'hui, les partis sont tellement affaiblis, et c'est le cas de Renaissance, c'est le cas d'Horizon, enfin, comme de beaucoup d'autres,
+[00:08:22.500 --> 00:08:27.220] que du coup, ils n'arrivent plus tout simplement à produire cet effet d'anto-noir et à réduire l'offre.
+[00:08:27.300 --> 00:08:34.900] – Oui, du coup, effectivement, il risque d'y avoir un émiettement des candidatures du bloc central par la multiplication des candidatures,
+[00:08:34.900 --> 00:08:42.900] ce qui fait qu'on dit qu'en fait, il suffit qu'il y en ait 3, 2 ou 3 au centre, et la barre de qualification au second tour, elle pourrait être à 15 %.
+[00:08:42.900 --> 00:08:43.780] – Voilà.
+[00:08:43.780 --> 00:08:51.220] – Ceci étant, est-ce que Jean-Luc Mélenchon, il est manifestement le candidat le mieux placé à gauche ?
+[00:08:51.300 --> 00:09:01.860] – Ça, c'est indiscutable. Ceci étant, est-ce qu'il va réussir à reproduire la mécanique du vote utile, la dynamique du vote utile qu'il avait réalisée en 2022 ?
+[00:09:01.860 --> 00:09:07.060] Parce qu'en fait, en 2022, il avait véritablement siphonné les voix à gauche.
+[00:09:07.060 --> 00:09:15.380] Aroussel avait fait, ben oui, 800 000 voix, Hidalgo, elle a fait 2 %. Enfin, véritablement, il avait là pris tout le vote utile à gauche.
+[00:09:15.380 --> 00:09:18.100] Est-ce que cette fois-ci, ça va être le cas ?
+[00:09:18.180 --> 00:09:23.540] Et une autre question en parallèle, pour toujours ce premier tour, c'est l'hypothèse de l'outsider.
+[00:09:23.540 --> 00:09:31.780] Est-ce qu'il va y avoir une surprise, c'est-à-dire face au duel presque annoncé entre Mélenchon et le Rassemblement national ?
+[00:09:31.780 --> 00:09:38.100] Est-ce que les Français vont pas se dire, non, non, nous, on veut pas avoir à subir ce choix-là ?
+[00:09:38.100 --> 00:09:43.220] Quand je dis les Français, je pense notamment aux catégories plutôt âgées qui votent beaucoup,
+[00:09:43.220 --> 00:09:50.580] qui ont très peur généralement en grande partie de La France insoumise, qui aiment pas particulièrement le Rassemblement national, même si c'est un peu moins vrai,
+[00:09:50.580 --> 00:09:54.980] mais qui voudraient se dire, non, non, il nous faut encore une candidature au centre.
+[00:09:54.980 --> 00:10:02.580] Et là, je pense par exemple à Dominique de Villepin parce qu'il est le seul qui n'est pas comptable du bilan du macronisme
+[00:10:02.580 --> 00:10:09.300] et qui pourrait rassembler de par ses positions, ses prises de positions sur la géopolitique, je pense à Gaza notamment.
+[00:10:09.380 --> 00:10:13.620] Dominique de Villepin aujourd'hui, c'est un homme de droite, mais qui apparaît presque comme un homme de gauche
+[00:10:13.620 --> 00:10:22.340] parce que le paysage politique s'est tellement déplacé à droite que Dominique de Villepin, il a l'air de pouvoir faire un espèce de consensus,
+[00:10:22.340 --> 00:10:25.220] mais il n'a pas d'appareil derrière lui.
+[00:10:25.220 --> 00:10:28.340] Alors, il y a beaucoup de choses dans votre question, mais du coup, je commence par la fin.
+[00:10:28.340 --> 00:10:34.820] Dominique de Villepin, je serai Jean-Luc Mélenchon, c'est la menace que je surveillerai le plus de plus près.
+[00:10:34.820 --> 00:10:42.900] Pourquoi ? Parce que, un, mais c'est des choses que vous avez dites, il jouit actuellement à un an de la présidentielle d'une certaine popularité.
+[00:10:42.900 --> 00:10:51.140] Alors, étonnamment en fait, plutôt du côté du bord politique, enfin la gauche qui n'est pas le sien du tout, quoi.
+[00:10:51.140 --> 00:10:56.420] Notamment pour ses prises d'opposition géopolitique, ça, c'est très clair.
+[00:10:56.420 --> 00:11:01.460] Le deuxième élément en sa faveur, c'est qu'effectivement, il n'est pas comptable du macronisme,
+[00:11:01.460 --> 00:11:08.500] même s'il suffit de s'informer un petit peu pour savoir qu'en fait, il appartient lui aussi à cette grande famille de l'extrême centre.
+[00:11:08.500 --> 00:11:14.500] Mais bon, il n'en est pas directement comptable, il n'a pas été premier ministre d'Emmanuel Macron, à la différence de Philippe de Attal et de tous les autres.
+[00:11:14.500 --> 00:11:17.060] Et le troisième point, c'est quand même qu'il a la stature présidentielle.
+[00:11:17.060 --> 00:11:23.700] Il a été premier ministre, c'est l'homme du nom à la guerre en Irak en 2003, donc ça fait quand même des atouts en sa faveur.
+[00:11:24.660 --> 00:11:32.820] Plus on va s'approcher du jour du scrutin et de la date de l'échéance, plus Dominique de Villepin va devoir se positionner sur un certain nombre de choses,
+[00:11:32.820 --> 00:11:42.260] notamment sur les questions économiques et sociales, parce que les Français, vous demandiez, est-ce qu'ils vont pas vouloir déjouer le pronostic d'un second tour, barder là Mélenchon.
+[00:11:42.260 --> 00:11:51.860] En fait, les Français, ils veulent surtout pouvoir se soigner, pouvoir aller se nourrir et nourrir leurs enfants, pouvoir mettre de l'essence dans leur voiture.
+[00:11:52.020 --> 00:11:55.220] C'est surtout ça, plus que déjouer un éventuel pronostic qui les préoccupe.
+[00:11:55.220 --> 00:11:59.540] Enfin, c'est une préoccupation très matérielle sur des questions économiques et sociales.
+[00:11:59.540 --> 00:12:02.340] Dominique de Villepin, ça y est, il est candidat, c'est officiel.
+[00:12:02.340 --> 00:12:04.020] Et je sais pas si vous avez...
+[00:12:04.020 --> 00:12:12.340] Enfin, en tout cas, je vous invite, si vous le souhaitez, à regarder les conférences qu'il donne depuis désormais deux mois dans des salles, dans des amphithéâtres, etc.
+[00:12:12.340 --> 00:12:13.620] Elles sont régulièrement filmées.
+[00:12:13.620 --> 00:12:16.820] Et à chaque fois, à la fin, quand le public intervient, il y a toujours quelqu'un pour lui demander,
+[00:12:17.380 --> 00:12:24.020] « OK, merci pour Gaza, merci pour le patriotisme, merci pour les valeurs morales, merci pour le gaullisme. »
+[00:12:24.020 --> 00:12:28.980] Mais fondamentalement, monsieur Villepin, sur la retraite à 67 ans, qu'est-ce que vous dites ?
+[00:12:28.980 --> 00:12:31.620] Sur le SMIC, qu'est-ce que vous dites ?
+[00:12:31.620 --> 00:12:33.540] Sur l'attaque Zuckman, qu'est-ce que vous dites ?
+[00:12:33.540 --> 00:12:42.660] Et à chaque fois, il botte en touche et il évacue d'une façon qui ferait passer les bottages en touche du Rassemblement national pour Peanuts.
+[00:12:42.660 --> 00:12:45.860] Il est totalement inconsistant, en fait, sur le sujet.
+[00:12:45.860 --> 00:12:48.980] Encore ce matin, je le voyais sur le plateau d'Apolline de Malherbe.
+[00:12:48.980 --> 00:12:53.140] Elle lui demandait, à raison, je pense, « Êtes-vous de droite ? Êtes-vous de gauche ? »
+[00:12:53.140 --> 00:12:56.020] Sa réponse, « Je ne suis ni de droite ni de gauche, je suis de droite et de gauche. »
+[00:12:56.020 --> 00:13:00.100] Quand même, les similarités, il n'est pas directement dépendant du macronisme,
+[00:13:00.100 --> 00:13:03.940] mais je pense que son appartenance politique ne fait pas non plus grand mystère.
+[00:13:03.940 --> 00:13:08.420] Et plus on va s'approcher du but, plus les ambiguïtés, il va devoir les lever.
+[00:13:08.420 --> 00:13:13.860] Et forcément, c'est un homme de droite, ça ne fait pas l'ombre d'un doute et ça risque de lui peser.
+[00:13:13.860 --> 00:13:15.060] On se rappelle du CPE.
+[00:13:15.140 --> 00:13:16.100] On se rappelle du CPE.
+[00:13:16.100 --> 00:13:20.420] Il y a comme toute une génération aujourd'hui, qui a entre 35 et 50 ans,
+[00:13:20.420 --> 00:13:23.940] qui s'est socialisée avec le CPE.
+[00:13:23.940 --> 00:13:26.420] Le contrat qui remis à embauche, je le rappelle en une phrase pour les plus jeunes,
+[00:13:26.420 --> 00:13:30.660] mais qui visait tout simplement à précariser les conditions de travail pour les jeunes.
+[00:13:30.660 --> 00:13:33.540] L'idée, c'était d'instituer des périodes d'essai d'un ou deux ans.
+[00:13:33.540 --> 00:13:38.180] C'est-à-dire, pendant un ou deux ans, on pouvait licencier, rompre le contrat de travail sans aucun motif.
+[00:13:38.180 --> 00:13:39.540] Voilà, c'est ça.
+[00:13:39.540 --> 00:13:41.300] Et alors, sur la question du vote utile ?
+[00:13:41.300 --> 00:13:43.940] Le vote utile, alors le vote utile, vous faites bien d'en parler.
+[00:13:43.940 --> 00:13:46.500] C'est une constante des démocraties occidentales.
+[00:13:46.500 --> 00:13:47.860] Enfin, ce n'est pas une constante, pardon.
+[00:13:47.860 --> 00:13:50.900] C'est quelque chose qui a l'écrétien de cette logique du vote utile,
+[00:13:50.900 --> 00:13:56.180] qui consiste à voter pas forcément pour le candidat qui a notre préférence dans l'absolu,
+[00:13:56.180 --> 00:14:01.220] mais plutôt pour celui qui nous paraît le plus à même d'accéder au second tour ou éventuellement de l'emporter.
+[00:14:01.220 --> 00:14:07.620] Effectivement, c'est une logique, cette espèce de rationalité instrumentale dans l'acte, le comportement électoral.
+[00:14:07.620 --> 00:14:09.540] C'est quelque chose qui se développe de plus en plus.
+[00:14:09.540 --> 00:14:12.340] Et d'ailleurs, c'est transidéologique.
+[00:14:12.420 --> 00:14:16.580] On retrouve cette logique du vote utile de manière très prignante à droite, à gauche, comme au centre.
+[00:14:16.580 --> 00:14:22.260] Elle a joué à plein à gauche en 2022 en faveur de Jean-Luc Mélenchon.
+[00:14:22.260 --> 00:14:27.940] Elle avait déjà joué en 2017, puisqu'on se souvient des courbes de Benoît Hamon et Jean-Luc Mélenchon,
+[00:14:27.940 --> 00:14:32.500] qui sur les deux derniers mois avaient fait un espèce de... C'était des vases communicants.
+[00:14:32.500 --> 00:14:35.700] Donc cette logique, elle existe, elle est là.
+[00:14:35.780 --> 00:14:42.660] Elle profitera à celui dont les électeurs verront qu'il est celui qui a la dynamique et la faveur.
+[00:14:42.660 --> 00:14:45.780] Et de fait, comme je le disais au départ, je pense que c'est Jean-Luc Mélenchon
+[00:14:45.780 --> 00:14:48.340] qui dès aujourd'hui apparaît comme le vote utile à gauche.

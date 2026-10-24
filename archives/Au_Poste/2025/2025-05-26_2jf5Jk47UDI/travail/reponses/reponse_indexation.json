@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.1",
+  "video_id": "2jf5Jk47UDI",
+  "resume_general": "Entretien contradictoire de David Dufresne avec Charlotte Bélaïch et Olivier Pérou sur leur enquête La Meute. Les auteurs détaillent leurs 200 témoignages et leur thèse d'un pouvoir personnalisé et disciplinaire à LFI ; l'animateur interroge l'anonymat, le caractère à charge et l'absence de contrepoint. L'échange traite aussi des VSS, de l'affaire Quatennens, de l'argent, de l'autoentrepreneuriat et de l'instrumentalisation médiatique du livre.",
+  "themes_principaux": [
+    {"theme": "Méthode et sources de l'enquête La Meute", "horodatages": ["00:01:03", "00:06:02", "00:18:00"]},
+    {"theme": "Personnalisation de LFI autour de Mélenchon", "horodatages": ["00:04:00", "00:13:01", "00:56:06"]},
+    {"theme": "Débat sur le caractère à charge du livre", "horodatages": ["00:28:00", "00:35:00", "01:10:00"]},
+    {"theme": "Violences sexistes et sexuelles et affaire Quatennens", "horodatages": ["00:09:24", "00:43:08", "00:56:00"]},
+    {"theme": "Contradictions entre programme et pratiques", "horodatages": ["00:50:01"]}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Origine du titre et expression chasser en meute", "horodatages": ["00:03:00"]},
+    {"sujet": "Protection et limites des sources anonymes", "horodatages": ["00:18:00"]},
+    {"sujet": "Usage sélectif des sondages", "horodatages": ["00:21:01"]},
+    {"sujet": "Autoentrepreneuriat dans les campagnes", "horodatages": ["00:50:01"]},
+    {"sujet": "Réaction des cadres et recherche des sources internes", "horodatages": ["00:56:00"]},
+    {"sujet": "Instrumentalisation politique et médiatique du livre", "horodatages": ["01:01:01"]},
+    {"sujet": "Débriefing de l'entretien", "horodatages": ["01:10:00", "01:20:01"]}
+  ],
+  "mots_cles": ["La Meute", "La France insoumise", "LFI", "Jean-Luc Mélenchon", "Charlotte Bélaïch", "Olivier Pérou", "David Dufresne", "sectarisme", "sources anonymes", "violence politique", "VSS", "Adrien Quatennens", "autoentrepreneuriat", "enquête à charge", "instrumentalisation médiatique"],
+  "variantes_lexicales": [
+    {"forme": "La France insoumise", "variantes": ["LFI", "France insoumise", "les insoumis"]},
+    {"forme": "violences sexistes et sexuelles", "variantes": ["VSS"]},
+    {"forme": "Adrien Quatennens", "variantes_transcription": ["Katnass"]}
+  ],
+  "personnes": [
+    {"nom": "Charlotte Bélaïch", "niveau": "developpe", "role": "coautrice invitée", "horodatages": ["00:01:03", "00:06:02"]},
+    {"nom": "Olivier Pérou", "niveau": "developpe", "role": "coauteur invité", "horodatages": ["00:01:03", "00:35:00"]},
+    {"nom": "David Dufresne", "niveau": "developpe", "role": "animateur et contradicteur", "horodatages": ["00:18:00", "00:28:00", "01:10:00"]},
+    {"nom": "Jean-Luc Mélenchon", "niveau": "developpe", "role": "fondateur de LFI et objet central de l'enquête", "horodatages": ["00:04:00", "00:13:01", "00:50:01"]},
+    {"nom": "Adrien Quatennens", "niveau": "developpe", "role": "son affaire est présentée comme point de départ de l'enquête", "horodatages": ["00:09:33", "00:43:08"]},
+    {"nom": "Manuel Bompard", "niveau": "developpe", "role": "cadre LFI évoqué dans la gestion politique et des sondages", "horodatages": ["00:21:29"]},
+    {"nom": "Sophia Chikirou", "niveau": "developpe", "role": "responsable évoquée dans les pratiques internes et financières", "horodatages": ["00:56:51"]},
+    {"nom": "Éric Coquerel", "niveau": "developpe", "role": "responsable évoqué dans le traitement différencié des accusations", "horodatages": ["00:56:51"]},
+    {"nom": "Mathilde Panot", "niveau": "developpe", "role": "responsable évoquée dans les réponses de LFI", "horodatages": ["00:56:51"]},
+    {"nom": "Jordan Bardella", "niveau": "mention", "role": "adversaire hypothétique au second tour", "horodatages": ["00:21:05"]}
+  ],
+  "organismes": [
+    {"nom": "La France insoumise", "niveau": "developpe", "type": "mouvement politique étudié", "horodatages": ["00:01:14", "00:04:00", "00:56:06"]},
+    {"nom": "Au Poste", "niveau": "developpe", "type": "média et cadre de l'entretien", "horodatages": ["00:00:00"]},
+    {"nom": "Flammarion", "niveau": "mention", "type": "éditeur de La Meute", "horodatages": ["00:00:00"]}
+  ],
+  "concepts": [
+    {"concept": "personnalisation du pouvoir", "description": "confusion du mouvement avec son fondateur", "horodatages": ["00:04:00"]},
+    {"concept": "discipline par la violence", "description": "usage théorisé de l'humiliation et de la confrontation", "horodatages": ["00:13:01"]},
+    {"concept": "enquête à charge", "description": "désaccord sur l'obligation d'équilibrer une enquête ciblée", "horodatages": ["00:28:00"]},
+    {"concept": "protection des sources", "description": "anonymat justifié par la vulnérabilité et les risques de représailles", "horodatages": ["00:18:00"]},
+    {"concept": "instrumentalisation médiatique", "description": "usages politiques du livre échappant à ses auteurs", "horodatages": ["01:01:01"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Enquête de deux ans pour La Meute", "niveau": "developpe", "horodatages": ["00:01:03"]},
+    {"nom": "Affaire Adrien Quatennens", "niveau": "developpe", "horodatages": ["00:09:33", "00:43:08"]},
+    {"nom": "Élections législatives et exclusions de candidats LFI", "niveau": "developpe", "horodatages": ["00:04:22"]},
+    {"nom": "Élection présidentielle de 2027", "niveau": "mention", "horodatages": ["00:21:05"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:00", "fin": "00:06:10", "contenu": "présentation, méthode, titre et confusion LFI-Mélenchon"},
+    {"debut": "00:06:11", "fin": "00:18:35", "contenu": "sectarisme, contradiction interne et violence comme méthode"},
+    {"debut": "00:18:36", "fin": "00:28:45", "contenu": "sources anonymes, exclusions et sondages"},
+    {"debut": "00:28:46", "fin": "00:43:46", "contenu": "débat sur le livre à charge"},
+    {"debut": "00:43:47", "fin": "01:01:30", "contenu": "VSS, argent, pratiques internes et réactions de LFI"},
+    {"debut": "01:01:31", "fin": "01:10:22", "contenu": "instrumentalisation du livre"},
+    {"debut": "01:10:23", "fin": "01:36:57", "contenu": "plafond Mélenchon et débriefing critique"}
+  ],
+  "expressions_representatives": [
+    {"expression": "chasser en meute", "horodatages": ["00:03:09"]},
+    {"expression": "confusion entre le mouvement et son créateur", "horodatages": ["00:04:12"]},
+    {"expression": "la violence comme théorie politique", "horodatages": ["00:13:03"]},
+    {"expression": "une enquête assumée mais contestée comme à charge", "horodatages": ["00:28:07"]}
+  ],
+  "citations_exactes": [
+    {"citation": "Il faut qu'on chasse en meute.", "horodatage": "00:03:09"},
+    {"citation": "La France insoumise, c'est moi.", "horodatage": "00:04:07"},
+    {"citation": "Cette violence, elle est sciemment utilisée pour entretenir une discipline des troupes.", "horodatage": "00:13:03"},
+    {"citation": "Moi, je trouve que votre enquête est à charge.", "horodatage": "00:28:07"}
+  ],
+  "arguments_positions": [
+    {"auteur": "Bélaïch et Pérou", "position": "Les témoignages convergents décrivent un système personnalisé qui interdit la contradiction.", "horodatages": ["00:06:02", "00:13:03", "00:56:06"]},
+    {"auteur": "David Dufresne", "position": "Le livre est à charge et aurait gagné à présenter un portrait plus global.", "horodatages": ["00:28:00"]},
+    {"auteur": "Bélaïch et Pérou", "position": "Une enquête sur les pratiques de pouvoir n'a pas à compenser ses révélations par un bilan du programme.", "horodatages": ["00:28:14", "00:50:17"]},
+    {"auteur": "Bélaïch et Pérou", "position": "L'usage politique et médiatique du livre ne leur appartient plus après publication.", "horodatages": ["01:01:01"]}
+  ],
+  "lieux_periodes": [
+    {"lieu_ou_periode": "France, 2016-2025", "description": "développement et fonctionnement de LFI"},
+    {"lieu_ou_periode": "campagnes présidentielle et législatives", "description": "cadre de plusieurs exemples organisationnels", "horodatages": ["00:04:22", "00:50:01"]}
+  ],
+  "relations_documentaires": [
+    {"source": "200 témoignages et documents internes", "relation": "fondent", "cible": "thèse des auteurs sur le fonctionnement de LFI"},
+    {"source": "affaire Quatennens", "relation": "déclenche", "cible": "enquête La Meute"},
+    {"source": "recours à l'autoentrepreneuriat", "relation": "illustre", "cible": "écart entre discours et pratiques"},
+    {"source": "objections de David Dufresne", "relation": "contestent", "cible": "équilibre et cadrage du livre"}
+  ]
+}

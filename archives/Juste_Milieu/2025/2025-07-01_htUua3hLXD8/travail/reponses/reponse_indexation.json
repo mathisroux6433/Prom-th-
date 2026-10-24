@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.1",
+  "video_id": "htUua3hLXD8",
+  "resume_general": "Lecture critique par Rémi de Juste Milieu du livre La Meute, centrée sur le fonctionnement de LFI, la trajectoire et le leadership de Jean-Luc Mélenchon, les contradictions financières et organisationnelles, puis les affaires Quatennens et Delogu. L'orateur reconnaît le caractère à charge et le contexte politique de l'ouvrage tout en estimant que certaines allégations exigent des réponses sur le fond.",
+  "themes_principaux": [
+    {"theme": "Réception critique de La Meute", "horodatages": ["00:00:27", "00:02:39", "00:05:21"]},
+    {"theme": "Leadership et trajectoire de Jean-Luc Mélenchon", "horodatages": ["00:08:00", "00:10:00", "00:12:03"]},
+    {"theme": "Contradictions entre discours et pratiques de LFI", "horodatages": ["00:18:21", "00:22:38", "00:24:28"]},
+    {"theme": "Gestion interne des violences faites aux femmes", "horodatages": ["00:28:03", "00:31:15", "00:32:09", "00:35:16"]}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Temporalité médiatique et commentaire à froid", "horodatages": ["00:00:27", "00:01:15"]},
+    {"sujet": "Mort de François Delapierre et évolution de Mélenchon", "horodatages": ["00:12:03"]},
+    {"sujet": "Georges Kuzmanovic et rapport au conflit", "horodatages": ["00:16:05"]},
+    {"sujet": "Alliance tactique rapportée avec la droite dure contre le PS", "horodatages": ["00:18:46", "00:20:02"]},
+    {"sujet": "Recours aux prestataires et autoentrepreneurs en campagne", "horodatages": ["00:23:00", "00:24:00"]},
+    {"sujet": "Acquisition d'une permanence parlementaire via une SCI", "horodatages": ["00:26:00"]},
+    {"sujet": "Responsabilité des militants face aux scandales avérés", "horodatages": ["00:37:08", "00:38:20"]}
+  ],
+  "mots_cles": ["La Meute", "LFI", "La France insoumise", "Jean-Luc Mélenchon", "Charlotte Bélaïch", "Olivier Pérou", "Adrien Quatennens", "Sébastien Delogu", "Sophia Chikirou", "violences conjugales", "autoentrepreneurs", "ubérisation", "campagne présidentielle", "leadership", "diffamation"],
+  "variantes_lexicales": [
+    {"forme": "France Insoumise", "variantes": ["LFI", "les insoumis"]},
+    {"forme": "Adrien Quatennens", "variantes_transcription": ["Katniss", "Catenance", "Quatre Lins"]},
+    {"forme": "Sébastien Delogu", "variantes_transcription": ["De Logu", "de l'ogu"]}
+  ],
+  "personnes": [
+    {"nom": "Jean-Luc Mélenchon", "niveau": "developpe", "role": "dirigeant politique au centre du livre et de l'analyse", "horodatages": ["00:03:40", "00:08:00", "00:18:21"]},
+    {"nom": "Charlotte Bélaïch", "niveau": "developpe", "role": "coautrice de La Meute", "horodatages": ["00:02:52"]},
+    {"nom": "Olivier Pérou", "niveau": "developpe", "role": "coauteur de La Meute", "horodatages": ["00:03:00"]},
+    {"nom": "Sophia Chikirou", "niveau": "developpe", "role": "responsable LFI évoquée dans les dossiers financiers", "horodatages": ["00:03:40", "00:22:38"]},
+    {"nom": "Adrien Quatennens", "niveau": "developpe", "role": "responsable dont l'affaire de violences conjugales est analysée", "horodatages": ["00:26:54", "00:28:03"]},
+    {"nom": "Sébastien Delogu", "niveau": "developpe", "role": "député visé par des témoignages rapportés", "horodatages": ["00:32:09", "00:34:00"]},
+    {"nom": "François Delapierre", "niveau": "developpe", "role": "proche de Mélenchon dont la mort est présentée comme une rupture", "horodatages": ["00:12:03"]},
+    {"nom": "Georges Kuzmanovic", "niveau": "developpe", "role": "ancien proche cité comme témoin", "horodatages": ["00:16:05"]},
+    {"nom": "Manuel Bompard", "niveau": "mention", "role": "cadre LFI", "horodatages": ["00:06:19", "00:26:46"]},
+    {"nom": "Mathilde Panot", "niveau": "mention", "role": "cadre LFI", "horodatages": ["00:06:19"]},
+    {"nom": "Jordan Bardella", "niveau": "mention", "role": "contre-exemple mobilisé en conclusion", "horodatages": ["00:40:20"]}
+  ],
+  "organismes": [
+    {"nom": "La France insoumise", "niveau": "developpe", "type": "mouvement politique", "horodatages": ["00:00:04", "00:28:15", "00:35:16"]},
+    {"nom": "Flammarion", "niveau": "mention", "type": "maison d'édition", "horodatages": ["00:02:39"]},
+    {"nom": "Libération", "niveau": "mention", "type": "média", "horodatages": ["00:02:54"]},
+    {"nom": "Le Monde", "niveau": "mention", "type": "média", "horodatages": ["00:03:00"]},
+    {"nom": "Parti socialiste", "niveau": "developpe", "type": "parti politique", "horodatages": ["00:18:21", "00:18:58"]}
+  ],
+  "concepts": [
+    {"concept": "livre à charge", "description": "ouvrage perçu comme politiquement orienté sans que cela invalide automatiquement ses informations", "horodatages": ["00:05:52"]},
+    {"concept": "fonctionnement sectaire", "description": "organisation structurée autour d'un chef fort, relativisée par comparaison avec d'autres partis", "horodatages": ["00:08:40"]},
+    {"concept": "ubérisation de campagne", "description": "recours à des prestataires et sociétés plutôt qu'à des salariés", "horodatages": ["00:24:08"]},
+    {"concept": "dissonance entre discours et pratiques", "description": "écart allégué entre principes publics et fonctionnement interne", "horodatages": ["00:24:28", "00:31:43", "00:35:16"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Publication de La Meute", "niveau": "developpe", "date": "7 mai 2025", "horodatages": ["00:02:39"]},
+    {"nom": "Affaire Adrien Quatennens", "niveau": "developpe", "horodatages": ["00:26:54", "00:28:03", "00:31:39"]},
+    {"nom": "Campagnes présidentielles de Jean-Luc Mélenchon", "niveau": "developpe", "horodatages": ["00:23:00", "00:24:00"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:27", "fin": "00:07:48", "contenu": "méthode, contexte du livre et réception politique"},
+    {"debut": "00:07:49", "fin": "00:17:00", "contenu": "trajectoire, personnalité et leadership de Mélenchon"},
+    {"debut": "00:18:07", "fin": "00:27:59", "contenu": "contradictions politiques et financières"},
+    {"debut": "00:28:03", "fin": "00:32:08", "contenu": "affaire Quatennens et gestion de crise"},
+    {"debut": "00:32:09", "fin": "00:36:58", "contenu": "témoignages et hypothèses concernant Delogu"},
+    {"debut": "00:37:00", "fin": "00:40:48", "contenu": "conclusion sur la responsabilité politique"}
+  ],
+  "expressions_representatives": [
+    {"expression": "attendre que la vague médiatique retombe", "horodatages": ["00:01:02"]},
+    {"expression": "une cause politique ne permet pas tout", "horodatages": ["00:37:42"]},
+    {"expression": "répondre aux faits plutôt qu'aux intentions", "horodatages": ["00:38:20"]}
+  ],
+  "citations_exactes": [
+    {"citation": "Bien sûr que c'est un livre à charge", "horodatage": "00:05:52"},
+    {"citation": "Une cause politique ne permet pas tout.", "horodatage": "00:37:42"},
+    {"citation": "C'est à vous d'exclure ces gens-là.", "horodatage": "00:38:36"}
+  ],
+  "arguments_positions": [
+    {"auteur": "Rémi / Juste Milieu", "position": "Le contexte politique et le caractère à charge du livre n'annulent pas ses allégations documentées.", "horodatages": ["00:03:53", "00:05:52"]},
+    {"auteur": "Rémi / Juste Milieu", "position": "LFI devrait répondre judiciairement si les accusations graves du livre sont fausses.", "horodatages": ["00:06:19", "00:34:46"]},
+    {"auteur": "Rémi / Juste Milieu", "position": "Les militants doivent écarter les responsables lorsque des scandales sont avérés.", "horodatages": ["00:38:20"]},
+    {"auteur": "Rémi / Juste Milieu", "position": "Une nouvelle affaire concernant Delogu pourrait émerger ; il s'agit d'une hypothèse personnelle.", "horodatages": ["00:34:00", "00:35:48"]}
+  ],
+  "lieux_periodes": [
+    {"lieu_ou_periode": "Bruxelles, Parlement européen, juillet 2023", "horodatages": ["00:10:02"]},
+    {"lieu_ou_periode": "années 1970 à 2025", "description": "trajectoire politique de Mélenchon et histoire de LFI", "horodatages": ["00:08:11"]},
+    {"lieu_ou_periode": "Marseille", "description": "contexte du témoignage concernant Delogu", "horodatages": ["00:32:39"]}
+  ],
+  "relations_documentaires": [
+    {"source": "La Meute", "relation": "ouvrage commenté et cité", "cible": "fonctionnement interne de LFI"},
+    {"source": "affaire Quatennens", "relation": "illustre", "cible": "écart entre discours féministe et gestion interne"},
+    {"source": "recours aux autoentrepreneurs", "relation": "illustre", "cible": "contradiction entre programme et pratique de campagne"}
+  ]
+}

@@ -1,0 +1,1369 @@
+{
+  "schema_version": "1.0",
+  "engine": "faster-whisper",
+  "model": "medium",
+  "language": "fr",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 21.78,
+      "end": 24.22,
+      "start_timestamp": "00:00:21.780",
+      "end_timestamp": "00:00:24.220",
+      "text": "Bonjour et bienvenue sur l'antenne de QG."
+    },
+    {
+      "id": 1,
+      "start": 24.22,
+      "end": 27.66,
+      "start_timestamp": "00:00:24.220",
+      "end_timestamp": "00:00:27.660",
+      "text": "Jean-Luc Mélenchon va gagner l'élection présidentielle en 2027."
+    },
+    {
+      "id": 2,
+      "start": 27.66,
+      "end": 31.66,
+      "start_timestamp": "00:00:27.660",
+      "end_timestamp": "00:00:31.660",
+      "text": "C'est en tout cas la thèse que soutient le sociologue Manuel Cervera Marzal, auteur"
+    },
+    {
+      "id": 3,
+      "start": 31.66,
+      "end": 35.94,
+      "start_timestamp": "00:00:31.660",
+      "end_timestamp": "00:00:35.940",
+      "text": "en 2021 d'une étude sur le populisme de gauche, sociologie de la France insoumise."
+    },
+    {
+      "id": 4,
+      "start": 35.94,
+      "end": 40.22,
+      "start_timestamp": "00:00:35.940",
+      "end_timestamp": "00:00:40.220",
+      "text": "Au terme de deux articles récemment publiés sur le site d'Orsiri, il défend une hypothèse"
+    },
+    {
+      "id": 5,
+      "start": 40.22,
+      "end": 42.3,
+      "start_timestamp": "00:00:40.220",
+      "end_timestamp": "00:00:42.300",
+      "text": "audacieuse mais soutenue par de nombreux arguments."
+    },
+    {
+      "id": 6,
+      "start": 42.3,
+      "end": 44.06,
+      "start_timestamp": "00:00:42.300",
+      "end_timestamp": "00:00:44.060",
+      "text": "Et pour lui, la conclusion est claire."
+    },
+    {
+      "id": 7,
+      "start": 44.06,
+      "end": 47.38,
+      "start_timestamp": "00:00:44.060",
+      "end_timestamp": "00:00:47.380",
+      "text": "La victoire du leader insoumis est aujourd'hui le scénario le plus probable."
+    },
+    {
+      "id": 8,
+      "start": 47.38,
+      "end": 51.58,
+      "start_timestamp": "00:00:47.380",
+      "end_timestamp": "00:00:51.580",
+      "text": "Cette vision va bien sûr totalement à l'encontre du discours des médias dominants,"
+    },
+    {
+      "id": 9,
+      "start": 51.58,
+      "end": 56.22,
+      "start_timestamp": "00:00:51.580",
+      "end_timestamp": "00:00:56.220",
+      "text": "qui présente Jean-Luc Mélenchon comme dépassé et surtout rejeté par une grande majorité du pays."
+    },
+    {
+      "id": 10,
+      "start": 56.22,
+      "end": 61.82,
+      "start_timestamp": "00:00:56.220",
+      "end_timestamp": "00:01:01.820",
+      "text": "Selon un sondage réalisé par Odoxa en novembre 2025, il serait battu à plate couture au second tour"
+    },
+    {
+      "id": 11,
+      "start": 61.82,
+      "end": 68.38,
+      "start_timestamp": "00:01:01.820",
+      "end_timestamp": "00:01:08.380",
+      "text": "face à Jordan Bardella, avec seulement 26% des voix contre 74% pour le représentant du Rassemblement national."
+    },
+    {
+      "id": 12,
+      "start": 68.38,
+      "end": 71.7,
+      "start_timestamp": "00:01:08.380",
+      "end_timestamp": "00:01:11.700",
+      "text": "Bref, Mélenchon n'aurait strictement aucune chance."
+    },
+    {
+      "id": 13,
+      "start": 71.7,
+      "end": 75.62,
+      "start_timestamp": "00:01:11.700",
+      "end_timestamp": "00:01:15.620",
+      "text": "Mais cette construction médiatique et sondagière est-elle conforme à la réalité ?"
+    },
+    {
+      "id": 14,
+      "start": 75.62,
+      "end": 78.74,
+      "start_timestamp": "00:01:15.620",
+      "end_timestamp": "00:01:18.740",
+      "text": "Ces dernières années, les instituts de sondage ont montré leurs limites."
+    },
+    {
+      "id": 15,
+      "start": 78.78,
+      "end": 83.54,
+      "start_timestamp": "00:01:18.780",
+      "end_timestamp": "00:01:23.540",
+      "text": "Dans un contexte de grande volatilité, et notamment à la perte de confiance dans les institutions,"
+    },
+    {
+      "id": 16,
+      "start": 83.54,
+      "end": 87.42,
+      "start_timestamp": "00:01:23.540",
+      "end_timestamp": "00:01:27.420",
+      "text": "il est de plus en plus difficile d'anticiper les résultats d'un scrutin national."
+    },
+    {
+      "id": 17,
+      "start": 87.42,
+      "end": 92.66,
+      "start_timestamp": "00:01:27.420",
+      "end_timestamp": "00:01:32.660",
+      "text": "Faut-il encore ajouter que Jean-Luc Mélenchon apparaît plus que jamais comme le premier adversaire de l'ordre rétabli."
+    },
+    {
+      "id": 18,
+      "start": 92.66,
+      "end": 96.06,
+      "start_timestamp": "00:01:32.660",
+      "end_timestamp": "00:01:36.060",
+      "text": "Des grandes fortunes qu'il veut taxer, des médias qu'il veut démocratiser"
+    },
+    {
+      "id": 19,
+      "start": 96.06,
+      "end": 99.74,
+      "start_timestamp": "00:01:36.060",
+      "end_timestamp": "00:01:39.740",
+      "text": "et des forces de l'ordre qu'il veut désarmer autant que possible."
+    },
+    {
+      "id": 20,
+      "start": 99.74,
+      "end": 102.86,
+      "start_timestamp": "00:01:39.740",
+      "end_timestamp": "00:01:42.860",
+      "text": "Dès lors, les déclarations de toute une classe politique et médiatique"
+    },
+    {
+      "id": 21,
+      "start": 102.86,
+      "end": 107.62,
+      "start_timestamp": "00:01:42.860",
+      "end_timestamp": "00:01:47.620",
+      "text": "constituent-elles vraiment d'honnêtes prédictions ou révèlent-elles plutôt leurs véritables intentions ?"
+    },
+    {
+      "id": 22,
+      "start": 107.62,
+      "end": 110.46,
+      "start_timestamp": "00:01:47.620",
+      "end_timestamp": "00:01:50.460",
+      "text": "Empêcher Jean-Luc Mélenchon d'accéder au pouvoir."
+    },
+    {
+      "id": 23,
+      "start": 110.46,
+      "end": 112.82,
+      "start_timestamp": "00:01:50.460",
+      "end_timestamp": "00:01:52.820",
+      "text": "C'est ce dont nous allons discuter aujourd'hui."
+    },
+    {
+      "id": 24,
+      "start": 112.82,
+      "end": 114.66,
+      "start_timestamp": "00:01:52.820",
+      "end_timestamp": "00:01:54.660",
+      "text": "Manuel Cervera Mazal, bonjour."
+    },
+    {
+      "id": 25,
+      "start": 114.66,
+      "end": 115.42,
+      "start_timestamp": "00:01:54.660",
+      "end_timestamp": "00:01:55.420",
+      "text": "Bonjour."
+    },
+    {
+      "id": 26,
+      "start": 115.42,
+      "end": 117.5,
+      "start_timestamp": "00:01:55.420",
+      "end_timestamp": "00:01:57.500",
+      "text": "Alors ma première question, elle est très simple."
+    },
+    {
+      "id": 27,
+      "start": 117.5,
+      "end": 119.86,
+      "start_timestamp": "00:01:57.500",
+      "end_timestamp": "00:01:59.860",
+      "text": "Pour que Jean-Luc Mélenchon gagne l'élection présidentielle,"
+    },
+    {
+      "id": 28,
+      "start": 119.86,
+      "end": 122.42,
+      "start_timestamp": "00:01:59.860",
+      "end_timestamp": "00:02:02.420",
+      "text": "il y a déjà une première étape, c'est de passer le premier tour."
+    },
+    {
+      "id": 29,
+      "start": 122.42,
+      "end": 125.78,
+      "start_timestamp": "00:02:02.420",
+      "end_timestamp": "00:02:05.780",
+      "text": "Qu'est-ce qui vous rend si confiant sur le fait que le leader insoumis"
+    },
+    {
+      "id": 30,
+      "start": 125.78,
+      "end": 128.02,
+      "start_timestamp": "00:02:05.780",
+      "end_timestamp": "00:02:08.020",
+      "text": "va passer effectivement le premier tour des présidentielles ?"
+    },
+    {
+      "id": 31,
+      "start": 128.02,
+      "end": 132.74,
+      "start_timestamp": "00:02:08.020",
+      "end_timestamp": "00:02:12.740",
+      "text": "Bah aujourd'hui, je pense qu'il a un boulevard, très clairement, et ceci pour plusieurs raisons."
+    },
+    {
+      "id": 32,
+      "start": 132.74,
+      "end": 136.9,
+      "start_timestamp": "00:02:12.740",
+      "end_timestamp": "00:02:16.900",
+      "text": "D'abord, si on prend un petit peu de recul historique, puisque c'est la quatrième fois quand même, a priori,"
+    },
+    {
+      "id": 33,
+      "start": 137.54,
+      "end": 139.54,
+      "start_timestamp": "00:02:17.540",
+      "end_timestamp": "00:02:19.540",
+      "text": "que Mélenchon se présentera à la présidentielle."
+    },
+    {
+      "id": 34,
+      "start": 139.54,
+      "end": 143.58,
+      "start_timestamp": "00:02:19.540",
+      "end_timestamp": "00:02:23.580",
+      "text": "Effectivement, les trois fois précédentes, il a échoué à franchir cette étape."
+    },
+    {
+      "id": 35,
+      "start": 143.58,
+      "end": 148.1,
+      "start_timestamp": "00:02:23.580",
+      "end_timestamp": "00:02:28.100",
+      "text": "Mais on remarque qu'il a systématiquement progressé au point qu'en 2022,"
+    },
+    {
+      "id": 36,
+      "start": 148.1,
+      "end": 152.9,
+      "start_timestamp": "00:02:28.100",
+      "end_timestamp": "00:02:32.900",
+      "text": "il faut quand même se souvenir que ça s'est joué à 400 000 voix, en fait, le second tour."
+    },
+    {
+      "id": 37,
+      "start": 152.9,
+      "end": 154.66,
+      "start_timestamp": "00:02:32.900",
+      "end_timestamp": "00:02:34.660",
+      "text": "Ça s'est joué à 400 000 voix."
+    },
+    {
+      "id": 38,
+      "start": 154.66,
+      "end": 159.06,
+      "start_timestamp": "00:02:34.660",
+      "end_timestamp": "00:02:39.060",
+      "text": "Dans le même temps, Fabien Roussel, candidat du Parti communiste, réunissait 800 000 voix."
+    },
+    {
+      "id": 39,
+      "start": 159.06,
+      "end": 163.1,
+      "start_timestamp": "00:02:39.060",
+      "end_timestamp": "00:02:43.100",
+      "text": "Donc c'est vraiment quelque chose qui s'est joué à un cheveu."
+    },
+    {
+      "id": 40,
+      "start": 163.14,
+      "end": 169.58,
+      "start_timestamp": "00:02:43.140",
+      "end_timestamp": "00:02:49.580",
+      "text": "Aujourd'hui, moi, il y a plusieurs éléments qui me font penser que le second tour est facilement accessible pour lui."
+    },
+    {
+      "id": 41,
+      "start": 169.58,
+      "end": 171.58,
+      "start_timestamp": "00:02:49.580",
+      "end_timestamp": "00:02:51.580",
+      "text": "Le premier, c'est la situation à gauche."
+    },
+    {
+      "id": 42,
+      "start": 171.58,
+      "end": 178.7,
+      "start_timestamp": "00:02:51.580",
+      "end_timestamp": "00:02:58.700",
+      "text": "Je pense que Jean-Luc Mélenchon a pas une, pas deux, mais cinq ou dix longueurs d'avance sur ses rivaux à gauche,"
+    },
+    {
+      "id": 43,
+      "start": 178.7,
+      "end": 180.14,
+      "start_timestamp": "00:02:58.700",
+      "end_timestamp": "00:03:00.140",
+      "text": "pour plusieurs raisons."
+    },
+    {
+      "id": 44,
+      "start": 180.14,
+      "end": 186.38,
+      "start_timestamp": "00:03:00.140",
+      "end_timestamp": "00:03:06.380",
+      "text": "D'abord, je l'ai dit, il y a le passif du candidat qui a réussi en 2017 et encore plus en 2022 à s'approcher vraiment de ce second tour."
+    },
+    {
+      "id": 45,
+      "start": 186.38,
+      "end": 189.82,
+      "start_timestamp": "00:03:06.380",
+      "end_timestamp": "00:03:09.820",
+      "text": "Il y a le fait que par rapport à 2022 où c'était passé à un cheveu,"
+    },
+    {
+      "id": 46,
+      "start": 190.22,
+      "end": 196.94,
+      "start_timestamp": "00:03:10.220",
+      "end_timestamp": "00:03:16.940",
+      "text": "La France Insoumise, qui est son véhicule de campagne, s'est considérablement renforcée à plusieurs égards."
+    },
+    {
+      "id": 47,
+      "start": 196.94,
+      "end": 203.18,
+      "start_timestamp": "00:03:16.940",
+      "end_timestamp": "00:03:23.180",
+      "text": "D'abord au niveau du programme qui était déjà très travaillé, très précisé, fruit d'un long processus."
+    },
+    {
+      "id": 48,
+      "start": 203.18,
+      "end": 208.7,
+      "start_timestamp": "00:03:23.180",
+      "end_timestamp": "00:03:28.700",
+      "text": "Il y a un peu tout le monde à gauche, en réalité, qui envie à La France Insoumise le travail programmatique qui a été fait,"
+    },
+    {
+      "id": 49,
+      "start": 208.7,
+      "end": 210.54,
+      "start_timestamp": "00:03:28.700",
+      "end_timestamp": "00:03:30.540",
+      "text": "qui reconnaît le sérieux de ce travail."
+    },
+    {
+      "id": 50,
+      "start": 210.54,
+      "end": 215.7,
+      "start_timestamp": "00:03:30.540",
+      "end_timestamp": "00:03:35.700",
+      "text": "Donc voilà, on est face à un candidat qui propose des choses, c'est cohérent, c'est précis, c'est détaillé."
+    },
+    {
+      "id": 51,
+      "start": 215.7,
+      "end": 218.82,
+      "start_timestamp": "00:03:35.700",
+      "end_timestamp": "00:03:38.820",
+      "text": "Sur ce point-là, je pense qu'il a une certaine avance."
+    },
+    {
+      "id": 52,
+      "start": 218.82,
+      "end": 223.7,
+      "start_timestamp": "00:03:38.820",
+      "end_timestamp": "00:03:43.700",
+      "text": "Il a une avance aussi tout simplement au niveau de l'appareil militant qu'il a réussi à construire."
+    },
+    {
+      "id": 53,
+      "start": 223.7,
+      "end": 229.7,
+      "start_timestamp": "00:03:43.700",
+      "end_timestamp": "00:03:49.700",
+      "text": "Désormais, la plupart des partis traditionnels de gauche, mais que ce soient les socialistes comme les communistes et même les écologistes,"
+    },
+    {
+      "id": 54,
+      "start": 229.7,
+      "end": 237.06,
+      "start_timestamp": "00:03:49.700",
+      "end_timestamp": "00:03:57.060",
+      "text": "ce sont des partis qui sont réduits à pot de chagrin, qui sont essentiellement ce qu'en sciences politiques on qualifie de partis de professionnels ou de partis d'élus."
+    },
+    {
+      "id": 55,
+      "start": 237.06,
+      "end": 244.14,
+      "start_timestamp": "00:03:57.060",
+      "end_timestamp": "00:04:04.140",
+      "text": "En fait, il y a quasiment, quand vous regardez le nombre d'adhérents dans ces partis, c'est quasiment tous des élus ou des professionnels de la politique"
+    },
+    {
+      "id": 56,
+      "start": 244.14,
+      "end": 248.26,
+      "start_timestamp": "00:04:04.140",
+      "end_timestamp": "00:04:08.260",
+      "text": "qui sont pas des élus mais qui dépendent des élus, ils sont salariés du parti, auxiliaires politiques,"
+    },
+    {
+      "id": 57,
+      "start": 248.26,
+      "end": 252.74,
+      "start_timestamp": "00:04:08.260",
+      "end_timestamp": "00:04:12.740",
+      "text": "ils travaillent dans les administrations, bref, ils dépendent en fait des subsides à la France Insoumise."
+    },
+    {
+      "id": 58,
+      "start": 252.74,
+      "end": 260.34,
+      "start_timestamp": "00:04:12.740",
+      "end_timestamp": "00:04:20.340",
+      "text": "Ils ont réussi à construire un mouvement, bon moi je pense que c'est un parti parce qu'ils se présentent aux élections, mais tout ça c'est des querelles sémantiques."
+    },
+    {
+      "id": 59,
+      "start": 260.34,
+      "end": 268.5,
+      "start_timestamp": "00:04:20.340",
+      "end_timestamp": "00:04:28.500",
+      "text": "Ils ont réussi à construire une organisation, disons, qui, alors sur le papier, regroupes, ça dépend des moments, mais 400 à 500, 550 000 adhérents."
+    },
+    {
+      "id": 60,
+      "start": 268.5,
+      "end": 275.54,
+      "start_timestamp": "00:04:28.500",
+      "end_timestamp": "00:04:35.540",
+      "text": "Ces adhérents, c'est pas des militants, on est bien d'accord parce qu'il suffit de faire quelques clics en ligne pour adhérer à la France Insoumise."
+    },
+    {
+      "id": 61,
+      "start": 275.94,
+      "end": 280.82,
+      "start_timestamp": "00:04:35.940",
+      "end_timestamp": "00:04:40.820",
+      "text": "Moi j'ai essayé de faire des estimations assez sérieuses à travers une longue méthodologie sur laquelle je reviens pas en détail,"
+    },
+    {
+      "id": 62,
+      "start": 280.82,
+      "end": 287.94,
+      "start_timestamp": "00:04:40.820",
+      "end_timestamp": "00:04:47.940",
+      "text": "mais clairement on peut estimer qu'à la précédente présidentielle, il y avait environ 40 ou 50 000 personnes qu'on rejoint les groupes d'action de la France Insoumise."
+    },
+    {
+      "id": 63,
+      "start": 287.94,
+      "end": 294.9,
+      "start_timestamp": "00:04:47.940",
+      "end_timestamp": "00:04:54.900",
+      "text": "Et cette fois-ci, ce sera davantage parce que le mouvement, par rapport à il y a 5 ans, il s'est implanté, il s'est développé localement,"
+    },
+    {
+      "id": 64,
+      "start": 294.9,
+      "end": 302.9,
+      "start_timestamp": "00:04:54.900",
+      "end_timestamp": "00:05:02.900",
+      "text": "on l'a bien vu lors de la séquence des municipales, il s'est implanté en faisant le choix, qui est un choix important d'implantation stratégique,"
+    },
+    {
+      "id": 65,
+      "start": 302.9,
+      "end": 311.38,
+      "start_timestamp": "00:05:02.900",
+      "end_timestamp": "00:05:11.380",
+      "text": "d'acquérir des locaux, de mettre en place des boucles départementales. Pendant longtemps, Jean-Luc Mélenchon était hostile au fait de laisser s'organiser"
+    },
+    {
+      "id": 66,
+      "start": 311.38,
+      "end": 320.66,
+      "start_timestamp": "00:05:11.380",
+      "end_timestamp": "00:05:20.660",
+      "text": "de manière un peu robuste et durable une organisation militante à la base parce qu'il avait peur que ça crée des contre-pouvoirs et ça le fragilise."
+    },
+    {
+      "id": 67,
+      "start": 320.66,
+      "end": 327.62,
+      "start_timestamp": "00:05:20.660",
+      "end_timestamp": "00:05:27.620",
+      "text": "Il est un peu revenu de ça et du coup, désormais, je pense qu'on a un programme et en plus on a une force de frappe militante pour le porter."
+    },
+    {
+      "id": 68,
+      "start": 327.62,
+      "end": 335.38,
+      "start_timestamp": "00:05:27.620",
+      "end_timestamp": "00:05:35.380",
+      "text": "Et dernier élément, on a des cadres tout simplement. Il y a aujourd'hui 5 fois plus de députés qui en avaient lors de la précédente présidentielle,"
+    },
+    {
+      "id": 69,
+      "start": 335.38,
+      "end": 342.66,
+      "start_timestamp": "00:05:35.380",
+      "end_timestamp": "00:05:42.660",
+      "text": "5 fois plus aussi de subsides de financement public puisque c'est un excès sur le nombre de voix que vous obtenez aux législatives."
+    },
+    {
+      "id": 70,
+      "start": 342.66,
+      "end": 351.7,
+      "start_timestamp": "00:05:42.660",
+      "end_timestamp": "00:05:51.700",
+      "text": "Donc voilà, tous ces éléments me font penser qu'à gauche, très clairement, le match est plié sur qui arrivera en tête à gauche."
+    },
+    {
+      "id": 71,
+      "start": 351.7,
+      "end": 358.1,
+      "start_timestamp": "00:05:51.700",
+      "end_timestamp": "00:05:58.100",
+      "text": "Ensuite, la question du coup, c'est finalement, puisque à peu près tout le monde est certain que Marine Le Pen ou Jordan Bardella sera au second tour,"
+    },
+    {
+      "id": 72,
+      "start": 358.1,
+      "end": 365.94,
+      "start_timestamp": "00:05:58.100",
+      "end_timestamp": "00:06:05.940",
+      "text": "c'est est-ce que la candidate du RN affrontera un candidat centriste ou Jean-Luc Mélenchon. En fait, c'est ça la seule question."
+    },
+    {
+      "id": 73,
+      "start": 365.94,
+      "end": 374.26,
+      "start_timestamp": "00:06:05.940",
+      "end_timestamp": "00:06:14.260",
+      "text": "Pourquoi je pense que le centre, après 10 ans au pouvoir, l'extrême centre, on devrait dire pour être plus précis, sera absent du second tour ?"
+    },
+    {
+      "id": 74,
+      "start": 374.5,
+      "end": 384.02,
+      "start_timestamp": "00:06:14.500",
+      "end_timestamp": "00:06:24.020",
+      "text": "Pour deux raisons, en fait. D'abord, jamais... Alors c'est courant qu'un président en fin de mandat ait une cote de popularité extrêmement faible."
+    },
+    {
+      "id": 75,
+      "start": 384.02,
+      "end": 390.98,
+      "start_timestamp": "00:06:24.020",
+      "end_timestamp": "00:06:30.980",
+      "text": "Mais en réalité, en général, on est à 25 %. Emmanuel Macron, aujourd'hui, il est à 11 %. Voilà, il y a une vraie..."
+    },
+    {
+      "id": 76,
+      "start": 390.98,
+      "end": 400.82,
+      "start_timestamp": "00:06:30.980",
+      "end_timestamp": "00:06:40.820",
+      "text": "C'est pas juste une usure du pouvoir. La façon dont il a ravagé le pays durant ces 10 années de mandat, aujourd'hui, elle pèse non seulement sur lui en tant que personne,"
+    },
+    {
+      "id": 77,
+      "start": 400.82,
+      "end": 411.7,
+      "start_timestamp": "00:06:40.820",
+      "end_timestamp": "00:06:51.700",
+      "text": "mais bien évidemment sur l'ensemble de sa famille politique. Donc ça, voilà, c'est un premier point. Je pense qu'il y a un vrai discrédit qui porte sur toute offre au centre."
+    },
+    {
+      "id": 78,
+      "start": 411.7,
+      "end": 420.82,
+      "start_timestamp": "00:06:51.700",
+      "end_timestamp": "00:07:00.820",
+      "text": "Et une usure du bloc central qu'on a vue au législatif qui est arrivée au troisième tour. Voilà, on voit l'usure du pouvoir et puis l'échec aussi de ces politiques économiques,"
+    },
+    {
+      "id": 79,
+      "start": 420.82,
+      "end": 426.58,
+      "start_timestamp": "00:07:00.820",
+      "end_timestamp": "00:07:06.580",
+      "text": "de ces politiques en général, qui ont largement déçu. Et les gens, on sent qu'il y a quand même une volonté de changement."
+    },
+    {
+      "id": 80,
+      "start": 426.66,
+      "end": 434.74,
+      "start_timestamp": "00:07:06.660",
+      "end_timestamp": "00:07:14.740",
+      "text": "Alors, est-ce que ça basculera d'un côté ou de l'autre ? Mais en tout cas, les gens semblent en avoir ras-le-bol du centre... Alors, j'allais dire mou, mais qui en fait..."
+    },
+    {
+      "id": 81,
+      "start": 434.74,
+      "end": 447.22,
+      "start_timestamp": "00:07:14.740",
+      "end_timestamp": "00:07:27.220",
+      "text": "Durt dans sa gestion de la société. Oui, voilà, ça, très clairement. Donc ça, c'est l'élément, je pense, le premier élément pour expliquer pourquoi le centre me paraît partir en bien mauvaise posture."
+    },
+    {
+      "id": 82,
+      "start": 447.22,
+      "end": 455.14,
+      "start_timestamp": "00:07:27.220",
+      "end_timestamp": "00:07:35.140",
+      "text": "Et le deuxième élément, en fait, tout simplement, c'est la multiplication et donc l'éparpillement des candidatures, du coup, éparpillement des voix sur cet espace central"
+    },
+    {
+      "id": 83,
+      "start": 455.22,
+      "end": 464.42,
+      "start_timestamp": "00:07:35.220",
+      "end_timestamp": "00:07:44.420",
+      "text": "qui va en gros, enfin, de Raphaël Luxemann à Gérald Darmanin, en passant par Gabriel Attal, Édouard Philippe, Dominique de Villepin, on en reparlera peut-être, mais voilà."
+    },
+    {
+      "id": 84,
+      "start": 464.42,
+      "end": 471.78,
+      "start_timestamp": "00:07:44.420",
+      "end_timestamp": "00:07:51.780",
+      "text": "Enfin, il y a une... Et aussi, mais de coup, ils vont partir très nombreux, je pense, à cette présidentielle, ce qui va diviser les voix."
+    },
+    {
+      "id": 85,
+      "start": 471.78,
+      "end": 479.86,
+      "start_timestamp": "00:07:51.780",
+      "end_timestamp": "00:07:59.860",
+      "text": "Et ce qui aurait permis, ce qui leur aurait permis de se rassembler, c'est d'avoir un parti un peu fort, un parti qui soit au-dessus précisément de ses membres et au-dessus de ses aspirants,"
+    },
+    {
+      "id": 86,
+      "start": 479.86,
+      "end": 486.26,
+      "start_timestamp": "00:07:59.860",
+      "end_timestamp": "00:08:06.260",
+      "text": "parce que pendant très longtemps, en fait, dans l'histoire de notre pays, c'est les partis politiques qui faisaient que de 10 candidats ou de 5 candidats,"
+    },
+    {
+      "id": 87,
+      "start": 486.26,
+      "end": 491.54,
+      "start_timestamp": "00:08:06.260",
+      "end_timestamp": "00:08:11.540",
+      "text": "on arrivait à un seul à la fin parce que les partis pouvaient faire respecter une discipline partisane."
+    },
+    {
+      "id": 88,
+      "start": 491.54,
+      "end": 496.66,
+      "start_timestamp": "00:08:11.540",
+      "end_timestamp": "00:08:16.660",
+      "text": "Ils organisaient des primaires internes ou ouvertes, mais à la fin, il y avait un seul candidat."
+    },
+    {
+      "id": 89,
+      "start": 496.66,
+      "end": 502.5,
+      "start_timestamp": "00:08:16.660",
+      "end_timestamp": "00:08:22.500",
+      "text": "Et aujourd'hui, les partis sont tellement affaiblis, et c'est le cas de Renaissance, c'est le cas d'Horizon, enfin, comme de beaucoup d'autres,"
+    },
+    {
+      "id": 90,
+      "start": 502.5,
+      "end": 507.22,
+      "start_timestamp": "00:08:22.500",
+      "end_timestamp": "00:08:27.220",
+      "text": "que du coup, ils n'arrivent plus tout simplement à produire cet effet d'anto-noir et à réduire l'offre."
+    },
+    {
+      "id": 91,
+      "start": 507.3,
+      "end": 514.9,
+      "start_timestamp": "00:08:27.300",
+      "end_timestamp": "00:08:34.900",
+      "text": "– Oui, du coup, effectivement, il risque d'y avoir un émiettement des candidatures du bloc central par la multiplication des candidatures,"
+    },
+    {
+      "id": 92,
+      "start": 514.9,
+      "end": 522.9,
+      "start_timestamp": "00:08:34.900",
+      "end_timestamp": "00:08:42.900",
+      "text": "ce qui fait qu'on dit qu'en fait, il suffit qu'il y en ait 3, 2 ou 3 au centre, et la barre de qualification au second tour, elle pourrait être à 15 %."
+    },
+    {
+      "id": 93,
+      "start": 522.9,
+      "end": 523.78,
+      "start_timestamp": "00:08:42.900",
+      "end_timestamp": "00:08:43.780",
+      "text": "– Voilà."
+    },
+    {
+      "id": 94,
+      "start": 523.78,
+      "end": 531.22,
+      "start_timestamp": "00:08:43.780",
+      "end_timestamp": "00:08:51.220",
+      "text": "– Ceci étant, est-ce que Jean-Luc Mélenchon, il est manifestement le candidat le mieux placé à gauche ?"
+    },
+    {
+      "id": 95,
+      "start": 531.3,
+      "end": 541.86,
+      "start_timestamp": "00:08:51.300",
+      "end_timestamp": "00:09:01.860",
+      "text": "– Ça, c'est indiscutable. Ceci étant, est-ce qu'il va réussir à reproduire la mécanique du vote utile, la dynamique du vote utile qu'il avait réalisée en 2022 ?"
+    },
+    {
+      "id": 96,
+      "start": 541.86,
+      "end": 547.06,
+      "start_timestamp": "00:09:01.860",
+      "end_timestamp": "00:09:07.060",
+      "text": "Parce qu'en fait, en 2022, il avait véritablement siphonné les voix à gauche."
+    },
+    {
+      "id": 97,
+      "start": 547.06,
+      "end": 555.38,
+      "start_timestamp": "00:09:07.060",
+      "end_timestamp": "00:09:15.380",
+      "text": "Aroussel avait fait, ben oui, 800 000 voix, Hidalgo, elle a fait 2 %. Enfin, véritablement, il avait là pris tout le vote utile à gauche."
+    },
+    {
+      "id": 98,
+      "start": 555.38,
+      "end": 558.1,
+      "start_timestamp": "00:09:15.380",
+      "end_timestamp": "00:09:18.100",
+      "text": "Est-ce que cette fois-ci, ça va être le cas ?"
+    },
+    {
+      "id": 99,
+      "start": 558.18,
+      "end": 563.54,
+      "start_timestamp": "00:09:18.180",
+      "end_timestamp": "00:09:23.540",
+      "text": "Et une autre question en parallèle, pour toujours ce premier tour, c'est l'hypothèse de l'outsider."
+    },
+    {
+      "id": 100,
+      "start": 563.54,
+      "end": 571.78,
+      "start_timestamp": "00:09:23.540",
+      "end_timestamp": "00:09:31.780",
+      "text": "Est-ce qu'il va y avoir une surprise, c'est-à-dire face au duel presque annoncé entre Mélenchon et le Rassemblement national ?"
+    },
+    {
+      "id": 101,
+      "start": 571.78,
+      "end": 578.1,
+      "start_timestamp": "00:09:31.780",
+      "end_timestamp": "00:09:38.100",
+      "text": "Est-ce que les Français vont pas se dire, non, non, nous, on veut pas avoir à subir ce choix-là ?"
+    },
+    {
+      "id": 102,
+      "start": 578.1,
+      "end": 583.22,
+      "start_timestamp": "00:09:38.100",
+      "end_timestamp": "00:09:43.220",
+      "text": "Quand je dis les Français, je pense notamment aux catégories plutôt âgées qui votent beaucoup,"
+    },
+    {
+      "id": 103,
+      "start": 583.22,
+      "end": 590.58,
+      "start_timestamp": "00:09:43.220",
+      "end_timestamp": "00:09:50.580",
+      "text": "qui ont très peur généralement en grande partie de la France insoumise, qui aiment pas particulièrement le Rassemblement national, même si c'est un peu moins vrai,"
+    },
+    {
+      "id": 104,
+      "start": 590.58,
+      "end": 594.98,
+      "start_timestamp": "00:09:50.580",
+      "end_timestamp": "00:09:54.980",
+      "text": "mais qui voudraient se dire, non, non, il nous faut encore une candidature au centre."
+    },
+    {
+      "id": 105,
+      "start": 594.98,
+      "end": 602.58,
+      "start_timestamp": "00:09:54.980",
+      "end_timestamp": "00:10:02.580",
+      "text": "Et là, je pense par exemple à Dominique de Villepin parce qu'il est le seul qui n'est pas comptable du bilan du macronisme"
+    },
+    {
+      "id": 106,
+      "start": 602.58,
+      "end": 609.3,
+      "start_timestamp": "00:10:02.580",
+      "end_timestamp": "00:10:09.300",
+      "text": "et qui pourrait rassembler de par ses positions, ses prises de positions sur la géopolitique, je pense à Gaza notamment."
+    },
+    {
+      "id": 107,
+      "start": 609.38,
+      "end": 613.62,
+      "start_timestamp": "00:10:09.380",
+      "end_timestamp": "00:10:13.620",
+      "text": "Dominique de Villepin aujourd'hui, c'est un homme de droite, mais qui apparaît presque comme un homme de gauche"
+    },
+    {
+      "id": 108,
+      "start": 613.62,
+      "end": 622.34,
+      "start_timestamp": "00:10:13.620",
+      "end_timestamp": "00:10:22.340",
+      "text": "parce que le paysage politique s'est tellement déplacé à droite que Dominique de Villepin, il a l'air de pouvoir faire un espèce de consensus,"
+    },
+    {
+      "id": 109,
+      "start": 622.34,
+      "end": 625.22,
+      "start_timestamp": "00:10:22.340",
+      "end_timestamp": "00:10:25.220",
+      "text": "mais il n'a pas d'appareil derrière lui."
+    },
+    {
+      "id": 110,
+      "start": 625.22,
+      "end": 628.34,
+      "start_timestamp": "00:10:25.220",
+      "end_timestamp": "00:10:28.340",
+      "text": "Alors, il y a beaucoup de choses dans votre question, mais du coup, je commence par la fin."
+    },
+    {
+      "id": 111,
+      "start": 628.34,
+      "end": 634.82,
+      "start_timestamp": "00:10:28.340",
+      "end_timestamp": "00:10:34.820",
+      "text": "Dominique de Villepin, je serai Jean-Luc Mélenchon, c'est la menace que je surveillerai le plus de plus près."
+    },
+    {
+      "id": 112,
+      "start": 634.82,
+      "end": 642.9,
+      "start_timestamp": "00:10:34.820",
+      "end_timestamp": "00:10:42.900",
+      "text": "Pourquoi ? Parce que, un, mais c'est des choses que vous avez dites, il jouit actuellement à un an de la présidentielle d'une certaine popularité."
+    },
+    {
+      "id": 113,
+      "start": 642.9,
+      "end": 651.14,
+      "start_timestamp": "00:10:42.900",
+      "end_timestamp": "00:10:51.140",
+      "text": "Alors, étonnamment en fait, plutôt du côté du bord politique, enfin la gauche qui n'est pas le sien du tout, quoi."
+    },
+    {
+      "id": 114,
+      "start": 651.14,
+      "end": 656.42,
+      "start_timestamp": "00:10:51.140",
+      "end_timestamp": "00:10:56.420",
+      "text": "Notamment pour ses prises d'opposition géopolitique, ça, c'est très clair."
+    },
+    {
+      "id": 115,
+      "start": 656.42,
+      "end": 661.46,
+      "start_timestamp": "00:10:56.420",
+      "end_timestamp": "00:11:01.460",
+      "text": "Le deuxième élément en sa faveur, c'est qu'effectivement, il n'est pas comptable du macronisme,"
+    },
+    {
+      "id": 116,
+      "start": 661.46,
+      "end": 668.5,
+      "start_timestamp": "00:11:01.460",
+      "end_timestamp": "00:11:08.500",
+      "text": "même s'il suffit de s'informer un petit peu pour savoir qu'en fait, il appartient lui aussi à cette grande famille de l'extrême centre."
+    },
+    {
+      "id": 117,
+      "start": 668.5,
+      "end": 674.5,
+      "start_timestamp": "00:11:08.500",
+      "end_timestamp": "00:11:14.500",
+      "text": "Mais bon, il n'en est pas directement comptable, il n'a pas été premier ministre d'Emmanuel Macron, à la différence de Philippe de Attal et de tous les autres."
+    },
+    {
+      "id": 118,
+      "start": 674.5,
+      "end": 677.06,
+      "start_timestamp": "00:11:14.500",
+      "end_timestamp": "00:11:17.060",
+      "text": "Et le troisième point, c'est quand même qu'il a la stature présidentielle."
+    },
+    {
+      "id": 119,
+      "start": 677.06,
+      "end": 683.7,
+      "start_timestamp": "00:11:17.060",
+      "end_timestamp": "00:11:23.700",
+      "text": "Il a été premier ministre, c'est l'homme du nom à la guerre en Irak en 2003, donc ça fait quand même des atouts en sa faveur."
+    },
+    {
+      "id": 120,
+      "start": 684.66,
+      "end": 692.82,
+      "start_timestamp": "00:11:24.660",
+      "end_timestamp": "00:11:32.820",
+      "text": "Plus on va s'approcher du jour du scrutin et de la date de l'échéance, plus Dominique de Villepin va devoir se positionner sur un certain nombre de choses,"
+    },
+    {
+      "id": 121,
+      "start": 692.82,
+      "end": 702.26,
+      "start_timestamp": "00:11:32.820",
+      "end_timestamp": "00:11:42.260",
+      "text": "notamment sur les questions économiques et sociales, parce que les Français, vous demandiez, est-ce qu'ils vont pas vouloir déjouer le pronostic d'un second tour, barder là Mélenchon."
+    },
+    {
+      "id": 122,
+      "start": 702.26,
+      "end": 711.86,
+      "start_timestamp": "00:11:42.260",
+      "end_timestamp": "00:11:51.860",
+      "text": "En fait, les Français, ils veulent surtout pouvoir se soigner, pouvoir aller se nourrir et nourrir leurs enfants, pouvoir mettre de l'essence dans leur voiture."
+    },
+    {
+      "id": 123,
+      "start": 712.02,
+      "end": 715.22,
+      "start_timestamp": "00:11:52.020",
+      "end_timestamp": "00:11:55.220",
+      "text": "C'est surtout ça, plus que déjouer un éventuel pronostic qui les préoccupe."
+    },
+    {
+      "id": 124,
+      "start": 715.22,
+      "end": 719.54,
+      "start_timestamp": "00:11:55.220",
+      "end_timestamp": "00:11:59.540",
+      "text": "Enfin, c'est une préoccupation très matérielle sur des questions économiques et sociales."
+    },
+    {
+      "id": 125,
+      "start": 719.54,
+      "end": 722.34,
+      "start_timestamp": "00:11:59.540",
+      "end_timestamp": "00:12:02.340",
+      "text": "Dominique de Villepin, ça y est, il est candidat, c'est officiel."
+    },
+    {
+      "id": 126,
+      "start": 722.34,
+      "end": 724.02,
+      "start_timestamp": "00:12:02.340",
+      "end_timestamp": "00:12:04.020",
+      "text": "Et je sais pas si vous avez..."
+    },
+    {
+      "id": 127,
+      "start": 724.02,
+      "end": 732.34,
+      "start_timestamp": "00:12:04.020",
+      "end_timestamp": "00:12:12.340",
+      "text": "Enfin, en tout cas, je vous invite, si vous le souhaitez, à regarder les conférences qu'il donne depuis désormais deux mois dans des salles, dans des amphithéâtres, etc."
+    },
+    {
+      "id": 128,
+      "start": 732.34,
+      "end": 733.62,
+      "start_timestamp": "00:12:12.340",
+      "end_timestamp": "00:12:13.620",
+      "text": "Elles sont régulièrement filmées."
+    },
+    {
+      "id": 129,
+      "start": 733.62,
+      "end": 736.82,
+      "start_timestamp": "00:12:13.620",
+      "end_timestamp": "00:12:16.820",
+      "text": "Et à chaque fois, à la fin, quand le public intervient, il y a toujours quelqu'un pour lui demander,"
+    },
+    {
+      "id": 130,
+      "start": 737.38,
+      "end": 744.02,
+      "start_timestamp": "00:12:17.380",
+      "end_timestamp": "00:12:24.020",
+      "text": "« OK, merci pour Gaza, merci pour le patriotisme, merci pour les valeurs morales, merci pour le gaullisme. »"
+    },
+    {
+      "id": 131,
+      "start": 744.02,
+      "end": 748.98,
+      "start_timestamp": "00:12:24.020",
+      "end_timestamp": "00:12:28.980",
+      "text": "Mais fondamentalement, monsieur Villepin, sur la retraite à 67 ans, qu'est-ce que vous dites ?"
+    },
+    {
+      "id": 132,
+      "start": 748.98,
+      "end": 751.62,
+      "start_timestamp": "00:12:28.980",
+      "end_timestamp": "00:12:31.620",
+      "text": "Sur le SMIC, qu'est-ce que vous dites ?"
+    },
+    {
+      "id": 133,
+      "start": 751.62,
+      "end": 753.54,
+      "start_timestamp": "00:12:31.620",
+      "end_timestamp": "00:12:33.540",
+      "text": "Sur l'attaque Zuckman, qu'est-ce que vous dites ?"
+    },
+    {
+      "id": 134,
+      "start": 753.54,
+      "end": 762.66,
+      "start_timestamp": "00:12:33.540",
+      "end_timestamp": "00:12:42.660",
+      "text": "Et à chaque fois, il botte en touche et il évacue d'une façon qui ferait passer les bottages en touche du Rassemblement national pour Peanuts."
+    },
+    {
+      "id": 135,
+      "start": 762.66,
+      "end": 765.86,
+      "start_timestamp": "00:12:42.660",
+      "end_timestamp": "00:12:45.860",
+      "text": "Il est totalement inconsistant, en fait, sur le sujet."
+    },
+    {
+      "id": 136,
+      "start": 765.86,
+      "end": 768.98,
+      "start_timestamp": "00:12:45.860",
+      "end_timestamp": "00:12:48.980",
+      "text": "Encore ce matin, je le voyais sur le plateau d'Apolline de Malherbe."
+    },
+    {
+      "id": 137,
+      "start": 768.98,
+      "end": 773.14,
+      "start_timestamp": "00:12:48.980",
+      "end_timestamp": "00:12:53.140",
+      "text": "Elle lui demandait, à raison, je pense, « Êtes-vous de droite ? Êtes-vous de gauche ? »"
+    },
+    {
+      "id": 138,
+      "start": 773.14,
+      "end": 776.02,
+      "start_timestamp": "00:12:53.140",
+      "end_timestamp": "00:12:56.020",
+      "text": "Sa réponse, « Je ne suis ni de droite ni de gauche, je suis de droite et de gauche. »"
+    },
+    {
+      "id": 139,
+      "start": 776.02,
+      "end": 780.1,
+      "start_timestamp": "00:12:56.020",
+      "end_timestamp": "00:13:00.100",
+      "text": "Quand même, les similarités, il n'est pas directement dépendant du macronisme,"
+    },
+    {
+      "id": 140,
+      "start": 780.1,
+      "end": 783.94,
+      "start_timestamp": "00:13:00.100",
+      "end_timestamp": "00:13:03.940",
+      "text": "mais je pense que son appartenance politique ne fait pas non plus grand mystère."
+    },
+    {
+      "id": 141,
+      "start": 783.94,
+      "end": 788.42,
+      "start_timestamp": "00:13:03.940",
+      "end_timestamp": "00:13:08.420",
+      "text": "Et plus on va s'approcher du but, plus les ambiguïtés, il va devoir les lever."
+    },
+    {
+      "id": 142,
+      "start": 788.42,
+      "end": 793.86,
+      "start_timestamp": "00:13:08.420",
+      "end_timestamp": "00:13:13.860",
+      "text": "Et forcément, c'est un homme de droite, ça ne fait pas l'ombre d'un doute et ça risque de lui peser."
+    },
+    {
+      "id": 143,
+      "start": 793.86,
+      "end": 795.06,
+      "start_timestamp": "00:13:13.860",
+      "end_timestamp": "00:13:15.060",
+      "text": "On se rappelle du CPE."
+    },
+    {
+      "id": 144,
+      "start": 795.14,
+      "end": 796.1,
+      "start_timestamp": "00:13:15.140",
+      "end_timestamp": "00:13:16.100",
+      "text": "On se rappelle du CPE."
+    },
+    {
+      "id": 145,
+      "start": 796.1,
+      "end": 800.42,
+      "start_timestamp": "00:13:16.100",
+      "end_timestamp": "00:13:20.420",
+      "text": "Il y a comme toute une génération aujourd'hui, qui a entre 35 et 50 ans,"
+    },
+    {
+      "id": 146,
+      "start": 800.42,
+      "end": 803.94,
+      "start_timestamp": "00:13:20.420",
+      "end_timestamp": "00:13:23.940",
+      "text": "qui s'est socialisée avec le CPE."
+    },
+    {
+      "id": 147,
+      "start": 803.94,
+      "end": 806.42,
+      "start_timestamp": "00:13:23.940",
+      "end_timestamp": "00:13:26.420",
+      "text": "Le contrat qui remis à embauche, je le rappelle en une phrase pour les plus jeunes,"
+    },
+    {
+      "id": 148,
+      "start": 806.42,
+      "end": 810.66,
+      "start_timestamp": "00:13:26.420",
+      "end_timestamp": "00:13:30.660",
+      "text": "mais qui visait tout simplement à précariser les conditions de travail pour les jeunes."
+    },
+    {
+      "id": 149,
+      "start": 810.66,
+      "end": 813.54,
+      "start_timestamp": "00:13:30.660",
+      "end_timestamp": "00:13:33.540",
+      "text": "L'idée, c'était d'instituer des périodes d'essai d'un ou deux ans."
+    },
+    {
+      "id": 150,
+      "start": 813.54,
+      "end": 818.18,
+      "start_timestamp": "00:13:33.540",
+      "end_timestamp": "00:13:38.180",
+      "text": "C'est-à-dire, pendant un ou deux ans, on pouvait licencier, rompre le contrat de travail sans aucun motif."
+    },
+    {
+      "id": 151,
+      "start": 818.18,
+      "end": 819.54,
+      "start_timestamp": "00:13:38.180",
+      "end_timestamp": "00:13:39.540",
+      "text": "Voilà, c'est ça."
+    },
+    {
+      "id": 152,
+      "start": 819.54,
+      "end": 821.3,
+      "start_timestamp": "00:13:39.540",
+      "end_timestamp": "00:13:41.300",
+      "text": "Et alors, sur la question du vote utile ?"
+    },
+    {
+      "id": 153,
+      "start": 821.3,
+      "end": 823.94,
+      "start_timestamp": "00:13:41.300",
+      "end_timestamp": "00:13:43.940",
+      "text": "Le vote utile, alors le vote utile, vous faites bien d'en parler."
+    },
+    {
+      "id": 154,
+      "start": 823.94,
+      "end": 826.5,
+      "start_timestamp": "00:13:43.940",
+      "end_timestamp": "00:13:46.500",
+      "text": "C'est une constante des démocraties occidentales."
+    },
+    {
+      "id": 155,
+      "start": 826.5,
+      "end": 827.86,
+      "start_timestamp": "00:13:46.500",
+      "end_timestamp": "00:13:47.860",
+      "text": "Enfin, ce n'est pas une constante, pardon."
+    },
+    {
+      "id": 156,
+      "start": 827.86,
+      "end": 830.9,
+      "start_timestamp": "00:13:47.860",
+      "end_timestamp": "00:13:50.900",
+      "text": "C'est quelque chose qui a l'écrétien de cette logique du vote utile,"
+    },
+    {
+      "id": 157,
+      "start": 830.9,
+      "end": 836.18,
+      "start_timestamp": "00:13:50.900",
+      "end_timestamp": "00:13:56.180",
+      "text": "qui consiste à voter pas forcément pour le candidat qui a notre préférence dans l'absolu,"
+    },
+    {
+      "id": 158,
+      "start": 836.18,
+      "end": 841.22,
+      "start_timestamp": "00:13:56.180",
+      "end_timestamp": "00:14:01.220",
+      "text": "mais plutôt pour celui qui nous paraît le plus à même d'accéder au second tour ou éventuellement de l'emporter."
+    },
+    {
+      "id": 159,
+      "start": 841.22,
+      "end": 847.62,
+      "start_timestamp": "00:14:01.220",
+      "end_timestamp": "00:14:07.620",
+      "text": "Effectivement, c'est une logique, cette espèce de rationalité instrumentale dans l'acte, le comportement électoral."
+    },
+    {
+      "id": 160,
+      "start": 847.62,
+      "end": 849.54,
+      "start_timestamp": "00:14:07.620",
+      "end_timestamp": "00:14:09.540",
+      "text": "C'est quelque chose qui se développe de plus en plus."
+    },
+    {
+      "id": 161,
+      "start": 849.54,
+      "end": 852.34,
+      "start_timestamp": "00:14:09.540",
+      "end_timestamp": "00:14:12.340",
+      "text": "Et d'ailleurs, c'est transidéologique."
+    },
+    {
+      "id": 162,
+      "start": 852.42,
+      "end": 856.58,
+      "start_timestamp": "00:14:12.420",
+      "end_timestamp": "00:14:16.580",
+      "text": "On retrouve cette logique du vote utile de manière très prignante à droite, à gauche, comme au centre."
+    },
+    {
+      "id": 163,
+      "start": 856.58,
+      "end": 862.26,
+      "start_timestamp": "00:14:16.580",
+      "end_timestamp": "00:14:22.260",
+      "text": "Elle a joué à plein à gauche en 2022 en faveur de Jean-Luc Mélenchon."
+    },
+    {
+      "id": 164,
+      "start": 862.26,
+      "end": 867.94,
+      "start_timestamp": "00:14:22.260",
+      "end_timestamp": "00:14:27.940",
+      "text": "Elle avait déjà joué en 2017, puisqu'on se souvient des courbes de Benoît Hamon et Jean-Luc Mélenchon,"
+    },
+    {
+      "id": 165,
+      "start": 867.94,
+      "end": 872.5,
+      "start_timestamp": "00:14:27.940",
+      "end_timestamp": "00:14:32.500",
+      "text": "qui sur les deux derniers mois avaient fait un espèce de... C'était des vases communicants."
+    },
+    {
+      "id": 166,
+      "start": 872.5,
+      "end": 875.7,
+      "start_timestamp": "00:14:32.500",
+      "end_timestamp": "00:14:35.700",
+      "text": "Donc cette logique, elle existe, elle est là."
+    },
+    {
+      "id": 167,
+      "start": 875.78,
+      "end": 882.66,
+      "start_timestamp": "00:14:35.780",
+      "end_timestamp": "00:14:42.660",
+      "text": "Elle profitera à celui dont les électeurs verront qu'il est celui qui a la dynamique et la faveur."
+    },
+    {
+      "id": 168,
+      "start": 882.66,
+      "end": 885.78,
+      "start_timestamp": "00:14:42.660",
+      "end_timestamp": "00:14:45.780",
+      "text": "Et de fait, comme je le disais au départ, je pense que c'est Jean-Luc Mélenchon"
+    },
+    {
+      "id": 169,
+      "start": 885.78,
+      "end": 888.34,
+      "start_timestamp": "00:14:45.780",
+      "end_timestamp": "00:14:48.340",
+      "text": "qui dès aujourd'hui apparaît comme le vote utile à gauche."
+    }
+  ]
+}

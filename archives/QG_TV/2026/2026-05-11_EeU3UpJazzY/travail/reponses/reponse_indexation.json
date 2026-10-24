@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.1",
+  "video_id": "EeU3UpJazzY",
+  "resume_general": "Extrait d'une émission de QG consacré à la thèse de Manuel Cervera-Marzal selon laquelle Jean-Luc Mélenchon dispose d'une voie crédible vers la présidentielle de 2027. L'analyse combine sa progression électorale, le renforcement programmatique, militant et financier de LFI, l'usure et la dispersion du bloc central, la logique du vote utile et la menace potentielle d'une candidature de Dominique de Villepin.",
+  "themes_principaux": [
+    {"theme": "Probabilité d'une qualification de Mélenchon en 2027", "horodatages": ["00:00:24", "00:02:02", "00:14:01"]},
+    {"theme": "Renforcement de La France insoumise", "horodatages": ["00:03:00", "00:04:20", "00:05:27"]},
+    {"theme": "Affaiblissement et fragmentation du bloc central", "horodatages": ["00:06:05", "00:07:27", "00:08:27"]},
+    {"theme": "Vote utile à gauche", "horodatages": ["00:09:01", "00:14:01"]},
+    {"theme": "Dominique de Villepin comme outsider", "horodatages": ["00:09:54", "00:10:28", "00:11:24"]}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Limites des sondages en contexte volatil", "horodatages": ["00:00:56", "00:01:15"]},
+    {"sujet": "Écart de 400 000 voix au premier tour de 2022", "horodatages": ["00:02:23"]},
+    {"sujet": "Programme détaillé et reconnu de LFI", "horodatages": ["00:03:16"]},
+    {"sujet": "Adhérents et groupes d'action de LFI", "horodatages": ["00:04:20", "00:04:35"]},
+    {"sujet": "Contre-pouvoirs internes et implantation locale", "horodatages": ["00:05:02"]},
+    {"sujet": "Financement public et nombre de députés", "horodatages": ["00:05:27"]},
+    {"sujet": "Multiplication des candidatures centristes", "horodatages": ["00:07:27"]},
+    {"sujet": "Positions économiques et sociales de Villepin", "horodatages": ["00:11:24", "00:12:17"]},
+    {"sujet": "Mémoire politique du CPE", "horodatages": ["00:13:13"]}
+  ],
+  "mots_cles": ["Jean-Luc Mélenchon", "Manuel Cervera-Marzal", "François Boulo", "présidentielle 2027", "La France insoumise", "LFI", "vote utile", "bloc central", "macronisme", "Dominique de Villepin", "Jordan Bardella", "Rassemblement national", "programme", "militants", "sondages", "CPE"],
+  "variantes_lexicales": [
+    {"forme": "La France insoumise", "variantes": ["LFI", "mouvement insoumis"]},
+    {"forme": "bloc central", "variantes": ["centre", "extrême centre", "famille politique centrale"]},
+    {"forme": "contrat première embauche", "variantes": ["CPE"]}
+  ],
+  "personnes": [
+    {"nom": "Jean-Luc Mélenchon", "niveau": "developpe", "role": "candidat potentiel dont les chances sont analysées", "horodatages": ["00:00:24", "00:02:02", "00:14:42"]},
+    {"nom": "Manuel Cervera-Marzal", "niveau": "developpe", "role": "sociologue défendant la thèse d'une victoire possible", "horodatages": ["00:00:27", "00:02:08"]},
+    {"nom": "François Boulo", "niveau": "mention", "role": "participant annoncé dans le titre de l'émission"},
+    {"nom": "Jordan Bardella", "niveau": "developpe", "role": "candidat RN utilisé dans le sondage et scénario de second tour", "horodatages": ["00:01:01", "00:05:51"]},
+    {"nom": "Marine Le Pen", "niveau": "mention", "role": "candidate RN possible au second tour", "horodatages": ["00:05:51"]},
+    {"nom": "Fabien Roussel", "niveau": "developpe", "role": "candidat communiste de 2022", "horodatages": ["00:02:34", "00:09:07"]},
+    {"nom": "Emmanuel Macron", "niveau": "developpe", "role": "président dont l'impopularité pèserait sur le centre", "horodatages": ["00:06:24"]},
+    {"nom": "Dominique de Villepin", "niveau": "developpe", "role": "outsider centriste ou de droite jugé le plus menaçant", "horodatages": ["00:09:54", "00:10:28", "00:12:02"]},
+    {"nom": "Raphaël Glucksmann", "niveau": "mention", "role": "candidat potentiel du bloc central", "horodatages": ["00:07:35"]},
+    {"nom": "Gérald Darmanin", "niveau": "mention", "role": "candidat potentiel du bloc central", "horodatages": ["00:07:35"]},
+    {"nom": "Gabriel Attal", "niveau": "mention", "role": "candidat potentiel du bloc central", "horodatages": ["00:07:35"]},
+    {"nom": "Édouard Philippe", "niveau": "mention", "role": "candidat potentiel du bloc central", "horodatages": ["00:07:35"]}
+  ],
+  "organismes": [
+    {"nom": "QG", "niveau": "developpe", "type": "média producteur", "horodatages": ["00:00:21"]},
+    {"nom": "La France insoumise", "niveau": "developpe", "type": "organisation politique", "horodatages": ["00:03:10", "00:04:20"]},
+    {"nom": "Rassemblement national", "niveau": "developpe", "type": "parti politique", "horodatages": ["00:01:01", "00:05:51"]},
+    {"nom": "Parti communiste français", "niveau": "mention", "type": "parti politique", "horodatages": ["00:02:34"]},
+    {"nom": "Renaissance", "niveau": "developpe", "type": "parti du bloc central", "horodatages": ["00:08:16"]},
+    {"nom": "Horizons", "niveau": "developpe", "type": "parti du bloc central", "horodatages": ["00:08:16"]},
+    {"nom": "Odoxa", "niveau": "mention", "type": "institut de sondage", "horodatages": ["00:00:56"]},
+    {"nom": "Hors-Série", "niveau": "mention", "type": "site ayant publié les articles de Cervera-Marzal", "horodatages": ["00:00:35"]}
+  ],
+  "concepts": [
+    {"concept": "vote utile", "description": "concentration des voix sur le candidat perçu comme capable de se qualifier", "horodatages": ["00:09:01", "00:14:01"]},
+    {"concept": "effet d'entonnoir partisan", "description": "capacité d'un parti à réduire plusieurs ambitions à une candidature commune", "horodatages": ["00:07:51", "00:08:27"]},
+    {"concept": "parti de professionnels", "description": "organisation dominée par élus, salariés et auxiliaires politiques", "horodatages": ["00:03:43"]},
+    {"concept": "implantation militante", "description": "locaux, groupes d'action et boucles départementales", "horodatages": ["00:04:35", "00:05:02"]},
+    {"concept": "volatilité électorale", "description": "difficulté accrue à anticiper un scrutin", "horodatages": ["00:01:15"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Élection présidentielle de 2022", "niveau": "developpe", "horodatages": ["00:02:23", "00:09:01"]},
+    {"nom": "Élection présidentielle de 2027", "niveau": "developpe", "horodatages": ["00:00:24", "00:05:51"]},
+    {"nom": "Opposition française à la guerre en Irak de 2003", "niveau": "mention", "horodatages": ["00:11:17"]},
+    {"nom": "Contrat première embauche", "niveau": "developpe", "horodatages": ["00:13:13"]},
+    {"nom": "Sondage Odoxa de novembre 2025", "niveau": "developpe", "horodatages": ["00:00:56"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:21", "fin": "00:01:50", "contenu": "présentation de la thèse, sondages et cadrage médiatique"},
+    {"debut": "00:02:02", "fin": "00:02:49", "contenu": "progression électorale de Mélenchon"},
+    {"debut": "00:03:00", "fin": "00:05:51", "contenu": "programme, appareil militant, cadres et financements de LFI"},
+    {"debut": "00:05:51", "fin": "00:08:42", "contenu": "usure et dispersion du bloc central"},
+    {"debut": "00:08:43", "fin": "00:09:54", "contenu": "vote utile et hypothèse d'un outsider"},
+    {"debut": "00:09:54", "fin": "00:13:39", "contenu": "atouts et limites de Dominique de Villepin"},
+    {"debut": "00:14:01", "fin": "00:14:48", "contenu": "conclusion sur le vote utile"}
+  ],
+  "expressions_representatives": [
+    {"expression": "un boulevard vers le second tour", "horodatages": ["00:02:08"]},
+    {"expression": "force de frappe militante", "horodatages": ["00:05:20"]},
+    {"expression": "émiettement des candidatures du bloc central", "horodatages": ["00:08:27"]},
+    {"expression": "Villepin comme principale menace à surveiller", "horodatages": ["00:10:28"]}
+  ],
+  "citations_exactes": [
+    {"citation": "Aujourd'hui, je pense qu'il a un boulevard, très clairement.", "horodatage": "00:02:08"},
+    {"citation": "Le match est plié sur qui arrivera en tête à gauche.", "horodatage": "00:05:42"},
+    {"citation": "Dominique de Villepin, je serais Jean-Luc Mélenchon, c'est la menace que je surveillerais le plus de près.", "horodatage": "00:10:28"},
+    {"citation": "Je pense que c'est Jean-Luc Mélenchon qui dès aujourd'hui apparaît comme le vote utile à gauche.", "horodatage": "00:14:42"}
+  ],
+  "arguments_positions": [
+    {"auteur": "Manuel Cervera-Marzal", "position": "La qualification de Mélenchon est favorisée par sa progression, l'appareil de LFI et la faiblesse du centre.", "horodatages": ["00:02:08", "00:03:00", "00:06:05"]},
+    {"auteur": "Manuel Cervera-Marzal", "position": "Les candidatures multiples du centre pourraient abaisser le seuil de qualification.", "horodatages": ["00:07:27", "00:08:27"]},
+    {"auteur": "interlocuteurs de QG", "position": "Un outsider tel que Villepin pourrait empêcher le duel annoncé Mélenchon-RN.", "horodatages": ["00:09:18", "00:09:54"]},
+    {"auteur": "Manuel Cervera-Marzal", "position": "Villepin devra lever ses ambiguïtés économiques et assumer son identité de droite.", "horodatages": ["00:11:24", "00:13:00"]}
+  ],
+  "lieux_periodes": [
+    {"lieu_ou_periode": "France, élections 2012-2027", "description": "progression et perspective présidentielle de Mélenchon"},
+    {"lieu_ou_periode": "France, après dix ans de macronisme", "description": "usure politique du bloc central", "horodatages": ["00:06:05"]},
+    {"lieu_ou_periode": "Irak, 2003", "description": "référence à l'opposition de Villepin à la guerre", "horodatages": ["00:11:17"]}
+  ],
+  "relations_documentaires": [
+    {"source": "progression de Mélenchon en 2012, 2017 et 2022", "relation": "soutient", "cible": "hypothèse de qualification en 2027"},
+    {"source": "implantation et ressources de LFI", "relation": "renforcent", "cible": "capacité de campagne de Mélenchon"},
+    {"source": "dispersion du bloc central", "relation": "abaisse potentiellement", "cible": "seuil du second tour"},
+    {"source": "ambiguïtés socio-économiques de Villepin", "relation": "limitent", "cible": "potentiel de candidature outsider"}
+  ]
+}

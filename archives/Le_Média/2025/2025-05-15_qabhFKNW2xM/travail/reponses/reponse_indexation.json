@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.1",
+  "video_id": "qabhFKNW2xM",
+  "resume_general": "Numéro de L'Œil de MouMou en deux parties : chronique critique du traitement médiatique de plusieurs sujets, notamment le livre La Meute et LFI, puis entretien avec l'équipe de Sans transition, média TikTok engagé par et pour les minorités. L'émission aborde aussi une condamnation du Point, l'antisémitisme et l'essentialisation, des polémiques de plateaux, la neutralité journalistique, les formats courts et les violences en ligne.",
+  "themes_principaux": [
+    {"theme": "Critique des médias et doubles standards", "horodatages": ["00:03:01", "00:09:01", "00:18:03"]},
+    {"theme": "Traitement médiatique de La Meute et de LFI", "horodatages": ["00:12:00", "00:12:32"]},
+    {"theme": "Sans transition, média par et pour les minorités", "horodatages": ["00:24:02", "00:27:01"]},
+    {"theme": "Neutralité, engagement et ligne éditoriale", "horodatages": ["00:24:31", "00:36:07"]},
+    {"theme": "Réseaux sociaux, formats courts et modération", "horodatages": ["00:30:00", "00:33:15", "00:39:05", "00:42:00"]}
+  ],
+  "sujets_secondaires": [
+    {"sujet": "Développement du Média 24-7", "horodatages": ["00:00:00"]},
+    {"sujet": "Condamnation du Point et récit sur le Hamas", "horodatages": ["00:03:01"]},
+    {"sujet": "Cyril Hanouna, judéité présumée et essentialisation", "horodatages": ["00:06:02"]},
+    {"sujet": "Élisabeth Lévy et usage du terme islamophobie", "horodatages": ["00:09:01"]},
+    {"sujet": "Comparaison avec Goebbels et excuses à l'antenne", "horodatages": ["00:15:03"]},
+    {"sujet": "Véronique Jacquier, Pascal Praud et recolonisation", "horodatages": ["00:18:03"]},
+    {"sujet": "Une de L'Incorrect et représentation d'une victime", "horodatages": ["00:21:06"]},
+    {"sujet": "Autonomie des créateurs de Sans transition", "horodatages": ["00:30:00"]},
+    {"sujet": "Hugo Clément et normalisation de l'extrême droite", "horodatages": ["00:36:07"]},
+    {"sujet": "Harcèlement et commentaires hostiles", "horodatages": ["00:42:00"]}
+  ],
+  "mots_cles": ["L'Œil de MouMou", "Le Média", "La Meute", "LFI", "Jean-Luc Mélenchon", "critique des médias", "Sans transition", "TikTok", "minorités", "neutralité journalistique", "islamophobie", "antisémitisme", "essentialisation", "extrême droite", "modération", "formats courts"],
+  "variantes_lexicales": [
+    {"forme": "Le Média", "variantes": ["Le Média TV", "Le Média 24-7"]},
+    {"forme": "La France insoumise", "variantes": ["LFI", "les insoumis"]},
+    {"forme": "Sans transition", "variantes": ["Sans Transition"]}
+  ],
+  "personnes": [
+    {"nom": "Cyril Hanouna", "niveau": "developpe", "role": "animateur dont les réactions et l'identité présumée sont discutées", "horodatages": ["00:06:13", "00:12:08"]},
+    {"nom": "Jean-Luc Mélenchon", "niveau": "developpe", "role": "dirigeant LFI au centre du traitement de La Meute", "horodatages": ["00:12:17"]},
+    {"nom": "Élisabeth Lévy", "niveau": "developpe", "role": "éditorialiste dans un extrait commenté", "horodatages": ["00:09:18"]},
+    {"nom": "Pascal Praud", "niveau": "developpe", "role": "animateur de L'Heure des pros", "horodatages": ["00:18:26"]},
+    {"nom": "Véronique Jacquier", "niveau": "developpe", "role": "intervenante dont le propos sur la recolonisation est commenté", "horodatages": ["00:18:03"]},
+    {"nom": "Apolline de Malherbe", "niveau": "mention", "role": "journaliste évoquée dans la séquence sur les excuses", "horodatages": ["00:15:26"]},
+    {"nom": "Hugo Clément", "niveau": "developpe", "role": "journaliste critiqué pour donner la parole au RN", "horodatages": ["00:36:07"]},
+    {"nom": "Heidi", "niveau": "developpe", "role": "membre de Sans transition", "horodatages": ["00:23:00"]},
+    {"nom": "Amandine", "niveau": "developpe", "role": "membre de Sans transition", "horodatages": ["00:24:21"]},
+    {"nom": "Louis", "niveau": "developpe", "role": "membre de Sans transition", "horodatages": ["00:24:26"]},
+    {"nom": "Laurence Rees", "niveau": "mention", "role": "auteur recommandé en fin d'émission", "horodatages": ["00:45:10"]},
+    {"nom": "Léa Jaillard", "niveau": "mention", "role": "traductrice de l'ouvrage recommandé", "horodatages": ["00:45:06"]}
+  ],
+  "organismes": [
+    {"nom": "Le Média", "niveau": "developpe", "type": "média producteur de l'émission", "horodatages": ["00:00:00"]},
+    {"nom": "Le Point", "niveau": "developpe", "type": "hebdomadaire critiqué", "horodatages": ["00:03:08"]},
+    {"nom": "La France insoumise", "niveau": "developpe", "type": "mouvement politique", "horodatages": ["00:12:32"]},
+    {"nom": "Sans transition", "niveau": "developpe", "type": "média social engagé", "horodatages": ["00:24:02", "00:27:01"]},
+    {"nom": "L'Incorrect", "niveau": "developpe", "type": "média critiqué", "horodatages": ["00:21:15"]},
+    {"nom": "CNews", "niveau": "mention", "type": "chaîne citée comme référence de surenchère", "horodatages": ["00:21:23"]},
+    {"nom": "Rassemblement national", "niveau": "developpe", "type": "parti politique", "horodatages": ["00:36:11"]},
+    {"nom": "Urgence Palestine", "niveau": "mention", "type": "collectif mentionné en conclusion", "horodatages": ["00:45:33"]}
+  ],
+  "concepts": [
+    {"concept": "cadrage médiatique", "description": "sélection et présentation orientées des faits", "horodatages": ["00:03:16", "00:12:32"]},
+    {"concept": "essentialisation", "description": "réduction d'une personne à son identité présumée", "horodatages": ["00:06:18"]},
+    {"concept": "fausse neutralité", "description": "neutralité revendiquée masquant des choix éditoriaux", "horodatages": ["00:24:48", "00:27:36"]},
+    {"concept": "format natif TikTok", "description": "vidéo courte autonome conçue pour la plateforme", "horodatages": ["00:24:02", "00:33:29"]},
+    {"concept": "normalisation de l'extrême droite", "description": "tribune non critique accordée à ses représentants", "horodatages": ["00:36:07"]}
+  ],
+  "evenements_lois_reglementations": [
+    {"nom": "Condamnation judiciaire du Point", "niveau": "developpe", "horodatages": ["00:03:08"]},
+    {"nom": "Publication et emballement médiatique autour de La Meute", "niveau": "developpe", "horodatages": ["00:12:32"]},
+    {"nom": "Procédure de dissolution visant Urgence Palestine", "niveau": "mention", "horodatages": ["00:45:33"]}
+  ],
+  "reperes_temporels": [
+    {"debut": "00:00:00", "fin": "00:02:59", "contenu": "présentation des programmes du Média"},
+    {"debut": "00:03:00", "fin": "00:12:31", "contenu": "Point, Palestine, Hanouna, antisémitisme et plateaux"},
+    {"debut": "00:12:32", "fin": "00:17:59", "contenu": "réception médiatique de La Meute et analogie avec Goebbels"},
+    {"debut": "00:18:00", "fin": "00:22:59", "contenu": "recolonisation, limites de plateau et une de L'Incorrect"},
+    {"debut": "00:23:00", "fin": "00:35:59", "contenu": "présentation, ligne et formats de Sans transition"},
+    {"debut": "00:36:00", "fin": "00:43:59", "contenu": "engagement politique, développement et violences en ligne"},
+    {"debut": "00:44:00", "fin": "00:46:41", "contenu": "recommandation culturelle et conclusion"}
+  ],
+  "expressions_representatives": [
+    {"expression": "la meute médiatique contre les insoumis", "horodatages": ["00:12:32"]},
+    {"expression": "refuser la fausse neutralité", "horodatages": ["00:27:36"]},
+    {"expression": "un média par et pour les minorités", "horodatages": ["00:24:02"]},
+    {"expression": "aller droit au but en moins de deux minutes", "horodatages": ["00:33:29"]}
+  ],
+  "citations_exactes": [
+    {"citation": "Ça change un tout petit peu beaucoup, même ma perception de l'image.", "horodatage": "00:06:06"},
+    {"citation": "On ne veut plus voir cette fausse neutralité.", "horodatage": "00:27:36"},
+    {"citation": "Je décide de mon sujet, de A à Z.", "horodatage": "00:30:01"},
+    {"citation": "Donner la voix à l'extrême droite quand on se revendique soi-même écologiste, ça n'a pas forcément de sens.", "horodatage": "00:36:32"}
+  ],
+  "arguments_positions": [
+    {"auteur": "chroniqueurs de L'Œil de MouMou", "position": "La réception de La Meute s'inscrit dans un emballement médiatique hostile à LFI.", "horodatages": ["00:12:32"]},
+    {"auteur": "chroniqueurs de L'Œil de MouMou", "position": "Réduire une personne à sa judéité présumée reproduit une essentialisation.", "horodatages": ["00:06:18"]},
+    {"auteur": "équipe de Sans transition", "position": "La neutralité proclamée masque souvent des choix éditoriaux et doit être remplacée par un positionnement assumé.", "horodatages": ["00:24:31", "00:27:36"]},
+    {"auteur": "équipe de Sans transition", "position": "Donner une tribune non critique à l'extrême droite brouille les repères politiques.", "horodatages": ["00:36:32"]}
+  ],
+  "lieux_periodes": [
+    {"lieu_ou_periode": "France, mai 2025", "description": "actualité médiatique et politique commentée"},
+    {"lieu_ou_periode": "TikTok et Twitch", "description": "plateformes de diffusion présentes ou envisagées", "horodatages": ["00:24:02", "00:39:12"]},
+    {"lieu_ou_periode": "pays occidentaux", "description": "cadre de l'ouvrage recommandé sur l'escalade du racisme", "horodatages": ["00:45:00"]}
+  ],
+  "relations_documentaires": [
+    {"source": "La Meute", "relation": "déclenche", "cible": "séquence médiatique critiquée"},
+    {"source": "formats natifs TikTok", "relation": "constituent", "cible": "modèle éditorial de Sans transition"},
+    {"source": "fausse neutralité", "relation": "justifie", "cible": "positionnement engagé de Sans transition"},
+    {"source": "commentaires et menaces", "relation": "imposent", "cible": "travail de modération"}
+  ]
+}

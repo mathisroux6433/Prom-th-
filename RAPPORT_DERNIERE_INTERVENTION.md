@@ -1,96 +1,156 @@
 # Rapport de la dernière intervention
 
-Date de clôture : 2026-10-23 15:42:00 +09:00 (Asia/Tokyo)
+- Date de clôture : 2026-10-24 (Asia/Tokyo)
+- Nature : archivage documentaire complet d'une vidéo YouTube
+- Agent : Codex, agent documentaire de Prométhé
 
 ## A. Demande initiale
 
-L'utilisateur a fourni l'URL `https://youtu.be/Y2ZmDz3piEk?si=XYzN0XW3dFH7z2Ow` afin d'archiver la vidéo correspondante.
+L'utilisateur a fourni l'URL `https://youtu.be/EeU3UpJazzY?si=qGKB5bTucLBPXQxg`.
 
-Conformément à `AGENTS.md`, la demande a été interprétée comme l'exécution du pipeline documentaire complet : métadonnées, téléchargement audio, transcription Whisper intégrale et horodatée, correction contextuelle, synthèse approfondie, index sémantique, contrôle qualité et vérification finale.
+Selon la méthode permanente de `AGENTS.md`, cette demande a été traitée comme un archivage documentaire complet : récupération des métadonnées et de l'audio, transcription Whisper intégrale, correction contextuelle, synthèse approfondie, index sémantique, contrôle qualité et vérification finale.
 
 ## B. État initial
 
-- La vidéo `Y2ZmDz3piEk` était absente de la bibliothèque.
-- La commande `promethe`, Faster-Whisper, le modèle `medium` et CUDA étaient disponibles.
-- Le dépôt comportait déjà des changements et archives produits par les interventions antérieures. Ils ont été préservés.
-- L'accès réseau nécessaire à YouTube a été autorisé. La tentative normale a fonctionné ; aucun repli Firefox n'a été nécessaire.
+- Aucune archive portant l'identifiant YouTube `EeU3UpJazzY` n'existait dans la bibliothèque.
+- Le pipeline Prométhé et l'environnement virtuel étaient opérationnels.
+- Le modèle existant `medium` sur CUDA a été conservé.
+- Aucun changement de code, d'architecture ou de dépendance n'était nécessaire.
+- Le dernier rapport historique portait le numéro `0015`.
 
 ## C. Travail effectué
 
-### Acquisition et transcription
+### 1. Pipeline automatique
 
-La commande principale exécutée a été :
+La commande suivante a été lancée depuis `C:\Prométhé` :
 
-`promethe traiter "https://youtu.be/Y2ZmDz3piEk?si=XYzN0XW3dFH7z2Ow"`
+```powershell
+.\.venv\Scripts\promethe.exe reprendre "https://youtu.be/EeU3UpJazzY?si=qGKB5bTucLBPXQxg"
+```
 
-Le pipeline a récupéré les métadonnées, téléchargé `audio.webm` et transcrit la vidéo avec Faster-Whisper, modèle `medium`, appareil `cuda`. L'archive a été créée dans `archives/Radio_Maudin/2026/2026-10-21_Y2ZmDz3piEk`.
+La commande `reprendre` a constaté l'absence d'archive antérieure et a créé :
 
-### Correction contextuelle
+`archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/`
 
-La requête a été exportée avec `promethe exporter-correction Y2ZmDz3piEk`. Une correction conservatrice a été importée avec `promethe corriger-transcription`, en préservant strictement les segments et horodatages. Aucun changement suffisamment certain n'a été retenu ; l'état enregistre donc une correction terminée avec `changed: false`. `transcription_brute.txt` n'a jamais été modifiée.
+Le pipeline a récupéré les métadonnées, téléchargé l'audio WebM et produit la transcription brute horodatée ainsi que les segments JSON. La tentative YouTube normale a réussi ; le repli Firefox n'a pas été requis. `yt-dlp` a émis un avertissement non bloquant relatif à l'absence de runtime JavaScript détecté.
 
-### Synthèse documentaire
+### 2. Correction contextuelle
 
-Une synthèse approfondie, structurée et horodatée a été produite dans `travail/reponses/reponse_synthese.md`, puis importée avec `promethe regenerer-synthese`.
+Commandes utilisées :
 
-Elle couvre le débat sur la qualification de « dommage collatéral », le cadrage d'un supposé virage idéologique, la distinction entre manifestations, émeutes et pillages, la critique de la gauche et de l'extrême gauche, le rôle de l'État, la comparaison avec les Gilets jaunes et les agriculteurs, la digression sur le 17 octobre 1961 et la rivalité FLN-MNA, ainsi que l'usage du capitalisme ou de la révolution comme explication des violences. Les prises de position sont attribuées à Radio Maudin ou aux participantes et ne sont pas transformées en faits externes établis.
+```powershell
+promethe exporter-correction EeU3UpJazzY
+promethe corriger-transcription EeU3UpJazzY --importer archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/travail/reponses/reponse_correction.txt
+```
 
-### Indexation sémantique
+- `transcription_brute.txt` n'a pas été modifié.
+- Les horodatages, le nombre de segments et leur ordre ont été strictement préservés.
+- La correction prudente a notamment normalisé les noms Manuel Cervera-Marzal, François Boulo, Jean-Luc Mélenchon, La France insoumise et Hors-Série lorsqu'ils étaient manifestement mal reconnus.
+- Aucun passage n'a été résumé ou réécrit dans la transcription corrigée.
 
-Un index JSON au schéma 1.1 a été produit dans `travail/reponses/reponse_indexation.json`, puis importé avec `promethe regenerer-index`. Il contient résumé, thèmes, sujets secondaires, arguments, concepts, événements, personnes, organismes, lieux, mots-clés, citations, relations documentaires, variantes lexicales et six repères temporels couvrant toute la vidéo.
+### 3. Synthèse approfondie
 
-### Contrôle qualité
+Commandes utilisées :
 
-La requête a été exportée avec `promethe exporter-controle Y2ZmDz3piEk`. La synthèse a été contrôlée contre la transcription corrigée et l'index, sans fact-checking externe. Le verdict `conforme` a été importé avec `promethe relire-synthese`, qui a créé `rapport_controle_qualite.md`.
+```powershell
+promethe exporter-synthese EeU3UpJazzY
+promethe regenerer-synthese EeU3UpJazzY --importer archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/travail/reponses/reponse_synthese.md
+```
 
-### Fichiers créés ou modifiés
+La synthèse couvre :
 
-L'archive contient :
+- la progression électorale de Mélenchon jusqu'en 2022 ;
+- le renforcement programmatique, militant, parlementaire et financier de LFI ;
+- l'usure et la dispersion du bloc central après le macronisme ;
+- le rôle du vote utile ;
+- les incertitudes liées aux sondages et à un éventuel outsider ;
+- les atouts et faiblesses de Dominique de Villepin ;
+- la différence entre une voie crédible vers le second tour et une victoire finale, beaucoup moins développée dans l'extrait.
 
-- `metadata.json` ;
-- `audio.webm` ;
-- `segments.json` ;
-- `transcription_brute.txt` ;
-- `transcription_corrigee.txt` ;
-- `synthese_video.md` ;
-- `index_video.json` ;
-- `etat_pipeline.json` ;
-- `rapport_controle_qualite.md` ;
-- les dossiers de travail et d'historique attendus.
+Les chiffres et jugements sont attribués aux intervenants et ne sont pas présentés comme un fact-checking externe.
 
-Hors archive, seul `RAPPORT_DERNIERE_INTERVENTION.md` a été remplacé. Après sa finalisation, il a été copié sous `rapports/0014_2026-10-23_154200_RAPPORT_INTERVENTION.md`. Aucun fichier n'a été déplacé ou supprimé et aucun fichier de programme n'a été modifié.
+### 4. Index sémantique
+
+Commandes utilisées :
+
+```powershell
+promethe exporter-index EeU3UpJazzY
+promethe regenerer-index EeU3UpJazzY --importer archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/travail/reponses/reponse_indexation.json
+```
+
+L'index au schéma `1.1` documente les thèmes principaux et secondaires, les personnes, organismes, concepts, événements, variantes lexicales, mots-clés, citations, positions, repères temporels et relations documentaires. Il rend notamment découvrables le vote utile, l'effet d'entonnoir partisan, l'implantation militante, le CPE, le sondage Odoxa, la fragmentation du centre et la candidature Villepin.
+
+### 5. Contrôle qualité et vérification
+
+Commandes utilisées :
+
+```powershell
+promethe exporter-controle EeU3UpJazzY
+promethe relire-synthese EeU3UpJazzY --importer archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/travail/reponses/reponse_controle_qualite.json
+promethe verifier EeU3UpJazzY
+```
+
+Le contrôle interne a comparé la synthèse à la transcription corrigée et à l'index. Verdict : `conforme`, aucun problème confirmé et aucune réécriture supplémentaire nécessaire.
+
+### 6. Fichiers créés
+
+Dans `archives/QG_TV/2026/2026-05-11_EeU3UpJazzY/` :
+
+- `metadata.json`
+- `audio.webm`
+- `segments.json`
+- `transcription_brute.txt`
+- `transcription_corrigee.txt`
+- `synthese_video.md`
+- `index_video.json`
+- `rapport_controle_qualite.md`
+- `etat_pipeline.json`
+
+Les requêtes et réponses de travail ont été conservées dans `travail/requetes/` et `travail/reponses/`. Les répertoires `travail/candidates/` et `historique/anciennes_versions/` sont présents. Aucun fichier n'a été déplacé ou supprimé, hormis le remplacement réglementaire du contenu du rapport courant par celui de cette intervention.
+
+### 7. Décisions d'architecture et commandes utilisateur
+
+- Aucun fichier concurrent suffixé `V2`, `copie`, `nouveau` ou `backup` n'a été créé.
+- Aucun code source, test, dépendance ou réglage du modèle n'a été modifié.
+- La commande utilisateur touchée est uniquement le traitement/reprise de l'URL par le CLI Prométhé et les commandes documentaires d'échange listées ci-dessus.
 
 ## D. Résultats
 
-- Identifiant : `Y2ZmDz3piEk`.
-- Titre : `CETTE GAUCHISTE VIRE À DROITE EN DIRECT APRÈS LE 17 OCTOBRE`.
-- Chaîne : `Radio Maudin`.
-- Date de publication : 21 octobre 2026.
-- Durée : 00:28:52, soit 1 732 secondes.
-- Audio : complet, `audio.webm`, 25 946 452 octets.
-- Métadonnées : complètes, 755 octets.
-- Segments Whisper : complets, 135 247 octets.
-- Transcription brute : complète, 51 842 octets.
-- Transcription corrigée : complète, 51 842 octets, sans changement retenu.
-- Synthèse : complète, 5 844 octets.
-- Index : complet, schéma 1.1, 7 867 octets.
-- Contrôle qualité : complet, verdict `conforme`.
-- `promethe verifier Y2ZmDz3piEk` retourne `complete: true`, `audio: true`, `validated_steps: true` et confirme tous les fichiers et dossiers attendus.
+### Vidéo archivée
 
-## Validations réalisées
+- Identifiant : `EeU3UpJazzY`
+- Titre : *« Mélenchon peut-il gagner en 2027 ? » avec Manuel Cervera-Marzal et François Boulo*
+- Chaîne : QG TV
+- Date de publication : 2026-05-11
+- Durée : 888 secondes, soit 14 min 48 s
+- Métadonnées : complètes, `metadata.json` (2 192 octets)
+- Audio : complet, `audio.webm` (12 850 355 octets)
+- Segments : complets, `segments.json` (46 031 octets)
+- Transcription brute : complète, 22 639 octets
+- Transcription corrigée : complète, 22 639 octets
+- Synthèse : complète, 8 066 octets
+- Index : complet, 13 078 octets
+- Contrôle qualité : complet, verdict `conforme`
+- État du pipeline : toutes les étapes validées
 
-- Téléchargement YouTube terminé sans erreur.
-- Transcription Whisper `medium` sur CUDA terminée.
-- Correction validée structurellement par l'importeur.
-- Synthèse et index importés dans les fichiers de référence.
-- Index JSON validé au schéma 1.1.
-- Contrôle qualité importé avec verdict `conforme`.
-- Vérification finale réussie avec `promethe verifier Y2ZmDz3piEk`.
-- Inventaire final des fichiers et tailles effectué.
-- SHA-256 du rapport courant et de sa copie historique calculés après la copie et vérifiés strictement identiques.
+### Vérification finale
 
-## Limites restantes
+`promethe verifier EeU3UpJazzY` a retourné :
 
-- Aucun fact-checking externe n'a été effectué. Les interprétations historiques et politiques restent attribuées aux intervenants.
-- La correction contextuelle n'a retenu aucun changement certain ; quelques erreurs acoustiques peuvent subsister dans les passages dialogués.
-- Le « virage à droite » annoncé par le titre est traité comme le cadrage de Radio Maudin : la vidéo montre surtout une contestation de certains arguments, pas l'adhésion explicite à un programme politique complet.
+- `complete: true`
+- `audio: true`
+- `validated_steps: true`
+- les huit fichiers obligatoires présents ;
+- les quatre éléments de structure (`travail/requetes`, `travail/reponses`, `travail/candidates`, `historique/anciennes_versions`) présents.
+
+### Limites restantes
+
+- Des erreurs lexicales ponctuelles non manifestes peuvent subsister dans une transcription automatique ; aucune correction spéculative n'a été introduite.
+- Les chiffres politiques et sondages cités sont archivés comme propos de la vidéo, sans vérification externe.
+- L'extrait développe surtout la qualification au second tour ; la victoire finale annoncée dans la thèse est moins argumentée.
+- L'avertissement `yt-dlp` relatif au runtime JavaScript n'a eu aucun impact sur ce téléchargement.
+- Aucune limite ne bloque l'usage documentaire : l'archive est complète.
+
+## E. Clôture et intégrité
+
+Après finalisation de ce rapport, il doit être copié sous `rapports/0016_2026-10-24_115058_RAPPORT_INTERVENTION.md`. Les SHA-256 du rapport courant et de cette copie doivent ensuite être calculés et vérifiés strictement identiques, sans modification ultérieure des deux fichiers.
